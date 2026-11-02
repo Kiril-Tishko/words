@@ -18,7 +18,7 @@
   "lvl": null,
   "labels": [],
   "note": "акорд = musical chord; 'accord' (agreement) = згода, угода",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-027.json"
  },
  {
@@ -73,7 +73,7 @@
   "lvl": null,
   "labels": [],
   "note": "агрегат = a machine or unit (e.g. a power unit); an aggregate (total) = сукупність, сума",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-022.json"
  },
  {
@@ -86,6 +86,17 @@
   "note": "аналітик = analyst (person); analytic = analytical (adj.).",
   "checked": 1,
   "src": "scan-005.json"
+ },
+ {
+  "en": "angina",
+  "uk": "ангіна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English: chest pain (angina pectoris); Ukrainian: tonsillitis, sore throat.",
+  "checked": 1,
+  "src": "verify-086.json"
  },
  {
   "en": "aspirant",
@@ -119,6 +130,17 @@
   "note": "банда = gang; English banda is a Mexican brass-band music style.",
   "checked": 1,
   "src": "verify-070.json"
+ },
+ {
+  "en": "basilica",
+  "uk": "базилік",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "базилік = basil (herb); basilica = базиліка.",
+  "checked": 1,
+  "src": "scan-018.json"
  },
  {
   "en": "baton",
@@ -178,13 +200,13 @@
  {
   "en": "bra",
   "uk": "бра",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "бра is a wall lamp (sconce); bra is бюстгальтер",
+  "note": "бра = wall lamp (sconce); bra = бюстгальтер.",
   "checked": 1,
-  "src": "verify-047.json"
+  "src": "scan-018.json"
  },
  {
   "en": "brat",
@@ -200,13 +222,13 @@
  {
   "en": "brigadier",
   "uk": "бригадир",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "бригадир = foreman, team leader; the army rank is бригадний генерал.",
+  "note": "бригадир = foreman, team leader; brigadier = an army officer rank.",
   "checked": 1,
-  "src": "verify-052.json"
+  "src": "scan-018.json"
  },
  {
   "en": "bucket",
@@ -218,6 +240,17 @@
   "note": "букет = bouquet; bucket = відро.",
   "checked": 1,
   "src": "scan-005.json"
+ },
+ {
+  "en": "bullion",
+  "uk": "бульйон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "bullion = gold or silver bars; бульйон = broth (bouillon).",
+  "checked": 1,
+  "src": "scan-017.json"
  },
  {
   "en": "button",
@@ -293,7 +326,7 @@
   "lvl": null,
   "labels": [],
   "note": "картон = cardboard; a cartoon is мультфільм or карикатура.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-018.json"
  },
  {
@@ -429,6 +462,17 @@
   "src": "verify-042.json"
  },
  {
+  "en": "confuse",
+  "uk": "конфуз",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "конфуз = an embarrassing situation; confuse (verb) = збивати з пантелику.",
+  "checked": 1,
+  "src": "scan-018.json"
+ },
+ {
   "en": "convert",
   "uk": "конверт",
   "pos": "noun",
@@ -447,8 +491,30 @@
   "lvl": null,
   "labels": [],
   "note": "корд = tyre cord fabric or a lunge line for horses; a cord/string is шнур.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-021.json"
+ },
+ {
+  "en": "cotta",
+  "uk": "котта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English: a short church surplice; Ukrainian: a medieval tunic.",
+  "checked": 1,
+  "src": "verify-080.json"
+ },
+ {
+  "en": "couplet",
+  "uk": "куплет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "uk куплет = verse (stanza) of a song; couplet = двовірш",
+  "checked": 1,
+  "src": "verify-103.json"
  },
  {
   "en": "cross",
@@ -572,6 +638,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "dynamic",
+  "uk": "динамік",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "динамік = loudspeaker; dynamic = динамічний.",
+  "checked": 1,
+  "src": "scan-018.json"
+ },
+ {
   "en": "electric",
   "uk": "електрик",
   "pos": "noun",
@@ -583,6 +660,28 @@
   "src": "scan-011.json"
  },
  {
+  "en": "ellipsis",
+  "uk": "еліпсис",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "еліпс = ellipse (curve); ellipsis is еліпсис, the mark is три крапки.",
+  "checked": 1,
+  "src": "verify-109.json"
+ },
+ {
+  "en": "energetic",
+  "uk": "енергетик",
+  "pos": "adj",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "енергетик = energy drink or power engineer; energetic = енергійний.",
+  "checked": 1,
+  "src": "scan-017.json"
+ },
+ {
   "en": "entourage",
   "uk": "антураж",
   "pos": "noun",
@@ -592,6 +691,17 @@
   "note": "антураж = surroundings, setting, atmosphere; entourage = group of attendants.",
   "checked": 1,
   "src": "scan-020.json"
+ },
+ {
+  "en": "expanse",
+  "uk": "експансія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "експансія = expansion (territorial, economic); expanse = широкий простір",
+  "checked": 1,
+  "src": "scan-013.json"
  },
  {
   "en": "expertise",
@@ -660,6 +770,17 @@
   "src": "verify-033.json"
  },
  {
+  "en": "filial",
+  "uk": "філіал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "філіал = branch (office) of a company; filial = синівський/дочірній (of a son or daughter)",
+  "checked": 1,
+  "src": "scan-013.json"
+ },
+ {
   "en": "flagman",
   "uk": "флагман",
   "pos": "noun",
@@ -691,6 +812,17 @@
   "note": "френч = a military-style jacket (named after Field Marshal John French); the French language is французька.",
   "checked": 2,
   "src": "verify-001.json"
+ },
+ {
+  "en": "fresh",
+  "uk": "фреш",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фреш = freshly squeezed juice (noun); fresh = свіжий (adjective).",
+  "checked": 1,
+  "src": "scan-018.json"
  },
  {
   "en": "frock",
@@ -726,6 +858,17 @@
   "src": "scan-012.json"
  },
  {
+  "en": "genial",
+  "uk": "геніальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genial = friendly, cheerful; геніальний = brilliant, of genius.",
+  "checked": 1,
+  "src": "verify-089.json"
+ },
+ {
   "en": "grand",
   "uk": "гранд",
   "pos": "",
@@ -744,7 +887,7 @@
   "lvl": null,
   "labels": [],
   "note": "гранд = grandee (Spanish noble) or a top sports club; grande is a coffee cup size.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-021.json"
  },
  {
@@ -847,6 +990,17 @@
   "src": "scan-006.json"
  },
  {
+  "en": "intelligent",
+  "uk": "інтелігент",
+  "pos": "adj",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "інтелігент = an intellectual (person); intelligent = розумний.",
+  "checked": 1,
+  "src": "scan-017.json"
+ },
+ {
   "en": "international",
   "uk": "інтернаціонал",
   "pos": "",
@@ -869,6 +1023,17 @@
   "src": "scan-012.json"
  },
  {
+  "en": "julienne",
+  "uk": "жульєн",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian жульєн = a baked dish of mushrooms/chicken in cream sauce; English julienne = food cut into thin strips.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
   "en": "lac",
   "uk": "лак",
   "pos": "",
@@ -880,6 +1045,17 @@
   "src": "verify-051.json"
  },
  {
+  "en": "lapis",
+  "uk": "ляпіс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ляпіс = silver nitrate (caustic stick); lapis lazuli = лазурит",
+  "checked": 1,
+  "src": "verify-085.json"
+ },
+ {
   "en": "latina",
   "uk": "латина",
   "pos": "",
@@ -889,6 +1065,17 @@
   "note": "латина = Latin (the language)",
   "checked": 1,
   "src": "verify-048.json"
+ },
+ {
+  "en": "lipa",
+  "uk": "липа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "In English: a former Croatian coin (1/100 kuna), not a tree.",
+  "checked": 1,
+  "src": "verify-098.json"
  },
  {
   "en": "list",
@@ -1089,6 +1276,17 @@
   "src": "scan-008.json"
  },
  {
+  "en": "modeler",
+  "uk": "модельєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "modeler = maker of models (clay, 3D, computer); модельєр = fashion designer",
+  "checked": 1,
+  "src": "verify-122.json"
+ },
+ {
   "en": "morale",
   "uk": "мораль",
   "pos": "",
@@ -1142,6 +1340,17 @@
   "note": "націонал = colloquial 'nationalist' or part of compounds; 'national' is національний.",
   "checked": 2,
   "src": "verify-000.json"
+ },
+ {
+  "en": "note",
+  "uk": "ноут",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ноут (informal) = laptop; note = записка, нотатка.",
+  "checked": 1,
+  "src": "scan-017.json"
  },
  {
   "en": "nova",
@@ -1221,6 +1430,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "patriarchy",
+  "uk": "патріархія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "патріархія = patriarchate (church governed by a patriarch, its office); patriarchy (social system) = патріархат",
+  "checked": 1,
+  "src": "scan-013.json"
+ },
+ {
   "en": "pension",
   "uk": "пансіон",
   "pos": "",
@@ -1287,6 +1507,28 @@
   "src": "scan-012.json"
  },
  {
+  "en": "pique",
+  "uk": "піке",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "піке = an aircraft's nosedive; pique = irritation, to arouse (interest)",
+  "checked": 1,
+  "src": "verify-075.json"
+ },
+ {
+  "en": "planner",
+  "uk": "планер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "планер = glider (aircraft); planner = планувальник (colloquially also планер for a planner notebook).",
+  "checked": 1,
+  "src": "scan-018.json"
+ },
+ {
   "en": "pope",
   "uk": "поп",
   "pos": "",
@@ -1309,6 +1551,17 @@
   "src": "scan-000.json"
  },
  {
+  "en": "preservative",
+  "uk": "презерватив",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "презерватив = condom; preservative = консервант",
+  "checked": 1,
+  "src": "scan-013.json"
+ },
+ {
   "en": "pretense",
   "uk": "претензія",
   "pos": "",
@@ -1318,6 +1571,17 @@
   "note": "претензія = claim, complaint (pretension); pretense is удавання.",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "projector",
+  "uk": "прожектор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "прожектор = searchlight, floodlight; projector = проектор.",
+  "checked": 1,
+  "src": "scan-018.json"
  },
  {
   "en": "prospect",
@@ -1353,6 +1617,39 @@
   "src": "verify-000.json"
  },
  {
+  "en": "quant",
+  "uk": "квант",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian квант = quantum (physics); English quant = a quantitative analyst (finance).",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "rabat",
+  "uk": "рабат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "In English: a clerical collar (rare); not a discount.",
+  "checked": 1,
+  "src": "verify-098.json"
+ },
+ {
+  "en": "rapid",
+  "uk": "рапід",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian рапід = slow motion (replay); English rapid = fast.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
   "en": "rapport",
   "uk": "рапорт",
   "pos": "",
@@ -1362,6 +1659,28 @@
   "note": "рапорт = official (military) report; rapport = взаєморозуміння.",
   "checked": 1,
   "src": "verify-060.json"
+ },
+ {
+  "en": "reformatory",
+  "uk": "реформатор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "реформатор = reformer; reformatory = виправна установа для неповнолітніх",
+  "checked": 1,
+  "src": "scan-013.json"
+ },
+ {
+  "en": "requisite",
+  "uk": "реквізит",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "реквізит = stage/film props; реквізити = (bank) details; requisite = a necessary thing.",
+  "checked": 1,
+  "src": "scan-018.json"
  },
  {
   "en": "review",
@@ -1470,8 +1789,19 @@
   "lvl": null,
   "labels": [],
   "note": "шаг = old Ukrainian coin (half a kopeck); a shah (ruler) is шах",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-027.json"
+ },
+ {
+  "en": "shocker",
+  "uk": "шокер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "шокер = stun gun; shocker = something shocking.",
+  "checked": 1,
+  "src": "scan-018.json"
  },
  {
   "en": "smoking",
@@ -1540,6 +1870,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "statistic",
+  "uk": "статистик",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian статистик = statistician; a statistic = статистичний показник.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
   "en": "step",
   "uk": "степ",
   "pos": "noun",
@@ -1606,6 +1947,17 @@
   "src": "scan-008.json"
  },
  {
+  "en": "tabor",
+  "uk": "табор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian табор = camp (e.g. Roma camp); the small drum is тамбурин",
+  "checked": 1,
+  "src": "verify-085.json"
+ },
+ {
   "en": "talon",
   "uk": "талон",
   "pos": "",
@@ -1661,6 +2013,17 @@
   "src": "scan-004.json"
  },
  {
+  "en": "trampoline",
+  "uk": "трамплін",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian трамплін = springboard, ski jump; a trampoline = батут.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
   "en": "trans",
   "uk": "транс",
   "pos": "",
@@ -1670,6 +2033,28 @@
   "note": "транс = trance; transgender is трансгендер",
   "checked": 2,
   "src": "verify-010.json"
+ },
+ {
+  "en": "trap",
+  "uk": "трап",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian трап = gangway, boarding stairs; a trap = пастка.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "travesty",
+  "uk": "травесті",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian травесті = a stage role played by an actor of the opposite sex / drag show; English travesty = a grotesque imitation, mockery.",
+  "checked": 1,
+  "src": "scan-019.json"
  },
  {
   "en": "trek",
@@ -1694,6 +2079,17 @@
   "src": "verify-070.json"
  },
  {
+  "en": "valet",
+  "uk": "валет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian валет = jack (playing card); English valet = manservant, parking attendant.",
+  "checked": 1,
+  "src": "scan-019.json"
+ },
+ {
   "en": "vice",
   "uk": "віце",
   "pos": "",
@@ -1703,6 +2099,17 @@
   "note": "vice = a bad habit (порок); віце- is only the prefix vice- (віце-президент).",
   "checked": 1,
   "src": "verify-005.json"
+ },
+ {
+  "en": "visage",
+  "uk": "візаж",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian візаж = make-up artistry; English visage = face (literary).",
+  "checked": 1,
+  "src": "scan-019.json"
  },
  {
   "en": "wall",
