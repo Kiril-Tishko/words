@@ -40,10 +40,16 @@ def main():
             senses[d['w']].append((d.get('pos'), {EN_TAGS[t] for t in tags if t in EN_TAGS}))
 
     uk_reg = defaultdict(set)
+    neutral = set()   # Ukrainian words VESUM lists as ordinary entries without a register tag
+    for fn in ('base.lst', 'base-compound.lst', 'base-composite.lst'):
+        for line in open(f'{DICT_UK}/{fn}', encoding='utf-8'):
+            line = line.split('#')[0].strip()
+            if line and not re.search(r':(rare|coll|bad|slang|arch)\b', line):
+                neutral.add(line.split()[0].lower())
     for fn, tag in (('slang.lst', 'slang'), ('arch.lst', 'archaic'), ('alt.lst', 'nonstandard')):
         for line in open(f'{DICT_UK}/{fn}', encoding='utf-8'):
             line = line.split('#')[0].strip()
-            if line:
+            if line and not (tag == 'nonstandard' and line.split()[0].lower() in neutral):
                 uk_reg[line.split()[0].lower()].add(tag)
     for fn in ('base.lst', 'base-compound.lst'):
         for line in open(f'{DICT_UK}/{fn}', encoding='utf-8'):
@@ -79,8 +85,9 @@ def main():
         ukr = uk_reg.get(w['uk'].lower(), set())
         z_uk = wordfreq.zipf_frequency(w['uk'].lower(), 'uk')
         z_en = wordfreq.zipf_frequency(en.lower(), 'en')
+        agent_ok = bool(agent - set(en_labels)) and w['uk'].lower() not in neutral
         uk_nonstd = (bool(ukr & {'slang', 'informal', 'archaic', 'obsolete', 'nonstandard', 'rare'})
-                     or bool(agent - set(en_labels)) or (z_uk < 2.0 and z_en >= 3.5))
+                     or agent_ok or (z_uk < 2.0 and z_en >= 3.5))
         out[en] = {'en': en_labels, 'uk_nonstd': uk_nonstd}
         stats['en_labeled'] += bool(en_labels)
         stats['uk_nonstd'] += uk_nonstd

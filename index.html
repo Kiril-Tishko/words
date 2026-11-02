@@ -69,8 +69,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
 @media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 640px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } }
+@media (max-width: 480px) { .grid { grid-template-columns: minmax(0, 1fr); } .grid .card { aspect-ratio: 5 / 4; } }
 
-.card { position: relative; perspective: 1000px; aspect-ratio: 4 / 3; cursor: pointer; border-radius: 14px; max-width: 100%; }
+.card { position: relative; perspective: 1000px; aspect-ratio: 1 / 1; cursor: pointer; border-radius: 14px; max-width: 100%; }
 .inner { position: absolute; inset: 0; transition: transform .45s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
 .card.flipped .inner { transform: rotateY(180deg); }
 .face {
@@ -79,12 +80,12 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
   padding: 14px; text-align: center; min-width: 0;
 }
-.back { transform: rotateY(180deg); justify-content: flex-start; align-items: stretch; text-align: left; gap: 8px; }
+.back { transform: rotateY(180deg); justify-content: flex-start; align-items: stretch; text-align: left; gap: 8px; overflow-y: auto; scrollbar-width: thin; }
 .en, .uk { font-family: var(--word); line-height: 1.15; overflow-wrap: anywhere; hyphens: auto; max-width: 100%; }
 .en { font-size: clamp(19px, 2.2vw, 26px); font-weight: 600; }
 .eq { color: var(--muted); font-size: 16px; line-height: 1; }
 .uk { font-size: clamp(17px, 1.9vw, 22px); font-weight: 500; color: var(--muted); }
-.use { margin-top: 4px; font-size: 11.5px; letter-spacing: .04em; color: var(--muted); text-transform: lowercase; }
+.more { display: flex; justify-content: center; padding-top: 8px; }
 .flag { position: absolute; top: 10px; left: 10px; width: 20px; height: 13px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 .icon {
   position: absolute; width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; color: var(--muted);
@@ -95,7 +96,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .add { top: 6px; right: 6px; }
 .add.on { color: var(--accent); }
 .back .head { font-family: var(--word); font-weight: 600; font-size: 17px; padding-right: 30px; }
-.back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13.5px; line-height: 1.35; }
+.back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13px; line-height: 1.32; }
 .back .note { margin-top: auto; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag { font-size: 11.5px; letter-spacing: .02em; color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
@@ -138,6 +139,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       <button class="chip" id="v-single" data-view="single">One by one</button>
       <button class="chip" id="v-shuffle" title="Shuffle">Shuffle</button>
       <select class="chip" id="topic" aria-label="Topic"></select>
+      <button class="chip" id="f-ns" aria-pressed="false" title="Hide cards whose Ukrainian word is slang, colloquial, rare or archaic">Hide slang</button>
     </div>
     <div class="count" id="count"></div>
   </div>
@@ -157,7 +159,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   };
   let mine = new Set(store.get('sw.mine', []));
-  let state = { level: LEVELS[0], view: store.get('sw.view', 'grid'), order: null, idx: 0, topic: '' };
+  let state = { level: LEVELS[0], view: store.get('sw.view', 'grid'), order: null, idx: 0, topic: '', hideNs: store.get('sw.hideNs', false) };
+  const BY_ID = new Map(WORDS.map(w => [w.id, w]));
+  const PAGE = 120;
   const TOPIC_NAMES = { food: 'Food', drinks: 'Drinks', sport: 'Sport', music: 'Music', art: 'Art', media: 'Media', tech: 'Tech',
     science: 'Science', medicine: 'Medicine', chemistry: 'Chemistry', physics: 'Physics', biology: 'Biology', math: 'Math',
     transport: 'Transport', clothing: 'Clothing', home: 'Home', business: 'Business', finance: 'Finance', politics: 'Politics',
@@ -188,9 +192,42 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     } catch (e) {}
   }
 
+  // recorded pronunciations: words are packed in audio bundles; each word knows [bundle, start, duration]
+  const AUDIO = window.AUDIO || null;
+  let actx = null, playing = null;
+  const bundles = {};
+  function audioCtx() {
+    if (!actx) { const C = window.AudioContext || window.webkitAudioContext; if (C) actx = new C(); }
+    return actx;
+  }
+  function loadBundle(i) {
+    if (!bundles[i]) {
+      bundles[i] = fetch('audio/' + AUDIO.chunks[i])
+        .then(r => { if (!r.ok) throw new Error('audio ' + r.status); return r.arrayBuffer(); })
+        .then(buf => new Promise((res, rej) => audioCtx().decodeAudioData(buf, res, rej)));
+      bundles[i].catch(() => { delete bundles[i]; });
+    }
+    return bundles[i];
+  }
+  function playWord(w) {
+    if (!w) return;
+    const c = AUDIO && w.au ? audioCtx() : null;
+    if (!c) { speak(w.en); return; }
+    if (c.state === 'suspended') c.resume();
+    loadBundle(w.au[0]).then(buf => {
+      if (playing) { try { playing.stop(); } catch (e) {} }
+      const src = c.createBufferSource();
+      src.buffer = buf; src.connect(c.destination);
+      src.start(0, Math.max(0, w.au[1] - 0.02), w.au[2] + 0.06);
+      playing = src;
+    }).catch(() => speak(w.en));
+  }
+  const canPlay = w => (AUDIO && w.au) || canSpeak;
+
   function baseList(level) {
-    if (level === 'mine') return WORDS.filter(w => mine.has(w.id));
-    return byLevel[level] || [];
+    let l = level === 'mine' ? WORDS.filter(w => mine.has(w.id)) : (byLevel[level] || []);
+    if (state.hideNs) l = l.filter(w => !w.ns);
+    return l;
   }
   function listFor(level) {
     const l = baseList(level);
@@ -204,14 +241,6 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     $('#topic').innerHTML = '<option value="">All topics</option>' + keys.map(k =>
       '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' + (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
     $('#topic').hidden = !keys.length;
-  }
-
-  // labels that change how the pair should be read; shown small on the card front
-  const FRONT_LABELS = ['slang', 'archaic', 'obsolete', 'dated', 'informal', 'rare'];
-  function usage(w) {
-    // in C2 almost every word is rare in English, so "rare" on the front only marks a rare Ukrainian form
-    // "rare" on the front only matters for common English words (then it means the Ukrainian form is rare)
-    return (w.tags || []).filter(t => FRONT_LABELS.indexOf(t) >= 0 && !(t === 'rare' && (!w.rank || w.rank > 10000))).slice(0, 2).join(' · ');
   }
 
   function rankText(w) {
@@ -232,8 +261,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
         '<div class="face front">' +
           (w.british ? FLAG : '') +
           '<div class="en">' + esc(w.en) + '</div><div class="eq">=</div><div class="uk">' + esc(w.uk) + '</div>' +
-          (usage(w) ? '<div class="use">' + esc(usage(w)) + '</div>' : '') +
-          (canSpeak ? '<button class="icon say" data-say="' + esc(w.en) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
+          (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
           (opts.noAdd ? '' : '<button class="icon add' + (mine.has(w.id) ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (mine.has(w.id) ? 'Remove from my words' : 'Add to my words') + '">' + (mine.has(w.id) ? CHECK : PLUS) + '</button>') +
         '</div>' +
         '<div class="face back">' +
@@ -247,7 +275,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   }
 
   function renderLevels() {
-    const items = LEVELS.filter(l => (byLevel[l] || []).length).map(l => [l, LEVEL_NAMES[l], byLevel[l].length])
+    const items = LEVELS.filter(l => (byLevel[l] || []).length).map(l => [l, LEVEL_NAMES[l], baseList(l).length])
       .concat([['mine', 'My words', mine.size], ['train', 'Train', null]]);
     $('#levels').innerHTML = items.map(([key, label, n], i) =>
       (key === 'mine' ? '<span class="sep"></span>' : '') +
@@ -266,6 +294,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     if (state.level !== 'train') renderTopics();
     $('#views').hidden = state.level === 'train';
     ['grid', 'single'].forEach(v => $('#v-' + v).setAttribute('aria-pressed', state.view === v));
+    $('#f-ns').setAttribute('aria-pressed', state.hideNs);
     if (state.level === 'train') return renderTrain();
     const list = current();
     $('#count').textContent = list.length ? list.length + ' words' : '';
@@ -276,7 +305,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       return;
     }
     if (state.view === 'grid') {
-      $('#main').innerHTML = '<div class="grid">' + list.map(w => cardHTML(w)).join('') + '</div>';
+      $('#main').innerHTML = '<div class="grid" id="grid"></div><div class="more" id="more"></div>';
+      appendCards();
     } else {
       state.idx = Math.min(state.idx, list.length - 1);
       const w = list[state.idx];
@@ -284,6 +314,25 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
         '<div class="nav"><button class="chip" id="prev" aria-label="Previous">←</button>' +
         '<span class="count">' + (state.idx + 1) + ' / ' + list.length + '</span>' +
         '<button class="chip" id="next" aria-label="Next">→</button></div></div>';
+    }
+  }
+
+  // big categories render a page of cards at a time; more load when the end comes into view
+  const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => {
+    if (es.some(e => e.isIntersecting) && state.view === 'grid' && state.level !== 'train') appendCards();
+  }, { rootMargin: '800px' }) : null;
+  function appendCards() {
+    const g = $('#grid'), more = $('#more');
+    if (!g) return;
+    const list = current(), from = g.children.length, to = Math.min(list.length, from + PAGE);
+    if (from >= to) return;
+    g.insertAdjacentHTML('beforeend', list.slice(from, to).map(w => cardHTML(w)).join(''));
+    if (to < list.length) {
+      more.innerHTML = '<button class="chip" id="show-more">Show more · ' + (list.length - to) + '</button>';
+      if (io) { io.disconnect(); io.observe(more); }
+    } else {
+      more.innerHTML = '';
+      if (io) io.disconnect();
     }
   }
 
@@ -314,7 +363,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       '<div class="card' + (tr.shown ? '' : '') + '"><div class="inner"><div class="face front">' +
         '<div class="uk">' + esc(w.uk) + '</div><div class="eq">=</div>' +
         '<div class="en">' + (tr.shown ? esc(w.en) : '?') + '</div>' +
-        (tr.shown && canSpeak ? '<button class="icon say" data-say="' + esc(w.en) + '" aria-label="Pronounce">' + SAY + '</button>' : '') +
+        (tr.shown && canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce">' + SAY + '</button>' : '') +
       '</div></div></div>' +
       '<div class="row">' + (tr.shown
         ? '<button class="chip big" id="t-again">Again</button><button class="chip big primary" id="t-know">I knew it</button>'
@@ -326,7 +375,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   document.addEventListener('click', e => {
     const t = e.target.closest('button, .card');
     if (!t) return;
-    if (t.dataset.say) { e.stopPropagation(); speak(t.dataset.say); return; }
+    if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid)); return; }
+    if (t.id === 'show-more') { appendCards(); return; }
+    if (t.id === 'f-ns') { state.hideNs = !state.hideNs; store.set('sw.hideNs', state.hideNs); state.order = null; state.idx = 0; render(); return; }
     if (t.dataset.add) {
       e.stopPropagation();
       const id = t.dataset.add;
@@ -342,7 +393,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     if (t.id === 'v-shuffle') { const n = listFor(state.level).length; state.order = Array.from({ length: n }, (_, i) => i).sort(() => Math.random() - .5); state.idx = 0; render(); return; }
     if (t.id === 'prev') { move(-1); return; }
     if (t.id === 'next') { move(1); return; }
-    if (t.id === 't-show') { tr.shown = true; renderTrain(); speak(tr.queue[tr.i].en); return; }
+    if (t.id === 't-show') { tr.shown = true; renderTrain(); playWord(tr.queue[tr.i]); return; }
     if (t.id === 't-know' || t.id === 't-again') {
       const w = tr.queue[tr.i];
       if (t.id === 't-know') { if (!w._missed) tr.known++; } else { w._missed = true; tr.again.push(w); }

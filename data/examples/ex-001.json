@@ -1,0 +1,2252 @@
+{
+ "drink": {
+  "ex": [
+   "Can I get you a cold drink?",
+   "She ordered a drink at the bar.",
+   "We went out for a drink after work.",
+   "Soft drinks are cheaper at the supermarket."
+  ],
+  "note": ""
+ },
+ "speech": {
+  "ex": [
+   "The mayor gave a short speech at the opening.",
+   "He was nervous before his wedding speech.",
+   "Her speech made everyone in the room laugh.",
+   "I need to write a speech for graduation."
+  ],
+  "note": ""
+ },
+ "camp": {
+  "ex": [
+   "The kids are going to summer camp in July.",
+   "We set up camp near the lake.",
+   "The camp has tents, a kitchen, and showers.",
+   "My son loved his first week at camp."
+  ],
+  "note": ""
+ },
+ "Mrs.": {
+  "ex": [
+   "Mrs. Brown is our new math teacher.",
+   "Please give this letter to Mrs. Lee.",
+   "Mrs. Garcia lives in the house next door.",
+   "Good morning, Mrs. Taylor, how are you today?"
+  ],
+  "note": "Used before a married woman's last name, e.g. \"Mrs. Smith\"."
+ },
+ "concept": {
+  "ex": [
+   "The concept of the game is very simple.",
+   "This is a new concept in home design.",
+   "It took me a while to understand the concept.",
+   "Time is a hard concept for small children."
+  ],
+  "note": ""
+ },
+ "click": {
+  "ex": [
+   "One click and the file is downloaded.",
+   "I heard a click when the door locked.",
+   "The ad got thousands of clicks in one day.",
+   "A single click opens the settings menu."
+  ],
+  "note": ""
+ },
+ "status": {
+  "ex": [
+   "What is the status of my order?",
+   "You can check your flight status online.",
+   "Please update your status in the team chat.",
+   "Her marital status is listed on the form."
+  ],
+  "note": ""
+ },
+ "champion": {
+  "ex": [
+   "She became the national champion at sixteen.",
+   "The champion lifted the trophy above his head.",
+   "Our team is the league champion this year.",
+   "He wants to beat the world champion next month."
+  ],
+  "note": ""
+ },
+ "hall": {
+  "ex": [
+   "Please wait for me in the hall.",
+   "The bathroom is at the end of the hall.",
+   "We hung our coats in the front hall.",
+   "The concert hall was full last night."
+  ],
+  "note": ""
+ },
+ "institute": {
+  "ex": [
+   "She works at a research institute downtown.",
+   "The institute offers evening classes for adults.",
+   "He studied at a technical institute for two years.",
+   "The institute is closed on public holidays."
+  ],
+  "note": ""
+ },
+ "object": {
+  "ex": [
+   "There is a strange object on the table.",
+   "The museum has objects from ancient Egypt.",
+   "Do not put metal objects in the microwave.",
+   "The baby likes to grab shiny objects."
+  ],
+  "note": ""
+ },
+ "budget": {
+  "ex": [
+   "We need to stay within our budget this month.",
+   "The project went over budget again.",
+   "Our travel budget is about two thousand dollars.",
+   "The city approved a new budget for schools."
+  ],
+  "note": ""
+ },
+ "trouble": {
+  "ex": [
+   "I had trouble finding your house.",
+   "Are you in trouble at school again?",
+   "The car is giving me trouble this week.",
+   "Sorry for the trouble, and thanks for your help."
+  ],
+  "note": "Usually uncountable: \"have trouble\", not \"a trouble\"."
+ },
+ "progress": {
+  "ex": [
+   "You are making good progress with your English.",
+   "We made slow progress through the heavy traffic.",
+   "The teacher checks our progress every month.",
+   "There has been little progress on the new road."
+  ],
+  "note": "Uncountable: say \"some progress\", never \"a progress\" or \"progresses\"."
+ },
+ "actor": {
+  "ex": [
+   "He is a famous actor from Canada.",
+   "The actor forgot his lines on stage.",
+   "She wants to become a movie actor.",
+   "The actors bowed at the end of the play."
+  ],
+  "note": ""
+ },
+ "expert": {
+  "ex": [
+   "She is an expert in children's health.",
+   "We asked an expert to check the roof.",
+   "Experts say we should drink more water.",
+   "He is a computer expert, so ask him."
+  ],
+  "note": ""
+ },
+ "email": {
+  "ex": [
+   "I sent you an email this morning.",
+   "Please check your email for the link.",
+   "She gets about fifty emails a day.",
+   "What is your email address?"
+  ],
+  "note": ""
+ },
+ "fashion": {
+  "ex": [
+   "She loves fashion and reads style magazines.",
+   "Long coats are back in fashion this winter.",
+   "He works in the fashion industry in New York.",
+   "Fashion changes very fast these days."
+  ],
+  "note": ""
+ },
+ "digital": {
+  "ex": [
+   "We bought a new digital camera for the trip.",
+   "Most people read digital books on their phones.",
+   "The company sells digital products online.",
+   "Digital payments are fast and easy to use."
+  ],
+  "note": ""
+ },
+ "guide": {
+  "ex": [
+   "Our tour guide spoke three languages.",
+   "The guide showed us the old part of town.",
+   "We hired a local guide for the mountain hike.",
+   "The museum guide answered all our questions."
+  ],
+  "note": ""
+ },
+ "theater": {
+  "ex": [
+   "We went to the theater on Saturday night.",
+   "The theater was almost full for the show.",
+   "She has loved the theater since she was a child.",
+   "There is a small movie theater near my house."
+  ],
+  "note": ""
+ },
+ "metal": {
+  "ex": [
+   "The gate is made of metal.",
+   "Gold is a soft metal.",
+   "Metal gets hot very quickly in the sun.",
+   "They sell old metal for recycling."
+  ],
+  "note": ""
+ },
+ "boss": {
+  "ex": [
+   "My boss gave me Friday off.",
+   "I need to ask my boss first.",
+   "Her new boss is very friendly.",
+   "The boss called a meeting at nine."
+  ],
+  "note": "Informal; in formal situations people say \"manager\"."
+ },
+ "task": {
+  "ex": [
+   "My first task today is to answer emails.",
+   "Cleaning the garage is a big task.",
+   "Each person on the team has a task.",
+   "She finished the task in ten minutes."
+  ],
+  "note": ""
+ },
+ "port": {
+  "ex": [
+   "The ship arrived at the port early.",
+   "This city has a busy port.",
+   "We walked along the port and watched the boats.",
+   "The cruise stops at three ports in Italy."
+  ],
+  "note": ""
+ },
+ "argument": {
+  "ex": [
+   "I had an argument with my brother yesterday.",
+   "They got into an argument about money.",
+   "Her argument for the new plan was very strong.",
+   "There is no good argument against it."
+  ],
+  "note": ""
+ },
+ "basis": {
+  "ex": [
+   "We meet on a weekly basis.",
+   "Trust is the basis of every friendship.",
+   "He works here on a part-time basis.",
+   "The decision was made on the basis of cost."
+  ],
+  "note": ""
+ },
+ "surprise": {
+  "ex": [
+   "We planned a surprise party for her birthday.",
+   "What a nice surprise to see you here!",
+   "The news came as a big surprise.",
+   "I have a little surprise for you."
+  ],
+  "note": ""
+ },
+ "blog": {
+  "ex": [
+   "She writes a travel blog about her trips.",
+   "I read his blog every morning.",
+   "He started a cooking blog last year.",
+   "The blog has thousands of readers."
+  ],
+  "note": ""
+ },
+ "reply": {
+  "ex": [
+   "I am still waiting for a reply.",
+   "Thanks for your quick reply.",
+   "She sent a short reply to my message.",
+   "There was no reply to my email."
+  ],
+  "note": ""
+ },
+ "signal": {
+  "ex": [
+   "My phone has no signal here.",
+   "The signal is weak inside the building.",
+   "Wait for the signal before you start.",
+   "The radio signal comes and goes in the mountains."
+  ],
+  "note": ""
+ },
+ "balance": {
+  "ex": [
+   "What is the balance on my account?",
+   "Check your balance before you pay.",
+   "The balance is due at the end of the month.",
+   "My card has a balance of fifty dollars."
+  ],
+  "note": ""
+ },
+ "grant": {
+  "ex": [
+   "She got a grant to study abroad.",
+   "The school received a grant for new computers.",
+   "He applied for a research grant.",
+   "The grant covers all her travel costs."
+  ],
+  "note": ""
+ },
+ "stress": {
+  "ex": [
+   "Exams cause a lot of stress for students.",
+   "I am under a lot of stress at work.",
+   "Walking helps me deal with stress.",
+   "Too much stress is bad for your health."
+  ],
+  "note": "Usually uncountable: \"a lot of stress\", not \"stresses\"."
+ },
+ "festival": {
+  "ex": [
+   "We went to a music festival last summer.",
+   "The festival lasts three days.",
+   "Tickets for the festival sold out fast.",
+   "The town holds a food festival every fall."
+  ],
+  "note": ""
+ },
+ "web": {
+  "ex": [
+   "I found the recipe on the web.",
+   "She builds websites and web apps.",
+   "You can search the web for cheap flights.",
+   "Most news is now read on the web."
+  ],
+  "note": ""
+ },
+ "software": {
+  "ex": [
+   "The company makes software for schools.",
+   "You need to update your software.",
+   "This software is free to download.",
+   "He writes software for a big bank."
+  ],
+  "note": "Uncountable: say \"a piece of software\", not \"a software\" or \"softwares\"."
+ },
+ "prince": {
+  "ex": [
+   "The prince lives in a large castle.",
+   "The young prince loves horses.",
+   "In the story, the prince saves the city.",
+   "The prince waved to the crowd."
+  ],
+  "note": ""
+ },
+ "aspect": {
+  "ex": [
+   "Cost is an important aspect of the plan.",
+   "I like every aspect of my new job.",
+   "We talked about many aspects of the problem.",
+   "The most fun aspect of travel is the food."
+  ],
+  "note": ""
+ },
+ "assistant": {
+  "ex": [
+   "My assistant will call you back.",
+   "She works as a teaching assistant.",
+   "The store assistant helped me find a size.",
+   "Ask my assistant for the meeting time."
+  ],
+  "note": ""
+ },
+ "reserve": {
+  "ex": [
+   "We keep some money in reserve.",
+   "The country has large oil reserves.",
+   "The team has two players in reserve.",
+   "Our water reserves are low this summer."
+  ],
+  "note": ""
+ },
+ "conflict": {
+  "ex": [
+   "There is a conflict between the two groups.",
+   "The conflict lasted for many years.",
+   "We try to avoid conflict at work.",
+   "They solved the conflict by talking."
+  ],
+  "note": ""
+ },
+ "ocean": {
+  "ex": [
+   "We swam in the ocean every morning.",
+   "The house has a view of the ocean.",
+   "The Pacific is the largest ocean.",
+   "Plastic in the ocean hurts fish."
+  ],
+  "note": ""
+ },
+ "display": {
+  "ex": [
+   "The phone has a bright display.",
+   "The display on my watch is broken.",
+   "Shoes are on display in the window.",
+   "The new laptop has a large display."
+  ],
+  "note": ""
+ },
+ "sport": {
+  "ex": [
+   "Soccer is the most popular sport in the world.",
+   "What is your favorite sport?",
+   "He plays a lot of sports in school.",
+   "Swimming is a great sport for kids."
+  ],
+  "note": ""
+ },
+ "trend": {
+  "ex": [
+   "There is a new trend in coffee shops.",
+   "This color is a big trend this year.",
+   "Online shopping is a growing trend.",
+   "She always follows the latest fashion trends."
+  ],
+  "note": ""
+ },
+ "climate": {
+  "ex": [
+   "The climate here is warm and dry.",
+   "Climate change affects every country.",
+   "They moved to a milder climate.",
+   "Plants grow well in this climate."
+  ],
+  "note": ""
+ },
+ "talent": {
+  "ex": [
+   "She has a real talent for music.",
+   "The show is looking for new talent.",
+   "His talent was clear from an early age.",
+   "Drawing is not my talent."
+  ],
+  "note": ""
+ },
+ "hello": {
+  "ex": [
+   "Hello, how are you today?",
+   "Say hello to your mom for me.",
+   "She waved and said hello.",
+   "Hello, is anyone home?"
+  ],
+  "note": ""
+ },
+ "initial": {
+  "ex": [
+   "Write your initials at the bottom of the page.",
+   "His initials are on his bag.",
+   "Sign with your initials here.",
+   "Her initials are J. K."
+  ],
+  "note": ""
+ },
+ "express": {
+  "ex": [
+   "We took the express to the city center.",
+   "The express does not stop at small stations.",
+   "The airport express leaves every fifteen minutes.",
+   "The morning express was very crowded."
+  ],
+  "note": ""
+ },
+ "proof": {
+  "ex": [
+   "Do you have proof of your address?",
+   "You need proof of age to buy this.",
+   "There is no proof that he did it.",
+   "Keep your receipt as proof of purchase."
+  ],
+  "note": ""
+ },
+ "drama": {
+  "ex": [
+   "I like watching TV dramas at night.",
+   "She studied drama in college.",
+   "The film is a family drama.",
+   "There is always drama in that group of friends."
+  ],
+  "note": ""
+ },
+ "transport": {
+  "ex": [
+   "Public transport is cheap in this city.",
+   "We need transport to the airport.",
+   "The hotel offers free transport for guests.",
+   "Bikes are a cheap way of transport."
+  ],
+  "note": "In American English \"transportation\" is more common."
+ },
+ "minimum": {
+  "ex": [
+   "You need a minimum of three people.",
+   "Keep the noise to a minimum, please.",
+   "The minimum age is eighteen.",
+   "We spent the minimum on food."
+  ],
+  "note": ""
+ },
+ "IT": {
+  "ex": [
+   "She works in IT at a big bank.",
+   "Call IT if your computer stops working.",
+   "The IT department fixed my laptop.",
+   "He wants a job in IT."
+  ],
+  "note": ""
+ },
+ "like": {
+  "ex": [
+   "Her photo got hundreds of likes.",
+   "Thanks for all the likes and comments!",
+   "The video has more likes than views.",
+   "He checks his likes every hour."
+  ],
+  "note": ""
+ },
+ "live": {
+  "ex": [
+   "We watched a live concert on TV.",
+   "The band plays live music on Fridays.",
+   "The game is shown live on the news channel.",
+   "I love the energy of live shows."
+  ],
+  "note": ""
+ },
+ "shot": {
+  "ex": [
+   "Let's order a round of shots.",
+   "He drank a shot of tequila.",
+   "She ordered a coffee with an extra shot.",
+   "One shot is enough for me."
+  ],
+  "note": ""
+ },
+ "major": {
+  "ex": [
+   "The major gave orders to his soldiers.",
+   "Her father was a major in the army.",
+   "The major walked into the office.",
+   "He was promoted to major last year."
+  ],
+  "note": ""
+ },
+ "check-in": {
+  "ex": [
+   "Check-in starts at three o'clock.",
+   "The airport check-in was very slow.",
+   "You can do online check-in a day early.",
+   "We waited in line at the check-in desk."
+  ],
+  "note": ""
+ },
+ "media": {
+  "ex": [
+   "The media talked about the story all week.",
+   "She works in social media.",
+   "The news spread fast through the media.",
+   "He avoids the media after the game."
+  ],
+  "note": "Often used with a plural verb: \"the media are\", but \"is\" is also fine."
+ },
+ "front": {
+  "ex": [
+   "Soldiers were sent to the front.",
+   "He spent two years at the front.",
+   "News from the front was bad.",
+   "The front moved closer to the city."
+  ],
+  "note": ""
+ },
+ "check-out": {
+  "ex": [
+   "Check-out is at eleven in the morning.",
+   "Can we have a late check-out?",
+   "We paid the bill at check-out.",
+   "The check-out line at the hotel was long."
+  ],
+  "note": ""
+ },
+ "security": {
+  "ex": [
+   "Security stopped him at the door.",
+   "Call security if you see anything strange.",
+   "We went through airport security quickly.",
+   "He works in security at the mall."
+  ],
+  "note": ""
+ },
+ "talk show": {
+  "ex": [
+   "She was a guest on a late-night talk show.",
+   "My mom watches a talk show every morning.",
+   "The talk show host asked funny questions.",
+   "He hosts a talk show on the radio."
+  ],
+  "note": ""
+ },
+ "project": {
+  "ex": [
+   "We are working on a new project.",
+   "The project will take six months.",
+   "Our school project is about the ocean.",
+   "She is the leader of the project."
+  ],
+  "note": ""
+ },
+ "original": {
+  "ex": [
+   "This painting is the original, not a copy.",
+   "The original is kept in a museum.",
+   "I read the book in the original.",
+   "Keep the original and send a copy."
+  ],
+  "note": ""
+ },
+ "production": {
+  "ex": [
+   "The film is still in production.",
+   "She works in TV production.",
+   "The production of the show took a year.",
+   "It was a low-budget production."
+  ],
+  "note": ""
+ },
+ "release": {
+  "ex": [
+   "The band's new release is out today.",
+   "The movie has a summer release.",
+   "The game's release was delayed again.",
+   "Fans waited a long time for the release."
+  ],
+  "note": ""
+ },
+ "image": {
+  "ex": [
+   "The company wants a better public image.",
+   "He works hard on his image.",
+   "The star changed her image last year.",
+   "A clean image matters in business."
+  ],
+  "note": ""
+ },
+ "hate": {
+  "ex": [
+   "There is so much hate online.",
+   "She gets a lot of hate on social media.",
+   "The video got hate from strangers.",
+   "Ignore the hate and keep posting."
+  ],
+  "note": ""
+ },
+ "business class": {
+  "ex": [
+   "We flew business class to Tokyo.",
+   "Business class has bigger seats.",
+   "A business class ticket costs a lot.",
+   "He always travels in business class."
+  ],
+  "note": ""
+ },
+ "lord": {
+  "ex": [
+   "The lord lived in a big house on the hill.",
+   "He became a lord after his father died.",
+   "The lords met in London.",
+   "The lord owned all the land here."
+  ],
+  "note": ""
+ },
+ "room service": {
+  "ex": [
+   "We ordered room service for breakfast.",
+   "Room service is open all night.",
+   "Call room service for more towels.",
+   "Room service brought the food in ten minutes."
+  ],
+  "note": ""
+ },
+ "forward": {
+  "ex": [
+   "He plays forward for the city team.",
+   "The forward scored two goals.",
+   "Our best forward is injured.",
+   "The team needs a fast forward."
+  ],
+  "note": ""
+ },
+ "minister": {
+  "ex": [
+   "The minister spoke to the press.",
+   "She is the new health minister.",
+   "The minister visited our school.",
+   "Two ministers left the government."
+  ],
+  "note": ""
+ },
+ "professional": {
+  "ex": [
+   "She is a true professional at her job.",
+   "Leave the repair to a professional.",
+   "He hired a professional to paint the house.",
+   "We need professionals for this project."
+  ],
+  "note": ""
+ },
+ "campaign": {
+  "ex": [
+   "The ad campaign was a big success.",
+   "They started a campaign to save the park.",
+   "The campaign runs until December.",
+   "Her campaign raised a lot of money."
+  ],
+  "note": ""
+ },
+ "focus": {
+  "ex": [
+   "The camera is out of focus.",
+   "Turn the ring to adjust the focus.",
+   "The photo is in sharp focus.",
+   "Bring the image into focus first."
+  ],
+  "note": ""
+ },
+ "contract": {
+  "ex": [
+   "She signed a two-year contract.",
+   "Read the contract before you sign it.",
+   "The company lost a big contract.",
+   "His contract ends in June."
+  ],
+  "note": ""
+ },
+ "user": {
+  "ex": [
+   "The app has a million users.",
+   "Each user has a password.",
+   "New users get a free month.",
+   "The site is easy for users."
+  ],
+  "note": ""
+ },
+ "capital": {
+  "ex": [
+   "They need more capital to start the business.",
+   "He used his own capital for the shop.",
+   "The company raised capital from investors.",
+   "Starting a business takes capital."
+  ],
+  "note": ""
+ },
+ "western": {
+  "ex": [
+   "My grandpa loves old westerns.",
+   "The western has cowboys and horses.",
+   "We watched a western last night.",
+   "This western was filmed in Arizona."
+  ],
+  "note": ""
+ },
+ "beat": {
+  "ex": [
+   "This song has a great beat.",
+   "He makes beats on his computer.",
+   "We danced to the beat.",
+   "The beat is slow and calm."
+  ],
+  "note": ""
+ },
+ "power bank": {
+  "ex": [
+   "Don't forget your power bank on the trip.",
+   "My power bank can charge my phone twice.",
+   "I charge my power bank every night.",
+   "She keeps a power bank in her bag."
+  ],
+  "note": ""
+ },
+ "factor": {
+  "ex": [
+   "Price is a big factor in my choice.",
+   "The weather was a key factor.",
+   "Many factors affect our health.",
+   "Age is one factor to think about."
+  ],
+  "note": ""
+ },
+ "price list": {
+  "ex": [
+   "Can I see the price list?",
+   "The price list is on the wall.",
+   "They sent us a new price list.",
+   "Check the price list before you order."
+  ],
+  "note": ""
+ },
+ "plus": {
+  "ex": [
+   "The location is a big plus.",
+   "Free parking is a nice plus.",
+   "One plus is that it is cheap.",
+   "Speaking Spanish is a plus for this job."
+  ],
+  "note": ""
+ },
+ "transfer": {
+  "ex": [
+   "The hotel offers a free airport transfer.",
+   "We booked a transfer to the hotel.",
+   "The player's transfer cost millions.",
+   "The transfer took about an hour."
+  ],
+  "note": ""
+ },
+ "candidate": {
+  "ex": [
+   "She is the best candidate for the job.",
+   "Each candidate gave a short speech.",
+   "We interviewed three candidates today.",
+   "He is a candidate for mayor."
+  ],
+  "note": ""
+ },
+ "soul": {
+  "ex": [
+   "She sings soul with a deep voice.",
+   "I love old soul music.",
+   "The radio plays soul all night.",
+   "He grew up listening to soul."
+  ],
+  "note": ""
+ },
+ "congress": {
+  "ex": [
+   "Congress passed the new law.",
+   "She was elected to Congress.",
+   "Congress meets in Washington.",
+   "The bill is now in Congress."
+  ],
+  "note": ""
+ },
+ "city tour": {
+  "ex": [
+   "We took a city tour by bus.",
+   "The city tour lasts two hours.",
+   "Our guide led a walking city tour.",
+   "The city tour starts at the main square."
+  ],
+  "note": ""
+ },
+ "complex": {
+  "ex": [
+   "They live in a big apartment complex.",
+   "The sports complex has two pools.",
+   "A new shopping complex opened downtown.",
+   "The hotel complex is near the beach."
+  ],
+  "note": ""
+ },
+ "roll": {
+  "ex": [
+   "I ordered a salmon roll for lunch.",
+   "These rolls are fresh and spicy.",
+   "She likes a California roll.",
+   "We shared a plate of rolls."
+  ],
+  "note": ""
+ },
+ "benefit": {
+  "ex": [
+   "Free lunch is one benefit of this job.",
+   "The job has good benefits.",
+   "Health insurance is a key benefit.",
+   "What are the benefits of the plan?"
+  ],
+  "note": ""
+ },
+ "profile": {
+  "ex": [
+   "Update your profile with a new photo.",
+   "I looked at his profile online.",
+   "Her profile says she lives in Boston.",
+   "You can edit your profile anytime."
+  ],
+  "note": ""
+ },
+ "profit": {
+  "ex": [
+   "The shop made a small profit this year.",
+   "They sold the house at a profit.",
+   "Profits went up last month.",
+   "The company shares its profits with workers."
+  ],
+  "note": ""
+ },
+ "traffic": {
+  "ex": [
+   "The site gets a lot of traffic.",
+   "Web traffic grew after the ad.",
+   "Mobile traffic is higher at night.",
+   "We track traffic to our page."
+  ],
+  "note": "Uncountable: \"a lot of traffic\", not \"traffics\"."
+ },
+ "ring": {
+  "ex": [
+   "The boxers stepped into the ring.",
+   "He stayed in the ring for ten rounds.",
+   "The ring was surrounded by fans.",
+   "She left the ring as the winner."
+  ],
+  "note": ""
+ },
+ "update": {
+  "ex": [
+   "My phone needs an update.",
+   "The new update fixed the bug.",
+   "I will send you an update tomorrow.",
+   "The app installs updates on its own."
+  ],
+  "note": ""
+ },
+ "hot dog": {
+  "ex": [
+   "I bought a hot dog at the game.",
+   "Do you want mustard on your hot dog?",
+   "Hot dogs are popular in summer.",
+   "He ate three hot dogs for lunch."
+  ],
+  "note": ""
+ },
+ "reality show": {
+  "ex": [
+   "She was on a cooking reality show.",
+   "I don't watch reality shows.",
+   "The reality show is filmed on an island.",
+   "He became famous after a reality show."
+  ],
+  "note": ""
+ },
+ "background": {
+  "ex": [
+   "She has a background in nursing.",
+   "People here come from different backgrounds.",
+   "His background is in sales.",
+   "Tell me about your background."
+  ],
+  "note": ""
+ },
+ "ex": {
+  "ex": [
+   "I saw my ex at the store today.",
+   "She is still friends with her ex.",
+   "His ex moved to another city.",
+   "Don't text your ex late at night."
+  ],
+  "note": "Informal; means a former partner."
+ },
+ "negative": {
+  "ex": [
+   "The photographer kept all his negatives.",
+   "Hold the negative up to the light.",
+   "We found old negatives in a box.",
+   "You can print photos from the negatives."
+  ],
+  "note": ""
+ },
+ "senate": {
+  "ex": [
+   "The Senate voted on the bill.",
+   "She was elected to the Senate.",
+   "The Senate meets on Monday.",
+   "The law passed in the Senate."
+  ],
+  "note": ""
+ },
+ "engineering": {
+  "ex": [
+   "He studies engineering in college.",
+   "The company does engineering for car makers.",
+   "She has a job in engineering.",
+   "Engineering is a well-paid field."
+  ],
+  "note": ""
+ },
+ "client": {
+  "ex": [
+   "The lawyer met with a new client.",
+   "We have clients in many countries.",
+   "She always listens to her clients.",
+   "The client wants changes by Friday."
+  ],
+  "note": ""
+ },
+ "marketing": {
+  "ex": [
+   "She works in marketing.",
+   "The company spent a lot on marketing.",
+   "Good marketing helps small shops.",
+   "He has a degree in marketing."
+  ],
+  "note": ""
+ },
+ "video camera": {
+  "ex": [
+   "He filmed the wedding with a video camera.",
+   "The video camera is in the bag.",
+   "My dad bought a new video camera.",
+   "Hold the video camera steady."
+  ],
+  "note": ""
+ },
+ "sector": {
+  "ex": [
+   "She works in the public sector.",
+   "The tech sector is growing fast.",
+   "Many jobs are in the service sector.",
+   "The private sector pays more."
+  ],
+  "note": ""
+ },
+ "pack": {
+  "ex": [
+   "I bought a new pack of cards.",
+   "This sticker pack has fifty stickers.",
+   "Open the pack and see what you get.",
+   "The game sells extra card packs."
+  ],
+  "note": ""
+ },
+ "parliament": {
+  "ex": [
+   "Parliament passed a new law.",
+   "She was elected to parliament.",
+   "Parliament meets in the capital.",
+   "The issue was discussed in parliament."
+  ],
+  "note": ""
+ },
+ "abuse": {
+  "ex": [
+   "Abuse at home is a serious problem.",
+   "She spoke about the abuse she suffered.",
+   "Child abuse must be reported.",
+   "He left after years of abuse."
+  ],
+  "note": ""
+ },
+ "mix": {
+  "ex": [
+   "The DJ played a great mix.",
+   "This song has a new dance mix.",
+   "I made a mix for our road trip.",
+   "Her summer mix is on my phone."
+  ],
+  "note": ""
+ },
+ "fan club": {
+  "ex": [
+   "She joined the band's fan club.",
+   "The fan club has thousands of members.",
+   "He started a fan club for the team.",
+   "The fan club meets once a month."
+  ],
+  "note": ""
+ },
+ "road trip": {
+  "ex": [
+   "We went on a road trip across the country.",
+   "A road trip needs good music.",
+   "Our road trip took two weeks.",
+   "Let's plan a road trip this summer."
+  ],
+  "note": ""
+ },
+ "democrat": {
+  "ex": [
+   "He has been a Democrat all his life.",
+   "The Democrats won the vote.",
+   "She is a Democrat from Ohio.",
+   "Many Democrats support the plan."
+  ],
+  "note": ""
+ },
+ "senator": {
+  "ex": [
+   "The senator spoke on TV.",
+   "She is a senator from California.",
+   "Two senators visited the town.",
+   "The senator voted for the bill."
+  ],
+  "note": ""
+ },
+ "flag": {
+  "ex": [
+   "Ships fly the flag of their country.",
+   "The flag was waving on the boat.",
+   "They raised the flag at the port.",
+   "The ship sailed under a foreign flag."
+  ],
+  "note": ""
+ },
+ "assist": {
+  "ex": [
+   "He had two goals and an assist.",
+   "She made the assist for the winning goal.",
+   "That was a great assist.",
+   "He leads the team in assists."
+  ],
+  "note": ""
+ },
+ "producer": {
+  "ex": [
+   "The producer chose the actors.",
+   "She is a music producer in Los Angeles.",
+   "The producer paid for the film.",
+   "He works as a TV producer."
+  ],
+  "note": ""
+ },
+ "photo album": {
+  "ex": [
+   "We looked at old photos in the photo album.",
+   "My grandma keeps a photo album.",
+   "She made a photo album of the trip.",
+   "The photo album is on the shelf."
+  ],
+  "note": ""
+ },
+ "prize": {
+  "ex": [
+   "She won first prize in the contest.",
+   "The prize is a free trip.",
+   "He got a prize for best player.",
+   "Everyone gets a small prize."
+  ],
+  "note": ""
+ },
+ "cycle": {
+  "ex": [
+   "The washing machine has a short cycle.",
+   "The life cycle of a frog is interesting.",
+   "Sleep has several cycles each night.",
+   "The cycle repeats every year."
+  ],
+  "note": ""
+ },
+ "incident": {
+  "ex": [
+   "The police are looking into the incident.",
+   "There was an incident at school today.",
+   "No one was hurt in the incident.",
+   "Please report any incident to the manager."
+  ],
+  "note": ""
+ },
+ "fake": {
+  "ex": [
+   "That bag is a fake.",
+   "The story turned out to be a fake.",
+   "Is this painting real or a fake?",
+   "He sold fakes as real watches."
+  ],
+  "note": ""
+ },
+ "era": {
+  "ex": [
+   "We live in a digital era.",
+   "The film is set in the Victorian era.",
+   "It was the end of an era.",
+   "That era of music was amazing."
+  ],
+  "note": ""
+ },
+ "component": {
+  "ex": [
+   "Each component is tested before use.",
+   "The computer has many small components.",
+   "Trust is a key component of teamwork.",
+   "We ordered new components for the car."
+  ],
+  "note": ""
+ },
+ "lunch": {
+  "ex": [
+   "What do you want for lunch?",
+   "We had lunch at a small cafe.",
+   "I usually eat lunch at noon.",
+   "Lunch is on me today."
+  ],
+  "note": ""
+ },
+ "protest": {
+  "ex": [
+   "Thousands joined the protest downtown.",
+   "The students held a protest.",
+   "The protest was peaceful.",
+   "Police watched the protest closely."
+  ],
+  "note": ""
+ },
+ "shopping": {
+  "ex": [
+   "I do the shopping on Saturdays.",
+   "We went shopping for shoes.",
+   "Online shopping saves time.",
+   "She loves shopping with friends."
+  ],
+  "note": "Uncountable; say \"go shopping\" or \"do the shopping\"."
+ },
+ "panel": {
+  "ex": [
+   "The light switch is on the panel.",
+   "Solar panels are on our roof.",
+   "Open the panel to check the wires.",
+   "The control panel is by the door."
+  ],
+  "note": ""
+ },
+ "rock band": {
+  "ex": [
+   "He plays guitar in a rock band.",
+   "The rock band played all night.",
+   "My favorite rock band is touring.",
+   "They started a rock band in high school."
+  ],
+  "note": ""
+ },
+ "angel": {
+  "ex": [
+   "There is an angel on top of the tree.",
+   "She believes in angels.",
+   "The picture shows an angel with wings.",
+   "You are an angel for helping me."
+  ],
+  "note": ""
+ },
+ "print": {
+  "ex": [
+   "I like the flower print on your dress.",
+   "The shirt has an animal print.",
+   "This print is popular this summer.",
+   "She chose a bold print for the skirt."
+  ],
+  "note": ""
+ },
+ "max": {
+  "ex": [
+   "The bus holds fifty people max.",
+   "It takes ten minutes max.",
+   "Turn the volume up to max.",
+   "We can spend twenty dollars max."
+  ],
+  "note": "Short for \"maximum\"; informal."
+ },
+ "protein": {
+  "ex": [
+   "Eggs are high in protein.",
+   "He drinks a protein shake after the gym.",
+   "Beans are a good source of protein.",
+   "You need enough protein every day."
+  ],
+  "note": ""
+ },
+ "context": {
+  "ex": [
+   "Look at the context to guess the word.",
+   "The quote was taken out of context.",
+   "In this context, the word means \"fast\".",
+   "Give me some context, please."
+  ],
+  "note": ""
+ },
+ "pilot": {
+  "ex": [
+   "The pilot landed the plane safely.",
+   "He wants to be a pilot.",
+   "The pilot spoke to the passengers.",
+   "She is an airline pilot."
+  ],
+  "note": ""
+ },
+ "rating": {
+  "ex": [
+   "The movie has a high rating.",
+   "The hotel got a five-star rating.",
+   "Check the ratings before you buy.",
+   "The show's ratings went down."
+  ],
+  "note": ""
+ },
+ "friendly": {
+  "ex": [
+   "The staff here are very friendly.",
+   "She has a friendly smile.",
+   "This hotel is family-friendly.",
+   "Our neighbors are friendly people."
+  ],
+  "note": ""
+ },
+ "monster": {
+  "ex": [
+   "The kids watched a movie about a monster.",
+   "There is no monster under your bed.",
+   "The monster had three eyes.",
+   "He drew a funny monster."
+  ],
+  "note": ""
+ },
+ "motor": {
+  "ex": [
+   "The boat has a small motor.",
+   "The motor stopped working.",
+   "This fan has a quiet motor.",
+   "He fixed the motor himself."
+  ],
+  "note": ""
+ },
+ "concert": {
+  "ex": [
+   "We went to a concert last night.",
+   "The concert starts at eight.",
+   "Tickets for the concert are sold out.",
+   "She played piano at the concert."
+  ],
+  "note": ""
+ },
+ "suicide": {
+  "ex": [
+   "Suicide is a serious public health problem.",
+   "The hotline helps people thinking about suicide.",
+   "Talking openly can help prevent suicide.",
+   "The school has a suicide prevention program."
+  ],
+  "note": ""
+ },
+ "mayor": {
+  "ex": [
+   "The mayor opened the new park.",
+   "She was elected mayor last year.",
+   "The mayor spoke at the meeting.",
+   "We wrote a letter to the mayor."
+  ],
+  "note": ""
+ },
+ "journalist": {
+  "ex": [
+   "She is a journalist for a local paper.",
+   "The journalist asked hard questions.",
+   "Journalists waited outside the building.",
+   "He wants to be a sports journalist."
+  ],
+  "note": ""
+ },
+ "ID": {
+  "ex": [
+   "Can I see your ID, please?",
+   "I forgot my ID at home.",
+   "You need a photo ID to vote.",
+   "Show your ID at the door."
+  ],
+  "note": ""
+ },
+ "ah": {
+  "ex": [
+   "Ah, now I understand.",
+   "Ah, that feels much better.",
+   "Ah, there you are!",
+   "Ah, what a beautiful day."
+  ],
+  "note": ""
+ },
+ "vice president": {
+  "ex": [
+   "The vice president met with the workers.",
+   "She is vice president of sales.",
+   "The vice president gave a speech.",
+   "He became vice president last year."
+  ],
+  "note": ""
+ },
+ "cream": {
+  "ex": [
+   "I put some cream on my dry hands.",
+   "Do you want cream in your coffee?",
+   "This cream helps with sunburn.",
+   "Strawberries with cream are my favorite."
+  ],
+  "note": ""
+ },
+ "solo": {
+  "ex": [
+   "She played a guitar solo.",
+   "The drum solo was amazing.",
+   "He sang a solo in the school show.",
+   "The piano solo lasted five minutes."
+  ],
+  "note": ""
+ },
+ "volunteer": {
+  "ex": [
+   "She works as a volunteer at the hospital.",
+   "We need more volunteers for the event.",
+   "Volunteers cleaned the park.",
+   "He is a volunteer firefighter."
+  ],
+  "note": ""
+ },
+ "trading": {
+  "ex": [
+   "He works in stock trading.",
+   "Online trading is popular now.",
+   "Trading starts at nine in the morning.",
+   "She lost money in trading."
+  ],
+  "note": ""
+ },
+ "Catholic": {
+  "ex": [
+   "She is a Catholic and goes to church.",
+   "Many Catholics live in this town.",
+   "He was raised a Catholic.",
+   "The Catholics celebrated Easter."
+  ],
+  "note": ""
+ },
+ "cable": {
+  "ex": [
+   "Do you have a phone cable?",
+   "The cable is too short.",
+   "Plug the cable into the TV.",
+   "I need a new charging cable."
+  ],
+  "note": ""
+ },
+ "index": {
+  "ex": [
+   "Look for the word in the index.",
+   "The index is at the back of the book.",
+   "Prices rose, says the index.",
+   "The index lists every topic."
+  ],
+  "note": ""
+ },
+ "boyfriend": {
+  "ex": [
+   "Her boyfriend is from Texas.",
+   "She has a new boyfriend.",
+   "My boyfriend cooked dinner.",
+   "Is he your boyfriend?"
+  ],
+  "note": ""
+ },
+ "experiment": {
+  "ex": [
+   "We did an experiment in science class.",
+   "The experiment failed the first time.",
+   "They ran an experiment with plants.",
+   "The results of the experiment were clear."
+  ],
+  "note": ""
+ },
+ "estimate": {
+  "ex": [
+   "Can you give me an estimate?",
+   "The estimate for the repair was high.",
+   "This is only a rough estimate.",
+   "We got three estimates for the roof."
+  ],
+  "note": ""
+ },
+ "chat": {
+  "ex": [
+   "I left a message in the group chat.",
+   "We talked in a video chat.",
+   "The chat is open for questions.",
+   "Join the chat to meet other users."
+  ],
+  "note": ""
+ },
+ "alcohol": {
+  "ex": [
+   "I don't drink alcohol.",
+   "The store does not sell alcohol.",
+   "Alcohol is not allowed in the park.",
+   "Too much alcohol is bad for you."
+  ],
+  "note": "Uncountable: \"some alcohol\", not \"an alcohol\"."
+ },
+ "peak": {
+  "ex": [
+   "We reached the peak by noon.",
+   "Snow covers the mountain peaks.",
+   "The view from the peak is amazing.",
+   "He climbed the highest peak."
+  ],
+  "note": ""
+ },
+ "visitor": {
+  "ex": [
+   "The museum gets many visitors.",
+   "We had visitors this weekend.",
+   "Visitors must sign in at the desk.",
+   "The city is full of visitors in summer."
+  ],
+  "note": ""
+ },
+ "farmer": {
+  "ex": [
+   "The farmer grows corn and beans.",
+   "We buy eggs from a local farmer.",
+   "My uncle is a farmer.",
+   "Farmers need rain this year."
+  ],
+  "note": ""
+ },
+ "gender": {
+  "ex": [
+   "Write your gender on the form.",
+   "The job is open to all genders.",
+   "Gender should not affect pay.",
+   "The study looked at age and gender."
+  ],
+  "note": ""
+ },
+ "entertainment": {
+  "ex": [
+   "The hotel offers live entertainment.",
+   "TV is my main entertainment.",
+   "She works in entertainment.",
+   "There is music and other entertainment."
+  ],
+  "note": "Uncountable: \"some entertainment\", not \"entertainments\"."
+ },
+ "server": {
+  "ex": [
+   "The server is down right now.",
+   "Our website runs on a fast server.",
+   "The data is stored on the server.",
+   "The company bought new servers."
+  ],
+  "note": ""
+ },
+ "maximum": {
+  "ex": [
+   "The maximum is ten people.",
+   "Turn the heat to the maximum.",
+   "You can stay for a maximum of three days.",
+   "The maximum speed here is fifty."
+  ],
+  "note": ""
+ },
+ "info": {
+  "ex": [
+   "Thanks for the info.",
+   "You can find more info online.",
+   "I need some info about the trip.",
+   "The info is on the website."
+  ],
+  "note": "Informal short form of \"information\"; uncountable."
+ },
+ "instrument": {
+  "ex": [
+   "Do you play an instrument?",
+   "The piano is my favorite instrument.",
+   "She plays three instruments.",
+   "The band uses old instruments."
+  ],
+  "note": ""
+ },
+ "PC": {
+  "ex": [
+   "I play games on my PC.",
+   "My PC is very slow.",
+   "She bought a new PC for work.",
+   "Turn off the PC before you leave."
+  ],
+  "note": ""
+ },
+ "highway": {
+  "ex": [
+   "We drove on the highway for hours.",
+   "The highway was full of trucks.",
+   "Take the highway to the airport.",
+   "There was an accident on the highway."
+  ],
+  "note": "Common in American English; also \"freeway\" or \"interstate\"."
+ },
+ "terrorist": {
+  "ex": [
+   "The terrorists were arrested.",
+   "Police stopped a terrorist attack.",
+   "The terrorist group made threats.",
+   "Terrorists attacked the city."
+  ],
+  "note": ""
+ },
+ "interior": {
+  "ex": [
+   "The interior of the house is modern.",
+   "I like the car's leather interior.",
+   "She works in interior design.",
+   "The interior needs new paint."
+  ],
+  "note": ""
+ },
+ "veteran": {
+  "ex": [
+   "My grandfather is a war veteran.",
+   "The veterans marched in the parade.",
+   "He helps veterans find jobs.",
+   "She is a veteran of the army."
+  ],
+  "note": ""
+ },
+ "ha": {
+  "ex": [
+   "Ha, that's so funny!",
+   "Ha, I knew it!",
+   "Ha, you missed!",
+   "Ha, very funny, but no."
+  ],
+  "note": ""
+ },
+ "killer": {
+  "ex": [
+   "The killer was caught by the police.",
+   "Police are looking for the killer.",
+   "He was hired as a killer.",
+   "The killer left no clues."
+  ],
+  "note": ""
+ },
+ "designer": {
+  "ex": [
+   "She is a fashion designer.",
+   "The designer made the logo.",
+   "He works as a web designer.",
+   "Designers showed new clothes in Paris."
+  ],
+  "note": ""
+ },
+ "fantasy": {
+  "ex": [
+   "I love reading fantasy books.",
+   "The movie is a fantasy with dragons.",
+   "Fantasy is my favorite genre.",
+   "She writes fantasy for kids."
+  ],
+  "note": ""
+ },
+ "lift": {
+  "ex": [
+   "Take the lift to the fifth floor.",
+   "The lift is out of order.",
+   "We waited for the lift.",
+   "The lift was full, so we walked."
+  ],
+  "note": "British word; in American English say \"elevator\"."
+ },
+ "tweet": {
+  "ex": [
+   "He posted a tweet about the game.",
+   "Her tweet got many replies.",
+   "I read his tweets every day.",
+   "The tweet went viral."
+  ],
+  "note": ""
+ },
+ "tank": {
+  "ex": [
+   "The tank moved across the field.",
+   "Soldiers rode on the tank.",
+   "Many tanks were in the parade.",
+   "The army sent tanks to the border."
+  ],
+  "note": ""
+ },
+ "yard": {
+  "ex": [
+   "The ball went ten yards.",
+   "The store is a hundred yards away.",
+   "He ran fifty yards.",
+   "A yard is about ninety centimeters."
+  ],
+  "note": ""
+ },
+ "bro": {
+  "ex": [
+   "Thanks, bro, I owe you.",
+   "What's up, bro?",
+   "He is my bro from college.",
+   "Bro, you have to see this."
+  ],
+  "note": "Very informal slang for a male friend; avoid in formal speech."
+ },
+ "rock and roll": {
+  "ex": [
+   "My dad loves old rock and roll.",
+   "They danced to rock and roll.",
+   "Rock and roll started in the 1950s.",
+   "He plays rock and roll on guitar."
+  ],
+  "note": ""
+ },
+ "gene": {
+  "ex": [
+   "Eye color is decided by genes.",
+   "Scientists found a new gene.",
+   "She has a gene for red hair.",
+   "Some diseases are in our genes."
+  ],
+  "note": ""
+ },
+ "clerk": {
+  "ex": [
+   "The clerk helped me at the store.",
+   "She works as a bank clerk.",
+   "Ask the clerk at the front desk.",
+   "The hotel clerk gave us our keys."
+  ],
+  "note": ""
+ },
+ "tone": {
+  "ex": [
+   "He played a low tone on the piano.",
+   "The guitar has a warm tone.",
+   "Her voice has a sweet tone.",
+   "Listen to the tone of each note."
+  ],
+  "note": ""
+ },
+ "basketball": {
+  "ex": [
+   "We play basketball after school.",
+   "He is tall and good at basketball.",
+   "The basketball game was on TV.",
+   "She joined the basketball team."
+  ],
+  "note": ""
+ },
+ "golf": {
+  "ex": [
+   "My dad plays golf on Sundays.",
+   "Golf is a quiet sport.",
+   "We watched golf on TV.",
+   "He learned golf as a child."
+  ],
+  "note": ""
+ },
+ "operator": {
+  "ex": [
+   "Call the operator for help.",
+   "The operator connected my call.",
+   "He is a machine operator.",
+   "The tour operator booked our hotel."
+  ],
+  "note": ""
+ },
+ "campus": {
+  "ex": [
+   "She lives on campus.",
+   "The campus has a big library.",
+   "We walked around the campus.",
+   "The campus is quiet in summer."
+  ],
+  "note": ""
+ },
+ "retail": {
+  "ex": [
+   "She works in retail.",
+   "Retail sales went up this month.",
+   "The retail price is twenty dollars.",
+   "Retail jobs are busy at Christmas."
+  ],
+  "note": ""
+ },
+ "export": {
+  "ex": [
+   "Coffee is the main export.",
+   "Exports rose last year.",
+   "The country depends on oil exports.",
+   "Wine is an important export here."
+  ],
+  "note": ""
+ },
+ "founder": {
+  "ex": [
+   "He is the founder of the company.",
+   "The founder still runs the business.",
+   "She met the founder at a conference.",
+   "The founders started in a garage."
+  ],
+  "note": ""
+ },
+ "rice": {
+  "ex": [
+   "We had rice with chicken.",
+   "Cook the rice for twenty minutes.",
+   "I bought a bag of rice.",
+   "Rice is cheap and filling."
+  ],
+  "note": "Uncountable: \"some rice\", not \"rices\"."
+ },
+ "format": {
+  "ex": [
+   "The file is in PDF format.",
+   "The show has a new format.",
+   "What format is the video in?",
+   "We changed the format of the meeting."
+  ],
+  "note": ""
+ },
+ "rock festival": {
+  "ex": [
+   "We camped at a rock festival.",
+   "The rock festival lasts three days.",
+   "My favorite band played at the rock festival.",
+   "Tickets for the rock festival are expensive."
+  ],
+  "note": ""
+ },
+ "idiot": {
+  "ex": [
+   "I felt like an idiot.",
+   "Don't be an idiot.",
+   "Some idiot parked in my spot.",
+   "He acted like an idiot."
+  ],
+  "note": "Rude; can offend people."
+ },
+ "baseball": {
+  "ex": [
+   "We watched a baseball game.",
+   "Baseball is popular in America.",
+   "He plays baseball every summer.",
+   "I bought a baseball cap."
+  ],
+  "note": ""
+ },
+ "athlete": {
+  "ex": [
+   "She is a top athlete.",
+   "Athletes train every day.",
+   "He was a great athlete in school.",
+   "The athletes entered the stadium."
+  ],
+  "note": ""
+ },
+ "tiger": {
+  "ex": [
+   "The tiger slept in the sun.",
+   "We saw a tiger at the zoo.",
+   "Tigers are big cats.",
+   "The tiger has orange and black stripes."
+  ],
+  "note": ""
+ },
+ "symptom": {
+  "ex": [
+   "Fever is a common symptom of flu.",
+   "What are your symptoms?",
+   "The symptoms went away after a week.",
+   "Call the doctor if symptoms get worse."
+  ],
+  "note": ""
+ },
+ "bonus": {
+  "ex": [
+   "She got a big bonus this year.",
+   "Workers get a bonus at Christmas.",
+   "The bonus was paid in December.",
+   "He spent his bonus on a new phone."
+  ],
+  "note": ""
+ },
+ "immigrant": {
+  "ex": [
+   "My parents were immigrants.",
+   "Many immigrants live in this city.",
+   "She helps new immigrants find work.",
+   "He came here as an immigrant."
+  ],
+  "note": ""
+ },
+ "log": {
+  "ex": [
+   "Check the log for errors.",
+   "The server keeps a log of visits.",
+   "I read the log to find the problem.",
+   "The app saves a log every day."
+  ],
+  "note": ""
+ },
+ "tag": {
+  "ex": [
+   "Add a tag to the photo.",
+   "Use tags to find posts quickly.",
+   "She added three tags to her post.",
+   "Search by tag to find more."
+  ],
+  "note": ""
+ },
+ "medal": {
+  "ex": [
+   "She won a gold medal.",
+   "He got a medal for bravery.",
+   "The team won three medals.",
+   "The medal hangs on his wall."
+  ],
+  "note": ""
+ },
+ "musical": {
+  "ex": [
+   "We saw a musical on Broadway.",
+   "She sang in a school musical.",
+   "The musical has great songs.",
+   "My favorite musical is about a cat."
+  ],
+  "note": ""
+ },
+ "ideal": {
+  "ex": [
+   "He has high ideals.",
+   "She lives by her ideals.",
+   "Freedom is an ideal for many.",
+   "That is my ideal of a good home."
+  ],
+  "note": ""
+ },
+ "critic": {
+  "ex": [
+   "The critic loved the new film.",
+   "Critics gave the play bad reviews.",
+   "She is a food critic.",
+   "He is a well-known art critic."
+  ],
+  "note": ""
+ },
+ "equivalent": {
+  "ex": [
+   "There is no equivalent of this word.",
+   "Ten dollars is the equivalent of nine euros.",
+   "What is the English equivalent?",
+   "This is the equivalent of a year's pay."
+  ],
+  "note": ""
+ },
+ "moral": {
+  "ex": [
+   "The moral of the story is to be kind.",
+   "Every fable has a moral.",
+   "What is the moral here?",
+   "The moral is simple: don't lie."
+  ],
+  "note": ""
+ },
+ "shock": {
+  "ex": [
+   "The news was a big shock.",
+   "It was a shock to see him.",
+   "He went into shock after the accident.",
+   "I got a shock from the wire."
+  ],
+  "note": ""
+ },
+ "opponent": {
+  "ex": [
+   "He beat his opponent easily.",
+   "Her opponent was very strong.",
+   "Respect your opponent.",
+   "The opponents shook hands."
+  ],
+  "note": ""
+ },
+ "reporter": {
+  "ex": [
+   "The reporter asked the mayor questions.",
+   "She is a TV reporter.",
+   "Reporters waited outside.",
+   "A reporter called me today."
+  ],
+  "note": ""
+ },
+ "jet": {
+  "ex": [
+   "The jet flew over the city.",
+   "He owns a private jet.",
+   "The jet landed safely.",
+   "We heard the noise of a jet."
+  ],
+  "note": ""
+ },
+ "plastic": {
+  "ex": [
+   "This toy is made of plastic.",
+   "Plastic is bad for the ocean.",
+   "We try to use less plastic.",
+   "Put the plastic in the blue bin."
+  ],
+  "note": ""
+ },
+ "lunch box": {
+  "ex": [
+   "I packed a sandwich in my lunch box.",
+   "Her lunch box has a cartoon on it.",
+   "Don't forget your lunch box!",
+   "He left his lunch box on the bus."
+  ],
+  "note": "Often spelled as one word: \"lunchbox\"."
+ },
+ "virus": {
+  "ex": [
+   "My computer has a virus.",
+   "She caught a virus at school.",
+   "The virus spreads fast.",
+   "Run a scan to find viruses."
+  ],
+  "note": ""
+ },
+ "import": {
+  "ex": [
+   "Oil is a big import.",
+   "Imports from China grew.",
+   "This car is an import.",
+   "Cheap imports hurt local farmers."
+  ],
+  "note": ""
+ },
+ "deposit": {
+  "ex": [
+   "I made a deposit at the bank.",
+   "You need a deposit to rent the apartment.",
+   "The deposit is one month's rent.",
+   "We got our deposit back."
+  ],
+  "note": ""
+ },
+ "forum": {
+  "ex": [
+   "I asked the question on a forum.",
+   "The forum has many helpful users.",
+   "He posts on a gaming forum.",
+   "Join our forum to share ideas."
+  ],
+  "note": ""
+ },
+ "auto": {
+  "ex": [
+   "He works in an auto shop.",
+   "The auto industry is growing.",
+   "Auto insurance is expensive.",
+   "She bought auto parts online."
+  ],
+  "note": "In everyday speech, people usually say \"car\"."
+ },
+ "formula": {
+  "ex": [
+   "Learn this formula for the test.",
+   "What is the formula for water?",
+   "The formula is on the board.",
+   "Use the formula to find the area."
+  ],
+  "note": ""
+ },
+ "celebrity": {
+  "ex": [
+   "The celebrity signed autographs.",
+   "She became a celebrity overnight.",
+   "Many celebrities came to the party.",
+   "He met a celebrity at the airport."
+  ],
+  "note": ""
+ },
+ "crystal": {
+  "ex": [
+   "The salt formed small crystals.",
+   "Ice crystals covered the window.",
+   "This crystal is very old.",
+   "She grew crystals in science class."
+  ],
+  "note": ""
+ },
+ "contrast": {
+  "ex": [
+   "The photo has strong contrast.",
+   "There is a nice contrast of colors.",
+   "Turn up the contrast on the screen.",
+   "The contrast between black and white is bold."
+  ],
+  "note": ""
+ },
+ "investor": {
+  "ex": [
+   "Investors put money in the startup.",
+   "She is a smart investor.",
+   "The company met with investors.",
+   "Investors are worried about prices."
+  ],
+  "note": ""
+ },
+ "junior": {
+  "ex": [
+   "He started as a junior at the company.",
+   "The juniors train after school.",
+   "She is a junior developer.",
+   "The junior team won the cup."
+  ],
+  "note": ""
+ },
+ "Latin": {
+  "ex": [
+   "He studied Latin in school.",
+   "Many English words come from Latin.",
+   "Latin is not spoken today.",
+   "The motto is in Latin."
+  ],
+  "note": ""
+ },
+ "palace": {
+  "ex": [
+   "The king lived in a palace.",
+   "We visited the palace in Vienna.",
+   "The palace has a beautiful garden.",
+   "Tourists took photos of the palace."
+  ],
+  "note": ""
+ },
+ "avenue": {
+  "ex": [
+   "The shop is on Fifth Avenue.",
+   "We walked down the avenue.",
+   "The avenue has many trees.",
+   "Turn left onto the main avenue."
+  ],
+  "note": ""
+ },
+ "fort": {
+  "ex": [
+   "The old fort is on the hill.",
+   "Soldiers lived in the fort.",
+   "We visited a fort from the 1800s.",
+   "The fort protected the city."
+  ],
+  "note": ""
+ },
+ "audio": {
+  "ex": [
+   "The audio is not working.",
+   "The audio on this video is bad.",
+   "Turn up the audio, please.",
+   "She edits audio for podcasts."
+  ],
+  "note": ""
+ },
+ "playoff": {
+  "ex": [
+   "Our team made the playoffs.",
+   "The playoff game is on Sunday.",
+   "They lost in the first round of the playoffs.",
+   "Playoff tickets sold out fast."
+  ],
+  "note": ""
+ },
+ "slide": {
+  "ex": [
+   "Go to the next slide, please.",
+   "The slide shows last year's sales.",
+   "She made twenty slides for her talk.",
+   "This slide has too much text."
+  ],
+  "note": ""
+ },
+ "time-out": {
+  "ex": [
+   "The coach called a time-out.",
+   "Each team has two time-outs.",
+   "After the time-out, they scored.",
+   "The players talked during the time-out."
+  ],
+  "note": ""
+ },
+ "set": {
+  "ex": [
+   "She won the first set.",
+   "The match lasted five sets.",
+   "The band played a short set.",
+   "He lost the set six to four."
+  ],
+  "note": ""
+ },
+ "community": {
+  "ex": [
+   "Our online community is very friendly.",
+   "She is active in the local community.",
+   "The community helped after the fire.",
+   "Join our community of readers."
+  ],
+  "note": ""
+ },
+ "back office": {
+  "ex": [
+   "She works in the back office.",
+   "The back office handles payments.",
+   "Back office staff process orders.",
+   "The back office is on the second floor."
+  ],
+  "note": ""
+ },
+ "home office": {
+  "ex": [
+   "I work from my home office.",
+   "He set up a home office in the bedroom.",
+   "My home office has a big desk.",
+   "A home office saves time."
+  ],
+  "note": ""
+ },
+ "re": {
+  "ex": [
+   "Re is the second note of the scale.",
+   "Sing do, re, mi.",
+   "Play re on the piano.",
+   "After do comes re."
+  ],
+  "note": ""
+ },
+ "perfect": {
+  "ex": [
+   "The present perfect is hard for learners.",
+   "We use the perfect for past actions.",
+   "She practiced the past perfect.",
+   "Use the perfect with \"have\" and a past participle."
+  ],
+  "note": ""
+ },
+ "drive-in": {
+  "ex": [
+   "We watched a movie at a drive-in.",
+   "The old drive-in is open in summer.",
+   "There is a drive-in near the highway.",
+   "We ate burgers at a drive-in."
+  ],
+  "note": ""
+ },
+ "la": {
+  "ex": [
+   "La is the sixth note of the scale.",
+   "Sing do, re, mi, fa, sol, la.",
+   "Play la on the guitar.",
+   "The note la is also called A."
+  ],
+  "note": ""
+ }
+}
