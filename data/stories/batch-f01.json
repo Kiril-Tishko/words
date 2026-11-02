@@ -1,0 +1,585 @@
+[
+{
+"id": "c009",
+"part": "p02",
+"title": "At the burger place",
+"scene": "After the cinema Max wants fast food, so they go to a burger place with a drive-through. Max orders a burger with ketchup and mayonnaise and a milkshake, Anna takes a sundae, and Max's older cousin orders a cold lager.",
+"anchors": [
+"fast food",
+"burger",
+"drive-through",
+"ketchup",
+"mayonnaise",
+"milkshake",
+"sundae",
+"lager"
+],
+"level": "A1",
+"words": [
+{
+"en": "fast food",
+"uk": "фастфуд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I try not to eat fast food."
+},
+{
+"en": "burger",
+"uk": "бургер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a burger and fries, please."
+},
+{
+"en": "drive-through",
+"uk": "драйв-тру",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, places",
+"ex": "Let's get coffee at the drive-through on the way to work."
+},
+{
+"en": "ketchup",
+"uk": "кетчуп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Do you want ketchup on your fries?"
+},
+{
+"en": "mayonnaise",
+"uk": "майонез",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can you add some mayonnaise to my sandwich?"
+},
+{
+"en": "milkshake",
+"uk": "мілкшейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a burger and a chocolate milkshake."
+},
+{
+"en": "sundae",
+"uk": "санде",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have a chocolate sundae, please?"
+},
+{
+"en": "hamburger",
+"uk": "гамбургер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a hamburger and fries, please."
+},
+{
+"en": "cheeseburger",
+"uk": "чизбургер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ordered a cheeseburger and fries."
+},
+{
+"en": "junk food",
+"uk": "джанк-фуд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I try not to eat junk food every day."
+},
+{
+"en": "smoothie",
+"uk": "смузі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I have a banana smoothie for breakfast."
+}
+],
+"old_story": "After the cinema, Max wants [[fast food]]. They walk to a small place near the park. Cars wait in line at the [[drive-through]]. But Anna, Max, and his cousin Ihor go inside. Max orders a [[burger]] with [[ketchup]] and [[mayonnaise]]. He also gets a chocolate [[milkshake]]. Anna takes a small [[sundae]]. Ihor is older, so he orders a cold [[lager]]. They eat and talk about the movie. Max has sauce on his nose, and they laugh."
+},
+{
+"id": "c010",
+"part": "p02",
+"title": "Breakfast at home",
+"scene": "Anna's mama makes a big Sunday breakfast. Bread goes into the toaster for toast with jam, there are pancakes with syrup, bacon and an omelet, and Taras eats only yogurt and half a grapefruit.",
+"anchors": [
+"toaster",
+"toast",
+"jam",
+"pancake",
+"syrup",
+"bacon",
+"omelet",
+"yogurt",
+"grapefruit"
+],
+"level": "A2",
+"words": [
+{
+"en": "toaster",
+"uk": "тостер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, home",
+"ex": "Put two slices of bread in the toaster."
+},
+{
+"en": "toast",
+"uk": "тост",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I have toast and eggs for breakfast."
+},
+{
+"en": "jam",
+"uk": "джем",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I spread strawberry jam on my toast."
+},
+{
+"en": "pancake",
+"uk": "панкейк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had pancakes with syrup for breakfast."
+},
+{
+"en": "syrup",
+"uk": "сироп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Pour some syrup on your pancakes."
+},
+{
+"en": "bacon",
+"uk": "бекон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I usually have bacon and eggs for breakfast."
+},
+{
+"en": "omelet",
+"uk": "омлет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made an omelet with cheese for breakfast."
+},
+{
+"en": "yogurt",
+"uk": "йогурт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I eat yogurt with fruit for breakfast."
+},
+{
+"en": "grapefruit",
+"uk": "грейпфрут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "I eat half a grapefruit for breakfast."
+},
+{
+"en": "French toast",
+"uk": "френч-тост",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I make French toast with eggs, milk, and bread."
+}
+],
+"old_story": "On Sunday morning, Anna's mama made a big breakfast. She put bread in the [[toaster]]. Soon there was hot [[toast]] with [[jam]] on the table. Next came [[pancakes|pancake]] with sweet [[syrup]]. Dad cooked [[bacon]] and a cheese [[omelet]]. Anna ate everything and felt very happy. Only her brother Taras was on a diet. He ate just [[yogurt]] and half a [[grapefruit]]. But ten minutes later, his plate was full!"
+},
+{
+"id": "c011",
+"part": "p02",
+"title": "At the supermarket",
+"scene": "Anna and Max shop at the supermarket for a dinner with friends. They buy a kilo of tomatoes, two liters of milk, broccoli, an avocado, citrus fruit, a mango, kiwis and tangerines, and cheddar, salami and crackers.",
+"anchors": [
+"supermarket",
+"kilo",
+"liter",
+"broccoli",
+"avocado",
+"citrus",
+"mango",
+"kiwi",
+"tangerine",
+"cheddar",
+"salami",
+"cracker"
+],
+"level": "A1",
+"words": [
+{
+"en": "supermarket",
+"uk": "супермаркет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "Is there a supermarket near here?"
+},
+{
+"en": "broccoli",
+"uk": "броколі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Please eat your broccoli because it is good for you."
+},
+{
+"en": "avocado",
+"uk": "авокадо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put avocado on my toast every morning."
+},
+{
+"en": "citrus",
+"uk": "цитрус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "Lemons, limes, and oranges are all citrus fruits."
+},
+{
+"en": "mango",
+"uk": "манго",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I eat a sweet mango for breakfast every day."
+},
+{
+"en": "kiwi",
+"uk": "ківі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "I cut a kiwi in half and ate it with a spoon."
+},
+{
+"en": "tangerine",
+"uk": "танжерин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put a tangerine in my son's lunch box."
+},
+{
+"en": "cheddar",
+"uk": "чеддер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put cheddar on my sandwich."
+},
+{
+"en": "cracker",
+"uk": "крекер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ate cheese on a cracker."
+},
+{
+"en": "mandarin",
+"uk": "мандарин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She peeled a mandarin for her son."
+},
+{
+"en": "lemon",
+"uk": "лимон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have tea with lemon, please?"
+},
+{
+"en": "lime",
+"uk": "лайм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add a slice of lime to your drink."
+}
+],
+"old_story": "Anna and Max go to the [[supermarket]]. Friends come for dinner tonight. First, they take a [[kilo]] of tomatoes. Then they get two [[liters|liter]] of milk. Max puts [[broccoli]] and an [[avocado]] in the cart. They also take a sweet [[mango]] and four [[kiwis|kiwi]]. Anna loves [[citrus]] fruit, so she adds [[tangerines|tangerine]]. For snacks, they get [[cheddar]], [[salami]], and [[crackers|cracker]]. At the checkout, Max looks at the bill. It is a big dinner!"
+},
+{
+"id": "c013",
+"part": "p02",
+"title": "Baking a birthday cake",
+"scene": "Anna and her mama bake for Grandma's birthday: they weigh the ingredients in grams, use honey as a substitute for sugar, mix in cinnamon and vanilla extract with the mixer and set the timer. They make cupcakes with icing, a cheesecake with gelatin, a red velvet cake, brownies, an apple tart and chocolate fudge.",
+"anchors": [
+"ingredient",
+"gram",
+"substitute",
+"cinnamon",
+"extract",
+"mixer",
+"timer",
+"cupcake",
+"icing",
+"cheesecake",
+"brownie",
+"tart"
+],
+"level": "A2",
+"words": [
+{
+"en": "ingredient",
+"uk": "інгредієнт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "What are the ingredients in this cake?"
+},
+{
+"en": "substitute",
+"uk": "субститут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Use honey as a substitute for sugar."
+},
+{
+"en": "cinnamon",
+"uk": "цинамон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put cinnamon on my oatmeal."
+},
+{
+"en": "extract",
+"uk": "екстракт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Add a teaspoon of vanilla extract to the cake."
+},
+{
+"en": "mixer",
+"uk": "міксер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, music",
+"ex": "I use an electric mixer to make cakes."
+},
+{
+"en": "timer",
+"uk": "таймер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "time",
+"ex": "Set the timer for ten minutes."
+},
+{
+"en": "cupcake",
+"uk": "капкейк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked chocolate cupcakes for the party."
+},
+{
+"en": "icing",
+"uk": "айсинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "My son licked the icing off his cupcake."
+},
+{
+"en": "cheesecake",
+"uk": "чізкейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked a strawberry cheesecake."
+},
+{
+"en": "brownie",
+"uk": "брауні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked chocolate brownies for the party."
+},
+{
+"en": "tart",
+"uk": "тарт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked an apple tart for the party."
+},
+{
+"en": "fudge",
+"uk": "фадж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She made chocolate fudge for the holidays."
+},
+{
+"en": "pecan",
+"uk": "пекан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "She baked a pecan pie for the holiday."
+},
+{
+"en": "red velvet",
+"uk": "ред-вельвет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have a slice of red velvet, please?"
+},
+{
+"en": "muffin",
+"uk": "мафін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a blueberry muffin for breakfast."
+},
+{
+"en": "blender",
+"uk": "блендер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "I make smoothies in the blender every morning."
+}
+],
+"old_story": "Anna and her mom bake for Grandma's birthday. First they put all the [[ingredients|ingredient]] on the table. Anna weighs two hundred [[grams|gram]] of flour. They have no sugar, so honey is their [[substitute]]. Mom adds [[cinnamon]] and a spoon of vanilla [[extract]]. Anna turns on the [[mixer]], and Mom sets the [[timer]]. Soon twelve [[cupcakes|cupcake]] come out of the oven. Anna puts pink [[icing]] on each one. Then they make a [[cheesecake]] and a tray of [[brownies|brownie]]. Mom bakes an apple [[tart]], and Anna makes chocolate [[fudge]] with [[pecans|pecan]]. Last, they make Grandma's favorite [[red velvet]] cake. In the evening, Grandma tries everything and smiles."
+},
+{
+"id": "c014",
+"part": "p02",
+"title": "A barbecue at the dacha",
+"scene": "On Saturday Anna's family has a barbecue at the dacha. Dad connects the propane and checks the regulator, then cooks hamburgers, hot dogs and roast beef on the grill; everyone has a big appetite, and the kids drink lemonade and roast marshmallows.",
+"anchors": [
+"barbecue",
+"propane",
+"regulator",
+"hamburger",
+"hot dog",
+"roast beef",
+"grill",
+"appetite",
+"lemonade",
+"marshmallow"
+],
+"level": "A2",
+"words": [
+{
+"en": "barbecue",
+"uk": "барбекю",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We're having a barbecue in the backyard on Saturday."
+},
+{
+"en": "propane",
+"uk": "пропан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We cook on a propane grill in the backyard."
+},
+{
+"en": "regulator",
+"uk": "регулятор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Turn the regulator to lower the gas pressure."
+},
+{
+"en": "hot dog",
+"uk": "хот-дог",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I bought a hot dog at the game."
+},
+{
+"en": "roast beef",
+"uk": "ростбіф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made a roast beef sandwich for lunch."
+},
+{
+"en": "grill",
+"uk": "гриль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We cooked burgers on the grill in the backyard."
+},
+{
+"en": "appetite",
+"uk": "апетит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I have no appetite after that long flight."
+},
+{
+"en": "lemonade",
+"uk": "лимонад",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "The kids sold lemonade on a hot day."
+},
+{
+"en": "marshmallow",
+"uk": "маршмелоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We roasted marshmallows over the campfire."
+},
+{
+"en": "gas",
+"uk": "газ",
+"band": "top-2000",
+"pos": "noun",
+"topics": "science",
+"ex": "Turn off the gas after cooking."
+}
+],
+"old_story": "On Saturday Anna's family has a [[barbecue]] at the dacha. Dad connects the [[propane]] tank carefully. He checks the [[regulator]] twice. Then he cooks [[hamburgers|hamburger]] and [[hot dogs|hot dog]] for everyone. Later he puts a big piece of [[roast beef]] on the [[grill]]. After a day in the garden, everyone has a huge [[appetite]]. The kids drink cold [[lemonade]] in the shade. In the evening they roast [[marshmallows|marshmallow]] over the fire. Nobody wants to go back to the city."
+}
+]

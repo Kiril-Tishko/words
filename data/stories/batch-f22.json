@@ -1,0 +1,721 @@
+[
+{
+"id": "c178",
+"part": "p18",
+"title": "Genes and germs",
+"scene": "Anna's aunt works in a biotech lab. She studies the human genome, shows Anna a clone and a mutant fly under the microscope, explains how a microbe makes a toxin and how an enzyme or an inhibitor works, and how scientists fight Ebola and anthrax.",
+"anchors": [
+"biotech",
+"genome",
+"clone",
+"mutant",
+"microscope",
+"microbe",
+"toxin",
+"enzyme",
+"inhibitor",
+"Ebola",
+"anthrax"
+],
+"level": "B1",
+"words": [
+{
+"en": "biotech",
+"uk": "біотех",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "She works for a biotech company near the university."
+},
+{
+"en": "genome",
+"uk": "геном",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Scientists mapped the human genome."
+},
+{
+"en": "clone",
+"uk": "клон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The sheep in the photo is a clone."
+},
+{
+"en": "mutant",
+"uk": "мутант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The movie is about a mutant with special powers."
+},
+{
+"en": "microscope",
+"uk": "мікроскоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Look at the cells under the microscope."
+},
+{
+"en": "microbe",
+"uk": "мікроб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "Microbes live everywhere, even in our bodies."
+},
+{
+"en": "toxin",
+"uk": "токсин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The liver removes toxins from the body."
+},
+{
+"en": "enzyme",
+"uk": "ензим",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology, chemistry",
+"ex": "Enzymes help the body digest food."
+},
+{
+"en": "inhibitor",
+"uk": "інгібітор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, chemistry",
+"ex": "The new medicine is an inhibitor that slows the virus."
+},
+{
+"en": "Ebola",
+"uk": "Ебола",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Ebola is a very dangerous virus."
+},
+{
+"en": "anthrax",
+"uk": "антракс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Anthrax is a dangerous disease of animals and people."
+},
+{
+"en": "actin",
+"uk": "актин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Actin is a protein that helps muscles move."
+},
+{
+"en": "virus",
+"uk": "вірус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "medicine, tech",
+"ex": "I think I have a virus."
+},
+{
+"en": "pathogen",
+"uk": "патоген",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "A virus is a type of pathogen."
+},
+{
+"en": "gene",
+"uk": "ген",
+"band": "top-3000",
+"pos": "noun",
+"topics": "biology",
+"ex": "I think it's in my genes."
+}
+],
+"old_story": "Anna's aunt Lida works at a [[biotech]] lab near the university. One day, she invited Anna to visit. \"Here we study the human [[genome]],\" she said. She showed a photo of a sheep and said it was a [[clone]]. Under the [[microscope]], Anna saw a [[mutant]] fly with tiny extra wings. Then Lida showed her a [[microbe]] that makes a dangerous [[toxin]]. \"This [[enzyme]] breaks the toxin down, and this [[inhibitor]] stops the microbe from growing,\" she explained. Next, Anna looked at muscle cells and learned that the protein [[actin]] helps them move. \"Our team also helps doctors fight [[Ebola]] and [[anthrax]],\" Lida said. At home, Anna told Max, \"Maybe I'll become a scientist too!\""
+},
+{
+"id": "c179",
+"part": "p18",
+"title": "Brain, mood and hormones",
+"scene": "A lecture at medical school explains the brain: neurons in the cortex, receptors and serotonin, how an antidepressant works, and what happens in mania, paranoia, amnesia and autism. The professor also talks about testosterone and estrogen, the reflex in the knee, the protein actin, every organ, and the placenta in the first trimester.",
+"anchors": [
+"neuron",
+"cortex",
+"receptor",
+"serotonin",
+"antidepressant",
+"mania",
+"paranoia",
+"amnesia",
+"autism",
+"testosterone",
+"estrogen",
+"reflex"
+],
+"level": "B1",
+"words": [
+{
+"en": "neuron",
+"uk": "нейрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The brain has billions of tiny neurons."
+},
+{
+"en": "cortex",
+"uk": "кортекс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The cortex is the outer layer of the brain."
+},
+{
+"en": "receptor",
+"uk": "рецептор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The drug blocks certain receptors in the brain."
+},
+{
+"en": "serotonin",
+"uk": "серотонін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Serotonin is a brain chemical that affects your mood."
+},
+{
+"en": "antidepressant",
+"uk": "антидепресант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor prescribed an antidepressant."
+},
+{
+"en": "mania",
+"uk": "манія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "During his mania, he barely slept."
+},
+{
+"en": "paranoia",
+"uk": "параноя",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "His paranoia made him trust no one."
+},
+{
+"en": "amnesia",
+"uk": "амнезія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "After the accident, he suffered from amnesia."
+},
+{
+"en": "autism",
+"uk": "аутизм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Her son was diagnosed with autism last year."
+},
+{
+"en": "testosterone",
+"uk": "тестостерон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Testosterone is a male hormone."
+},
+{
+"en": "estrogen",
+"uk": "естроген",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "Estrogen is an important hormone in the female body."
+},
+{
+"en": "reflex",
+"uk": "рефлекс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The doctor tested the reflex in my knee."
+},
+{
+"en": "adrenaline",
+"uk": "адреналін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I felt a rush of adrenaline before the race."
+},
+{
+"en": "insulin",
+"uk": "інсулін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He takes insulin every day for diabetes."
+}
+],
+"old_story": "On Tuesday, Anna went with her friend Ira to an open lecture at medical school. The professor showed a picture of a [[neuron]], one of billions in the brain. \"This outer layer is the [[cortex]],\" she said. She explained how each [[receptor]] catches chemicals like [[serotonin]], which affects mood. \"An [[antidepressant]] can help when a person feels sad for a long time,\" she said. Then she talked about [[mania]], when people barely sleep, and [[paranoia]], when they trust no one. A student asked about [[amnesia]], when a person loses memories. The professor said that [[autism]] is simply a different way a brain develops and works. Hormones matter too, like [[testosterone]] and [[estrogen]]. At the end, she tapped Ira's knee, and her leg jumped: a perfect [[reflex]]!"
+},
+{
+"id": "c180",
+"part": "p18",
+"title": "Medical school",
+"scene": "Anna's friend Ira studies at medical school. In anatomy class they work with a cadaver and a scalpel and learn about the abdomen, the appendix, the pancreas, the aorta, the digestive tract and the anus; in the hospital she sees triage, anesthesia, a catheter and a muscle spasm, and reads how doctors once used chloroform.",
+"anchors": [
+"cadaver",
+"scalpel",
+"abdomen",
+"appendix",
+"pancreas",
+"aorta",
+"tract",
+"anus",
+"triage",
+"anesthesia",
+"catheter",
+"spasm"
+],
+"level": "B1",
+"words": [
+{
+"en": "cadaver",
+"uk": "кадавр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Medical students study anatomy on a cadaver."
+},
+{
+"en": "scalpel",
+"uk": "скальпель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The surgeon asked for a scalpel."
+},
+{
+"en": "abdomen",
+"uk": "абдомен",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He felt pain in his lower abdomen."
+},
+{
+"en": "appendix",
+"uk": "апендикс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor removed his appendix last year."
+},
+{
+"en": "pancreas",
+"uk": "панкреас",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The pancreas makes insulin to control your blood sugar."
+},
+{
+"en": "aorta",
+"uk": "аорта",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The aorta is the biggest blood vessel in the body."
+},
+{
+"en": "tract",
+"uk": "тракт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The digestive tract is about nine meters long."
+},
+{
+"en": "anus",
+"uk": "анус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor examined the patient's anus."
+},
+{
+"en": "triage",
+"uk": "тріаж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "In the emergency room, triage decides who goes first."
+},
+{
+"en": "anesthesia",
+"uk": "анестезія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The surgery was done under general anesthesia."
+},
+{
+"en": "catheter",
+"uk": "катетер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The nurse put in a catheter after surgery."
+},
+{
+"en": "spasm",
+"uk": "спазм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He felt a sharp spasm in his back."
+},
+{
+"en": "organ",
+"uk": "орган",
+"band": "top-5000",
+"pos": "noun",
+"topics": "biology",
+"ex": "I want to be an organ donor."
+},
+{
+"en": "anesthetic",
+"uk": "анестетик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The dentist gave me a local anesthetic before the filling."
+},
+{
+"en": "tic",
+"uk": "тик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He has a nervous tic in his eye."
+},
+{
+"en": "tremor",
+"uk": "тремор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He has a slight tremor in his hands."
+}
+],
+"old_story": "Anna's friend Ira told her about a busy week at medical school. On Monday, her anatomy group studied a [[cadaver]] with great respect. The teacher held up a [[scalpel]] and explained each step. They looked inside the [[abdomen]] and found the small [[appendix]]. Ira also saw the [[pancreas]], which makes insulin, and the huge [[aorta]]. The teacher said the digestive [[tract]] runs from the mouth to the [[anus]]. On Wednesday, Ira watched [[triage]] in the hospital's emergency room. A man with a broken leg had surgery under [[anesthesia]]. Later, a nurse showed Ira how to put in a [[catheter]]. After the long day, Ira felt a sharp [[spasm]] in her back. Still, she called Anna happily: \"Today I signed up to be an [[organ]] donor!\""
+},
+{
+"id": "c181",
+"part": "p18",
+"title": "On the hospital ward",
+"scene": "Ira works on a hospital ward. She meets patients with a tumor, leukemia, anemia, a rare syndrome, asthma, diarrhea and vertigo, learns about polio, penicillin, an antidote and a placebo in medical history, and talks with a family about a hospice and euthanasia.",
+"anchors": [
+"tumor",
+"leukemia",
+"anemia",
+"syndrome",
+"asthma",
+"diarrhea",
+"vertigo",
+"polio",
+"penicillin",
+"antidote",
+"placebo",
+"hospice"
+],
+"level": "B1",
+"words": [
+{
+"en": "tumor",
+"uk": "тумор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor said the tumor is not cancer."
+},
+{
+"en": "leukemia",
+"uk": "лейкемія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Leukemia is a cancer of the blood."
+},
+{
+"en": "anemia",
+"uk": "анемія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Her tiredness was caused by anemia."
+},
+{
+"en": "syndrome",
+"uk": "синдром",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor said I have a rare syndrome."
+},
+{
+"en": "asthma",
+"uk": "астма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "My son has asthma and uses an inhaler."
+},
+{
+"en": "diarrhea",
+"uk": "діарея",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He got diarrhea after drinking the tap water."
+},
+{
+"en": "vertigo",
+"uk": "вертиго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She gets vertigo on tall buildings."
+},
+{
+"en": "polio",
+"uk": "поліо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The polio vaccine has saved millions of children."
+},
+{
+"en": "penicillin",
+"uk": "пеніцилін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave me penicillin for my sore throat."
+},
+{
+"en": "antidote",
+"uk": "антидот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave him an antidote to the poison."
+},
+{
+"en": "hospice",
+"uk": "хоспіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, places",
+"ex": "Her grandfather spent his last weeks in a hospice."
+},
+{
+"en": "cholera",
+"uk": "холера",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Cholera spreads through dirty water."
+},
+{
+"en": "antibiotic",
+"uk": "антибіотик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave me antibiotics for my throat."
+},
+{
+"en": "lymphoma",
+"uk": "лімфома",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He was diagnosed with lymphoma last year."
+}
+],
+"old_story": "On her first day on the hospital ward, Ira met many patients. A young man was happy because his [[tumor]] was not cancer. A brave girl was fighting [[leukemia]], and an old teacher was weak from [[anemia]]. A boy had a rare [[syndrome]], and a little girl showed Ira her [[asthma]] inhaler. A tourist had [[diarrhea]] after drinking tap water, and a painter had [[vertigo]]. At lunch, an old doctor told her stories about [[polio]] and the first [[penicillin]]. Once, he said, a quick [[antidote]] saved a farmer after a snake bite. In one study, some patients felt better after taking only a [[placebo]]. Long ago, [[cholera]] spread through the dirty water of the city. In the evening, Ira helped a family find a quiet [[hospice]] for their grandfather. She went home tired but proud of her work."
+},
+{
+"id": "c182",
+"part": "p19",
+"title": "A castle in England",
+"scene": "Anna visits an old castle in England with a stone bastion. A guide tells her about the lord and the duke who lived there, an earl, squires and yeomen, the gentry and every aristocrat, a monarch on the throne with his consort, a regent, a loyal vassal and the loyalists, and a dandy in fancy clothes.",
+"anchors": [
+"bastion",
+"lord",
+"duke",
+"earl",
+"squire",
+"yeoman",
+"gentry",
+"aristocrat",
+"monarch",
+"throne",
+"consort",
+"regent"
+],
+"level": "B1",
+"words": [
+{
+"en": "lord",
+"uk": "лорд",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "We visited the castle of an old lord."
+},
+{
+"en": "duke",
+"uk": "дюк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I'm reading a book about a duke and his family."
+},
+{
+"en": "earl",
+"uk": "ерл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The earl lived in a huge castle."
+},
+{
+"en": "squire",
+"uk": "сквайр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The squire owned most of the land around the village."
+},
+{
+"en": "yeoman",
+"uk": "йомен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "In old England, a yeoman owned and farmed his own land."
+},
+{
+"en": "gentry",
+"uk": "джентрі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The gentry lived in large country houses."
+},
+{
+"en": "aristocrat",
+"uk": "аристократ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He was born into a family of aristocrats."
+},
+{
+"en": "monarch",
+"uk": "монарх",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The monarch gave a speech on TV today."
+},
+{
+"en": "throne",
+"uk": "трон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who will be next on the throne?"
+},
+{
+"en": "consort",
+"uk": "консорт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The queen's consort stood beside her."
+},
+{
+"en": "regent",
+"uk": "регент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The queen's uncle ruled as regent."
+},
+{
+"en": "vassal",
+"uk": "васал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The vassal promised loyalty to his lord."
+},
+{
+"en": "baron",
+"uk": "барон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The baron lived in a large castle."
+},
+{
+"en": "tsar",
+"uk": "цар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The museum has a portrait of a Russian tsar."
+},
+{
+"en": "kaiser",
+"uk": "кайзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "Kaiser was the title of the German emperor."
+},
+{
+"en": "sovereign",
+"uk": "суверен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The sovereign opened the new session of parliament."
+}
+],
+"old_story": "Anna visited an old castle in England with Max during the summer holidays. They climbed the stone [[bastion]] and looked at the green fields below. A friendly guide said that a rich [[lord]] built the castle long ago. Later, a [[duke]] lived here, and then an [[earl]] bought it. A [[squire]] owned the village nearby, and each [[yeoman]] farmed his own land. The local [[gentry]] came to big dinners in the great hall. Every [[aristocrat]] wore expensive clothes and danced all night. Once, a [[monarch]] visited the castle and sat on a golden [[throne]]. His [[consort]] stood beside him and smiled at the guests. Their son was too young to rule, so his uncle became [[regent]]. A loyal [[vassal]] promised to protect the boy with his life. At the end, Anna posed like a queen for Max's camera."
+}
+]

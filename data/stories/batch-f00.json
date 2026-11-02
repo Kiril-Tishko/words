@@ -1,0 +1,587 @@
+[
+{
+"id": "c001",
+"part": "p01",
+"title": "Nice to meet you",
+"scene": "It is Anna's first week at college in Kyiv. At a party for new students a speaker says 'Ladies and gentlemen, welcome!' to all the people; Anna says hello to Max - 'Nice to meet you!' - a student from her college, and by the end of the cool party they are good friends.",
+"anchors": [
+"college",
+"party",
+"student",
+"lady",
+"gentleman",
+"welcome",
+"people",
+"hello",
+"nice",
+"cool",
+"good",
+"friend"
+],
+"level": "A1",
+"words": [
+{
+"en": "party",
+"uk": "паті",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Come to my party!"
+},
+{
+"en": "student",
+"uk": "студент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "I am a student."
+},
+{
+"en": "welcome",
+"uk": "велкам",
+"band": "top-3000",
+"pos": "interj",
+"topics": "other",
+"ex": "Welcome to our home!"
+},
+{
+"en": "people",
+"uk": "піпл",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "How many people are here?"
+},
+{
+"en": "hello",
+"uk": "хелло",
+"band": "top-1000",
+"pos": "interj",
+"topics": "language",
+"ex": "Hello, how are you?"
+},
+{
+"en": "nice",
+"uk": "найс",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Nice to meet you."
+},
+{
+"en": "cool",
+"uk": "кул",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Your new phone is cool!"
+},
+{
+"en": "good",
+"uk": "гуд",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Is this cafe good?"
+},
+{
+"en": "friend",
+"uk": "френд",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "This is my friend Anna."
+},
+{
+"en": "amigo",
+"uk": "аміго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Hey amigo, how are you doing?"
+},
+{
+"en": "comrade",
+"uk": "камрад",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I met my old army comrades last summer."
+}
+],
+"old_story": "It is Anna's first week at [[college]] in Kyiv. Tonight there is a [[party]] for new [[students|student]]. A man says, \"[[Ladies|lady]] and [[gentlemen|gentleman]], [[welcome]]!\" Many [[people]] smile and clap. Anna sees a tall boy alone. She says, \"[[Hello|hello]]! I am Anna.\" He says, \"I am Max. [[Nice|nice]] to meet you!\" They dance and laugh all night. The music is [[cool]], and the food is [[good]]. At the end, Anna and Max are [[friends|friend]]."
+},
+{
+"id": "c002",
+"part": "p01",
+"title": "Lost on the first day",
+"scene": "Anna is late and in trouble on her first day. A guard says 'Your ID, please', she answers 'Sorry, sir, one moment', and a kind Miss at the desk says the room is easy to find - 'OK, thank you!'",
+"anchors": [
+"trouble",
+"ID",
+"please",
+"sorry",
+"sir",
+"moment",
+"Miss",
+"easy",
+"OK"
+],
+"level": "A1",
+"words": [
+{
+"en": "trouble",
+"uk": "трабл",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Are you in trouble?"
+},
+{
+"en": "ID",
+"uk": "айді",
+"band": "top-3000",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Can I see your ID, please?"
+},
+{
+"en": "please",
+"uk": "пліз",
+"band": "top-1000",
+"pos": "adv",
+"topics": "other",
+"ex": "Call a taxi, please."
+},
+{
+"en": "sorry",
+"uk": "сорі",
+"band": "top-1000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Sorry, I'm late."
+},
+{
+"en": "sir",
+"uk": "сер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, sir."
+},
+{
+"en": "moment",
+"uk": "момент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "time",
+"ex": "Wait a moment, please."
+},
+{
+"en": "Miss",
+"uk": "міс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, Miss, is this your bag?"
+},
+{
+"en": "easy",
+"uk": "ізі",
+"band": "top-1000",
+"pos": "adj",
+"topics": "games",
+"ex": "This test is easy."
+},
+{
+"en": "OK",
+"uk": "окей",
+"band": "top-1000",
+"pos": "interj",
+"topics": "other",
+"ex": "OK, see you tomorrow."
+},
+{
+"en": "mister",
+"uk": "містер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, mister, you dropped your wallet."
+},
+{
+"en": "Mrs.",
+"uk": "місіс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Is it Mrs. or Ms.?"
+},
+{
+"en": "madam",
+"uk": "мадам",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, madam, can I help you?"
+},
+{
+"en": "lady",
+"uk": "леді",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen."
+},
+{
+"en": "gentleman",
+"uk": "джентльмен",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen!"
+}
+],
+"old_story": "Anna is late on her first day. At the door, she is in [[trouble]]. A guard says, \"Your [[ID]], [[please]].\" Anna opens her bag and says, \"[[Sorry|sorry]], [[sir]]. One [[moment]].\" Then she cannot find room twelve. She asks a woman at the desk, \"Excuse me, [[Miss]], where is it?\" The woman smiles. \"It is [[easy]]. Go up and left.\" Anna says, \"[[OK]], thank you!\" She gets to class just in time."
+},
+{
+"id": "c006",
+"part": "p02",
+"title": "Lunch at the café",
+"scene": "Anna and Max have lunch at a small café near college. They read the menu: Max orders soup and a sandwich, Anna takes a salad with dressing and chicken with rice and sauce, and for dessert she wants tea with lemon.",
+"anchors": [
+"lunch",
+"cafe",
+"menu",
+"soup",
+"sandwich",
+"dressing",
+"rice",
+"sauce",
+"dessert",
+"lemon"
+],
+"level": "A1",
+"words": [
+{
+"en": "lunch",
+"uk": "ланч",
+"band": "top-2000",
+"pos": "noun",
+"topics": "food",
+"ex": "What do you want for lunch?"
+},
+{
+"en": "menu",
+"uk": "меню",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I see the menu, please?"
+},
+{
+"en": "soup",
+"uk": "суп",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a bowl of chicken soup."
+},
+{
+"en": "sandwich",
+"uk": "сендвіч",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I made a ham and cheese sandwich."
+},
+{
+"en": "dressing",
+"uk": "дресинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Would you like dressing on your salad?"
+},
+{
+"en": "rice",
+"uk": "рис",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like chicken with rice, please."
+},
+{
+"en": "sauce",
+"uk": "соус",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Would you like some tomato sauce with that?"
+},
+{
+"en": "dessert",
+"uk": "десерт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "What do you want for dessert tonight?"
+},
+{
+"en": "brunch",
+"uk": "бранч",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's meet for brunch on Sunday."
+}
+],
+"old_story": "Anna and Max have [[lunch]] at a small [[cafe]]. It is near their college. They read the [[menu]]. Max orders [[soup]] and a [[sandwich]]. Anna wants a salad with [[dressing]]. She also takes chicken with [[rice]] and [[sauce]]. The food is hot and very tasty. For [[dessert]], Anna has cake and [[lemon]] tea. Max eats half of her cake!"
+},
+{
+"id": "c007",
+"part": "p02",
+"title": "Coffee before class",
+"scene": "Max meets Anna at a coffee shop with a great vibe, full of hipsters with laptops. The barista makes a latte from a new blend and a cappuccino with caramel - Max is a real coffee snob - and they take a croissant and a muffin.",
+"anchors": [
+"coffee shop",
+"vibe",
+"hipster",
+"barista",
+"latte",
+"blend",
+"cappuccino",
+"caramel",
+"snob",
+"croissant",
+"muffin"
+],
+"level": "A1",
+"words": [
+{
+"en": "coffee shop",
+"uk": "кофі-шоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks, places",
+"ex": "Let's meet at the coffee shop at ten."
+},
+{
+"en": "vibe",
+"uk": "вайб",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "I love the vibe at this coffee shop."
+},
+{
+"en": "hipster",
+"uk": "хіпстер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The cafe is full of hipsters with laptops."
+},
+{
+"en": "barista",
+"uk": "бариста",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, people",
+"ex": "The barista made a perfect latte."
+},
+{
+"en": "latte",
+"uk": "лате",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a large latte, please."
+},
+{
+"en": "blend",
+"uk": "бленд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, food",
+"ex": "This coffee is a blend of three beans."
+},
+{
+"en": "cappuccino",
+"uk": "капучино",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'd like a large cappuccino and a croissant, please."
+},
+{
+"en": "caramel",
+"uk": "карамель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a coffee with caramel, please."
+},
+{
+"en": "snob",
+"uk": "сноб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My cousin is a real coffee snob."
+},
+{
+"en": "croissant",
+"uk": "круасан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a croissant and coffee for breakfast."
+},
+{
+"en": "espresso",
+"uk": "еспресо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I need a strong espresso after lunch."
+},
+{
+"en": "cafe",
+"uk": "кафе",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's meet at the cafe on the corner."
+},
+{
+"en": "bistro",
+"uk": "бістро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, places",
+"ex": "We had lunch at a small French bistro."
+}
+],
+"old_story": "Max meets Anna at a [[coffee shop]] before class. The place has a great [[vibe]]. It is full of [[hipsters|hipster]] with laptops. The [[barista]] makes Anna a [[latte]]. It is from a new [[blend]]. Max orders a [[cappuccino]] with [[caramel]]. He tastes it slowly and nods. Anna laughs. \"You are a real coffee [[snob]]!\" They also take a [[croissant]] and a [[muffin]]. Then they run to class, cups in hand."
+},
+{
+"id": "c008",
+"part": "p02",
+"title": "Pizza night",
+"scene": "Max wants to chill at home with friends and watch a movie. They order a big pizza for delivery and choose the toppings, pepperoni and mozzarella - the diameter is forty centimeters - get cola, nachos and other snacks, and make popcorn.",
+"anchors": [
+"chill",
+"pizza",
+"delivery",
+"topping",
+"pepperoni",
+"mozzarella",
+"diameter",
+"cola",
+"nachos",
+"snack",
+"popcorn"
+],
+"level": "A1",
+"words": [
+{
+"en": "chill",
+"uk": "чил",
+"band": "top-10k",
+"pos": "verb",
+"topics": "emotions",
+"ex": "Let's just chill at home tonight."
+},
+{
+"en": "pizza",
+"uk": "піца",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's order a pizza for dinner."
+},
+{
+"en": "delivery",
+"uk": "делівері",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business, food",
+"ex": "Is delivery free for this order?"
+},
+{
+"en": "topping",
+"uk": "топінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "What topping do you want on your pizza?"
+},
+{
+"en": "pepperoni",
+"uk": "пепероні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a large pepperoni pizza, please."
+},
+{
+"en": "mozzarella",
+"uk": "моцарела",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add fresh mozzarella to the pizza."
+},
+{
+"en": "diameter",
+"uk": "діаметр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The pizza has a diameter of twelve inches."
+},
+{
+"en": "cola",
+"uk": "кола",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "Can I have a cola with ice, please?"
+},
+{
+"en": "nachos",
+"uk": "начос",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's order nachos and watch the game."
+},
+{
+"en": "snack",
+"uk": "снек",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I usually eat a small snack after work."
+},
+{
+"en": "popcorn",
+"uk": "попкорн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's make popcorn and watch a movie."
+},
+{
+"en": "salami",
+"uk": "салямі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a salami sandwich, please."
+}
+],
+"old_story": "On Friday, Max wants to [[chill]] at home. Anna and two friends come over. They order a big [[pizza]] for [[delivery]]. \"What [[topping]] do we want?\" asks Anna. \"[[Pepperoni|pepperoni]] and [[mozzarella]]!\" says Max. It is huge, with a [[diameter]] of forty centimeters. They also get [[cola]], [[nachos]], and other [[snacks|snack]]. Then Max makes [[popcorn]], and they watch a movie. Soon everybody is asleep on the sofa."
+}
+]

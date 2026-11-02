@@ -1,0 +1,641 @@
+[
+{
+"id": "c135",
+"part": "p14",
+"title": "A wedding in India",
+"scene": "Anna's friend from college invites her to a wedding in India. The women wear saris, the men wear dhotis and turbans, a Sikh uncle tells stories about an old raja and a British sahib, a snake charmer shows a cobra, and at a temple puja a mystic reads Sanskrit and gives everyone prasad.",
+"anchors": [
+"sari",
+"dhoti",
+"turban",
+"Sikh",
+"raja",
+"sahib",
+"cobra",
+"puja",
+"mystic",
+"Sanskrit",
+"prasad"
+],
+"level": "B1",
+"words": [
+{
+"en": "sari",
+"uk": "сарі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a beautiful red sari to the wedding."
+},
+{
+"en": "dhoti",
+"uk": "дхоті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a white dhoti for the festival."
+},
+{
+"en": "turban",
+"uk": "тюрбан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wears a turban to work every day."
+},
+{
+"en": "Sikh",
+"uk": "сикх",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "Many Sikhs wear a turban as part of their faith."
+},
+{
+"en": "raja",
+"uk": "раджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The raja lived in a huge palace."
+},
+{
+"en": "sahib",
+"uk": "сахіб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "In the old story, the servant called him sahib."
+},
+{
+"en": "cobra",
+"uk": "кобра",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The cobra raised its head and hissed."
+},
+{
+"en": "puja",
+"uk": "пуджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The family does a puja every morning."
+},
+{
+"en": "mystic",
+"uk": "містик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The old mystic spent years in prayer."
+},
+{
+"en": "Sanskrit",
+"uk": "санскрит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Sanskrit is an ancient language of India."
+},
+{
+"en": "prasad",
+"uk": "прасад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, religion",
+"ex": "After the prayer, we received prasad."
+},
+{
+"en": "maharaja",
+"uk": "махараджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "history, people, politics",
+"ex": "The maharaja lived in a beautiful palace."
+}
+],
+"old_story": "Anna's college friend Priya invited her to a wedding in India. All the women wore bright [[saris|sari]], and Anna wore a borrowed one too. Priya's grandfather wore a white [[dhoti]], and her uncle wore a red [[turban]]. The uncle is a [[Sikh]], and he loves telling old stories. He told Anna about a rich [[raja]] who lived in a golden palace. In the story, a foreign visitor made the servants call him [[sahib]]. After lunch, a snake charmer showed the guests a [[cobra]] in a basket. In the evening, the family went to the temple for a [[puja]]. An old [[mystic]] read prayers in [[Sanskrit]] with his eyes closed. At the end, he gave everyone sweet [[prasad]]. Anna said it was the most beautiful day of her year."
+},
+{
+"id": "c136",
+"part": "p14",
+"title": "Istanbul, Dubai and Cairo",
+"scene": "Max's parents travel around the Middle East. In Istanbul they shop in a bazaar, pay in lira and hear about a pasha who ruled the city; in Dubai they meet a sheikh in his emirate and pay in dinars on the way; they ride to an oasis, see a mirage and a scorpion, and in Egypt they hear a mullah, see the Sphinx and the Nile delta.",
+"anchors": [
+"bazaar",
+"lira",
+"pasha",
+"sheikh",
+"emirate",
+"dinar",
+"oasis",
+"mirage",
+"scorpion",
+"mullah",
+"sphinx",
+"delta"
+],
+"level": "B1",
+"words": [
+{
+"en": "bazaar",
+"uk": "базар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We bought spices and carpets at the bazaar."
+},
+{
+"en": "sheikh",
+"uk": "шейх",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The sheikh welcomed the guests to his palace."
+},
+{
+"en": "emirate",
+"uk": "емірат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Dubai is one of the seven emirates."
+},
+{
+"en": "oasis",
+"uk": "оазис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The travelers stopped at an oasis in the desert."
+},
+{
+"en": "mirage",
+"uk": "міраж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The lake in the desert was just a mirage."
+},
+{
+"en": "scorpion",
+"uk": "скорпіон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A scorpion was hiding in my shoe this morning."
+},
+{
+"en": "sphinx",
+"uk": "сфінкс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We saw the Great Sphinx in Egypt."
+},
+{
+"en": "emir",
+"uk": "емір",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The emir welcomed the foreign guests."
+}
+],
+"old_story": "Max's parents took a long trip around the Middle East this spring. In Istanbul, they went shopping in an old [[bazaar]]. Max's mom paid two hundred [[lira]] for a small blue [[amulet]] for Max. A guide told them about a [[pasha]] who ruled the city long ago. In Dubai, they visited a palace where a [[sheikh]] once welcomed guests. The guide explained that Dubai is the biggest city of its [[emirate]]. On a short stop in Jordan, they paid for a taxi in [[dinars|dinar]]. Then they rode camels across the desert to a green [[oasis]]. On the way, Max's dad saw a lake, but it was only a [[mirage]]. In the morning, a [[scorpion]] was sleeping in his shoe! In Cairo, they heard a [[mullah]] lead the morning prayers at an old mosque. They saw the Great [[Sphinx|sphinx]] and took a boat trip to the Nile [[delta]]."
+},
+{
+"id": "c141",
+"part": "p15",
+"title": "Dad's small bakery",
+"scene": "Anna's dad becomes a businessman: he opens a small bakery with a business partner. They write a business plan, check the cash flow and the profit, decide on their pricing, choose a vendor for flour, talk to a retailer about retail, hire a sales manager, join a farmers' cooperative and sometimes use barter.",
+"anchors": [
+"businessman",
+"business partner",
+"business plan",
+"cash flow",
+"profit",
+"pricing",
+"vendor",
+"retailer",
+"retail",
+"sales manager",
+"cooperative",
+"barter"
+],
+"level": "B1",
+"words": [
+{
+"en": "businessman",
+"uk": "бізнесмен",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, people",
+"ex": "My uncle is a successful businessman in Kyiv."
+},
+{
+"en": "business partner",
+"uk": "бізнес-партнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "My business partner and I opened a cafe together."
+},
+{
+"en": "business plan",
+"uk": "бізнес-план",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She wrote a business plan for her new bakery."
+},
+{
+"en": "cash flow",
+"uk": "кеш-флоу",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "The company has a cash flow problem."
+},
+{
+"en": "profit",
+"uk": "профіт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business",
+"ex": "The shop made a small profit this year."
+},
+{
+"en": "pricing",
+"uk": "прайсинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Our pricing is simple and clear."
+},
+{
+"en": "vendor",
+"uk": "вендор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "We chose a new software vendor this year."
+},
+{
+"en": "retailer",
+"uk": "ритейлер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "This retailer sells clothes online and in stores."
+},
+{
+"en": "retail",
+"uk": "ритейл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "My sister has worked in retail for five years."
+},
+{
+"en": "sales manager",
+"uk": "сейлз-менеджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The sales manager wants better numbers this month."
+},
+{
+"en": "cooperative",
+"uk": "кооператив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The farmers in our village formed a cooperative."
+},
+{
+"en": "barter",
+"uk": "бартер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "They used barter instead of money."
+},
+{
+"en": "distributor",
+"uk": "дистриб'ютор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company is the main distributor in the region."
+},
+{
+"en": "businesswoman",
+"uk": "бізнесвумен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "My aunt is a successful businesswoman."
+},
+{
+"en": "dealer",
+"uk": "дилер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business",
+"ex": "I bought my car from a local dealer."
+}
+],
+"old_story": "Last year, Anna's dad decided to become a [[businessman]]. He opened a small bakery with his old friend Taras, who became his [[business partner]]. First, they wrote a [[business plan]], and Anna helped them check the [[cash flow]] every week. After six months, the bakery made its first small [[profit]]. They kept their [[pricing]] simple: every pie cost the same. They chose a local [[vendor]] for flour and sugar. Soon a big [[retailer]] wanted to sell their bread in its stores. Taras had worked in [[retail]] before, so he knew what to say. Then they hired a [[sales manager]] named Iryna. They also joined a farmers' [[cooperative]] to get fresh milk and eggs. Sometimes they even used [[barter]] and paid the farmers with fresh bread. Now a regional [[distributor]] takes their pies to five towns."
+},
+{
+"id": "c142",
+"part": "p15",
+"title": "Max's startup",
+"scene": "Max and two friends start their own startup. The founder explains the concept, the business model and a use case to an investor, who sees a game changer and a win-win deal; he offers venture capital for their know-how, they get a patent, and later they plan a joint venture and a spin-off.",
+"anchors": [
+"startup",
+"founder",
+"concept",
+"business model",
+"use case",
+"investor",
+"game changer",
+"win-win",
+"venture",
+"capital",
+"know-how",
+"patent"
+],
+"level": "B1",
+"words": [
+{
+"en": "startup",
+"uk": "стартап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works at a tech startup."
+},
+{
+"en": "founder",
+"uk": "фаундер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "I met the founder of the company at a conference."
+},
+{
+"en": "concept",
+"uk": "концепт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "I really like the concept of this new cafe."
+},
+{
+"en": "business model",
+"uk": "бізнес-модель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "Their business model is based on monthly subscriptions."
+},
+{
+"en": "use case",
+"uk": "юз-кейс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, tech",
+"ex": "Can you give me a simple use case for this app?"
+},
+{
+"en": "investor",
+"uk": "інвестор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "finance",
+"ex": "We need an investor for our small business."
+},
+{
+"en": "game changer",
+"uk": "гейм-чейнджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "This new phone app is a real game changer for small shops."
+},
+{
+"en": "win-win",
+"uk": "він-він",
+"band": "top-20k",
+"pos": "adj",
+"topics": "business",
+"ex": "This deal is a win-win situation for both companies."
+},
+{
+"en": "venture",
+"uk": "венчур",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "Their new business venture is doing very well."
+},
+{
+"en": "capital",
+"uk": "капітал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "They need more capital to start the business."
+},
+{
+"en": "know-how",
+"uk": "ноу-хау",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She has the know-how to fix old cars."
+},
+{
+"en": "patent",
+"uk": "патент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "She got a patent for her invention."
+},
+{
+"en": "innovator",
+"uk": "інноватор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was a great innovator in medicine."
+},
+{
+"en": "joint venture",
+"uk": "джойнт-венчур",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The two companies started a joint venture in Poland."
+}
+],
+"old_story": "Max and two friends started their own [[startup]] last spring. As the [[founder]], Max had to explain the idea to everyone. The [[concept]] was simple: an app that plans cheap, healthy meals for students. Their [[business model]] was a small monthly payment. Max showed a simple [[use case]]: a tired student opens the app and finds dinner. An [[investor]] named Mrs. Bondar listened carefully. She said the app could be a [[game changer]] for busy students. She offered them a [[win-win]] deal and asked to join their [[venture]]. She put in the [[capital]], and the team brought their [[know-how]]. Soon they got a [[patent]] for their smart shopping list. A local newspaper called Max a young [[innovator]]. His mom cut out the article and put it on the fridge."
+},
+{
+"id": "c143",
+"part": "p15",
+"title": "Anna's marketing seminar",
+"scene": "At a marketing seminar Anna studies a case study about branding. She creates a logo and a slogan with an art director, plans targeting for the mass market, reads what the respondents said, compares the results with a benchmark, and learns about merchandising, promotion and gift vouchers.",
+"anchors": [
+"marketing",
+"seminar",
+"case study",
+"branding",
+"logo",
+"slogan",
+"art director",
+"targeting",
+"mass market",
+"respondent",
+"benchmark",
+"merchandising"
+],
+"level": "B1",
+"words": [
+{
+"en": "marketing",
+"uk": "маркетинг",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "My sister works in marketing at a big company."
+},
+{
+"en": "seminar",
+"uk": "семінар",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education",
+"ex": "I have a seminar on marketing tomorrow."
+},
+{
+"en": "case study",
+"uk": "кейс-стаді",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, education",
+"ex": "We discussed a case study in today's marketing class."
+},
+{
+"en": "branding",
+"uk": "брендинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Good branding helps a company stand out."
+},
+{
+"en": "logo",
+"uk": "лого",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company changed its logo last year."
+},
+{
+"en": "slogan",
+"uk": "слоган",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The company needs a catchy new slogan."
+},
+{
+"en": "art director",
+"uk": "арт-директор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The art director chose the colors for the ad."
+},
+{
+"en": "targeting",
+"uk": "таргетинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "Better targeting helps ads reach the right people."
+},
+{
+"en": "mass market",
+"uk": "мас-маркет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The product is made for the mass market."
+},
+{
+"en": "respondent",
+"uk": "респондент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Most respondents said they liked the new design."
+},
+{
+"en": "benchmark",
+"uk": "бенчмарк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, tech",
+"ex": "The new phone scored high on the benchmark."
+},
+{
+"en": "promotion",
+"uk": "промоушн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The store has a special promotion this week."
+},
+{
+"en": "landing page",
+"uk": "лендінг-пейдж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, tech",
+"ex": "Our landing page shows the price and a sign-up button."
+},
+{
+"en": "workshop",
+"uk": "воркшоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, education",
+"ex": "I signed up for a free writing workshop."
+},
+{
+"en": "symposium",
+"uk": "симпозіум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, science",
+"ex": "She gave a talk at a medical symposium last month."
+},
+{
+"en": "email marketing",
+"uk": "імейл-маркетинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Our shop uses email marketing to tell customers about sales."
+}
+],
+"old_story": "Anna is studying [[marketing]], and on Friday she went to a [[seminar]] at her university. The teacher gave the class a [[case study]] about a small juice company. The company had good juice but very weak [[branding]]. A real [[art director]] helped Anna's team create a new [[logo]] and a [[slogan]]. Then they talked about [[targeting]]: who should buy this juice? Anna's team wanted to sell it to the [[mass market]], not only to rich people. They read a survey, and most [[respondents|respondent]] liked the green bottles. They compared their sales numbers with a [[benchmark]] from a bigger company. Next, they learned about [[merchandising]] and where to put bottles in a store. Anna suggested a summer [[promotion]]: buy two bottles, get one free. Finally, they designed a simple [[landing page]] with the price and a big orange button. The teacher said their project was the best in the class."
+}
+]

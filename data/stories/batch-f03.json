@@ -1,0 +1,664 @@
+[
+{
+"id": "c027",
+"part": "p04",
+"title": "Around Kyiv by metro",
+"scene": "Anna's cousin comes on his first visit to Kyiv, a city of three million people. Anna explains public transport, an inspector checks their tickets in the metro, and the long escalator takes them up to the city center; on the avenue near the park and the monuments a woman says 'Excuse me, mister, you dropped your wallet', and they ask a policeman the way.",
+"anchors": [
+"visitor",
+"visit",
+"million",
+"transport",
+"inspector",
+"metro",
+"escalator",
+"center",
+"avenue",
+"park",
+"monument",
+"policeman"
+],
+"level": "A1",
+"words": [
+{
+"en": "visitor",
+"uk": "візитер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "We had visitors last weekend."
+},
+{
+"en": "visit",
+"uk": "візит",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Thanks for your visit!"
+},
+{
+"en": "transport",
+"uk": "транспорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Public transport in this city is cheap and fast."
+},
+{
+"en": "inspector",
+"uk": "інспектор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Is the inspector coming today?"
+},
+{
+"en": "metro",
+"uk": "метро",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We took the metro to the museum."
+},
+{
+"en": "escalator",
+"uk": "ескалатор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Take the escalator to the second floor."
+},
+{
+"en": "center",
+"uk": "центр",
+"band": "top-1000",
+"pos": "noun",
+"topics": "places",
+"ex": "The hotel is in the city center."
+},
+{
+"en": "avenue",
+"uk": "авеню",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "The shop is on the main avenue, near the park."
+},
+{
+"en": "park",
+"uk": "парк",
+"band": "top-1000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's go to the park."
+},
+{
+"en": "monument",
+"uk": "монумент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "The monument stands in the city square."
+},
+{
+"en": "boulevard",
+"uk": "бульвар",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We walked down the wide boulevard after dinner."
+},
+{
+"en": "promenade",
+"uk": "променад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We walked along the promenade by the sea."
+},
+{
+"en": "downtown",
+"uk": "даунтаун",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "We live about ten minutes from downtown."
+},
+{
+"en": "memorial",
+"uk": "меморіал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "They built a memorial for the soldiers."
+}
+],
+"old_story": "Anna's cousin Taras is her [[visitor]] today. It is his first [[visit]] to Kyiv. Kyiv has three [[million]] people. Anna loves public [[transport]], so they take the [[metro]]. An [[inspector]] checks their tickets. The [[escalator]] takes them up to the [[center]]. They walk down the [[avenue]] to the [[park]]. Taras takes photos of a big [[monument]]. \"Excuse me, [[mister]], your wallet!\" a woman calls. Taras says thank you. Then they ask a [[policeman]] the way home."
+},
+{
+"id": "c030",
+"part": "p04",
+"title": "Booking a hotel for the weekend",
+"scene": "Max books a cheap hotel in Lviv for the weekend; the booking says four people maximum and a fee for a no-show. At reception the check-in is quick, they get the Wi-Fi password, find their room at the end of the corridor and hear that check-out is at eleven.",
+"anchors": [
+"hotel",
+"booking",
+"maximum",
+"no-show",
+"reception",
+"check-in",
+"Wi-Fi",
+"corridor",
+"check-out"
+],
+"level": "A1",
+"words": [
+{
+"en": "hotel",
+"uk": "готель",
+"band": "top-1000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Is there a hotel near here?"
+},
+{
+"en": "booking",
+"uk": "букінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I made a booking at the hotel for Friday."
+},
+{
+"en": "maximum",
+"uk": "максимум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The maximum for this room is ten people."
+},
+{
+"en": "no-show",
+"uk": "ноу-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, travel",
+"ex": "The hotel charges a fee for no-shows."
+},
+{
+"en": "reception",
+"uk": "рісепшн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "Leave your keys at the reception."
+},
+{
+"en": "check-in",
+"uk": "чек-ін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Hotel check-in starts at three o'clock."
+},
+{
+"en": "Wi-Fi",
+"uk": "вай-фай",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Excuse me, what is the Wi-Fi password?"
+},
+{
+"en": "check-out",
+"uk": "чек-аут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Check-out is at eleven in the morning."
+},
+{
+"en": "adapter",
+"uk": "адаптер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need a power adapter for my trip to Europe."
+},
+{
+"en": "motel",
+"uk": "мотель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We stayed at a cheap motel on the highway."
+},
+{
+"en": "hostel",
+"uk": "хостел",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We stayed in a cheap hostel in Rome."
+},
+{
+"en": "resort",
+"uk": "резорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places, travel",
+"ex": "We stayed at a beach resort last summer."
+},
+{
+"en": "max",
+"uk": "макс",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "math",
+"ex": "The trip takes twenty minutes max by bus."
+},
+{
+"en": "minimum",
+"uk": "мінімум",
+"band": "top-5000",
+"pos": "noun",
+"topics": "math",
+"ex": "You need a minimum of two hours for this."
+},
+{
+"en": "converter",
+"uk": "конвертор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need a converter for my European charger."
+}
+],
+"old_story": "Max finds a cheap [[hotel]] in Lviv. He makes a [[booking]] for the weekend. The room is for four people [[maximum]]. There is a fee for a [[no-show]]. On Friday, Max and Anna go to [[reception]]. The [[check-in]] is very quick. The woman gives them the [[Wi-Fi]] password. Their room is at the end of the [[corridor]]. It is small, not [[deluxe]], but nice. Max needs a phone [[adapter]], and they have one. [[Check-out|check-out]] is at eleven on Sunday. Max and Anna love their weekend."
+},
+{
+"id": "c031",
+"part": "p04",
+"title": "A night in a luxury hotel",
+"scene": "Anna wins a night in a luxury hotel in a competition. The concierge meets her in the foyer, her room has a king-size bed and a jacuzzi, she tries the spa and the sauna, and orders breakfast from room service.",
+"anchors": [
+"luxury",
+"concierge",
+"foyer",
+"king-size",
+"jacuzzi",
+"spa",
+"sauna",
+"room service"
+],
+"level": "A2",
+"words": [
+{
+"en": "luxury",
+"uk": "лакшері",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "We stayed in a luxury hotel by the sea."
+},
+{
+"en": "concierge",
+"uk": "консьєрж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, travel",
+"ex": "Ask the concierge to book a taxi."
+},
+{
+"en": "foyer",
+"uk": "фоє",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "Please wait for me in the hotel foyer."
+},
+{
+"en": "king-size",
+"uk": "кінг-сайз",
+"band": "top-10k",
+"pos": "adj",
+"topics": "home",
+"ex": "We need new sheets for our king-size bed."
+},
+{
+"en": "jacuzzi",
+"uk": "джакузі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The hotel has a jacuzzi on the roof."
+},
+{
+"en": "spa",
+"uk": "спа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "We spent the weekend at a spa."
+},
+{
+"en": "sauna",
+"uk": "сауна",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "I relax in the sauna after the gym."
+},
+{
+"en": "room service",
+"uk": "рум-сервіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We ordered room service for breakfast."
+},
+{
+"en": "massage",
+"uk": "масаж",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I got a back massage after work."
+},
+{
+"en": "queen-size",
+"uk": "квін-сайз",
+"band": "top-20k",
+"pos": "adj",
+"topics": "home",
+"ex": "Our guest room has a queen-size bed."
+},
+{
+"en": "hall",
+"uk": "хол",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home, places",
+"ex": "Please wait for me in the hall downstairs."
+},
+{
+"en": "corridor",
+"uk": "коридор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The bathroom is at the end of the corridor."
+},
+{
+"en": "deluxe",
+"uk": "делюкс",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "We stayed in a deluxe room with an ocean view."
+},
+{
+"en": "premium",
+"uk": "преміум",
+"band": "top-10k",
+"pos": "adj",
+"topics": "business",
+"ex": "We bought premium tickets with better seats."
+},
+{
+"en": "high-end",
+"uk": "хай-енд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "tech",
+"ex": "This store only sells high-end phones and laptops."
+}
+],
+"old_story": "Anna wins a night in a [[luxury]] hotel in a radio competition. A smiling [[concierge]] meets her in the [[foyer]]. Her room has a [[king-size]] bed and a [[jacuzzi]]. In the evening she tries the [[spa]]. First she gets a back [[massage]], then she relaxes in the [[sauna]]. In the morning she orders breakfast from [[room service]]. She sends Max a photo: \"I never want to go home!\""
+},
+{
+"id": "c032",
+"part": "p04",
+"title": "Max's new scooter",
+"scene": "Max buys an electric scooter to get to college faster. On the smooth asphalt by the river he races a biker, forgets the speed limit in a tunnel and nearly hits a bicycle with a red reflector; the cyclist stops pedaling, and the incident ends with a shout.",
+"anchors": [
+"scooter",
+"asphalt",
+"biker",
+"limit",
+"tunnel",
+"bicycle",
+"reflector",
+"pedal",
+"incident"
+],
+"level": "A2",
+"words": [
+{
+"en": "scooter",
+"uk": "скутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He rides his scooter to work every day."
+},
+{
+"en": "asphalt",
+"uk": "асфальт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The road is covered with fresh asphalt."
+},
+{
+"en": "biker",
+"uk": "байкер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, transport",
+"ex": "A biker rode past us on a loud motorcycle."
+},
+{
+"en": "limit",
+"uk": "ліміт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The speed limit here is fifty kilometers per hour."
+},
+{
+"en": "tunnel",
+"uk": "тунель",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Is there a tunnel under the river?"
+},
+{
+"en": "bicycle",
+"uk": "біцикл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "I ride my bicycle to work every day."
+},
+{
+"en": "reflector",
+"uk": "рефлектор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The bike has a red reflector on the back."
+},
+{
+"en": "pedal",
+"uk": "педаль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Press the brake pedal gently at the light."
+},
+{
+"en": "incident",
+"uk": "інцидент",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "There was an incident on the bus today."
+},
+{
+"en": "mountain bike",
+"uk": "маунтенбайк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport, transport",
+"ex": "I ride my mountain bike on forest trails."
+},
+{
+"en": "biking",
+"uk": "байкінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "We often go biking in the mountains in summer."
+},
+{
+"en": "moped",
+"uk": "мопед",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He rides a moped to work every day."
+}
+],
+"old_story": "Max buys an electric [[scooter]] to get to college faster. On Monday he rides on the smooth [[asphalt]] by the river. A [[biker]] on a loud motorcycle passes him. Max goes faster and forgets the speed [[limit]]. In a dark [[tunnel]] he almost hits a [[bicycle]]. Luckily, he sees its red [[reflector]] just in time. The cyclist stops, her foot still on the [[pedal]]. \"Slow down!\" she shouts. After this [[incident]], Max always rides slowly."
+},
+{
+"id": "c033",
+"part": "p04",
+"title": "Dad buys a car",
+"scene": "Anna's dad is a car enthusiast who watches every grand prix and wants a new automobile for the family. At the dealer's showroom he looks at a supercar and a limousine, but chooses between a sedan and a diesel minivan, takes a test drive and asks about leasing; Anna's driving instructor comes too.",
+"anchors": [
+"enthusiast",
+"automobile",
+"dealer",
+"showroom",
+"supercar",
+"limousine",
+"sedan",
+"diesel",
+"minivan",
+"test drive",
+"leasing",
+"instructor"
+],
+"level": "A2",
+"words": [
+{
+"en": "enthusiast",
+"uk": "ентузіаст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is a big car enthusiast."
+},
+{
+"en": "automobile",
+"uk": "автомобіль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The automobile changed the way people live."
+},
+{
+"en": "showroom",
+"uk": "шоурум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, places",
+"ex": "We visited the car showroom on Saturday."
+},
+{
+"en": "supercar",
+"uk": "суперкар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He saved for years to buy a supercar."
+},
+{
+"en": "limousine",
+"uk": "лімузин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "They rode to the prom in a limousine."
+},
+{
+"en": "sedan",
+"uk": "седан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He drives a gray four-door sedan."
+},
+{
+"en": "diesel",
+"uk": "дизель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Does this truck run on diesel or gas?"
+},
+{
+"en": "minivan",
+"uk": "мінівен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We drove the minivan to the beach."
+},
+{
+"en": "test drive",
+"uk": "тест-драйв",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "I took the car for a test drive yesterday."
+},
+{
+"en": "leasing",
+"uk": "лізинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "Leasing a car can cost less each month than buying."
+},
+{
+"en": "grand prix",
+"uk": "гран-прі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Thousands of fans came to watch the grand prix."
+},
+{
+"en": "auto",
+"uk": "авто",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He works in an auto repair shop."
+},
+{
+"en": "motor",
+"uk": "мотор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "The boat has a small motor at the back."
+}
+],
+"old_story": "Anna's dad is a car [[enthusiast]]. He watches every [[grand prix]] on TV. Now he wants a new [[automobile]] for the family. On Saturday Anna and Dad go to a car [[dealer]]. In the big [[showroom]], Dad stops next to a red [[supercar]]. Then he looks at a long white [[limousine]]. \"Too expensive, Dad,\" Anna laughs. So he chooses between a [[sedan]] and a [[diesel]] [[minivan]]. Anna's driving [[instructor]] comes too and gives good advice. Dad takes the minivan for a [[test drive]]. Then he asks the manager about [[leasing]]. Next week the family drives home in a new car."
+}
+]

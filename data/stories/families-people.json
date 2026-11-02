@@ -1,0 +1,12 @@
+[
+ {"name": "Mister, Mrs. and Miss", "words": ["mister", "Mrs.", "Miss", "sir", "madam", "lady", "gentleman"], "target": "c002"},
+ {"name": "Monsieur, madame and Herr", "words": ["monsieur", "madame", "mademoiselle", "Herr", "Frau"], "target": "c128"},
+ {"name": "Family members", "words": ["sibling", "baby", "cousin", "mama", "bro", "sis"], "target": "c044"},
+ {"name": "Boomers and millennials", "words": ["baby boom", "baby boomer", "boomer", "millennial"], "target": "c153"},
+ {"name": "Businessman and businesswoman", "words": ["businessman", "businesswoman"], "target": "c141"},
+ {"name": "Barman and bartender", "words": ["barman", "bartender"], "target": "c018"},
+ {"name": "King-size and queen-size", "words": ["king-size", "queen-size"], "target": "c031"},
+ {"name": "Raja and maharaja", "words": ["raja", "maharaja"], "target": "c135"},
+ {"name": "Emir and emirate", "words": ["emir", "emirate"], "target": "c136"},
+ {"name": "Sensei and senpai", "words": ["sensei", "senpai"], "target": "c086"}
+]

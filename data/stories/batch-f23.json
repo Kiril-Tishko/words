@@ -1,0 +1,647 @@
+[
+{
+"id": "c183",
+"part": "p19",
+"title": "Empires of the East",
+"scene": "In history class Taras learns about great empires: a sultan with his harem and eunuchs, a caliph and his caliphate, a khan whose nomads ride across the steppe with yaks, and a maharaja who signs an edict.",
+"anchors": [
+"sultan",
+"harem",
+"eunuch",
+"caliph",
+"caliphate",
+"khan",
+"nomad",
+"steppe",
+"yak",
+"maharaja",
+"edict"
+],
+"level": "B1",
+"words": [
+{
+"en": "sultan",
+"uk": "султан",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The sultan lived in a huge palace."
+},
+{
+"en": "harem",
+"uk": "гарем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The sultan's harem lived in the palace."
+},
+{
+"en": "eunuch",
+"uk": "евнух",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "In old China, eunuchs worked in the palace."
+},
+{
+"en": "caliph",
+"uk": "каліф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The caliph ruled a huge empire."
+},
+{
+"en": "caliphate",
+"uk": "каліфат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The caliphate once ruled a very large area."
+},
+{
+"en": "khan",
+"uk": "хан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The khan ruled a huge empire on the steppe."
+},
+{
+"en": "nomad",
+"uk": "номад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The nomads moved their tents with the seasons."
+},
+{
+"en": "steppe",
+"uk": "степ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Horses run across the wide steppe."
+},
+{
+"en": "yak",
+"uk": "як",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A yak can live high in the mountains."
+},
+{
+"en": "edict",
+"uk": "едикт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, politics",
+"ex": "The king issued an edict banning all public gatherings."
+},
+{
+"en": "pasha",
+"uk": "паша",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The pasha ruled the city for many years."
+}
+],
+"old_story": "On Tuesday, Taras had a history lesson about great empires of the East. First, the teacher showed a picture of a [[sultan]] in his huge palace. The women of his family lived in a separate part called the [[harem]]. A loyal [[eunuch]] guarded its doors day and night. Next, the class read about a wise [[caliph]] who loved books and science. His [[caliphate]] was bigger than many countries today. Then came a powerful [[khan]] and his army of horse riders. His people were [[nomads|nomad]] who moved their tents across the wide [[steppe]]. Taras laughed at a drawing of a hairy [[yak]] carrying their bags. Finally, a rich [[maharaja]] signed an [[edict]] that opened free schools for poor children. For homework, Taras drew a map of all four empires and got the best mark."
+},
+{
+"id": "c184",
+"part": "p19",
+"title": "Warriors of the past",
+"scene": "Max loves military history. He reads about gladiators and a centurion with his legion, a paladin who defends a fort, musketeers who fight a duel, samurai and a shogun, a commodore who leads a great armada with a clever maneuver, a padre who blesses the soldiers, and a flying ace.",
+"anchors": [
+"gladiator",
+"centurion",
+"legion",
+"paladin",
+"fort",
+"musketeer",
+"duel",
+"samurai",
+"shogun",
+"commodore",
+"armada",
+"maneuver"
+],
+"level": "B1",
+"words": [
+{
+"en": "gladiator",
+"uk": "гладіатор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The gladiator fought a lion in the arena."
+},
+{
+"en": "centurion",
+"uk": "центуріон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The centurion led a hundred soldiers."
+},
+{
+"en": "legion",
+"uk": "легіон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The Roman legion marched into the city."
+},
+{
+"en": "paladin",
+"uk": "паладин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The paladin rode out to defend the king."
+},
+{
+"en": "fort",
+"uk": "форт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "Can we visit the old fort on Sunday?"
+},
+{
+"en": "musketeer",
+"uk": "мушкетер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "history, military",
+"ex": "He played a musketeer in the school play."
+},
+{
+"en": "duel",
+"uk": "дуель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The two men fought a duel at dawn."
+},
+{
+"en": "samurai",
+"uk": "самурай",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, people",
+"ex": "The samurai carried two swords."
+},
+{
+"en": "shogun",
+"uk": "шогун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, politics",
+"ex": "The shogun ruled Japan for many years."
+},
+{
+"en": "armada",
+"uk": "армада",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "An armada of ships sailed toward the coast."
+},
+{
+"en": "maneuver",
+"uk": "маневр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The army practiced a difficult maneuver."
+},
+{
+"en": "citadel",
+"uk": "цитадель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The old citadel stands on a hill above the city."
+},
+{
+"en": "bastion",
+"uk": "бастіон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The city was a bastion against the enemy."
+}
+],
+"old_story": "Max loves military history, so he spent all Saturday with a thick book. First, he read about a brave [[gladiator]] who fought in a huge arena. A Roman [[centurion]] led a hundred men from his [[legion]] across the hills. In the next chapter, a [[paladin]] defended a small [[fort]] against a big army. Max loved the part where a [[musketeer]] fought a [[duel]] at dawn. Then he read about a [[samurai]] with two swords who served the [[shogun]]. The last story was about a [[commodore]] at sea. His few small ships faced a huge enemy [[armada]]. With a clever [[maneuver]], he hid his ships behind an island and won. In the evening, Max told Anna every story, and she fell asleep on the sofa."
+},
+{
+"id": "c187",
+"part": "p19",
+"title": "Grandma's church",
+"scene": "At Easter Anna goes to church with Grandma. The pastor talks about the archangel and the messiah, Grandma's Catholic friend explains Catholicism, the sacrament, the crucifix and the canon, and talks about a cardinal at a synod in Rome.",
+"anchors": [
+"pastor",
+"archangel",
+"messiah",
+"Catholic",
+"Catholicism",
+"sacrament",
+"crucifix",
+"canon",
+"cardinal",
+"synod"
+],
+"level": "B1",
+"words": [
+{
+"en": "pastor",
+"uk": "пастор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "religion",
+"ex": "I talked to the pastor after the service."
+},
+{
+"en": "archangel",
+"uk": "архангел",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The painting shows the archangel Michael."
+},
+{
+"en": "messiah",
+"uk": "месія",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Some people saw him as a messiah."
+},
+{
+"en": "Catholic",
+"uk": "католик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Her family are Catholics and go to church every Sunday."
+},
+{
+"en": "Catholicism",
+"uk": "католицизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "She converted to Catholicism last year."
+},
+{
+"en": "sacrament",
+"uk": "сакрамент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Baptism is a sacrament in many churches."
+},
+{
+"en": "crucifix",
+"uk": "круцифікс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "A crucifix hangs on the wall of the church."
+},
+{
+"en": "canon",
+"uk": "канон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "This novel is now part of the literary canon."
+},
+{
+"en": "cardinal",
+"uk": "кардинал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The cardinal wore a long red robe."
+},
+{
+"en": "synod",
+"uk": "синод",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The church held a synod to discuss the issue."
+},
+{
+"en": "padre",
+"uk": "падре",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The padre blessed the soldiers before the battle."
+},
+{
+"en": "abbot",
+"uk": "абат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The abbot welcomed us to the monastery."
+},
+{
+"en": "angel",
+"uk": "ангел",
+"band": "top-2000",
+"pos": "noun",
+"topics": "religion",
+"ex": "My little girl is an angel."
+}
+],
+"old_story": "At Easter, Anna went to church with Grandma early in the morning. The [[pastor]] spoke about the [[archangel]] Michael and the coming of the [[messiah]]. After the service, they had tea with Grandma's friend Rosa, a [[Catholic]] from Lviv. Rosa explained that in [[Catholicism]], baptism and marriage are each a [[sacrament]]. She showed them a small [[crucifix]] from her mother. She also explained which old books are part of the Bible's [[canon]]. Her cousin once saw a [[cardinal]] in a red robe at a [[synod]] in Rome. Grandma remembered her own father, who met a kind [[padre]] in the army. The man prayed with the soldiers before every hard day. Later, Rosa invited them to a monastery where an old [[abbot]] makes honey. Anna said yes at once, because she loves honey more than anything."
+},
+{
+"id": "c188",
+"part": "p19",
+"title": "An evening of many faiths",
+"scene": "Anna's college holds an evening of many faiths. A Protestant, a Baptist, a Mormon and a Quaker speak, a Jewish cantor sings, and an imam and another cleric explain Islam, Ramadan, what is haram and what jihad really means, why an Islamist is not the same as a Muslim, and what a fetish was in old religions.",
+"anchors": [
+"Protestant",
+"Baptist",
+"Mormon",
+"quaker",
+"cantor",
+"imam",
+"cleric",
+"Islam",
+"Ramadan",
+"haram",
+"jihad",
+"Islamist"
+],
+"level": "B1",
+"words": [
+{
+"en": "Protestant",
+"uk": "протестант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "He was raised as a Protestant."
+},
+{
+"en": "Baptist",
+"uk": "баптист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "He grew up as a Baptist in a small town."
+},
+{
+"en": "Mormon",
+"uk": "мормон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "My neighbor is a Mormon from Utah."
+},
+{
+"en": "quaker",
+"uk": "квакер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Her grandparents were Quakers who lived in Pennsylvania."
+},
+{
+"en": "cantor",
+"uk": "кантор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, religion",
+"ex": "The cantor sang during the service."
+},
+{
+"en": "imam",
+"uk": "імам",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The imam led the evening prayer."
+},
+{
+"en": "cleric",
+"uk": "клірик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The cleric led the religious ceremony."
+},
+{
+"en": "Islam",
+"uk": "іслам",
+"band": "top-3000",
+"pos": "noun",
+"topics": "religion",
+"ex": "What do you know about Islam?"
+},
+{
+"en": "Ramadan",
+"uk": "рамадан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion, time",
+"ex": "Many Muslims fast during the month of Ramadan."
+},
+{
+"en": "haram",
+"uk": "харам",
+"band": "top-20k",
+"pos": "adj",
+"topics": "religion",
+"ex": "Pork and alcohol are haram for many Muslims."
+},
+{
+"en": "jihad",
+"uk": "джихад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The word jihad means struggle in Arabic."
+},
+{
+"en": "Islamist",
+"uk": "ісламіст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The Islamist group wants a state based on religious law."
+},
+{
+"en": "mullah",
+"uk": "мулла",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The mullah led the prayers at the mosque."
+}
+],
+"old_story": "Anna's college held an evening of many faiths in the big hall. First, a [[Protestant]] student talked about her church choir. A [[Baptist]] from a small town shared his family's Sunday traditions. A friendly [[Mormon]] spoke about helping neighbors, and an old [[Quaker|quaker]] talked about silence and peace. Then a Jewish [[cantor]] sang a beautiful old song. Next, an [[imam]] and another [[cleric]] explained the basics of [[Islam]]. They told the students about fasting during [[Ramadan]] and sharing food with the poor. Pork and alcohol, they said, are [[haram]] for many Muslims. The imam explained that [[jihad]] means struggle, often to be a better person. He added that an [[Islamist]] has political goals, which is different from simply being Muslim. At the end, everyone ate cookies together, and Max ate the most."
+},
+{
+"id": "c191",
+"part": "p19",
+"title": "Grandma's folk tales",
+"scene": "On a winter evening Grandma tells old folk tales from world folklore: a ghoul, a banshee and a leprechaun, a yeti and a phoenix, a healer with a talisman and a magic elixir, a shaman with a strong aura and his ritual, a charlatan who sells magic, and an enigma that nobody can solve.",
+"anchors": [
+"folklore",
+"ghoul",
+"banshee",
+"leprechaun",
+"yeti",
+"phoenix",
+"healer",
+"talisman",
+"elixir",
+"shaman",
+"charlatan",
+"enigma"
+],
+"level": "B1",
+"words": [
+{
+"en": "folklore",
+"uk": "фольклор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Dragons appear often in local folklore."
+},
+{
+"en": "ghoul",
+"uk": "гуль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "A ghoul appeared in the old cemetery."
+},
+{
+"en": "banshee",
+"uk": "банші",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "In Irish stories, a banshee cries before someone dies."
+},
+{
+"en": "leprechaun",
+"uk": "лепрекон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "A leprechaun is a little man from Irish stories."
+},
+{
+"en": "yeti",
+"uk": "єті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "People say a yeti lives in the mountains."
+},
+{
+"en": "phoenix",
+"uk": "фенікс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The phoenix rises from its own ashes."
+},
+{
+"en": "healer",
+"uk": "хілер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The village healer used herbs and plants."
+},
+{
+"en": "talisman",
+"uk": "талісман",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "He carries a talisman for good luck."
+},
+{
+"en": "elixir",
+"uk": "еліксир",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The wizard drank a magic elixir."
+},
+{
+"en": "shaman",
+"uk": "шаман",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The village shaman performed a healing ritual."
+},
+{
+"en": "charlatan",
+"uk": "шарлатан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The so-called doctor was a charlatan."
+},
+{
+"en": "enigma",
+"uk": "енігма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The old castle remains an enigma."
+},
+{
+"en": "idol",
+"uk": "ідол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The people prayed to a golden idol."
+},
+{
+"en": "druid",
+"uk": "друїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The druid gathered herbs in the forest."
+},
+{
+"en": "totem",
+"uk": "тотем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The tribe carved a tall totem pole."
+},
+{
+"en": "amulet",
+"uk": "амулет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "She wore an amulet to protect her."
+}
+],
+"old_story": "On a snowy evening, Grandma told Anna and Max old tales from world [[folklore]]. First came a hungry [[ghoul]] who lived in an old cemetery. Then a [[banshee]] cried in the night, and a tiny [[leprechaun]] hid his gold. Max liked the story of a [[yeti]] who helped lost climbers in the mountains. Anna loved the [[phoenix]] that rose again from its own ashes. Next, Grandma told them about a village [[healer]] who gave a sick boy a [[talisman]]. A [[druid]] in the forest made a magic [[elixir]] from herbs. Far away, a [[shaman]] danced around a tall [[totem]] to call the rain. The people of one tribe prayed to a golden [[idol]] in a cave. A [[charlatan]] tried to sell the villagers fake magic, but nobody bought it. \"And where did your old ring come from?\" Max asked Grandma. Grandma just smiled, and the ring stayed an [[enigma]]."
+}
+]

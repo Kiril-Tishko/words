@@ -162,7 +162,16 @@ def cmd_families(k=6):
     Moved words leave their old chapter, join the family's target chapter (or a new chapter at the end of
     its part); the changed chapters get batch-fNN.json files for the story writers."""
     ch = json.load(open(f'{S}/chapters.json', encoding='utf-8'))
-    fams = json.load(open(f'{S}/families.json', encoding='utf-8'))
+    fams = []   # families-<kind>.json from the focused finders first, then families.json; a word joins its first family
+    for fn in sorted(glob.glob(f'{S}/families-*.json')) + ([f'{S}/families.json'] if os.path.exists(f'{S}/families.json') else []):
+        try:
+            fams += json.load(open(fn, encoding='utf-8'))
+        except Exception as e:
+            print('skip', fn, e)
+    taken = set()
+    for f in fams:
+        f['words'] = [w for w in f.get('words', []) if w not in taken]
+        taken |= set(f['words'])
     old = {}
     if os.path.exists(f'{S}/stories.json'):
         old = {c['id']: c.get('story', '') for c in json.load(open(f'{S}/stories.json', encoding='utf-8'))['chapters']}

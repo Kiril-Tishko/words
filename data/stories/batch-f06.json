@@ -1,0 +1,565 @@
+[
+{
+"id": "c046",
+"part": "p06",
+"title": "Max's new flat",
+"scene": "Max moves out of his parents' home. A realtor shows him a townhouse and a small loft with a modern interior: an old sofa in the hall, nice decor, a mini fridge, a queen-size bed, an intercom at the door and a thermostat - only four meters wide, but Max loves the comfort.",
+"anchors": [
+"realtor",
+"townhouse",
+"loft",
+"interior",
+"sofa",
+"hall",
+"decor",
+"mini",
+"queen-size",
+"intercom",
+"thermostat",
+"comfort"
+],
+"level": "A2",
+"words": [
+{
+"en": "realtor",
+"uk": "ріелтор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Our realtor showed us five houses today."
+},
+{
+"en": "townhouse",
+"uk": "таунхаус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "They bought a townhouse near the city center."
+},
+{
+"en": "loft",
+"uk": "лофт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "They live in a loft above an old factory."
+},
+{
+"en": "interior",
+"uk": "інтер'єр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The interior of the house is very modern."
+},
+{
+"en": "sofa",
+"uk": "софа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "We sat on the sofa and watched a movie."
+},
+{
+"en": "decor",
+"uk": "декор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, home",
+"ex": "I love the decor in this restaurant."
+},
+{
+"en": "mini",
+"uk": "міні",
+"band": "top-10k",
+"pos": "adj",
+"topics": "other",
+"ex": "We bought a mini fridge for our small kitchen."
+},
+{
+"en": "intercom",
+"uk": "інтерком",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, tech",
+"ex": "Press the intercom button to call the apartment."
+},
+{
+"en": "thermostat",
+"uk": "термостат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, tech",
+"ex": "Turn down the thermostat before you go to bed."
+},
+{
+"en": "comfort",
+"uk": "комфорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home",
+"ex": "For me, comfort is more important than style."
+},
+{
+"en": "penthouse",
+"uk": "пентхаус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "They live in a penthouse with a city view."
+},
+{
+"en": "condominium",
+"uk": "кондомініум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, law",
+"ex": "They bought a condominium near the beach."
+}
+],
+"old_story": "Max wanted to move out of his parents' home. A [[realtor]] showed him a [[townhouse]], but it was too expensive. Then she showed him a small [[loft]] in an old building. The [[interior]] of the building was very modern. An old [[sofa]] stood in the [[hall]] downstairs. Upstairs, the [[decor]] was simple and nice. There was a [[mini]] fridge and a [[queen-size]] bed. Max tested the [[intercom]] and the [[thermostat]]. The room was only four [[meters|meter]] wide. But Max loved the [[comfort]] of the place. \"I'll take it!\" he said."
+},
+{
+"id": "c049",
+"part": "p06",
+"title": "Cleaning day",
+"scene": "It is Saturday, and Max's flat is a mess, so he hires a cleaner and turns on his robot vacuum. They put plastic in the recycling and food scraps in the compost, keep leftovers in a container, run the washing machine on a short cycle with detergent, fill the soap dispenser, change the coffee filter, use a spray on the windows and test the fire alarm.",
+"anchors": [
+"cleaner",
+"robot",
+"plastic",
+"recycling",
+"compost",
+"container",
+"cycle",
+"detergent",
+"dispenser",
+"filter",
+"spray",
+"alarm"
+],
+"level": "A2",
+"words": [
+{
+"en": "cleaner",
+"uk": "клінер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "We hired a cleaner to come twice a week."
+},
+{
+"en": "plastic",
+"uk": "пластик",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "This toy is made of plastic."
+},
+{
+"en": "recycling",
+"uk": "рециклінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our city has a good recycling program for plastic."
+},
+{
+"en": "compost",
+"uk": "компост",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, nature",
+"ex": "We put food scraps in the compost."
+},
+{
+"en": "container",
+"uk": "контейнер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home, transport",
+"ex": "Put the leftovers in a plastic container."
+},
+{
+"en": "cycle",
+"uk": "цикл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "I always use the short cycle for my shirts."
+},
+{
+"en": "detergent",
+"uk": "детергент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Add a cup of detergent to the washing machine."
+},
+{
+"en": "dispenser",
+"uk": "диспенсер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The soap dispenser in the bathroom is empty."
+},
+{
+"en": "filter",
+"uk": "фільтр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The coffee filters are in the top drawer."
+},
+{
+"en": "spray",
+"uk": "спрей",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "Use bug spray before you go camping."
+},
+{
+"en": "alarm",
+"uk": "аларм",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The fire alarm is very loud in our building."
+},
+{
+"en": "alert",
+"uk": "алерт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone shows an alert for every email."
+},
+{
+"en": "aerosol",
+"uk": "аерозоль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Don't use aerosol sprays near an open flame."
+}
+],
+"old_story": "On Saturday, Max's flat is a big mess. He calls a [[cleaner]] and turns on his little [[robot]]. The cleaner, Oksana, puts all the [[plastic]] in the [[recycling]] bin. Old food goes into the [[compost]] on the balcony. She puts the leftovers in a [[container]] in the fridge. Max chooses a short [[cycle]] but adds too much [[detergent]]. Soon there are bubbles all over the bathroom floor! Oksana laughs and fills the soap [[dispenser]] with the extra soap. She changes the coffee [[filter]] and uses a window [[spray]]. Max tests the fire [[alarm]], and it beeps loudly. In the evening, the flat is clean and smells nice."
+},
+{
+"id": "c050",
+"part": "p06",
+"title": "A weekend at the dacha",
+"scene": "Grandma's cottage at the dacha has a veranda, a hammock and a garden with a funny gnome. Grandma buys seeds at the garden center, sprays insecticide on her dahlias, irises and azaleas, the jasmine and the magnolia smell sweet, Anna turns on the sprinkler, and they play badminton.",
+"anchors": [
+"cottage",
+"veranda",
+"hammock",
+"gnome",
+"garden center",
+"insecticide",
+"dahlia",
+"iris",
+"azalea",
+"jasmine",
+"magnolia",
+"sprinkler"
+],
+"level": "A2",
+"words": [
+{
+"en": "cottage",
+"uk": "котедж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "We rented a small cottage by the lake."
+},
+{
+"en": "veranda",
+"uk": "веранда",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "We drank tea on the veranda after dinner."
+},
+{
+"en": "hammock",
+"uk": "гамак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, travel",
+"ex": "He fell asleep in the hammock."
+},
+{
+"en": "gnome",
+"uk": "гном",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "There is a garden gnome next to the door."
+},
+{
+"en": "garden center",
+"uk": "гарден-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature, places",
+"ex": "We buy flowers and seeds at the garden center."
+},
+{
+"en": "dahlia",
+"uk": "далія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "She grows dahlias in her garden every year."
+},
+{
+"en": "iris",
+"uk": "ірис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "An iris grows next to our front door."
+},
+{
+"en": "azalea",
+"uk": "азалія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The azaleas bloomed in the spring."
+},
+{
+"en": "jasmine",
+"uk": "жасмин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The garden smells of jasmine in the evening."
+},
+{
+"en": "magnolia",
+"uk": "магнолія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The magnolia in our yard is blooming again."
+},
+{
+"en": "sprinkler",
+"uk": "спринклер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "Turn on the sprinkler to water the lawn."
+},
+{
+"en": "chalet",
+"uk": "шале",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, travel",
+"ex": "We rented a wooden chalet in the mountains."
+},
+{
+"en": "bungalow",
+"uk": "бунгало",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "They live in a small bungalow by the sea."
+},
+{
+"en": "villa",
+"uk": "вілла",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home",
+"ex": "We rented a villa with a pool."
+},
+{
+"en": "patio",
+"uk": "патіо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "We ate dinner on the patio last night."
+}
+],
+"old_story": "Anna and Max visit Grandma's [[cottage]] at the dacha. They drink tea on the [[veranda]], and Max sleeps in the [[hammock]]. A funny garden [[gnome]] stands next to the door. In the morning, Grandma goes to the [[garden center]] for seeds. She also buys [[insecticide]] for the bugs on her [[dahlias|dahlia]]. Anna helps her plant a purple [[iris]] and a pink [[azalea]]. In the evening, the [[jasmine]] and the [[magnolia]] smell sweet. Then Anna turns on the [[sprinkler]] and gets Max all wet! He laughs and says, \"Now I am a flower too!\""
+},
+{
+"id": "c051",
+"part": "p06",
+"title": "Taras wants a pet",
+"scene": "Taras wants a pet. At the pet shop they look at an aquarium with koi and a green iguana, and at a chihuahua, a terrier and a poodle with a microchip; the seller explains each dog's temperament.",
+"anchors": [
+"pet shop",
+"aquarium",
+"koi",
+"iguana",
+"chihuahua",
+"terrier",
+"poodle",
+"microchip",
+"temperament"
+],
+"level": "A2",
+"words": [
+{
+"en": "pet shop",
+"uk": "пет-шоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We buy food for our cat at the pet shop."
+},
+{
+"en": "aquarium",
+"uk": "акваріум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home, places",
+"ex": "We have a fish aquarium in the living room."
+},
+{
+"en": "koi",
+"uk": "кої",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The garden pond is full of koi."
+},
+{
+"en": "iguana",
+"uk": "ігуана",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "My brother keeps a green iguana as a pet."
+},
+{
+"en": "microchip",
+"uk": "мікрочип",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our cat has a microchip with our phone number."
+},
+{
+"en": "temperament",
+"uk": "темперамент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions, people",
+"ex": "She has a calm temperament and rarely gets angry."
+},
+{
+"en": "carp",
+"uk": "карп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "He caught a big carp in the lake."
+}
+],
+"old_story": "Anna's little brother Taras really wants a pet. On Sunday, Anna takes him to the [[pet shop]]. First they look at a big [[aquarium]] with orange [[koi]]. Taras loves the green [[iguana]], but Anna says it is too big. Then they see three little dogs. The [[chihuahua]] is tiny, and the [[terrier]] barks at everyone. The white [[poodle]] is calm and quiet. The seller says, \"This one already has a [[microchip]].\" She also says it has a gentle [[temperament]] and loves children. Taras smiles and asks, \"Can we come back with Mom?\""
+},
+{
+"id": "c052",
+"part": "p06",
+"title": "Games night at Grandma's",
+"scene": "On Friday the family plays games at Grandma's: a big puzzle, a crossword, bingo, mahjong and ping-pong in the basement. Grandpa always has the joker, plays a clever gambit and wins every chess endgame, and Grandma reads tarot cards and everyone's horoscope.",
+"anchors": [
+"puzzle",
+"crossword",
+"bingo",
+"mahjong",
+"ping-pong",
+"joker",
+"gambit",
+"endgame",
+"tarot",
+"horoscope"
+],
+"level": "A2",
+"words": [
+{
+"en": "puzzle",
+"uk": "пазл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "We spent the evening doing a big jigsaw puzzle."
+},
+{
+"en": "crossword",
+"uk": "кросворд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "My dad does the crossword every Sunday morning."
+},
+{
+"en": "bingo",
+"uk": "бінго",
+"band": "top-10k",
+"pos": "noun",
+"topics": "games",
+"ex": "My grandmother plays bingo every Thursday."
+},
+{
+"en": "mahjong",
+"uk": "маджонг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "My grandma plays mahjong with friends."
+},
+{
+"en": "gambit",
+"uk": "гамбіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "She opened the chess game with a bold gambit."
+},
+{
+"en": "endgame",
+"uk": "ендгейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "He played the endgame very well and won."
+},
+{
+"en": "tarot",
+"uk": "таро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "She reads tarot cards for her friends."
+},
+{
+"en": "horoscope",
+"uk": "гороскоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She reads her horoscope every morning with coffee."
+},
+{
+"en": "zodiac",
+"uk": "зодіак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "There are twelve signs in the zodiac."
+}
+],
+"old_story": "On Friday, the family has a games night at Grandma's. Anna and Max start a big [[puzzle]] on the table. Grandpa does a [[crossword]] and asks everyone for help. Then they play [[bingo]], and Mom wins a chocolate bar. Grandma teaches Max how to play [[mahjong]]. Later Anna and Max play [[ping-pong]] in the basement. In the card game, Grandpa has the [[joker]] again! Then he plays chess with Max and starts with a clever [[gambit]]. Max fights hard, but Grandpa wins the [[endgame]]. At the end, Grandma reads [[tarot]] cards and everyone's [[horoscope]]. She says, \"Max will win next Friday!\""
+}
+]

@@ -1,0 +1,655 @@
+[
+{
+"id": "c170",
+"part": "p18",
+"title": "A visit to a data center",
+"scene": "Max's team visits a data center. The admin shows them rows of servers and an old mainframe, explains the cache and the firewall, shows how each batch of data travels on the Internet Protocol, why cloud computing is cheap, how a transmitter works and why the ping is low.",
+"anchors": [
+"data center",
+"admin",
+"server",
+"mainframe",
+"cache",
+"firewall",
+"batch",
+"Internet Protocol",
+"computing",
+"transmitter",
+"ping"
+],
+"level": "B1",
+"words": [
+{
+"en": "data center",
+"uk": "дата-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The company built a new data center in Texas."
+},
+{
+"en": "server",
+"uk": "сервер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The server is down, so the site doesn't work."
+},
+{
+"en": "mainframe",
+"uk": "мейнфрейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The bank still uses an old mainframe."
+},
+{
+"en": "cache",
+"uk": "кеш",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Clear your browser cache if the page looks wrong."
+},
+{
+"en": "firewall",
+"uk": "фаєрвол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The firewall blocked the suspicious connection."
+},
+{
+"en": "batch",
+"uk": "батч",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The system processes each batch overnight."
+},
+{
+"en": "Internet Protocol",
+"uk": "інтернет-протокол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Every device online uses the Internet Protocol."
+},
+{
+"en": "computing",
+"uk": "комп'ютинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Cloud computing saves companies a lot of money."
+},
+{
+"en": "transmitter",
+"uk": "трансмітер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The radio transmitter sends signals for miles."
+},
+{
+"en": "ping",
+"uk": "пінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My ping is too high to play online."
+},
+{
+"en": "web server",
+"uk": "вебсервер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our website runs on a fast web server."
+},
+{
+"en": "buffer",
+"uk": "буфер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Data waits in a buffer before it is sent."
+},
+{
+"en": "IP",
+"uk": "айпі",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Every device on a network has an IP address."
+},
+{
+"en": "lag",
+"uk": "лаг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "There's too much lag in this online game tonight."
+}
+],
+"old_story": "On Monday, Max's team visited a big [[data center]] outside the city. A friendly [[admin]] named Oleh met them at the door. He showed them long rows of machines, and every [[server]] had blinking lights. In the corner stood an old [[mainframe]] that still worked. \"We keep popular pages in the [[cache]], so they open fast,\" Oleh said. \"And our [[firewall]] stops strange connections every minute.\" He showed how each [[batch]] of data travels with the [[Internet Protocol]]. \"That's why cloud [[computing]] is so cheap for small companies,\" he added. On the roof, Max saw a tall radio [[transmitter]]. Back at the office, he played his favorite online game. Thanks to the new connection, his [[ping]] was lower than ever."
+},
+{
+"id": "c172",
+"part": "p18",
+"title": "A physics lesson",
+"scene": "In physics class Taras learns that everything is made of atoms. The teacher explains electrons, protons and neutrons, light as photons and the tiny quark, sound that cannot travel in a vacuum, plasma in lightning, an impulse and resonance, and shows a magnet.",
+"anchors": [
+"atom",
+"electron",
+"proton",
+"neutron",
+"photon",
+"quark",
+"vacuum",
+"plasma",
+"impulse",
+"resonance",
+"magnet"
+],
+"level": "B1",
+"words": [
+{
+"en": "atom",
+"uk": "атом",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Everything around us is made of atoms."
+},
+{
+"en": "electron",
+"uk": "електрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "An electron has a negative electric charge."
+},
+{
+"en": "proton",
+"uk": "протон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A proton has a positive electric charge."
+},
+{
+"en": "neutron",
+"uk": "нейтрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A neutron has no electric charge."
+},
+{
+"en": "photon",
+"uk": "фотон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A photon is a tiny particle of light."
+},
+{
+"en": "quark",
+"uk": "кварк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A quark is smaller than a proton."
+},
+{
+"en": "vacuum",
+"uk": "вакуум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Sound cannot travel through a vacuum."
+},
+{
+"en": "plasma",
+"uk": "плазма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Lightning is a form of plasma."
+},
+{
+"en": "impulse",
+"uk": "імпульс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "The nerve sends an electrical impulse to the brain."
+},
+{
+"en": "resonance",
+"uk": "резонанс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "The glass broke because of resonance."
+},
+{
+"en": "magnet",
+"uk": "магніт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Put the photo on the fridge with a magnet."
+},
+{
+"en": "stasis",
+"uk": "стазис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "After the factory closed, the town was in stasis for years."
+},
+{
+"en": "neutrino",
+"uk": "нейтрино",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A neutrino can pass right through the whole Earth."
+}
+],
+"old_story": "After the long summer, Taras felt his brain was in [[stasis]]. But his new physics teacher woke everyone up. \"Everything around you is made of [[atoms|atom]],\" she said. She drew a tiny [[electron]] flying around a [[proton]] and a [[neutron]]. \"Light is made of [[photons|photon]], and a [[quark]] is even smaller than a proton,\" she added. Then she put a ringing phone in a glass jar and pumped out the air. In the [[vacuum]], nobody could hear the phone. \"Lightning is a kind of [[plasma]],\" she said, pointing at the storm outside. She explained that each nerve sends an electric [[impulse]] to the brain. Then she sang one high note, and a glass on her desk began to shake. \"That's [[resonance]],\" she laughed. At the end, she gave everyone a [[magnet]], and Taras couldn't wait for more."
+},
+{
+"id": "c174",
+"part": "p18",
+"title": "In the chemistry lab",
+"scene": "Anna's friend works in a chemistry lab. She shows Anna hydrogen, sulfur and neon, explains an oxide, a chloride, a sulfate and an isotope, a polymer, peroxide, ether and graphite, and a chrome machine that studies a meteorite; she says that amphetamine is made in labs too, but it is a dangerous drug.",
+"anchors": [
+"hydrogen",
+"sulfur",
+"neon",
+"oxide",
+"chloride",
+"sulfate",
+"isotope",
+"polymer",
+"peroxide",
+"ether",
+"graphite",
+"meteorite"
+],
+"level": "B1",
+"words": [
+{
+"en": "hydrogen",
+"uk": "гідроген",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Water is made of hydrogen and oxygen."
+},
+{
+"en": "sulfur",
+"uk": "сульфур",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Rotten eggs smell a bit like sulfur."
+},
+{
+"en": "neon",
+"uk": "неон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Neon lights glowed above the bar all night."
+},
+{
+"en": "oxide",
+"uk": "оксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Iron oxide is the red color of rust."
+},
+{
+"en": "chloride",
+"uk": "хлорид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Sodium chloride is ordinary table salt."
+},
+{
+"en": "sulfate",
+"uk": "сульфат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "This shampoo is free of sulfates."
+},
+{
+"en": "isotope",
+"uk": "ізотоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, physics",
+"ex": "Carbon has several isotopes with different numbers of neutrons."
+},
+{
+"en": "polymer",
+"uk": "полімер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Plastic is a type of polymer."
+},
+{
+"en": "peroxide",
+"uk": "пероксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Clean the cut with hydrogen peroxide."
+},
+{
+"en": "ether",
+"uk": "етер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Doctors once used ether to put patients to sleep."
+},
+{
+"en": "graphite",
+"uk": "графіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Pencil lead is actually made of graphite."
+},
+{
+"en": "chrome",
+"uk": "хром",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "The old car had shiny chrome bumpers."
+},
+{
+"en": "oxygen",
+"uk": "оксиген",
+"band": "top-5000",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We need oxygen to breathe and live."
+},
+{
+"en": "dioxide",
+"uk": "діоксид",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Plants take in carbon dioxide from the air."
+},
+{
+"en": "monoxide",
+"uk": "моноксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Carbon monoxide has no color and no smell."
+}
+],
+"old_story": "Anna's friend Olya worked in a chemistry lab and invited Anna for a tour. First, Olya showed her a tank of [[hydrogen]]. A yellow powder of [[sulfur]] smelled like rotten eggs, and Anna made a face. Above the door, a sign glowed with red [[neon]] light. \"Rust is iron [[oxide]],\" Olya said, \"and table salt is sodium [[chloride]].\" She read a shampoo label to Anna: \"Free of [[sulfates|sulfate]].\" Then she explained that carbon has more than one [[isotope]]. \"Plastic is a [[polymer]], and we make new ones here,\" she said proudly. When Anna cut her finger on a box, Olya cleaned it with [[peroxide]]. \"Long ago, doctors used [[ether]] to put patients to sleep,\" she added. Anna's pencil broke, and Olya joked that its [[graphite]] needed a rest. The best part was a shiny [[chrome]] machine that studied a real [[meteorite]]."
+},
+{
+"id": "c176",
+"part": "p18",
+"title": "A night at the observatory",
+"scene": "Anna and Max visit an observatory. Through a telescope they see a bright object, an asteroid and a meteor; an astronaut talks about the cosmos, its genesis, a lander on Mars and neutrinos from the sun, and a guide explains the zenith and the zodiac.",
+"anchors": [
+"telescope",
+"object",
+"asteroid",
+"meteor",
+"astronaut",
+"cosmos",
+"genesis",
+"lander",
+"neutrino",
+"zenith",
+"zodiac"
+],
+"level": "B1",
+"words": [
+{
+"en": "telescope",
+"uk": "телескоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "We looked at the moon through a telescope."
+},
+{
+"en": "object",
+"uk": "об'єкт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "I saw a strange bright object in the sky."
+},
+{
+"en": "asteroid",
+"uk": "астероїд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "A small asteroid passed close to Earth last night."
+},
+{
+"en": "meteor",
+"uk": "метеор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "We watched a meteor cross the night sky."
+},
+{
+"en": "astronaut",
+"uk": "астронавт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, science",
+"ex": "The astronaut spent six months in space."
+},
+{
+"en": "cosmos",
+"uk": "космос",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The stars fill the vast cosmos."
+},
+{
+"en": "genesis",
+"uk": "генезис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Scientists study the genesis of the universe."
+},
+{
+"en": "lander",
+"uk": "ландер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The lander touched down safely on the surface of Mars."
+},
+{
+"en": "zenith",
+"uk": "зеніт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The sun reached its zenith at noon."
+},
+{
+"en": "crater",
+"uk": "кратер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The volcano has a huge crater at the top."
+},
+{
+"en": "meteorite",
+"uk": "метеорит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "A meteorite landed in the field last night."
+}
+],
+"old_story": "On Friday night, Anna and Max visited the city observatory. Through a big [[telescope]], Max saw a bright [[object]] near the moon. \"Is it a UFO?\" he whispered. \"No, it's a small [[asteroid]],\" the guide laughed. A minute later, a [[meteor]] crossed the sky, and Anna made a wish. Then a retired [[astronaut]] talked about the beauty of the [[cosmos]]. She explained what scientists think about the [[genesis]] of the universe. She showed a photo of a [[lander]] on Mars next to a deep [[crater]]. \"Every second, billions of [[neutrinos|neutrino]] from the sun pass through your body,\" she said. The guide pointed straight up at the [[zenith]], the highest point of the sky. When Anna asked about the [[zodiac]], the guide smiled. \"That's not science, but the stars are still beautiful.\""
+},
+{
+"id": "c177",
+"part": "p18",
+"title": "Anna's psychology experiment",
+"scene": "For her psychology class Anna runs an experiment. She explains every factor, element and indicator, keeps her focus, talks about ego, a priori ideas and the placebo effect, a paradox and a social construct, a continuum of feelings and stasis, and her professor praises her scientific skepticism.",
+"anchors": [
+"experiment",
+"factor",
+"element",
+"indicator",
+"focus",
+"ego",
+"a priori",
+"placebo effect",
+"paradox",
+"construct",
+"continuum",
+"skepticism"
+],
+"level": "B1",
+"words": [
+{
+"en": "experiment",
+"uk": "експеримент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "We did a fun experiment in class."
+},
+{
+"en": "factor",
+"uk": "фактор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "Price is an important factor for me."
+},
+{
+"en": "element",
+"uk": "елемент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "Trust is an important element of any friendship."
+},
+{
+"en": "indicator",
+"uk": "індикатор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "The color change is an indicator of acid."
+},
+{
+"en": "focus",
+"uk": "фокус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "The photo is out of focus."
+},
+{
+"en": "ego",
+"uk": "его",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "Don't let your ego stop you from asking for help."
+},
+{
+"en": "a priori",
+"uk": "апріорі",
+"band": "top-20k",
+"pos": "adv",
+"topics": "science",
+"ex": "You can't know that a priori; you need to test it."
+},
+{
+"en": "placebo effect",
+"uk": "плацебо-ефект",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The pill had no medicine; it was the placebo effect."
+},
+{
+"en": "paradox",
+"uk": "парадокс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "It's a paradox that more choices make us less happy."
+},
+{
+"en": "construct",
+"uk": "конструкт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Many people say that time is a social construct."
+},
+{
+"en": "continuum",
+"uk": "континуум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Colors form a continuum from light to dark."
+},
+{
+"en": "skepticism",
+"uk": "скептицизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Scientists met the claim with skepticism."
+},
+{
+"en": "placebo",
+"uk": "плацебо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Half the patients got a placebo."
+},
+{
+"en": "alter ego",
+"uk": "альтер его",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "His alter ego is a confident rock singer."
+}
+],
+"old_story": "For her psychology class, Anna ran an [[experiment]]: does music help people study? Noise was one [[factor]], and sleep was another. Honesty was an important [[element]], so she explained every step. Test scores were her main [[indicator]] of success. Max kept losing [[focus]], and his low score hurt his [[ego]] a little. \"We can't know that music helps [[a priori]]; we have to test it,\" Anna said. Half the group got \"smart candy\" and felt smarter, but it was just the [[placebo effect]]. \"What a [[paradox]]: the candy did nothing, but it worked!\" Max laughed. In her report, Anna wrote that being \"smart\" is partly a social [[construct]]. Feelings about the music formed a [[continuum]], from love to hate. Her professor praised her healthy [[skepticism]] and gave her an A."
+}
+]

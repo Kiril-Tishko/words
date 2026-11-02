@@ -1,0 +1,623 @@
+[
+{
+"id": "c018",
+"part": "p02",
+"title": "Happy hour",
+"scene": "After a long week Max's new colleagues invite him to happy hour at a bar. The bartender makes cocktails - a martini for one colleague and a gin and tonic with lime for Max - another colleague drinks a lite beer, and Anna does not drink alcohol at all.",
+"anchors": [
+"happy hour",
+"bar",
+"bartender",
+"cocktail",
+"martini",
+"gin",
+"tonic",
+"lime",
+"lite",
+"alcohol"
+],
+"level": "A2",
+"words": [
+{
+"en": "happy hour",
+"uk": "хепі-ауер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, time",
+"ex": "Is there a happy hour at this bar?"
+},
+{
+"en": "bar",
+"uk": "бар",
+"band": "top-3000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's meet at the bar after work."
+},
+{
+"en": "bartender",
+"uk": "бартендер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The bartender made me a great cocktail."
+},
+{
+"en": "cocktail",
+"uk": "коктейль",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered two cocktails at the hotel bar."
+},
+{
+"en": "martini",
+"uk": "мартіні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a dry martini with an olive."
+},
+{
+"en": "gin",
+"uk": "джин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a gin and tonic at the bar."
+},
+{
+"en": "tonic",
+"uk": "тонік",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a gin and tonic, please."
+},
+{
+"en": "lite",
+"uk": "лайт",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "I'll have a lite beer, please."
+},
+{
+"en": "alcohol",
+"uk": "алкоголь",
+"band": "top-3000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I don't drink alcohol."
+},
+{
+"en": "barman",
+"uk": "бармен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, people",
+"ex": "The barman poured us two glasses of beer."
+},
+{
+"en": "whiskey",
+"uk": "віскі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He likes his whiskey with a little ice."
+},
+{
+"en": "bourbon",
+"uk": "бурбон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a bourbon with ice at the bar."
+},
+{
+"en": "brandy",
+"uk": "бренді",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He drank a glass of brandy after dinner."
+},
+{
+"en": "cognac",
+"uk": "коньяк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He drinks a small glass of cognac after dinner."
+},
+{
+"en": "tequila",
+"uk": "текіла",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered two shots of tequila with lime."
+},
+{
+"en": "margarita",
+"uk": "маргарита",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "She ordered a margarita with salt on the rim."
+}
+],
+"old_story": "After a long week, Max's new colleagues invite him to [[happy hour]]. They meet at a small [[bar]], and Anna comes too. The [[bartender]] is fast and friendly. He makes [[cocktails|cocktail]] for everyone. Oleh orders a [[martini]]. Max asks for a [[gin]] and [[tonic]] with [[lime]]. Iryna drinks a [[lite]] beer. Anna doesn't drink [[alcohol]], so she orders orange juice. By the end of the evening, Max knows everyone's name."
+},
+{
+"id": "c019",
+"part": "p02",
+"title": "Quiz night at the pub",
+"scene": "Anna, Max and their friends play the Thursday quiz at an Irish pub. The barman brings ale and cider from a new keg, and between rounds they play darts and snooker.",
+"anchors": [
+"quiz",
+"pub",
+"barman",
+"ale",
+"cider",
+"keg",
+"darts",
+"snooker"
+],
+"level": "A2",
+"words": [
+{
+"en": "quiz",
+"uk": "квіз",
+"band": "top-10k",
+"pos": "noun",
+"topics": "games",
+"ex": "We go to a quiz night at the bar every Thursday."
+},
+{
+"en": "pub",
+"uk": "паб",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks, places",
+"ex": "Let's meet at the pub after work."
+},
+{
+"en": "ale",
+"uk": "ель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a pint of ale."
+},
+{
+"en": "cider",
+"uk": "сидр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We drank warm apple cider in the fall."
+},
+{
+"en": "keg",
+"uk": "кег",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We bought a keg of beer for the party."
+},
+{
+"en": "darts",
+"uk": "дартс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, sport",
+"ex": "We played darts at the bar after work."
+},
+{
+"en": "snooker",
+"uk": "снукер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "We played snooker at the pub after work."
+},
+{
+"en": "lager",
+"uk": "лагер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a cold lager with his burger."
+}
+],
+"old_story": "Every Thursday there is a [[quiz]] at an Irish [[pub]] in town. Anna, Max and their friends make a team. The [[barman]] brings [[ale]] and [[cider]] from a new [[keg]]. Anna drinks tea and answers all the history questions. Between rounds, they play [[darts]]. Max misses the board every time. Then he plays [[snooker]] and wins easily. At the end, their team gets second place and a free pizza."
+},
+{
+"id": "c020",
+"part": "p03",
+"title": "A new sweater",
+"scene": "Anna goes shopping at a big shopping center. She sees a sweater on a mannequin in the window; it is on sale, so she asks for the same model in blue cotton, gets a discount and pays in cash.",
+"anchors": [
+"shopping",
+"shopping center",
+"sweater",
+"mannequin",
+"sale",
+"model",
+"cotton",
+"discount",
+"cash"
+],
+"level": "A1",
+"words": [
+{
+"en": "shopping",
+"uk": "шопінг",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "Let's go shopping on Saturday."
+},
+{
+"en": "shopping center",
+"uk": "шопінг-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We went to the shopping center on Saturday."
+},
+{
+"en": "sweater",
+"uk": "светр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "It's cold outside, so wear a warm sweater."
+},
+{
+"en": "mannequin",
+"uk": "манекен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The mannequin in the window wears a red dress."
+},
+{
+"en": "sale",
+"uk": "сейл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "These shoes were on sale for half price."
+},
+{
+"en": "cotton",
+"uk": "котон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "clothing",
+"ex": "Do you have this dress in cotton?"
+},
+{
+"en": "discount",
+"uk": "дисконт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "We got a ten percent discount on the shoes."
+},
+{
+"en": "cash",
+"uk": "кеш",
+"band": "top-2000",
+"pos": "noun",
+"topics": "finance",
+"ex": "Do you have any cash for the taxi?"
+},
+{
+"en": "nylon",
+"uk": "нейлон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "This jacket is made of nylon."
+},
+{
+"en": "polyester",
+"uk": "поліестер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, clothing",
+"ex": "This shirt is made of cheap polyester."
+},
+{
+"en": "jumper",
+"uk": "джемпер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a warm wool jumper to school."
+},
+{
+"en": "cardigan",
+"uk": "кардиган",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a warm cardigan over her dress."
+},
+{
+"en": "hoodie",
+"uk": "худі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a gray hoodie and jeans."
+},
+{
+"en": "coupon",
+"uk": "купон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "I used a coupon to save five dollars."
+},
+{
+"en": "voucher",
+"uk": "ваучер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "I got a fifty-dollar voucher for the store."
+},
+{
+"en": "rebate",
+"uk": "ребейт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "We got a fifty-dollar rebate on the TV."
+}
+],
+"old_story": "Anna loves [[shopping]]. Today she goes to a big [[shopping center]]. She needs a warm [[sweater]] for winter. In a shop window, she sees a [[mannequin]]. It wears a nice red one. It is on [[sale]]! Anna asks for the same [[model]] in blue. It is soft [[cotton]], not [[nylon]] or [[polyester]]. She also gets a student [[discount]]. She pays in [[cash]] and smiles."
+},
+{
+"id": "c024",
+"part": "p03",
+"title": "Anna's student budget",
+"scene": "At the end of the month Anna counts her money: plus a hundred dollars from her parents, minus the money for books. She is on a tight budget and saves every cent and penny, so she goes to the bank, checks her balance, makes a deposit and decides not to buy anything on credit.",
+"anchors": [
+"plus",
+"dollar",
+"minus",
+"budget",
+"cent",
+"penny",
+"bank",
+"balance",
+"deposit",
+"credit"
+],
+"level": "A1",
+"words": [
+{
+"en": "plus",
+"uk": "плюс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "math",
+"ex": "Two plus two is four."
+},
+{
+"en": "dollar",
+"uk": "долар",
+"band": "top-1000",
+"pos": "noun",
+"topics": "finance",
+"ex": "This T-shirt costs ten dollars."
+},
+{
+"en": "minus",
+"uk": "мінус",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "Can you tell me what ten minus four is?"
+},
+{
+"en": "budget",
+"uk": "бюджет",
+"band": "top-3000",
+"pos": "noun",
+"topics": "finance",
+"ex": "We are on a tight budget this month."
+},
+{
+"en": "cent",
+"uk": "цент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "finance",
+"ex": "This candy costs fifty cents."
+},
+{
+"en": "penny",
+"uk": "пенні",
+"band": "top-5000",
+"pos": "noun",
+"topics": "finance",
+"ex": "I save every penny for my trip to London."
+},
+{
+"en": "bank",
+"uk": "банк",
+"band": "top-1000",
+"pos": "noun",
+"topics": "finance",
+"ex": "Where is the bank?"
+},
+{
+"en": "balance",
+"uk": "баланс",
+"band": "top-5000",
+"pos": "noun",
+"topics": "finance",
+"ex": "It's hard to find a balance between work and family."
+},
+{
+"en": "deposit",
+"uk": "депозит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "I want to make a deposit, please."
+},
+{
+"en": "credit",
+"uk": "кредит",
+"band": "top-2000",
+"pos": "noun",
+"topics": "finance",
+"ex": "We bought the car on credit."
+},
+{
+"en": "dime",
+"uk": "дайм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "I found a dime under the couch cushion."
+}
+],
+"old_story": "Today Anna counts her money. Her parents send her a hundred [[dollars|dollar]]. She has 50 more: 100 [[plus]] 50 is 150. Books cost 40, and 150 [[minus]] 40 is 110. Anna is on a tight [[budget]]. She saves every [[cent]] and every [[penny]]. On Monday she goes to the [[bank]]. She checks her [[balance]] and makes a [[deposit]]. Anna wants a new phone. But she does not buy it on [[credit]]. She saves for it instead."
+},
+{
+"id": "c026",
+"part": "p03",
+"title": "Sofia's first fashion show",
+"scene": "Max's sister Sofia studies to be a fashion designer and shows her first collection at a fashion show. Supermodels wear her couture - a corset, a cape, jackets in cashmere, tweed, flannel and khaki - and she explains why she likes natural material and textile, not nylon or polyester.",
+"anchors": [
+"fashion designer",
+"fashion show",
+"supermodel",
+"couture",
+"corset",
+"cape",
+"cashmere",
+"tweed",
+"flannel",
+"khaki",
+"material",
+"textile"
+],
+"level": "B1",
+"words": [
+{
+"en": "fashion designer",
+"uk": "фешн-дизайнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, people",
+"ex": "I want to be a fashion designer one day."
+},
+{
+"en": "fashion show",
+"uk": "фешн-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I went to a fashion show in Kyiv last week."
+},
+{
+"en": "supermodel",
+"uk": "супермодель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, people",
+"ex": "The supermodel walked the runway in a red dress."
+},
+{
+"en": "couture",
+"uk": "кутюр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a couture gown to the gala."
+},
+{
+"en": "corset",
+"uk": "корсет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a tight corset under her dress."
+},
+{
+"en": "cashmere",
+"uk": "кашемір",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She bought a soft cashmere scarf."
+},
+{
+"en": "tweed",
+"uk": "твід",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore an old tweed jacket to the meeting."
+},
+{
+"en": "flannel",
+"uk": "фланель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a warm flannel shirt in the cold."
+},
+{
+"en": "khaki",
+"uk": "хакі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The soldiers were dressed in khaki from head to toe."
+},
+{
+"en": "material",
+"uk": "матеріал",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "This material is soft."
+},
+{
+"en": "textile",
+"uk": "текстиль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The town is famous for its textiles."
+},
+{
+"en": "dandy",
+"uk": "данді",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was a dandy who loved fancy suits."
+},
+{
+"en": "model",
+"uk": "модель",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Do you have this model in blue?"
+}
+],
+"old_story": "Max's sister Sofia is studying to be a [[fashion designer]]. On Saturday she shows her first collection at a small [[fashion show]] in Kyiv. It isn't real [[couture]], but every piece is made by hand. A tall [[supermodel]] opens the show in a black [[corset]] and a long red [[cape]]. Next come soft jackets in [[cashmere]], [[tweed]] and [[flannel]]. The last model, dressed like a [[dandy]], wears a smart suit in [[khaki]]. After the show, Anna asks Sofia why she never uses nylon or polyester. Sofia smiles. \"Natural [[material]] like wool feels better on the skin.\" \"And good [[textiles|textile]] last for years,\" she adds. Her teacher says it is the best collection in the class."
+}
+]

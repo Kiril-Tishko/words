@@ -18,6 +18,7 @@ For EVERY chapter in your batch:
    - Use the recurring cast: Anna (a student in Kyiv) and her friend Max, plus their family, friends and colleagues as needed. Make it a real little story with something happening and a small ending, and keep it practical and everyday where possible.
    - English only, American spelling. No real people or brands, no politics about real countries. Keep it kind and suitable for teenagers.
    - For the Exclamations part, write a short dialogue: a few lines, each starting with a name and a colon.
+   - If a chapter has "old_story", it is the chapter's previous story: keep its plot, cast and tone, and work the new words in naturally. Very similar words (mister / Mrs. / Miss; hotel / motel / hostel; dollar / cent / penny) are in one chapter on purpose, so the learner sees them side by side: make the story show how they differ or go together.
 3. "title": keep the linguist's title, or improve it (2–5 words).
 4. If a word really cannot fit this scene in its card meaning, leave it out of the story and list it in "drop". Use "drop" rarely. Never invent words that are not in the chapter, and never mark them.
 5. If a chapter has more than 16 words, you may split it into two chapters: keep the id for the first and use the id + "b" for the second, each with its own title, order and story.

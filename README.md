@@ -12,11 +12,19 @@ Open `index.html` in a browser. It works offline, and on any static host such as
 - **Hide slang** (on by default) hides pairs whose Ukrainian word is slang, colloquial or rare (people = піпл), and rude English words. **Topics** filters a band by topic.
 - **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
 
+### Marks
+Two small badges on the card (front, bottom right), chosen by agents for every card (`tools/workflows/word-marks.js` → `data/marks/`):
+- **anglicism**: Ukrainians use the word as an English word, often as slang or only about English-speaking life (mister = містер, stuff = стаф, please = пліз). About 1,450 cards.
+- **★ English too**: a word a Ukrainian would not expect in English, because it feels Ukrainian, Slavic or local (tsar = цар, hooligan = хуліган, bolt = болт, bazaar = базар, steppe = степ). About 430 cards.
+
+The **Topics** menu can show only one kind ("★ English too", "Anglicisms") in any band.
+
 ### Stories
 The **Stories** tab groups the 2,284 most useful words (Top 1000 to Top 20K, plus all exclamations) into 200 short scenes in 20 parts.
 - **The grouping:** a linguist designed parts that run like a course: first words, café, shopping, travel, work, home, health, sport, media, the wider world. Each part is split into chapters. Each chapter is one scene with Anna, a student in Kyiv, and her friend Max (`docs/review/grouping.md`).
 - **The story:** each chapter has a short, simple English story that uses its words in order. Click a word to hear it and see its card. The cards follow in the same order, and **Train these words** drills the chapter.
 - **Exclamations:** wow, oops, hmm, bravo, ciao, meow and the like have their own part at the end, with short dialogues.
+- **Very similar words are together** (`data/stories/families-*.json`, `tools/build_stories.py families`). Examples: mister, Mrs., Miss, sir, madam, lady and gentleman; hotel, motel, hostel and resort; cop, policeman, constable and sheriff; currencies; units; dances; dog breeds.
 - **How it is built:** `tools/build_stories.py` runs the pipeline. A linguist outline (`data/stories/outline.json`) comes first. Then `tools/workflows/story-assign.js` places every word and `tools/workflows/story-write.js` writes the stories. The result is `data/stories/stories.json`, which becomes `stories.js`.
 
 ### Pictures

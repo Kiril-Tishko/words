@@ -1,0 +1,666 @@
+[
+{
+"id": "c105",
+"part": "p11",
+"title": "A day at the art museum",
+"scene": "Anna takes Max to the art museum. They see Renaissance portraits and a Madonna full of symbolism, the contour of a face in an indigo drawing, statues by a famous sculptor on stone pedestals, antique furniture and modern realism; a realist painter's panorama of Kyiv makes a critic and the curator smile.",
+"anchors": [
+"art",
+"renaissance",
+"portrait",
+"madonna",
+"symbolism",
+"contour",
+"sculptor",
+"pedestal",
+"antique",
+"realism",
+"critic",
+"curator"
+],
+"level": "A2",
+"words": [
+{
+"en": "art",
+"uk": "арт",
+"band": "top-1000",
+"pos": "noun",
+"topics": "art",
+"ex": "I like modern art."
+},
+{
+"en": "renaissance",
+"uk": "ренесанс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "Florence was the center of the Renaissance."
+},
+{
+"en": "portrait",
+"uk": "портрет",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "Can you take a portrait of me by the window?"
+},
+{
+"en": "madonna",
+"uk": "мадонна",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, religion",
+"ex": "The museum has a famous painting of the Madonna."
+},
+{
+"en": "symbolism",
+"uk": "символізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The poem is full of religious symbolism."
+},
+{
+"en": "contour",
+"uk": "контур",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Draw the contour of the face first."
+},
+{
+"en": "sculptor",
+"uk": "скульптор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The sculptor worked on the statue for a year."
+},
+{
+"en": "pedestal",
+"uk": "п'єдестал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The statue stands on a stone pedestal."
+},
+{
+"en": "antique",
+"uk": "антик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "This old clock is a valuable antique."
+},
+{
+"en": "realism",
+"uk": "реалізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The painting is a fine example of realism."
+},
+{
+"en": "critic",
+"uk": "критик",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art, people",
+"ex": "I read what the critics say before I watch a movie."
+},
+{
+"en": "curator",
+"uk": "куратор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The curator chose the paintings for the show."
+},
+{
+"en": "contrast",
+"uk": "контраст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "This photo has very strong contrast."
+},
+{
+"en": "art critic",
+"uk": "арт-критик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The art critic praised the new exhibit."
+}
+],
+"old_story": "On Saturday, Anna takes Max to the [[art]] museum. First, they visit the [[Renaissance|renaissance]] room. Max likes a [[portrait]] of a young man in a red hat. Anna likes a painting of the [[Madonna|madonna]] with a baby. The guide says it is full of [[symbolism]]. Next, Anna looks at the [[contour]] of a face in a drawing. Then they see statues by a famous [[sculptor]]. Each statue stands on a stone [[pedestal]]. Max wants to sit on a chair, but it is an [[antique]]! Upstairs, there are modern paintings in the style of [[realism]]. A [[critic]] writes notes in front of a big painting of Kyiv. The [[curator]] explains the strong [[contrast]] of dark and light colors."
+},
+{
+"id": "c106",
+"part": "p11",
+"title": "Street art in Kyiv",
+"scene": "Max shows Anna street art in an old district: graffiti, a huge mural and public art on the exterior of old buildings. In an art space they see contemporary art, collages, avant-garde visuals and posters by an illustrator, and an art critic talks about design, designers and contrast.",
+"anchors": [
+"graffiti",
+"mural",
+"public art",
+"exterior",
+"art space",
+"contemporary art",
+"avant-garde",
+"poster",
+"illustrator",
+"art critic",
+"design",
+"designer"
+],
+"level": "A2",
+"words": [
+{
+"en": "graffiti",
+"uk": "графіті",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "The wall near the station is covered with graffiti."
+},
+{
+"en": "mural",
+"uk": "мурал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "A huge mural covers the side of the school."
+},
+{
+"en": "public art",
+"uk": "паблік-арт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The city spends money on public art every year."
+},
+{
+"en": "exterior",
+"uk": "екстер'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The exterior of the house is painted white."
+},
+{
+"en": "art space",
+"uk": "арт-спейс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, places",
+"ex": "The old factory is now an art space for young artists."
+},
+{
+"en": "contemporary art",
+"uk": "контемпорарі-арт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "The museum has a large collection of contemporary art."
+},
+{
+"en": "avant-garde",
+"uk": "авангард",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The museum has a new show about the avant-garde."
+},
+{
+"en": "illustrator",
+"uk": "ілюстратор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The illustrator drew all the pictures for this children's book."
+},
+{
+"en": "design",
+"uk": "дизайн",
+"band": "top-2000",
+"pos": "noun",
+"topics": "art",
+"ex": "Do you like the design of this phone?"
+},
+{
+"en": "designer",
+"uk": "дизайнер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art, people",
+"ex": "I work as a web designer from home."
+},
+{
+"en": "visual",
+"uk": "візуал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The designer made a bright visual for the ad."
+},
+{
+"en": "indigo",
+"uk": "індиго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The dress was dyed with indigo."
+},
+{
+"en": "facade",
+"uk": "фасад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The building has a beautiful stone facade."
+}
+],
+"old_story": "Max shows Anna an old district of Kyiv. Every wall near the station has [[graffiti]] on it. On one house, there is a huge [[mural]] of a big bird. \"The city pays for this [[public art]],\" Max says. The bird covers the whole [[exterior]] in [[indigo]] and white. Next, they go into an [[art space]] in an old factory. It shows [[contemporary art]] by young artists. One room is full of [[avant-garde]] pictures. Anna buys a [[poster]] by a local [[illustrator]]. An [[art critic]] talks about [[design]] with a young [[designer]]. She shows him a bright [[visual]] for a concert. At home, Anna puts her new picture on the wall."
+},
+{
+"id": "c107",
+"part": "p12",
+"title": "What shall we watch?",
+"scene": "Anna and Max cannot choose a film on their streaming service. They watch trailers, read the rating and argue about the genre - a thriller, sci-fi about a cyborg or fantasy - and Max gives a spoiler about the sequel of a summer blockbuster.",
+"anchors": [
+"film",
+"streaming service",
+"trailer",
+"rating",
+"genre",
+"thriller",
+"sci-fi",
+"cyborg",
+"fantasy",
+"spoiler",
+"sequel",
+"blockbuster"
+],
+"level": "A2",
+"words": [
+{
+"en": "film",
+"uk": "фільм",
+"band": "top-1000",
+"pos": "noun",
+"topics": "media",
+"ex": "I like this film."
+},
+{
+"en": "streaming service",
+"uk": "стрімінг-сервіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media, tech",
+"ex": "Which streaming service do you use for movies?"
+},
+{
+"en": "trailer",
+"uk": "трейлер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media, transport",
+"ex": "Have you seen the trailer for the new movie?"
+},
+{
+"en": "rating",
+"uk": "рейтинг",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "This movie has a very high rating online."
+},
+{
+"en": "genre",
+"uk": "жанр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "What genre of music do you like best?"
+},
+{
+"en": "thriller",
+"uk": "трилер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched a scary thriller last night."
+},
+{
+"en": "sci-fi",
+"uk": "сай-фай",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "My brother loves sci-fi movies about space travel."
+},
+{
+"en": "fantasy",
+"uk": "фентезі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "I love reading fantasy books before bed."
+},
+{
+"en": "spoiler",
+"uk": "спойлер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "Don't tell me the ending, that's a spoiler!"
+},
+{
+"en": "sequel",
+"uk": "сиквел",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The sequel was better than the first movie."
+},
+{
+"en": "blockbuster",
+"uk": "блокбастер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The summer blockbuster made millions."
+},
+{
+"en": "streaming",
+"uk": "стрімінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Streaming has replaced DVDs for most people."
+},
+{
+"en": "preview",
+"uk": "прев'ю",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched a preview of the new movie."
+},
+{
+"en": "promo",
+"uk": "промо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched the promo for the new show."
+},
+{
+"en": "spin-off",
+"uk": "спін-оф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "The popular show got its own spin-off last year."
+},
+{
+"en": "remake",
+"uk": "ремейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The remake is better than the original movie."
+}
+],
+"old_story": "On Friday evening, Anna and Max want to watch a [[film]]. They open their [[streaming service]], but they cannot choose. First, they watch three [[trailers|trailer]]. Anna checks the [[rating]] of each movie. They argue about the [[genre]]. Anna wants a [[thriller]], but Max wants [[sci-fi]]. His movie is about a [[cyborg]] who saves a city. \"What about [[fantasy]]?\" Anna asks. Then Max gives a [[spoiler]] about the [[sequel]] of a summer [[blockbuster]]. Anna throws a pillow at him, and they watch a comedy."
+},
+{
+"id": "c108",
+"part": "p12",
+"title": "Max's favorite TV show",
+"scene": "Every Thursday at prime time Max watches a new episode of his favorite sitcom, and Grandma prefers a game show. Taras likes a reality show, Mama watches a talk show with a funny gag and a cooking segment, but Max says streaming is better entertainment and sends a promo clip to Anna.",
+"anchors": [
+"prime time",
+"episode",
+"sitcom",
+"game show",
+"show",
+"reality show",
+"talk show",
+"gag",
+"streaming",
+"entertainment",
+"promo",
+"clip"
+],
+"level": "A2",
+"words": [
+{
+"en": "prime time",
+"uk": "прайм-тайм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The show is on TV during prime time on Thursdays."
+},
+{
+"en": "episode",
+"uk": "епізод",
+"band": "top-2000",
+"pos": "noun",
+"topics": "media",
+"ex": "I watched the first episode last night."
+},
+{
+"en": "sitcom",
+"uk": "ситком",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched an old sitcom on TV last night."
+},
+{
+"en": "game show",
+"uk": "гейм-шоу",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "My grandmother watches a game show every evening."
+},
+{
+"en": "show",
+"uk": "шоу",
+"band": "top-1000",
+"pos": "noun",
+"topics": "media",
+"ex": "I like this TV show."
+},
+{
+"en": "reality show",
+"uk": "реаліті-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "She was on a cooking reality show last year."
+},
+{
+"en": "talk show",
+"uk": "ток-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "She was a guest on a late-night talk show."
+},
+{
+"en": "gag",
+"uk": "гег",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The movie has a funny gag about a dog."
+},
+{
+"en": "entertainment",
+"uk": "ентертейнмент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "media",
+"ex": "Is there any entertainment for kids here?"
+},
+{
+"en": "segment",
+"uk": "сегмент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The next segment of the show is about food."
+},
+{
+"en": "talent show",
+"uk": "талант-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "Our school talent show is next Friday."
+}
+],
+"old_story": "On Thursdays at [[prime time]], the family watches TV together. But everyone wants a different [[show]]. Max wants a new [[episode]] of his favorite [[sitcom]]. Grandma prefers a [[game show]] with big prizes. Taras loves a [[reality show]] about young cooks. Mom wants a [[talk show]] with a funny [[gag]] about a cat. Its next [[segment]] is about healthy food. Max sighs and says, \"[[Streaming|streaming]] is better [[entertainment]]!\" He goes to his room with his laptop. He sends Anna a [[promo]] for a new [[spin-off]]. Then he sends her a short [[clip]], and she laughs."
+},
+{
+"id": "c111",
+"part": "p12",
+"title": "Taras's comics and anime",
+"scene": "Taras watches anime every night. His favorite hero has an alter ego like Superman, and his only weakness is like kryptonite; a cold sociopath villain with many minions, a droid and an ogre lives in a creepy castle with a vampire, and Taras also reads the hobbit saga.",
+"anchors": [
+"anime",
+"alter ego",
+"superman",
+"kryptonite",
+"sociopath",
+"minion",
+"droid",
+"ogre",
+"creepy",
+"vampire",
+"hobbit",
+"saga"
+],
+"level": "A2",
+"words": [
+{
+"en": "anime",
+"uk": "аніме",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "My son watches anime every evening."
+},
+{
+"en": "superman",
+"uk": "супермен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He works three jobs like a superman."
+},
+{
+"en": "kryptonite",
+"uk": "криптоніт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "Chocolate is my kryptonite, so I never buy it."
+},
+{
+"en": "minion",
+"uk": "міньйон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The villain sent his minions to find the hero."
+},
+{
+"en": "droid",
+"uk": "дроїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The droid beeped and rolled away."
+},
+{
+"en": "creepy",
+"uk": "кріпі",
+"band": "top-5000",
+"pos": "adj",
+"topics": "other",
+"ex": "This old house looks really creepy at night."
+},
+{
+"en": "vampire",
+"uk": "вампір",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "In old stories, vampires only come out at night."
+},
+{
+"en": "saga",
+"uk": "сага",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "The family saga covers three generations."
+},
+{
+"en": "cannibal",
+"uk": "канібал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The movie is about a tribe of cannibals."
+},
+{
+"en": "android",
+"uk": "андроїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The movie is about an android that looks human."
+},
+{
+"en": "robot",
+"uk": "робот",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our robot cleans the floor every day."
+},
+{
+"en": "cyborg",
+"uk": "кіборг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science, tech",
+"ex": "The movie is about a cyborg police officer."
+},
+{
+"en": "lackey",
+"uk": "лакей",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is just the boss's lackey."
+},
+{
+"en": "manga",
+"uk": "манга",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "My son reads manga every night before bed."
+}
+],
+"old_story": "Taras watches [[anime]] every night after dinner. His favorite hero is a shy boy at school. But his [[alter ego]] is strong and fast, like a [[superman]]. His only weakness is cold water. It is his [[kryptonite]]. The villain is a cold [[sociopath]] with many [[minions|minion]]. He also has a [[droid]] and an angry [[ogre]]. They all live in a [[creepy]] castle with an old [[vampire]]. The vampire is funny, and the ogre is not a [[cannibal]]. He only eats soup! Before bed, Taras reads a book about a [[hobbit]]. It is a long [[saga]], and he loves every page. Tonight he falls asleep with the book on his face."
+}
+]

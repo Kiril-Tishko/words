@@ -1,0 +1,640 @@
+[
+{
+"id": "c162",
+"part": "p17",
+"title": "Who stole Max's bike?",
+"scene": "Max's bike disappears from the street. A cop and a detective look at the camera and see a silhouette; the main suspect, known for shoplifting and vandalism, has an alibi and a pretext, but the police find ganja in his pocket, check his dossier and give him a polygraph test - the vandal confesses.",
+"anchors": [
+"cop",
+"detective",
+"silhouette",
+"shoplifting",
+"vandalism",
+"alibi",
+"pretext",
+"ganja",
+"dossier",
+"polygraph",
+"vandal"
+],
+"level": "B1",
+"words": [
+{
+"en": "cop",
+"uk": "коп",
+"band": "top-2000",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Please call the cops!"
+},
+{
+"en": "detective",
+"uk": "детектив",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Do you like detective films?"
+},
+{
+"en": "silhouette",
+"uk": "силует",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "We saw the silhouette of a man in the window."
+},
+{
+"en": "shoplifting",
+"uk": "шопліфтинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "He was arrested for shoplifting at the mall."
+},
+{
+"en": "vandalism",
+"uk": "вандалізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "The school was closed after an act of vandalism."
+},
+{
+"en": "alibi",
+"uk": "алібі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "He had an alibi for the night of the crime."
+},
+{
+"en": "pretext",
+"uk": "претекст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "He visited on the pretext of borrowing sugar."
+},
+{
+"en": "dossier",
+"uk": "досьє",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "The police opened a dossier on the suspect."
+},
+{
+"en": "polygraph",
+"uk": "поліграф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "He took a polygraph test for the job."
+},
+{
+"en": "vandal",
+"uk": "вандал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Vandals broke the windows of the school."
+},
+{
+"en": "hooligan",
+"uk": "хуліган",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Soccer hooligans fought outside the stadium after the game."
+},
+{
+"en": "policeman",
+"uk": "полісмен",
+"band": "top-5000",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Excuse me, where can I find a policeman?"
+},
+{
+"en": "constable",
+"uk": "констебль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law, people",
+"ex": "The constable asked us a few questions."
+},
+{
+"en": "sheriff",
+"uk": "шериф",
+"band": "top-3000",
+"pos": "noun",
+"topics": "law",
+"ex": "I like old movies about sheriffs."
+}
+],
+"old_story": "One morning, Max's bike was gone from the street outside his building. He called the [[cops|cop]], and a young [[detective]] named Koval came an hour later. On the street camera, they saw the [[silhouette]] of a tall man at night. Koval knew him: a local guy with a history of [[shoplifting]] and [[vandalism]]. He had an [[alibi]]: he said he was at his aunt's house all night. The next day, he came back on the [[pretext]] of walking his dog. The police stopped him and found [[ganja]] in his pocket. Koval checked his [[dossier]] and asked for a [[polygraph]] test. Before the test even started, the young [[vandal]] confessed. He and an old soccer [[hooligan]] friend took the bike as a stupid joke. Max got his bike back that evening, with a scratch and a new lock."
+},
+{
+"id": "c164",
+"part": "p17",
+"title": "Gangs and drugs",
+"scene": "Max watches a film about the mafia. Gangsters and the yakuza fight a vendetta over drug trafficking - cannabis and opium - for a crime syndicate, until a police raid finds their bongs, a pistol and a shotgun.",
+"anchors": [
+"mafia",
+"gangster",
+"yakuza",
+"vendetta",
+"trafficking",
+"cannabis",
+"opium",
+"syndicate",
+"raid",
+"bong",
+"pistol",
+"shotgun"
+],
+"level": "B1",
+"words": [
+{
+"en": "mafia",
+"uk": "мафія",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "The mafia controlled the city's docks."
+},
+{
+"en": "gangster",
+"uk": "гангстер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The movie is about a gangster in Chicago."
+},
+{
+"en": "yakuza",
+"uk": "якудза",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "The movie is about the yakuza in Tokyo."
+},
+{
+"en": "vendetta",
+"uk": "вендета",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The two families had a vendetta for years."
+},
+{
+"en": "trafficking",
+"uk": "трафікінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "Human trafficking is a serious crime in every country."
+},
+{
+"en": "syndicate",
+"uk": "синдикат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "A syndicate of banks funded the project."
+},
+{
+"en": "raid",
+"uk": "рейд",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "During the air raid, we stayed in the shelter."
+},
+{
+"en": "bong",
+"uk": "бонг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Police found a bong in his room."
+},
+{
+"en": "pistol",
+"uk": "пістоль",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "Do you need a license to own a pistol here?"
+},
+{
+"en": "shotgun",
+"uk": "шотган",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The farmer keeps a shotgun to protect his chickens."
+},
+{
+"en": "caliber",
+"uk": "калібр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The police found a small caliber bullet at the scene."
+},
+{
+"en": "revolver",
+"uk": "револьвер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The detective always carried a revolver in his coat."
+},
+{
+"en": "cartel",
+"uk": "картель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The police arrested leaders of a drug cartel."
+}
+],
+"old_story": "On Friday night, Max watched an old film about the [[mafia]] with his dad. In it, an old [[gangster]] flies to Tokyo to meet the [[yakuza]]. The two groups start a long [[vendetta]] over drug [[trafficking]]. They fight about [[cannabis]] fields and boxes of [[opium]]. Behind them all is a huge crime [[syndicate]]. In the end, a police [[raid]] stops everything in one night. The police find [[bongs|bong]], a [[pistol]], and an old [[shotgun]] in the basement. An expert checks the [[caliber]] of every bullet. Max's dad fell asleep before the end, so Max had to tell him everything."
+},
+{
+"id": "c165",
+"part": "p17",
+"title": "A true-crime podcast",
+"scene": "Anna listens to a true-crime podcast about a maniac. Experts talk about a psychopath and a sadist, an abuser and years of abuse, a pedophile, incest, stalking and kidnapping, and the coroner explains what happened in the morgue.",
+"anchors": [
+"maniac",
+"psychopath",
+"sadist",
+"abuser",
+"abuse",
+"pedophile",
+"incest",
+"stalking",
+"kidnapping",
+"coroner",
+"morgue"
+],
+"level": "B1",
+"words": [
+{
+"en": "maniac",
+"uk": "маніяк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The police caught the maniac after a long chase."
+},
+{
+"en": "psychopath",
+"uk": "психопат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The killer in the movie was a psychopath."
+},
+{
+"en": "sadist",
+"uk": "садист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Only a sadist would enjoy hurting animals."
+},
+{
+"en": "abuser",
+"uk": "аб'юзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The abuser was arrested after the neighbors called the police."
+},
+{
+"en": "abuse",
+"uk": "аб'юз",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "She left him after years of abuse."
+},
+{
+"en": "pedophile",
+"uk": "педофіл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, people",
+"ex": "The police arrested a known pedophile last week."
+},
+{
+"en": "incest",
+"uk": "інцест",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law",
+"ex": "Incest is a crime in most countries."
+},
+{
+"en": "stalking",
+"uk": "сталкінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "Stalking is a serious crime in many countries."
+},
+{
+"en": "kidnapping",
+"uk": "кіднепінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "The police are investigating a kidnapping downtown."
+},
+{
+"en": "coroner",
+"uk": "коронер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law",
+"ex": "The coroner will examine the body tomorrow."
+},
+{
+"en": "morgue",
+"uk": "морг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, places",
+"ex": "The body was taken to the city morgue."
+},
+{
+"en": "chloroform",
+"uk": "хлороформ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, medicine",
+"ex": "Doctors once used chloroform to put patients to sleep."
+},
+{
+"en": "cannibalism",
+"uk": "канібалізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Some animals practice cannibalism when there is little food."
+},
+{
+"en": "sociopath",
+"uk": "соціопат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, people",
+"ex": "The villain in the movie is a cold sociopath."
+}
+],
+"old_story": "Anna listens to a true-crime podcast on her way to class. This week, the host talks about a [[maniac]] from an old case. A doctor explains that he was a [[psychopath]], not just a [[sadist]]. He was also a cruel [[abuser]], and his family lived with years of [[abuse]]. Later, he began [[stalking]] young women in his town. The police finally stopped him after a failed [[kidnapping]] with [[chloroform]]. In the second part, an expert explains how to protect children from a [[pedophile]] online. She also explains why [[incest]] and other family crimes often stay hidden. Then a [[coroner]] describes her work in the city [[morgue]]. She laughs and says her hobby is [[cannibalism]] in spiders. Anna takes off her headphones and decides to listen to music tonight."
+},
+{
+"id": "c167",
+"part": "p18",
+"title": "Max builds a computer",
+"scene": "Max builds his own computer from new hardware. He reads the manual, puts every component and the processor into the right slot, adds memory as an upgrade, and tests the input, output and buffer; a friend shows him a high-tech prototype with old transistors, made by a famous innovator, that counts every byte.",
+"anchors": [
+"hardware",
+"manual",
+"component",
+"processor",
+"slot",
+"upgrade",
+"input",
+"output",
+"buffer",
+"prototype",
+"transistor",
+"byte"
+],
+"level": "B1",
+"words": [
+{
+"en": "manual",
+"uk": "мануал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Read the manual before using the machine."
+},
+{
+"en": "component",
+"uk": "компонент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "One component of my computer is broken."
+},
+{
+"en": "processor",
+"uk": "процесор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This laptop has a fast processor."
+},
+{
+"en": "slot",
+"uk": "слот",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Put the card into the slot."
+},
+{
+"en": "input",
+"uk": "інпут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The program needs user input to continue."
+},
+{
+"en": "output",
+"uk": "аутпут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Check the output of the program for errors."
+},
+{
+"en": "prototype",
+"uk": "прототип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The engineers built a prototype of the car."
+},
+{
+"en": "transistor",
+"uk": "транзистор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The transistor is a key part of every computer."
+},
+{
+"en": "byte",
+"uk": "байт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, units",
+"ex": "One byte is made up of eight bits."
+},
+{
+"en": "chip",
+"uk": "чип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This phone has a new, faster chip."
+}
+],
+"old_story": "Max decided to build his own [[desktop]] instead of buying one. He bought new [[hardware]] and spread it all over the kitchen table. First, he read the [[manual]] carefully, page by page. He checked every [[component]] and placed the [[processor]] very gently. He pushed extra memory into each [[slot]], a big [[upgrade]] for games. Then he tested the keyboard [[input]] and the screen [[output]] with a small program. A tiny [[buffer]] error appeared, but he fixed it in five minutes. That evening, his friend Ira brought an old [[prototype]] from her grandfather's garage. Its [[transistors|transistor]] were huge, and it could hold only one [[byte]] at a time. Max laughed: his new computer was a million times faster."
+},
+{
+"id": "c168",
+"part": "p18",
+"title": "Max learns coding",
+"scene": "A programmer at Max's company teaches him coding. Max writes a test case, a tester reads the log, and the team builds an open source bot that answers every prompt; a contributor adds a plug-in that uses a weather API, and the beta goes to testers next week.",
+"anchors": [
+"programmer",
+"coding",
+"test case",
+"tester",
+"log",
+"open source",
+"bot",
+"prompt",
+"contributor",
+"plug-in",
+"API",
+"beta"
+],
+"level": "B1",
+"words": [
+{
+"en": "programmer",
+"uk": "програмер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My brother works as a programmer."
+},
+{
+"en": "coding",
+"uk": "кодинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "She learned coding at a summer camp."
+},
+{
+"en": "test case",
+"uk": "тест-кейс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Please write a test case for the new login form."
+},
+{
+"en": "tester",
+"uk": "тестер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He works as a software tester."
+},
+{
+"en": "log",
+"uk": "лог",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Check the log to find the error."
+},
+{
+"en": "open source",
+"uk": "опенсорс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He works on open source in his free time."
+},
+{
+"en": "bot",
+"uk": "бот",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "A bot answered my question on the website."
+},
+{
+"en": "prompt",
+"uk": "промпт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Type a prompt and the AI writes a story."
+},
+{
+"en": "contributor",
+"uk": "контриб'ютор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He is a top contributor to this open source project."
+},
+{
+"en": "plug-in",
+"uk": "плагін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Install this plug-in to block ads in your browser."
+},
+{
+"en": "API",
+"uk": "АПІ",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "The app uses a free weather API."
+},
+{
+"en": "software engineer",
+"uk": "софтвер-інженер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, tech",
+"ex": "My brother works as a software engineer in Kyiv."
+},
+{
+"en": "add-on",
+"uk": "аддон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "You can buy the add-on for five dollars."
+},
+{
+"en": "mod",
+"uk": "мод",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "I downloaded a mod for my favorite game."
+}
+],
+"old_story": "At Max's company, a [[programmer]] named Lena offered to teach him [[coding]]. On his first day, Max wrote a simple [[test case]] for the login page. A [[tester]] ran it and then read the [[log]] with him. Next, the team started a small [[open source]] project: a friendly help [[bot]]. The bot answers any [[prompt]] about the city's buses. Soon a [[contributor]] from Lviv added a [[plug-in]] for the weather. It uses a free weather [[API]], so the bot knows when it rains. Max asked the bot, \"Do I need an umbrella?\" It said yes. Next week, the [[beta]] goes to real users, and Max is a little nervous."
+}
+]

@@ -1,0 +1,614 @@
+[
+{
+"id": "c041",
+"part": "p05",
+"title": "An email to the professor",
+"scene": "Anna writes her first email in English to a professor. She logs in to her account with her username, uses a template, puts her name in the header and the date with a slash, and attaches her homework in PDF format; then she checks her inbox all evening and finds his reply in spam, with a link to a reading list.",
+"anchors": [
+"email",
+"account",
+"username",
+"template",
+"header",
+"slash",
+"format",
+"inbox",
+"reply",
+"spam",
+"link"
+],
+"level": "A2",
+"words": [
+{
+"en": "email",
+"uk": "емейл",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I'll send you an email tonight."
+},
+{
+"en": "account",
+"uk": "акаунт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I forgot the password to my account."
+},
+{
+"en": "username",
+"uk": "юзернейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Enter your username and password, please."
+},
+{
+"en": "template",
+"uk": "темплейт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Use this template for your resume."
+},
+{
+"en": "header",
+"uk": "хедер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Add your name to the header of the page."
+},
+{
+"en": "slash",
+"uk": "слеш",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language, tech",
+"ex": "Type a slash between the two dates."
+},
+{
+"en": "format",
+"uk": "формат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "Send the file in PDF format."
+},
+{
+"en": "inbox",
+"uk": "інбокс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I have fifty new emails in my inbox."
+},
+{
+"en": "reply",
+"uk": "реплай",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "Thanks for your quick reply to my email."
+},
+{
+"en": "spam",
+"uk": "спам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My inbox is full of spam again today."
+},
+{
+"en": "link",
+"uk": "лінк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Can you send me the link, please?"
+},
+{
+"en": "user",
+"uk": "юзер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The app has many users."
+}
+],
+"old_story": "Anna had to write her first [[email]] in English to a professor. She logged in to her [[account]] with her [[username]]. Then she chose a simple [[template]]. She put her name in the [[header]]. She put a [[slash]] between the day and the month. Then she attached her homework in PDF [[format]]. All evening she checked her [[inbox]], but nothing came. Max said, \"Maybe his [[reply]] is in [[spam]].\" He was right! The professor thanked her and sent a [[link]] to a reading list."
+},
+{
+"id": "c042",
+"part": "p05",
+"title": "Train tickets online",
+"scene": "Anna buys train tickets with an online service. The website opens slowly in her browser and the layout is confusing; while browsing she closes pop-ups, clicks 'buy', enters the code from an SMS and takes a screenshot of the QR code, which the conductor scans on the train.",
+"anchors": [
+"online service",
+"website",
+"browser",
+"layout",
+"browsing",
+"pop-up",
+"click",
+"code",
+"SMS",
+"screenshot",
+"QR code",
+"scan"
+],
+"level": "A2",
+"words": [
+{
+"en": "online service",
+"uk": "онлайн-сервіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you use this online service?"
+},
+{
+"en": "website",
+"uk": "вебсайт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Please visit our website for more information."
+},
+{
+"en": "browser",
+"uk": "браузер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Open this link in your web browser, please."
+},
+{
+"en": "layout",
+"uk": "лейаут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media, tech",
+"ex": "I like the layout of the new website."
+},
+{
+"en": "browsing",
+"uk": "браузинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Private browsing does not save your history."
+},
+{
+"en": "pop-up",
+"uk": "поп-ап",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "A pop-up asked me to accept the cookies."
+},
+{
+"en": "click",
+"uk": "клік",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "With one click, you can order food to your door."
+},
+{
+"en": "code",
+"uk": "код",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Enter the code to open the door."
+},
+{
+"en": "screenshot",
+"uk": "скріншот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Take a screenshot of the error."
+},
+{
+"en": "QR code",
+"uk": "куар-код",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Scan the QR code to see the menu."
+},
+{
+"en": "scan",
+"uk": "скан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Send me a scan of your passport, please."
+},
+{
+"en": "site",
+"uk": "сайт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I buy shoes on this site."
+},
+{
+"en": "web",
+"uk": "веб",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I found this recipe on the web."
+},
+{
+"en": "web browser",
+"uk": "веббраузер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Open the link in your web browser, please."
+}
+],
+"old_story": "Anna wanted train tickets to Lviv, so she tried an [[online service]]. The [[website]] opened very slowly in her [[browser]]. The [[layout]] was confusing, and she could not find the tickets. While [[browsing]], she closed three [[pop-ups|pop-up]]. Finally, with one [[click]], she bought tickets for her and Max. Then she entered the [[code]] from an [[SMS]]. She took a [[screenshot]] of the [[QR code]] for the trip. On the train, the conductor checked her phone. Anna showed him a [[scan]] of her student card too. Everything was fine, and the trip began."
+},
+{
+"id": "c043",
+"part": "p05",
+"title": "Max's new flat goes online",
+"scene": "Max needs internet in his new flat: a technician from the provider brings a router and a modem, fixes a connector and the antenna and does the setup. Then Max builds a home office with a big monitor, a headset and a microphone for calls, a printer that needs a new cartridge, a scanner, a tripod for video calls, and an adapter and a converter for his old plugs.",
+"anchors": [
+"provider",
+"router",
+"modem",
+"connector",
+"antenna",
+"setup",
+"home office",
+"monitor",
+"headset",
+"microphone",
+"printer",
+"cartridge"
+],
+"level": "A2",
+"words": [
+{
+"en": "provider",
+"uk": "провайдер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We changed our internet provider last month."
+},
+{
+"en": "router",
+"uk": "роутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Try restarting the router if the internet is slow."
+},
+{
+"en": "modem",
+"uk": "модем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Restart the modem if the internet stops working."
+},
+{
+"en": "connector",
+"uk": "конектор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The cable has a USB connector at one end."
+},
+{
+"en": "antenna",
+"uk": "антена",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We need to put the antenna on the roof."
+},
+{
+"en": "setup",
+"uk": "сетап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My gaming setup cost a lot of money."
+},
+{
+"en": "home office",
+"uk": "хоум-офіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "I work from my home office three days a week."
+},
+{
+"en": "monitor",
+"uk": "монітор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use two monitors at work."
+},
+{
+"en": "headset",
+"uk": "хедсет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Put on your headset for the video call."
+},
+{
+"en": "microphone",
+"uk": "мікрофон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Speak into the microphone, please."
+},
+{
+"en": "printer",
+"uk": "принтер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The printer in our office is out of paper."
+},
+{
+"en": "cartridge",
+"uk": "картридж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, tech",
+"ex": "The printer needs a new ink cartridge."
+},
+{
+"en": "scanner",
+"uk": "сканер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I used the scanner to copy my passport."
+},
+{
+"en": "display",
+"uk": "дисплей",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The phone has a bright, clear display."
+}
+],
+"old_story": "Max's new flat had no internet. On Monday, a technician from his [[provider]] came. He brought a [[router]] and a [[modem]]. He fixed a bad [[connector]] and moved the [[antenna]] on the roof. Then Max made a small [[home office]] in his bedroom. His new [[setup]] had a big [[monitor]] and a [[headset]]. It also had a good [[microphone]] for video calls. He bought an old [[printer]], but it needed a new [[cartridge]]. Anna brought him her old [[scanner]] as a housewarming gift. \"Now I can work from home!\" Max said happily."
+},
+{
+"id": "c044",
+"part": "p06",
+"title": "Anna's family tree",
+"scene": "Anna draws her family tree for Max: her mama, her siblings, a new baby cousin and the whole clan. Grandpa was an admiral and is now a pensioner who still uses an old telephone; Mama, a millennial, says Grandpa is a boomer and a true optimist - and Anna has his genes.",
+"anchors": [
+"mama",
+"sibling",
+"baby",
+"cousin",
+"clan",
+"admiral",
+"pensioner",
+"telephone",
+"millennial",
+"boomer",
+"optimist",
+"gene"
+],
+"level": "A1",
+"words": [
+{
+"en": "mama",
+"uk": "мама",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Mama, can I have some milk?"
+},
+{
+"en": "sibling",
+"uk": "сиблінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "How many siblings do you have?"
+},
+{
+"en": "baby",
+"uk": "бебі",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "The baby is hungry."
+},
+{
+"en": "cousin",
+"uk": "кузен",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "My cousin lives in Kyiv."
+},
+{
+"en": "clan",
+"uk": "клан",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Our whole clan meets at my grandmother's every summer."
+},
+{
+"en": "pensioner",
+"uk": "пенсіонер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The pensioner lives alone in a small apartment."
+},
+{
+"en": "optimist",
+"uk": "оптиміст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My dad is a true optimist about everything."
+},
+{
+"en": "placenta",
+"uk": "плацента",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The placenta gives the baby food and oxygen."
+},
+{
+"en": "realist",
+"uk": "реаліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "She is a realist and plans for problems."
+},
+{
+"en": "trimester",
+"uk": "триместр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, medicine",
+"ex": "She is in her second trimester of pregnancy."
+},
+{
+"en": "bro",
+"uk": "бро",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Thanks a lot, bro!"
+},
+{
+"en": "sis",
+"uk": "сіс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Hey sis, can you help me with my homework?"
+}
+],
+"old_story": "Anna draws her family tree for Max. Her parents and two [[siblings|sibling]] are on it. Aunt Olha is in her last [[trimester]]. The [[placenta]] and the [[baby]] are healthy. Soon Anna has a new [[cousin]]! \"Your [[clan]] is very big!\" Max says. Grandpa is an old [[admiral]], now a [[pensioner]]. He still has an old [[telephone]] at home. [[Mama|mama]] is a [[millennial]], and Grandpa is a [[boomer]]. Grandpa is an [[optimist]], but Grandma is a [[realist]]. \"You have his [[genes|gene]],\" Max laughs."
+},
+{
+"id": "c045",
+"part": "p06",
+"title": "A surprise party for Mama",
+"scene": "Anna and Taras plan a surprise party for Mama's birthday. They send an invite to the family, order a bouquet from a florist, throw confetti, sing karaoke and give Mama a scrapbook of old photos; Mama's friend brings coffee liqueur and pays everyone a compliment.",
+"anchors": [
+"surprise",
+"invite",
+"bouquet",
+"florist",
+"confetti",
+"karaoke",
+"scrapbook",
+"liqueur",
+"compliment"
+],
+"level": "A2",
+"words": [
+{
+"en": "surprise",
+"uk": "сюрприз",
+"band": "top-2000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "We are planning a surprise party for Mom."
+},
+{
+"en": "invite",
+"uk": "інвайт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Thanks for the invite to your party!"
+},
+{
+"en": "bouquet",
+"uk": "букет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "He gave her a bouquet of roses."
+},
+{
+"en": "florist",
+"uk": "флорист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "I ordered flowers from the florist for her birthday."
+},
+{
+"en": "confetti",
+"uk": "конфеті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "They threw confetti at the wedding."
+},
+{
+"en": "karaoke",
+"uk": "караоке",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "We sang karaoke with friends until midnight."
+},
+{
+"en": "scrapbook",
+"uk": "скрапбук",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "She keeps a scrapbook of family photos."
+},
+{
+"en": "liqueur",
+"uk": "лікер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "She added a little coffee liqueur to the cake."
+},
+{
+"en": "compliment",
+"uk": "комплімент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "She paid me a nice compliment today."
+},
+{
+"en": "photo album",
+"uk": "фотоальбом",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We looked at old photos in the photo album."
+}
+],
+"old_story": "Anna and her brother Taras planned a [[surprise]] party for Mama's birthday. They sent an [[invite]] to the whole family. Taras ordered a big [[bouquet]] from a [[florist]] near their home. When Mama came home, everyone shouted and threw [[confetti]]. Anna gave her a [[scrapbook]] of old family photos. Mama cried happy tears. Her friend Lida brought a cake with coffee [[liqueur]]. Then they all sang [[karaoke]] until late. Then Mama paid her kids a sweet [[compliment]]: \"You are the best!\""
+}
+]

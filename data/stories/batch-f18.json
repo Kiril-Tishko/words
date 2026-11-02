@@ -1,0 +1,588 @@
+[
+{
+"id": "c144",
+"part": "p15",
+"title": "A tech expo",
+"scene": "Anna helps at a tech expo. The keynote speaker is a famous businesswoman and a product manager; sponsors hang banners, a promoter hands out flyers about a bestseller, the PR team sends a press release, and a speaker explains email marketing and a good landing page.",
+"anchors": [
+"expo",
+"keynote",
+"businesswoman",
+"product manager",
+"sponsor",
+"banner",
+"promoter",
+"flyer",
+"bestseller",
+"PR",
+"press release",
+"email marketing"
+],
+"level": "B1",
+"words": [
+{
+"en": "expo",
+"uk": "експо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "We visited a tech expo in Las Vegas."
+},
+{
+"en": "keynote",
+"uk": "кейноут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The CEO gave the keynote at the conference."
+},
+{
+"en": "product manager",
+"uk": "продакт-менеджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The product manager decides which features to build."
+},
+{
+"en": "sponsor",
+"uk": "спонсор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The bank is the main sponsor of the race."
+},
+{
+"en": "banner",
+"uk": "банер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "A big banner hung above the school entrance."
+},
+{
+"en": "promoter",
+"uk": "промоутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The concert promoter sold all the tickets."
+},
+{
+"en": "flyer",
+"uk": "флаєр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "They handed out flyers on the street."
+},
+{
+"en": "bestseller",
+"uk": "бестселер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "Her first novel became a bestseller."
+},
+{
+"en": "press release",
+"uk": "прес-реліз",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company sent out a press release about the new phone."
+},
+{
+"en": "high-tech",
+"uk": "хай-тек",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My sister has worked in high-tech for ten years."
+},
+{
+"en": "high tech",
+"uk": "хайтек",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "She wants to find a job in high tech."
+},
+{
+"en": "poster",
+"uk": "постер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "I have a movie poster on my bedroom wall."
+},
+{
+"en": "billboard",
+"uk": "білборд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "There is a big billboard on the highway."
+}
+],
+"old_story": "Last weekend, Anna helped her friend at a big tech [[expo]] in Kyiv. The [[keynote]] was given by a famous [[businesswoman]] who started as a [[product manager]]. Every [[sponsor]] hung a bright [[banner]] above its stand. At the door, a young [[promoter]] handed Anna a [[flyer]] about a new book. The book, about smart robots, was already a [[bestseller]]. The [[PR]] team sent a [[press release]] to all the news sites at noon. Anna went to a short talk about [[email marketing]] for small shops. The speaker said she had worked in [[high-tech]] for twenty years. The most popular stand had an [[android]] that looked almost human. It smiled, shook Anna's hand and said, \"Welcome to the future!\" That evening, Anna told Max she wanted a job in [[high tech]] one day."
+},
+{
+"id": "c146",
+"part": "p15",
+"title": "Uncle Oleh, the trader",
+"scene": "Anna's uncle is a trader at a big bank. He explains trading and a broker's work at a brokerage, the stock market index and dividends, buys bitcoin, follows the smart money, and talks about futures, derivatives, hedge funds and asset management.",
+"anchors": [
+"trader",
+"trading",
+"broker",
+"brokerage",
+"index",
+"dividend",
+"bitcoin",
+"smart money",
+"futures",
+"derivative",
+"hedge fund",
+"asset management"
+],
+"level": "B1",
+"words": [
+{
+"en": "trader",
+"uk": "трейдер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, people",
+"ex": "He works as a trader on Wall Street."
+},
+{
+"en": "trading",
+"uk": "трейдинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "He works in stock trading at a big bank."
+},
+{
+"en": "broker",
+"uk": "брокер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "My broker bought shares for me."
+},
+{
+"en": "brokerage",
+"uk": "брокеридж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He opened an account at an online brokerage."
+},
+{
+"en": "index",
+"uk": "індекс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The stock market index went up again today."
+},
+{
+"en": "dividend",
+"uk": "дивіденд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The company pays a dividend every quarter."
+},
+{
+"en": "bitcoin",
+"uk": "біткоїн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, tech",
+"ex": "He bought some bitcoin five years ago."
+},
+{
+"en": "smart money",
+"uk": "смарт-мані",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "Many traders try to follow the smart money in the market."
+},
+{
+"en": "futures",
+"uk": "ф'ючерс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He trades oil futures on the market."
+},
+{
+"en": "derivative",
+"uk": "дериватив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He trades derivatives at a big bank in London."
+},
+{
+"en": "hedge fund",
+"uk": "хедж-фонд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He works as a manager at a hedge fund."
+},
+{
+"en": "asset management",
+"uk": "асет-менеджмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "My sister works in asset management at a big bank."
+},
+{
+"en": "broker-dealer",
+"uk": "брокер-дилер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "A broker-dealer buys and sells stocks for its clients."
+}
+],
+"old_story": "Anna's uncle Oleh works as a [[trader]] at a big bank in Kyiv. At Sunday lunch, Anna asked him what [[trading]] really is. \"I buy and sell shares for people, a bit like a [[broker]],\" he said. \"You can open your own account at a [[brokerage]] with very little money.\" He showed her the stock market [[index]] on his phone. \"This company pays me a [[dividend]] every quarter,\" he smiled. Then he admitted that he also bought some [[bitcoin]] last year. \"Most people just try to follow the [[smart money]],\" he added. He also explained oil [[futures]] and a strange [[derivative]] that nobody at the table understood. His old friend now runs a [[hedge fund]] in London. Anna laughed and said she would study [[asset management]], starting with her pocket money."
+},
+{
+"id": "c148",
+"part": "p15",
+"title": "The economy on TV",
+"scene": "An economist on TV talks about a boom and a collapse, the budget deficit, debts of a trillion dollars, the fall of the ruble and a country close to default; an insider talks about a drug cartel's money, risk management at banks, a broker-dealer and tax-free shopping at the airport.",
+"anchors": [
+"economist",
+"boom",
+"collapse",
+"deficit",
+"trillion",
+"ruble",
+"default",
+"insider",
+"cartel",
+"risk management",
+"broker-dealer",
+"tax-free"
+],
+"level": "B1",
+"words": [
+{
+"en": "economist",
+"uk": "економіст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The economist predicts a slow year."
+},
+{
+"en": "boom",
+"uk": "бум",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "There is a boom in online shopping right now."
+},
+{
+"en": "collapse",
+"uk": "колапс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The economy is close to collapse after the war."
+},
+{
+"en": "deficit",
+"uk": "дефіцит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The country has a large budget deficit."
+},
+{
+"en": "trillion",
+"uk": "трильйон",
+"band": "top-10k",
+"pos": "num",
+"topics": "math",
+"ex": "The country's debt is over a trillion dollars."
+},
+{
+"en": "default",
+"uk": "дефолт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The country is close to default on its debt."
+},
+{
+"en": "insider",
+"uk": "інсайдер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "An insider told reporters about the secret plan."
+},
+{
+"en": "risk management",
+"uk": "ризик-менеджмент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works in risk management at an insurance company."
+},
+{
+"en": "tax-free",
+"uk": "такс-фрі",
+"band": "top-20k",
+"pos": "adj",
+"topics": "business",
+"ex": "You can buy tax-free goods at the airport."
+},
+{
+"en": "million",
+"uk": "мільйон",
+"band": "top-1000",
+"pos": "num",
+"topics": "math",
+"ex": "Kyiv has about three million people."
+}
+],
+"old_story": "Anna and Max were watching the evening news at Max's flat. An [[economist]] in a blue jacket talked about a [[boom]] in online shopping. \"But some small shops are close to [[collapse]],\" she warned. Then she explained what a budget [[deficit]] is, using a simple chart. \"Some countries owe more than a [[trillion]] dollars,\" she said. Max's grandpa laughed and took an old [[ruble]] coin out of his pocket. \"When a country cannot pay its debts, we call it [[default]],\" the economist continued. Next, a bank [[insider]] told reporters how a drug [[cartel]] tried to hide its money. Thanks to good [[risk management]], the bank stopped them in time. After that, a [[broker-dealer]] gave tips about buying and selling stocks. Anna yawned and changed the channel to an ad for [[tax-free]] shopping at the airport. \"That's the only economy I understand,\" Max joked."
+},
+{
+"id": "c149",
+"part": "p15",
+"title": "A party for the rich",
+"scene": "Max's rich cousin takes him to a cocktail party with a burlesque show. He meets a self-made millionaire, an oil magnate with a huge conglomerate and business interests everywhere, people from show business who talk about the box office and eat caviar, and a man who gives an endowment to a university.",
+"anchors": [
+"cocktail party",
+"burlesque",
+"self-made",
+"millionaire",
+"magnate",
+"conglomerate",
+"business interest",
+"show business",
+"box office",
+"caviar",
+"endowment"
+],
+"level": "B1",
+"words": [
+{
+"en": "cocktail party",
+"uk": "коктейль-паті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We are invited to a cocktail party on Friday."
+},
+{
+"en": "burlesque",
+"uk": "бурлеск",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We saw a burlesque show in a small club."
+},
+{
+"en": "self-made",
+"uk": "селф-мейд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "people",
+"ex": "My uncle is a self-made businessman from a small town."
+},
+{
+"en": "millionaire",
+"uk": "мільйонер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, people",
+"ex": "He became a millionaire before he turned thirty."
+},
+{
+"en": "magnate",
+"uk": "магнат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The oil magnate bought a new yacht."
+},
+{
+"en": "conglomerate",
+"uk": "конгломерат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company is part of a large conglomerate."
+},
+{
+"en": "business interest",
+"uk": "бізнес-інтерес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "He has business interests in three countries."
+},
+{
+"en": "box office",
+"uk": "бокс-офіс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "The movie was a big hit at the box office."
+},
+{
+"en": "caviar",
+"uk": "кав'яр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We tried black caviar at the party."
+},
+{
+"en": "endowment",
+"uk": "ендавмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The university has a large endowment."
+},
+{
+"en": "banquet",
+"uk": "бенкет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "The hotel hosted a big wedding banquet."
+},
+{
+"en": "gala",
+"uk": "гала",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "She wore a long dress to the gala."
+}
+],
+"old_story": "Max's rich cousin Denys invited him to a [[cocktail party]] in a fancy hotel. The evening started with a funny old-style [[burlesque]] show with songs and jokes. Denys introduced Max to a [[self-made]] businessman from a small village. The man became a [[millionaire]] before he turned thirty. Next to him stood an oil [[magnate]] who owned a huge [[conglomerate]]. \"I have [[business interests|business interest]] in five countries,\" he told Max proudly. A group of actors from [[show business]] were discussing their new movie. \"It did great at the [[box office]],\" one actress said, eating [[caviar]] on tiny crackers. Later, a quiet old man gave a big [[endowment]] to the university where Max studies. Max decided that was the most impressive thing he saw all night."
+},
+{
+"id": "f01",
+"part": "p15",
+"title": "Grandpa's coin collection",
+"scene": "Grandpa shows Anna and Taras his old box of coins and notes from many countries.",
+"anchors": [],
+"level": "A2",
+"words": [
+{
+"en": "euro",
+"uk": "євро",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "The museum ticket costs fifty euros."
+},
+{
+"en": "sterling",
+"uk": "стерлінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "In the UK, you pay for things in sterling."
+},
+{
+"en": "franc",
+"uk": "франк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The Swiss franc is a very stable currency."
+},
+{
+"en": "krone",
+"uk": "крона",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The krone is the money in Denmark and Norway."
+},
+{
+"en": "yuan",
+"uk": "юань",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The bag cost fifty yuan in Beijing."
+},
+{
+"en": "baht",
+"uk": "бат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "This shirt costs two hundred baht."
+},
+{
+"en": "lira",
+"uk": "ліра",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "This coffee costs fifty lira in Istanbul."
+},
+{
+"en": "dinar",
+"uk": "динар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The taxi to the hotel cost five dinars."
+},
+{
+"en": "shilling",
+"uk": "шилінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The bus ride costs fifty shillings."
+},
+{
+"en": "rand",
+"uk": "ранд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The rand is the currency of South Africa."
+},
+{
+"en": "peso",
+"uk": "песо",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The taxi ride cost two hundred pesos."
+},
+{
+"en": "ruble",
+"uk": "рубль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "One ruble is worth very little today."
+}
+],
+"old_story": ""
+}
+]

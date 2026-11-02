@@ -1,0 +1,501 @@
+[
+{
+"id": "c066",
+"part": "p08",
+"title": "Professor Brown's class",
+"scene": "Anna's first class this semester is with Professor Brown, who has an old-school way of teaching. He gives the class the syllabus, writes on the board with a marker, says patience is an important attribute of a student, and shows them the campus and the institute.",
+"anchors": [
+"class",
+"semester",
+"professor",
+"old-school",
+"syllabus",
+"marker",
+"attribute",
+"campus",
+"institute"
+],
+"level": "A1",
+"words": [
+{
+"en": "class",
+"uk": "клас",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "My class is small."
+},
+{
+"en": "semester",
+"uk": "семестр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education",
+"ex": "This semester I am taking five classes."
+},
+{
+"en": "professor",
+"uk": "професор",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "Our history professor is very funny."
+},
+{
+"en": "old-school",
+"uk": "олдскул",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "He has an old-school way of teaching math."
+},
+{
+"en": "syllabus",
+"uk": "силабус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "The professor handed out the syllabus on day one."
+},
+{
+"en": "marker",
+"uk": "маркер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "Can I borrow your black marker for a minute?"
+},
+{
+"en": "attribute",
+"uk": "атрибут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Patience is an important attribute for a teacher."
+},
+{
+"en": "campus",
+"uk": "кампус",
+"band": "top-5000",
+"pos": "noun",
+"topics": "education, places",
+"ex": "I live on campus this year."
+},
+{
+"en": "institute",
+"uk": "інститут",
+"band": "top-3000",
+"pos": "noun",
+"topics": "education",
+"ex": "I study at a technical institute."
+},
+{
+"en": "college",
+"uk": "коледж",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "I study at a college in Kyiv."
+},
+{
+"en": "curriculum",
+"uk": "курикулум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education",
+"ex": "Our school has a new science curriculum this year."
+}
+],
+"old_story": "It is Anna's first [[class]] this [[semester]]. Her teacher is [[Professor|professor]] Brown. He has an [[old-school]] way of teaching. He gives everyone a paper [[syllabus]]. He writes on the board with a [[marker]]. \"Patience is an important [[attribute]],\" he says. Then he shows them the [[campus]]. They walk to the old [[institute]] building. Anna likes him a lot. She wants to be patient too."
+},
+{
+"id": "c068",
+"part": "p08",
+"title": "Small talk with exchange students",
+"scene": "Anna meets exchange students from India, Ireland and Texas; one speaks Hindi. Small talk is hard at first - there is a language barrier, their accents, slang and dialects are different - and she learns about sarcasm, clichés, acronyms, euphemisms and nuance.",
+"anchors": [
+"Hindi",
+"small talk",
+"barrier",
+"accent",
+"slang",
+"dialect",
+"sarcasm",
+"cliché",
+"acronym",
+"euphemism",
+"nuance"
+],
+"level": "A2",
+"words": [
+{
+"en": "Hindi",
+"uk": "хінді",
+"band": "top-10k",
+"pos": "noun",
+"topics": "language",
+"ex": "Many people in India speak Hindi."
+},
+{
+"en": "small talk",
+"uk": "смолток",
+"band": "top-10k",
+"pos": "noun",
+"topics": "language",
+"ex": "I'm not very good at small talk."
+},
+{
+"en": "barrier",
+"uk": "бар'єр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The language barrier was hard for me at first."
+},
+{
+"en": "accent",
+"uk": "акцент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "language",
+"ex": "She speaks English with a strong French accent."
+},
+{
+"en": "slang",
+"uk": "сленг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "\"Cool\" is common slang for \"good\"."
+},
+{
+"en": "dialect",
+"uk": "діалект",
+"band": "top-10k",
+"pos": "noun",
+"topics": "language",
+"ex": "My grandparents speak a local dialect."
+},
+{
+"en": "sarcasm",
+"uk": "сарказм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "language",
+"ex": "I could hear the sarcasm in her voice."
+},
+{
+"en": "cliché",
+"uk": "кліше",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Saying \"love is blind\" is a bit of a cliché."
+},
+{
+"en": "acronym",
+"uk": "акронім",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "What does this acronym in the email stand for?"
+},
+{
+"en": "euphemism",
+"uk": "евфемізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "\"Passed away\" is a euphemism for \"died.\""
+},
+{
+"en": "nuance",
+"uk": "нюанс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "The English translation lost some of the nuance."
+},
+{
+"en": "stereotype",
+"uk": "стереотип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "That joke is based on an old stereotype."
+}
+],
+"old_story": "Anna meets three exchange students from India, Ireland and Texas. Priya from India also speaks [[Hindi]]. At first, [[small talk]] is hard for Anna. There is a language [[barrier]], and everyone has a different [[accent]]. Liam from Ireland uses a lot of [[slang]]. Jake from Texas speaks a southern [[dialect]]. When Jake says \"Great weather!\" in the rain, it is [[sarcasm]]. Liam laughs and says \"Time flies,\" a famous [[cliché]]. Priya writes \"LOL\" in the chat, and Anna learns a new [[acronym]]. Liam's cousin is \"between jobs,\" a polite [[euphemism]] for no work. Anna understands that every word can carry a [[nuance]]. By the end of the evening, they are good friends."
+},
+{
+"id": "c069",
+"part": "p08",
+"title": "Taras's maths homework",
+"scene": "Taras has algebra homework from Mrs. Koval, and Anna shows him an easy method: with a calculator and a formula with pi they find the radius of a circle and the perimeter of a square, and draw a cube, a cylinder and an oval.",
+"anchors": [
+"algebra",
+"Mrs.",
+"method",
+"calculator",
+"formula",
+"pi",
+"radius",
+"perimeter",
+"cube",
+"cylinder",
+"oval"
+],
+"level": "A2",
+"words": [
+{
+"en": "algebra",
+"uk": "алгебра",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "Algebra was my favorite subject in school."
+},
+{
+"en": "method",
+"uk": "метод",
+"band": "top-2000",
+"pos": "noun",
+"topics": "science",
+"ex": "This method is easy."
+},
+{
+"en": "calculator",
+"uk": "калькулятор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math, tech",
+"ex": "Can I use a calculator on the test?"
+},
+{
+"en": "formula",
+"uk": "формула",
+"band": "top-5000",
+"pos": "noun",
+"topics": "chemistry, math",
+"ex": "Learn this formula for the test."
+},
+{
+"en": "radius",
+"uk": "радіус",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The circle has a radius of five centimeters."
+},
+{
+"en": "perimeter",
+"uk": "периметр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "Find the perimeter of the rectangle."
+},
+{
+"en": "cube",
+"uk": "куб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "The ice cube melted in my drink."
+},
+{
+"en": "cylinder",
+"uk": "циліндр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Find the volume of the cylinder in this problem."
+},
+{
+"en": "oval",
+"uk": "овал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Draw an oval on the paper."
+},
+{
+"en": "spiral",
+"uk": "спіраль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Draw a spiral on the paper."
+}
+],
+"old_story": "Anna's little brother Taras has [[algebra]] homework from [[Mrs.]] Koval. He is sad because it looks very hard. Anna shows him an easy [[method]]. First, they take a [[calculator]] from the drawer. They use a [[formula]] with [[pi]]. With it, they find the [[radius]] of a circle. Next, they find the [[perimeter]] of a square. After that, Taras draws a [[cube]], a [[cylinder]] and an [[oval]]. \"Math is fun with you!\" he says. The next day, he gets a top grade."
+},
+{
+"id": "c070",
+"part": "p08",
+"title": "Anna studies online",
+"scene": "Anna takes an online course in marketing and keeps a thirty-day streak in her learning app. She watches a video tutorial for each module of the e-learning program, books one-to-one lessons on the student portal, gets a certificate and wants to apply for a grant.",
+"anchors": [
+"online course",
+"streak",
+"tutorial",
+"module",
+"e-learning",
+"one-to-one",
+"portal",
+"certificate",
+"grant"
+],
+"level": "A2",
+"words": [
+{
+"en": "online course",
+"uk": "онлайн-курс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "I take an online course in English."
+},
+{
+"en": "streak",
+"uk": "стрік",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "I have a thirty-day streak in my language app."
+},
+{
+"en": "tutorial",
+"uk": "туторіал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "I watched a video tutorial on cooking."
+},
+{
+"en": "module",
+"uk": "модуль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Each online course has six short modules."
+},
+{
+"en": "e-learning",
+"uk": "е-лернінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education, tech",
+"ex": "Our company uses e-learning for safety training."
+},
+{
+"en": "portal",
+"uk": "портал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Log in to the student portal to check your grades."
+},
+{
+"en": "certificate",
+"uk": "сертифікат",
+"band": "top-5000",
+"pos": "noun",
+"topics": "education",
+"ex": "I got a certificate after the English course."
+},
+{
+"en": "grant",
+"uk": "грант",
+"band": "top-5000",
+"pos": "noun",
+"topics": "education, finance",
+"ex": "I want to apply for a grant to study abroad."
+},
+{
+"en": "course",
+"uk": "курс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "education",
+"ex": "I'm taking an English course online."
+}
+],
+"old_story": "Anna is taking an [[online course]] in marketing. Her learning app shows a thirty-day [[streak]], and she is proud. Every evening she watches a video [[tutorial]]. Each [[module]] of the [[e-learning]] program has a short quiz. For hard topics, she books [[one-to-one]] lessons on the student [[portal]]. After six weeks, she gets a [[certificate]]! Her teacher says, \"You should apply for a [[grant]].\" Anna fills in the form that same night."
+},
+{
+"id": "f02",
+"part": "p08",
+"title": "Measuring everything at home",
+"scene": "Taras measures and weighs everything at home for a school project while Anna helps.",
+"anchors": [],
+"level": "A2",
+"words": [
+{
+"en": "kilo",
+"uk": "кіло",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "I bought a kilo of apples at the market."
+},
+{
+"en": "kilogram",
+"uk": "кілограм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The bag of rice weighs five kilograms."
+},
+{
+"en": "gram",
+"uk": "грам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Add two hundred grams of sugar."
+},
+{
+"en": "milligram",
+"uk": "міліграм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "Take one tablet of 500 milligrams twice a day."
+},
+{
+"en": "liter",
+"uk": "літр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "We need two liters of milk."
+},
+{
+"en": "meter",
+"uk": "метр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "My room is about four meters long."
+},
+{
+"en": "kilometer",
+"uk": "кілометр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "The station is two kilometers away."
+},
+{
+"en": "millimeter",
+"uk": "міліметр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The screw is five millimeters wide."
+}
+],
+"old_story": ""
+}
+]

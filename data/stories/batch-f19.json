@@ -1,0 +1,778 @@
+[
+{
+"id": "c153",
+"part": "p16",
+"title": "New neighbors",
+"scene": "A family of immigrants moves into Anna's building. They talk about their green card, the consulate and the consul, about racism and a racist neighbor, about the poor ghetto where they lived and their hope to join the middle class; Grandpa, born in the baby boom, is a baby boomer and a nationalist, and they argue about nationalism.",
+"anchors": [
+"immigrant",
+"green card",
+"consulate",
+"consul",
+"racism",
+"racist",
+"ghetto",
+"middle class",
+"baby boom",
+"baby boomer",
+"nationalist",
+"nationalism"
+],
+"level": "B1",
+"words": [
+{
+"en": "immigrant",
+"uk": "іммігрант",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I came to Poland as an immigrant in 2022."
+},
+{
+"en": "green card",
+"uk": "грін-кард",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, travel",
+"ex": "She finally got her green card after five years."
+},
+{
+"en": "consulate",
+"uk": "консулат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "She went to the consulate to get a visa."
+},
+{
+"en": "consul",
+"uk": "консул",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The consul helped the lost tourists."
+},
+{
+"en": "racism",
+"uk": "расизм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Racism is still a problem in many countries."
+},
+{
+"en": "racist",
+"uk": "расист",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He was fired for being a racist."
+},
+{
+"en": "ghetto",
+"uk": "гетто",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "He grew up in a poor ghetto."
+},
+{
+"en": "middle class",
+"uk": "мідл-клас",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "I grew up in a family from the middle class."
+},
+{
+"en": "baby boom",
+"uk": "бейбі-бум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "There was a baby boom after the war."
+},
+{
+"en": "baby boomer",
+"uk": "бебі-бумер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My father is a baby boomer, born in 1955."
+},
+{
+"en": "nationalist",
+"uk": "націоналіст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He is known as a strong nationalist."
+},
+{
+"en": "nationalism",
+"uk": "націоналізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Nationalism grew stronger after the war."
+},
+{
+"en": "migrant",
+"uk": "мігрант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Many migrants crossed the border last year."
+},
+{
+"en": "boomer",
+"uk": "бумер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My grandpa is a boomer, born in 1955."
+},
+{
+"en": "millennial",
+"uk": "міленіал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Many millennials work from home now."
+}
+],
+"old_story": "A family of [[immigrants|immigrant]] moved into Anna's building last week. Their son lives in America and just got his [[green card]]. Last month, their daughter Lina visited the [[consulate]], where the [[consul]] helped her. Lina told Anna about [[racism]] at her old school and a [[racist]] neighbor there. Before Kyiv, the family lived in a poor [[ghetto]] in a big, noisy city. Now her parents work hard and hope to join the [[middle class]] here. Anna's grandpa was born in the [[baby boom]], so he is a real [[baby boomer]]. He calls himself a [[nationalist]], so Lina asked him what that means. They had a long but friendly argument about [[nationalism]]. In the end, Grandpa smiled and said, \"Every [[migrant]] is welcome at my table.\""
+},
+{
+"id": "c155",
+"part": "p16",
+"title": "A day in parliament",
+"scene": "Anna's class visits parliament, and the secretariat gives them the agenda. A minister and the premier speak, the teacher explains that other countries have a senate with senators, a British Tory guest watches, a lobbyist from a big lobby waits in the hall, and the members try to reach a compromise and a consensus to keep the status quo and avoid a shutdown.",
+"anchors": [
+"parliament",
+"agenda",
+"minister",
+"premier",
+"senate",
+"senator",
+"lobbyist",
+"lobby",
+"compromise",
+"consensus",
+"status quo",
+"shutdown"
+],
+"level": "B1",
+"words": [
+{
+"en": "parliament",
+"uk": "парламент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "The parliament will vote on the new law next week."
+},
+{
+"en": "agenda",
+"uk": "агенда",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The new party has a clear political agenda."
+},
+{
+"en": "minister",
+"uk": "міністр",
+"band": "top-2000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who is the new health minister?"
+},
+{
+"en": "premier",
+"uk": "прем'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The premier met with the president today."
+},
+{
+"en": "senate",
+"uk": "сенат",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Does your country have a senate?"
+},
+{
+"en": "senator",
+"uk": "сенатор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I saw a senator on TV last night."
+},
+{
+"en": "lobbyist",
+"uk": "лобіст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The lobbyist met with senators all week."
+},
+{
+"en": "lobby",
+"uk": "лобі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The oil lobby is very powerful in the capital."
+},
+{
+"en": "compromise",
+"uk": "компроміс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "We reached a compromise after a long talk."
+},
+{
+"en": "consensus",
+"uk": "консенсус",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The team finally reached a consensus on the plan."
+},
+{
+"en": "status quo",
+"uk": "статус-кво",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Many people just want to keep the status quo."
+},
+{
+"en": "shutdown",
+"uk": "шатдаун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The government shutdown lasted two weeks."
+},
+{
+"en": "briefing",
+"uk": "брифінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The minister held a press briefing this morning."
+},
+{
+"en": "de facto",
+"uk": "де-факто",
+"band": "top-10k",
+"pos": "adv",
+"topics": "law",
+"ex": "English is the de facto language of business."
+},
+{
+"en": "impeachment",
+"uk": "імпічмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, politics",
+"ex": "The impeachment trial lasted three weeks."
+},
+{
+"en": "congress",
+"uk": "конгрес",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I am going to a medical congress in May."
+},
+{
+"en": "congressman",
+"uk": "конгресмен",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The congressman met with voters in our town."
+},
+{
+"en": "congresswoman",
+"uk": "конгрес-вумен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The congresswoman visited our school last week."
+}
+],
+"old_story": "On Thursday, Anna's class went on a school trip to [[parliament]]. A friendly guide explained that every party has its own political [[agenda]]. First, they watched a short press [[briefing]] in a bright hall. A young [[minister]] spoke about new schools, and then the [[premier]] talked about the budget. Mr. Koval explained that some countries have a [[senate]], where each [[senator]] votes on laws. In the hall, a [[lobbyist]] from the energy [[lobby]] waited with a thick folder. The members argued for hours but finally reached a [[compromise]]. The guide said full [[consensus]] is rare, because many people just want the [[status quo]]. Now they had a budget, so there would be no [[shutdown]] this year. Anna asked about [[impeachment]], and Mr. Koval explained it with a funny example. On the bus home, Max asked so many questions that he became the [[de facto]] guide."
+},
+{
+"id": "c157",
+"part": "p16",
+"title": "Students protest",
+"scene": "Students protest against a new law. A young activist talks about activism, ideals, idealism and a utopia, a trade union joins the boycott, an anarchist shouts, a cynic calls the politicians hypocrites and their words nonsense, and a patriot talks about patriotism and liberalism.",
+"anchors": [
+"protest",
+"activist",
+"activism",
+"ideal",
+"idealism",
+"utopia",
+"trade union",
+"boycott",
+"anarchist",
+"cynic",
+"hypocrite",
+"nonsense"
+],
+"level": "B1",
+"words": [
+{
+"en": "protest",
+"uk": "протест",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I went to a protest in the city center."
+},
+{
+"en": "activist",
+"uk": "активіст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The activists marched to city hall."
+},
+{
+"en": "activism",
+"uk": "активізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Her activism helped change the law."
+},
+{
+"en": "ideal",
+"uk": "ідеал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "He is young and has very high ideals."
+},
+{
+"en": "idealism",
+"uk": "ідеалізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Young people are often full of idealism."
+},
+{
+"en": "utopia",
+"uk": "утопія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The writer described a perfect utopia."
+},
+{
+"en": "trade union",
+"uk": "тред-юніон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "He joined a trade union at the factory."
+},
+{
+"en": "boycott",
+"uk": "бойкот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Students called for a boycott of the store."
+},
+{
+"en": "anarchist",
+"uk": "анархіст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "An anarchist believes we do not need any government."
+},
+{
+"en": "cynic",
+"uk": "цинік",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is a cynic and doesn't trust anyone."
+},
+{
+"en": "hypocrite",
+"uk": "гіпокрит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "He tells us to save money, but he's a hypocrite."
+},
+{
+"en": "nonsense",
+"uk": "нонсенс",
+"band": "top-3000",
+"pos": "noun",
+"topics": "language",
+"ex": "That's complete nonsense!"
+},
+{
+"en": "strike",
+"uk": "страйк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, politics",
+"ex": "Is there a train strike tomorrow?"
+}
+],
+"old_story": "On Saturday, Anna and Max joined a student [[protest]] near the university. The city wanted to close the student library and build a parking lot. A young [[activist]] named Sofia spoke first. She said her [[activism]] started in a small library like this one. \"We have one [[ideal]]: free books for everyone,\" she said. Max liked her [[idealism]], but he did not believe in a perfect [[utopia]]. Then workers from a local [[trade union]] arrived with big signs. They called for a [[boycott]] of the new parking company. A man in a black hat said he was an [[anarchist]] and shouted at the sky. Max's friend Oleh, a real [[cynic]], called all the politicians [[hypocrites|hypocrite]]. He said the whole march was [[nonsense]]. Two weeks later, the city kept the library open, and even Oleh brought cake."
+},
+{
+"id": "c160",
+"part": "p16",
+"title": "Anna's internship at a newspaper",
+"scene": "Anna works for a month in a newsroom. A journalist teaches her, a columnist writes an editorial, a correspondent calls from abroad with an exclusive about a scandal, a tabloid wants publicity, the publisher wants a rewrite of the morning digest, and the media wait for a briefing.",
+"anchors": [
+"newsroom",
+"journalist",
+"columnist",
+"editorial",
+"correspondent",
+"exclusive",
+"scandal",
+"tabloid",
+"publicity",
+"publisher",
+"rewrite",
+"media"
+],
+"level": "B1",
+"words": [
+{
+"en": "newsroom",
+"uk": "ньюзрум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The newsroom was busy before the evening show."
+},
+{
+"en": "journalist",
+"uk": "журналіст",
+"band": "top-3000",
+"pos": "noun",
+"topics": "media, people",
+"ex": "Are you a journalist?"
+},
+{
+"en": "columnist",
+"uk": "колумніст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "She is a columnist for a local newspaper."
+},
+{
+"en": "editorial",
+"uk": "едиторіал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The newspaper's editorial criticized the new city plan."
+},
+{
+"en": "correspondent",
+"uk": "кореспондент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media, people",
+"ex": "She is a foreign correspondent in Paris."
+},
+{
+"en": "exclusive",
+"uk": "ексклюзив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The magazine got an exclusive with the actor."
+},
+{
+"en": "scandal",
+"uk": "скандал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "Did you hear about the scandal at the school?"
+},
+{
+"en": "tabloid",
+"uk": "таблоїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The tabloid printed rumors about the singer."
+},
+{
+"en": "publicity",
+"uk": "пабліситі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The scandal brought the company a lot of bad publicity."
+},
+{
+"en": "publisher",
+"uk": "паблішер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The game's publisher announced a new release date."
+},
+{
+"en": "rewrite",
+"uk": "рерайт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The article needs a rewrite before we publish it."
+},
+{
+"en": "media",
+"uk": "медіа",
+"band": "top-2000",
+"pos": "noun",
+"topics": "media",
+"ex": "I read the news on social media."
+},
+{
+"en": "narrative",
+"uk": "наратив",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The government pushed a different narrative."
+},
+{
+"en": "mass media",
+"uk": "мас-медіа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The mass media cover the election every day."
+},
+{
+"en": "digest",
+"uk": "дайджест",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "I read the morning news digest on my phone."
+},
+{
+"en": "reporter",
+"uk": "репортер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "media, people",
+"ex": "I want to be a TV reporter."
+},
+{
+"en": "PR",
+"uk": "піар",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "business, media",
+"ex": "The company hired a firm to handle PR."
+}
+],
+"old_story": "In July, Anna started a month-long internship in a busy [[newsroom]]. An older [[journalist]] named Petro showed her how to check every fact. Next to him sat a [[columnist]] who was writing the Sunday [[editorial]]. At noon, a [[correspondent]] called from abroad with an [[exclusive]]. She had proof of a big [[scandal]] at a local football club. A [[tabloid]] already had rumors about it. \"They want [[publicity]], not facts,\" Petro said. The [[publisher]] read the morning [[digest]] and asked for a quick [[rewrite]]. He wanted the true story, not the old [[narrative]] about the club. By evening, all the [[media]] were waiting outside the club for a briefing. Petro let Anna write the headline. The next morning, the [[mass media]] everywhere repeated it."
+},
+{
+"id": "c161",
+"part": "p16",
+"title": "Anna's cousin in the army",
+"scene": "Anna's cousin was a cadet; now he is an officer and trains new recruits. He tells her about his lieutenant and his sergeant, his battalion and a convoy at a checkpoint, a bunker, camouflage, drones, a tank and a sniper, and about the victory parade they all dream of.",
+"anchors": [
+"cadet",
+"officer",
+"recruit",
+"lieutenant",
+"sergeant",
+"battalion",
+"convoy",
+"checkpoint",
+"bunker",
+"camouflage",
+"drone",
+"tank"
+],
+"level": "B1",
+"words": [
+{
+"en": "cadet",
+"uk": "кадет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education, military",
+"ex": "The young cadet saluted the officer."
+},
+{
+"en": "officer",
+"uk": "офіцер",
+"band": "top-2000",
+"pos": "noun",
+"topics": "military, people",
+"ex": "I want to be an army officer."
+},
+{
+"en": "recruit",
+"uk": "рекрут",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, people",
+"ex": "The new recruits arrived at the army base today."
+},
+{
+"en": "lieutenant",
+"uk": "лейтенант",
+"band": "top-2000",
+"pos": "noun",
+"topics": "military",
+"ex": "Where is the lieutenant?"
+},
+{
+"en": "sergeant",
+"uk": "сержант",
+"band": "top-3000",
+"pos": "noun",
+"topics": "military",
+"ex": "Is the sergeant here today?"
+},
+{
+"en": "battalion",
+"uk": "батальйон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The battalion moved to the front line at night."
+},
+{
+"en": "convoy",
+"uk": "конвой",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "A convoy of trucks brought food to the city."
+},
+{
+"en": "checkpoint",
+"uk": "чек-пойнт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, travel",
+"ex": "We stopped at a police checkpoint."
+},
+{
+"en": "bunker",
+"uk": "бункер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "Soldiers hid in the bunker during the attack."
+},
+{
+"en": "camouflage",
+"uk": "камуфляж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, military",
+"ex": "The soldiers wore camouflage in the forest."
+},
+{
+"en": "drone",
+"uk": "дрон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He flies a drone in the park."
+},
+{
+"en": "tank",
+"uk": "танк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "A tank moved slowly across the field."
+},
+{
+"en": "parade",
+"uk": "парад",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "What time does the parade start tomorrow?"
+},
+{
+"en": "patriot",
+"uk": "патріот",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "He is a true patriot and loves his country."
+},
+{
+"en": "combatant",
+"uk": "комбатант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "Both combatants agreed to stop fighting."
+},
+{
+"en": "adjutant",
+"uk": "ад'ютант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The adjutant gave the general's orders to the troops."
+},
+{
+"en": "admiral",
+"uk": "адмірал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "My grandfather was an admiral in the navy."
+},
+{
+"en": "commodore",
+"uk": "комодор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The commodore gave orders to the fleet."
+},
+{
+"en": "commandant",
+"uk": "комендант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The commandant of the base gave new orders."
+}
+],
+"old_story": "Anna's cousin Taras was a [[cadet]] only four years ago. Now he is an [[officer]], and he trains every new [[recruit]]. On Sunday, he visited Anna and told stories over tea. His [[lieutenant]] is strict but fair, and his [[sergeant]] tells terrible jokes. Last month, his [[battalion]] practiced moving a [[convoy]] of trucks through a [[checkpoint]]. They slept one night in a cold [[bunker]] and wore [[camouflage]] in the forest. A small [[drone]] watched them from above, and a [[tank]] moved slowly behind. In the exercise, half of the soldiers played enemy [[combatants|combatant]]. Taras was the colonel's [[adjutant]], so he carried the orders on foot. Anna asked why he chose the army. \"I'm a [[patriot]], and I want my family safe,\" he said. Most of all, they all dream of marching in a big peace [[parade]] together."
+}
+]

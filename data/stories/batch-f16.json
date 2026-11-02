@@ -1,0 +1,559 @@
+[
+{
+"id": "c127",
+"part": "p13",
+"title": "At the natural history museum",
+"scene": "Taras's class visits the natural history museum. They see a dinosaur, a dodo, old primates like the gibbon, an artifact and a fragment of an old bone, learn how each organism lives, watch a chameleon, a cocoon and termites that use pheromones, and read about fauna and even cannibalism among animals.",
+"anchors": [
+"dinosaur",
+"dodo",
+"primate",
+"gibbon",
+"artifact",
+"fragment",
+"organism",
+"chameleon",
+"cocoon",
+"termite",
+"pheromone",
+"fauna"
+],
+"level": "B1",
+"words": [
+{
+"en": "dinosaur",
+"uk": "динозавр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "My son loves books about dinosaurs."
+},
+{
+"en": "dodo",
+"uk": "додо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The dodo was a bird that could not fly."
+},
+{
+"en": "artifact",
+"uk": "артефакт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "The museum shows artifacts from ancient Egypt."
+},
+{
+"en": "fragment",
+"uk": "фрагмент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "They found a fragment of an old vase."
+},
+{
+"en": "organism",
+"uk": "організм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Bacteria are tiny organisms that live almost everywhere."
+},
+{
+"en": "chameleon",
+"uk": "хамелеон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A chameleon can change its color."
+},
+{
+"en": "cocoon",
+"uk": "кокон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, nature",
+"ex": "The caterpillar spun a silk cocoon."
+},
+{
+"en": "termite",
+"uk": "терміт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Termites damaged the wooden floor in our kitchen."
+},
+{
+"en": "pheromone",
+"uk": "феромон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Ants follow a pheromone trail to find food."
+},
+{
+"en": "magma",
+"uk": "магма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature, science",
+"ex": "Magma rises from deep under the ground."
+},
+{
+"en": "lava",
+"uk": "лава",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Hot lava flowed down the mountain."
+}
+],
+"old_story": "On Tuesday, Anna's little brother Taras visits the natural history museum with his class. First, they see a huge [[dinosaur]] and a [[dodo]], a bird that couldn't fly. In the next hall, Taras's favorite [[primate]] is the [[gibbon]], with its long arms. In a glass case, they see a stone [[artifact]] and a [[fragment]] of mammoth bone. The guide says every living [[organism]] needs food, water and a home. In a warm tank, a [[chameleon]] slowly changes its color from green to brown. Taras finds a silk [[cocoon]] hanging on a small branch. Behind glass, [[termites|termite]] build a mud tower and follow a [[pheromone]] to find food. One room shows the [[fauna]] of Ukraine, from wolves to storks. In the last hall, a model volcano shows red [[magma]] rising from deep underground. On the bus home, Taras says he wants to be a scientist."
+},
+{
+"id": "c128",
+"part": "p14",
+"title": "A weekend in Paris",
+"scene": "Anna and her mama spend a weekend in Paris. A waiter says 'Bonjour, monsieur' to a man, 'madame' to Mama and 'mademoiselle' to Anna; they eat madeleines, creme brulee and brie in a bistro, buy a beret, pay a lot of euros, admire the facade of an old chateau, and drink cognac and pinot noir in a wine bar, dressed a la old movie stars.",
+"anchors": [
+"monsieur",
+"madame",
+"mademoiselle",
+"madeleine",
+"creme",
+"brie",
+"bistro",
+"beret",
+"euro",
+"facade",
+"chateau",
+"cognac"
+],
+"level": "A2",
+"words": [
+{
+"en": "monsieur",
+"uk": "мосьє",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, monsieur, welcome to our hotel."
+},
+{
+"en": "madame",
+"uk": "мадам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "\"Madame, your table is ready,\" said the waiter."
+},
+{
+"en": "mademoiselle",
+"uk": "мадемуазель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "\"Thank you, mademoiselle,\" said the waiter with a smile."
+},
+{
+"en": "madeleine",
+"uk": "мадлен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She dipped a madeleine in her tea."
+},
+{
+"en": "creme",
+"uk": "крем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She ordered creme brulee for dessert."
+},
+{
+"en": "brie",
+"uk": "брі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We ate brie with crackers and grapes."
+},
+{
+"en": "beret",
+"uk": "берет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a red beret to the party."
+},
+{
+"en": "chateau",
+"uk": "шато",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, places, travel",
+"ex": "We visited a beautiful chateau in France."
+},
+{
+"en": "a la",
+"uk": "а-ля",
+"band": "top-20k",
+"pos": "phrase",
+"topics": "language",
+"ex": "She wore a red dress a la old movie stars."
+},
+{
+"en": "Herr",
+"uk": "гер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Herr Schmidt is our new German teacher."
+},
+{
+"en": "Frau",
+"uk": "фрау",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Frau Müller is our German teacher."
+}
+],
+"old_story": "On their weekend in Paris, Anna and Mama find a small [[bistro]]. The waiter says, 'Bonjour, [[monsieur]],' to an old man. Then he smiles at Mama: 'Good afternoon, [[madame]].' 'And for you, [[mademoiselle]]?' he asks Anna. Anna orders [[madeleines|madeleine]] and [[creme]] brulee, and Mama orders [[brie]]. After lunch, Anna buys a red [[beret]] for twenty [[euros|euro]]. On Sunday, they take a train to an old [[chateau]]. Its stone [[facade]] is white and beautiful. In the evening, they dress up [[a la]] old movie stars. At dinner, a man at the next table drinks [[cognac]]. Mama has a glass of [[pinot noir]], and Anna has juice. 'Merci, Paris!' Anna laughs."
+},
+{
+"id": "c129",
+"part": "p14",
+"title": "Summer in Italy and Spain",
+"scene": "Max and his parents go on a cruise on a big liner. In Venice they take a gondola along a canal and drink coffee in a piazza, see an old villa and a palace, and in Spain they walk on the promenade, buy souvenirs, dance at a fiesta, drink chardonnay and meet a compatriot from Kyiv.",
+"anchors": [
+"cruise",
+"liner",
+"gondola",
+"canal",
+"piazza",
+"villa",
+"palace",
+"promenade",
+"souvenir",
+"fiesta",
+"chardonnay",
+"compatriot"
+],
+"level": "A2",
+"words": [
+{
+"en": "cruise",
+"uk": "круїз",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We went on a cruise to the Caribbean."
+},
+{
+"en": "liner",
+"uk": "лайнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We sailed across the ocean on a huge liner."
+},
+{
+"en": "gondola",
+"uk": "гондола",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We took a gondola ride in Venice."
+},
+{
+"en": "canal",
+"uk": "канал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "Small boats travel along the canal every day."
+},
+{
+"en": "piazza",
+"uk": "п'яцца",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We had coffee in the piazza."
+},
+{
+"en": "palace",
+"uk": "палац",
+"band": "top-3000",
+"pos": "noun",
+"topics": "places",
+"ex": "We visited an old palace in the city."
+},
+{
+"en": "souvenir",
+"uk": "сувенір",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I bought a mug as a souvenir."
+},
+{
+"en": "chardonnay",
+"uk": "шардоне",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'd like a glass of chardonnay, please."
+},
+{
+"en": "compatriot",
+"uk": "компатріот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He met a compatriot while traveling in Spain."
+},
+{
+"en": "wine bar",
+"uk": "вайн-бар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We met friends at a small wine bar downtown."
+},
+{
+"en": "pinot",
+"uk": "піно",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered a glass of pinot with dinner."
+},
+{
+"en": "pinot noir",
+"uk": "піно нуар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "Pinot noir goes well with salmon."
+}
+],
+"old_story": "This summer, Max and his parents go on a [[cruise]]. Their [[liner]] is as big as a small town. In Venice, they take a [[gondola]] along a narrow [[canal]]. Then they drink coffee in a sunny [[piazza]]. Max takes photos of an old [[villa]] and a pink [[palace]]. A few days later, the ship stops in Spain. They walk along the [[promenade]] by the sea. Max buys a small guitar as a [[souvenir]] for Anna. In the evening, the whole town dances at a [[fiesta]]. Later, his parents sit in a [[wine bar]] and order [[chardonnay]]. A man at the next table hears them speak Ukrainian. He is a [[compatriot]] from Kyiv, and he lives near their street!"
+},
+{
+"id": "c130",
+"part": "p14",
+"title": "Rainy days in London",
+"scene": "During her summer course in London Anna learns to dress for rain: a trench coat, a poncho, a warm jumper, a fleece and a shawl. She pays in sterling, eats scones and toffee, sees an old painting sold for a hundred guineas, and asks a constable for directions.",
+"anchors": [
+"trench coat",
+"poncho",
+"jumper",
+"fleece",
+"shawl",
+"sterling",
+"scone",
+"toffee",
+"guinea",
+"constable"
+],
+"level": "A2",
+"words": [
+{
+"en": "trench coat",
+"uk": "тренчкот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a long beige trench coat in the rain."
+},
+{
+"en": "poncho",
+"uk": "пончо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "Take a poncho in case it rains."
+},
+{
+"en": "fleece",
+"uk": "фліс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I wear a fleece when it's cold outside."
+},
+{
+"en": "shawl",
+"uk": "шаль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wrapped a shawl around her shoulders."
+},
+{
+"en": "scone",
+"uk": "скон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a scone with jam and tea."
+},
+{
+"en": "toffee",
+"uk": "тофі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I bought a bag of toffee for the trip."
+},
+{
+"en": "guinea",
+"uk": "гінея",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The painting sold for a hundred guineas long ago."
+},
+{
+"en": "cape",
+"uk": "кейп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I bought a warm wool cape for the autumn."
+}
+],
+"old_story": "Anna is taking a summer course in London. On the first day, it rains, and she gets very wet. Her teacher says, 'In London, you need a [[trench coat]].' On Saturday, Anna buys a cheap [[poncho]] and a warm [[jumper]]. She also gets a soft [[fleece]] and a long [[shawl]] for Mama. She pays in [[sterling]] and counts the coins slowly. She eats a [[scone]] with jam and buys [[toffee]] for Max. Later, she visits a small art museum. One old painting there once cost a hundred [[guineas|guinea]]. When Anna gets lost in the rain, a kind [[constable]] helps her. She is wet, but happy."
+},
+{
+"id": "c132",
+"part": "p14",
+"title": "Letters in Athens",
+"scene": "In Athens Anna tries to read the signs. She learns the Greek letters - alpha, gamma, kappa, mu, theta, phi, chi, sigma and omega - visits the old citadel on a hill and gets lost in a garden labyrinth.",
+"anchors": [
+"alpha",
+"gamma",
+"kappa",
+"mu",
+"theta",
+"phi",
+"chi",
+"sigma",
+"omega",
+"citadel",
+"labyrinth"
+],
+"level": "A2",
+"words": [
+{
+"en": "alpha",
+"uk": "альфа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "language",
+"ex": "Alpha is the first letter of the Greek alphabet."
+},
+{
+"en": "gamma",
+"uk": "гамма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "Gamma is the third letter of the Greek alphabet."
+},
+{
+"en": "kappa",
+"uk": "каппа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Kappa is the tenth letter of the Greek alphabet."
+},
+{
+"en": "mu",
+"uk": "мю",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Mu is a letter of the Greek alphabet."
+},
+{
+"en": "theta",
+"uk": "тета",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Theta is the eighth letter of the Greek alphabet."
+},
+{
+"en": "phi",
+"uk": "фі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Phi is a letter of the Greek alphabet."
+},
+{
+"en": "chi",
+"uk": "хі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Chi is the 22nd letter of the Greek alphabet."
+},
+{
+"en": "sigma",
+"uk": "сигма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language, math",
+"ex": "Sigma is a letter of the Greek alphabet."
+},
+{
+"en": "omega",
+"uk": "омега",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Omega is the last letter of the Greek alphabet."
+},
+{
+"en": "labyrinth",
+"uk": "лабіринт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We got lost in the hedge labyrinth."
+},
+{
+"en": "pi",
+"uk": "пі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The number pi is about 3.14."
+},
+{
+"en": "beta",
+"uk": "бета",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The beta of the app is open to testers."
+},
+{
+"en": "delta",
+"uk": "дельта",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The river forms a delta near the sea."
+}
+],
+"old_story": "Anna spends a week in Athens with her friend Max. The street signs are in Greek, so she can't read them. Max buys her a little book about Greek letters. The first letter is [[alpha]], and the third is [[gamma]]. Anna finds [[kappa]] and [[mu]] on a bus sign. On a café menu, she sees [[theta]] and [[phi]]. [[Chi|chi]] looks like an X, and [[sigma]] looks a bit like E. 'And [[omega]] is the last one!' Max says. Then they climb up to the old [[citadel]] on the hill. Below it, they get lost in a garden [[labyrinth]]. Anna reads the Greek exit sign and finds the way out!"
+}
+]

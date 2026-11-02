@@ -1,0 +1,629 @@
+[
+{
+"id": "c121",
+"part": "p13",
+"title": "Dogs in the park",
+"scene": "On Sunday Anna's family has a picnic near the pavilion in the park. They meet dogs of every kind - a bulldog, a beagle, a basset, a husky, a collie and a pit bull - see how dogs act by instinct, hear about a parasite from dirty water and clean up a dog's excrement.",
+"anchors": [
+"picnic",
+"pavilion",
+"bulldog",
+"beagle",
+"basset",
+"husky",
+"collie",
+"pit bull",
+"instinct",
+"parasite",
+"excrement"
+],
+"level": "A2",
+"words": [
+{
+"en": "picnic",
+"uk": "пікнік",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had a picnic in the park on Sunday."
+},
+{
+"en": "pavilion",
+"uk": "павільйон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We had lunch in the park pavilion."
+},
+{
+"en": "bulldog",
+"uk": "бульдог",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our bulldog loves to sleep on the sofa."
+},
+{
+"en": "beagle",
+"uk": "бігль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our beagle loves to smell everything on walks."
+},
+{
+"en": "basset",
+"uk": "басет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our basset has very long ears and short legs."
+},
+{
+"en": "husky",
+"uk": "хаскі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our husky has bright blue eyes and thick fur."
+},
+{
+"en": "collie",
+"uk": "колі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our collie helps the farmer move the sheep."
+},
+{
+"en": "pit bull",
+"uk": "пітбуль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "My neighbor has a friendly pit bull."
+},
+{
+"en": "instinct",
+"uk": "інстинкт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "biology",
+"ex": "Cats catch mice by instinct, not by learning."
+},
+{
+"en": "parasite",
+"uk": "паразит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The dog got a parasite from dirty water."
+},
+{
+"en": "excrement",
+"uk": "екскремент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Please clean up your dog's excrement in the park."
+},
+{
+"en": "chihuahua",
+"uk": "чихуахуа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Her chihuahua fits in her bag."
+},
+{
+"en": "terrier",
+"uk": "тер'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our terrier barks at every car that drives past."
+},
+{
+"en": "poodle",
+"uk": "пудель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our neighbor walks her white poodle every morning."
+}
+],
+"old_story": "On Sunday, Anna's family has a [[picnic]] in the park. They sit at a table in the old [[pavilion]]. Soon a funny [[bulldog]] comes and looks at their sandwiches. Then a [[beagle]] and a sleepy [[basset]] follow it. Max arrives with his [[husky]] and his aunt's [[collie]]. A friendly [[pit bull]] plays with a ball near the trees. Max's aunt's dog moves the others together by [[instinct]], like sheep. A vet tells them about a [[parasite]] from dirty pond water. So Anna's dad fills a clean bowl for the dogs. Before they go home, Max cleans up his dog's [[excrement]]. Everyone says the park looks nicer than before."
+},
+{
+"id": "c122",
+"part": "p13",
+"title": "Grandma's farm",
+"scene": "Anna and Max help on Grandma's farm. The farmer next door drives a tractor over many hectares, an old mule carries ten bushels of apples from the homestead, bees collect nectar, and Grandma talks about pesticides and a new hybrid tree.",
+"anchors": [
+"farmer",
+"tractor",
+"hectare",
+"mule",
+"bushel",
+"homestead",
+"nectar",
+"pesticide",
+"hybrid"
+],
+"level": "A2",
+"words": [
+{
+"en": "farmer",
+"uk": "фермер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "I buy eggs from a local farmer."
+},
+{
+"en": "tractor",
+"uk": "трактор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The farmer drove his tractor across the field."
+},
+{
+"en": "hectare",
+"uk": "гектар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The farm covers about fifty hectares."
+},
+{
+"en": "mule",
+"uk": "мул",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The mule carried our bags up the mountain."
+},
+{
+"en": "bushel",
+"uk": "бушель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The farmer sold ten bushels of apples."
+},
+{
+"en": "homestead",
+"uk": "гомстед",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The family lived on a small homestead far from town."
+},
+{
+"en": "nectar",
+"uk": "нектар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, nature",
+"ex": "Bees collect nectar from flowers to make honey."
+},
+{
+"en": "pesticide",
+"uk": "пестицид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Farmers spray pesticides on their crops."
+},
+{
+"en": "hybrid",
+"uk": "гібрид",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "This tree is a hybrid of two species."
+},
+{
+"en": "acre",
+"uk": "акр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "How many acres of land does your family have?"
+},
+{
+"en": "gallon",
+"uk": "галон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Gas costs four dollars a gallon."
+},
+{
+"en": "insecticide",
+"uk": "інсектицид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We sprayed insecticide on the roses in the garden."
+}
+],
+"old_story": "Anna and Max spend Saturday on Grandma's farm. The [[farmer]] next door waves to them from his field. He drives his big [[tractor]] over forty [[hectares|hectare]] of wheat. Grandma's old [[mule]] is slow, but very strong. It carries ten [[bushels|bushel]] of apples from the [[homestead]] to the road. Behind the house, bees collect [[nectar]] from the flowers. Grandma never uses a [[pesticide]] in her garden. 'Bees are my friends,' she says. Her new tree is a [[hybrid]] of a pear and an apple. 'I want to taste the first fruit!' says Max."
+},
+{
+"id": "c123",
+"part": "p13",
+"title": "Hiking in the Carpathians",
+"scene": "Anna and Max go hiking in the Carpathian Mountains. They camp near a cliff, use a compass to find the peak, feel the breeze from the canyon under old cedars, sit on granite rocks on a high plateau, look at the local flora and paddle a canoe across a lake, where they meet boy scouts who love scouting.",
+"anchors": [
+"hiking",
+"camp",
+"cliff",
+"compass",
+"peak",
+"breeze",
+"canyon",
+"cedar",
+"granite",
+"plateau",
+"flora",
+"canoe"
+],
+"level": "A2",
+"words": [
+{
+"en": "hiking",
+"uk": "хайкінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We go hiking in the mountains every summer."
+},
+{
+"en": "camp",
+"uk": "кемп",
+"band": "top-3000",
+"pos": "noun",
+"topics": "travel",
+"ex": "How much does summer camp cost?"
+},
+{
+"en": "cliff",
+"uk": "кліф",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "The house stands on top of a high cliff."
+},
+{
+"en": "compass",
+"uk": "компас",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We used a compass to find north."
+},
+{
+"en": "peak",
+"uk": "пік",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "We reached the peak of the mountain by noon."
+},
+{
+"en": "breeze",
+"uk": "бриз",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A cool breeze came in from the sea."
+},
+{
+"en": "canyon",
+"uk": "каньйон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "We hiked down into the canyon."
+},
+{
+"en": "cedar",
+"uk": "кедр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A tall cedar grows in the corner of our yard."
+},
+{
+"en": "granite",
+"uk": "граніт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our new kitchen counters are made of granite."
+},
+{
+"en": "plateau",
+"uk": "плато",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The town sits on a high plateau."
+},
+{
+"en": "flora",
+"uk": "флора",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The island has unique flora and fauna."
+},
+{
+"en": "quartz",
+"uk": "кварц",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "This watch has a quartz movement."
+},
+{
+"en": "scouting",
+"uk": "скаутинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, sport",
+"ex": "My son loves scouting because he goes camping with friends."
+},
+{
+"en": "panorama",
+"uk": "панорама",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "From the top, we saw a panorama of the city."
+},
+{
+"en": "fauna",
+"uk": "фауна",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The island has rich flora and fauna."
+}
+],
+"old_story": "In July, Anna and Max go [[hiking]] in the Carpathian Mountains. They stay at a small [[camp]] near a high [[cliff]]. Max uses a [[compass]] to find the path to the [[peak]]. On the way, a cool [[breeze]] comes up from the [[canyon]]. They rest under an old [[cedar]] on big [[granite]] rocks. Higher up, they walk across a wide, green [[plateau]]. Anna takes photos of the local [[flora]]: flowers, moss and berries. Then they paddle a [[canoe]] across a quiet mountain lake. On the shore, Max finds a shiny piece of [[quartz]]. Near the lake, they meet boy scouts who love [[scouting]]. Together they climb a hill and see a [[panorama]] of the mountains. Anna smiles, 'Let's come back next summer!'"
+},
+{
+"id": "c124",
+"part": "p13",
+"title": "National parks in America",
+"scene": "Max's cousin works as a park ranger in America. He shows them a grizzly, a coyote, a raccoon near the trash, bison, gophers and caribou, wild mustangs and an alligator in the swamp, warns them about cougars and makes a fire from hickory wood.",
+"anchors": [
+"ranger",
+"grizzly",
+"coyote",
+"raccoon",
+"bison",
+"gopher",
+"caribou",
+"mustang",
+"alligator",
+"cougar",
+"hickory"
+],
+"level": "B1",
+"words": [
+{
+"en": "ranger",
+"uk": "рейнджер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, people",
+"ex": "Ask the park ranger where the trail starts."
+},
+{
+"en": "grizzly",
+"uk": "грізлі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A grizzly crossed the road in front of our car."
+},
+{
+"en": "coyote",
+"uk": "койот",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A coyote howled in the night."
+},
+{
+"en": "raccoon",
+"uk": "ракун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A raccoon got into our trash last night."
+},
+{
+"en": "bison",
+"uk": "бізон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A herd of bison crossed the road."
+},
+{
+"en": "gopher",
+"uk": "гофер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A gopher dug holes all over our lawn."
+},
+{
+"en": "caribou",
+"uk": "карибу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A herd of caribou crossed the road in front of us."
+},
+{
+"en": "mustang",
+"uk": "мустанг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Wild mustangs run across the plains."
+},
+{
+"en": "cougar",
+"uk": "кугуар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A cougar was seen near the hiking trail."
+},
+{
+"en": "hickory",
+"uk": "гікорі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "We used hickory wood for the barbecue."
+},
+{
+"en": "puma",
+"uk": "пума",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A puma was seen near the hiking trail."
+}
+],
+"old_story": "In August, Anna and Max visit Max's cousin, a park [[ranger]] in America. On the first morning, he shows them a [[grizzly]] fishing in a cold river. That night, a [[coyote]] howls somewhere near their cabin. In the morning, a [[raccoon]] is digging through their trash can. Later, they drive slowly while a herd of [[bison]] crosses the road. Max laughs at a small [[gopher]] that pops out of a hole in the grass. Then they fly north to Alaska and watch [[caribou]] walk across the tundra. In Nevada, a group of wild [[mustangs|mustang]] runs across the dry plains. Their last stop is a swamp in Florida, where an [[alligator]] lies in the sun. Every evening, Max's cousin warns them to stay on the trail because of [[cougars|cougar]]. On the last night, he makes a fire from [[hickory]] wood, and they roast corn. Anna says it was the best trip of her life."
+},
+{
+"id": "c126",
+"part": "p13",
+"title": "A climate strike",
+"scene": "Anna joins a climate strike. Students talk about smog in the city, the ozone layer and melting icebergs, methane, carbon dioxide and fracking, eco solutions, and how a tornado or a tsunami can hit a whole region.",
+"anchors": [
+"climate",
+"strike",
+"smog",
+"ozone",
+"iceberg",
+"methane",
+"dioxide",
+"fracking",
+"eco",
+"tornado",
+"tsunami",
+"region"
+],
+"level": "B1",
+"words": [
+{
+"en": "climate",
+"uk": "клімат",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "The climate here is warm and dry."
+},
+{
+"en": "smog",
+"uk": "смог",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The city is covered in smog today."
+},
+{
+"en": "ozone",
+"uk": "озон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "The ozone layer protects us from the sun."
+},
+{
+"en": "iceberg",
+"uk": "айсберг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The ship hit an iceberg and sank."
+},
+{
+"en": "methane",
+"uk": "метан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Cows produce a lot of methane every day."
+},
+{
+"en": "fracking",
+"uk": "фрекінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Fracking gets gas out of rock deep under the ground."
+},
+{
+"en": "eco",
+"uk": "еко",
+"band": "top-20k",
+"pos": "adj",
+"topics": "nature",
+"ex": "We stayed at an eco hotel in the mountains."
+},
+{
+"en": "tornado",
+"uk": "торнадо",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A tornado hit the town last night."
+},
+{
+"en": "tsunami",
+"uk": "цунамі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The earthquake caused a huge tsunami."
+},
+{
+"en": "region",
+"uk": "регіон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "It often rains in this region."
+},
+{
+"en": "cyclone",
+"uk": "циклон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A strong cyclone hit the island last night."
+},
+{
+"en": "typhoon",
+"uk": "тайфун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A typhoon hit the coast last night."
+}
+],
+"old_story": "On Friday, Anna joins a [[climate]] [[strike]] with other students in the park. Max's sign says, 'I want to see the sky, not [[smog]]!' A girl named Sofia talks about the [[ozone]] layer and why we need it. Another student shows a photo of a melting [[iceberg]] in the Arctic. A teacher explains that cows on big farms produce a lot of [[methane]]. Cars and factories also send carbon [[dioxide]] into the air. Some students ask questions about [[fracking]] and the water under the ground. Anna shares simple [[eco]] ideas, like bikes and reusable bags. A boy says a [[tornado]] once damaged his grandma's house. Sofia adds that one [[tsunami]] can hit towns along a whole coast. 'Bad weather can hurt a whole [[region]] at once,' she says. In the end, the group cleans the park together and plants three small trees."
+}
+]

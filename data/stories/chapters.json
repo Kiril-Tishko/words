@@ -124,14 +124,6 @@
 "level": "A1",
 "words": [
 {
-"en": "college",
-"uk": "коледж",
-"band": "top-1000",
-"pos": "noun",
-"topics": "education",
-"ex": "I study at a college in Kyiv."
-},
-{
 "en": "party",
 "uk": "паті",
 "band": "top-1000",
@@ -146,22 +138,6 @@
 "pos": "noun",
 "topics": "education",
 "ex": "I am a student."
-},
-{
-"en": "lady",
-"uk": "леді",
-"band": "top-3000",
-"pos": "noun",
-"topics": "people",
-"ex": "Good evening, ladies and gentlemen."
-},
-{
-"en": "gentleman",
-"uk": "джентльмен",
-"band": "top-2000",
-"pos": "noun",
-"topics": "people",
-"ex": "Good evening, ladies and gentlemen!"
 },
 {
 "en": "welcome",
@@ -218,6 +194,22 @@
 "pos": "noun",
 "topics": "people",
 "ex": "This is my friend Anna."
+},
+{
+"en": "amigo",
+"uk": "аміго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Hey amigo, how are you doing?"
+},
+{
+"en": "comrade",
+"uk": "камрад",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I met my old army comrades last summer."
 }
 ]
 },
@@ -310,6 +302,46 @@
 "pos": "interj",
 "topics": "other",
 "ex": "OK, see you tomorrow."
+},
+{
+"en": "mister",
+"uk": "містер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, mister, you dropped your wallet."
+},
+{
+"en": "Mrs.",
+"uk": "місіс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Is it Mrs. or Ms.?"
+},
+{
+"en": "madam",
+"uk": "мадам",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, madam, can I help you?"
+},
+{
+"en": "lady",
+"uk": "леді",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen."
+},
+{
+"en": "gentleman",
+"uk": "джентльмен",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen!"
 }
 ]
 },
@@ -380,14 +412,6 @@
 "pos": "noun",
 "topics": "other",
 "ex": "What type of music do you like?"
-},
-{
-"en": "fan",
-"uk": "фан",
-"band": "top-1000",
-"pos": "noun",
-"topics": "people",
-"ex": "I am a big fan."
 },
 {
 "en": "character",
@@ -559,14 +583,6 @@
 "ex": "Can you keep a secret?"
 },
 {
-"en": "bro",
-"uk": "бро",
-"band": "top-2000",
-"pos": "noun",
-"topics": "people",
-"ex": "Thanks a lot, bro!"
-},
-{
 "en": "chance",
 "uk": "шанс",
 "band": "top-1000",
@@ -644,14 +660,6 @@
 "ex": "What do you want for lunch?"
 },
 {
-"en": "cafe",
-"uk": "кафе",
-"band": "top-5000",
-"pos": "noun",
-"topics": "places",
-"ex": "Let's meet at the cafe on the corner."
-},
-{
 "en": "menu",
 "uk": "меню",
 "band": "top-5000",
@@ -708,12 +716,12 @@
 "ex": "What do you want for dessert tonight?"
 },
 {
-"en": "lemon",
-"uk": "лимон",
-"band": "top-5000",
+"en": "brunch",
+"uk": "бранч",
+"band": "top-10k",
 "pos": "noun",
 "topics": "food",
-"ex": "Can I have tea with lemon, please?"
+"ex": "Let's meet for brunch on Sunday."
 }
 ]
 },
@@ -818,12 +826,28 @@
 "ex": "I had a croissant and coffee for breakfast."
 },
 {
-"en": "muffin",
-"uk": "мафін",
-"band": "top-10k",
+"en": "espresso",
+"uk": "еспресо",
+"band": "top-20k",
 "pos": "noun",
-"topics": "food",
-"ex": "I had a blueberry muffin for breakfast."
+"topics": "drinks",
+"ex": "I need a strong espresso after lunch."
+},
+{
+"en": "cafe",
+"uk": "кафе",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's meet at the cafe on the corner."
+},
+{
+"en": "bistro",
+"uk": "бістро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, places",
+"ex": "We had lunch at a small French bistro."
 }
 ]
 },
@@ -934,6 +958,14 @@
 "pos": "noun",
 "topics": "food",
 "ex": "Let's make popcorn and watch a movie."
+},
+{
+"en": "salami",
+"uk": "салямі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a salami sandwich, please."
 }
 ]
 },
@@ -1011,12 +1043,36 @@
 "ex": "Can I have a chocolate sundae, please?"
 },
 {
-"en": "lager",
-"uk": "лагер",
+"en": "hamburger",
+"uk": "гамбургер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a hamburger and fries, please."
+},
+{
+"en": "cheeseburger",
+"uk": "чизбургер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ordered a cheeseburger and fries."
+},
+{
+"en": "junk food",
+"uk": "джанк-фуд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I try not to eat junk food every day."
+},
+{
+"en": "smoothie",
+"uk": "смузі",
 "band": "top-20k",
 "pos": "noun",
 "topics": "drinks",
-"ex": "He ordered a cold lager with his burger."
+"ex": "I have a banana smoothie for breakfast."
 }
 ]
 },
@@ -1109,6 +1165,14 @@
 "pos": "noun",
 "topics": "food, nature",
 "ex": "I eat half a grapefruit for breakfast."
+},
+{
+"en": "French toast",
+"uk": "френч-тост",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I make French toast with eggs, milk, and bread."
 }
 ]
 },
@@ -1140,22 +1204,6 @@
 "pos": "noun",
 "topics": "places",
 "ex": "Is there a supermarket near here?"
-},
-{
-"en": "kilo",
-"uk": "кіло",
-"band": "top-10k",
-"pos": "noun",
-"topics": "units",
-"ex": "I bought a kilo of apples at the market."
-},
-{
-"en": "liter",
-"uk": "літр",
-"band": "top-20k",
-"pos": "noun",
-"topics": "units",
-"ex": "We need two liters of milk."
 },
 {
 "en": "broccoli",
@@ -1214,20 +1262,36 @@
 "ex": "I put cheddar on my sandwich."
 },
 {
-"en": "salami",
-"uk": "салямі",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food",
-"ex": "I'd like a salami sandwich, please."
-},
-{
 "en": "cracker",
 "uk": "крекер",
 "band": "top-20k",
 "pos": "noun",
 "topics": "food",
 "ex": "I ate cheese on a cracker."
+},
+{
+"en": "mandarin",
+"uk": "мандарин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She peeled a mandarin for her son."
+},
+{
+"en": "lemon",
+"uk": "лимон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have tea with lemon, please?"
+},
+{
+"en": "lime",
+"uk": "лайм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add a slice of lime to your drink."
 }
 ]
 },
@@ -1284,14 +1348,6 @@
 "ex": "I cook vegetables in a wok."
 },
 {
-"en": "gas",
-"uk": "газ",
-"band": "top-2000",
-"pos": "noun",
-"topics": "science",
-"ex": "Turn off the gas after cooking."
-},
-{
 "en": "kale",
 "uk": "кейл",
 "band": "top-20k",
@@ -1330,14 +1386,6 @@
 "pos": "noun",
 "topics": "food",
 "ex": "I like to eat hummus with fresh carrots."
-},
-{
-"en": "fiasco",
-"uk": "фіаско",
-"band": "top-20k",
-"pos": "noun",
-"topics": "other",
-"ex": "The party was a total fiasco."
 }
 ]
 },
@@ -1369,14 +1417,6 @@
 "pos": "noun",
 "topics": "food",
 "ex": "What are the ingredients in this cake?"
-},
-{
-"en": "gram",
-"uk": "грам",
-"band": "top-10k",
-"pos": "noun",
-"topics": "units",
-"ex": "Add two hundred grams of sugar."
 },
 {
 "en": "substitute",
@@ -1481,6 +1521,22 @@
 "pos": "noun",
 "topics": "food",
 "ex": "Can I have a slice of red velvet, please?"
+},
+{
+"en": "muffin",
+"uk": "мафін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a blueberry muffin for breakfast."
+},
+{
+"en": "blender",
+"uk": "блендер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "I make smoothies in the blender every morning."
 }
 ]
 },
@@ -1526,14 +1582,6 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "Turn the regulator to lower the gas pressure."
-},
-{
-"en": "hamburger",
-"uk": "гамбургер",
-"band": "top-10k",
-"pos": "noun",
-"topics": "food",
-"ex": "I'd like a hamburger and fries, please."
 },
 {
 "en": "hot dog",
@@ -1582,6 +1630,14 @@
 "pos": "noun",
 "topics": "food",
 "ex": "We roasted marshmallows over the campfire."
+},
+{
+"en": "gas",
+"uk": "газ",
+"band": "top-2000",
+"pos": "noun",
+"topics": "science",
+"ex": "Turn off the gas after cooking."
 }
 ]
 },
@@ -1611,14 +1667,6 @@
 "pos": "noun",
 "topics": "people",
 "ex": "The hostess showed us to a table by the window."
-},
-{
-"en": "pinot",
-"uk": "піно",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "We ordered a glass of pinot with dinner."
 },
 {
 "en": "spaghetti",
@@ -1675,14 +1723,6 @@
 "pos": "noun",
 "topics": "food",
 "ex": "We had chocolate mousse for dessert."
-},
-{
-"en": "espresso",
-"uk": "еспресо",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "I need a strong espresso after lunch."
 }
 ]
 },
@@ -1720,14 +1760,6 @@
 "pos": "noun",
 "topics": "food",
 "ex": "Soup is my favorite comfort food in winter."
-},
-{
-"en": "patio",
-"uk": "патіо",
-"band": "top-20k",
-"pos": "noun",
-"topics": "home",
-"ex": "We ate dinner on the patio last night."
 },
 {
 "en": "lasagna",
@@ -1768,14 +1800,6 @@
 "pos": "noun",
 "topics": "food",
 "ex": "We had chocolate pudding for dessert."
-},
-{
-"en": "brandy",
-"uk": "бренді",
-"band": "top-10k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "He drank a glass of brandy after dinner."
 },
 {
 "en": "lunch box",
@@ -1963,14 +1987,6 @@
 "ex": "I'll have a gin and tonic, please."
 },
 {
-"en": "lime",
-"uk": "лайм",
-"band": "top-10k",
-"pos": "noun",
-"topics": "food",
-"ex": "Add a slice of lime to your drink."
-},
-{
 "en": "lite",
 "uk": "лайт",
 "band": "top-20k",
@@ -1985,6 +2001,62 @@
 "pos": "noun",
 "topics": "drinks",
 "ex": "I don't drink alcohol."
+},
+{
+"en": "barman",
+"uk": "бармен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, people",
+"ex": "The barman poured us two glasses of beer."
+},
+{
+"en": "whiskey",
+"uk": "віскі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He likes his whiskey with a little ice."
+},
+{
+"en": "bourbon",
+"uk": "бурбон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a bourbon with ice at the bar."
+},
+{
+"en": "brandy",
+"uk": "бренді",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He drank a glass of brandy after dinner."
+},
+{
+"en": "cognac",
+"uk": "коньяк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He drinks a small glass of cognac after dinner."
+},
+{
+"en": "tequila",
+"uk": "текіла",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered two shots of tequila with lime."
+},
+{
+"en": "margarita",
+"uk": "маргарита",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "She ordered a margarita with salt on the rim."
 }
 ]
 },
@@ -2020,14 +2092,6 @@
 "pos": "noun",
 "topics": "drinks, places",
 "ex": "Let's meet at the pub after work."
-},
-{
-"en": "barman",
-"uk": "бармен",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks, people",
-"ex": "The barman poured us two glasses of beer."
 },
 {
 "en": "ale",
@@ -2068,6 +2132,14 @@
 "pos": "noun",
 "topics": "sport",
 "ex": "We played snooker at the pub after work."
+},
+{
+"en": "lager",
+"uk": "лагер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a cold lager with his burger."
 }
 ]
 },
@@ -2130,14 +2202,6 @@
 "ex": "These shoes were on sale for half price."
 },
 {
-"en": "model",
-"uk": "модель",
-"band": "top-1000",
-"pos": "noun",
-"topics": "other",
-"ex": "Do you have this model in blue?"
-},
-{
 "en": "cotton",
 "uk": "котон",
 "band": "top-5000",
@@ -2176,6 +2240,54 @@
 "pos": "noun",
 "topics": "chemistry, clothing",
 "ex": "This shirt is made of cheap polyester."
+},
+{
+"en": "jumper",
+"uk": "джемпер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a warm wool jumper to school."
+},
+{
+"en": "cardigan",
+"uk": "кардиган",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a warm cardigan over her dress."
+},
+{
+"en": "hoodie",
+"uk": "худі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a gray hoodie and jeans."
+},
+{
+"en": "coupon",
+"uk": "купон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "I used a coupon to save five dollars."
+},
+{
+"en": "voucher",
+"uk": "ваучер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "I got a fifty-dollar voucher for the store."
+},
+{
+"en": "rebate",
+"uk": "ребейт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "We got a fifty-dollar rebate on the TV."
 }
 ]
 },
@@ -2225,28 +2337,12 @@
 "ex": "She bought a silk scarf at a small boutique."
 },
 {
-"en": "madam",
-"uk": "мадам",
-"band": "top-3000",
-"pos": "noun",
-"topics": "people",
-"ex": "Excuse me, madam, can I help you?"
-},
-{
 "en": "outfit",
 "uk": "аутфіт",
 "band": "top-5000",
 "pos": "noun",
 "topics": "clothing",
 "ex": "I really love your outfit today!"
-},
-{
-"en": "hoodie",
-"uk": "худі",
-"band": "top-20k",
-"pos": "noun",
-"topics": "clothing",
-"ex": "He wore a gray hoodie and jeans."
 },
 {
 "en": "brand",
@@ -2606,6 +2702,14 @@
 "pos": "noun",
 "topics": "finance",
 "ex": "We bought the car on credit."
+},
+{
+"en": "dime",
+"uk": "дайм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "I found a dime under the couch cushion."
 }
 ]
 },
@@ -2643,22 +2747,6 @@
 "pos": "noun",
 "topics": "other",
 "ex": "I ordered shoes from a catalog."
-},
-{
-"en": "site",
-"uk": "сайт",
-"band": "top-2000",
-"pos": "noun",
-"topics": "tech",
-"ex": "I buy shoes on this site."
-},
-{
-"en": "coupon",
-"uk": "купон",
-"band": "top-10k",
-"pos": "noun",
-"topics": "business",
-"ex": "I used a coupon to save five dollars."
 },
 {
 "en": "status",
@@ -2772,14 +2860,6 @@
 "ex": "She wore a tight corset under her dress."
 },
 {
-"en": "cape",
-"uk": "кейп",
-"band": "top-10k",
-"pos": "noun",
-"topics": "clothing",
-"ex": "I bought a warm wool cape for the autumn."
-},
-{
 "en": "cashmere",
 "uk": "кашемір",
 "band": "top-20k",
@@ -2834,6 +2914,14 @@
 "pos": "noun",
 "topics": "people",
 "ex": "He was a dandy who loved fancy suits."
+},
+{
+"en": "model",
+"uk": "модель",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Do you have this model in blue?"
 }
 ]
 },
@@ -2873,14 +2961,6 @@
 "pos": "noun",
 "topics": "travel",
 "ex": "Thanks for your visit!"
-},
-{
-"en": "million",
-"uk": "мільйон",
-"band": "top-1000",
-"pos": "num",
-"topics": "math",
-"ex": "Kyiv has about three million people."
 },
 {
 "en": "transport",
@@ -2947,20 +3027,36 @@
 "ex": "The monument stands in the city square."
 },
 {
-"en": "policeman",
-"uk": "полісмен",
-"band": "top-5000",
+"en": "boulevard",
+"uk": "бульвар",
+"band": "top-10k",
 "pos": "noun",
-"topics": "law, people",
-"ex": "Excuse me, where can I find a policeman?"
+"topics": "travel",
+"ex": "We walked down the wide boulevard after dinner."
 },
 {
-"en": "mister",
-"uk": "містер",
+"en": "promenade",
+"uk": "променад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We walked along the promenade by the sea."
+},
+{
+"en": "downtown",
+"uk": "даунтаун",
 "band": "top-5000",
 "pos": "noun",
-"topics": "people",
-"ex": "Excuse me, mister, you dropped your wallet."
+"topics": "places",
+"ex": "We live about ten minutes from downtown."
+},
+{
+"en": "memorial",
+"uk": "меморіал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "They built a memorial for the soldiers."
 }
 ]
 },
@@ -2981,14 +3077,6 @@
 ],
 "level": "A1",
 "words": [
-{
-"en": "max",
-"uk": "макс",
-"band": "top-5000",
-"pos": "abbr",
-"topics": "math",
-"ex": "The trip takes twenty minutes max by bus."
-},
 {
 "en": "stuff",
 "uk": "стаф",
@@ -3020,14 +3108,6 @@
 "pos": "noun",
 "topics": "transport",
 "ex": "Take the highway to get there faster."
-},
-{
-"en": "kilometer",
-"uk": "кілометр",
-"band": "top-10k",
-"pos": "noun",
-"topics": "units",
-"ex": "The station is two kilometers away."
 },
 {
 "en": "terminal",
@@ -3085,14 +3165,6 @@
 "ex": "Pick up your baggage at carousel three."
 },
 {
-"en": "kilogram",
-"uk": "кілограм",
-"band": "top-20k",
-"pos": "noun",
-"topics": "units",
-"ex": "The bag of rice weighs five kilograms."
-},
-{
 "en": "passport",
 "uk": "паспорт",
 "band": "top-5000",
@@ -3125,22 +3197,6 @@
 "ex": "I bought perfume at the duty-free."
 },
 {
-"en": "celebrity",
-"uk": "селебріті",
-"band": "top-5000",
-"pos": "noun",
-"topics": "people",
-"ex": "We saw a celebrity at the airport."
-},
-{
-"en": "aeroplane",
-"uk": "аероплан",
-"band": "top-20k",
-"pos": "noun",
-"topics": "transport",
-"ex": "The aeroplane landed safely in the storm."
-},
-{
 "en": "steward",
 "uk": "стюард",
 "band": "top-20k",
@@ -3171,14 +3227,6 @@
 "pos": "noun",
 "topics": "tech, transport",
 "ex": "The airport is a major travel hub."
-},
-{
-"en": "converter",
-"uk": "конвертор",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "I need a converter for my European charger."
 },
 {
 "en": "business class",
@@ -3265,14 +3313,6 @@
 "ex": "Excuse me, what is the Wi-Fi password?"
 },
 {
-"en": "corridor",
-"uk": "коридор",
-"band": "top-10k",
-"pos": "noun",
-"topics": "home",
-"ex": "The bathroom is at the end of the corridor."
-},
-{
 "en": "check-out",
 "uk": "чек-аут",
 "band": "top-20k",
@@ -3281,20 +3321,60 @@
 "ex": "Check-out is at eleven in the morning."
 },
 {
-"en": "deluxe",
-"uk": "делюкс",
-"band": "top-20k",
-"pos": "adj",
-"topics": "other",
-"ex": "We stayed in a deluxe room with an ocean view."
-},
-{
 "en": "adapter",
 "uk": "адаптер",
 "band": "top-20k",
 "pos": "noun",
 "topics": "tech",
 "ex": "I need a power adapter for my trip to Europe."
+},
+{
+"en": "motel",
+"uk": "мотель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We stayed at a cheap motel on the highway."
+},
+{
+"en": "hostel",
+"uk": "хостел",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We stayed in a cheap hostel in Rome."
+},
+{
+"en": "resort",
+"uk": "резорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places, travel",
+"ex": "We stayed at a beach resort last summer."
+},
+{
+"en": "max",
+"uk": "макс",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "math",
+"ex": "The trip takes twenty minutes max by bus."
+},
+{
+"en": "minimum",
+"uk": "мінімум",
+"band": "top-5000",
+"pos": "noun",
+"topics": "math",
+"ex": "You need a minimum of two hours for this."
+},
+{
+"en": "converter",
+"uk": "конвертор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need a converter for my European charger."
 }
 ]
 },
@@ -3386,6 +3466,54 @@
 "pos": "noun",
 "topics": "medicine",
 "ex": "I got a back massage after work."
+},
+{
+"en": "queen-size",
+"uk": "квін-сайз",
+"band": "top-20k",
+"pos": "adj",
+"topics": "home",
+"ex": "Our guest room has a queen-size bed."
+},
+{
+"en": "hall",
+"uk": "хол",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home, places",
+"ex": "Please wait for me in the hall downstairs."
+},
+{
+"en": "corridor",
+"uk": "коридор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The bathroom is at the end of the corridor."
+},
+{
+"en": "deluxe",
+"uk": "делюкс",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "We stayed in a deluxe room with an ocean view."
+},
+{
+"en": "premium",
+"uk": "преміум",
+"band": "top-10k",
+"pos": "adj",
+"topics": "business",
+"ex": "We bought premium tickets with better seats."
+},
+{
+"en": "high-end",
+"uk": "хай-енд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "tech",
+"ex": "This store only sells high-end phones and laptops."
 }
 ]
 },
@@ -3478,6 +3606,30 @@
 "pos": "noun",
 "topics": "other",
 "ex": "There was an incident on the bus today."
+},
+{
+"en": "mountain bike",
+"uk": "маунтенбайк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport, transport",
+"ex": "I ride my mountain bike on forest trails."
+},
+{
+"en": "biking",
+"uk": "байкінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "We often go biking in the mountains in summer."
+},
+{
+"en": "moped",
+"uk": "мопед",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He rides a moped to work every day."
 }
 ]
 },
@@ -3517,14 +3669,6 @@
 "pos": "noun",
 "topics": "transport",
 "ex": "The automobile changed the way people live."
-},
-{
-"en": "dealer",
-"uk": "дилер",
-"band": "top-3000",
-"pos": "noun",
-"topics": "business",
-"ex": "I bought my car from a local dealer."
 },
 {
 "en": "showroom",
@@ -3591,20 +3735,28 @@
 "ex": "Leasing a car can cost less each month than buying."
 },
 {
-"en": "instructor",
-"uk": "інструктор",
-"band": "top-10k",
-"pos": "noun",
-"topics": "people",
-"ex": "My driving instructor is very patient."
-},
-{
 "en": "grand prix",
 "uk": "гран-прі",
 "band": "top-20k",
 "pos": "noun",
 "topics": "sport",
 "ex": "Thousands of fans came to watch the grand prix."
+},
+{
+"en": "auto",
+"uk": "авто",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He works in an auto repair shop."
+},
+{
+"en": "motor",
+"uk": "мотор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "The boat has a small motor at the back."
 }
 ]
 },
@@ -3635,28 +3787,12 @@
 "ex": "Press the accelerator gently when the light turns green."
 },
 {
-"en": "motor",
-"uk": "мотор",
-"band": "top-5000",
-"pos": "noun",
-"topics": "transport",
-"ex": "The boat has a small motor at the back."
-},
-{
 "en": "mechanic",
 "uk": "механік",
 "band": "top-10k",
 "pos": "noun",
 "topics": "people, transport",
 "ex": "The mechanic fixed my car in two hours."
-},
-{
-"en": "auto",
-"uk": "авто",
-"band": "top-10k",
-"pos": "noun",
-"topics": "transport",
-"ex": "He works in an auto repair shop."
 },
 {
 "en": "garage",
@@ -3769,44 +3905,12 @@
 "ex": "I need a phone holder for my car."
 },
 {
-"en": "gallon",
-"uk": "галон",
-"band": "top-10k",
-"pos": "noun",
-"topics": "units",
-"ex": "Gas costs four dollars a gallon."
-},
-{
 "en": "pickup",
 "uk": "пікап",
 "band": "top-10k",
 "pos": "noun",
 "topics": "transport",
 "ex": "He drives an old pickup to work every day."
-},
-{
-"en": "motel",
-"uk": "мотель",
-"band": "top-10k",
-"pos": "noun",
-"topics": "travel",
-"ex": "We stayed at a cheap motel on the highway."
-},
-{
-"en": "cheeseburger",
-"uk": "чизбургер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food",
-"ex": "I ordered a cheeseburger and fries."
-},
-{
-"en": "bourbon",
-"uk": "бурбон",
-"band": "top-10k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "He ordered a bourbon with ice at the bar."
 }
 ]
 },
@@ -3919,12 +4023,12 @@
 "ex": "Kyiv is full of tourists in the summer."
 },
 {
-"en": "voucher",
-"uk": "ваучер",
+"en": "travel agent",
+"uk": "тревел-агент",
 "band": "top-20k",
 "pos": "noun",
-"topics": "business, finance",
-"ex": "I got a fifty-dollar voucher for the store."
+"topics": "people, travel",
+"ex": "My travel agent books our hotels."
 }
 ]
 },
@@ -4050,6 +4154,22 @@
 "pos": "noun",
 "topics": "games, tech",
 "ex": "Pilots train in a flight simulator."
+},
+{
+"en": "aeroplane",
+"uk": "аероплан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The aeroplane landed safely in the storm."
+},
+{
+"en": "sonar",
+"uk": "сонар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, tech",
+"ex": "The submarine used sonar to find the ship."
 }
 ]
 },
@@ -4075,28 +4195,12 @@
 "level": "A2",
 "words": [
 {
-"en": "high-end",
-"uk": "хай-енд",
-"band": "top-20k",
-"pos": "adj",
-"topics": "tech",
-"ex": "This store only sells high-end phones and laptops."
-},
-{
 "en": "smartphone",
 "uk": "смартфон",
 "band": "top-10k",
 "pos": "noun",
 "topics": "tech",
 "ex": "Almost everyone has a smartphone these days."
-},
-{
-"en": "chip",
-"uk": "чип",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "This phone has a new, faster chip."
 },
 {
 "en": "camera",
@@ -4121,14 +4225,6 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "The touchscreen on my phone is cracked."
-},
-{
-"en": "display",
-"uk": "дисплей",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "The phone has a bright, clear display."
 },
 {
 "en": "sensor",
@@ -4169,6 +4265,14 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "He loves buying new kitchen gadgets."
+},
+{
+"en": "telephone",
+"uk": "телефон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The telephone rang in the middle of the night."
 }
 ]
 },
@@ -4230,14 +4334,6 @@
 "ex": "Send me a message, please."
 },
 {
-"en": "alert",
-"uk": "алерт",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "My phone shows an alert for every email."
-},
-{
 "en": "chat",
 "uk": "чат",
 "band": "top-10k",
@@ -4252,6 +4348,14 @@
 "pos": "noun",
 "topics": "tech, travel",
 "ex": "Turn off roaming to avoid big bills abroad."
+},
+{
+"en": "SMS",
+"uk": "СМС",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "I got an SMS with a code from my bank."
 }
 ]
 },
@@ -4333,14 +4437,6 @@
 "ex": "I can't open this file."
 },
 {
-"en": "disk",
-"uk": "диск",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Save the file to the disk before you close it."
-},
-{
 "en": "USB",
 "uk": "юесбі",
 "band": "top-20k",
@@ -4373,20 +4469,36 @@
 "ex": "The router needs a reset to work again."
 },
 {
-"en": "user",
-"uk": "юзер",
-"band": "top-3000",
-"pos": "noun",
-"topics": "tech",
-"ex": "The app has many users."
-},
-{
 "en": "shortcut",
 "uk": "шорткат",
 "band": "top-20k",
 "pos": "noun",
 "topics": "tech",
 "ex": "Press this keyboard shortcut to copy the text."
+},
+{
+"en": "upgrade",
+"uk": "апгрейд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My computer needs a memory upgrade."
+},
+{
+"en": "desktop",
+"uk": "десктоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use a desktop at work and a laptop at home."
+},
+{
+"en": "hardware",
+"uk": "хардвер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The problem is with the hardware, not the software."
 }
 ]
 },
@@ -4497,6 +4609,14 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "Can you send me the link, please?"
+},
+{
+"en": "user",
+"uk": "юзер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The app has many users."
 }
 ]
 },
@@ -4586,14 +4706,6 @@
 "ex": "Enter the code to open the door."
 },
 {
-"en": "SMS",
-"uk": "СМС",
-"band": "top-10k",
-"pos": "abbr",
-"topics": "tech",
-"ex": "I got an SMS with a code from my bank."
-},
-{
 "en": "screenshot",
 "uk": "скріншот",
 "band": "top-20k",
@@ -4616,6 +4728,30 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "Send me a scan of your passport, please."
+},
+{
+"en": "site",
+"uk": "сайт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I buy shoes on this site."
+},
+{
+"en": "web",
+"uk": "веб",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I found this recipe on the web."
+},
+{
+"en": "web browser",
+"uk": "веббраузер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Open the link in your web browser, please."
 }
 ]
 },
@@ -4743,6 +4879,14 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "I used the scanner to copy my passport."
+},
+{
+"en": "display",
+"uk": "дисплей",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The phone has a bright, clear display."
 }
 ]
 },
@@ -4808,14 +4952,6 @@
 "ex": "Our whole clan meets at my grandmother's every summer."
 },
 {
-"en": "admiral",
-"uk": "адмірал",
-"band": "top-5000",
-"pos": "noun",
-"topics": "military",
-"ex": "My grandfather was an admiral in the navy."
-},
-{
 "en": "pensioner",
 "uk": "пенсіонер",
 "band": "top-20k",
@@ -4824,44 +4960,12 @@
 "ex": "The pensioner lives alone in a small apartment."
 },
 {
-"en": "telephone",
-"uk": "телефон",
-"band": "top-3000",
-"pos": "noun",
-"topics": "tech",
-"ex": "The telephone rang in the middle of the night."
-},
-{
-"en": "millennial",
-"uk": "міленіал",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "Many millennials work from home now."
-},
-{
-"en": "boomer",
-"uk": "бумер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "My grandpa is a boomer, born in 1955."
-},
-{
 "en": "optimist",
 "uk": "оптиміст",
 "band": "top-20k",
 "pos": "noun",
 "topics": "people",
 "ex": "My dad is a true optimist about everything."
-},
-{
-"en": "gene",
-"uk": "ген",
-"band": "top-3000",
-"pos": "noun",
-"topics": "biology",
-"ex": "I think it's in my genes."
 },
 {
 "en": "placenta",
@@ -4886,6 +4990,22 @@
 "pos": "noun",
 "topics": "education, medicine",
 "ex": "She is in her second trimester of pregnancy."
+},
+{
+"en": "bro",
+"uk": "бро",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Thanks a lot, bro!"
+},
+{
+"en": "sis",
+"uk": "сіс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Hey sis, can you help me with my homework?"
 }
 ]
 },
@@ -4978,6 +5098,14 @@
 "pos": "noun",
 "topics": "other",
 "ex": "She paid me a nice compliment today."
+},
+{
+"en": "photo album",
+"uk": "фотоальбом",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We looked at old photos in the photo album."
 }
 ]
 },
@@ -5043,14 +5171,6 @@
 "ex": "We sat on the sofa and watched a movie."
 },
 {
-"en": "hall",
-"uk": "хол",
-"band": "top-5000",
-"pos": "noun",
-"topics": "home, places",
-"ex": "Please wait for me in the hall downstairs."
-},
-{
 "en": "decor",
 "uk": "декор",
 "band": "top-20k",
@@ -5065,14 +5185,6 @@
 "pos": "adj",
 "topics": "other",
 "ex": "We bought a mini fridge for our small kitchen."
-},
-{
-"en": "queen-size",
-"uk": "квін-сайз",
-"band": "top-20k",
-"pos": "adj",
-"topics": "home",
-"ex": "Our guest room has a queen-size bed."
 },
 {
 "en": "intercom",
@@ -5099,12 +5211,20 @@
 "ex": "For me, comfort is more important than style."
 },
 {
-"en": "meter",
-"uk": "метр",
-"band": "top-5000",
+"en": "penthouse",
+"uk": "пентхаус",
+"band": "top-20k",
 "pos": "noun",
-"topics": "units",
-"ex": "My room is about four meters long."
+"topics": "home",
+"ex": "They live in a penthouse with a city view."
+},
+{
+"en": "condominium",
+"uk": "кондомініум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, law",
+"ex": "They bought a condominium near the beach."
 }
 ]
 },
@@ -5160,14 +5280,6 @@
 "pos": "noun",
 "topics": "home",
 "ex": "Tighten the bolt with a wrench."
-},
-{
-"en": "millimeter",
-"uk": "міліметр",
-"band": "top-20k",
-"pos": "noun",
-"topics": "units",
-"ex": "The screw is five millimeters wide."
 },
 {
 "en": "mechanism",
@@ -5356,14 +5468,6 @@
 "ex": "We hired a cleaner to come twice a week."
 },
 {
-"en": "robot",
-"uk": "робот",
-"band": "top-3000",
-"pos": "noun",
-"topics": "tech",
-"ex": "Our robot cleans the floor every day."
-},
-{
 "en": "plastic",
 "uk": "пластик",
 "band": "top-5000",
@@ -5442,6 +5546,22 @@
 "pos": "noun",
 "topics": "other",
 "ex": "The fire alarm is very loud in our building."
+},
+{
+"en": "alert",
+"uk": "алерт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone shows an alert for every email."
+},
+{
+"en": "aerosol",
+"uk": "аерозоль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Don't use aerosol sprays near an open flame."
 }
 ]
 },
@@ -5507,14 +5627,6 @@
 "ex": "We buy flowers and seeds at the garden center."
 },
 {
-"en": "insecticide",
-"uk": "інсектицид",
-"band": "top-20k",
-"pos": "noun",
-"topics": "chemistry",
-"ex": "We sprayed insecticide on the roses in the garden."
-},
-{
 "en": "dahlia",
 "uk": "далія",
 "band": "top-20k",
@@ -5561,6 +5673,38 @@
 "pos": "noun",
 "topics": "home",
 "ex": "Turn on the sprinkler to water the lawn."
+},
+{
+"en": "chalet",
+"uk": "шале",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, travel",
+"ex": "We rented a wooden chalet in the mountains."
+},
+{
+"en": "bungalow",
+"uk": "бунгало",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "They live in a small bungalow by the sea."
+},
+{
+"en": "villa",
+"uk": "вілла",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home",
+"ex": "We rented a villa with a pool."
+},
+{
+"en": "patio",
+"uk": "патіо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "We ate dinner on the patio last night."
 }
 ]
 },
@@ -5615,30 +5759,6 @@
 "ex": "My brother keeps a green iguana as a pet."
 },
 {
-"en": "chihuahua",
-"uk": "чихуахуа",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "Her chihuahua fits in her bag."
-},
-{
-"en": "terrier",
-"uk": "тер'єр",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "Our terrier barks at every car that drives past."
-},
-{
-"en": "poodle",
-"uk": "пудель",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "Our neighbor walks her white poodle every morning."
-},
-{
 "en": "microchip",
 "uk": "мікрочип",
 "band": "top-20k",
@@ -5653,6 +5773,14 @@
 "pos": "noun",
 "topics": "emotions, people",
 "ex": "She has a calm temperament and rarely gets angry."
+},
+{
+"en": "carp",
+"uk": "карп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "He caught a big carp in the lake."
 }
 ]
 },
@@ -5708,22 +5836,6 @@
 "ex": "My grandma plays mahjong with friends."
 },
 {
-"en": "ping-pong",
-"uk": "пінг-понг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "games, sport",
-"ex": "We played ping-pong in the basement."
-},
-{
-"en": "joker",
-"uk": "джокер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "games",
-"ex": "In this game, the joker can replace any card."
-},
-{
 "en": "gambit",
 "uk": "гамбіт",
 "band": "top-20k",
@@ -5754,6 +5866,14 @@
 "pos": "noun",
 "topics": "other",
 "ex": "She reads her horoscope every morning with coffee."
+},
+{
+"en": "zodiac",
+"uk": "зодіак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "There are twelve signs in the zodiac."
 }
 ]
 },
@@ -5800,14 +5920,6 @@
 "pos": "noun",
 "topics": "people",
 "ex": "My son wants to dress up as a pirate."
-},
-{
-"en": "angel",
-"uk": "ангел",
-"band": "top-2000",
-"pos": "noun",
-"topics": "religion",
-"ex": "My little girl is an angel."
 },
 {
 "en": "monster",
@@ -5880,6 +5992,14 @@
 "pos": "noun",
 "topics": "people",
 "ex": "My son became a boy scout this year."
+},
+{
+"en": "buffoon",
+"uk": "буфон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He acted like a buffoon at the party."
 }
 ]
 },
@@ -6050,14 +6170,6 @@
 "ex": "The city holds an LGBT pride parade every June."
 },
 {
-"en": "stereotype",
-"uk": "стереотип",
-"band": "top-10k",
-"pos": "noun",
-"topics": "other",
-"ex": "That joke is based on an old stereotype."
-},
-{
 "en": "taboo",
 "uk": "табу",
 "band": "top-20k",
@@ -6072,6 +6184,14 @@
 "pos": "noun",
 "topics": "emotions",
 "ex": "Children should show respect to their teachers."
+},
+{
+"en": "gay",
+"uk": "гей",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Are there any gay bars near here?"
 }
 ]
 },
@@ -6103,14 +6223,6 @@
 "pos": "noun",
 "topics": "business, people",
 "ex": "She works as an event coordinator at a hotel."
-},
-{
-"en": "banquet",
-"uk": "бенкет",
-"band": "top-10k",
-"pos": "noun",
-"topics": "food",
-"ex": "The hotel hosted a big wedding banquet."
 },
 {
 "en": "catering",
@@ -6153,28 +6265,12 @@
 "ex": "I have to make a speech tomorrow."
 },
 {
-"en": "buffoon",
-"uk": "буфон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "He acted like a buffoon at the party."
-},
-{
 "en": "DJ",
 "uk": "діджей",
 "band": "top-5000",
 "pos": "noun",
 "topics": "music",
 "ex": "We hired a DJ for our wedding."
-},
-{
-"en": "waltz",
-"uk": "вальс",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "They danced a waltz at the wedding."
 },
 {
 "en": "millennium",
@@ -6221,14 +6317,6 @@
 "pos": "adj",
 "topics": "business",
 "ex": "I have a part-time job at a coffee shop."
-},
-{
-"en": "software engineer",
-"uk": "софтвер-інженер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, tech",
-"ex": "My brother works as a software engineer in Kyiv."
 },
 {
 "en": "recruiter",
@@ -6347,14 +6435,6 @@
 "ex": "Talk to HR about your vacation days."
 },
 {
-"en": "boss",
-"uk": "бос",
-"band": "top-1000",
-"pos": "noun",
-"topics": "people",
-"ex": "My boss is very nice."
-},
-{
 "en": "office manager",
 "uk": "офіс-менеджер",
 "band": "top-20k",
@@ -6401,6 +6481,14 @@
 "pos": "noun",
 "topics": "people",
 "ex": "Ask the system administrator for a new password."
+},
+{
+"en": "admin",
+"uk": "адмін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Ask the admin to reset your password."
 }
 ]
 },
@@ -6456,14 +6544,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "I have a meeting with a client at ten."
-},
-{
-"en": "manager",
-"uk": "менеджер",
-"band": "top-2000",
-"pos": "noun",
-"topics": "business, people",
-"ex": "Can I speak to the manager, please?"
 },
 {
 "en": "task",
@@ -6704,6 +6784,30 @@
 "pos": "noun",
 "topics": "other",
 "ex": "The good news gave me a boost."
+},
+{
+"en": "boss",
+"uk": "бос",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "My boss is very nice."
+},
+{
+"en": "manager",
+"uk": "менеджер",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Can I speak to the manager, please?"
+},
+{
+"en": "one-to-one",
+"uk": "ван-ту-ван",
+"band": "top-20k",
+"pos": "adj",
+"topics": "business",
+"ex": "The teacher offers one-to-one lessons for new students."
 }
 ]
 },
@@ -6725,14 +6829,6 @@
 ],
 "level": "A2",
 "words": [
-{
-"en": "sis",
-"uk": "сіс",
-"band": "top-10k",
-"pos": "noun",
-"topics": "people",
-"ex": "Hey sis, can you help me with my homework?"
-},
 {
 "en": "freelancer",
 "uk": "фрілансер",
@@ -6796,6 +6892,14 @@
 "pos": "noun",
 "topics": "business",
 "ex": "I need a better work-life balance this year."
+},
+{
+"en": "freelance",
+"uk": "фриланс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She started doing freelance work after she left the office."
 }
 ]
 },
@@ -6981,14 +7085,6 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "The boss gave him an ultimatum: work harder or leave."
-},
-{
-"en": "lackey",
-"uk": "лакей",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "He is just the boss's lackey."
 }
 ]
 },
@@ -7082,14 +7178,6 @@
 "pos": "noun",
 "topics": "other",
 "ex": "What was your motive for changing jobs?"
-},
-{
-"en": "freelance",
-"uk": "фриланс",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business",
-"ex": "She started doing freelance work after she left the office."
 }
 ]
 },
@@ -7182,6 +7270,22 @@
 "pos": "noun",
 "topics": "education",
 "ex": "I study at a technical institute."
+},
+{
+"en": "college",
+"uk": "коледж",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "I study at a college in Kyiv."
+},
+{
+"en": "curriculum",
+"uk": "курикулум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education",
+"ex": "Our school has a new science curriculum this year."
 }
 ]
 },
@@ -7207,28 +7311,12 @@
 "level": "A1",
 "words": [
 {
-"en": "course",
-"uk": "курс",
-"band": "top-2000",
-"pos": "noun",
-"topics": "education",
-"ex": "I'm taking an English course online."
-},
-{
 "en": "test",
 "uk": "тест",
 "band": "top-1000",
 "pos": "noun",
 "topics": "education",
 "ex": "I have a test today."
-},
-{
-"en": "minimum",
-"uk": "мінімум",
-"band": "top-5000",
-"pos": "noun",
-"topics": "math",
-"ex": "You need a minimum of two hours for this."
 },
 {
 "en": "text",
@@ -7411,6 +7499,14 @@
 "pos": "noun",
 "topics": "language",
 "ex": "The English translation lost some of the nuance."
+},
+{
+"en": "stereotype",
+"uk": "стереотип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "That joke is based on an old stereotype."
 }
 ]
 },
@@ -7443,14 +7539,6 @@
 "ex": "Algebra was my favorite subject in school."
 },
 {
-"en": "Mrs.",
-"uk": "місіс",
-"band": "top-2000",
-"pos": "noun",
-"topics": "people",
-"ex": "Is it Mrs. or Ms.?"
-},
-{
 "en": "method",
 "uk": "метод",
 "band": "top-2000",
@@ -7473,14 +7561,6 @@
 "pos": "noun",
 "topics": "chemistry, math",
 "ex": "Learn this formula for the test."
-},
-{
-"en": "pi",
-"uk": "пі",
-"band": "top-10k",
-"pos": "noun",
-"topics": "math",
-"ex": "The number pi is about 3.14."
 },
 {
 "en": "radius",
@@ -7521,6 +7601,14 @@
 "pos": "noun",
 "topics": "math",
 "ex": "Draw an oval on the paper."
+},
+{
+"en": "spiral",
+"uk": "спіраль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Draw a spiral on the paper."
 }
 ]
 },
@@ -7583,14 +7671,6 @@
 "ex": "Our company uses e-learning for safety training."
 },
 {
-"en": "one-to-one",
-"uk": "ван-ту-ван",
-"band": "top-20k",
-"pos": "adj",
-"topics": "business",
-"ex": "The teacher offers one-to-one lessons for new students."
-},
-{
 "en": "portal",
 "uk": "портал",
 "band": "top-10k",
@@ -7613,6 +7693,14 @@
 "pos": "noun",
 "topics": "education, finance",
 "ex": "I want to apply for a grant to study abroad."
+},
+{
+"en": "course",
+"uk": "курс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "education",
+"ex": "I'm taking an English course online."
 }
 ]
 },
@@ -7790,22 +7878,6 @@
 "pos": "noun",
 "topics": "biology, medicine",
 "ex": "The doctor says a nerve is damaged."
-},
-{
-"en": "tic",
-"uk": "тик",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "He has a nervous tic in his eye."
-},
-{
-"en": "mentor",
-"uk": "ментор",
-"band": "top-10k",
-"pos": "noun",
-"topics": "education, people",
-"ex": "My mentor helped me find my first job."
 }
 ]
 },
@@ -7836,14 +7908,6 @@
 "ex": "She earned her doctorate in biology."
 },
 {
-"en": "symposium",
-"uk": "симпозіум",
-"band": "top-20k",
-"pos": "noun",
-"topics": "education, science",
-"ex": "She gave a talk at a medical symposium last month."
-},
-{
 "en": "alma mater",
 "uk": "альма-матер",
 "band": "top-20k",
@@ -7866,14 +7930,6 @@
 "pos": "noun",
 "topics": "language",
 "ex": "Political discourse has become very angry lately."
-},
-{
-"en": "curriculum",
-"uk": "курикулум",
-"band": "top-10k",
-"pos": "noun",
-"topics": "education",
-"ex": "Our school has a new science curriculum this year."
 },
 {
 "en": "prestige",
@@ -7906,6 +7962,80 @@
 "pos": "adv",
 "topics": "other",
 "ex": "The store was closed; ergo, we went home without milk."
+}
+]
+},
+{
+"id": "f02",
+"part": "p08",
+"title": "Measuring everything at home",
+"scene": "Taras measures and weighs everything at home for a school project while Anna helps.",
+"anchors": [],
+"level": "A2",
+"words": [
+{
+"en": "kilo",
+"uk": "кіло",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "I bought a kilo of apples at the market."
+},
+{
+"en": "kilogram",
+"uk": "кілограм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The bag of rice weighs five kilograms."
+},
+{
+"en": "gram",
+"uk": "грам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Add two hundred grams of sugar."
+},
+{
+"en": "milligram",
+"uk": "міліграм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "Take one tablet of 500 milligrams twice a day."
+},
+{
+"en": "liter",
+"uk": "літр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "We need two liters of milk."
+},
+{
+"en": "meter",
+"uk": "метр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "My room is about four meters long."
+},
+{
+"en": "kilometer",
+"uk": "кілометр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "The station is two kilometers away."
+},
+{
+"en": "millimeter",
+"uk": "міліметр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The screw is five millimeters wide."
 }
 ]
 },
@@ -7960,36 +8090,12 @@
 "ex": "What symptoms do you have today?"
 },
 {
-"en": "virus",
-"uk": "вірус",
-"band": "top-3000",
-"pos": "noun",
-"topics": "medicine, tech",
-"ex": "I think I have a virus."
-},
-{
-"en": "antibiotic",
-"uk": "антибіотик",
-"band": "top-10k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "The doctor gave me antibiotics for my throat."
-},
-{
 "en": "aspirin",
 "uk": "аспірин",
 "band": "top-10k",
 "pos": "noun",
 "topics": "medicine",
 "ex": "I took an aspirin for my headache."
-},
-{
-"en": "milligram",
-"uk": "міліграм",
-"band": "top-20k",
-"pos": "noun",
-"topics": "units",
-"ex": "Take one tablet of 500 milligrams twice a day."
 },
 {
 "en": "effect",
@@ -8025,14 +8131,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "Please check in at the front office."
-},
-{
-"en": "anesthetic",
-"uk": "анестетик",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "The dentist gave me a local anesthetic before the filling."
 },
 {
 "en": "implant",
@@ -8175,22 +8273,6 @@
 "pos": "noun",
 "topics": "medicine",
 "ex": "My grandfather has a pacemaker in his chest."
-},
-{
-"en": "insulin",
-"uk": "інсулін",
-"band": "top-10k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "He takes insulin every day for diabetes."
-},
-{
-"en": "tremor",
-"uk": "тремор",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "He has a slight tremor in his hands."
 }
 ]
 },
@@ -8224,14 +8306,6 @@
 "ex": "I'm trying to have a healthier lifestyle this year."
 },
 {
-"en": "junk food",
-"uk": "джанк-фуд",
-"band": "top-10k",
-"pos": "noun",
-"topics": "food",
-"ex": "I try not to eat junk food every day."
-},
-{
 "en": "vitamin",
 "uk": "вітамін",
 "band": "top-10k",
@@ -8246,22 +8320,6 @@
 "pos": "noun",
 "topics": "food, science",
 "ex": "Fish like salmon is rich in omega-3."
-},
-{
-"en": "smoothie",
-"uk": "смузі",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "I have a banana smoothie for breakfast."
-},
-{
-"en": "blender",
-"uk": "блендер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "home",
-"ex": "I make smoothies in the blender every morning."
 },
 {
 "en": "detox",
@@ -8466,14 +8524,6 @@
 "ex": "The whole city was in lockdown for two months."
 },
 {
-"en": "pathogen",
-"uk": "патоген",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "A virus is a type of pathogen."
-},
-{
 "en": "influenza",
 "uk": "інфлюенца",
 "band": "top-20k",
@@ -8488,14 +8538,6 @@
 "pos": "noun",
 "topics": "medicine",
 "ex": "My grandfather is in the hospital with pneumonia."
-},
-{
-"en": "oxygen",
-"uk": "оксиген",
-"band": "top-5000",
-"pos": "noun",
-"topics": "chemistry",
-"ex": "We need oxygen to breathe and live."
 },
 {
 "en": "monitoring",
@@ -8583,14 +8625,6 @@
 "ex": "The nurse gave him morphine for the pain."
 },
 {
-"en": "adrenaline",
-"uk": "адреналін",
-"band": "top-10k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "I felt a rush of adrenaline before the race."
-},
-{
 "en": "pager",
 "uk": "пейджер",
 "band": "top-20k",
@@ -8621,6 +8655,14 @@
 "pos": "noun",
 "topics": "emotions, medicine",
 "ex": "She was in great distress after the bad news."
+},
+{
+"en": "medic",
+"uk": "медик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine, people",
+"ex": "The medic helped the injured soldier."
 }
 ]
 },
@@ -8840,6 +8882,30 @@
 "pos": "noun",
 "topics": "chemistry, medicine",
 "ex": "Amphetamine is a strong and dangerous drug."
+},
+{
+"en": "cannabis",
+"uk": "канабіс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine, nature",
+"ex": "Cannabis is legal in some countries now."
+},
+{
+"en": "ganja",
+"uk": "ганджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Police found ganja in his car."
+},
+{
+"en": "opium",
+"uk": "опіум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Opium is made from a kind of poppy."
 }
 ]
 },
@@ -8975,6 +9041,14 @@
 "pos": "noun",
 "topics": "media, sport",
 "ex": "Let's watch the replay of the goal again."
+},
+{
+"en": "fan",
+"uk": "фан",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "I am a big fan."
 }
 ]
 },
@@ -9088,12 +9162,20 @@
 "ex": "He works out every day to get a six-pack."
 },
 {
-"en": "steroid",
-"uk": "стероїд",
+"en": "instructor",
+"uk": "інструктор",
 "band": "top-10k",
 "pos": "noun",
-"topics": "medicine",
-"ex": "The athlete was banned for using steroids."
+"topics": "people",
+"ex": "My driving instructor is very patient."
+},
+{
+"en": "mentor",
+"uk": "ментор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education, people",
+"ex": "My mentor helped me find my first job."
 }
 ]
 },
@@ -9175,14 +9257,6 @@
 "ex": "She trained a year for her first triathlon."
 },
 {
-"en": "champion",
-"uk": "чемпіон",
-"band": "top-3000",
-"pos": "noun",
-"topics": "sport",
-"ex": "Who is the world champion now?"
-},
-{
 "en": "athlete",
 "uk": "атлет",
 "band": "top-5000",
@@ -9229,6 +9303,14 @@
 "pos": "noun",
 "topics": "sport",
 "ex": "The cyclist was banned for doping."
+},
+{
+"en": "steroid",
+"uk": "стероїд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The athlete was banned for using steroids."
 }
 ]
 },
@@ -9312,6 +9394,14 @@
 "pos": "noun",
 "topics": "people, sport",
 "ex": "The young gymnast landed her jump perfectly."
+},
+{
+"en": "senpai",
+"uk": "семпай",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "She asked her senpai for advice."
 }
 ]
 },
@@ -9431,6 +9521,14 @@
 "pos": "noun",
 "topics": "media",
 "ex": "Watch the highlights of last night's game."
+},
+{
+"en": "champion",
+"uk": "чемпіон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "sport",
+"ex": "Who is the world champion now?"
 }
 ]
 },
@@ -9679,12 +9777,12 @@
 "ex": "We went skydiving for my birthday last year."
 },
 {
-"en": "volleyball",
-"uk": "волейбол",
+"en": "canoe",
+"uk": "каное",
 "band": "top-10k",
 "pos": "noun",
-"topics": "sport",
-"ex": "We play volleyball on the beach every summer."
+"topics": "sport, transport",
+"ex": "We paddled the canoe across the lake."
 }
 ]
 },
@@ -9710,14 +9808,6 @@
 "level": "A2",
 "words": [
 {
-"en": "hip-hop",
-"uk": "хіп-хоп",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "My son listens to hip-hop every day."
-},
-{
 "en": "skateboarding",
 "uk": "скейтбординг",
 "band": "top-20k",
@@ -9734,14 +9824,6 @@
 "ex": "He rides his skateboard to school."
 },
 {
-"en": "mountain bike",
-"uk": "маунтенбайк",
-"band": "top-20k",
-"pos": "noun",
-"topics": "sport, transport",
-"ex": "I ride my mountain bike on forest trails."
-},
-{
 "en": "composite",
 "uk": "композит",
 "band": "top-20k",
@@ -9756,14 +9838,6 @@
 "pos": "noun",
 "topics": "nature, sport",
 "ex": "This trail goes up the mountain."
-},
-{
-"en": "biking",
-"uk": "байкінг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "sport",
-"ex": "We often go biking in the mountains in summer."
 },
 {
 "en": "snowboarding",
@@ -10022,6 +10096,22 @@
 "pos": "noun",
 "topics": "sport",
 "ex": "We often play badminton in the backyard in summer."
+},
+{
+"en": "ping-pong",
+"uk": "пінг-понг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, sport",
+"ex": "We played ping-pong in the basement."
+},
+{
+"en": "volleyball",
+"uk": "волейбол",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "We play volleyball on the beach every summer."
 }
 ]
 },
@@ -10054,28 +10144,12 @@
 "ex": "He plays bass in a rock band."
 },
 {
-"en": "rock",
-"uk": "рок",
-"band": "top-3000",
-"pos": "noun",
-"topics": "music",
-"ex": "Do you like rock or jazz?"
-},
-{
 "en": "band",
 "uk": "бенд",
 "band": "top-2000",
 "pos": "noun",
 "topics": "music",
 "ex": "What is your favorite band?"
-},
-{
-"en": "heavy metal",
-"uk": "хеві-метал",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "He plays guitar in a heavy metal band."
 },
 {
 "en": "drummer",
@@ -10132,6 +10206,14 @@
 "pos": "noun",
 "topics": "media",
 "ex": "The band recorded a demo in their garage."
+},
+{
+"en": "vocalist",
+"uk": "вокаліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, people",
+"ex": "The vocalist has a powerful voice."
 }
 ]
 },
@@ -10181,14 +10263,6 @@
 "ex": "Sorry, tonight's concert is completely sold out."
 },
 {
-"en": "premium",
-"uk": "преміум",
-"band": "top-10k",
-"pos": "adj",
-"topics": "business",
-"ex": "We bought premium tickets with better seats."
-},
-{
 "en": "intro",
 "uk": "інтро",
 "band": "top-20k",
@@ -10197,28 +10271,12 @@
 "ex": "The song has a long guitar intro."
 },
 {
-"en": "track",
-"uk": "трек",
-"band": "top-5000",
-"pos": "noun",
-"topics": "music, sport",
-"ex": "This is the best track on the album."
-},
-{
 "en": "album",
 "uk": "альбом",
 "band": "top-2000",
 "pos": "noun",
 "topics": "music",
 "ex": "Do you like their new album?"
-},
-{
-"en": "solo",
-"uk": "соло",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "She played a long guitar solo at the concert."
 },
 {
 "en": "vocal",
@@ -10259,6 +10317,14 @@
 "pos": "noun",
 "topics": "media, music",
 "ex": "I love going to live shows with my friends."
+},
+{
+"en": "merchandising",
+"uk": "мерчандайзинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works in merchandising for a big clothing store."
 }
 ]
 },
@@ -10323,14 +10389,6 @@
 "ex": "They played reggae on the beach all afternoon."
 },
 {
-"en": "electro",
-"uk": "електро",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "He plays electro at the club."
-},
-{
 "en": "rapper",
 "uk": "репер",
 "band": "top-10k",
@@ -10355,20 +10413,28 @@
 "ex": "The MC introduced each band on stage."
 },
 {
-"en": "vocalist",
-"uk": "вокаліст",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music, people",
-"ex": "The vocalist has a powerful voice."
-},
-{
-"en": "world music",
-"uk": "ворлд-мьюзік",
-"band": "top-20k",
+"en": "hip-hop",
+"uk": "хіп-хоп",
+"band": "top-10k",
 "pos": "noun",
 "topics": "music",
-"ex": "This radio station plays a lot of world music."
+"ex": "My son listens to hip-hop every day."
+},
+{
+"en": "fest",
+"uk": "фест",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The town has a music fest every summer."
+},
+{
+"en": "fiesta",
+"uk": "фієста",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The whole town came to the fiesta."
 }
 ]
 },
@@ -10399,14 +10465,6 @@
 "ex": "My dad loves listening to jazz in the evening."
 },
 {
-"en": "trio",
-"uk": "тріо",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "The jazz trio played at the cafe."
-},
-{
 "en": "blues",
 "uk": "блюз",
 "band": "top-10k",
@@ -10431,14 +10489,6 @@
 "ex": "My dad loves seventies funk music."
 },
 {
-"en": "saxophone",
-"uk": "саксофон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "He plays the saxophone in a jazz band."
-},
-{
 "en": "unison",
 "uk": "унісон",
 "band": "top-20k",
@@ -10461,14 +10511,6 @@
 "pos": "noun",
 "topics": "music",
 "ex": "Put a coin in the jukebox and choose a song."
-},
-{
-"en": "bongo",
-"uk": "бонго",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "He plays the bongos with his friends at the beach."
 }
 ]
 },
@@ -10561,6 +10603,38 @@
 "pos": "noun",
 "topics": "music",
 "ex": "She played a short piano sonata at the school concert."
+},
+{
+"en": "solo",
+"uk": "соло",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "She played a long guitar solo at the concert."
+},
+{
+"en": "duet",
+"uk": "дует",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "They sang a duet at the concert."
+},
+{
+"en": "duo",
+"uk": "дуо",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "The comedy duo performed on TV last night."
+},
+{
+"en": "trio",
+"uk": "тріо",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "The jazz trio played at the cafe."
 }
 ]
 },
@@ -10644,6 +10718,38 @@
 "pos": "noun",
 "topics": "music",
 "ex": "He hit the gong to start the class."
+},
+{
+"en": "saxophone",
+"uk": "саксофон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays the saxophone in a jazz band."
+},
+{
+"en": "banjo",
+"uk": "банджо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays the banjo in a bluegrass band."
+},
+{
+"en": "ukulele",
+"uk": "укулеле",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "I'm learning to play the ukulele."
+},
+{
+"en": "bongo",
+"uk": "бонго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays the bongos with his friends at the beach."
 }
 ]
 },
@@ -10735,6 +10841,14 @@
 "pos": "noun",
 "topics": "music",
 "ex": "They danced the mambo all night."
+},
+{
+"en": "waltz",
+"uk": "вальс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "They danced a waltz at the wedding."
 }
 ]
 },
@@ -10840,14 +10954,6 @@
 "ex": "My parents were hippies in the 1960s."
 },
 {
-"en": "banjo",
-"uk": "банджо",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "He plays the banjo in a bluegrass band."
-},
-{
 "en": "revival",
 "uk": "ревайвал",
 "band": "top-20k",
@@ -10870,6 +10976,46 @@
 "pos": "adj",
 "topics": "art",
 "ex": "She loves wearing retro clothes from the seventies."
+},
+{
+"en": "rock",
+"uk": "рок",
+"band": "top-3000",
+"pos": "noun",
+"topics": "music",
+"ex": "Do you like rock or jazz?"
+},
+{
+"en": "heavy metal",
+"uk": "хеві-метал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays guitar in a heavy metal band."
+},
+{
+"en": "punk rock",
+"uk": "панк-рок",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He played punk rock in high school."
+},
+{
+"en": "disk",
+"uk": "диск",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Save the file to the disk before you close it."
+},
+{
+"en": "disc",
+"uk": "диск",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Put the disc into the DVD player, please."
 }
 ]
 },
@@ -10907,14 +11053,6 @@
 "ex": "That was a mega party last night."
 },
 {
-"en": "mix",
-"uk": "мікс",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "The DJ played a great mix."
-},
-{
 "en": "techno",
 "uk": "техно",
 "band": "top-20k",
@@ -10947,12 +11085,12 @@
 "ex": "She plays synth in a rock band."
 },
 {
-"en": "punk rock",
-"uk": "панк-рок",
+"en": "electro",
+"uk": "електро",
 "band": "top-20k",
 "pos": "noun",
 "topics": "music",
-"ex": "He played punk rock in high school."
+"ex": "He plays electro at the club."
 }
 ]
 },
@@ -11008,14 +11146,6 @@
 "ex": "I want to work as a music producer."
 },
 {
-"en": "duet",
-"uk": "дует",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "They sang a duet at the concert."
-},
-{
 "en": "instrumental",
 "uk": "інструментал",
 "band": "top-20k",
@@ -11054,6 +11184,30 @@
 "pos": "noun",
 "topics": "music",
 "ex": "The title track is my favorite song on the album."
+},
+{
+"en": "world music",
+"uk": "ворлд-мьюзік",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "This radio station plays a lot of world music."
+},
+{
+"en": "track",
+"uk": "трек",
+"band": "top-5000",
+"pos": "noun",
+"topics": "music, sport",
+"ex": "This is the best track on the album."
+},
+{
+"en": "mix",
+"uk": "мікс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "The DJ played a great mix."
 }
 ]
 },
@@ -11173,6 +11327,14 @@
 "pos": "noun",
 "topics": "art",
 "ex": "Does your son have a talent for sports?"
+},
+{
+"en": "artiste",
+"uk": "артист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The artiste will perform at nine tonight."
 }
 ]
 },
@@ -11246,14 +11408,6 @@
 "ex": "We saw a great musical in the city theater."
 },
 {
-"en": "duo",
-"uk": "дуо",
-"band": "top-10k",
-"pos": "noun",
-"topics": "music",
-"ex": "The comedy duo performed on TV last night."
-},
-{
 "en": "matinee",
 "uk": "матіне",
 "band": "top-20k",
@@ -11270,22 +11424,6 @@
 "ex": "That joke was a total fail."
 },
 {
-"en": "gala",
-"uk": "гала",
-"band": "top-10k",
-"pos": "noun",
-"topics": "art",
-"ex": "She wore a long dress to the gala."
-},
-{
-"en": "artiste",
-"uk": "артист",
-"band": "top-20k",
-"pos": "noun",
-"topics": "art, people",
-"ex": "The artiste will perform at nine tonight."
-},
-{
 "en": "humor",
 "uk": "гумор",
 "band": "top-5000",
@@ -11300,6 +11438,22 @@
 "pos": "noun",
 "topics": "art",
 "ex": "The play is a funny farce about two brothers."
+},
+{
+"en": "music hall",
+"uk": "мюзик-хол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "They saw a show at the old music hall."
+},
+{
+"en": "fiasco",
+"uk": "фіаско",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The party was a total fiasco."
 }
 ]
 },
@@ -11427,6 +11581,14 @@
 "pos": "noun",
 "topics": "art",
 "ex": "This photo has very strong contrast."
+},
+{
+"en": "art critic",
+"uk": "арт-критик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The art critic praised the new exhibit."
 }
 ]
 },
@@ -11508,28 +11670,12 @@
 "ex": "The museum has a new show about the avant-garde."
 },
 {
-"en": "poster",
-"uk": "постер",
-"band": "top-5000",
-"pos": "noun",
-"topics": "art",
-"ex": "I have a movie poster on my bedroom wall."
-},
-{
 "en": "illustrator",
 "uk": "ілюстратор",
 "band": "top-20k",
 "pos": "noun",
 "topics": "art, people",
 "ex": "The illustrator drew all the pictures for this children's book."
-},
-{
-"en": "art critic",
-"uk": "арт-критик",
-"band": "top-20k",
-"pos": "noun",
-"topics": "art",
-"ex": "The art critic praised the new exhibit."
 },
 {
 "en": "design",
@@ -11562,6 +11708,14 @@
 "pos": "noun",
 "topics": "art",
 "ex": "The dress was dyed with indigo."
+},
+{
+"en": "facade",
+"uk": "фасад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The building has a beautiful stone facade."
 }
 ]
 },
@@ -11643,14 +11797,6 @@
 "ex": "My brother loves sci-fi movies about space travel."
 },
 {
-"en": "cyborg",
-"uk": "кіборг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "science, tech",
-"ex": "The movie is about a cyborg police officer."
-},
-{
 "en": "fantasy",
 "uk": "фентезі",
 "band": "top-10k",
@@ -11681,6 +11827,46 @@
 "pos": "noun",
 "topics": "media",
 "ex": "The summer blockbuster made millions."
+},
+{
+"en": "streaming",
+"uk": "стрімінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Streaming has replaced DVDs for most people."
+},
+{
+"en": "preview",
+"uk": "прев'ю",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched a preview of the new movie."
+},
+{
+"en": "promo",
+"uk": "промо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched the promo for the new show."
+},
+{
+"en": "spin-off",
+"uk": "спін-оф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "The popular show got its own spin-off last year."
+},
+{
+"en": "remake",
+"uk": "ремейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The remake is better than the original movie."
 }
 ]
 },
@@ -11770,36 +11956,12 @@
 "ex": "The movie has a funny gag about a dog."
 },
 {
-"en": "streaming",
-"uk": "стрімінг",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Streaming has replaced DVDs for most people."
-},
-{
 "en": "entertainment",
 "uk": "ентертейнмент",
 "band": "top-3000",
 "pos": "noun",
 "topics": "media",
 "ex": "Is there any entertainment for kids here?"
-},
-{
-"en": "promo",
-"uk": "промо",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "We watched the promo for the new show."
-},
-{
-"en": "clip",
-"uk": "кліп",
-"band": "top-10k",
-"pos": "noun",
-"topics": "media",
-"ex": "We watched a funny clip on the internet."
 },
 {
 "en": "segment",
@@ -11810,12 +11972,12 @@
 "ex": "The next segment of the show is about food."
 },
 {
-"en": "spin-off",
-"uk": "спін-оф",
+"en": "talent show",
+"uk": "талант-шоу",
 "band": "top-20k",
 "pos": "noun",
-"topics": "business, media",
-"ex": "The popular show got its own spin-off last year."
+"topics": "media",
+"ex": "Our school talent show is next Friday."
 }
 ]
 },
@@ -11905,14 +12067,6 @@
 "ex": "The movie starts with a flashback to his childhood."
 },
 {
-"en": "preview",
-"uk": "прев'ю",
-"band": "top-10k",
-"pos": "noun",
-"topics": "media",
-"ex": "We watched a preview of the new movie."
-},
-{
 "en": "footage",
 "uk": "футаж",
 "band": "top-5000",
@@ -11976,14 +12130,6 @@
 "ex": "We watched a movie at a drive-in."
 },
 {
-"en": "music hall",
-"uk": "мюзик-хол",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "They saw a show at the old music hall."
-},
-{
 "en": "noir",
 "uk": "нуар",
 "band": "top-20k",
@@ -12016,36 +12162,12 @@
 "ex": "She mostly listens to indie and some old rock."
 },
 {
-"en": "remake",
-"uk": "ремейк",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "The remake is better than the original movie."
-},
-{
 "en": "homage",
 "uk": "омаж",
 "band": "top-20k",
 "pos": "noun",
 "topics": "art",
 "ex": "The movie is an homage to old westerns."
-},
-{
-"en": "disc",
-"uk": "диск",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Put the disc into the DVD player, please."
-},
-{
-"en": "photo album",
-"uk": "фотоальбом",
-"band": "top-20k",
-"pos": "noun",
-"topics": "art",
-"ex": "We looked at old photos in the photo album."
 },
 {
 "en": "negative",
@@ -12103,14 +12225,6 @@
 "ex": "My son watches anime every evening."
 },
 {
-"en": "alter ego",
-"uk": "альтер его",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "His alter ego is a confident rock singer."
-},
-{
 "en": "superman",
 "uk": "супермен",
 "band": "top-20k",
@@ -12125,14 +12239,6 @@
 "pos": "noun",
 "topics": "media",
 "ex": "Chocolate is my kryptonite, so I never buy it."
-},
-{
-"en": "sociopath",
-"uk": "соціопат",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine, people",
-"ex": "The villain in the movie is a cold sociopath."
 },
 {
 "en": "minion",
@@ -12151,14 +12257,6 @@
 "ex": "The droid beeped and rolled away."
 },
 {
-"en": "ogre",
-"uk": "огр",
-"band": "top-20k",
-"pos": "noun",
-"topics": "other",
-"ex": "In the fairy tale, an ogre lives under the bridge."
-},
-{
 "en": "creepy",
 "uk": "кріпі",
 "band": "top-5000",
@@ -12175,14 +12273,6 @@
 "ex": "In old stories, vampires only come out at night."
 },
 {
-"en": "hobbit",
-"uk": "гобіт",
-"band": "top-20k",
-"pos": "noun",
-"topics": "art",
-"ex": "The hobbit lived in a small house under a hill."
-},
-{
 "en": "saga",
 "uk": "сага",
 "band": "top-10k",
@@ -12197,6 +12287,46 @@
 "pos": "noun",
 "topics": "people",
 "ex": "The movie is about a tribe of cannibals."
+},
+{
+"en": "android",
+"uk": "андроїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The movie is about an android that looks human."
+},
+{
+"en": "robot",
+"uk": "робот",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our robot cleans the floor every day."
+},
+{
+"en": "cyborg",
+"uk": "кіборг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science, tech",
+"ex": "The movie is about a cyborg police officer."
+},
+{
+"en": "lackey",
+"uk": "лакей",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is just the boss's lackey."
+},
+{
+"en": "manga",
+"uk": "манга",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "My son reads manga every night before bed."
 }
 ]
 },
@@ -12276,36 +12406,12 @@
 "ex": "He did a ten-hit combo and won the round."
 },
 {
-"en": "lag",
-"uk": "лаг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "There's too much lag in this online game tonight."
-},
-{
-"en": "IP",
-"uk": "айпі",
-"band": "top-20k",
-"pos": "abbr",
-"topics": "tech",
-"ex": "Every device on a network has an IP address."
-},
-{
 "en": "high score",
 "uk": "хайскор",
 "band": "top-20k",
 "pos": "noun",
 "topics": "games",
 "ex": "I finally beat my own high score last night."
-},
-{
-"en": "add-on",
-"uk": "аддон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "You can buy the add-on for five dollars."
 }
 ]
 },
@@ -12411,20 +12517,28 @@
 "ex": "The gameplay is fun and easy to learn."
 },
 {
-"en": "mod",
-"uk": "мод",
-"band": "top-20k",
-"pos": "noun",
-"topics": "games",
-"ex": "I downloaded a mod for my favorite game."
-},
-{
 "en": "avatar",
 "uk": "аватар",
 "band": "top-20k",
 "pos": "noun",
 "topics": "tech",
 "ex": "Choose an avatar for your profile."
+},
+{
+"en": "hobbit",
+"uk": "гобіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The hobbit lived in a small house under a hill."
+},
+{
+"en": "ogre",
+"uk": "огр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "In the fairy tale, an ogre lives under the bridge."
 }
 ]
 },
@@ -12535,6 +12649,14 @@
 "pos": "noun",
 "topics": "games",
 "ex": "We played pinball at the old arcade."
+},
+{
+"en": "joker",
+"uk": "джокер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "In this game, the joker can replace any card."
 }
 ]
 },
@@ -12568,14 +12690,6 @@
 "ex": "I read her travel blog every week."
 },
 {
-"en": "web",
-"uk": "веб",
-"band": "top-5000",
-"pos": "noun",
-"topics": "tech",
-"ex": "I found this recipe on the web."
-},
-{
 "en": "bio",
 "uk": "біо",
 "band": "top-10k",
@@ -12606,22 +12720,6 @@
 "pos": "noun",
 "topics": "media, tech",
 "ex": "She replied with a funny gif."
-},
-{
-"en": "post",
-"uk": "пост",
-"band": "top-2000",
-"pos": "noun",
-"topics": "media",
-"ex": "I liked your post about the trip."
-},
-{
-"en": "video clip",
-"uk": "відеокліп",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "He posted a funny video clip online."
 },
 {
 "en": "content",
@@ -12780,6 +12878,30 @@
 "pos": "noun",
 "topics": "media, music",
 "ex": "I made a playlist for the road trip."
+},
+{
+"en": "video clip",
+"uk": "відеокліп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "He posted a funny video clip online."
+},
+{
+"en": "clip",
+"uk": "кліп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "We watched a funny clip on the internet."
+},
+{
+"en": "post",
+"uk": "пост",
+"band": "top-2000",
+"pos": "noun",
+"topics": "media",
+"ex": "I liked your post about the trip."
 }
 ]
 },
@@ -12961,14 +13083,6 @@
 "ex": "Good storytelling keeps people listening until the end."
 },
 {
-"en": "reporter",
-"uk": "репортер",
-"band": "top-3000",
-"pos": "noun",
-"topics": "media, people",
-"ex": "I want to be a TV reporter."
-},
-{
 "en": "radio",
 "uk": "радіо",
 "band": "top-1000",
@@ -13022,14 +13136,6 @@
 "pos": "noun",
 "topics": "sport",
 "ex": "She was a finalist in the singing contest."
-},
-{
-"en": "talent show",
-"uk": "талант-шоу",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "Our school talent show is next Friday."
 },
 {
 "en": "scout",
@@ -13110,6 +13216,22 @@
 "pos": "noun",
 "topics": "people",
 "ex": "She asked the actor for his autograph."
+},
+{
+"en": "celebrity",
+"uk": "селебріті",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "We saw a celebrity at the airport."
+},
+{
+"en": "show business",
+"uk": "шоу-бізнес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "She has worked in show business for many years."
 }
 ]
 },
@@ -13229,6 +13351,38 @@
 "pos": "noun",
 "topics": "food",
 "ex": "We bought hot dogs at the snack bar."
+},
+{
+"en": "alligator",
+"uk": "алігатор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "We saw an alligator in the swamp."
+},
+{
+"en": "caiman",
+"uk": "кайман",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A caiman rested on the river bank."
+},
+{
+"en": "gibbon",
+"uk": "гібон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The gibbon swung from branch to branch."
+},
+{
+"en": "primate",
+"uk": "примат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Humans, apes, and monkeys are all primates."
 }
 ]
 },
@@ -13339,6 +13493,30 @@
 "pos": "noun",
 "topics": "medicine",
 "ex": "Please clean up your dog's excrement in the park."
+},
+{
+"en": "chihuahua",
+"uk": "чихуахуа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Her chihuahua fits in her bag."
+},
+{
+"en": "terrier",
+"uk": "тер'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our terrier barks at every car that drives past."
+},
+{
+"en": "poodle",
+"uk": "пудель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our neighbor walks her white poodle every morning."
 }
 ]
 },
@@ -13431,6 +13609,30 @@
 "pos": "noun",
 "topics": "biology",
 "ex": "This tree is a hybrid of two species."
+},
+{
+"en": "acre",
+"uk": "акр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "How many acres of land does your family have?"
+},
+{
+"en": "gallon",
+"uk": "галон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Gas costs four dollars a gallon."
+},
+{
+"en": "insecticide",
+"uk": "інсектицид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We sprayed insecticide on the roses in the garden."
 }
 ]
 },
@@ -13544,14 +13746,6 @@
 "ex": "The island has unique flora and fauna."
 },
 {
-"en": "canoe",
-"uk": "каное",
-"band": "top-10k",
-"pos": "noun",
-"topics": "sport, transport",
-"ex": "We paddled the canoe across the lake."
-},
-{
 "en": "quartz",
 "uk": "кварц",
 "band": "top-20k",
@@ -13574,6 +13768,14 @@
 "pos": "noun",
 "topics": "art",
 "ex": "From the top, we saw a panorama of the city."
+},
+{
+"en": "fauna",
+"uk": "фауна",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The island has rich flora and fauna."
 }
 ]
 },
@@ -13662,14 +13864,6 @@
 "ex": "Wild mustangs run across the plains."
 },
 {
-"en": "alligator",
-"uk": "алігатор",
-"band": "top-10k",
-"pos": "noun",
-"topics": "nature",
-"ex": "We saw an alligator in the swamp."
-},
-{
 "en": "cougar",
 "uk": "кугуар",
 "band": "top-20k",
@@ -13684,6 +13878,14 @@
 "pos": "noun",
 "topics": "nature",
 "ex": "We used hickory wood for the barbecue."
+},
+{
+"en": "puma",
+"uk": "пума",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A puma was seen near the hiking trail."
 }
 ]
 },
@@ -13738,14 +13940,6 @@
 "pos": "noun",
 "topics": "food, nature",
 "ex": "We grilled fresh mackerel for dinner."
-},
-{
-"en": "carp",
-"uk": "карп",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food, nature",
-"ex": "He caught a big carp in the lake."
 },
 {
 "en": "pelican",
@@ -13827,14 +14021,6 @@
 "ex": "The climate here is warm and dry."
 },
 {
-"en": "strike",
-"uk": "страйк",
-"band": "top-5000",
-"pos": "noun",
-"topics": "business, politics",
-"ex": "Is there a train strike tomorrow?"
-},
-{
 "en": "smog",
 "uk": "смог",
 "band": "top-20k",
@@ -13865,14 +14051,6 @@
 "pos": "noun",
 "topics": "chemistry",
 "ex": "Cows produce a lot of methane every day."
-},
-{
-"en": "dioxide",
-"uk": "діоксид",
-"band": "top-10k",
-"pos": "noun",
-"topics": "chemistry",
-"ex": "Plants take in carbon dioxide from the air."
 },
 {
 "en": "fracking",
@@ -13913,6 +14091,22 @@
 "pos": "noun",
 "topics": "other",
 "ex": "It often rains in this region."
+},
+{
+"en": "cyclone",
+"uk": "циклон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A strong cyclone hit the island last night."
+},
+{
+"en": "typhoon",
+"uk": "тайфун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A typhoon hit the coast last night."
 }
 ]
 },
@@ -13952,22 +14146,6 @@
 "pos": "noun",
 "topics": "nature",
 "ex": "The dodo was a bird that could not fly."
-},
-{
-"en": "primate",
-"uk": "примат",
-"band": "top-20k",
-"pos": "noun",
-"topics": "biology",
-"ex": "Humans, apes, and monkeys are all primates."
-},
-{
-"en": "gibbon",
-"uk": "гібон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "The gibbon swung from branch to branch."
 },
 {
 "en": "artifact",
@@ -14026,20 +14204,20 @@
 "ex": "Ants follow a pheromone trail to find food."
 },
 {
-"en": "fauna",
-"uk": "фауна",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "The island has rich flora and fauna."
-},
-{
 "en": "magma",
 "uk": "магма",
 "band": "top-20k",
 "pos": "noun",
 "topics": "nature, science",
 "ex": "Magma rises from deep under the ground."
+},
+{
+"en": "lava",
+"uk": "лава",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Hot lava flowed down the mountain."
 }
 ]
 },
@@ -14113,36 +14291,12 @@
 "ex": "We ate brie with crackers and grapes."
 },
 {
-"en": "bistro",
-"uk": "бістро",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food, places",
-"ex": "We had lunch at a small French bistro."
-},
-{
 "en": "beret",
 "uk": "берет",
 "band": "top-20k",
 "pos": "noun",
 "topics": "clothing",
 "ex": "She wore a red beret to the party."
-},
-{
-"en": "euro",
-"uk": "євро",
-"band": "top-5000",
-"pos": "noun",
-"topics": "business",
-"ex": "The museum ticket costs fifty euros."
-},
-{
-"en": "facade",
-"uk": "фасад",
-"band": "top-20k",
-"pos": "noun",
-"topics": "places",
-"ex": "The building has a beautiful stone facade."
 },
 {
 "en": "chateau",
@@ -14153,14 +14307,6 @@
 "ex": "We visited a beautiful chateau in France."
 },
 {
-"en": "cognac",
-"uk": "коньяк",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "He drinks a small glass of cognac after dinner."
-},
-{
 "en": "a la",
 "uk": "а-ля",
 "band": "top-20k",
@@ -14169,12 +14315,20 @@
 "ex": "She wore a red dress a la old movie stars."
 },
 {
-"en": "pinot noir",
-"uk": "піно нуар",
+"en": "Herr",
+"uk": "гер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Herr Schmidt is our new German teacher."
+},
+{
+"en": "Frau",
+"uk": "фрау",
 "band": "top-20k",
 "pos": "noun",
-"topics": "drinks",
-"ex": "Pinot noir goes well with salmon."
+"topics": "people",
+"ex": "Frau Müller is our German teacher."
 }
 ]
 },
@@ -14240,14 +14394,6 @@
 "ex": "We had coffee in the piazza."
 },
 {
-"en": "villa",
-"uk": "вілла",
-"band": "top-5000",
-"pos": "noun",
-"topics": "home",
-"ex": "We rented a villa with a pool."
-},
-{
 "en": "palace",
 "uk": "палац",
 "band": "top-3000",
@@ -14256,28 +14402,12 @@
 "ex": "We visited an old palace in the city."
 },
 {
-"en": "promenade",
-"uk": "променад",
-"band": "top-20k",
-"pos": "noun",
-"topics": "places",
-"ex": "We walked along the promenade by the sea."
-},
-{
 "en": "souvenir",
 "uk": "сувенір",
 "band": "top-10k",
 "pos": "noun",
 "topics": "travel",
 "ex": "I bought a mug as a souvenir."
-},
-{
-"en": "fiesta",
-"uk": "фієста",
-"band": "top-20k",
-"pos": "noun",
-"topics": "other",
-"ex": "The whole town came to the fiesta."
 },
 {
 "en": "chardonnay",
@@ -14302,6 +14432,22 @@
 "pos": "noun",
 "topics": "drinks",
 "ex": "We met friends at a small wine bar downtown."
+},
+{
+"en": "pinot",
+"uk": "піно",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered a glass of pinot with dinner."
+},
+{
+"en": "pinot noir",
+"uk": "піно нуар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "Pinot noir goes well with salmon."
 }
 ]
 },
@@ -14341,14 +14487,6 @@
 "ex": "Take a poncho in case it rains."
 },
 {
-"en": "jumper",
-"uk": "джемпер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "clothing",
-"ex": "She wore a warm wool jumper to school."
-},
-{
 "en": "fleece",
 "uk": "фліс",
 "band": "top-20k",
@@ -14363,14 +14501,6 @@
 "pos": "noun",
 "topics": "clothing",
 "ex": "She wrapped a shawl around her shoulders."
-},
-{
-"en": "sterling",
-"uk": "стерлінг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "In the UK, you pay for things in sterling."
 },
 {
 "en": "scone",
@@ -14397,12 +14527,12 @@
 "ex": "The painting sold for a hundred guineas long ago."
 },
 {
-"en": "constable",
-"uk": "констебль",
+"en": "cape",
+"uk": "кейп",
 "band": "top-10k",
 "pos": "noun",
-"topics": "law, people",
-"ex": "The constable asked us a few questions."
+"topics": "clothing",
+"ex": "I bought a warm wool cape for the autumn."
 }
 ]
 },
@@ -14428,54 +14558,6 @@
 "level": "B1",
 "words": [
 {
-"en": "Herr",
-"uk": "гер",
-"band": "top-10k",
-"pos": "noun",
-"topics": "people",
-"ex": "Herr Schmidt is our new German teacher."
-},
-{
-"en": "Frau",
-"uk": "фрау",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "Frau Müller is our German teacher."
-},
-{
-"en": "fest",
-"uk": "фест",
-"band": "top-20k",
-"pos": "noun",
-"topics": "other",
-"ex": "The town has a music fest every summer."
-},
-{
-"en": "cardigan",
-"uk": "кардиган",
-"band": "top-20k",
-"pos": "noun",
-"topics": "clothing",
-"ex": "She wore a warm cardigan over her dress."
-},
-{
-"en": "chalet",
-"uk": "шале",
-"band": "top-20k",
-"pos": "noun",
-"topics": "home, travel",
-"ex": "We rented a wooden chalet in the mountains."
-},
-{
-"en": "baron",
-"uk": "барон",
-"band": "top-10k",
-"pos": "noun",
-"topics": "people",
-"ex": "The baron lived in a large castle."
-},
-{
 "en": "echo",
 "uk": "ехо",
 "band": "top-10k",
@@ -14490,22 +14572,6 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "Switzerland is divided into twenty-six cantons."
-},
-{
-"en": "franc",
-"uk": "франк",
-"band": "top-10k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The Swiss franc is a very stable currency."
-},
-{
-"en": "krone",
-"uk": "крона",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The krone is the money in Denmark and Norway."
 },
 {
 "en": "fjord",
@@ -14626,20 +14692,36 @@
 "ex": "Omega is the last letter of the Greek alphabet."
 },
 {
-"en": "citadel",
-"uk": "цитадель",
-"band": "top-20k",
-"pos": "noun",
-"topics": "places",
-"ex": "The old citadel stands on a hill above the city."
-},
-{
 "en": "labyrinth",
 "uk": "лабіринт",
 "band": "top-20k",
 "pos": "noun",
 "topics": "places",
 "ex": "We got lost in the hedge labyrinth."
+},
+{
+"en": "pi",
+"uk": "пі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The number pi is about 3.14."
+},
+{
+"en": "beta",
+"uk": "бета",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The beta of the app is open to testers."
+},
+{
+"en": "delta",
+"uk": "дельта",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The river forms a delta near the sea."
 }
 ]
 },
@@ -14678,14 +14760,6 @@
 "ex": "We ate hot ramen on a cold night."
 },
 {
-"en": "manga",
-"uk": "манга",
-"band": "top-20k",
-"pos": "noun",
-"topics": "media",
-"ex": "My son reads manga every night before bed."
-},
-{
 "en": "kimono",
 "uk": "кімоно",
 "band": "top-20k",
@@ -14716,22 +14790,6 @@
 "pos": "noun",
 "topics": "other",
 "ex": "Good table etiquette is important at dinners."
-},
-{
-"en": "senpai",
-"uk": "семпай",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "She asked her senpai for advice."
-},
-{
-"en": "typhoon",
-"uk": "тайфун",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "A typhoon hit the coast last night."
 }
 ]
 },
@@ -14757,14 +14815,6 @@
 "level": "B1",
 "words": [
 {
-"en": "hostel",
-"uk": "хостел",
-"band": "top-10k",
-"pos": "noun",
-"topics": "travel",
-"ex": "We stayed in a cheap hostel in Rome."
-},
-{
 "en": "kimchi",
 "uk": "кімчі",
 "band": "top-20k",
@@ -14789,44 +14839,12 @@
 "ex": "We ordered pork bao for lunch."
 },
 {
-"en": "mandarin",
-"uk": "мандарин",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food",
-"ex": "She peeled a mandarin for her son."
-},
-{
-"en": "yuan",
-"uk": "юань",
-"band": "top-10k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The bag cost fifty yuan in Beijing."
-},
-{
-"en": "moped",
-"uk": "мопед",
-"band": "top-20k",
-"pos": "noun",
-"topics": "transport",
-"ex": "He rides a moped to work every day."
-},
-{
 "en": "dong",
 "uk": "донг",
 "band": "top-20k",
 "pos": "noun",
 "topics": "finance",
 "ex": "The dong is the currency of Vietnam."
-},
-{
-"en": "baht",
-"uk": "бат",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "This shirt costs two hundred baht."
 },
 {
 "en": "durian",
@@ -14961,6 +14979,14 @@
 "pos": "noun",
 "topics": "food, religion",
 "ex": "After the prayer, we received prasad."
+},
+{
+"en": "maharaja",
+"uk": "махараджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "history, people, politics",
+"ex": "The maharaja lived in a beautiful palace."
 }
 ]
 },
@@ -14994,22 +15020,6 @@
 "ex": "We bought spices and carpets at the bazaar."
 },
 {
-"en": "lira",
-"uk": "ліра",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "This coffee costs fifty lira in Istanbul."
-},
-{
-"en": "pasha",
-"uk": "паша",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, politics",
-"ex": "The pasha ruled the city for many years."
-},
-{
 "en": "sheikh",
 "uk": "шейх",
 "band": "top-10k",
@@ -15024,14 +15034,6 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "Dubai is one of the seven emirates."
-},
-{
-"en": "dinar",
-"uk": "динар",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The taxi to the hotel cost five dinars."
 },
 {
 "en": "oasis",
@@ -15058,14 +15060,6 @@
 "ex": "A scorpion was hiding in my shoe this morning."
 },
 {
-"en": "mullah",
-"uk": "мулла",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, religion",
-"ex": "The mullah led the prayers at the mosque."
-},
-{
 "en": "sphinx",
 "uk": "сфінкс",
 "band": "top-20k",
@@ -15074,20 +15068,12 @@
 "ex": "We saw the Great Sphinx in Egypt."
 },
 {
-"en": "delta",
-"uk": "дельта",
-"band": "top-10k",
-"pos": "noun",
-"topics": "nature",
-"ex": "The river forms a delta near the sea."
-},
-{
-"en": "amulet",
-"uk": "амулет",
+"en": "emir",
+"uk": "емір",
 "band": "top-20k",
 "pos": "noun",
-"topics": "religion",
-"ex": "She wore an amulet to protect her."
+"topics": "politics",
+"ex": "The emir welcomed the foreign guests."
 }
 ]
 },
@@ -15118,14 +15104,6 @@
 "pos": "noun",
 "topics": "travel",
 "ex": "We went on a safari in Kenya."
-},
-{
-"en": "travel agent",
-"uk": "тревел-агент",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, travel",
-"ex": "My travel agent books our hotels."
 },
 {
 "en": "equator",
@@ -15176,28 +15154,12 @@
 "ex": "Lions hunt on the African savanna."
 },
 {
-"en": "shilling",
-"uk": "шилінг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The bus ride costs fifty shillings."
-},
-{
 "en": "shea",
 "uk": "ші",
 "band": "top-20k",
 "pos": "noun",
 "topics": "nature",
 "ex": "This lotion is made with shea butter."
-},
-{
-"en": "rand",
-"uk": "ранд",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The rand is the currency of South Africa."
 }
 ]
 },
@@ -15223,38 +15185,6 @@
 "level": "B1",
 "words": [
 {
-"en": "amigo",
-"uk": "аміго",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people",
-"ex": "Hey amigo, how are you doing?"
-},
-{
-"en": "peso",
-"uk": "песо",
-"band": "top-10k",
-"pos": "noun",
-"topics": "finance",
-"ex": "The taxi ride cost two hundred pesos."
-},
-{
-"en": "tequila",
-"uk": "текіла",
-"band": "top-10k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "We ordered two shots of tequila with lime."
-},
-{
-"en": "margarita",
-"uk": "маргарита",
-"band": "top-20k",
-"pos": "noun",
-"topics": "drinks",
-"ex": "She ordered a margarita with salt on the rim."
-},
-{
 "en": "cactus",
 "uk": "кактус",
 "band": "top-20k",
@@ -15269,14 +15199,6 @@
 "pos": "noun",
 "topics": "nature",
 "ex": "The llama carried our bags up the mountain."
-},
-{
-"en": "puma",
-"uk": "пума",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "A puma was seen near the hiking trail."
 },
 {
 "en": "condor",
@@ -15301,14 +15223,6 @@
 "pos": "noun",
 "topics": "other",
 "ex": "He used a machete to cut through the thick jungle."
-},
-{
-"en": "caiman",
-"uk": "кайман",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "A caiman rested on the river bank."
 },
 {
 "en": "piranha",
@@ -15341,14 +15255,6 @@
 ],
 "level": "B1",
 "words": [
-{
-"en": "resort",
-"uk": "резорт",
-"band": "top-5000",
-"pos": "noun",
-"topics": "places, travel",
-"ex": "We stayed at a beach resort last summer."
-},
 {
 "en": "kangaroo",
 "uk": "кенгуру",
@@ -15390,22 +15296,6 @@
 "ex": "We ate fresh crab at the beach."
 },
 {
-"en": "bungalow",
-"uk": "бунгало",
-"band": "top-20k",
-"pos": "noun",
-"topics": "places",
-"ex": "They live in a small bungalow by the sea."
-},
-{
-"en": "cyclone",
-"uk": "циклон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "nature",
-"ex": "A strong cyclone hit the island last night."
-},
-{
 "en": "bikini",
 "uk": "бікіні",
 "band": "top-10k",
@@ -15428,22 +15318,6 @@
 "pos": "noun",
 "topics": "art",
 "ex": "A wooden tiki stood at the entrance of the bar."
-},
-{
-"en": "lava",
-"uk": "лава",
-"band": "top-10k",
-"pos": "noun",
-"topics": "nature",
-"ex": "Hot lava flowed down the mountain."
-},
-{
-"en": "ukulele",
-"uk": "укулеле",
-"band": "top-20k",
-"pos": "noun",
-"topics": "music",
-"ex": "I'm learning to play the ukulele."
 }
 ]
 },
@@ -15469,36 +15343,12 @@
 "level": "A2",
 "words": [
 {
-"en": "downtown",
-"uk": "даунтаун",
-"band": "top-5000",
-"pos": "noun",
-"topics": "places",
-"ex": "We live about ten minutes from downtown."
-},
-{
-"en": "boulevard",
-"uk": "бульвар",
-"band": "top-10k",
-"pos": "noun",
-"topics": "travel",
-"ex": "We walked down the wide boulevard after dinner."
-},
-{
 "en": "Chinatown",
 "uk": "чайна-таун",
 "band": "top-20k",
 "pos": "noun",
 "topics": "places",
 "ex": "We had dumplings in Chinatown last night."
-},
-{
-"en": "billboard",
-"uk": "білборд",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business, media",
-"ex": "There is a big billboard on the highway."
 },
 {
 "en": "bagel",
@@ -15517,22 +15367,6 @@
 "ex": "Can I have a bagel with cream cheese, please?"
 },
 {
-"en": "French toast",
-"uk": "френч-тост",
-"band": "top-20k",
-"pos": "noun",
-"topics": "food",
-"ex": "I make French toast with eggs, milk, and bread."
-},
-{
-"en": "brunch",
-"uk": "бранч",
-"band": "top-10k",
-"pos": "noun",
-"topics": "food",
-"ex": "Let's meet for brunch on Sunday."
-},
-{
 "en": "steak",
 "uk": "стейк",
 "band": "top-5000",
@@ -15547,22 +15381,6 @@
 "pos": "noun",
 "topics": "food, nature",
 "ex": "We ate fresh lobster at a seaside restaurant."
-},
-{
-"en": "dime",
-"uk": "дайм",
-"band": "top-10k",
-"pos": "noun",
-"topics": "finance",
-"ex": "I found a dime under the couch cushion."
-},
-{
-"en": "penthouse",
-"uk": "пентхаус",
-"band": "top-20k",
-"pos": "noun",
-"topics": "home",
-"ex": "They live in a penthouse with a city view."
 }
 ]
 },
@@ -15690,6 +15508,22 @@
 "pos": "noun",
 "topics": "business",
 "ex": "The company is the main distributor in the region."
+},
+{
+"en": "businesswoman",
+"uk": "бізнесвумен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "My aunt is a successful businesswoman."
+},
+{
+"en": "dealer",
+"uk": "дилер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business",
+"ex": "I bought my car from a local dealer."
 }
 ]
 },
@@ -15817,6 +15651,14 @@
 "pos": "noun",
 "topics": "people",
 "ex": "He was a great innovator in medicine."
+},
+{
+"en": "joint venture",
+"uk": "джойнт-венчур",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The two companies started a joint venture in Poland."
 }
 ]
 },
@@ -15930,14 +15772,6 @@
 "ex": "The new phone scored high on the benchmark."
 },
 {
-"en": "merchandising",
-"uk": "мерчандайзинг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business",
-"ex": "She works in merchandising for a big clothing store."
-},
-{
 "en": "promotion",
 "uk": "промоушн",
 "band": "top-10k",
@@ -15952,6 +15786,30 @@
 "pos": "noun",
 "topics": "business, tech",
 "ex": "Our landing page shows the price and a sign-up button."
+},
+{
+"en": "workshop",
+"uk": "воркшоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, education",
+"ex": "I signed up for a free writing workshop."
+},
+{
+"en": "symposium",
+"uk": "симпозіум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, science",
+"ex": "She gave a talk at a medical symposium last month."
+},
+{
+"en": "email marketing",
+"uk": "імейл-маркетинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Our shop uses email marketing to tell customers about sales."
 }
 ]
 },
@@ -15991,14 +15849,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "The CEO gave the keynote at the conference."
-},
-{
-"en": "businesswoman",
-"uk": "бізнесвумен",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business, people",
-"ex": "My aunt is a successful businesswoman."
 },
 {
 "en": "product manager",
@@ -16049,28 +15899,12 @@
 "ex": "Her first novel became a bestseller."
 },
 {
-"en": "PR",
-"uk": "піар",
-"band": "top-10k",
-"pos": "abbr",
-"topics": "business, media",
-"ex": "The company hired a firm to handle PR."
-},
-{
 "en": "press release",
 "uk": "прес-реліз",
 "band": "top-10k",
 "pos": "noun",
 "topics": "business",
 "ex": "The company sent out a press release about the new phone."
-},
-{
-"en": "email marketing",
-"uk": "імейл-маркетинг",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business",
-"ex": "Our shop uses email marketing to tell customers about sales."
 },
 {
 "en": "high-tech",
@@ -16081,20 +15915,28 @@
 "ex": "My sister has worked in high-tech for ten years."
 },
 {
-"en": "android",
-"uk": "андроїд",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "The movie is about an android that looks human."
-},
-{
 "en": "high tech",
 "uk": "хайтек",
 "band": "top-20k",
 "pos": "noun",
 "topics": "tech",
 "ex": "She wants to find a job in high tech."
+},
+{
+"en": "poster",
+"uk": "постер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "I have a movie poster on my bedroom wall."
+},
+{
+"en": "billboard",
+"uk": "білборд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "There is a big billboard on the highway."
 }
 ]
 },
@@ -16214,14 +16056,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "The company is a major importer of coffee."
-},
-{
-"en": "joint venture",
-"uk": "джойнт-венчур",
-"band": "top-10k",
-"pos": "noun",
-"topics": "business",
-"ex": "The two companies started a joint venture in Poland."
 },
 {
 "en": "conveyor",
@@ -16357,6 +16191,14 @@
 "pos": "noun",
 "topics": "business, finance",
 "ex": "My sister works in asset management at a big bank."
+},
+{
+"en": "broker-dealer",
+"uk": "брокер-дилер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "A broker-dealer buys and sells stocks for its clients."
 }
 ]
 },
@@ -16397,14 +16239,6 @@
 "ex": "A consortium of banks paid for the project."
 },
 {
-"en": "condominium",
-"uk": "кондомініум",
-"band": "top-20k",
-"pos": "noun",
-"topics": "home, law",
-"ex": "They bought a condominium near the beach."
-},
-{
 "en": "banking",
 "uk": "банкінг",
 "band": "top-10k",
@@ -16443,14 +16277,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "We keep some money in reserve."
-},
-{
-"en": "rebate",
-"uk": "ребейт",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "We got a fifty-dollar rebate on the TV."
 },
 {
 "en": "auditor",
@@ -16532,14 +16358,6 @@
 "ex": "The country's debt is over a trillion dollars."
 },
 {
-"en": "ruble",
-"uk": "рубль",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "One ruble is worth very little today."
-},
-{
 "en": "default",
 "uk": "дефолт",
 "band": "top-20k",
@@ -16556,14 +16374,6 @@
 "ex": "An insider told reporters about the secret plan."
 },
 {
-"en": "cartel",
-"uk": "картель",
-"band": "top-10k",
-"pos": "noun",
-"topics": "business",
-"ex": "The police arrested leaders of a drug cartel."
-},
-{
 "en": "risk management",
 "uk": "ризик-менеджмент",
 "band": "top-10k",
@@ -16572,20 +16382,20 @@
 "ex": "She works in risk management at an insurance company."
 },
 {
-"en": "broker-dealer",
-"uk": "брокер-дилер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "finance",
-"ex": "A broker-dealer buys and sells stocks for its clients."
-},
-{
 "en": "tax-free",
 "uk": "такс-фрі",
 "band": "top-20k",
 "pos": "adj",
 "topics": "business",
 "ex": "You can buy tax-free goods at the airport."
+},
+{
+"en": "million",
+"uk": "мільйон",
+"band": "top-1000",
+"pos": "num",
+"topics": "math",
+"ex": "Kyiv has about three million people."
 }
 ]
 },
@@ -16666,14 +16476,6 @@
 "ex": "He has business interests in three countries."
 },
 {
-"en": "show business",
-"uk": "шоу-бізнес",
-"band": "top-20k",
-"pos": "noun",
-"topics": "business, media",
-"ex": "She has worked in show business for many years."
-},
-{
 "en": "box office",
 "uk": "бокс-офіс",
 "band": "top-10k",
@@ -16696,6 +16498,22 @@
 "pos": "noun",
 "topics": "finance",
 "ex": "The university has a large endowment."
+},
+{
+"en": "banquet",
+"uk": "бенкет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "The hotel hosted a big wedding banquet."
+},
+{
+"en": "gala",
+"uk": "гала",
+"band": "top-10k",
+"pos": "noun",
+"topics": "art",
+"ex": "She wore a long dress to the gala."
 }
 ]
 },
@@ -16735,14 +16553,6 @@
 "pos": "noun",
 "topics": "business",
 "ex": "She works in management consulting."
-},
-{
-"en": "workshop",
-"uk": "воркшоп",
-"band": "top-10k",
-"pos": "noun",
-"topics": "business, education",
-"ex": "I signed up for a free writing workshop."
 },
 {
 "en": "business center",
@@ -16815,6 +16625,112 @@
 "pos": "noun",
 "topics": "business, people",
 "ex": "As a middle manager, she leads a team of ten."
+}
+]
+},
+{
+"id": "f01",
+"part": "p15",
+"title": "Grandpa's coin collection",
+"scene": "Grandpa shows Anna and Taras his old box of coins and notes from many countries.",
+"anchors": [],
+"level": "A2",
+"words": [
+{
+"en": "euro",
+"uk": "євро",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "The museum ticket costs fifty euros."
+},
+{
+"en": "sterling",
+"uk": "стерлінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "In the UK, you pay for things in sterling."
+},
+{
+"en": "franc",
+"uk": "франк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The Swiss franc is a very stable currency."
+},
+{
+"en": "krone",
+"uk": "крона",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The krone is the money in Denmark and Norway."
+},
+{
+"en": "yuan",
+"uk": "юань",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The bag cost fifty yuan in Beijing."
+},
+{
+"en": "baht",
+"uk": "бат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "This shirt costs two hundred baht."
+},
+{
+"en": "lira",
+"uk": "ліра",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "This coffee costs fifty lira in Istanbul."
+},
+{
+"en": "dinar",
+"uk": "динар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The taxi to the hotel cost five dinars."
+},
+{
+"en": "shilling",
+"uk": "шилінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The bus ride costs fifty shillings."
+},
+{
+"en": "rand",
+"uk": "ранд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The rand is the currency of South Africa."
+},
+{
+"en": "peso",
+"uk": "песо",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The taxi ride cost two hundred pesos."
+},
+{
+"en": "ruble",
+"uk": "рубль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "One ruble is worth very little today."
 }
 ]
 },
@@ -17006,14 +16922,6 @@
 "ex": "My grandfather is a war veteran."
 },
 {
-"en": "lymphoma",
-"uk": "лімфома",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "He was diagnosed with lymphoma last year."
-},
-{
 "en": "advocacy",
 "uk": "адвокасі",
 "band": "top-20k",
@@ -17036,14 +16944,6 @@
 "pos": "adj",
 "topics": "art",
 "ex": "She sells handmade jewelry on her website."
-},
-{
-"en": "memorial",
-"uk": "меморіал",
-"band": "top-10k",
-"pos": "noun",
-"topics": "places",
-"ex": "They built a memorial for the soldiers."
 },
 {
 "en": "heroism",
@@ -17187,6 +17087,22 @@
 "pos": "noun",
 "topics": "people",
 "ex": "Many migrants crossed the border last year."
+},
+{
+"en": "boomer",
+"uk": "бумер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My grandpa is a boomer, born in 1955."
+},
+{
+"en": "millennial",
+"uk": "міленіал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Many millennials work from home now."
 }
 ]
 },
@@ -17473,6 +17389,30 @@
 "pos": "noun",
 "topics": "law, politics",
 "ex": "The impeachment trial lasted three weeks."
+},
+{
+"en": "congress",
+"uk": "конгрес",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I am going to a medical congress in May."
+},
+{
+"en": "congressman",
+"uk": "конгресмен",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The congressman met with voters in our town."
+},
+{
+"en": "congresswoman",
+"uk": "конгрес-вумен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The congresswoman visited our school last week."
 }
 ]
 },
@@ -17552,46 +17492,6 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "The government placed an embargo on oil imports."
-},
-{
-"en": "emir",
-"uk": "емір",
-"band": "top-20k",
-"pos": "noun",
-"topics": "politics",
-"ex": "The emir welcomed the foreign guests."
-},
-{
-"en": "sovereign",
-"uk": "суверен",
-"band": "top-20k",
-"pos": "noun",
-"topics": "politics",
-"ex": "The sovereign opened the new session of parliament."
-},
-{
-"en": "congressman",
-"uk": "конгресмен",
-"band": "top-10k",
-"pos": "noun",
-"topics": "people, politics",
-"ex": "The congressman met with voters in our town."
-},
-{
-"en": "congresswoman",
-"uk": "конгрес-вумен",
-"band": "top-20k",
-"pos": "noun",
-"topics": "politics",
-"ex": "The congresswoman visited our school last week."
-},
-{
-"en": "congress",
-"uk": "конгрес",
-"band": "top-3000",
-"pos": "noun",
-"topics": "politics",
-"ex": "I am going to a medical congress in May."
 },
 {
 "en": "veto",
@@ -17727,6 +17627,14 @@
 "pos": "noun",
 "topics": "language",
 "ex": "That's complete nonsense!"
+},
+{
+"en": "strike",
+"uk": "страйк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, politics",
+"ex": "Is there a train strike tomorrow?"
 }
 ]
 },
@@ -17782,14 +17690,6 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "The school has a program to fight homophobia."
-},
-{
-"en": "gay",
-"uk": "гей",
-"band": "top-2000",
-"pos": "noun",
-"topics": "people",
-"ex": "Are there any gay bars near here?"
 },
 {
 "en": "pro-choice",
@@ -17949,14 +17849,6 @@
 "ex": "He was a strong anti-communist all his life."
 },
 {
-"en": "comrade",
-"uk": "камрад",
-"band": "top-5000",
-"pos": "noun",
-"topics": "politics",
-"ex": "I met my old army comrades last summer."
-},
-{
 "en": "liberalism",
 "uk": "лібералізм",
 "band": "top-20k",
@@ -18106,6 +17998,22 @@
 "pos": "noun",
 "topics": "media",
 "ex": "I read the morning news digest on my phone."
+},
+{
+"en": "reporter",
+"uk": "репортер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "media, people",
+"ex": "I want to be a TV reporter."
+},
+{
+"en": "PR",
+"uk": "піар",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "business, media",
+"ex": "The company hired a firm to handle PR."
 }
 ]
 },
@@ -18257,6 +18165,30 @@
 "pos": "noun",
 "topics": "military",
 "ex": "The adjutant gave the general's orders to the troops."
+},
+{
+"en": "admiral",
+"uk": "адмірал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "My grandfather was an admiral in the navy."
+},
+{
+"en": "commodore",
+"uk": "комодор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The commodore gave orders to the fleet."
+},
+{
+"en": "commandant",
+"uk": "комендант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The commandant of the base gave new orders."
 }
 ]
 },
@@ -18337,14 +18269,6 @@
 "ex": "He visited on the pretext of borrowing sugar."
 },
 {
-"en": "ganja",
-"uk": "ганджа",
-"band": "top-20k",
-"pos": "noun",
-"topics": "other",
-"ex": "Police found ganja in his car."
-},
-{
 "en": "dossier",
 "uk": "досьє",
 "band": "top-20k",
@@ -18375,6 +18299,30 @@
 "pos": "noun",
 "topics": "people",
 "ex": "Soccer hooligans fought outside the stadium after the game."
+},
+{
+"en": "policeman",
+"uk": "полісмен",
+"band": "top-5000",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Excuse me, where can I find a policeman?"
+},
+{
+"en": "constable",
+"uk": "констебль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law, people",
+"ex": "The constable asked us a few questions."
+},
+{
+"en": "sheriff",
+"uk": "шериф",
+"band": "top-3000",
+"pos": "noun",
+"topics": "law",
+"ex": "I like old movies about sheriffs."
 }
 ]
 },
@@ -18575,22 +18523,6 @@
 "ex": "Human trafficking is a serious crime in every country."
 },
 {
-"en": "cannabis",
-"uk": "канабіс",
-"band": "top-10k",
-"pos": "noun",
-"topics": "medicine, nature",
-"ex": "Cannabis is legal in some countries now."
-},
-{
-"en": "opium",
-"uk": "опіум",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "Opium is made from a kind of poppy."
-},
-{
 "en": "syndicate",
 "uk": "синдикат",
 "band": "top-20k",
@@ -18637,6 +18569,22 @@
 "pos": "noun",
 "topics": "military",
 "ex": "The police found a small caliber bullet at the scene."
+},
+{
+"en": "revolver",
+"uk": "револьвер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The detective always carried a revolver in his coat."
+},
+{
+"en": "cartel",
+"uk": "картель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The police arrested leaders of a drug cartel."
 }
 ]
 },
@@ -18763,6 +18711,14 @@
 "pos": "noun",
 "topics": "biology",
 "ex": "Some animals practice cannibalism when there is little food."
+},
+{
+"en": "sociopath",
+"uk": "соціопат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, people",
+"ex": "The villain in the movie is a cold sociopath."
 }
 ]
 },
@@ -18844,30 +18800,6 @@
 "ex": "The country has a large nuclear arsenal."
 },
 {
-"en": "commandant",
-"uk": "комендант",
-"band": "top-20k",
-"pos": "noun",
-"topics": "military",
-"ex": "The commandant of the base gave new orders."
-},
-{
-"en": "medic",
-"uk": "медик",
-"band": "top-10k",
-"pos": "noun",
-"topics": "medicine, people",
-"ex": "The medic helped the injured soldier."
-},
-{
-"en": "sonar",
-"uk": "сонар",
-"band": "top-20k",
-"pos": "noun",
-"topics": "military, tech",
-"ex": "The submarine used sonar to find the ship."
-},
-{
 "en": "aggressor",
 "uk": "агресор",
 "band": "top-20k",
@@ -18923,14 +18855,6 @@
 "level": "B1",
 "words": [
 {
-"en": "hardware",
-"uk": "хардвер",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "The problem is with the hardware, not the software."
-},
-{
 "en": "manual",
 "uk": "мануал",
 "band": "top-10k",
@@ -18963,14 +18887,6 @@
 "ex": "Put the card into the slot."
 },
 {
-"en": "upgrade",
-"uk": "апгрейд",
-"band": "top-10k",
-"pos": "noun",
-"topics": "tech",
-"ex": "My computer needs a memory upgrade."
-},
-{
 "en": "input",
 "uk": "інпут",
 "band": "top-20k",
@@ -18985,14 +18901,6 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "Check the output of the program for errors."
-},
-{
-"en": "buffer",
-"uk": "буфер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Data waits in a buffer before it is sent."
 },
 {
 "en": "prototype",
@@ -19019,12 +18927,12 @@
 "ex": "One byte is made up of eight bits."
 },
 {
-"en": "desktop",
-"uk": "десктоп",
-"band": "top-20k",
+"en": "chip",
+"uk": "чип",
+"band": "top-10k",
 "pos": "noun",
 "topics": "tech",
-"ex": "I use a desktop at work and a laptop at home."
+"ex": "This phone has a new, faster chip."
 }
 ]
 },
@@ -19138,12 +19046,28 @@
 "ex": "The app uses a free weather API."
 },
 {
-"en": "beta",
-"uk": "бета",
+"en": "software engineer",
+"uk": "софтвер-інженер",
 "band": "top-20k",
 "pos": "noun",
-"topics": "science",
-"ex": "The beta of the app is open to testers."
+"topics": "people, tech",
+"ex": "My brother works as a software engineer in Kyiv."
+},
+{
+"en": "add-on",
+"uk": "аддон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "You can buy the add-on for five dollars."
+},
+{
+"en": "mod",
+"uk": "мод",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "I downloaded a mod for my favorite game."
 }
 ]
 },
@@ -19185,14 +19109,6 @@
 "ex": "We pay for website hosting every year."
 },
 {
-"en": "web server",
-"uk": "вебсервер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Our website runs on a fast web server."
-},
-{
 "en": "web design",
 "uk": "вебдизайн",
 "band": "top-20k",
@@ -19231,14 +19147,6 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "This photo is 1,000 pixels wide and 600 pixels tall."
-},
-{
-"en": "web browser",
-"uk": "веббраузер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Open the link in your web browser, please."
 },
 {
 "en": "rendering",
@@ -19293,14 +19201,6 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "The company built a new data center in Texas."
-},
-{
-"en": "admin",
-"uk": "адмін",
-"band": "top-20k",
-"pos": "noun",
-"topics": "tech",
-"ex": "Ask the admin to reset your password."
 },
 {
 "en": "server",
@@ -19373,6 +19273,38 @@
 "pos": "noun",
 "topics": "tech",
 "ex": "My ping is too high to play online."
+},
+{
+"en": "web server",
+"uk": "вебсервер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our website runs on a fast web server."
+},
+{
+"en": "buffer",
+"uk": "буфер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Data waits in a buffer before it is sent."
+},
+{
+"en": "IP",
+"uk": "айпі",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Every device on a network has an IP address."
+},
+{
+"en": "lag",
+"uk": "лаг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "There's too much lag in this online game tonight."
 }
 ]
 },
@@ -19476,14 +19408,6 @@
 "pos": "noun",
 "topics": "math",
 "ex": "There are clear parallels between these two stories."
-},
-{
-"en": "spiral",
-"uk": "спіраль",
-"band": "top-20k",
-"pos": "noun",
-"topics": "math",
-"ex": "Draw a spiral on the paper."
 },
 {
 "en": "quadrant",
@@ -19610,6 +19534,14 @@
 "pos": "noun",
 "topics": "science",
 "ex": "After the factory closed, the town was in stasis for years."
+},
+{
+"en": "neutrino",
+"uk": "нейтрино",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A neutrino can pass right through the whole Earth."
 }
 ]
 },
@@ -19842,20 +19774,36 @@
 "ex": "Pencil lead is actually made of graphite."
 },
 {
-"en": "meteorite",
-"uk": "метеорит",
-"band": "top-20k",
-"pos": "noun",
-"topics": "science",
-"ex": "A meteorite landed in the field last night."
-},
-{
 "en": "chrome",
 "uk": "хром",
 "band": "top-20k",
 "pos": "noun",
 "topics": "chemistry",
 "ex": "The old car had shiny chrome bumpers."
+},
+{
+"en": "oxygen",
+"uk": "оксиген",
+"band": "top-5000",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We need oxygen to breathe and live."
+},
+{
+"en": "dioxide",
+"uk": "діоксид",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Plants take in carbon dioxide from the air."
+},
+{
+"en": "monoxide",
+"uk": "моноксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Carbon monoxide has no color and no smell."
 }
 ]
 },
@@ -19929,14 +19877,6 @@
 "ex": "Ethylene glycol is the main part of antifreeze."
 },
 {
-"en": "aerosol",
-"uk": "аерозоль",
-"band": "top-20k",
-"pos": "noun",
-"topics": "chemistry",
-"ex": "Don't use aerosol sprays near an open flame."
-},
-{
 "en": "beta-carotene",
 "uk": "бета-каротин",
 "band": "top-20k",
@@ -19959,14 +19899,6 @@
 "pos": "noun",
 "topics": "science",
 "ex": "Milk is rich in minerals like calcium."
-},
-{
-"en": "monoxide",
-"uk": "моноксид",
-"band": "top-20k",
-"pos": "noun",
-"topics": "chemistry",
-"ex": "Carbon monoxide has no color and no smell."
 },
 {
 "en": "cyanide",
@@ -20063,14 +19995,6 @@
 "ex": "The lander touched down safely on the surface of Mars."
 },
 {
-"en": "neutrino",
-"uk": "нейтрино",
-"band": "top-20k",
-"pos": "noun",
-"topics": "physics",
-"ex": "A neutrino can pass right through the whole Earth."
-},
-{
 "en": "zenith",
 "uk": "зеніт",
 "band": "top-20k",
@@ -20079,20 +20003,20 @@
 "ex": "The sun reached its zenith at noon."
 },
 {
-"en": "zodiac",
-"uk": "зодіак",
-"band": "top-20k",
-"pos": "noun",
-"topics": "science",
-"ex": "There are twelve signs in the zodiac."
-},
-{
 "en": "crater",
 "uk": "кратер",
 "band": "top-10k",
 "pos": "noun",
 "topics": "nature",
 "ex": "The volcano has a huge crater at the top."
+},
+{
+"en": "meteorite",
+"uk": "метеорит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "A meteorite landed in the field last night."
 }
 ]
 },
@@ -20212,6 +20136,22 @@
 "pos": "noun",
 "topics": "other",
 "ex": "Scientists met the claim with skepticism."
+},
+{
+"en": "placebo",
+"uk": "плацебо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Half the patients got a placebo."
+},
+{
+"en": "alter ego",
+"uk": "альтер его",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "His alter ego is a confident rock singer."
 }
 ]
 },
@@ -20330,6 +20270,30 @@
 "pos": "noun",
 "topics": "biology",
 "ex": "Actin is a protein that helps muscles move."
+},
+{
+"en": "virus",
+"uk": "вірус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "medicine, tech",
+"ex": "I think I have a virus."
+},
+{
+"en": "pathogen",
+"uk": "патоген",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "A virus is a type of pathogen."
+},
+{
+"en": "gene",
+"uk": "ген",
+"band": "top-3000",
+"pos": "noun",
+"topics": "biology",
+"ex": "I think it's in my genes."
 }
 ]
 },
@@ -20449,6 +20413,22 @@
 "pos": "noun",
 "topics": "biology",
 "ex": "The doctor tested the reflex in my knee."
+},
+{
+"en": "adrenaline",
+"uk": "адреналін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I felt a rush of adrenaline before the race."
+},
+{
+"en": "insulin",
+"uk": "інсулін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He takes insulin every day for diabetes."
 }
 ]
 },
@@ -20576,6 +20556,30 @@
 "pos": "noun",
 "topics": "biology",
 "ex": "I want to be an organ donor."
+},
+{
+"en": "anesthetic",
+"uk": "анестетик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The dentist gave me a local anesthetic before the filling."
+},
+{
+"en": "tic",
+"uk": "тик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He has a nervous tic in his eye."
+},
+{
+"en": "tremor",
+"uk": "тремор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He has a slight tremor in his hands."
 }
 ]
 },
@@ -20681,14 +20685,6 @@
 "ex": "The doctor gave him an antidote to the poison."
 },
 {
-"en": "placebo",
-"uk": "плацебо",
-"band": "top-20k",
-"pos": "noun",
-"topics": "medicine",
-"ex": "Half the patients got a placebo."
-},
-{
 "en": "hospice",
 "uk": "хоспіс",
 "band": "top-20k",
@@ -20703,6 +20699,22 @@
 "pos": "noun",
 "topics": "medicine",
 "ex": "Cholera spreads through dirty water."
+},
+{
+"en": "antibiotic",
+"uk": "антибіотик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave me antibiotics for my throat."
+},
+{
+"en": "lymphoma",
+"uk": "лімфома",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He was diagnosed with lymphoma last year."
 }
 ]
 },
@@ -20727,14 +20739,6 @@
 ],
 "level": "B1",
 "words": [
-{
-"en": "bastion",
-"uk": "бастіон",
-"band": "top-20k",
-"pos": "noun",
-"topics": "military",
-"ex": "The city was a bastion against the enemy."
-},
 {
 "en": "lord",
 "uk": "лорд",
@@ -20830,6 +20834,38 @@
 "pos": "noun",
 "topics": "politics",
 "ex": "The vassal promised loyalty to his lord."
+},
+{
+"en": "baron",
+"uk": "барон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The baron lived in a large castle."
+},
+{
+"en": "tsar",
+"uk": "цар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The museum has a portrait of a Russian tsar."
+},
+{
+"en": "kaiser",
+"uk": "кайзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "Kaiser was the title of the German emperor."
+},
+{
+"en": "sovereign",
+"uk": "суверен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The sovereign opened the new session of parliament."
 }
 ]
 },
@@ -20926,20 +20962,20 @@
 "ex": "A yak can live high in the mountains."
 },
 {
-"en": "maharaja",
-"uk": "махараджа",
-"band": "top-20k",
-"pos": "noun",
-"topics": "history, people, politics",
-"ex": "The maharaja lived in a beautiful palace."
-},
-{
 "en": "edict",
 "uk": "едикт",
 "band": "top-20k",
 "pos": "noun",
 "topics": "law, politics",
 "ex": "The king issued an edict banning all public gatherings."
+},
+{
+"en": "pasha",
+"uk": "паша",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The pasha ruled the city for many years."
 }
 ]
 },
@@ -21037,14 +21073,6 @@
 "ex": "The shogun ruled Japan for many years."
 },
 {
-"en": "commodore",
-"uk": "комодор",
-"band": "top-20k",
-"pos": "noun",
-"topics": "military",
-"ex": "The commodore gave orders to the fleet."
-},
-{
 "en": "armada",
 "uk": "армада",
 "band": "top-20k",
@@ -21059,6 +21087,22 @@
 "pos": "noun",
 "topics": "military",
 "ex": "The army practiced a difficult maneuver."
+},
+{
+"en": "citadel",
+"uk": "цитадель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The old citadel stands on a hill above the city."
+},
+{
+"en": "bastion",
+"uk": "бастіон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The city was a bastion against the enemy."
 }
 ]
 },
@@ -21108,14 +21152,6 @@
 "ex": "Pioneers moved west to the frontier."
 },
 {
-"en": "acre",
-"uk": "акр",
-"band": "top-5000",
-"pos": "noun",
-"topics": "units",
-"ex": "How many acres of land does your family have?"
-},
-{
 "en": "trapper",
 "uk": "трапер",
 "band": "top-20k",
@@ -21140,36 +21176,12 @@
 "ex": "The cowboy rode his horse across the field."
 },
 {
-"en": "revolver",
-"uk": "револьвер",
-"band": "top-10k",
-"pos": "noun",
-"topics": "military",
-"ex": "The detective always carried a revolver in his coat."
-},
-{
-"en": "whiskey",
-"uk": "віскі",
-"band": "top-5000",
-"pos": "noun",
-"topics": "drinks",
-"ex": "He likes his whiskey with a little ice."
-},
-{
 "en": "saloon",
 "uk": "салун",
 "band": "top-20k",
 "pos": "noun",
 "topics": "places",
 "ex": "The cowboys drank whiskey in the saloon."
-},
-{
-"en": "sheriff",
-"uk": "шериф",
-"band": "top-3000",
-"pos": "noun",
-"topics": "law",
-"ex": "I like old movies about sheriffs."
 },
 {
 "en": "locomotive",
@@ -21226,22 +21238,6 @@
 ],
 "level": "B1",
 "words": [
-{
-"en": "tsar",
-"uk": "цар",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, politics",
-"ex": "The museum has a portrait of a Russian tsar."
-},
-{
-"en": "kaiser",
-"uk": "кайзер",
-"band": "top-20k",
-"pos": "noun",
-"topics": "people, politics",
-"ex": "Kaiser was the title of the German emperor."
-},
 {
 "en": "imperialism",
 "uk": "імперіалізм",
@@ -21446,6 +21442,14 @@
 "pos": "noun",
 "topics": "religion",
 "ex": "The abbot welcomed us to the monastery."
+},
+{
+"en": "angel",
+"uk": "ангел",
+"band": "top-2000",
+"pos": "noun",
+"topics": "religion",
+"ex": "My little girl is an angel."
 }
 ]
 },
@@ -21565,6 +21569,14 @@
 "pos": "noun",
 "topics": "politics, religion",
 "ex": "The Islamist group wants a state based on religious law."
+},
+{
+"en": "mullah",
+"uk": "мулла",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The mullah led the prayers at the mosque."
 }
 ]
 },
@@ -21994,6 +22006,14 @@
 "pos": "noun",
 "topics": "religion",
 "ex": "The tribe carved a tall totem pole."
+},
+{
+"en": "amulet",
+"uk": "амулет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "She wore an amulet to protect her."
 }
 ]
 },

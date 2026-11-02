@@ -1,0 +1,595 @@
+[
+{
+"id": "c036",
+"part": "p04",
+"title": "Planning a summer trip",
+"scene": "Anna and Max want a trip in August. At a travel bureau an agent from a tour operator shows them low-cost and nonstop flights, a cheap charter and a bus tour with a guide; she says tourism is booming and every tourist wants to go to the sea.",
+"anchors": [
+"trip",
+"bureau",
+"agent",
+"tour operator",
+"tour",
+"low-cost",
+"nonstop",
+"charter",
+"guide",
+"tourism",
+"tourist"
+],
+"level": "A1",
+"words": [
+{
+"en": "trip",
+"uk": "тріп",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "How was your trip to the mountains?"
+},
+{
+"en": "bureau",
+"uk": "бюро",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "I asked at the travel bureau about cheap tours."
+},
+{
+"en": "agent",
+"uk": "агент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Call the travel agent, please."
+},
+{
+"en": "tour operator",
+"uk": "туроператор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, travel",
+"ex": "We booked our trip through a local tour operator."
+},
+{
+"en": "tour",
+"uk": "тур",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "We took a bus tour of the city."
+},
+{
+"en": "low-cost",
+"uk": "лоукост",
+"band": "top-10k",
+"pos": "adj",
+"topics": "business, travel",
+"ex": "We flew to Spain with a low-cost airline."
+},
+{
+"en": "nonstop",
+"uk": "нон-стоп",
+"band": "top-20k",
+"pos": "adv",
+"topics": "time, travel",
+"ex": "We flew nonstop from New York to Paris."
+},
+{
+"en": "charter",
+"uk": "чартер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport, travel",
+"ex": "We flew to Turkey on a cheap charter."
+},
+{
+"en": "guide",
+"uk": "гід",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Our tour guide spoke three languages."
+},
+{
+"en": "tourism",
+"uk": "туризм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Tourism is important for the local economy."
+},
+{
+"en": "tourist",
+"uk": "турист",
+"band": "top-5000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Kyiv is full of tourists in the summer."
+},
+{
+"en": "travel agent",
+"uk": "тревел-агент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, travel",
+"ex": "My travel agent books our hotels."
+}
+],
+"old_story": "Anna and Max want a [[trip]] in August. They go to a travel [[bureau]] in Kyiv. An [[agent]] meets them with a smile. She works for a big [[tour operator]]. She shows them a [[low-cost]] flight. This plane flies [[nonstop]] to the coast. A [[charter]] is cheap too. Or they take a bus [[tour]] with a [[guide]]. \"[[Tourism|tourism]] is very big this year,\" she says. \"Every [[tourist]] wants to go to the sea.\" Max has a [[voucher]] from his mom. They book two bus seats and smile."
+},
+{
+"id": "c037",
+"part": "p04",
+"title": "Uncle Ivan, the pilot",
+"scene": "Max's uncle is a pilot. He shows Max and Anna the cockpit of his jet and explains the radar, the transponder and the autopilot; then they visit an airfield and see a helicopter with a loud rotor, an old plane with a propeller and a glider.",
+"anchors": [
+"pilot",
+"cockpit",
+"jet",
+"radar",
+"transponder",
+"autopilot",
+"helicopter",
+"rotor",
+"propeller",
+"glider"
+],
+"level": "A2",
+"words": [
+{
+"en": "pilot",
+"uk": "пілот",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Do you want to be a pilot?"
+},
+{
+"en": "cockpit",
+"uk": "кокпіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The pilot sat down in the cockpit."
+},
+{
+"en": "jet",
+"uk": "джет",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Have you ever flown on a private jet?"
+},
+{
+"en": "radar",
+"uk": "радар",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The plane disappeared from the radar."
+},
+{
+"en": "transponder",
+"uk": "транспондер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, transport",
+"ex": "Every plane has a transponder for air traffic control."
+},
+{
+"en": "autopilot",
+"uk": "автопілот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, transport",
+"ex": "The pilot switched on the autopilot."
+},
+{
+"en": "helicopter",
+"uk": "гелікоптер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "A helicopter landed on the roof of the hospital."
+},
+{
+"en": "rotor",
+"uk": "ротор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The helicopter's rotor makes a very loud noise."
+},
+{
+"en": "propeller",
+"uk": "пропелер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The boat's propeller got caught in some weeds."
+},
+{
+"en": "glider",
+"uk": "глайдер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The glider flew quietly over the green hills."
+},
+{
+"en": "parachute",
+"uk": "парашут",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, sport",
+"ex": "The pilot jumped out of the plane with a parachute."
+},
+{
+"en": "ace",
+"uk": "ас",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was a famous flying ace in the war."
+},
+{
+"en": "simulator",
+"uk": "симулятор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, tech",
+"ex": "Pilots train in a flight simulator."
+},
+{
+"en": "aeroplane",
+"uk": "аероплан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The aeroplane landed safely in the storm."
+},
+{
+"en": "sonar",
+"uk": "сонар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, tech",
+"ex": "The submarine used sonar to find the ship."
+}
+],
+"old_story": "Max's Uncle Ivan is a [[pilot]]. One Saturday he took Max and Anna to the airport. They sat in the [[cockpit]] of his big [[jet]]. \"Here is the [[radar]], and here is the [[transponder]],\" he said. Anna asked, \"Does the [[autopilot]] fly the plane for you?\" Then they drove to a small airfield. A [[helicopter]] landed there, and its [[rotor]] was very loud. Next to it stood an old plane with a [[propeller]]. \"My old teacher flies that [[glider]],\" said Uncle Ivan. \"He is a real [[ace]].\" Then a man jumped from a plane with a red [[parachute]]. That evening Max practiced on a flight [[simulator]] for hours."
+},
+{
+"id": "c038",
+"part": "p05",
+"title": "Anna's new smartphone",
+"scene": "Anna buys a new high-end smartphone with a fast chip. The shop assistant shows her the camera, the zoom, the big touchscreen display and the fingerprint sensor, connects her headphones by Bluetooth and changes the ringtone; Max says the device is the best gadget for every user, and Anna buys an add-on.",
+"anchors": [
+"high-end",
+"smartphone",
+"chip",
+"camera",
+"zoom",
+"touchscreen",
+"display",
+"sensor",
+"Bluetooth",
+"ringtone",
+"device",
+"gadget"
+],
+"level": "A2",
+"words": [
+{
+"en": "smartphone",
+"uk": "смартфон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Almost everyone has a smartphone these days."
+},
+{
+"en": "camera",
+"uk": "камера",
+"band": "top-1000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone has a very good camera."
+},
+{
+"en": "zoom",
+"uk": "зум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This camera has a powerful zoom."
+},
+{
+"en": "touchscreen",
+"uk": "тач-скрін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The touchscreen on my phone is cracked."
+},
+{
+"en": "sensor",
+"uk": "сенсор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone has a fingerprint sensor on the back."
+},
+{
+"en": "Bluetooth",
+"uk": "блютуз",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Turn on Bluetooth to connect the speaker."
+},
+{
+"en": "ringtone",
+"uk": "рингтон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I changed my ringtone to a quiet song."
+},
+{
+"en": "device",
+"uk": "девайс",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Please turn off all your devices."
+},
+{
+"en": "gadget",
+"uk": "гаджет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He loves buying new kitchen gadgets."
+},
+{
+"en": "telephone",
+"uk": "телефон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The telephone rang in the middle of the night."
+}
+],
+"old_story": "Anna's old phone broke, so she went shopping with Max. She wanted a [[high-end]] [[smartphone]] this time. \"This one has a very fast [[chip]],\" the shop assistant said. He showed her the [[camera]] and its strong [[zoom]]. Anna touched the big [[touchscreen]], and the [[display]] was bright and clear. Her finger on the [[sensor]] opened the phone at once. The assistant connected her headphones by [[Bluetooth]]. He also changed her [[ringtone]] to a happy song. \"It's an expensive [[device]],\" Anna said quietly. \"But it's the best [[gadget]] in the shop,\" Max said. Anna smiled and bought it."
+},
+{
+"id": "c039",
+"part": "p05",
+"title": "No signal in the metro",
+"scene": "In the metro Anna's phone has no signal and no internet, so she cannot go online and is offline for an hour. Back on the street, twenty messages and an alert from the group chat arrive, and Mama asks why roaming is on.",
+"anchors": [
+"signal",
+"internet",
+"online",
+"offline",
+"message",
+"alert",
+"chat",
+"roaming"
+],
+"level": "A1",
+"words": [
+{
+"en": "signal",
+"uk": "сигнал",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "There is no signal in this room."
+},
+{
+"en": "internet",
+"uk": "інтернет",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you have internet?"
+},
+{
+"en": "online",
+"uk": "онлайн",
+"band": "top-2000",
+"pos": "adv",
+"topics": "tech",
+"ex": "I buy most of my clothes online."
+},
+{
+"en": "offline",
+"uk": "офлайн",
+"band": "top-20k",
+"pos": "adv",
+"topics": "tech",
+"ex": "I downloaded the map so I can use it offline."
+},
+{
+"en": "message",
+"uk": "меседж",
+"band": "top-1000",
+"pos": "noun",
+"topics": "media",
+"ex": "Send me a message, please."
+},
+{
+"en": "chat",
+"uk": "чат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I left a message in the group chat."
+},
+{
+"en": "roaming",
+"uk": "роумінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, travel",
+"ex": "Turn off roaming to avoid big bills abroad."
+},
+{
+"en": "SMS",
+"uk": "СМС",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "I got an SMS with a code from my bank."
+}
+],
+"old_story": "Anna is in the metro. Her phone has no [[signal]]. There is no [[internet]] here. She cannot go [[online]]. Anna is [[offline]] for an hour. Then she walks up to the street. Her phone gets twenty [[messages|message]]. There is an [[alert]] from the group [[chat]]. Then Mama calls: \"Why is your [[roaming]] on?\" Anna laughs and turns it off."
+},
+{
+"id": "c040",
+"part": "p05",
+"title": "Max fixes Anna's laptop",
+"scene": "Anna's laptop is slow and full of glitches. Max, who works in IT, connects it to his computer, finds the problem in the software, makes a backup of her files on a disk with a USB cable, installs an update and does a reset; he shows her a keyboard shortcut, says his desktop at work is faster, and tells her that only the system administrator knows the college password.",
+"anchors": [
+"laptop",
+"glitch",
+"IT",
+"computer",
+"software",
+"backup",
+"file",
+"disk",
+"USB",
+"cable",
+"update",
+"reset"
+],
+"level": "A2",
+"words": [
+{
+"en": "laptop",
+"uk": "лептоп",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use my laptop for work and school."
+},
+{
+"en": "glitch",
+"uk": "глітч",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "A glitch in the app deleted my messages."
+},
+{
+"en": "IT",
+"uk": "айті",
+"band": "top-3000",
+"pos": "abbr",
+"topics": "tech",
+"ex": "I work in IT."
+},
+{
+"en": "computer",
+"uk": "комп'ютер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I work on a computer."
+},
+{
+"en": "software",
+"uk": "софтвер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need to update the software on my laptop."
+},
+{
+"en": "backup",
+"uk": "бекап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Always make a backup of your important files."
+},
+{
+"en": "file",
+"uk": "файл",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I can't open this file."
+},
+{
+"en": "USB",
+"uk": "юесбі",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Plug the USB cable into the computer."
+},
+{
+"en": "cable",
+"uk": "кабель",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you have a phone cable I can use?"
+},
+{
+"en": "update",
+"uk": "апдейт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone needs an update again."
+},
+{
+"en": "reset",
+"uk": "ресет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The router needs a reset to work again."
+},
+{
+"en": "shortcut",
+"uk": "шорткат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Press this keyboard shortcut to copy the text."
+},
+{
+"en": "upgrade",
+"uk": "апгрейд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My computer needs a memory upgrade."
+},
+{
+"en": "desktop",
+"uk": "десктоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use a desktop at work and a laptop at home."
+},
+{
+"en": "hardware",
+"uk": "хардвер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The problem is with the hardware, not the software."
+}
+],
+"old_story": "Anna's [[laptop]] was slow and full of [[glitches|glitch]]. So she called Max, who works in [[IT]]. He connected it to his own [[computer]]. Soon he found the problem in the [[software]]. \"First, let's make a [[backup]] of every [[file]],\" he said. He saved them on a [[disk]] with a [[USB]] [[cable]]. Then he installed an [[update]] and did a [[reset]]. \"Too many programs for one [[user]]!\" Max joked. Then he showed her a keyboard [[shortcut]] for copying text. \"It works like new now!\" Anna said happily."
+}
+]

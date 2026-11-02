@@ -1,0 +1,612 @@
+[
+{
+"id": "c100",
+"part": "p11",
+"title": "Dad's old records",
+"scene": "Anna's dad shows her his old vinyl and CDs and plays them on his stereo: rock and roll, hard rock, punk and new wave. He was a rocker and played in a rock band, Grandpa was a hippie who played the banjo, and now there is a revival of their music - Dad feels nostalgia.",
+"anchors": [
+"vinyl",
+"CD",
+"stereo",
+"rock and roll",
+"hard rock",
+"punk",
+"new wave",
+"rocker",
+"rock band",
+"hippie",
+"banjo",
+"revival"
+],
+"level": "A2",
+"words": [
+{
+"en": "vinyl",
+"uk": "вініл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry, music",
+"ex": "He collects old jazz albums on vinyl."
+},
+{
+"en": "CD",
+"uk": "сіді",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "music",
+"ex": "I bought a CD of my favorite band."
+},
+{
+"en": "stereo",
+"uk": "стерео",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, tech",
+"ex": "This old song was recorded in stereo."
+},
+{
+"en": "rock and roll",
+"uk": "рок-н-рол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "My dad loves old rock and roll."
+},
+{
+"en": "hard rock",
+"uk": "хард-рок",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "My dad listened to hard rock when he was young."
+},
+{
+"en": "punk",
+"uk": "панк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "music",
+"ex": "I listened to a lot of punk at school."
+},
+{
+"en": "new wave",
+"uk": "нью-вейв",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He loves eighties new wave music."
+},
+{
+"en": "rocker",
+"uk": "рокер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, people",
+"ex": "The old rocker still plays big concerts."
+},
+{
+"en": "rock band",
+"uk": "рок-бенд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays guitar in a rock band."
+},
+{
+"en": "hippie",
+"uk": "хіпі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "My parents were hippies in the 1960s."
+},
+{
+"en": "revival",
+"uk": "ревайвал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "The band is part of the seventies rock revival."
+},
+{
+"en": "era",
+"uk": "ера",
+"band": "top-3000",
+"pos": "noun",
+"topics": "time",
+"ex": "The internet started a new era."
+},
+{
+"en": "retro",
+"uk": "ретро",
+"band": "top-20k",
+"pos": "adj",
+"topics": "art",
+"ex": "She loves wearing retro clothes from the seventies."
+},
+{
+"en": "rock",
+"uk": "рок",
+"band": "top-3000",
+"pos": "noun",
+"topics": "music",
+"ex": "Do you like rock or jazz?"
+},
+{
+"en": "heavy metal",
+"uk": "хеві-метал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays guitar in a heavy metal band."
+},
+{
+"en": "punk rock",
+"uk": "панк-рок",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He played punk rock in high school."
+},
+{
+"en": "disk",
+"uk": "диск",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Save the file to the disk before you close it."
+},
+{
+"en": "disc",
+"uk": "диск",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Put the disc into the DVD player, please."
+}
+],
+"old_story": "On Sunday, Anna's dad opens an old box. Inside, there are old records on [[vinyl]] and some [[CDs|CD]]. He plays them on his big [[stereo]]. First, they listen to [[rock and roll]], then loud [[hard rock]]. \"At school, I loved [[punk]] and [[new wave]],\" Dad says. \"I was a real [[rocker]] with long hair.\" He even played guitar in a [[rock band]]. Grandpa was a [[hippie]], and he played the [[banjo]]. \"Now there is a [[revival]] of our music,\" Dad says happily. \"It was a great [[era]].\" Anna puts on Dad's [[retro]] jacket and asks, \"Can I keep it?\""
+},
+{
+"id": "c101",
+"part": "p11",
+"title": "Max's first rave",
+"scene": "Max goes to a rave in an old factory - a mega party. The DJ plays a long mix of techno and acid house, a girl in goth clothes plays a synth, and a punk rock band plays at sunrise.",
+"anchors": [
+"rave",
+"mega",
+"mix",
+"techno",
+"acid house",
+"goth",
+"synth",
+"punk rock"
+],
+"level": "B1",
+"words": [
+{
+"en": "rave",
+"uk": "рейв",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "We went to a rave in an old warehouse."
+},
+{
+"en": "mega",
+"uk": "мега",
+"band": "top-10k",
+"pos": "adj",
+"topics": "other",
+"ex": "That was a mega party last night."
+},
+{
+"en": "techno",
+"uk": "техно",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "They danced to loud techno all night."
+},
+{
+"en": "acid house",
+"uk": "ейсід-хаус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "Acid house became popular in British clubs in the 1980s."
+},
+{
+"en": "goth",
+"uk": "гот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, people",
+"ex": "My sister was a goth in high school."
+},
+{
+"en": "synth",
+"uk": "синт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "She plays synth in a rock band."
+},
+{
+"en": "electro",
+"uk": "електро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "He plays electro at the club."
+}
+],
+"old_story": "On Saturday night, Max goes to his first [[rave]] in an old factory. It is a [[mega]] party with hundreds of people and colorful lights. The DJ plays a long [[mix]] that starts with fast [[techno]]. Then the music turns into old [[acid house]], and everyone jumps. Next to Max, a quiet [[goth]] in black clothes plays a [[synth]] on a small stage. At sunrise, a band plays loud [[punk rock]], and Max dances until his legs hurt. In the morning, he texts Anna: \"I need to sleep for two days!\""
+},
+{
+"id": "c102",
+"part": "p11",
+"title": "Sofia writes a song",
+"scene": "Max's sister Sofia is a songwriter who loves folk and new age. With a producer she records a duet, adds an instrumental and a remix, and plans the release of her debut album; the title track is about Kyiv.",
+"anchors": [
+"songwriter",
+"folk",
+"new age",
+"producer",
+"duet",
+"instrumental",
+"remix",
+"release",
+"debut",
+"title track"
+],
+"level": "B1",
+"words": [
+{
+"en": "songwriter",
+"uk": "сонграйтер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, people",
+"ex": "She is a famous singer and songwriter."
+},
+{
+"en": "folk",
+"uk": "фолк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "She plays folk on her guitar every evening."
+},
+{
+"en": "new age",
+"uk": "нью-ейдж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "She listens to new age music to relax."
+},
+{
+"en": "producer",
+"uk": "продюсер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media, music",
+"ex": "I want to work as a music producer."
+},
+{
+"en": "instrumental",
+"uk": "інструментал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "This song has a long instrumental."
+},
+{
+"en": "remix",
+"uk": "ремікс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "The DJ played a remix of my favorite song."
+},
+{
+"en": "release",
+"uk": "реліз",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media, music",
+"ex": "When is the release of the new game?"
+},
+{
+"en": "debut",
+"uk": "дебют",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "I love this band's debut album."
+},
+{
+"en": "title track",
+"uk": "тайтл-трек",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "The title track is my favorite song on the album."
+},
+{
+"en": "world music",
+"uk": "ворлд-мьюзік",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "This radio station plays a lot of world music."
+},
+{
+"en": "track",
+"uk": "трек",
+"band": "top-5000",
+"pos": "noun",
+"topics": "music, sport",
+"ex": "This is the best track on the album."
+},
+{
+"en": "mix",
+"uk": "мікс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "The DJ played a great mix."
+}
+],
+"old_story": "Max's sister Sofia is a young [[songwriter]] who writes songs in her small room. She loves [[folk]], but she also listens to calm [[new age]] music. One day, a [[producer]] hears her songs and invites her to his studio. With her friend Oleh, she records a [[duet]] about the rain. He adds a long [[instrumental]] in the middle of the song. Later, a DJ makes a [[remix]], and it sounds great at parties. They plan the [[release]] of her [[debut]] album for May. The [[title track]] is a song about Kyiv at night. When the album comes out, the whole family listens to it together."
+},
+{
+"id": "c103",
+"part": "p11",
+"title": "The school play",
+"scene": "Taras gets a role in the school play at the theater - he plays the prince. As the protagonist he says a long monologue, a poet reads a sonnet at a masquerade, and the drama teacher, who knows every actor and the whole repertoire, says the farce shows Taras has real talent.",
+"anchors": [
+"role",
+"theater",
+"prince",
+"protagonist",
+"monologue",
+"poet",
+"sonnet",
+"masquerade",
+"drama",
+"actor",
+"repertoire",
+"talent"
+],
+"level": "A2",
+"words": [
+{
+"en": "role",
+"uk": "роль",
+"band": "top-2000",
+"pos": "noun",
+"topics": "art",
+"ex": "What is your role in the team?"
+},
+{
+"en": "theater",
+"uk": "театр",
+"band": "top-3000",
+"pos": "noun",
+"topics": "art",
+"ex": "We went to the theater on Saturday."
+},
+{
+"en": "prince",
+"uk": "принц",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Who plays the prince in this film?"
+},
+{
+"en": "protagonist",
+"uk": "протагоніст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The protagonist of the novel is a young doctor."
+},
+{
+"en": "monologue",
+"uk": "монолог",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The actor gave a powerful monologue."
+},
+{
+"en": "poet",
+"uk": "поет",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art, people",
+"ex": "Who is your favorite Ukrainian poet?"
+},
+{
+"en": "sonnet",
+"uk": "сонет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "She wrote a sonnet for her husband's birthday."
+},
+{
+"en": "masquerade",
+"uk": "маскарад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We went to a masquerade in costume."
+},
+{
+"en": "drama",
+"uk": "драма",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "Do you like comedies or dramas more?"
+},
+{
+"en": "actor",
+"uk": "актор",
+"band": "top-2000",
+"pos": "noun",
+"topics": "art",
+"ex": "Who is your favorite actor?"
+},
+{
+"en": "repertoire",
+"uk": "репертуар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, music",
+"ex": "The band has a large repertoire of songs."
+},
+{
+"en": "talent",
+"uk": "талант",
+"band": "top-2000",
+"pos": "noun",
+"topics": "art",
+"ex": "Does your son have a talent for sports?"
+},
+{
+"en": "artiste",
+"uk": "артист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The artiste will perform at nine tonight."
+}
+],
+"old_story": "Taras gets a big [[role]] in the school play. The show is at the city [[theater]] on Friday. The play is a [[drama]] about a lost kingdom. Taras plays a young [[prince]]. He is the [[protagonist]], so he has many lines. In the second act, he says a long [[monologue]]. In the next scene, a [[poet]] reads a [[sonnet]] at a [[masquerade]]. Before they start, every [[actor]] is nervous, but Taras is calm. Their teacher knows the whole school [[repertoire]] by heart. After the show, she says, \"Taras, you have real [[talent]]!\""
+},
+{
+"id": "c104",
+"part": "p11",
+"title": "An evening of comedy",
+"scene": "Anna and her friends go to an improv show and a stand-up comedian, then to a cabaret with a drag queen and a revue of a musical; a comedy duo makes them laugh at a matinee, one joke is a total fail, and at a charity gala an artiste with great humor sings.",
+"anchors": [
+"improv",
+"stand-up",
+"cabaret",
+"drag queen",
+"revue",
+"musical",
+"duo",
+"matinee",
+"fail",
+"gala",
+"artiste",
+"humor"
+],
+"level": "B1",
+"words": [
+{
+"en": "improv",
+"uk": "імпров",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We went to an improv show last night."
+},
+{
+"en": "stand-up",
+"uk": "стендап",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "We went to see a stand-up show on Friday."
+},
+{
+"en": "cabaret",
+"uk": "кабаре",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We saw a cabaret show in Berlin."
+},
+{
+"en": "drag queen",
+"uk": "дрег-квін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "The drag queen wore a huge wig."
+},
+{
+"en": "revue",
+"uk": "ревю",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The theater put on a musical revue."
+},
+{
+"en": "musical",
+"uk": "мюзикл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "We saw a great musical in the city theater."
+},
+{
+"en": "matinee",
+"uk": "матіне",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We went to the matinee because tickets are cheaper."
+},
+{
+"en": "fail",
+"uk": "фейл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "That joke was a total fail."
+},
+{
+"en": "humor",
+"uk": "гумор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "I love your sense of humor."
+},
+{
+"en": "farce",
+"uk": "фарс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The play is a funny farce about two brothers."
+},
+{
+"en": "music hall",
+"uk": "мюзик-хол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "They saw a show at the old music hall."
+},
+{
+"en": "fiasco",
+"uk": "фіаско",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The party was a total fiasco."
+}
+],
+"old_story": "On Friday, Anna and her friends start their comedy weekend with an [[improv]] show. After that, they see a short [[stand-up]] set by a nervous young comedian. On Saturday, they go to a [[cabaret]], where a [[drag queen]] welcomes everyone. The evening ends with a [[revue]] of songs from a famous [[musical]]. On Sunday, they buy cheap tickets for the [[matinee]] and laugh at a comedy [[duo]]. One joke about cats is a total [[fail]], but the two comedians laugh at it too. In the evening, they go to a charity [[gala]] at the city theater. There, an old [[artiste]] with great [[humor]] sings and tells funny stories. The last act is a short [[farce]] about two lost brothers. At midnight, Max says, \"My face hurts from laughing!\""
+}
+]
