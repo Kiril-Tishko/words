@@ -1,0 +1,1282 @@
+[
+{
+"en": "firewall",
+"uk": "файрвол",
+"topic": "it"
+},
+{
+"en": "frontend",
+"uk": "фронтенд",
+"topic": "it"
+},
+{
+"en": "framework",
+"uk": "фреймворк",
+"topic": "it"
+},
+{
+"en": "debugger",
+"uk": "дебагер",
+"topic": "it"
+},
+{
+"en": "compiler",
+"uk": "компілятор",
+"topic": "it"
+},
+{
+"en": "interpreter",
+"uk": "інтерпретатор",
+"topic": "it"
+},
+{
+"en": "assembler",
+"uk": "асемблер",
+"topic": "it"
+},
+{
+"en": "linker",
+"uk": "лінкер",
+"topic": "it"
+},
+{
+"en": "parser",
+"uk": "парсер",
+"topic": "it"
+},
+{
+"en": "debug",
+"uk": "дебаг",
+"topic": "it"
+},
+{
+"en": "commit",
+"uk": "коміт",
+"topic": "it"
+},
+{
+"en": "merge",
+"uk": "мердж",
+"topic": "it"
+},
+{
+"en": "push",
+"uk": "пуш",
+"topic": "it"
+},
+{
+"en": "pull request",
+"uk": "пул-реквест",
+"topic": "it"
+},
+{
+"en": "fork",
+"uk": "форк",
+"topic": "it"
+},
+{
+"en": "release",
+"uk": "реліз",
+"topic": "it"
+},
+{
+"en": "build",
+"uk": "білд",
+"topic": "it"
+},
+{
+"en": "deploy",
+"uk": "деплой",
+"topic": "it"
+},
+{
+"en": "refactoring",
+"uk": "рефакторинг",
+"topic": "it"
+},
+{
+"en": "index",
+"uk": "індекс",
+"topic": "it"
+},
+{
+"en": "iterator",
+"uk": "ітератор",
+"topic": "it"
+},
+{
+"en": "operator",
+"uk": "оператор",
+"topic": "it"
+},
+{
+"en": "constructor",
+"uk": "конструктор",
+"topic": "it"
+},
+{
+"en": "destructor",
+"uk": "деструктор",
+"topic": "it"
+},
+{
+"en": "container",
+"uk": "контейнер",
+"topic": "it"
+},
+{
+"en": "docker",
+"uk": "докер",
+"topic": "it"
+},
+{
+"en": "cluster",
+"uk": "кластер",
+"topic": "it"
+},
+{
+"en": "terminal",
+"uk": "термінал",
+"topic": "it"
+},
+{
+"en": "kernel",
+"uk": "кернел",
+"topic": "it"
+},
+{
+"en": "driver",
+"uk": "драйвер",
+"topic": "it"
+},
+{
+"en": "software",
+"uk": "софт",
+"topic": "it"
+},
+{
+"en": "spoiler",
+"uk": "спойлер",
+"topic": "it"
+},
+{
+"en": "troll",
+"uk": "троль",
+"topic": "it"
+},
+{
+"en": "meme",
+"uk": "мем",
+"topic": "it"
+},
+{
+"en": "hashtag",
+"uk": "хештег",
+"topic": "it"
+},
+{
+"en": "like",
+"uk": "лайк",
+"topic": "it"
+},
+{
+"en": "repost",
+"uk": "репост",
+"topic": "it"
+},
+{
+"en": "follower",
+"uk": "фоловер",
+"topic": "it"
+},
+{
+"en": "blogger",
+"uk": "блогер",
+"topic": "it"
+},
+{
+"en": "blog",
+"uk": "блог",
+"topic": "it"
+},
+{
+"en": "vlog",
+"uk": "влог",
+"topic": "it"
+},
+{
+"en": "vlogger",
+"uk": "влогер",
+"topic": "it"
+},
+{
+"en": "podcast",
+"uk": "подкаст",
+"topic": "it"
+},
+{
+"en": "streamer",
+"uk": "стример",
+"topic": "it"
+},
+{
+"en": "stream",
+"uk": "стрим",
+"topic": "it"
+},
+{
+"en": "selfie",
+"uk": "селфі",
+"topic": "it"
+},
+{
+"en": "emoji",
+"uk": "емодзі",
+"topic": "it"
+},
+{
+"en": "smiley",
+"uk": "смайл",
+"topic": "it"
+},
+{
+"en": "nick",
+"uk": "нік",
+"topic": "it"
+},
+{
+"en": "login",
+"uk": "логін",
+"topic": "it"
+},
+{
+"en": "captcha",
+"uk": "капча",
+"topic": "it"
+},
+{
+"en": "phishing",
+"uk": "фішинг",
+"topic": "it"
+},
+{
+"en": "spammer",
+"uk": "спамер",
+"topic": "it"
+},
+{
+"en": "trojan",
+"uk": "троян",
+"topic": "it"
+},
+{
+"en": "startup",
+"uk": "стартап",
+"topic": "it"
+},
+{
+"en": "freelancer",
+"uk": "фрилансер",
+"topic": "it"
+},
+{
+"en": "freelance",
+"uk": "фриланс",
+"topic": "it"
+},
+{
+"en": "tester",
+"uk": "тестер",
+"topic": "it"
+},
+{
+"en": "developer",
+"uk": "девелопер",
+"topic": "it"
+},
+{
+"en": "senior",
+"uk": "сеньйор",
+"topic": "it"
+},
+{
+"en": "middle",
+"uk": "мідл",
+"topic": "it"
+},
+{
+"en": "team lead",
+"uk": "тимлід",
+"topic": "it"
+},
+{
+"en": "scrum",
+"uk": "скрам",
+"topic": "it"
+},
+{
+"en": "sprint",
+"uk": "спринт",
+"topic": "it"
+},
+{
+"en": "backlog",
+"uk": "беклог",
+"topic": "it"
+},
+{
+"en": "deadline",
+"uk": "дедлайн",
+"topic": "it"
+},
+{
+"en": "bugfix",
+"uk": "багфікс",
+"topic": "it"
+},
+{
+"en": "hotfix",
+"uk": "хотфікс",
+"topic": "it"
+},
+{
+"en": "fake",
+"uk": "фейк",
+"topic": "it"
+},
+{
+"en": "gamer",
+"uk": "геймер",
+"topic": "it"
+},
+{
+"en": "level",
+"uk": "левел",
+"topic": "it"
+},
+{
+"en": "boss",
+"uk": "бос",
+"topic": "it"
+},
+{
+"en": "noob",
+"uk": "нуб",
+"topic": "it"
+},
+{
+"en": "cheat",
+"uk": "чит",
+"topic": "it"
+},
+{
+"en": "cheater",
+"uk": "читер",
+"topic": "it"
+},
+{
+"en": "skin",
+"uk": "скін",
+"topic": "it"
+},
+{
+"en": "mod",
+"uk": "мод",
+"topic": "it"
+},
+{
+"en": "streaming",
+"uk": "стримінг",
+"topic": "it"
+},
+{
+"en": "bit",
+"uk": "біт",
+"topic": "it"
+},
+{
+"en": "megabyte",
+"uk": "мегабайт",
+"topic": "it"
+},
+{
+"en": "kilobyte",
+"uk": "кілобайт",
+"topic": "it"
+},
+{
+"en": "terabyte",
+"uk": "терабайт",
+"topic": "it"
+},
+{
+"en": "petabyte",
+"uk": "петабайт",
+"topic": "it"
+},
+{
+"en": "megabit",
+"uk": "мегабіт",
+"topic": "it"
+},
+{
+"en": "kilobit",
+"uk": "кілобіт",
+"topic": "it"
+},
+{
+"en": "gigabit",
+"uk": "гігабіт",
+"topic": "it"
+},
+{
+"en": "hertz",
+"uk": "герц",
+"topic": "it"
+},
+{
+"en": "megahertz",
+"uk": "мегагерц",
+"topic": "it"
+},
+{
+"en": "gigahertz",
+"uk": "гігагерц",
+"topic": "it"
+},
+{
+"en": "resistor",
+"uk": "резистор",
+"topic": "it"
+},
+{
+"en": "thyristor",
+"uk": "тиристор",
+"topic": "it"
+},
+{
+"en": "microchip",
+"uk": "мікрочип",
+"topic": "it"
+},
+{
+"en": "cooler",
+"uk": "кулер",
+"topic": "it"
+},
+{
+"en": "radiator",
+"uk": "радіатор",
+"topic": "it"
+},
+{
+"en": "touchpad",
+"uk": "тачпад",
+"topic": "it"
+},
+{
+"en": "touchscreen",
+"uk": "тачскрин",
+"topic": "it"
+},
+{
+"en": "trackball",
+"uk": "трекбол",
+"topic": "it"
+},
+{
+"en": "webcam",
+"uk": "вебкамера",
+"topic": "it"
+},
+{
+"en": "netbook",
+"uk": "нетбук",
+"topic": "it"
+},
+{
+"en": "ultrabook",
+"uk": "ультрабук",
+"topic": "it"
+},
+{
+"en": "flash",
+"uk": "флеш",
+"topic": "it"
+},
+{
+"en": "port",
+"uk": "порт",
+"topic": "it"
+},
+{
+"en": "host",
+"uk": "хост",
+"topic": "it"
+},
+{
+"en": "protocol",
+"uk": "протокол",
+"topic": "it"
+},
+{
+"en": "ping",
+"uk": "пінг",
+"topic": "it"
+},
+{
+"en": "telnet",
+"uk": "телнет",
+"topic": "it"
+},
+{
+"en": "gateway",
+"uk": "гейтвей",
+"topic": "it"
+},
+{
+"en": "switch",
+"uk": "світч",
+"topic": "it"
+},
+{
+"en": "bluetooth",
+"uk": "блютуз",
+"topic": "it"
+},
+{
+"en": "hypertext",
+"uk": "гіпертекст",
+"topic": "it"
+},
+{
+"en": "landing",
+"uk": "лендинг",
+"topic": "it"
+},
+{
+"en": "banner",
+"uk": "банер",
+"topic": "it"
+},
+{
+"en": "addon",
+"uk": "аддон",
+"topic": "it"
+},
+{
+"en": "chatbot",
+"uk": "чат-бот",
+"topic": "it"
+},
+{
+"en": "messenger",
+"uk": "месенджер",
+"topic": "it"
+},
+{
+"en": "forum",
+"uk": "форум",
+"topic": "it"
+},
+{
+"en": "moderator",
+"uk": "модератор",
+"topic": "it"
+},
+{
+"en": "superuser",
+"uk": "суперюзер",
+"topic": "it"
+},
+{
+"en": "user",
+"uk": "юзер",
+"topic": "it"
+},
+{
+"en": "offtopic",
+"uk": "офтоп",
+"topic": "it"
+},
+{
+"en": "flood",
+"uk": "флуд",
+"topic": "it"
+},
+{
+"en": "flooder",
+"uk": "флудер",
+"topic": "it"
+},
+{
+"en": "flame",
+"uk": "флейм",
+"topic": "it"
+},
+{
+"en": "newbie",
+"uk": "ньюбі",
+"topic": "it"
+},
+{
+"en": "lamer",
+"uk": "ламер",
+"topic": "it"
+},
+{
+"en": "geek",
+"uk": "гік",
+"topic": "it"
+},
+{
+"en": "nerd",
+"uk": "нерд",
+"topic": "it"
+},
+{
+"en": "cyberpunk",
+"uk": "кіберпанк",
+"topic": "it"
+},
+{
+"en": "cybersport",
+"uk": "кіберспорт",
+"topic": "it"
+},
+{
+"en": "dashboard",
+"uk": "дашборд",
+"topic": "it"
+},
+{
+"en": "wireframe",
+"uk": "вайрфрейм",
+"topic": "it"
+},
+{
+"en": "designer",
+"uk": "дизайнер",
+"topic": "it"
+},
+{
+"en": "design",
+"uk": "дизайн",
+"topic": "it"
+},
+{
+"en": "vector",
+"uk": "вектор",
+"topic": "it"
+},
+{
+"en": "raster",
+"uk": "растр",
+"topic": "it"
+},
+{
+"en": "render",
+"uk": "рендер",
+"topic": "it"
+},
+{
+"en": "rendering",
+"uk": "рендеринг",
+"topic": "it"
+},
+{
+"en": "shader",
+"uk": "шейдер",
+"topic": "it"
+},
+{
+"en": "polygon",
+"uk": "полігон",
+"topic": "it"
+},
+{
+"en": "voxel",
+"uk": "воксель",
+"topic": "it"
+},
+{
+"en": "animator",
+"uk": "аніматор",
+"topic": "it"
+},
+{
+"en": "scroll",
+"uk": "скрол",
+"topic": "it"
+},
+{
+"en": "scrollbar",
+"uk": "скролбар",
+"topic": "it"
+},
+{
+"en": "swipe",
+"uk": "свайп",
+"topic": "it"
+},
+{
+"en": "tap",
+"uk": "тап",
+"topic": "it"
+},
+{
+"en": "hover",
+"uk": "ховер",
+"topic": "it"
+},
+{
+"en": "menu",
+"uk": "меню",
+"topic": "it"
+},
+{
+"en": "toolbar",
+"uk": "тулбар",
+"topic": "it"
+},
+{
+"en": "taskbar",
+"uk": "таскбар",
+"topic": "it"
+},
+{
+"en": "desktop",
+"uk": "десктоп",
+"topic": "it"
+},
+{
+"en": "backup",
+"uk": "бекап",
+"topic": "it"
+},
+{
+"en": "restart",
+"uk": "рестарт",
+"topic": "it"
+},
+{
+"en": "reset",
+"uk": "ресет",
+"topic": "it"
+},
+{
+"en": "reboot",
+"uk": "ребут",
+"topic": "it"
+},
+{
+"en": "format",
+"uk": "формат",
+"topic": "it"
+},
+{
+"en": "installer",
+"uk": "інсталятор",
+"topic": "it"
+},
+{
+"en": "update",
+"uk": "апдейт",
+"topic": "it"
+},
+{
+"en": "torrent",
+"uk": "торент",
+"topic": "it"
+},
+{
+"en": "seed",
+"uk": "сід",
+"topic": "it"
+},
+{
+"en": "seeder",
+"uk": "сідер",
+"topic": "it"
+},
+{
+"en": "cracker",
+"uk": "кракер",
+"topic": "it"
+},
+{
+"en": "keylogger",
+"uk": "кейлогер",
+"topic": "it"
+},
+{
+"en": "rootkit",
+"uk": "руткіт",
+"topic": "it"
+},
+{
+"en": "botnet",
+"uk": "ботнет",
+"topic": "it"
+},
+{
+"en": "exploit",
+"uk": "експлойт",
+"topic": "it"
+},
+{
+"en": "sniffer",
+"uk": "сніфер",
+"topic": "it"
+},
+{
+"en": "miner",
+"uk": "майнер",
+"topic": "it"
+},
+{
+"en": "mining",
+"uk": "майнінг",
+"topic": "it"
+},
+{
+"en": "stablecoin",
+"uk": "стейблкоїн",
+"topic": "it"
+},
+{
+"en": "altcoin",
+"uk": "альткоїн",
+"topic": "it"
+},
+{
+"en": "coworking",
+"uk": "коворкінг",
+"topic": "it"
+},
+{
+"en": "outsourcing",
+"uk": "аутсорсинг",
+"topic": "it"
+},
+{
+"en": "outsource",
+"uk": "аутсорс",
+"topic": "it"
+},
+{
+"en": "outstaff",
+"uk": "аутстаф",
+"topic": "it"
+},
+{
+"en": "offshore",
+"uk": "офшор",
+"topic": "it"
+},
+{
+"en": "remote",
+"uk": "ремоут",
+"topic": "it"
+},
+{
+"en": "office",
+"uk": "офіс",
+"topic": "it"
+},
+{
+"en": "manager",
+"uk": "менеджер",
+"topic": "it"
+},
+{
+"en": "marketing",
+"uk": "маркетинг",
+"topic": "it"
+},
+{
+"en": "copywriter",
+"uk": "копірайтер",
+"topic": "it"
+},
+{
+"en": "copywriting",
+"uk": "копірайтинг",
+"topic": "it"
+},
+{
+"en": "content manager",
+"uk": "контент-менеджер",
+"topic": "it"
+},
+{
+"en": "targeting",
+"uk": "таргетинг",
+"topic": "it"
+},
+{
+"en": "target",
+"uk": "таргет",
+"topic": "it"
+},
+{
+"en": "influencer",
+"uk": "інфлюенсер",
+"topic": "it"
+},
+{
+"en": "lifehack",
+"uk": "лайфхак",
+"topic": "it"
+},
+{
+"en": "unboxing",
+"uk": "анбоксинг",
+"topic": "it"
+},
+{
+"en": "review",
+"uk": "рев'ю",
+"topic": "it"
+},
+{
+"en": "code review",
+"uk": "код-рев'ю",
+"topic": "it"
+},
+{
+"en": "test",
+"uk": "тест",
+"topic": "it"
+},
+{
+"en": "unit test",
+"uk": "юніт-тест",
+"topic": "it"
+},
+{
+"en": "mock",
+"uk": "мок",
+"topic": "it"
+},
+{
+"en": "pipeline",
+"uk": "пайплайн",
+"topic": "it"
+},
+{
+"en": "runtime",
+"uk": "рантайм",
+"topic": "it"
+},
+{
+"en": "thread",
+"uk": "тред",
+"topic": "it"
+},
+{
+"en": "callback",
+"uk": "колбек",
+"topic": "it"
+},
+{
+"en": "handler",
+"uk": "хендлер",
+"topic": "it"
+},
+{
+"en": "listener",
+"uk": "лісенер",
+"topic": "it"
+},
+{
+"en": "event",
+"uk": "івент",
+"topic": "it"
+},
+{
+"en": "dump",
+"uk": "дамп",
+"topic": "it"
+},
+{
+"en": "crash",
+"uk": "креш",
+"topic": "it"
+},
+{
+"en": "client",
+"uk": "клієнт",
+"topic": "it"
+},
+{
+"en": "grid",
+"uk": "грід",
+"topic": "it"
+},
+{
+"en": "mainframe",
+"uk": "мейнфрейм",
+"topic": "it"
+},
+{
+"en": "macros",
+"uk": "макрос",
+"topic": "it"
+},
+{
+"en": "template",
+"uk": "темплейт",
+"topic": "it"
+},
+{
+"en": "snippet",
+"uk": "сніпет",
+"topic": "it"
+},
+{
+"en": "regex",
+"uk": "регекс",
+"topic": "it"
+},
+{
+"en": "string",
+"uk": "стрінг",
+"topic": "it"
+},
+{
+"en": "pointer",
+"uk": "поінтер",
+"topic": "it"
+},
+{
+"en": "stack",
+"uk": "стек",
+"topic": "it"
+},
+{
+"en": "graph",
+"uk": "граф",
+"topic": "it"
+},
+{
+"en": "lambda",
+"uk": "лямбда",
+"topic": "it"
+},
+{
+"en": "generic",
+"uk": "дженерик",
+"topic": "it"
+},
+{
+"en": "hex",
+"uk": "хекс",
+"topic": "it"
+},
+{
+"en": "shell",
+"uk": "шел",
+"topic": "it"
+},
+{
+"en": "bash",
+"uk": "баш",
+"topic": "it"
+},
+{
+"en": "scripting",
+"uk": "скриптинг",
+"topic": "it"
+},
+{
+"en": "cron",
+"uk": "крон",
+"topic": "it"
+},
+{
+"en": "VPN",
+"uk": "VPN",
+"topic": "it"
+},
+{
+"en": "DNS",
+"uk": "DNS",
+"topic": "it"
+},
+{
+"en": "webmaster",
+"uk": "вебмайстер",
+"topic": "it"
+},
+{
+"en": "web design",
+"uk": "вебдизайн",
+"topic": "it"
+},
+{
+"en": "web designer",
+"uk": "вебдизайнер",
+"topic": "it"
+},
+{
+"en": "webinar",
+"uk": "вебінар",
+"topic": "it"
+},
+{
+"en": "kilohertz",
+"uk": "кілогерц",
+"topic": "it"
+},
+{
+"en": "transmitter",
+"uk": "трансмітер",
+"topic": "it"
+},
+{
+"en": "receiver",
+"uk": "ресивер",
+"topic": "it"
+},
+{
+"en": "tuner",
+"uk": "тюнер",
+"topic": "it"
+},
+{
+"en": "subwoofer",
+"uk": "сабвуфер",
+"topic": "it"
+},
+{
+"en": "equalizer",
+"uk": "еквалайзер",
+"topic": "it"
+},
+{
+"en": "synthesizer",
+"uk": "синтезатор",
+"topic": "it"
+},
+{
+"en": "mixer",
+"uk": "мікшер",
+"topic": "it"
+},
+{
+"en": "speaker",
+"uk": "спікер",
+"topic": "it"
+},
+{
+"en": "screencast",
+"uk": "скринкаст",
+"topic": "it"
+},
+{
+"en": "keynote",
+"uk": "кейноут",
+"topic": "it"
+},
+{
+"en": "hackintosh",
+"uk": "хакінтош",
+"topic": "it"
+},
+{
+"en": "quest",
+"uk": "квест",
+"topic": "it"
+},
+{
+"en": "shooter",
+"uk": "шутер",
+"topic": "it"
+},
+{
+"en": "RPG",
+"uk": "RPG",
+"topic": "it"
+},
+{
+"en": "lootbox",
+"uk": "лутбокс",
+"topic": "it"
+},
+{
+"en": "loot",
+"uk": "лут",
+"topic": "it"
+},
+{
+"en": "respawn",
+"uk": "респаун",
+"topic": "it"
+},
+{
+"en": "spawn",
+"uk": "спавн",
+"topic": "it"
+},
+{
+"en": "tank",
+"uk": "танк",
+"topic": "it"
+},
+{
+"en": "buff",
+"uk": "баф",
+"topic": "it"
+},
+{
+"en": "nerf",
+"uk": "нерф",
+"topic": "it"
+},
+{
+"en": "raid",
+"uk": "рейд",
+"topic": "it"
+},
+{
+"en": "clan",
+"uk": "клан",
+"topic": "it"
+},
+{
+"en": "donate",
+"uk": "донат",
+"topic": "it"
+},
+{
+"en": "donator",
+"uk": "донатер",
+"topic": "it"
+},
+{
+"en": "cosplay",
+"uk": "косплей",
+"topic": "it"
+},
+{
+"en": "fandom",
+"uk": "фандом",
+"topic": "it"
+},
+{
+"en": "fanfic",
+"uk": "фанфік",
+"topic": "it"
+},
+{
+"en": "anime",
+"uk": "аніме",
+"topic": "it"
+},
+{
+"en": "manga",
+"uk": "манга",
+"topic": "it"
+}
+]
