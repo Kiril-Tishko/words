@@ -12,6 +12,13 @@ Open `index.html` in a browser. It works offline, and on any static host such as
 - **Hide slang** (on by default) hides pairs whose Ukrainian word is slang, colloquial or rare (people = піпл), and rude English words. **Topics** filters a band by topic.
 - **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
 
+### Stories
+The **Stories** tab groups the most useful words (Top 1000 to Top 20K) into short scenes.
+- **The grouping:** a linguist designed parts that run like a course: first words, café, shopping, travel, work, home, health, sport, media, the wider world. Each part is split into chapters. Each chapter is one scene with Anna, a student in Kyiv, and her friend Max (`docs/review/grouping.md`).
+- **The story:** each chapter has a short, simple English story that uses its words in order. Click a word to hear it and see its card. The cards follow in the same order, and **Train these words** drills the chapter.
+- **Exclamations:** wow, oops, hmm, bravo, ciao, meow and the like have their own part at the end, with short dialogues.
+- **How it is built:** `tools/build_stories.py` runs the pipeline. A linguist outline (`data/stories/outline.json`) comes first. Then `tools/workflows/story-assign.js` places every word and `tools/workflows/story-write.js` writes the stories. The result is `data/stories/stories.json`, which becomes `stories.js`.
+
 ### Pictures
 The back of every card has a picture place.
 - About 470 cards (taxi, hotel, doctor, guitar, koala…) show a picture from **Noto Emoji** (Google, Apache License 2.0).

@@ -163,6 +163,32 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .big.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
 .score { font-family: var(--word); font-size: 28px; }
 
+/* stories: chapters of words that make a little story */
+.toc { display: flex; flex-direction: column; gap: 26px; }
+.toc h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 2px; }
+.toc section { scroll-margin-top: 12px; }
+.toc .parts .chip { font-size: 13px; padding: 5px 10px; }
+.toc .about { color: var(--muted); font-size: 13.5px; margin: 0 0 10px; }
+.tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+@media (max-width: 900px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 480px) { .tiles { grid-template-columns: minmax(0, 1fr); } }
+.tile { display: flex; flex-direction: column; gap: 3px; text-align: left; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line);
+  background: var(--card); box-shadow: var(--shadow); color: inherit; text-decoration: none; min-width: 0; }
+.tile:hover { border-color: var(--accent); }
+.tile .tn { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.tile b { font-family: var(--word); font-weight: 600; font-size: 16px; line-height: 1.25; }
+.tile .tw { color: var(--muted); font-size: 12.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.chapter { display: flex; flex-direction: column; gap: 14px; }
+.ch-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; color: var(--muted); font-size: 13px; }
+.ch-top a, .ch-nav a { color: var(--accent); text-decoration: none; }
+.chapter h2 { font-family: var(--word); font-weight: 600; font-size: clamp(22px, 3vw, 28px); margin: 0; }
+.story { font-size: 17px; line-height: 1.65; max-width: 70ch; margin: 0; white-space: pre-line; }
+.story .sw { font-weight: 600; color: var(--fg); background: var(--accent-soft); border-radius: 4px; padding: 0 3px; cursor: pointer; }
+.story .sw:hover { color: var(--accent); }
+.ch-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.ch-nav { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 6px; font-size: 14px; }
+.card.flash .face { box-shadow: 0 0 0 3px var(--accent); transition: box-shadow .2s; }
+
 .blank { color: var(--muted); text-align: center; padding: 48px 0; }
 .foot { color: var(--muted); font-size: 12px; text-align: center; padding-top: 28px; opacity: .8; }
 @media (prefers-reduced-motion: reduce) { .inner { transition: none; } }
@@ -227,7 +253,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 
   const $ = s => document.querySelector(s);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-  const plural = (n, w) => n + ' ' + w + (n === 1 ? '' : 's');
+  const plural = (n, w) => n.toLocaleString('en-US') + ' ' + (n === 1 ? w : /[^aeiou]y$/.test(w) ? w.slice(0, -1) + 'ies' : w + 's');
   const FLAG = '<svg class="flag" viewBox="0 0 60 30" aria-label="British English" role="img"><g clip-path="url(#fc)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#ft)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>';
   const SAY = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9.5h3.5L12 5.5v13l-4.5-4H4z"/><path d="M15.5 9a4 4 0 0 1 0 6M18 6.5a7.5 7.5 0 0 1 0 11"/></svg>';
   const PLUS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>';
@@ -320,8 +346,35 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   }
   const canPlay = w => (AUDIO && w.au) || canSpeak;
 
+  // ---------- stories: chapters of words in story order (stories.js, loaded when the tab is opened)
+  const BY_EN = new Map(WORDS.map(w => [w.en, w]));
+  let storiesLoad = null;
+  function loadStories() {
+    if (!storiesLoad) {
+      storiesLoad = window.STORIES ? Promise.resolve() : new Promise((res, rej) => {
+        const s = document.createElement('script');
+        s.src = 'stories.js'; s.async = true;
+        s.onload = res; s.onerror = () => { storiesLoad = null; rej(); };
+        document.head.appendChild(s);
+      });
+    }
+    return storiesLoad;
+  }
+  const isStory = level => /^story-/.test(level || '');
+  function chapterOf(level) {
+    const S = window.STORIES;
+    if (!S || !isStory(level)) return null;
+    const id = level.slice(6);
+    const i = S.chapters.findIndex(c => c.id.toLowerCase() === id);
+    return i < 0 ? null : { c: S.chapters[i], i: i };
+  }
+
   // ---------- lists
   function baseList(level) {
+    if (isStory(level)) {   // a story keeps all its words, in story order
+      const ch = chapterOf(level);
+      return ch ? ch.c.words.map(en => BY_EN.get(en)).filter(Boolean) : [];
+    }
     let l = level === 'mine' ? WORDS.filter(w => mine.has(w.id)) : (byLevel[level] || []);
     if (state.hideNs) l = l.filter(w => !w.ns && !w.rude);
     return l;
@@ -426,10 +479,11 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   // ---------- header
   function renderLevels() {
     const items = LEVELS.filter(l => (byLevel[l] || []).length).map(l => [l, LEVEL_NAMES[l], null])
-      .concat([['mine', 'My words', baseList('mine').length], ['train', 'Train', null]]);
+      .concat([['stories', 'Stories', null], ['mine', 'My words', baseList('mine').length], ['train', 'Train', null]]);
+    const on = key => state.level === key || (key === 'stories' && isStory(state.level));
     $('#levels').innerHTML = items.map(([key, label, n]) =>
-      (key === 'mine' ? '<span class="sep"></span>' : '') +
-      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + (state.level === key) + '"' +
+      (key === 'stories' ? '<span class="sep"></span>' : '') +
+      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + on(key) + '"' +
       (BAND_TIP[key] ? ' title="' + BAND_TIP[key] + '"' : '') + '>' + label + (n !== null ? '<small>' + n + '</small>' : '') + '</button>').join('');
     const a = $('#levels [aria-pressed="true"]');
     if (a && a.scrollIntoView && window.innerWidth <= 640) a.scrollIntoView({ inline: 'center', block: 'nearest' });
@@ -450,28 +504,88 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     if (!all) return state.level === 'mine' ? 'No words yet. Press + on a card to add it here.' : 'No words in this group yet.';
     return 'All cards here are hidden by "Hide slang" or the topic.';
   }
+  function storyHTML(text) {   // [[word]] or [[form|word]] -> a highlighted, clickable word
+    const unesc = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+    return esc(text).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, form, en) => {
+      const key = unesc((en || form).trim());
+      const w = BY_EN.get(key);
+      return w ? '<b class="sw" tabindex="0" lang="en" title="' + esc(w.en + ' = ' + w.uk) + '" data-sw="' + esc(key) + '">' + form + '</b>' : form;
+    });
+  }
+  function renderTOC() {
+    const S = window.STORIES;
+    $('#count').textContent = plural(S.chapters.length, 'story');
+    const used = S.parts.filter(p => S.chapters.some(c => c.part === p.id));
+    $('#main').innerHTML = '<div class="toc">' +
+      '<nav class="bar parts" aria-label="Parts">' + used.map(p => '<button class="chip" data-part="' + esc(p.id) + '">' + esc(p.title) + '</button>').join('') + '</nav>' +
+      used.map(p => {
+      const cs = S.chapters.filter(c => c.part === p.id);
+      return '<section id="part-' + esc(p.id) + '"><h2>' + esc(p.title) + '</h2>' + (p.about ? '<p class="about">' + esc(p.about) + '</p>' : '') +
+        '<div class="tiles">' + cs.map(c => '<a class="tile" href="#story-' + esc(c.id.toLowerCase()) + '">' +
+          '<span class="tn">' + (S.chapters.indexOf(c) + 1) + ' · ' + plural(c.words.length, 'word') + '</span>' +
+          '<b>' + esc(c.title) + '</b><span class="tw">' + esc(c.words.slice(0, 6).join(' · ')) + '</span></a>').join('') +
+        '</div></section>';
+    }).join('') + '</div>';
+  }
+  function chapterTop(ch) {
+    const S = window.STORIES, c = ch.c, part = S.parts.find(p => p.id === c.part);
+    return '<div class="chapter">' +
+      '<div class="ch-top"><a href="#stories">← All stories</a><span>' + esc(part ? part.title : '') + ' · ' + (ch.i + 1) + ' / ' + S.chapters.length + '</span></div>' +
+      '<h2>' + esc(c.title) + '</h2>' +
+      (c.story ? '<p class="story">' + storyHTML(c.story) + '</p>' : '') +
+      '<div class="ch-actions"><button class="chip" id="ch-train">Train these words</button></div></div>';
+  }
+  function chapterNav(ch) {
+    const S = window.STORIES, prev = S.chapters[ch.i - 1], next = S.chapters[ch.i + 1];
+    return '<div class="ch-nav">' + (prev ? '<a href="#story-' + esc(prev.id.toLowerCase()) + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
+      (next ? '<a href="#story-' + esc(next.id.toLowerCase()) + '">' + esc(next.title) + ' →</a>' : '') + '</div>';
+  }
+  function storyWord(en) {   // a word in the story: say it and show its card
+    const w = BY_EN.get(en); if (!w) return;
+    playWord(w);
+    if (state.view === 'single') {
+      const i = current().indexOf(w);
+      if (i >= 0 && i !== state.idx) { state.idx = i; render(); }
+    }
+    const card = Array.from(document.querySelectorAll('.card')).find(c => c.dataset.id === w.id);
+    if (!card) return;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 1200);
+  }
   function render() {
     renderLevels();
-    const training = state.level === 'train';
-    if (!training) renderTopics();
-    $('#views').hidden = training;
+    const training = state.level === 'train', toc = state.level === 'stories', story = isStory(state.level);
+    if ((toc || story) && !window.STORIES) {
+      $('#views').hidden = true; $('#count').textContent = '';
+      $('#main').innerHTML = '<div class="blank">Loading stories…</div>';
+      loadStories().then(render).catch(() => { $('#main').innerHTML = '<div class="blank">Stories could not be loaded.</div>'; });
+      return;
+    }
+    if (!training && !toc && !story) renderTopics();
+    $('#views').hidden = training || toc;
+    ['v-shuffle', 'topic', 'f-ns'].forEach(id => { $('#' + id).style.display = story ? 'none' : ''; });   // a story keeps its order and all its words
     ['grid', 'single'].forEach(v => $('#v-' + v).setAttribute('aria-pressed', state.view === v));
     $('#v-shuffle').setAttribute('aria-pressed', state.shuffled);
     $('#f-ns').setAttribute('aria-pressed', state.hideNs);
     if (training) return renderTrain();
+    if (toc) return renderTOC();
+    const ch = story ? chapterOf(state.level) : null;
+    if (story && !ch) { $('#count').textContent = ''; $('#main').innerHTML = '<div class="blank">This story was not found. <a href="#stories">All stories</a></div>'; return; }
+    const top = ch ? chapterTop(ch) : '', bottom = ch ? chapterNav(ch) : '';
     const list = current();
     $('#count').textContent = list.length ? plural(list.length, 'word') : '';
-    if (!list.length) { $('#main').innerHTML = '<div class="blank">' + emptyMessage() + '</div>'; return; }
-    if (state.level !== 'mine') loadDetails(state.level).catch(() => {});
+    if (!list.length) { $('#main').innerHTML = top + '<div class="blank">' + emptyMessage() + '</div>' + bottom; return; }
+    if (story) Array.from(new Set(list.map(w => w.band))).forEach(b => loadDetails(b).catch(() => {}));
+    else if (state.level !== 'mine') loadDetails(state.level).catch(() => {});
     if (state.view === 'grid') {
-      $('#main').innerHTML = '<div class="grid" id="grid"></div><div class="more" id="more"></div>';
+      $('#main').innerHTML = top + '<div class="grid" id="grid"></div><div class="more" id="more"></div>' + bottom;
       appendCards();
     } else {
       state.idx = Math.max(0, Math.min(state.idx, list.length - 1));
-      $('#main').innerHTML = '<div class="single">' + cardHTML(list[state.idx]) +
+      $('#main').innerHTML = top + '<div class="single">' + cardHTML(list[state.idx]) +
         '<div class="nav"><button class="chip" id="prev" aria-label="Previous">←</button>' +
         '<span class="count">' + (state.idx + 1) + ' / ' + list.length + '</span>' +
-        '<button class="chip" id="next" aria-label="Next">→</button></div></div>';
+        '<button class="chip" id="next" aria-label="Next">→</button></div></div>' + bottom;
     }
   }
   const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => {
@@ -492,10 +606,17 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   // ---------- training (basic): see the Ukrainian word, recall the English word
   let tr = null;
   function startTrain() {
-    let pool = baseList('mine'), sample = false;
-    if (!pool.length) { pool = baseList(state.prev || LEVELS[0]).slice(0, 10); sample = true; }
+    let pool, note = '';
+    if (state.trainPool) { pool = state.trainPool; note = 'Words from the story "' + state.trainTitle + '".'; }
+    else {
+      pool = baseList('mine');
+      if (!pool.length) {
+        pool = baseList(state.prev || LEVELS[0]).slice(0, 10);
+        note = 'Sample words from ' + (LEVEL_NAMES[state.prev] || 'this group') + '. Add your own with + on any card.';
+      }
+    }
     pool = shuffleIdx(pool.length).map(i => pool[i]);
-    tr = { queue: pool, i: 0, shown: false, known: 0, again: [], missed: new Set(), sample: sample, total: pool.length, round: 1 };
+    tr = { queue: pool, i: 0, shown: false, known: 0, again: [], missed: new Set(), note: note, total: pool.length, round: 1 };
   }
   function renderTrain() {
     if (!tr) startTrain();
@@ -511,7 +632,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     }
     const w = tr.queue[tr.i];
     $('#main').innerHTML = '<div class="train">' +
-      (tr.sample ? '<div class="hint">Sample words from ' + LEVEL_NAMES[state.prev || LEVELS[0]] + '. Add your own with + on any card.</div>' : '') +
+      (tr.note ? '<div class="hint">' + esc(tr.note) + '</div>' : '') +
       '<div class="card"><div class="inner"><div class="face front">' +
         '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div><div class="eq">=</div>' +
         '<div class="en" style="--n:' + longest(w.en) + '">' + (tr.shown ? stressed(w) : '?') + '</div>' +
@@ -532,8 +653,16 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   let swiped = false;
   document.addEventListener('click', e => {
     if (swiped) { swiped = false; return; }
+    const sw = e.target.closest && e.target.closest('.sw');
+    if (sw) { storyWord(sw.dataset.sw); return; }
     const t = e.target.closest('button, .card');
     if (!t) return;
+    if (t.dataset.part) { const sec = document.getElementById('part-' + t.dataset.part); if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
+    if (t.id === 'ch-train') {
+      const ch = chapterOf(state.level);
+      if (ch) { state.trainPool = current().slice(); state.trainTitle = ch.c.title; go('train'); }
+      return;
+    }
     if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid), t); return; }
     if (t.dataset.add) {
       e.stopPropagation();
@@ -578,6 +707,10 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       else if ((e.key === '2' || e.key === 'ArrowRight') && tr.shown) trainAnswer(true);
       return;
     }
+    if ((e.key === 'Enter' || e.key === ' ') && document.activeElement && document.activeElement.classList.contains('sw')) {
+      e.preventDefault(); storyWord(document.activeElement.dataset.sw); return;
+    }
+    if (state.level === 'stories') return;
     if (e.key === 'ArrowRight' && state.view === 'single') move(1);
     else if (e.key === 'ArrowLeft' && state.view === 'single') move(-1);
     else if (e.key === ' ' || e.key === 'Enter') {
@@ -601,20 +734,23 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     state.idx = (state.idx + d + n) % n; render();
     const c = document.querySelector('.single .card'); if (c) c.focus({ preventScroll: true });
   }
+  const keepsPrev = level => level !== 'train' && level !== 'mine' && level !== 'stories';
   function go(level) {
-    if (level !== 'train' && level !== 'mine') state.prev = level;
+    if (keepsPrev(level)) state.prev = level;
     if (location.hash.slice(1) !== level) { location.hash = level; return; }   // hashchange renders, so Back works
     open(level);
   }
   function open(level) {
     if (level === 'train' || state.level === 'train') tr = null;
-    if (level !== 'train' && level !== 'mine') state.prev = level;
+    if (level !== 'train') state.trainPool = null;
+    if (keepsPrev(level)) state.prev = level;
     state.level = level; state.order = null; state.idx = 0;
     render();
+    if (isStory(level) || level === 'stories') window.scrollTo(0, 0);
   }
   function fromHash() {
     const h = (location.hash || '').slice(1).toLowerCase();
-    if (LEVELS.indexOf(h) >= 0 || h === 'mine' || h === 'train') return h;
+    if (LEVELS.indexOf(h) >= 0 || h === 'mine' || h === 'train' || h === 'stories' || isStory(h)) return h;
     return LEVELS.find(x => (byLevel[x] || []).length) || LEVELS[0];
   }
   window.addEventListener('hashchange', () => open(fromHash()));
