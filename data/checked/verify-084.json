@@ -1,0 +1,927 @@
+[
+ {
+  "en": "graff",
+  "uk": "графф",
+  "v": "unrelated"
+ },
+ {
+  "en": "gretzky",
+  "uk": "грецкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guevara",
+  "uk": "гевара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herbicide",
+  "uk": "гербіциди",
+  "v": "not_lemma",
+  "ce": "herbicide",
+  "cu": "гербіцид",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hpa",
+  "uk": "гпа",
+  "v": "unrelated"
+ },
+ {
+  "en": "hunan",
+  "uk": "хунань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hyena",
+  "uk": "гієна",
+  "v": "identical",
+  "ce": "hyena",
+  "cu": "гієна",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "janssen",
+  "uk": "янссен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jordi",
+  "uk": "жорді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kata",
+  "uk": "ката",
+  "v": "identical",
+  "ce": "kata",
+  "cu": "ката",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kilowatt",
+  "uk": "кіловат",
+  "v": "identical",
+  "ce": "kilowatt",
+  "cu": "кіловат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "laval",
+  "uk": "лаваль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lazar",
+  "uk": "лазар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liquidate",
+  "uk": "ліквідувати",
+  "v": "similar",
+  "ce": "liquidate",
+  "cu": "ліквідувати",
+  "note": "Ukrainian verb ending -увати"
+ },
+ {
+  "en": "lobo",
+  "uk": "лобо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lovejoy",
+  "uk": "лавджой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macao",
+  "uk": "макао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mennonite",
+  "uk": "меноніти",
+  "v": "not_lemma",
+  "ce": "Mennonite",
+  "cu": "меноніт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Written with a capital letter in English."
+ },
+ {
+  "en": "messier",
+  "uk": "мессьє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "messier",
+  "uk": "месьє",
+  "v": "unrelated"
+ },
+ {
+  "en": "miki",
+  "uk": "мікі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "milos",
+  "uk": "мілос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monrovia",
+  "uk": "монровія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moro",
+  "uk": "моро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muhammed",
+  "uk": "мухаммед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nac",
+  "uk": "нак",
+  "v": "unrelated"
+ },
+ {
+  "en": "noe",
+  "uk": "ное",
+  "v": "proper_noun"
+ },
+ {
+  "en": "norah",
+  "uk": "нора",
+  "v": "proper_noun"
+ },
+ {
+  "en": "norbert",
+  "uk": "норберт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orangutan",
+  "uk": "орангутан",
+  "v": "identical",
+  "ce": "orangutan",
+  "cu": "орангутан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pacino",
+  "uk": "пачіно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paloma",
+  "uk": "палома",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pasteur",
+  "uk": "пастер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "politburo",
+  "uk": "політбюро",
+  "v": "identical",
+  "ce": "politburo",
+  "cu": "політбюро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "Used mainly about the Soviet Union and other communist states; often capitalized (Politburo)."
+ },
+ {
+  "en": "pontiff",
+  "uk": "понтифік",
+  "v": "similar",
+  "ce": "pontiff",
+  "cu": "понтифік",
+  "note": "Ukrainian form follows Latin pontifex (-ік)"
+ },
+ {
+  "en": "pretender",
+  "uk": "претендент",
+  "v": "similar",
+  "ce": "pretender",
+  "cu": "претендент",
+  "note": "Different suffix: -er vs -ент"
+ },
+ {
+  "en": "proletarian",
+  "uk": "пролетарський",
+  "v": "similar",
+  "ce": "proletarian",
+  "cu": "пролетарський",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "proletarian",
+  "uk": "пролетарка",
+  "v": "similar",
+  "ce": "proletarian",
+  "cu": "пролетарка",
+  "note": "Ukrainian feminine noun (masculine пролетар)"
+ },
+ {
+  "en": "radium",
+  "uk": "радій",
+  "v": "similar",
+  "ce": "radium",
+  "cu": "радій",
+  "note": "Latin -ium becomes -ій"
+ },
+ {
+  "en": "reb",
+  "uk": "реб",
+  "v": "identical",
+  "ce": "reb",
+  "cu": "реб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion"
+  ],
+  "note": "A title used before a man's name among traditional Jews (Reb Moshe); in US history also slang for a Confederate soldier."
+ },
+ {
+  "en": "ree",
+  "uk": "рі",
+  "v": "unrelated"
+ },
+ {
+  "en": "renner",
+  "uk": "реннер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "resonator",
+  "uk": "резонатор",
+  "v": "identical",
+  "ce": "resonator",
+  "cu": "резонатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rojas",
+  "uk": "рохас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schilling",
+  "uk": "шилінг",
+  "v": "identical",
+  "ce": "schilling",
+  "cu": "шилінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "The former currency of Austria; the old British coin is spelled 'shilling'."
+ },
+ {
+  "en": "simi",
+  "uk": "сімі",
+  "v": "unrelated"
+ },
+ {
+  "en": "sita",
+  "uk": "сіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sloop",
+  "uk": "шлюп",
+  "v": "similar",
+  "ce": "sloop",
+  "cu": "шлюп",
+  "note": "s written as ш, oo as ю (from Dutch sloep)"
+ },
+ {
+  "en": "statisticians",
+  "uk": "статистиків",
+  "v": "not_lemma",
+  "ce": "statistician",
+  "cu": "статистик",
+  "lv": "similar",
+  "note": "Ukrainian drops -ian"
+ },
+ {
+  "en": "stenosis",
+  "uk": "стеноз",
+  "v": "similar",
+  "ce": "stenosis",
+  "cu": "стеноз",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "stv",
+  "uk": "ств",
+  "v": "unrelated"
+ },
+ {
+  "en": "tama",
+  "uk": "тама",
+  "v": "unrelated"
+ },
+ {
+  "en": "trieste",
+  "uk": "трієст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vir",
+  "uk": "вир",
+  "v": "unrelated"
+ },
+ {
+  "en": "wadi",
+  "uk": "ваді",
+  "v": "identical",
+  "ce": "wadi",
+  "cu": "ваді",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "widgets",
+  "uk": "віджети",
+  "v": "not_lemma",
+  "ce": "widget",
+  "cu": "віджет",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": "Also informal: any small gadget or device."
+ },
+ {
+  "en": "wilkie",
+  "uk": "вілкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zum",
+  "uk": "зам",
+  "v": "unrelated"
+ },
+ {
+  "en": "acetone",
+  "uk": "ацетон",
+  "v": "identical",
+  "ce": "acetone",
+  "cu": "ацетон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "adel",
+  "uk": "адель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amine",
+  "uk": "амін",
+  "v": "identical",
+  "ce": "amine",
+  "cu": "амін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "amine",
+  "uk": "аміни",
+  "v": "not_lemma",
+  "ce": "amine",
+  "cu": "амін",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anathema",
+  "uk": "анатема",
+  "v": "identical",
+  "ce": "anathema",
+  "cu": "анатема",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "religion"
+  ],
+  "note": "Most often used as 'be anathema to someone' = be strongly disliked by them."
+ },
+ {
+  "en": "anathema",
+  "uk": "анафема",
+  "v": "similar",
+  "ce": "anathema",
+  "cu": "анафема",
+  "note": "th written as ф (variant анатема keeps т)"
+ },
+ {
+  "en": "angelique",
+  "uk": "ангелік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anni",
+  "uk": "анні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "auguste",
+  "uk": "огюст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barrack",
+  "uk": "барак",
+  "v": "identical",
+  "ce": "barrack",
+  "cu": "барак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "places"
+  ],
+  "note": "Usually plural 'barracks'; most often the buildings where soldiers live."
+ },
+ {
+  "en": "belvedere",
+  "uk": "бельведер",
+  "v": "identical",
+  "ce": "belvedere",
+  "cu": "бельведер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bia",
+  "uk": "біа",
+  "v": "unrelated"
+ },
+ {
+  "en": "bonham",
+  "uk": "бонем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bonsai",
+  "uk": "бонсай",
+  "v": "identical",
+  "ce": "bonsai",
+  "cu": "бонсай",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bronte",
+  "uk": "бронте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "calibrate",
+  "uk": "калібрувати",
+  "v": "similar",
+  "ce": "calibrate",
+  "cu": "калібрувати",
+  "note": "Ukrainian verb ending -увати"
+ },
+ {
+  "en": "cation",
+  "uk": "катіон",
+  "v": "identical",
+  "ce": "cation",
+  "cu": "катіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "centaur",
+  "uk": "центавр",
+  "v": "similar",
+  "ce": "centaur",
+  "cu": "центавр",
+  "note": "au written as ав; dated variant of кентавр"
+ },
+ {
+  "en": "centaur",
+  "uk": "кентавр",
+  "v": "similar",
+  "ce": "centaur",
+  "cu": "кентавр",
+  "note": "au written as ав"
+ },
+ {
+  "en": "chloroform",
+  "uk": "хлороформ",
+  "v": "identical",
+  "ce": "chloroform",
+  "cu": "хлороформ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "coaxial",
+  "uk": "коаксіальний",
+  "v": "similar",
+  "ce": "coaxial",
+  "cu": "коаксіальний",
+  "note": "Ukrainian adjective ending -альний"
+ },
+ {
+  "en": "colman",
+  "uk": "колман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "condon",
+  "uk": "кондон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coronado",
+  "uk": "коронадо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "corrie",
+  "uk": "коррі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "corsica",
+  "uk": "корсика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cristo",
+  "uk": "крісто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crème",
+  "uk": "крем",
+  "v": "identical",
+  "ce": "crème",
+  "cu": "крем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Used mainly in French dish names (crème brûlée, crème caramel); the everyday English word is 'cream'."
+ },
+ {
+  "en": "demarcation",
+  "uk": "демаркаційна",
+  "v": "not_lemma",
+  "ce": "demarcation",
+  "cu": "демаркація",
+  "lv": "similar",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "demarcation line",
+  "uk": "демаркаційна лінія",
+  "v": "similar",
+  "ce": "demarcation line",
+  "cu": "демаркаційна лінія",
+  "note": "Ukrainian adjective ending -ійна; line = лінія"
+ },
+ {
+  "en": "desai",
+  "uk": "десаї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "drogba",
+  "uk": "дрогба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dunfermline",
+  "uk": "данфермлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eren",
+  "uk": "ерен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "espinosa",
+  "uk": "еспіноса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ewe",
+  "uk": "еве",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fap",
+  "uk": "фап",
+  "v": "unrelated"
+ },
+ {
+  "en": "feta",
+  "uk": "фета",
+  "v": "identical",
+  "ce": "feta",
+  "cu": "фета",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "international"
+  ],
+  "note": ""
+ },
+ {
+  "en": "florian",
+  "uk": "флоріан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "frieze",
+  "uk": "фриз",
+  "v": "identical",
+  "ce": "frieze",
+  "cu": "фриз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "giacomo",
+  "uk": "джакомо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "golem",
+  "uk": "голем",
+  "v": "identical",
+  "ce": "golem",
+  "cu": "голем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "golem",
+  "uk": "ґолем",
+  "v": "identical",
+  "ce": "golem",
+  "cu": "голем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "granules",
+  "uk": "гранули",
+  "v": "not_lemma",
+  "ce": "granule",
+  "cu": "гранула",
+  "lv": "similar",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "gujarati",
+  "uk": "гуджараті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gujarati",
+  "uk": "гуджаратський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haywood",
+  "uk": "гейвуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herodotus",
+  "uk": "геродот",
+  "v": "proper_noun"
+ },
+ {
+  "en": "holbrook",
+  "uk": "голбрук",
+  "v": "proper_noun"
+ },
+ {
+  "en": "humber",
+  "uk": "гамбер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "idioms",
+  "uk": "ідіом",
+  "v": "not_lemma",
+  "ce": "idiom",
+  "cu": "ідіома",
+  "lv": "similar",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "illustrators",
+  "uk": "ілюстратори",
+  "v": "not_lemma",
+  "ce": "illustrator",
+  "cu": "ілюстратор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "javi",
+  "uk": "хаві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jute",
+  "uk": "джут",
+  "v": "identical",
+  "ce": "jute",
+  "cu": "джут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kristian",
+  "uk": "крістіан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lido",
+  "uk": "лідо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lise",
+  "uk": "ліз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lucerne",
+  "uk": "люцерн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mangoes",
+  "uk": "манго",
+  "v": "not_lemma",
+  "ce": "mango",
+  "cu": "манго",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "international"
+  ],
+  "note": "Plural: mangoes or mangos."
+ },
+ {
+  "en": "manipur",
+  "uk": "маніпур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "margaritas",
+  "uk": "маргарити",
+  "v": "not_lemma",
+  "ce": "margarita",
+  "cu": "маргарита",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "martens",
+  "uk": "мартенс",
+  "v": "proper_noun"
+ }
+]

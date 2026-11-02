@@ -1,0 +1,894 @@
+[
+ {
+  "en": "olympiad",
+  "uk": "олімпіада",
+  "v": "similar",
+  "ce": "olympiad",
+  "cu": "олімпіада",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "pape",
+  "uk": "пап",
+  "v": "unrelated"
+ },
+ {
+  "en": "passivity",
+  "uk": "пасивність",
+  "v": "similar",
+  "ce": "passivity",
+  "cu": "пасивність",
+  "note": "Different suffix (-ity vs -ність)."
+ },
+ {
+  "en": "perdue",
+  "uk": "пердью",
+  "v": "proper_noun"
+ },
+ {
+  "en": "piezoelectric",
+  "uk": "п'єзоелектричний",
+  "v": "similar",
+  "ce": "piezoelectric",
+  "cu": "п'єзоелектричний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "plessis",
+  "uk": "плессі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "postulate",
+  "uk": "постулат",
+  "v": "identical",
+  "ce": "postulate",
+  "cu": "постулат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": "Also a verb: to postulate (to assume something is true)."
+ },
+ {
+  "en": "pyrotechnics",
+  "uk": "піротехніка",
+  "v": "similar",
+  "ce": "pyrotechnics",
+  "cu": "піротехніка",
+  "note": "-ics vs -іка."
+ },
+ {
+  "en": "rabat",
+  "uk": "рабат",
+  "v": "false_friend",
+  "ce": "rabat",
+  "cu": "рабат",
+  "note": "In English: a clerical collar (rare); not a discount."
+ },
+ {
+  "en": "rationalism",
+  "uk": "раціоналізм",
+  "v": "identical",
+  "ce": "rationalism",
+  "cu": "раціоналізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "riemann",
+  "uk": "ріман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rubinstein",
+  "uk": "рубінштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saipan",
+  "uk": "сайпан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shania",
+  "uk": "шанайя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shaquille",
+  "uk": "шакіл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sikkim",
+  "uk": "сіккім",
+  "v": "proper_noun"
+ },
+ {
+  "en": "speedometer",
+  "uk": "спідометр",
+  "v": "identical",
+  "ce": "speedometer",
+  "cu": "спідометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "styx",
+  "uk": "стікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "subordination",
+  "uk": "субординація",
+  "v": "similar",
+  "ce": "subordination",
+  "cu": "субординація",
+  "note": "-tion vs -ція."
+ },
+ {
+  "en": "tahrir",
+  "uk": "тахрір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tarn",
+  "uk": "тарн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tiber",
+  "uk": "тибр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tokugawa",
+  "uk": "токуґава",
+  "v": "proper_noun"
+ },
+ {
+  "en": "uttarakhand",
+  "uk": "уттаракханд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vegetarianism",
+  "uk": "вегетаріанство",
+  "v": "similar",
+  "ce": "vegetarianism",
+  "cu": "вегетаріанство",
+  "note": "Different suffix (-ism vs -ство)."
+ },
+ {
+  "en": "vizier",
+  "uk": "візир",
+  "v": "identical",
+  "ce": "vizier",
+  "cu": "візир",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "politics"
+  ],
+  "note": "A historical title (high minister) in Muslim states."
+ },
+ {
+  "en": "vries",
+  "uk": "вріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wali",
+  "uk": "валі",
+  "v": "identical",
+  "ce": "wali",
+  "cu": "валі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "A governor of a province in some Muslim states."
+ },
+ {
+  "en": "wicca",
+  "uk": "вікка",
+  "v": "identical",
+  "ce": "Wicca",
+  "cu": "вікка",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Written with a capital letter: Wicca."
+ },
+ {
+  "en": "zhi",
+  "uk": "чжи",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zircon",
+  "uk": "циркон",
+  "v": "identical",
+  "ce": "zircon",
+  "cu": "циркон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aci",
+  "uk": "асі",
+  "v": "unrelated"
+ },
+ {
+  "en": "agitator",
+  "uk": "агітатор",
+  "v": "identical",
+  "ce": "agitator",
+  "cu": "агітатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "Often negative in English: someone who stirs up protest or trouble; also a stirring device."
+ },
+ {
+  "en": "agitator",
+  "uk": "агітаторка",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "agitator",
+  "cu": "агітатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "Feminine form (a female agitator)."
+ },
+ {
+  "en": "albedo",
+  "uk": "альбедо",
+  "v": "identical",
+  "ce": "albedo",
+  "cu": "альбедо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alisha",
+  "uk": "аліша",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allyson",
+  "uk": "елісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ando",
+  "uk": "андо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ashlee",
+  "uk": "ешлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asquith",
+  "uk": "асквіт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "babbitt",
+  "uk": "бабіт",
+  "v": "identical",
+  "ce": "babbitt",
+  "cu": "бабіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": "Short for babbitt metal, a soft alloy used in bearings."
+ },
+ {
+  "en": "berta",
+  "uk": "берта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biafra",
+  "uk": "біафра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burka",
+  "uk": "бурка",
+  "v": "identical",
+  "ce": "burka",
+  "cu": "бурка",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing",
+   "religion"
+  ],
+  "note": "Also spelled burqa; can also mean a felt cloak."
+ },
+ {
+  "en": "caballero",
+  "uk": "кабальєро",
+  "v": "identical",
+  "ce": "caballero",
+  "cu": "кабальєро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "A Spanish gentleman or horseman."
+ },
+ {
+  "en": "capella",
+  "uk": "капела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "capote",
+  "uk": "капоте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carotene",
+  "uk": "каротин",
+  "v": "identical",
+  "ce": "carotene",
+  "cu": "каротин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chaim",
+  "uk": "хаїм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chula",
+  "uk": "чула",
+  "v": "unrelated"
+ },
+ {
+  "en": "courtenay",
+  "uk": "куртене",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cybernetics",
+  "uk": "кібернетика",
+  "v": "similar",
+  "ce": "cybernetics",
+  "cu": "кібернетика",
+  "note": "-ics vs -іка."
+ },
+ {
+  "en": "dachau",
+  "uk": "дахау",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darjeeling",
+  "uk": "дарджилінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "decriminalization",
+  "uk": "декриміналізація",
+  "v": "similar",
+  "ce": "decriminalization",
+  "cu": "декриміналізація",
+  "note": "-tion vs -ція."
+ },
+ {
+  "en": "dejan",
+  "uk": "деян",
+  "v": "proper_noun"
+ },
+ {
+  "en": "derrida",
+  "uk": "дерріда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "detonator",
+  "uk": "детонатор",
+  "v": "identical",
+  "ce": "detonator",
+  "cu": "детонатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dirac",
+  "uk": "дірак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dore",
+  "uk": "дор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edin",
+  "uk": "едін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edson",
+  "uk": "едсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elam",
+  "uk": "елам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "existentialism",
+  "uk": "екзистенціалізм",
+  "v": "identical",
+  "ce": "existentialism",
+  "cu": "екзистенціалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fedor",
+  "uk": "федір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fondue",
+  "uk": "фондю",
+  "v": "identical",
+  "ce": "fondue",
+  "cu": "фондю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ganglia",
+  "uk": "ганглії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "ganglion",
+  "cu": "ганглій",
+  "note": "Plural forms; ganglion vs ганглій differ in ending."
+ },
+ {
+  "en": "geeta",
+  "uk": "гіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gilberto",
+  "uk": "жілберту",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hagar",
+  "uk": "гагар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hedonism",
+  "uk": "гедонізм",
+  "v": "identical",
+  "ce": "hedonism",
+  "cu": "гедонізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ichiro",
+  "uk": "ітіро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ines",
+  "uk": "інес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "inna",
+  "uk": "інна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iodide",
+  "uk": "йодид",
+  "v": "identical",
+  "ce": "iodide",
+  "cu": "йодид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ivana",
+  "uk": "івана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johor",
+  "uk": "джохор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "juana",
+  "uk": "хуана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kabuki",
+  "uk": "кабукі",
+  "v": "identical",
+  "ce": "kabuki",
+  "cu": "кабукі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "In US English also a showy but empty performance, especially in politics."
+ },
+ {
+  "en": "karol",
+  "uk": "кароль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kroll",
+  "uk": "кроль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lipa",
+  "uk": "липа",
+  "v": "false_friend",
+  "ce": "lipa",
+  "cu": "липа",
+  "note": "In English: a former Croatian coin (1/100 kuna), not a tree."
+ },
+ {
+  "en": "ljubljana",
+  "uk": "любляна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maurer",
+  "uk": "маурер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mcveigh",
+  "uk": "маквей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "merida",
+  "uk": "меріда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "millisecond",
+  "uk": "мілісекунда",
+  "v": "similar",
+  "ce": "millisecond",
+  "cu": "мілісекунда",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "montserrat",
+  "uk": "монтсеррат",
+  "v": "proper_noun"
+ },
+ {
+  "en": "murillo",
+  "uk": "мурільйо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nabokov",
+  "uk": "набоков",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nasr",
+  "uk": "наср",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nlp",
+  "uk": "нлп",
+  "v": "identical",
+  "ce": "NLP",
+  "cu": "НЛП",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "science"
+  ],
+  "note": "Neuro-linguistic programming; in tech, NLP usually means natural language processing."
+ },
+ {
+  "en": "nocturne",
+  "uk": "ноктюрн",
+  "v": "identical",
+  "ce": "nocturne",
+  "cu": "ноктюрн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "oran",
+  "uk": "орана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "osc",
+  "uk": "оск",
+  "v": "unrelated"
+ },
+ {
+  "en": "pacheco",
+  "uk": "пачеко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paleolithic",
+  "uk": "палеолітичний",
+  "v": "similar",
+  "ce": "Paleolithic",
+  "cu": "палеолітичний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "paleolithic",
+  "uk": "палеоліт",
+  "v": "similar",
+  "ce": "Paleolithic",
+  "cu": "палеоліт",
+  "note": "Ukrainian noun drops -ic."
+ },
+ {
+  "en": "perlman",
+  "uk": "перлман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "picchu",
+  "uk": "пікчу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "prat",
+  "uk": "прат",
+  "v": "unrelated"
+ },
+ {
+  "en": "prophylactic",
+  "uk": "профілактичний",
+  "v": "similar",
+  "ce": "prophylactic",
+  "cu": "профілактичний",
+  "note": "Ukrainian adjective ending -ний; in US English the noun can also mean a condom."
+ },
+ {
+  "en": "raúl",
+  "uk": "рауль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rococo",
+  "uk": "рококо",
+  "v": "identical",
+  "ce": "rococo",
+  "cu": "рококо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also used as an adjective: rococo style."
+ },
+ {
+  "en": "rodolfo",
+  "uk": "родольфо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sandeep",
+  "uk": "сандіп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sapporo",
+  "uk": "саппоро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sauer",
+  "uk": "зауер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schmid",
+  "uk": "шмід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "serengeti",
+  "uk": "серенгеті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shaykh",
+  "uk": "шейх",
+  "v": "identical",
+  "ce": "sheikh",
+  "cu": "шейх",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "religion"
+  ],
+  "note": "Usual spellings: sheikh or sheik; shaykh is less common."
+ },
+ {
+  "en": "sylvain",
+  "uk": "сільвен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tachycardia",
+  "uk": "тахікардія",
+  "v": "identical",
+  "ce": "tachycardia",
+  "cu": "тахікардія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "theocracy",
+  "uk": "теократія",
+  "v": "similar",
+  "ce": "theocracy",
+  "cu": "теократія",
+  "note": "-cy vs -тія."
+ },
+ {
+  "en": "thun",
+  "uk": "тун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "toussaint",
+  "uk": "туссен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "transphobia",
+  "uk": "трансфобія",
+  "v": "identical",
+  "ce": "transphobia",
+  "cu": "трансфобія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tryptophan",
+  "uk": "триптофан",
+  "v": "identical",
+  "ce": "tryptophan",
+  "cu": "триптофан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ulf",
+  "uk": "ульф",
+  "v": "unrelated"
+ },
+ {
+  "en": "ullman",
+  "uk": "ульман",
+  "v": "proper_noun"
+ }
+]

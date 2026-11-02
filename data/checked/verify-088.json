@@ -1,0 +1,884 @@
+[
+ {
+  "en": "tchaikovsky",
+  "uk": "чайковський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "teleportation",
+  "uk": "телепортація",
+  "v": "similar",
+  "ce": "teleportation",
+  "cu": "телепортація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "traditionalist",
+  "uk": "традиціоналіст",
+  "v": "identical",
+  "ce": "traditionalist",
+  "cu": "традиціоналіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "trujillo",
+  "uk": "трухільйо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "upa",
+  "uk": "упа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wehrmacht",
+  "uk": "вермахт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "xenophon",
+  "uk": "ксенофонт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yar",
+  "uk": "яр",
+  "v": "unrelated"
+ },
+ {
+  "en": "zorro",
+  "uk": "зорро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abolitionist",
+  "uk": "аболіціоніст",
+  "v": "identical",
+  "ce": "abolitionist",
+  "cu": "аболіціоніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "Mostly used about the movement to end slavery."
+ },
+ {
+  "en": "aether",
+  "uk": "етер",
+  "v": "identical",
+  "ce": "ether",
+  "cu": "етер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "Also spelled 'aether', mainly for the old idea of a substance filling space."
+ },
+ {
+  "en": "agave",
+  "uk": "агава",
+  "v": "similar",
+  "ce": "agave",
+  "cu": "агава",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "alexey",
+  "uk": "олексій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "algebras",
+  "uk": "алгебр",
+  "v": "not_lemma",
+  "ce": "algebra",
+  "cu": "алгебра",
+  "lv": "similar",
+  "note": "алгебр is the genitive plural of алгебра; Ukrainian adds -а"
+ },
+ {
+  "en": "alhambra",
+  "uk": "альгамбра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amazons",
+  "uk": "амазонки",
+  "v": "not_lemma",
+  "ce": "amazon",
+  "cu": "амазонка",
+  "lv": "similar",
+  "note": "plural forms; Ukrainian adds -ка"
+ },
+ {
+  "en": "apothecary",
+  "uk": "аптекар",
+  "v": "similar",
+  "ce": "apothecary",
+  "cu": "аптекар",
+  "note": "archaic English for pharmacist; different shape"
+ },
+ {
+  "en": "attica",
+  "uk": "аттика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "attica",
+  "uk": "аттіка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benning",
+  "uk": "беннінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bernier",
+  "uk": "берньє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bram",
+  "uk": "брем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buffon",
+  "uk": "буффон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "casillas",
+  "uk": "касільяс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chutney",
+  "uk": "чатні",
+  "v": "identical",
+  "ce": "chutney",
+  "cu": "чатні",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "coda",
+  "uk": "кода",
+  "v": "identical",
+  "ce": "coda",
+  "cu": "кода",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "conklin",
+  "uk": "конклін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "contreras",
+  "uk": "контрерас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cytochrome",
+  "uk": "цитохром",
+  "v": "identical",
+  "ce": "cytochrome",
+  "cu": "цитохром",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "czechoslovak",
+  "uk": "чехословак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dendritic",
+  "uk": "дендритні",
+  "v": "not_lemma",
+  "ce": "dendritic",
+  "cu": "дендритний",
+  "lv": "similar",
+  "note": "adjective with Ukrainian ending -ний"
+ },
+ {
+  "en": "devos",
+  "uk": "дево",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dorothea",
+  "uk": "доротея",
+  "v": "proper_noun"
+ },
+ {
+  "en": "earp",
+  "uk": "ерп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epithelium",
+  "uk": "епітелій",
+  "v": "similar",
+  "ce": "epithelium",
+  "cu": "епітелій",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "ergonomics",
+  "uk": "ергономіка",
+  "v": "similar",
+  "ce": "ergonomics",
+  "cu": "ергономіка",
+  "note": "-ics → -іка"
+ },
+ {
+  "en": "ferro",
+  "uk": "ферро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flor",
+  "uk": "флор",
+  "v": "unrelated"
+ },
+ {
+  "en": "fora",
+  "uk": "фора",
+  "v": "unrelated"
+ },
+ {
+  "en": "giulia",
+  "uk": "джулія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gymnasts",
+  "uk": "гімнасти",
+  "v": "not_lemma",
+  "ce": "gymnast",
+  "cu": "гімнаст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "people"
+  ],
+  "note": "plural forms of gymnast = гімнаст"
+ },
+ {
+  "en": "homeostasis",
+  "uk": "гомеостаз",
+  "v": "similar",
+  "ce": "homeostasis",
+  "cu": "гомеостаз",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "huckleberry",
+  "uk": "гекльберрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iguana",
+  "uk": "ігуана",
+  "v": "identical",
+  "ce": "iguana",
+  "cu": "ігуана",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "individualistic",
+  "uk": "індивідуалістичний",
+  "v": "similar",
+  "ce": "individualistic",
+  "cu": "індивідуалістичний",
+  "note": "adjective ending -ичний"
+ },
+ {
+  "en": "iridium",
+  "uk": "іридій",
+  "v": "similar",
+  "ce": "iridium",
+  "cu": "іридій",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "ivo",
+  "uk": "іво",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jacobi",
+  "uk": "якобі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kenobi",
+  "uk": "кенобі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keynesian",
+  "uk": "кейнсіанський",
+  "v": "similar",
+  "ce": "Keynesian",
+  "cu": "кейнсіанський",
+  "note": "adjective ending -ський"
+ },
+ {
+  "en": "kippur",
+  "uk": "кіпур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lasso",
+  "uk": "ласо",
+  "v": "identical",
+  "ce": "lasso",
+  "cu": "ласо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "Also a verb: to lasso a horse."
+ },
+ {
+  "en": "lemma",
+  "uk": "лема",
+  "v": "identical",
+  "ce": "lemma",
+  "cu": "лема",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mansour",
+  "uk": "мансур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mcilroy",
+  "uk": "макілрой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mib",
+  "uk": "мб",
+  "v": "unrelated"
+ },
+ {
+  "en": "molybdenum",
+  "uk": "молібден",
+  "v": "similar",
+  "ce": "molybdenum",
+  "cu": "молібден",
+  "note": "Ukrainian drops -um"
+ },
+ {
+  "en": "motocross",
+  "uk": "мотокрос",
+  "v": "identical",
+  "ce": "motocross",
+  "cu": "мотокрос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "motorcyclist",
+  "uk": "мотоцикліст",
+  "v": "similar",
+  "ce": "motorcyclist",
+  "cu": "мотоцикліст",
+  "note": "мото- instead of motor-"
+ },
+ {
+  "en": "murakami",
+  "uk": "муракамі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nihilism",
+  "uk": "нігілізм",
+  "v": "identical",
+  "ce": "nihilism",
+  "cu": "нігілізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nyx",
+  "uk": "нікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "obispo",
+  "uk": "обіспо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "palmyra",
+  "uk": "пальміра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parapet",
+  "uk": "парапет",
+  "v": "identical",
+  "ce": "parapet",
+  "cu": "парапет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pinochet",
+  "uk": "піночет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "planetarium",
+  "uk": "планетарій",
+  "v": "similar",
+  "ce": "planetarium",
+  "cu": "планетарій",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "poli",
+  "uk": "полі",
+  "v": "unrelated"
+ },
+ {
+  "en": "polis",
+  "uk": "поліс",
+  "v": "partial_false_friend",
+  "ce": "polis",
+  "cu": "поліс",
+  "note": "English polis = only an ancient Greek city-state; an insurance document is 'policy'"
+ },
+ {
+  "en": "portico",
+  "uk": "портик",
+  "v": "similar",
+  "ce": "portico",
+  "cu": "портик",
+  "note": "Ukrainian drops final -o"
+ },
+ {
+  "en": "powerlifting",
+  "uk": "паверліфтинг",
+  "v": "identical",
+  "ce": "powerlifting",
+  "cu": "пауерліфтинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "powerlifting",
+  "uk": "пауерліфтинг",
+  "v": "identical",
+  "ce": "powerlifting",
+  "cu": "пауерліфтинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pravda",
+  "uk": "правда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "quidditch",
+  "uk": "квідич",
+  "v": "identical",
+  "ce": "quidditch",
+  "cu": "квідич",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games",
+   "media"
+  ],
+  "note": "The flying-broomstick game from the Harry Potter books; often capitalized."
+ },
+ {
+  "en": "rasa",
+  "uk": "раса",
+  "v": "unrelated"
+ },
+ {
+  "en": "rhoda",
+  "uk": "рода",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saxophonist",
+  "uk": "саксофоніст",
+  "v": "identical",
+  "ce": "saxophonist",
+  "cu": "саксофоніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "saxophonist",
+  "uk": "саксофоністка",
+  "v": "not_lemma",
+  "ce": "saxophonist",
+  "cu": "саксофоніст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": "саксофоністка is the female form; English uses saxophonist for everyone"
+ },
+ {
+  "en": "shem",
+  "uk": "сим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shona",
+  "uk": "шона",
+  "v": "identical",
+  "ce": "Shona",
+  "cu": "шона",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Capitalized in English."
+ },
+ {
+  "en": "solano",
+  "uk": "солано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "soya",
+  "uk": "соя",
+  "v": "identical",
+  "ce": "soya",
+  "cu": "соя",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "food"
+  ],
+  "note": "American English usually says 'soy'."
+ },
+ {
+  "en": "spr",
+  "uk": "спр",
+  "v": "unrelated"
+ },
+ {
+  "en": "stig",
+  "uk": "стіг",
+  "v": "unrelated"
+ },
+ {
+  "en": "tajik",
+  "uk": "таджик",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tajik",
+  "uk": "таджичка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vichy",
+  "uk": "віші",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vieira",
+  "uk": "вієйра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vittorio",
+  "uk": "вітторіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vulva",
+  "uk": "вульва",
+  "v": "identical",
+  "ce": "vulva",
+  "cu": "вульва",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "wahlberg",
+  "uk": "волберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "warhammer",
+  "uk": "вархаммер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yamada",
+  "uk": "ямада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acropolis",
+  "uk": "акрополь",
+  "v": "similar",
+  "ce": "acropolis",
+  "cu": "акрополь",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "aix",
+  "uk": "екс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ako",
+  "uk": "ако",
+  "v": "unrelated"
+ },
+ {
+  "en": "alva",
+  "uk": "алва",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anatoly",
+  "uk": "анатолій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andrés",
+  "uk": "андрес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arif",
+  "uk": "аріф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aro",
+  "uk": "ару",
+  "v": "unrelated"
+ },
+ {
+  "en": "artichoke",
+  "uk": "артишок",
+  "v": "similar",
+  "ce": "artichoke",
+  "cu": "артишок",
+  "note": "ш instead of ch (from French)"
+ },
+ {
+  "en": "avignon",
+  "uk": "авіньйон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baca",
+  "uk": "бака",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bahadur",
+  "uk": "бахадур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biome",
+  "uk": "біом",
+  "v": "identical",
+  "ce": "biome",
+  "cu": "біом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "biology",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cay",
+  "uk": "кі",
+  "v": "unrelated"
+ },
+ {
+  "en": "coltrane",
+  "uk": "колтрейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cru",
+  "uk": "крю",
+  "v": "similar",
+  "ce": "cru",
+  "cu": "крю",
+  "note": "wine term; English pronounces it 'kroo'"
+ },
+ {
+  "en": "cryptographic",
+  "uk": "криптографічний",
+  "v": "similar",
+  "ce": "cryptographic",
+  "cu": "криптографічний",
+  "note": "adjective ending -ічний"
+ },
+ {
+  "en": "dalian",
+  "uk": "далянь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darwinism",
+  "uk": "дарвінізм",
+  "v": "identical",
+  "ce": "Darwinism",
+  "cu": "дарвінізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "science",
+   "biology"
+  ],
+  "note": "Capitalized in English."
+ },
+ {
+  "en": "deva",
+  "uk": "дева",
+  "v": "identical",
+  "ce": "deva",
+  "cu": "дева",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "deva",
+  "uk": "діва",
+  "v": "unrelated"
+ },
+ {
+  "en": "endoscopy",
+  "uk": "ендоскопія",
+  "v": "similar",
+  "ce": "endoscopy",
+  "cu": "ендоскопія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "epps",
+  "uk": "еппс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fifi",
+  "uk": "фі",
+  "v": "unrelated"
+ },
+ {
+  "en": "frankfurt an der oder",
+  "uk": "франкфурт-на-одері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fugue",
+  "uk": "фуга",
+  "v": "similar",
+  "ce": "fugue",
+  "cu": "фуга",
+  "note": "Ukrainian ends in -а"
+ },
+ {
+  "en": "gerardo",
+  "uk": "херардо",
+  "v": "proper_noun"
+ }
+]

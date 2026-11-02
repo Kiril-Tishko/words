@@ -1,0 +1,935 @@
+[
+ {
+  "en": "agate",
+  "uk": "агат",
+  "v": "identical",
+  "ce": "agate",
+  "cu": "агат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alle",
+  "uk": "алле",
+  "v": "unrelated"
+ },
+ {
+  "en": "ansel",
+  "uk": "ансель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antiseptic",
+  "uk": "антисептики",
+  "v": "not_lemma",
+  "ce": "antiseptic",
+  "cu": "антисептик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "антисептики is the plural"
+ },
+ {
+  "en": "arbitrage",
+  "uk": "арбітраж",
+  "v": "identical",
+  "ce": "arbitrage",
+  "cu": "арбітраж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "finance"
+  ],
+  "note": "uk арбітраж also means arbitration (settling a dispute); in English that sense is archaic"
+ },
+ {
+  "en": "avila",
+  "uk": "авіла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "banshee",
+  "uk": "банші",
+  "v": "identical",
+  "ce": "banshee",
+  "cu": "банші",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "spirit from Irish and Scottish folklore"
+ },
+ {
+  "en": "bedouin",
+  "uk": "бедуїн",
+  "v": "identical",
+  "ce": "Bedouin",
+  "cu": "бедуїн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "benzema",
+  "uk": "бензема",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bolivar",
+  "uk": "болівар",
+  "v": "identical",
+  "ce": "bolivar",
+  "cu": "болівар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "currency of Venezuela; usually spelled bolívar"
+ },
+ {
+  "en": "brahmin",
+  "uk": "брахман",
+  "v": "similar",
+  "ce": "brahmin",
+  "cu": "брахман",
+  "note": "different vowel (-ман); uk also брамін"
+ },
+ {
+  "en": "bsp",
+  "uk": "бсп",
+  "v": "unrelated"
+ },
+ {
+  "en": "burg",
+  "uk": "бург",
+  "v": "partial_false_friend",
+  "ce": "burg",
+  "cu": "бург",
+  "note": "en mostly informal US 'town'; uk only a historical medieval fortified town"
+ },
+ {
+  "en": "cano",
+  "uk": "кано",
+  "v": "unrelated"
+ },
+ {
+  "en": "cocker",
+  "uk": "кокер",
+  "v": "identical",
+  "ce": "cocker",
+  "cu": "кокер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "nature"
+  ],
+  "note": "short for cocker spaniel"
+ },
+ {
+  "en": "conclave",
+  "uk": "конклав",
+  "v": "identical",
+  "ce": "conclave",
+  "cu": "конклав",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cornet",
+  "uk": "корне",
+  "v": "unrelated"
+ },
+ {
+  "en": "cynic",
+  "uk": "цинік",
+  "v": "identical",
+  "ce": "cynic",
+  "cu": "цинік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "daemon",
+  "uk": "демон",
+  "v": "identical",
+  "ce": "daemon",
+  "cu": "демон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "computer background process; also an old spelling of demon (демон)"
+ },
+ {
+  "en": "descriptor",
+  "uk": "дескриптор",
+  "v": "identical",
+  "ce": "descriptor",
+  "cu": "дескриптор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dynamism",
+  "uk": "динамізм",
+  "v": "identical",
+  "ce": "dynamism",
+  "cu": "динамізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ehrlich",
+  "uk": "ерліх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eisenberg",
+  "uk": "айзенберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "entomology",
+  "uk": "ентомологія",
+  "v": "similar",
+  "ce": "entomology",
+  "cu": "ентомологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "estes",
+  "uk": "естес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "estrada",
+  "uk": "естрада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fjord",
+  "uk": "фйорд",
+  "v": "identical",
+  "ce": "fjord",
+  "cu": "фіорд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "also spelled фйорд"
+ },
+ {
+  "en": "fjord",
+  "uk": "фіорд",
+  "v": "identical",
+  "ce": "fjord",
+  "cu": "фіорд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "also spelled фйорд"
+ },
+ {
+  "en": "fuchs",
+  "uk": "фукс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gabriela",
+  "uk": "габріела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haji",
+  "uk": "хаджі",
+  "v": "identical",
+  "ce": "haji",
+  "cu": "хаджі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "a Muslim who has made the hajj; also spelled hajji"
+ },
+ {
+  "en": "hegel",
+  "uk": "гегель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heidegger",
+  "uk": "гайдеггер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iglesias",
+  "uk": "іглесіас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "intensification",
+  "uk": "інтенсифікація",
+  "v": "similar",
+  "ce": "intensification",
+  "cu": "інтенсифікація",
+  "note": "ending -ція"
+ },
+ {
+  "en": "kagawa",
+  "uk": "каґава",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kala",
+  "uk": "кала",
+  "v": "proper_noun"
+ },
+ {
+  "en": "krause",
+  "uk": "краузе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "krebs",
+  "uk": "кребс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyz",
+  "uk": "киргиз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyz",
+  "uk": "киргизька",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyz",
+  "uk": "киргизка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyz",
+  "uk": "киргизький",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lewandowski",
+  "uk": "левандовський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liqueur",
+  "uk": "лікер",
+  "v": "identical",
+  "ce": "liqueur",
+  "cu": "лікер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "maisie",
+  "uk": "мейсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mallorca",
+  "uk": "мальорка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mallorca",
+  "uk": "майорка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marchand",
+  "uk": "маршан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "medvedev",
+  "uk": "медведєв",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metabolite",
+  "uk": "метаболіт",
+  "v": "identical",
+  "ce": "metabolite",
+  "cu": "метаболіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "metabolite",
+  "uk": "метаболіти",
+  "v": "not_lemma",
+  "ce": "metabolite",
+  "cu": "метаболіт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": "метаболіти is the plural"
+ },
+ {
+  "en": "mezzanine",
+  "uk": "мезонін",
+  "v": "partial_false_friend",
+  "ce": "mezzanine",
+  "cu": "мезонін",
+  "note": "uk мезонін is traditionally a small upper storey on top of a house; en = floor between main floors"
+ },
+ {
+  "en": "modality",
+  "uk": "модальність",
+  "v": "similar",
+  "ce": "modality",
+  "cu": "модальність",
+  "note": "suffix -ність"
+ },
+ {
+  "en": "monolith",
+  "uk": "моноліт",
+  "v": "identical",
+  "ce": "monolith",
+  "cu": "моноліт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mtb",
+  "uk": "мтб",
+  "v": "unrelated"
+ },
+ {
+  "en": "mulan",
+  "uk": "мулан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nils",
+  "uk": "нільс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nudist",
+  "uk": "нудист",
+  "v": "identical",
+  "ce": "nudist",
+  "cu": "нудист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nudist",
+  "uk": "нудистка",
+  "v": "not_lemma",
+  "ce": "nudist",
+  "cu": "нудист",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Feminine form (a female nudist)."
+ },
+ {
+  "en": "nymphs",
+  "uk": "німфи",
+  "v": "not_lemma",
+  "ce": "nymph",
+  "cu": "німфа",
+  "lv": "similar",
+  "note": "uk adds -а"
+ },
+ {
+  "en": "ochoa",
+  "uk": "очоа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oder",
+  "uk": "одер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pathogenesis",
+  "uk": "патогенез",
+  "v": "similar",
+  "ce": "pathogenesis",
+  "cu": "патогенез",
+  "note": "uk drops -is"
+ },
+ {
+  "en": "pompeo",
+  "uk": "помпео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "potash",
+  "uk": "поташ",
+  "v": "identical",
+  "ce": "potash",
+  "cu": "поташ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "protectionism",
+  "uk": "протекціонізм",
+  "v": "identical",
+  "ce": "protectionism",
+  "cu": "протекціонізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rho",
+  "uk": "ро",
+  "v": "identical",
+  "ce": "rho",
+  "cu": "ро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math",
+   "language"
+  ],
+  "note": "the Greek letter Ρ, ρ"
+ },
+ {
+  "en": "rommel",
+  "uk": "роммель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rostov-on-don",
+  "uk": "ростов-на-дону",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rudi",
+  "uk": "руді",
+  "v": "unrelated"
+ },
+ {
+  "en": "saf",
+  "uk": "саф",
+  "v": "unrelated"
+ },
+ {
+  "en": "sala",
+  "uk": "сала",
+  "v": "unrelated"
+ },
+ {
+  "en": "sanatorium",
+  "uk": "санаторій",
+  "v": "similar",
+  "ce": "sanatorium",
+  "cu": "санаторій",
+  "note": "ending -ій instead of -ium"
+ },
+ {
+  "en": "sociedad",
+  "uk": "сосьєдад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stallone",
+  "uk": "сталлоне",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tbilisi",
+  "uk": "тбілісі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tonya",
+  "uk": "тоня",
+  "v": "proper_noun"
+ },
+ {
+  "en": "travolta",
+  "uk": "траволта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "urology",
+  "uk": "урологія",
+  "v": "similar",
+  "ce": "urology",
+  "cu": "урологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "viennese",
+  "uk": "віденець",
+  "v": "proper_noun"
+ },
+ {
+  "en": "westeros",
+  "uk": "вестерос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "winton",
+  "uk": "вінтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yeltsin",
+  "uk": "єльцин",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adirondack",
+  "uk": "адірондак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adolph",
+  "uk": "адольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aia",
+  "uk": "ая",
+  "v": "unrelated"
+ },
+ {
+  "en": "alpaca",
+  "uk": "альпака",
+  "v": "identical",
+  "ce": "alpaca",
+  "cu": "альпака",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "amphitheater",
+  "uk": "амфітеатр",
+  "v": "identical",
+  "ce": "amphitheater",
+  "cu": "амфітеатр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "British spelling amphitheatre"
+ },
+ {
+  "en": "andrade",
+  "uk": "андраде",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ansari",
+  "uk": "ансарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anthropogenic",
+  "uk": "антропогенний",
+  "v": "similar",
+  "ce": "anthropogenic",
+  "cu": "антропогенний",
+  "note": "uk adjective ending -ний"
+ },
+ {
+  "en": "arboretum",
+  "uk": "арборетум",
+  "v": "identical",
+  "ce": "arboretum",
+  "cu": "арборетум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "nature"
+  ],
+  "note": "Ukrainian more often says дендрарій"
+ },
+ {
+  "en": "asahi",
+  "uk": "асахі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asgard",
+  "uk": "асгард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "astrologer",
+  "uk": "астролог",
+  "v": "similar",
+  "ce": "astrologer",
+  "cu": "астролог",
+  "note": "uk has no -er"
+ },
+ {
+  "en": "belcher",
+  "uk": "белчер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bhutto",
+  "uk": "бхутто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bobcat",
+  "uk": "бобкет",
+  "v": "partial_false_friend",
+  "ce": "bobcat",
+  "cu": "бобкет",
+  "note": "en mainly a wildcat (lynx); uk бобкет only a small loader vehicle"
+ },
+ {
+  "en": "bock",
+  "uk": "бок",
+  "v": "unrelated"
+ },
+ {
+  "en": "borno",
+  "uk": "борно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bravado",
+  "uk": "бравада",
+  "v": "similar",
+  "ce": "bravado",
+  "cu": "бравада",
+  "note": "ending -а instead of -o"
+ },
+ {
+  "en": "bruges",
+  "uk": "брюгге",
+  "v": "proper_noun"
+ },
+ {
+  "en": "canaveral",
+  "uk": "канаверал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cervantes",
+  "uk": "сервантес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "concorde",
+  "uk": "конкорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conti",
+  "uk": "конті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cossack",
+  "uk": "козак",
+  "v": "similar",
+  "ce": "Cossack",
+  "cu": "козак",
+  "note": "з instead of s; uk козак also 'young man, lad'"
+ },
+ {
+  "en": "creatine",
+  "uk": "креатин",
+  "v": "identical",
+  "ce": "creatine",
+  "cu": "креатин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cronin",
+  "uk": "кронін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darnell",
+  "uk": "дарнелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dfs",
+  "uk": "дфс",
+  "v": "unrelated"
+ },
+ {
+  "en": "duc",
+  "uk": "дюк",
+  "v": "identical",
+  "ce": "duc",
+  "cu": "дюк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people"
+  ],
+  "note": "a French duke; the usual English word is duke"
+ },
+ {
+  "en": "dumont",
+  "uk": "дюмон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dysentery",
+  "uk": "дизентерія",
+  "v": "similar",
+  "ce": "dysentery",
+  "cu": "дизентерія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "fait",
+  "uk": "фейт",
+  "v": "unrelated"
+ },
+ {
+  "en": "follicle",
+  "uk": "фолікул",
+  "v": "similar",
+  "ce": "follicle",
+  "cu": "фолікул",
+  "note": "extra vowel (-кул)"
+ },
+ {
+  "en": "furlong",
+  "uk": "фурлонг",
+  "v": "identical",
+  "ce": "furlong",
+  "cu": "фурлонг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units"
+  ],
+  "note": "unit of length, 1/8 mile; used mainly in horse racing"
+ },
+ {
+  "en": "furlong",
+  "uk": "фарлонг",
+  "v": "identical",
+  "ce": "furlong",
+  "cu": "фурлонг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units"
+  ],
+  "note": "фарлонг is a rare variant of фурлонг"
+ },
+ {
+  "en": "geyser",
+  "uk": "гейзер",
+  "v": "identical",
+  "ce": "geyser",
+  "cu": "гейзер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ }
+]
