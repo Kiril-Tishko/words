@@ -1,73 +1,81 @@
 # Same Words · Однакові слова
 
-Flip cards of English words that are the same in Ukrainian (taxi = таксі, computer = комп'ютер, hotel = готель), sorted by level A0–C2. The site is for learning English.
+Flip cards of English words that are the same in Ukrainian (taxi = таксі, computer = комп'ютер, hotel = готель), for learning English. Cards are sorted by how often the English word is used in the meaning on the card.
 
-Open `index.html` in a browser. It works offline, and it also works on GitHub Pages (Settings → Pages → deploy from this branch, root folder).
+Open `index.html` in a browser. It works offline, and on any static host such as GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-- Choose a frequency band (Top 400 … Rare) to get its cards, most used English words first. **Grid** shows 4 cards per row (1 on phones) and loads more as you scroll; **One by one** shows a single card (← → keys, Space flips it).
-- Card front: the English word, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 plays a recorded pronunciation (see Audio).
-- Click a card to flip it. The back shows the word's rank in English, 4 example sentences, labels that describe the English word, and a usage note when needed. Notes and labels are about the English word only.
-- **Hide slang** hides cards whose Ukrainian word is slang, colloquial, rare or archaic (people = піпл). The flag comes from the Ukrainian dictionaries (`tools/compute_register.py`) and is not shown on cards.
-- **Topics** dropdown filters a band by topic. **+** adds a word to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one.
+- **Bands**: Top 1000, Top 2000, Top 3000, Top 5000, Top 10K, Top 20K, Top 50K, Top 100K and Rare. A word's band is its rank among the most used English words, counted **in the meaning on the card** (see Frequency). Cards go from most to least used.
+- **Grid** shows 4 cards per row (3 on tablets, 1 on phones) and loads more as you scroll. **One by one** shows one big card: ← → keys or swipe, Space flips. **Shuffle** mixes the order; press it again for frequency order.
+- **Front**: the English word with its stressed vowel underlined, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 plays a recorded pronunciation.
+- **Back**: a picture place, the word with its grammar ("a photo · photos", "rice · uncountable"), its rank, a **Say:** line with the usual word partners (take a photo · in the photo), 4 example sentences, English labels (informal, technical…) and a usage note when needed. Notes and labels are about the English word only.
+- **Hide slang** (on by default) hides pairs whose Ukrainian word is slang, colloquial or rare (people = піпл), and rude English words. **Topics** filters a band by topic.
+- **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
 
-## Audio
-- Every word is recorded with the open neural voice model Kokoro-82M (`tools/make_audio.py`): an American voice, and a British voice for British-only words.
-- Clips are packed into bundles of 250 (`audio/chunk-NNN.mp3`, positions in `audio/manifest.json`). The page loads a bundle the first time a word from it is played.
-- Voice: Kokoro "af_heart", chosen over 5 other voices by a speech-recognition test.
-- Each word is said as a short sentence ("Face.") at normal speed, which makes word edges clearer. Abbreviations that collide with words are spelled out (IT → "I.T."), and accented and unit words get respellings (kHz → "kilohertz").
-- `tools/fix_audio.py` checks the clips of the 2,756 most used words with a speech recognizer (Whisper small.en). Unclear words are re-recorded with af_bella or af_nicole when that voice is clearer (82 words, `data/audio-voices.json`).
-- Words still flagged are listed in `data/audio-check.json`. Most of them are homophones (byte/bite, cache/cash) or interjections.
+### Pictures
+The back of every card has a picture place. To fill it, save an image as `images/<word>.webp` (or `.jpg`, `.png`, `.svg`, `.avif`) and rebuild. The file name is the English word in lowercase, with accents removed and spaces as hyphens: `images/taxi.webp`, `images/hot-dog.jpg`, `images/deja-vu.png`.
 
 ## Examples
-- 4 example sentences in the card's meaning, plus an English-only usage note where a learner might misuse the word (`data/examples/*.json`, `tools/workflows/examples.js`). Done for the 2,756 most used words (Top 400 … Top 20K).
+Every card has 4 English example sentences in the card's meaning. Their level follows the band:
+- Top 1000: A0–A1. At most 7 words, present tense, no idioms, at least 2 practical questions or requests, the key word partner (take a photo).
+- Top 2000–3000: A1–A2.
+- Top 5000–10K: A2–B1.
+- Rarer words: B1, or B1–B2.
+
+Each card also had a final expert pass (`tools/workflows/card-qa.js`). It checked the pair, the meaning share, English labels, grammar, word partners, examples and the note, and rewrote the examples where they used another meaning or broke the level.
+
+## Audio
+- Every word is recorded with the open neural voice Kokoro-82M (`tools/make_audio.py`): the American voice af_heart, and the British voice bf_emma for British-only words.
+- Each word is said as a short sentence ("Face.") at normal speed, which makes word edges clearer. Abbreviations that collide with words are spelled out (IT → "I.T."), and accented and unit words get respellings (kHz → "kilohertz").
+- Clips are packed into bundles of 100 words (`audio/chunk-NNN.mp3`, positions in `audio/manifest.json`). The page loads a bundle the first time a word from it is played and keeps the last 3 in memory.
+- `tools/fix_audio.py` checks the clips of the most used words with a speech recognizer (Whisper small.en). Unclear clips are re-recorded with another voice when that is clearer (`data/audio-voices.json`).
+
+## Frequency (how the bands are made)
+- `tools/compute_ranks.py` builds `data/levels/en-rank.tsv`. It blends written English (wordfreq "large") and spoken English (OpenSubtitles 2018 counts) as a geometric mean. Inflected forms are folded into their base word (computers → computer, went → go), and name-only words are dropped.
+- A word form's frequency counts all its meanings, so each card has a **share**: the % of the English word's uses that are in the card's meaning. The card's rank = word frequency × share. For example, country = кантрі (music) would be about 2% of "country", so it is not a top-2000 word. Shares come from the expert pass, with a calibration list (`tools/workflows/sense-share.js`, `data/sense/`). Ranks that depend on an estimate are shown as "About top N".
+- Phrases and hyphenated words (coffee shop, real-time) are not in word lists. Their frequency is the geometric mean of the experts' estimate and the Google Books Ngram count (2015–2019, put on the word-list scale by `tools/phrase_freq.py`).
 
 ## How the word list is built
-No word list comes from memory. Each step is a script or a recorded check.
+No word comes from memory. Each step is a script or a recorded check.
 
-1. `tools/fetch_sources.sh` downloads open word lists:
-   - English: words_alpha (~370k words, including archaic), CMUdict pronunciations, Hunspell en_US/en_GB, Wiktionary (via kaikki.org), wordfreq
+1. **Sources** (`tools/fetch_sources.sh`):
+   - English: words_alpha (~370k words, including archaic), CMUdict, Hunspell en_US/en_GB, Wiktionary (kaikki.org), wordfreq, OpenSubtitles counts
    - Ukrainian: VESUM/dict_uk, Hunspell uk_UA, Wiktionary, wordfreq
-   - English–Ukrainian dictionaries: MUSE, Wiktionary translations
-2. `tools/find_candidates.py` renders every English word (~617k) into Ukrainian letters in all plausible ways:
-   - by spelling (hotel → готель)
-   - by sound (computer → комп'ютер)
-   - by letter names (DJ → діджей)
-   
-   It then matches the renderings against ~650k Ukrainian words, giving 2.4M raw look-alike pairs.
-3. `tools/prepare_batches.py` keeps the plausible pairs and splits them into batches:
-   - **verify** batches: a dictionary lists the pair as a translation
-   - **scan** batches: everything else
-   - It also adds pairs where a dictionary translation looks like the English word but the matcher missed it.
-4. Agents check every batch against `data/RUBRIC.md` and save their verdicts in `data/checked/*.json`. The verdicts are: identical, similar, false friend, partial false friend, proper noun, inflected form, unrelated.
-5. A second, independent agent re-checks every "identical" pair and every borderline pair (`data/checked/cross-*.json`). It also sets the level of the shared meaning.
-6. Topic sweeps (`data/checked/sweep-*.json`) look for words the matcher missed. Every suggestion must exist in both the English and the Ukrainian dictionaries (`tools/check_gaps.py`), and it is then verified like everything else.
-7. `tools/build_site.py` merges everything into `data/words.json` and builds `words.js` and `index.html`.
+   - English–Ukrainian: MUSE dictionary, Wiktionary translations
+2. **Matching** (`tools/find_candidates.py`): every English word (~617k) is rendered into Ukrainian letters in all plausible ways and matched against ~650k Ukrainian words.
+   - by spelling: hotel → готель
+   - by sound: computer → комп'ютер
+   - by letter names: DJ → діджей
 
-## Status
-10,812 identical words, all checked twice. See `PROGRESS.md`.
+   This gives 2.4M raw look-alike pairs.
+3. **Batches** (`tools/prepare_batches.py`): 29k dictionary-backed pairs and 149k look-alike pairs.
+4. **First check**: agents judge every pair against `data/RUBRIC.md`. Verdicts are identical, similar, false friend, partial false friend, proper noun, inflected form or unrelated.
+5. **Second check**: an independent, skeptical agent re-checks every identical and borderline pair (`data/checked/cross-*.json`).
+6. **Topic sweeps and full scan**: 24 topic sweeps, plus a scan of the whole common vocabulary (90,435 English and 60,629 Ukrainian words, read in full). These find words the matcher missed. Every suggestion must exist in both languages' dictionaries (`tools/check_gaps.py`) and passes the second check.
+7. **Clean-up** (`tools/build_site.py`):
+   - drops cards whose English word no dictionary or corpus knows (`tools/en_evidence.py`)
+   - drops Latin-script Ukrainian sides and prefixes
+   - merges spelling duplicates, keeping the American or international form
+8. **Final expert pass** on every card (`tools/workflows/card-qa.js`), then a linguist review of all cards in Top 1000–Top 10K (`docs/review/`).
 
-## Frequency bands (site categories)
-- Each word is labelled by how often it is used in English: its rank among the most used English words. The categories are Top 400, Top 1000, Top 2000, Top 3000, Top 5000, Top 10K, Top 20K, Top 50K, Top 100K and Rare. Cards are sorted from most to least used.
-- Ranks come from `data/levels/en-rank.tsv`, built by `tools/compute_ranks.py`:
-  - source: the wordfreq English frequency list
-  - inflected forms are folded into their base word (computers → computer, went → go)
-  - words Wiktionary knows only as names are removed
-- A word form's frequency counts all its meanings, so a rank may not be more common than the level of the *shared* meaning allows (take = тейк, a film take, is not a top-100 word). Such ranks, and the ranks of phrases and abbreviations, are estimates and are shown as "About top N".
-- The CEFR levels are still kept in `data/words.json` (`level`):
-  - A0: Cambridge Pre A1 Starters
-  - A1–B2: CEFR-J
-  - C1–C2: Octanove
-  - for the shared meaning, set by the second check
+In total, about 61,000 recorded verdicts on 35,000 distinct pairs, plus the full scans and audits.
 
-## Labels
-- Usage: `international`, `archaic`, `obsolete`, `dated`, `literary`, `informal`, `slang`, `abbreviation`, `technical`, `rare`.
-- Topic: one or two of food, sport, music, tech, science, …
-- `british`: the word is used only in British English. One spelling per card: American/international, or British for British-only words.
+## Quality: how complete and how correct
+Measured on random samples by independent agents who never saw the list (`data/audit/`):
+- **Completeness (recall)**: two auditors went through 1,000 random English and 1,000 random Ukrainian words and listed every word with an identical twin. Disputed claims were adjudicated, and then went through the same expert pass as the list.
+  - The list had 87% of the real pairs found from the English side (90% for common words), and 93% from the Ukrainian side (92% for common words).
+  - The first audit, before the full scan, measured 73–75%.
+  - The pairs the audit found missing were added.
+- **Correctness (precision)**: two judges checked 400 random cards: 200 from Top 1000–Top 10K and 200 from the rest.
+  - Common words: 94% accepted by both judges, 98% by at least one.
+  - Rarer words: 89.5% by both, 96% by at least one.
+  - Overall about 93%.
+  - The pairs both judges rejected were removed.
 
-## Saved for later
-- `data/similar.json`: same meaning, different form (problem = проблема)
-- `data/false_friends.json`, `data/partial_false_friends.json`
+## Data
+- `data/words.json`: all site words with rank, share, band, labels and sources. The site uses the generated `words.js` (cards), `details-<band>.js` (examples, notes, grammar; loaded per band) and `audio/`.
+- Saved for later sets: `data/similar.json` (problem = проблема), `data/false_friends.json`, `data/partial_false_friends.json` (country = кантрі, set = сет).
+- `data/excluded.json`: every word removed by a later check, with the reason.
 
 ## Rebuild
 ```bash
@@ -75,5 +83,10 @@ pip install wordfreq rapidfuzz
 tools/fetch_sources.sh
 python3 tools/find_candidates.py ../sources/candidates.jsonl
 python3 tools/prepare_batches.py
+python3 tools/compute_ranks.py
+python3 tools/phrase_freq.py
+python3 tools/compute_register.py
+python3 tools/compute_stress.py
 python3 tools/build_site.py
+python3 tools/make_audio.py --workers 2     # needs the Kokoro venv; --rebundle to repack all bundles
 ```

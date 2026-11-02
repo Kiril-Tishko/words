@@ -1,27 +1,39 @@
 # Progress
 
-## Done: identical words (first set)
-- **10,812 identical words**, every one checked twice. Saved in `data/words.json` and shown on the site via `words.js`.
-- By frequency band: Top 400 15 · Top 1000 75 · Top 2000 115 · Top 3000 186 · Top 5000 355 · Top 10K 785 · Top 20K 1,225 · Top 50K 2,305 · Top 100K 1,817 · Rare 3,934.
-- The site uses frequency bands instead of A0–C2 (see README). CEFR levels are still kept in `data/words.json`.
-- Saved for later sets: `data/similar.json` (2,946), `data/false_friends.json` (350), `data/partial_false_friends.json` (842).
+## Done
+- **Identical words**: about 13,000 cards (`data/words.json`), each checked at least twice and then by a final expert pass. Words in Top 1000–Top 10K were also read by a linguist (`docs/review/linguist-final.md`).
+- **Bands by frequency of the card's meaning** (not of the word form), with the subtitle blend for everyday words and Google Books Ngram counts for phrases. Top 400 was merged into Top 1000.
+- **Examples**: 4 sentences on every card, graded by band (A0–A1 in Top 1000), practical, in the card's meaning. **Grammar** ("a photo · photos") and **Say:** word partners on common cards. Notes are English-only.
+- **Pronunciation**: every word is recorded with Kokoro-82M. The most used words were checked with a speech recognizer, and unclear ones were re-recorded with another voice. The stressed vowel is underlined on the card (CMUdict).
+- **Site**:
+  - bigger words, and a picture place on the back (`images/<word>.webp`, see README)
+  - grid and one-by-one views, swipe, shuffle, topics, Hide slang (also hides rude English words)
+  - My words, basic training
+  - examples are loaded per band, audio per bundle
+- **Quality audits** (`data/audit/`):
+  - recall 87% (English side) and 93% (Ukrainian side)
+  - precision about 93%: 96% for common words
+  - Details in README → Quality.
 
-## How it was checked
-1. **Automatic matching.** Every English word was matched against every Ukrainian word by spelling, sound and letter names (`tools/find_candidates.py`), then batched (`tools/prepare_batches.py`).
-2. **First check.**
-   - Batches with dictionary evidence or look-alike scans were checked against `data/RUBRIC.md` (`tools/workflows/check-batches.js`).
-   - After the usage limit, the remaining batches used a cheaper flow: obvious non-matches were sorted by script into `data/checked/auto-not-identical.json`, and the rest went through `tools/workflows/check-batches-lite.js`.
-3. **Topic sweeps.** 24 topics (`tools/workflows/topic-sweep.js`). Every suggestion had to exist in the English and Ukrainian dictionaries (`tools/check_gaps.py`). Accepted ones went to the second check (`tools/gaps_to_cross.py`).
-4. **Second check.**
-   - Common words: full skeptical re-check that also sets the level of the shared meaning (`tools/workflows/cross-check(-lite).js`).
-   - Rare words: flag-only re-check (`tools/workflows/rare-flag.js` + `tools/expand_flags.py`).
-
-## Also done
-- Frequency bands instead of A0–C2. Labels on cards describe only the English word. "Hide slang" filter.
-- Examples + English notes: 2,756 most used words (Top 400 … Top 20K).
-- Recorded pronunciations for all words (Kokoro neural voice), checked with a speech recognizer.
+## Reviews
+- `docs/review/teacher.md`, `docs/review/lexicographer.md`, `docs/review/ux.md`: first round. Their findings were acted on:
+  - stress marks, grammar and Say lines
+  - the A0–A1 rules for Top 1000
+  - shares for slang pairs, and "Most often X means…" notes
+  - the rude flag
+  - the subtitle-based frequency, and the fix for "About Rare"
+  - a11y and phone layout, plus audio and state bugs
+- `docs/review/linguist-final.md`: final review of the current cards.
 
 ## Next
-- Examples for the remaining 8,000 less common words (Top 50K, Top 100K, Rare).
-- Training mode (basic version is in place).
-- "Similar words" and "false friends" sets (`data/similar.json`, `data/false_friends.json`).
+- Pictures for concrete nouns (the place on the card is ready).
+- Training modes from the teacher review:
+  - listen and type
+  - tap the stressed syllable
+  - fill the gap
+  - a/an and plural
+  - which meaning?
+  - spaced repetition
+- Sets saved for later: similar words (`data/similar.json`), false friends and partial false friends (country = кантрі).
+- More archaic English words, each with a label.
+- About 7–13% of identical pairs are still missing (see recall). Most are compounds and new loanwords that dictionaries do not list yet.
