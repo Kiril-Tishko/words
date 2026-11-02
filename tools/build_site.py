@@ -404,7 +404,8 @@ def main():
     for w in final:
         r = reg.get(w['en'], {})
         q = qa.get(w['en'], {})
-        tags = sorted(set(r.get('en', [])) | set(q.get('reg', []))) + [l for l in ('abbreviation', 'technical') if l in w['labels']]
+        tags = sorted(set(r.get('en', [])) | set(q.get('reg', [])))
+        tags += [l for l in ('abbreviation', 'technical') if l in w['labels'] and l not in tags]
         topics = [l for l in w['labels'] if l not in USAGE]
         ex = examples.get(w['en']) or ex_norm.get(ekey(w['en'])) or {}
         if q.get('ex'):

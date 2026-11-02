@@ -32,7 +32,7 @@ OVERRIDES = {'déjà vu': 'deja vu', 'château': 'chateau', 'jalapeño': 'jalape
              'construct': '[Construct](/kˈɑnstɹˌʌkt/)', 'moped': '[Moped](/mˈOpˌɛd/)',
              'redirect': '[Redirect](/ɹˈidəɹˌɛkt/)', 'respawn': '[Respawn](/ɹˈispɔn/)',
              'aspirate': '[Aspirate](/ˈæspəɹət/)', 'canton': '[Canton](/kˈæntˌɑn/)',
-             'bass': '[Bass](/bˈAs/)', 'sol': '[Sol](/sˈOl/)'}
+             'bass': '[Bass](/bˈAs/)', 'sol': '[Sol](/sˈOl/)', 'reset': '[Reset](/ɹˈisˌɛt/)'}
 # all-caps words that are said as words, not letter by letter
 WORDLIKE = {'COVID', 'BIOS', 'LAN', 'MILF', 'OLED', 'NATO', 'PIN', 'LOL', 'FAQ', 'OK', 'SaaS', 'DevOps', 'IMHO', 'WTF', 'OMG'}
 COMMON = set()
