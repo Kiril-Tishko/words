@@ -69,8 +69,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 
 /* cards */
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
-@media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-@media (max-width: 640px) { .grid { grid-template-columns: minmax(0, 440px); justify-content: center; } }
+@media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } .grid .card { aspect-ratio: 3 / 4; } }
+@media (max-width: 640px) { .grid { grid-template-columns: minmax(0, 440px); justify-content: center; } .grid .card { aspect-ratio: 4 / 5; } }
 
 .card { position: relative; perspective: 1000px; aspect-ratio: 4 / 5; cursor: pointer; border-radius: 14px; max-width: 100%; container-type: inline-size; }
 .inner { position: absolute; inset: 0; transition: transform .45s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
@@ -87,7 +87,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .en, .uk { font-family: var(--word); line-height: 1.12; overflow-wrap: break-word; hyphens: manual; max-width: 100%; }
 .en { font-size: clamp(24px, 2.9vw, 34px); font-size: clamp(22px, min(16cqi, 150cqi / var(--n, 6)), var(--max-en, 60px)); font-weight: 600; }
 .uk { font-size: clamp(21px, 2.5vw, 29px); font-size: clamp(19px, min(13.5cqi, 135cqi / var(--n, 6)), var(--max-uk, 50px)); font-weight: 500; color: var(--muted); }
-.eq { color: var(--muted); font-size: 18px; font-size: clamp(16px, 6cqi, 26px); line-height: 1.1; }
+.eq { color: var(--muted); font-size: 18px; font-size: clamp(16px, 6cqi, 26px); line-height: 1.1; margin: .12em 0; }
 .st { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .16em; text-decoration-color: var(--accent); }
 .more { display: flex; justify-content: center; padding-top: 8px; }
 .flag { position: absolute; top: 12px; left: 12px; width: 22px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
@@ -102,16 +102,26 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .add.on { color: var(--accent); }
 @media (pointer: coarse) { .icon { width: 44px; height: 44px; } .say { bottom: 2px; left: 2px; } .add { top: 2px; right: 2px; } }
 
-/* back of the card: picture place, word line, examples, note */
-.back .pic { flex: 0 0 auto; height: 28%; border-radius: 10px; border: 1px solid var(--line); display: grid; place-items: center; overflow: hidden; color: var(--line); }
+/* back of the card: picture place + word, then examples and note */
+.back .top { display: flex; flex-direction: column; gap: 8px; flex: none; }
+.back .pic { flex: none; width: 100%; aspect-ratio: 3 / 1; border-radius: 10px; border: 1px solid var(--line); display: grid; place-items: center; overflow: hidden; color: var(--line); }
 .back .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .back .pic svg { width: 30px; height: 30px; }
 .back .pic.has { border: 0; }
-.back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; }
-.back .head { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-family: var(--word); font-weight: 600; font-size: 18px; }
-.back .head .meta { font: 400 12.5px var(--ui); color: var(--muted); }
-.back .head .say-btn { position: static; width: 28px; height: 28px; margin-left: auto; }
-.back .rank { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; margin-top: -4px; }
+.back .id { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; flex: 1 0 auto; }
+.back .head { display: flex; align-items: center; gap: 6px; font-family: var(--word); font-weight: 600; font-size: 19px; line-height: 1.2; }
+.back .head > span { min-width: 0; overflow-wrap: anywhere; }
+.back .meta { font-size: 12.5px; color: var(--muted); }
+.back .head .say-btn { position: static; flex: none; width: 28px; height: 28px; margin-left: auto; }
+.back .rank { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+/* grids with several columns: a small square picture beside the word, so the examples fit on the card */
+@media (min-width: 641px) {
+  .grid .back .top { flex-direction: row; align-items: flex-start; gap: 10px; }
+  .grid .back .pic { width: 30%; aspect-ratio: 1; }
+  .grid .back .pic svg { width: 24px; height: 24px; }
+  .grid .back .id { flex: 1; }
+}
 .back .say-line { font-size: 13px; }
 .back .say-line span { color: var(--muted); }
 .back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13px; line-height: 1.32; }
@@ -124,11 +134,18 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 /* single view */
 .single { display: flex; flex-direction: column; align-items: center; gap: 16px; --max-en: 84px; --max-uk: 70px; }
 .single .card { width: min(620px, 100%); aspect-ratio: 3 / 2; touch-action: pan-y; }
-.single .back { flex-direction: row; gap: 16px; }
-.single .back .pic { flex: 0 0 38%; height: auto; }
-.single .back .txt { flex: 1; }
+.single .back { display: grid; grid-template-columns: 38% minmax(0, 1fr); grid-template-rows: auto 1fr; gap: 8px 16px; align-content: start; }
+.single .back .top { display: contents; }
+.single .back .pic { grid-column: 1; grid-row: 1 / span 2; aspect-ratio: auto; height: 100%; }
+.single .back .id { grid-column: 2; grid-row: 1; }
+.single .back .txt { grid-column: 2; grid-row: 2; }
 .single .back ol { font-size: 15px; gap: 6px; }
-@media (max-width: 560px) { .single .card { aspect-ratio: 4 / 5; } .single .back { flex-direction: column; } .single .back .pic { flex: 0 0 auto; height: 28%; } }
+@media (max-width: 560px) {
+  .single .card { aspect-ratio: 4 / 5; }
+  .single .back { display: flex; flex-direction: column; }
+  .single .back .top { display: flex; }
+  .single .back .pic { aspect-ratio: 3 / 1; height: auto; }
+}
 .nav { display: flex; gap: 10px; align-items: center; }
 .nav .chip { min-width: 44px; text-align: center; }
 
@@ -364,12 +381,18 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     const d = DET[w.id];
     const ex = ((d && d.ex) || []).filter(Boolean);
     const tags = (d && d.tags) || [];
-    return (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove(\'has\');this.remove()"></div>'
-                  : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
+    const gram = (d && d.gram) || w.pos || '';
+    return '<div class="top">' +
+        (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove(\'has\');this.remove()"></div>'
+               : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
+        '<div class="id">' +
+          '<div class="head"><span>' + stressed(w) + '</span>' +
+            (canPlay(w) ? '<button class="icon say-btn" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') + '</div>' +
+          (gram ? '<div class="meta">' + esc(gram) + '</div>' : '') +
+          '<div class="rank">' + rankText(w) + '</div>' +
+        '</div>' +
+      '</div>' +
       '<div class="txt">' +
-        '<div class="head"><span>' + stressed(w) + '</span><span class="meta">' + esc((d && d.gram) || w.pos || '') + '</span>' +
-          (canPlay(w) ? '<button class="icon say-btn" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') + '</div>' +
-        '<div class="rank">' + rankText(w) + '</div>' +
         (d && d.say ? '<div class="say-line"><span>Say:</span> ' + esc(d.say) + '</div>' : '') +
         (ex.length ? '<ol>' + ex.map(e => '<li>' + mark(esc(e), w.en) + '</li>').join('') + '</ol>' : (d ? '' : '<div class="loading">…</div>')) +
         (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +

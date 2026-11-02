@@ -190,6 +190,8 @@ def main():
     cefr = json.load(open(f'{D}/levels/cefr.json', encoding='utf-8'))
     rank_of, rank_from_freq, freq_of = load_ranks()
     sense = load_sense()
+    pfp = f'{D}/levels/phrase-freq.json'
+    phrase_freq = json.load(open(pfp, encoding='utf-8'))['phrases'] if os.path.exists(pfp) else {}
     qa = {}   # final expert pass (tools/workflows/card-qa.js): verdict, share, labels, grammar, examples, note
     for f in sorted(glob.glob(f'{D}/qa/*.json')):
         try:
@@ -333,8 +335,15 @@ def main():
         w['rank_raw'] = raw
         sh = sense.get(w['en'])
         if sh and 'pm' in sh:
-            # phrase: its own frequency (per million words) as estimated by the linguists
-            w['rank'] = rank_from_freq(max(0.0, float(sh['pm'])) / 1e6)
+            # phrase: its own frequency. Two sources, like words: the linguists' estimate (per million words)
+            # and the Google Books Ngram count put on the word-list scale (tools/phrase_freq.py); geometric mean.
+            # A phrase Google Books does not have counts as rare there (a quarter of the estimate).
+            f = max(0.0, float(sh['pm'])) / 1e6
+            pf = phrase_freq.get(w['en'])
+            if pf is not None:
+                w['books_pm'] = round(pf['freq'] * 1e6, 3)
+                f = (f * pf['freq']) ** 0.5 if pf['freq'] > 0 else f * 0.25
+            w['rank'] = rank_from_freq(f)
             w['rank_est'] = True
         elif sh and 's' in sh:
             # frequency of the word in the meaning on the card = word frequency x share of that meaning
