@@ -28,5 +28,5 @@ Return: file path and number of pairs.`
 
 phase('Sweep')
 const results = await parallel(args.topics.map(t => () =>
-  agent(prompt(t), { label: `sweep:${t.key}`, phase: 'Sweep', schema: RESULT }).then(r => r ? { topic: t.key, ...r } : { topic: t.key, failed: true })))
+  agent(prompt(t), { label: `sweep:${t.key}`, phase: 'Sweep', schema: RESULT, effort: 'low' }).then(r => r ? { topic: t.key, ...r } : { topic: t.key, failed: true })))
 return results

@@ -1,0 +1,568 @@
+[
+{
+"en": "curia",
+"uk": "курія",
+"v": "similar",
+"ce": "curia",
+"cu": "курія"
+},
+{
+"en": "electrophoresis",
+"uk": "електрофорез",
+"v": "similar",
+"ce": "electrophoresis",
+"cu": "електрофорез"
+},
+{
+"en": "ethnology",
+"uk": "етнології",
+"v": "not_lemma",
+"ce": "ethnology",
+"cu": "етнологія",
+"lv": "similar"
+},
+{
+"en": "filigree",
+"uk": "філігрань",
+"v": "similar",
+"ce": "filigree",
+"cu": "філігрань"
+},
+{
+"en": "geographer",
+"uk": "географ",
+"v": "similar",
+"ce": "geographer",
+"cu": "географ"
+},
+{
+"en": "hic",
+"uk": "ик",
+"v": "identical",
+"ce": "hic",
+"cu": "ик",
+"pos": "interj",
+"br": false,
+"lab": [
+"informal",
+"other"
+]
+},
+{
+"en": "initialization",
+"uk": "ініціалізації",
+"v": "not_lemma",
+"ce": "initialization",
+"cu": "ініціалізація",
+"lv": "similar"
+},
+{
+"en": "kundalini",
+"uk": "кундаліні",
+"v": "identical",
+"ce": "kundalini",
+"cu": "кундаліні",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "meiosis",
+"uk": "мейоз",
+"v": "similar",
+"ce": "meiosis",
+"cu": "мейоз"
+},
+{
+"en": "perfectionism",
+"uk": "перфекціонізм",
+"v": "identical",
+"ce": "perfectionism",
+"cu": "перфекціонізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"international",
+"emotions"
+]
+},
+{
+"en": "sura",
+"uk": "сура",
+"v": "identical",
+"ce": "sura",
+"cu": "сура",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "uyghur",
+"uk": "уйгур",
+"v": "identical",
+"ce": "uyghur",
+"cu": "уйгур",
+"pos": "noun",
+"br": false,
+"lab": [
+"people"
+]
+},
+{
+"en": "vanadium",
+"uk": "ванадій",
+"v": "similar",
+"ce": "vanadium",
+"cu": "ванадій"
+},
+{
+"en": "dimer",
+"uk": "димер",
+"v": "identical",
+"ce": "dimer",
+"cu": "димер",
+"pos": "noun",
+"br": false,
+"lab": [
+"technical",
+"chemistry"
+]
+},
+{
+"en": "kabbalah",
+"uk": "кабала",
+"v": "similar",
+"ce": "kabbalah",
+"cu": "кабала"
+},
+{
+"en": "peyote",
+"uk": "пейот",
+"v": "identical",
+"ce": "peyote",
+"cu": "пейот",
+"pos": "noun",
+"br": false,
+"lab": [
+"nature"
+]
+},
+{
+"en": "satanism",
+"uk": "сатанізм",
+"v": "identical",
+"ce": "satanism",
+"cu": "сатанізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "screensaver",
+"uk": "скринсейвер",
+"v": "identical",
+"ce": "screensaver",
+"cu": "скринсейвер",
+"pos": "noun",
+"br": false,
+"lab": [
+"tech"
+]
+},
+{
+"en": "shaheed",
+"uk": "шахід",
+"v": "identical",
+"ce": "shaheed",
+"cu": "шахід",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "anker",
+"uk": "анкер",
+"v": "false_friend",
+"ce": "anker",
+"cu": "анкер"
+},
+{
+"en": "colloquium",
+"uk": "колоквіум",
+"v": "similar",
+"ce": "colloquium",
+"cu": "колоквіум"
+},
+{
+"en": "cronyism",
+"uk": "кронізм",
+"v": "identical",
+"ce": "cronyism",
+"cu": "кронізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"politics"
+]
+},
+{
+"en": "autobahn",
+"uk": "автобан",
+"v": "identical",
+"ce": "autobahn",
+"cu": "автобан",
+"pos": "noun",
+"br": false,
+"lab": [
+"transport"
+]
+},
+{
+"en": "canna",
+"uk": "кана",
+"v": "identical",
+"ce": "canna",
+"cu": "кана",
+"pos": "noun",
+"br": false,
+"lab": [
+"nature"
+]
+},
+{
+"en": "damask",
+"uk": "дамаст",
+"v": "similar",
+"ce": "damask",
+"cu": "дамаст"
+},
+{
+"en": "guppy",
+"uk": "гуппі",
+"v": "identical",
+"ce": "guppy",
+"cu": "гуппі",
+"pos": "noun",
+"br": false,
+"lab": [
+"nature"
+]
+},
+{
+"en": "reiter",
+"uk": "райтер",
+"v": "identical",
+"ce": "reiter",
+"cu": "райтер",
+"pos": "noun",
+"br": false,
+"lab": [
+"archaic",
+"military"
+]
+},
+{
+"en": "apocrypha",
+"uk": "апокриф",
+"v": "similar",
+"ce": "apocrypha",
+"cu": "апокриф"
+},
+{
+"en": "augur",
+"uk": "авгур",
+"v": "identical",
+"ce": "augur",
+"cu": "авгур",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "coitus",
+"uk": "коїтус",
+"v": "identical",
+"ce": "coitus",
+"cu": "коїтус",
+"pos": "noun",
+"br": false,
+"lab": [
+"technical",
+"medicine"
+]
+},
+{
+"en": "experimenter",
+"uk": "експериментатор",
+"v": "similar",
+"ce": "experimenter",
+"cu": "експериментатор"
+},
+{
+"en": "haka",
+"uk": "гака",
+"v": "identical",
+"ce": "haka",
+"cu": "гака",
+"pos": "noun",
+"br": false,
+"lab": [
+"music"
+]
+},
+{
+"en": "hermaphrodite",
+"uk": "гермафродит",
+"v": "identical",
+"ce": "hermaphrodite",
+"cu": "гермафродит",
+"pos": "noun",
+"br": false,
+"lab": [
+"biology"
+]
+},
+{
+"en": "kek",
+"uk": "кек",
+"v": "identical",
+"ce": "kek",
+"cu": "кек",
+"pos": "interj",
+"br": false,
+"lab": [
+"slang",
+"media"
+]
+},
+{
+"en": "lymphocyte",
+"uk": "лімфоцит",
+"v": "identical",
+"ce": "lymphocyte",
+"cu": "лімфоцит",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine",
+"biology"
+]
+},
+{
+"en": "provocateur",
+"uk": "провокатор",
+"v": "similar",
+"ce": "provocateur",
+"cu": "провокатор"
+},
+{
+"en": "psilocybin",
+"uk": "псилоцибін",
+"v": "identical",
+"ce": "psilocybin",
+"cu": "псилоцибін",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "quinta",
+"uk": "квінта",
+"v": "false_friend",
+"ce": "quinta",
+"cu": "квінта"
+},
+{
+"en": "choline",
+"uk": "холін",
+"v": "identical",
+"ce": "choline",
+"cu": "холін",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "kurd",
+"uk": "курд",
+"v": "identical",
+"ce": "kurd",
+"cu": "курд",
+"pos": "noun",
+"br": false,
+"lab": [
+"people"
+]
+},
+{
+"en": "moldovan",
+"uk": "молдованин",
+"v": "similar",
+"ce": "moldovan",
+"cu": "молдованин"
+},
+{
+"en": "oligocene",
+"uk": "олігоцен",
+"v": "identical",
+"ce": "oligocene",
+"cu": "олігоцен",
+"pos": "noun",
+"br": false,
+"lab": [
+"science"
+]
+},
+{
+"en": "tiramisu",
+"uk": "тирамісу",
+"v": "identical",
+"ce": "tiramisu",
+"cu": "тирамісу",
+"pos": "noun",
+"br": false,
+"lab": [
+"international",
+"food"
+]
+},
+{
+"en": "volcanism",
+"uk": "вулканізм",
+"v": "identical",
+"ce": "volcanism",
+"cu": "вулканізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"nature"
+]
+},
+{
+"en": "aldehyde",
+"uk": "альдегід",
+"v": "identical",
+"ce": "aldehyde",
+"cu": "альдегід",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "aldehyde",
+"uk": "альдегіди",
+"v": "not_lemma",
+"ce": "aldehyde",
+"cu": "альдегід",
+"lv": "identical",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "astigmatism",
+"uk": "астигматизм",
+"v": "identical",
+"ce": "astigmatism",
+"cu": "астигматизм",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "basta",
+"uk": "баста",
+"v": "identical",
+"ce": "basta",
+"cu": "баста",
+"pos": "interj",
+"br": false,
+"lab": [
+"informal",
+"other"
+]
+},
+{
+"en": "botulism",
+"uk": "ботулізм",
+"v": "identical",
+"ce": "botulism",
+"cu": "ботулізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "codon",
+"uk": "кодон",
+"v": "identical",
+"ce": "codon",
+"cu": "кодон",
+"pos": "noun",
+"br": false,
+"lab": [
+"biology"
+]
+},
+{
+"en": "cretin",
+"uk": "кретин",
+"v": "identical",
+"ce": "cretin",
+"cu": "кретин",
+"pos": "noun",
+"br": false,
+"lab": [
+"informal",
+"people"
+]
+},
+{
+"en": "distro",
+"uk": "дистро",
+"v": "identical",
+"ce": "distro",
+"cu": "дистро",
+"pos": "noun",
+"br": false,
+"lab": [
+"informal",
+"tech"
+]
+},
+{
+"en": "gamepad",
+"uk": "ґеймпад",
+"v": "identical",
+"ce": "gamepad",
+"cu": "ґеймпад",
+"pos": "noun",
+"br": false,
+"lab": [
+"tech",
+"games"
+]
+}
+]

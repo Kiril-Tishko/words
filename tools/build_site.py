@@ -97,10 +97,12 @@ def main():
             continue
         key = (ce.lower(), cu.lower())
         c = cross.get(key)
+        if r.get('gap') and c is None:
+            continue  # topic-sweep suggestions appear only after the second check
         if c is not None:
             v = c.get('v', v)
-            r = {**r, **{k: c[k] for k in ('ce', 'cu', 'pos', 'br', 'lab', 'note') if k in c}}
-            ce, cu = clean_en(r.get('ce')), clean_uk(r.get('cu'))
+            r = {**r, **{k: c[k] for k in ('ce', 'cu', 'pos', 'br', 'lab', 'note', 'lvl') if k in c}}
+            ce, cu = clean_en(r.get('ce') or r.get('en')), clean_uk(r.get('cu') or r.get('uk'))
             key = (ce.lower(), cu.lower())
         rec = {'en': ce, 'uk': cu, 'pos': r.get('pos') or '', 'british': bool(r.get('br')), 'lvl': r.get('lvl') if c is not None else None,
                'labels': sorted({l for l in (r.get('lab') or []) if isinstance(l, str)}),

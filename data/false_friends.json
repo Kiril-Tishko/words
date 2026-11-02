@@ -66,6 +66,17 @@
   "src": "verify-050.json"
  },
  {
+  "en": "adjunct",
+  "uk": "ад'юнкт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "aggregate",
   "uk": "агрегат",
   "pos": "",
@@ -97,6 +108,28 @@
   "note": "English: chest pain (angina pectoris); Ukrainian: tonsillitis, sore throat.",
   "checked": 1,
   "src": "verify-086.json"
+ },
+ {
+  "en": "anker",
+  "uk": "анкер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
+  "en": "areal",
+  "uk": "ареал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "aspirant",
@@ -275,6 +308,17 @@
   "src": "scan-012.json"
  },
  {
+  "en": "cannon",
+  "uk": "канон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "capitol",
   "uk": "капітал",
   "pos": "noun",
@@ -328,6 +372,17 @@
   "note": "картон = cardboard; a cartoon is мультфільм or карикатура.",
   "checked": 2,
   "src": "verify-018.json"
+ },
+ {
+  "en": "casus",
+  "uk": "казус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "cathedral",
@@ -473,6 +528,17 @@
   "src": "scan-018.json"
  },
  {
+  "en": "conservator",
+  "uk": "консерватор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "convert",
   "uk": "конверт",
   "pos": "noun",
@@ -493,6 +559,17 @@
   "note": "корд = tyre cord fabric or a lunge line for horses; a cord/string is шнур.",
   "checked": 2,
   "src": "verify-021.json"
+ },
+ {
+  "en": "corporative",
+  "uk": "корпоратив",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "cotta",
@@ -559,6 +636,17 @@
   "note": "дата = date (calendar day); data = дані",
   "checked": 1,
   "src": "scan-001.json"
+ },
+ {
+  "en": "defile",
+  "uk": "дефіле",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "delphine",
@@ -957,6 +1045,17 @@
   "src": "verify-010.json"
  },
  {
+  "en": "illuminator",
+  "uk": "ілюмінатор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "infraction",
   "uk": "інфракція",
   "pos": "",
@@ -1153,6 +1252,17 @@
   "note": "магнат = magnate (tycoon); a magnet is магніт.",
   "checked": 1,
   "src": "scan-012.json"
+ },
+ {
+  "en": "mangal",
+  "uk": "мангал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "manifest",
@@ -1419,6 +1529,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "pano",
+  "uk": "пано",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "parole",
   "uk": "пароль",
   "pos": "noun",
@@ -1516,6 +1637,17 @@
   "note": "піке = an aircraft's nosedive; pique = irritation, to arouse (interest)",
   "checked": 1,
   "src": "verify-075.json"
+ },
+ {
+  "en": "plaid",
+  "uk": "плед",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "planner",
@@ -1628,6 +1760,17 @@
   "src": "scan-019.json"
  },
  {
+  "en": "quinta",
+  "uk": "квінта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "rabat",
   "uk": "рабат",
   "pos": "",
@@ -1659,6 +1802,17 @@
   "note": "рапорт = official (military) report; rapport = взаєморозуміння.",
   "checked": 1,
   "src": "verify-060.json"
+ },
+ {
+  "en": "referent",
+  "uk": "референт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "reformatory",
@@ -1707,13 +1861,13 @@
  {
   "en": "rota",
   "uk": "рота",
-  "pos": "noun",
-  "british": true,
+  "pos": "",
+  "british": false,
   "lvl": null,
   "labels": [],
-  "note": "рота = company (military unit); a rota (British) = duty schedule (графік чергувань).",
+  "note": "",
   "checked": 1,
-  "src": "scan-010.json"
+  "src": "rverify-000.json"
  },
  {
   "en": "roulette",
@@ -1914,6 +2068,17 @@
   "src": "verify-002.json"
  },
  {
+  "en": "strata",
+  "uk": "страта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "study",
   "uk": "студія",
   "pos": "",
@@ -1923,6 +2088,28 @@
   "note": "студій = genitive plural of студія (studio); a study is кабінет, навчання",
   "checked": 1,
   "src": "verify-002.json"
+ },
+ {
+  "en": "sultana",
+  "uk": "султан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
+  "en": "supine",
+  "uk": "супін",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "sympathy",

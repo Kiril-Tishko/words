@@ -1,0 +1,733 @@
+[
+{
+"en": "phagocytosis",
+"uk": "фагоцитоз",
+"v": "similar",
+"ce": "phagocytosis",
+"cu": "фагоцитоз"
+},
+{
+"en": "shiitake",
+"uk": "шіїтаке",
+"v": "identical",
+"ce": "shiitake",
+"cu": "шіїтаке",
+"pos": "noun",
+"br": false,
+"lab": [
+"food"
+]
+},
+{
+"en": "behaviorism",
+"uk": "бігевіоризм",
+"v": "identical",
+"ce": "behaviorism",
+"cu": "біхевіоризм",
+"pos": "noun",
+"br": false,
+"lab": [
+"science"
+]
+},
+{
+"en": "behaviorism",
+"uk": "біхевіоризм",
+"v": "identical",
+"ce": "behaviorism",
+"cu": "біхевіоризм",
+"pos": "noun",
+"br": false,
+"lab": [
+"international",
+"science"
+]
+},
+{
+"en": "celadon",
+"uk": "селадон",
+"v": "identical",
+"ce": "celadon",
+"cu": "селадон",
+"pos": "noun",
+"br": false,
+"lab": [
+"art"
+]
+},
+{
+"en": "gourmand",
+"uk": "ґурман",
+"v": "partial_false_friend",
+"ce": "gourmand",
+"cu": "ґурман"
+},
+{
+"en": "hajji",
+"uk": "хаджі",
+"v": "identical",
+"ce": "hajji",
+"cu": "хаджі",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "naproxen",
+"uk": "напроксен",
+"v": "identical",
+"ce": "naproxen",
+"cu": "напроксен",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "otitis",
+"uk": "отит",
+"v": "similar",
+"ce": "otitis",
+"cu": "отит"
+},
+{
+"en": "ampersand",
+"uk": "амперсанд",
+"v": "identical",
+"ce": "ampersand",
+"cu": "амперсанд",
+"pos": "noun",
+"br": false,
+"lab": [
+"language"
+]
+},
+{
+"en": "anschluss",
+"uk": "аншлюс",
+"v": "identical",
+"ce": "anschluss",
+"cu": "аншлюс",
+"pos": "noun",
+"br": false,
+"lab": [
+"politics"
+]
+},
+{
+"en": "astragalus",
+"uk": "астрагал",
+"v": "similar",
+"ce": "astragalus",
+"cu": "астрагал"
+},
+{
+"en": "copra",
+"uk": "копра",
+"v": "identical",
+"ce": "copra",
+"cu": "копра",
+"pos": "noun",
+"br": false,
+"lab": [
+"food"
+]
+},
+{
+"en": "gynecomastia",
+"uk": "гінекомастія",
+"v": "identical",
+"ce": "gynecomastia",
+"cu": "гінекомастія",
+"pos": "noun",
+"br": false,
+"lab": [
+"technical",
+"medicine"
+]
+},
+{
+"en": "kampung",
+"uk": "кампунг",
+"v": "identical",
+"ce": "kampung",
+"cu": "кампунг",
+"pos": "noun",
+"br": false,
+"lab": [
+"places"
+]
+},
+{
+"en": "mizrahi",
+"uk": "мізрахі",
+"v": "identical",
+"ce": "mizrahi",
+"cu": "мізрахі",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion",
+"people"
+]
+},
+{
+"en": "mollusc",
+"uk": "молюск",
+"v": "identical",
+"ce": "mollusk",
+"cu": "молюск",
+"pos": "noun",
+"br": false,
+"lab": [
+"biology"
+]
+},
+{
+"en": "onomatopoeia",
+"uk": "ономатопея",
+"v": "similar",
+"ce": "onomatopoeia",
+"cu": "ономатопея"
+},
+{
+"en": "pano",
+"uk": "пано",
+"v": "false_friend",
+"ce": "pano",
+"cu": "пано"
+},
+{
+"en": "piqué",
+"uk": "піке",
+"v": "identical",
+"ce": "piqué",
+"cu": "піке",
+"pos": "noun",
+"br": false,
+"lab": [
+"clothing"
+]
+},
+{
+"en": "proterozoic",
+"uk": "протерозой",
+"v": "similar",
+"ce": "proterozoic",
+"cu": "протерозой"
+},
+{
+"en": "rouble",
+"uk": "рубль",
+"v": "identical",
+"ce": "ruble",
+"cu": "рубль",
+"pos": "noun",
+"br": false,
+"lab": [
+"finance"
+]
+},
+{
+"en": "syncretism",
+"uk": "синкретизм",
+"v": "identical",
+"ce": "syncretism",
+"cu": "синкретизм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "tsundere",
+"uk": "цундере",
+"v": "identical",
+"ce": "tsundere",
+"cu": "цундере",
+"pos": "noun",
+"br": false,
+"lab": [
+"slang",
+"media"
+]
+},
+{
+"en": "wendigo",
+"uk": "вендіго",
+"v": "identical",
+"ce": "wendigo",
+"cu": "вендіго",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "yuga",
+"uk": "юґа",
+"v": "identical",
+"ce": "yuga",
+"cu": "юґа",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion",
+"time"
+]
+},
+{
+"en": "alif",
+"uk": "аліф",
+"v": "identical",
+"ce": "alif",
+"cu": "аліф",
+"pos": "noun",
+"br": false,
+"lab": [
+"language"
+]
+},
+{
+"en": "animism",
+"uk": "анімізм",
+"v": "identical",
+"ce": "animism",
+"cu": "анімізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "bradycardia",
+"uk": "брадикардія",
+"v": "identical",
+"ce": "bradycardia",
+"cu": "брадикардія",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "breccia",
+"uk": "брекчія",
+"v": "identical",
+"ce": "breccia",
+"cu": "брекчія",
+"pos": "noun",
+"br": false,
+"lab": [
+"technical",
+"science"
+]
+},
+{
+"en": "campanella",
+"uk": "кампанелла",
+"v": "identical",
+"ce": "campanella",
+"cu": "кампанелла",
+"pos": "noun",
+"br": false,
+"lab": [
+"music"
+]
+},
+{
+"en": "colón",
+"uk": "колон",
+"v": "identical",
+"ce": "colón",
+"cu": "колон",
+"pos": "noun",
+"br": false,
+"lab": [
+"finance"
+]
+},
+{
+"en": "defeatism",
+"uk": "дефетизм",
+"v": "identical",
+"ce": "defeatism",
+"cu": "дефетизм",
+"pos": "noun",
+"br": false,
+"lab": [
+"politics"
+]
+},
+{
+"en": "geta",
+"uk": "гета",
+"v": "identical",
+"ce": "geta",
+"cu": "гета",
+"pos": "noun",
+"br": false,
+"lab": [
+"clothing"
+]
+},
+{
+"en": "headcanon",
+"uk": "гедканон",
+"v": "identical",
+"ce": "headcanon",
+"cu": "гедканон",
+"pos": "noun",
+"br": false,
+"lab": [
+"slang",
+"media"
+]
+},
+{
+"en": "iconoclasm",
+"uk": "іконоклазм",
+"v": "identical",
+"ce": "iconoclasm",
+"cu": "іконоклазм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "jaggery",
+"uk": "джаггері",
+"v": "identical",
+"ce": "jaggery",
+"cu": "джаггері",
+"pos": "noun",
+"br": false,
+"lab": [
+"food"
+]
+},
+{
+"en": "kif",
+"uk": "кайф",
+"v": "partial_false_friend",
+"ce": "kif",
+"cu": "кайф"
+},
+{
+"en": "nephritis",
+"uk": "нефрит",
+"v": "similar",
+"ce": "nephritis",
+"cu": "нефрит"
+},
+{
+"en": "neurofibromatosis",
+"uk": "нейрофіброматоз",
+"v": "similar",
+"ce": "neurofibromatosis",
+"cu": "нейрофіброматоз"
+},
+{
+"en": "pantheism",
+"uk": "пантеїзм",
+"v": "identical",
+"ce": "pantheism",
+"cu": "пантеїзм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "pyrophosphate",
+"uk": "пірофосфат",
+"v": "identical",
+"ce": "pyrophosphate",
+"cu": "пірофосфат",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "yandere",
+"uk": "яндере",
+"v": "identical",
+"ce": "yandere",
+"cu": "яндере",
+"pos": "noun",
+"br": false,
+"lab": [
+"slang",
+"media"
+]
+},
+{
+"en": "yttrium",
+"uk": "ітрій",
+"v": "identical",
+"ce": "yttrium",
+"cu": "ітрій",
+"pos": "noun",
+"br": false,
+"lab": [
+"chemistry"
+]
+},
+{
+"en": "adenoma",
+"uk": "аденома",
+"v": "identical",
+"ce": "adenoma",
+"cu": "аденома",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "facultative",
+"uk": "факультативні",
+"v": "not_lemma",
+"ce": "facultative",
+"cu": "факультативний",
+"lv": "similar"
+},
+{
+"en": "novitiate",
+"uk": "новіціат",
+"v": "identical",
+"ce": "novitiate",
+"cu": "новіціат",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "osteomyelitis",
+"uk": "остеомієліт",
+"v": "similar",
+"ce": "osteomyelitis",
+"cu": "остеомієліт"
+},
+{
+"en": "pedant",
+"uk": "педант",
+"v": "identical",
+"ce": "pedant",
+"cu": "педант",
+"pos": "noun",
+"br": false,
+"lab": [
+"people"
+]
+},
+{
+"en": "prednisolone",
+"uk": "преднізолон",
+"v": "identical",
+"ce": "prednisolone",
+"cu": "преднізолон",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "radionuclide",
+"uk": "радіонукліди",
+"v": "not_lemma",
+"ce": "radionuclide",
+"cu": "радіонуклід",
+"pos": "noun",
+"br": false,
+"lab": [
+"physics"
+],
+"lv": "identical"
+},
+{
+"en": "trivium",
+"uk": "тривіум",
+"v": "identical",
+"ce": "trivium",
+"cu": "тривіум",
+"pos": "noun",
+"br": false,
+"lab": [
+"education"
+]
+},
+{
+"en": "anarcho-syndicalism",
+"uk": "анархо-синдикалізм",
+"v": "identical",
+"ce": "anarcho-syndicalism",
+"cu": "анархо-синдикалізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"politics"
+]
+},
+{
+"en": "choirmaster",
+"uk": "хормейстер",
+"v": "similar",
+"ce": "choirmaster",
+"cu": "хормейстер"
+},
+{
+"en": "choirmaster",
+"uk": "хормайстер",
+"v": "similar",
+"ce": "choirmaster",
+"cu": "хормайстер"
+},
+{
+"en": "lectionary",
+"uk": "лекціонарій",
+"v": "similar",
+"ce": "lectionary",
+"cu": "лекціонарій"
+},
+{
+"en": "syllogism",
+"uk": "силогізм",
+"v": "identical",
+"ce": "syllogism",
+"cu": "силогізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"language"
+]
+},
+{
+"en": "sysadmin",
+"uk": "сисадмін",
+"v": "identical",
+"ce": "sysadmin",
+"cu": "сисадмін",
+"pos": "noun",
+"br": false,
+"lab": [
+"informal",
+"tech"
+]
+},
+{
+"en": "aborigine",
+"uk": "абориген",
+"v": "similar",
+"ce": "aborigine",
+"cu": "абориген"
+},
+{
+"en": "barbiturate",
+"uk": "барбітурат",
+"v": "identical",
+"ce": "barbiturate",
+"cu": "барбітурат",
+"pos": "noun",
+"br": false,
+"lab": [
+"medicine"
+]
+},
+{
+"en": "bourdon",
+"uk": "бурдон",
+"v": "identical",
+"ce": "bourdon",
+"cu": "бурдон",
+"pos": "noun",
+"br": false,
+"lab": [
+"archaic",
+"music"
+]
+},
+{
+"en": "dictaphone",
+"uk": "диктофон",
+"v": "identical",
+"ce": "dictaphone",
+"cu": "диктофон",
+"pos": "noun",
+"br": false,
+"lab": [
+"tech"
+]
+},
+{
+"en": "matsuri",
+"uk": "мацурі",
+"v": "identical",
+"ce": "matsuri",
+"cu": "мацурі",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "monism",
+"uk": "монізм",
+"v": "identical",
+"ce": "monism",
+"cu": "монізм",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "ouroboros",
+"uk": "уроборос",
+"v": "identical",
+"ce": "ouroboros",
+"cu": "уроборос",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "satori",
+"uk": "саторі",
+"v": "identical",
+"ce": "satori",
+"cu": "саторі",
+"pos": "noun",
+"br": false,
+"lab": [
+"religion"
+]
+},
+{
+"en": "thrombus",
+"uk": "тромб",
+"v": "similar",
+"ce": "thrombus",
+"cu": "тромб"
+}
+]

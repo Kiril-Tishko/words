@@ -676,6 +676,17 @@
   "src": "verify-053.json"
  },
  {
+  "en": "choreograph",
+  "uk": "хореограф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "cinematographer",
   "uk": "кінематографіст",
   "pos": "",
@@ -1268,6 +1279,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "diwan",
+  "uk": "диван",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "dog",
   "uk": "дог",
   "pos": "noun",
@@ -1667,6 +1689,17 @@
   "src": "verify-077.json"
  },
  {
+  "en": "gourmand",
+  "uk": "ґурман",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "graph",
   "uk": "граф",
   "pos": "",
@@ -1791,6 +1824,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "intendant",
+  "uk": "інтендант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "invalid",
   "uk": "інвалід",
   "pos": "",
@@ -1846,6 +1890,28 @@
   "note": "юрист = any lawyer; English jurist is a formal word for a legal scholar or judge.",
   "checked": 1,
   "src": "verify-090.json"
+ },
+ {
+  "en": "kif",
+  "uk": "кайф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
+  "en": "laika",
+  "uk": "лайка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "liquor",
@@ -1908,6 +1974,17 @@
   "src": "verify-050.json"
  },
  {
+  "en": "lyric",
+  "uk": "лірик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "machine",
   "uk": "машина",
   "pos": "",
@@ -1950,6 +2027,17 @@
   "note": "мажор = major key in music; slang: spoiled rich kid.",
   "checked": 2,
   "src": "verify-000.json"
+ },
+ {
+  "en": "mannerism",
+  "uk": "маньєризм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "marmalade",
@@ -3166,6 +3254,17 @@
   "note": "скотч mainly = sticky tape (Scotch tape); it can also mean Scotch whisky.",
   "checked": 1,
   "src": "scan-010.json"
+ },
+ {
+  "en": "second",
+  "uk": "секонд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "senior",

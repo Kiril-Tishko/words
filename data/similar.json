@@ -11,6 +11,17 @@
   "src": "verify-085.json"
  },
  {
+  "en": "abacus",
+  "uk": "абак",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "abbreviature",
   "uk": "абревіатура",
   "pos": "noun",
@@ -33,6 +44,17 @@
   "note": "adjective ending -ний",
   "checked": 1,
   "src": "verify-037.json"
+ },
+ {
+  "en": "aborigine",
+  "uk": "абориген",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "absolute",
@@ -156,9 +178,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "English ends in -osis.",
+  "note": "",
   "checked": 1,
-  "src": "verify-108.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "acoustics",
@@ -502,6 +524,17 @@
   "note": "Ukrainian adjective ending -ний",
   "checked": 1,
   "src": "verify-057.json"
+ },
+ {
+  "en": "agribusiness",
+  "uk": "агробізнес",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "agriculture",
@@ -889,6 +922,17 @@
   "src": "verify-069.json"
  },
  {
+  "en": "amyloidosis",
+  "uk": "амілоїдоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "anagram",
   "uk": "анаграма",
   "pos": "",
@@ -920,6 +964,17 @@
   "note": "Adjective анальний has its own ending.",
   "checked": 1,
   "src": "verify-023.json"
+ },
+ {
+  "en": "analgesic",
+  "uk": "анальгетик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "analogy",
@@ -977,6 +1032,17 @@
   "src": "verify-058.json"
  },
  {
+  "en": "anamnesis",
+  "uk": "анамнез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "anaphylactic",
   "uk": "анафілактичний",
   "pos": "",
@@ -1032,6 +1098,28 @@
   "src": "scan-009.json"
  },
  {
+  "en": "androgyny",
+  "uk": "андрогінність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
+  "en": "androgyny",
+  "uk": "андроґінність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "anesthesiology",
   "uk": "анестезіологія",
   "pos": "",
@@ -1041,6 +1129,17 @@
   "note": "-y → -ія",
   "checked": 1,
   "src": "verify-103.json"
+ },
+ {
+  "en": "anisotropy",
+  "uk": "анізотропія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "annals",
@@ -1219,6 +1318,17 @@
   "note": "Greek ending -ис added.",
   "checked": 1,
   "src": "scan-010.json"
+ },
+ {
+  "en": "apocrypha",
+  "uk": "апокриф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "apollo",
@@ -1648,6 +1758,17 @@
   "note": "Ukrainian form -имент (from French assortiment).",
   "checked": 1,
   "src": "verify-054.json"
+ },
+ {
+  "en": "astragalus",
+  "uk": "астрагал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "astrologer",
@@ -2095,6 +2216,17 @@
   "src": "scan-009.json"
  },
  {
+  "en": "banditry",
+  "uk": "бандитизм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "banker",
   "uk": "банкір",
   "pos": "",
@@ -2236,6 +2368,17 @@
   "note": "-ium → -ій.",
   "checked": 1,
   "src": "verify-079.json"
+ },
+ {
+  "en": "bestiary",
+  "uk": "бестіарій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "Bible",
@@ -2445,6 +2588,39 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-032.json"
+ },
+ {
+  "en": "bisexuality",
+  "uk": "бісексуальність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
+  "en": "bismuth",
+  "uk": "вісмут",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
+  "en": "bivouac",
+  "uk": "бівак",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "blockade",
@@ -3162,6 +3338,17 @@
   "src": "verify-082.json"
  },
  {
+  "en": "catalysis",
+  "uk": "каталіз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "catalytic",
   "uk": "каталітичний",
   "pos": "",
@@ -3239,6 +3426,17 @@
   "src": "scan-001.json"
  },
  {
+  "en": "catharsis",
+  "uk": "катарсис",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "caustic soda",
   "uk": "каустична сода",
   "pos": "",
@@ -3292,6 +3490,17 @@
   "note": "au written as ав",
   "checked": 1,
   "src": "verify-084.json"
+ },
+ {
+  "en": "centrifuge",
+  "uk": "центрифуга",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "ceramic",
@@ -3454,6 +3663,28 @@
   "src": "verify-024.json"
  },
  {
+  "en": "choirmaster",
+  "uk": "хормейстер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
+  "en": "choirmaster",
+  "uk": "хормайстер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "choreographer",
   "uk": "хореограф",
   "pos": "",
@@ -3586,6 +3817,17 @@
   "note": "kinematography is a rare variant spelling of cinematography.",
   "checked": 1,
   "src": "scan-015.json"
+ },
+ {
+  "en": "cistern",
+  "uk": "цистерна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "clarinet",
@@ -3852,6 +4094,17 @@
   "src": "verify-012.json"
  },
  {
+  "en": "colloquium",
+  "uk": "колоквіум",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "colonial",
   "uk": "колоніальний",
   "pos": "",
@@ -4106,6 +4359,17 @@
   "note": "feminine form; adjective ending -ний",
   "checked": 1,
   "src": "verify-103.json"
+ },
+ {
+  "en": "comorbidity",
+  "uk": "коморбідність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "compact",
@@ -4779,6 +5043,17 @@
   "src": "verify-049.json"
  },
  {
+  "en": "cosmopolitanism",
+  "uk": "космополітизм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "Cossack",
   "uk": "козак",
   "pos": "",
@@ -5133,13 +5408,24 @@
  {
   "en": "cupola",
   "uk": "купол",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "купол = dome; English cupola is a small dome on a roof; Ukrainian drops -a.",
+  "note": "",
   "checked": 1,
-  "src": "scan-010.json"
+  "src": "rverify-000.json"
+ },
+ {
+  "en": "curia",
+  "uk": "курія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "custody",
@@ -5219,6 +5505,28 @@
   "note": "",
   "checked": 1,
   "src": "scan-018.json"
+ },
+ {
+  "en": "cymbal",
+  "uk": "цимбали",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
+  "en": "damask",
+  "uk": "дамаст",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "dame",
@@ -6433,6 +6741,17 @@
   "src": "verify-040.json"
  },
  {
+  "en": "dyspepsia",
+  "uk": "диспепсія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "dystrophy",
   "uk": "дистрофія",
   "pos": "",
@@ -6721,6 +7040,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "electrophoresis",
+  "uk": "електрофорез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "electrostatic",
   "uk": "електростатичний",
   "pos": "",
@@ -6927,9 +7257,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "-y vs -ія ending",
+  "note": "",
   "checked": 1,
-  "src": "verify-092.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "encyclical",
@@ -6952,6 +7282,17 @@
   "note": "Ukrainian ending -ія",
   "checked": 1,
   "src": "verify-041.json"
+ },
+ {
+  "en": "endocarditis",
+  "uk": "ендокардит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "endocrine",
@@ -7295,6 +7636,17 @@
   "src": "scan-013.json"
  },
  {
+  "en": "ethnology",
+  "uk": "етнологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "etymology",
   "uk": "етимологія",
   "pos": "",
@@ -7429,6 +7781,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "experimenter",
+  "uk": "експериментатор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "expert",
   "uk": "експертний",
   "pos": "",
@@ -7460,6 +7823,28 @@
   "note": "Ukrainian adjective, bookish; the usual word is надзвичайний.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "extreme",
+  "uk": "екстрим",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
+  "en": "facultative",
+  "uk": "факультативний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "faculty",
@@ -7627,6 +8012,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "filigree",
+  "uk": "філігрань",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "filtration",
@@ -8083,6 +8479,28 @@
   "src": "verify-033.json"
  },
  {
+  "en": "gastritis",
+  "uk": "гастрит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
+  "en": "gastroenteritis",
+  "uk": "гастроентерит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "gastroenterology",
   "uk": "гастроентерологія",
   "pos": "",
@@ -8182,6 +8600,17 @@
   "src": "verify-004.json"
  },
  {
+  "en": "generalissimo",
+  "uk": "генералісимус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "generalization",
   "uk": "генералізація",
   "pos": "",
@@ -8270,6 +8699,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-015.json"
+ },
+ {
+  "en": "geographer",
+  "uk": "географ",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "geographic",
@@ -8393,6 +8833,17 @@
   "src": "verify-104.json"
  },
  {
+  "en": "ghazal",
+  "uk": "газель",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "giant",
   "uk": "гігант",
   "pos": "",
@@ -8437,6 +8888,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-018.json"
+ },
+ {
+  "en": "glasnost",
+  "uk": "гласність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "global",
@@ -8505,6 +8967,17 @@
   "src": "scan-009.json"
  },
  {
+  "en": "glycolysis",
+  "uk": "гліколіз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "goose",
   "uk": "гуска",
   "pos": "noun",
@@ -8517,6 +8990,17 @@
   "note": "Plural; гуси is the common plural (singular usually гуска).",
   "checked": 2,
   "src": "verify-026.json"
+ },
+ {
+  "en": "gorgonzola",
+  "uk": "горгондзола",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "grail",
@@ -8543,13 +9027,13 @@
  {
   "en": "grandee",
   "uk": "гранд",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Spanish/Portuguese nobleman of the highest rank; Ukrainian also uses гранд for top clubs/companies.",
+  "note": "",
   "checked": 1,
-  "src": "scan-006.json"
+  "src": "rverify-002.json"
  },
  {
   "en": "granule",
@@ -8693,6 +9177,17 @@
   "note": "ending -ія",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "guava",
+  "uk": "гуава",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "guest",
@@ -8917,6 +9412,17 @@
   "src": "verify-096.json"
  },
  {
+  "en": "hemorrhoid",
+  "uk": "геморой",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "henna",
   "uk": "хна",
   "pos": "",
@@ -9115,6 +9621,17 @@
   "src": "verify-053.json"
  },
  {
+  "en": "Hindustani",
+  "uk": "гіндустанець",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "hippocampus",
   "uk": "гіпокамп",
   "pos": "",
@@ -9157,6 +9674,17 @@
   "note": "Ukrainian історія also means story.",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "hocus-pocus",
+  "uk": "фокус-покус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "hologram",
@@ -9539,6 +10067,17 @@
   "src": "verify-061.json"
  },
  {
+  "en": "hyperplasia",
+  "uk": "гіперплазія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "hypertension",
   "uk": "гіпертензія",
   "pos": "",
@@ -9867,6 +10406,17 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-067.json"
+ },
+ {
+  "en": "impulsivity",
+  "uk": "імпульсивність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "incompetent",
@@ -10214,13 +10764,13 @@
  {
   "en": "infrastructure",
   "uk": "інфраструктура",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "case form of інфраструктура",
+  "note": "",
   "checked": 1,
-  "src": "scan-001.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "inhuman",
@@ -10232,6 +10782,17 @@
   "note": "Ukrainian adjective with не- and -ний.",
   "checked": 1,
   "src": "verify-053.json"
+ },
+ {
+  "en": "initialization",
+  "uk": "ініціалізація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "initiative",
@@ -10408,6 +10969,17 @@
   "note": "Ukrainian adjective adds -ний",
   "checked": 1,
   "src": "verify-019.json"
+ },
+ {
+  "en": "interactivity",
+  "uk": "інтерактивність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "interest",
@@ -10652,6 +11224,17 @@
   "src": "verify-028.json"
  },
  {
+  "en": "jaeger",
+  "uk": "єгер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "jasmine",
   "uk": "жасмин",
   "pos": "noun",
@@ -10767,6 +11350,17 @@
   "src": "scan-001.json"
  },
  {
+  "en": "kabbalah",
+  "uk": "кабала",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "kamikaze",
   "uk": "камікадзе",
   "pos": "",
@@ -10798,6 +11392,17 @@
   "note": "Folk dance; Ukrainian козачок also means 'little Cossack'.",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "ketosis",
+  "uk": "кетоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "Keynesian",
@@ -10888,6 +11493,28 @@
   "src": "scan-012.json"
  },
  {
+  "en": "lapis lazuli",
+  "uk": "ляпіс-лазур",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
+  "en": "latakia",
+  "uk": "латакія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "Latin",
   "uk": "латина",
   "pos": "",
@@ -10908,6 +11535,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-006.json"
+ },
+ {
+  "en": "lectionary",
+  "uk": "лекціонарій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "legal",
@@ -11330,6 +11968,17 @@
   "src": "verify-025.json"
  },
  {
+  "en": "Londoner",
+  "uk": "лондонець",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "lotion",
   "uk": "лосьйон",
   "pos": "",
@@ -11396,6 +12045,17 @@
   "note": "Ukrainian лінч is a noun (= lynching, суд Лінча); English lynch is mainly a verb (лінчувати).",
   "checked": 1,
   "src": "scan-015.json"
+ },
+ {
+  "en": "lyre",
+  "uk": "ліра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "macaque",
@@ -11921,6 +12581,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "mattress",
+  "uk": "матрац",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "maximal",
   "uk": "максимальний",
   "pos": "",
@@ -12020,6 +12691,17 @@
   "src": "verify-122.json"
  },
  {
+  "en": "meiosis",
+  "uk": "мейоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "melancholic",
   "uk": "меланхолічний",
   "pos": "",
@@ -12066,13 +12748,13 @@
  {
   "en": "membrane",
   "uk": "мембрана",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
   "note": "",
   "checked": 1,
-  "src": "scan-009.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "memorial",
@@ -12353,6 +13035,17 @@
   "src": "scan-002.json"
  },
  {
+  "en": "mezzo",
+  "uk": "меццо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "microbiology",
   "uk": "мікробіологія",
   "pos": "",
@@ -12362,6 +13055,17 @@
   "note": "Ukrainian ending -ія",
   "checked": 1,
   "src": "verify-055.json"
+ },
+ {
+  "en": "microrna",
+  "uk": "мікрорнк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "microscopic",
@@ -12683,6 +13387,17 @@
   "src": "verify-087.json"
  },
  {
+  "en": "moldovan",
+  "uk": "молдованин",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "molecule",
   "uk": "молекула",
   "pos": "",
@@ -12967,6 +13682,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-018.json"
+ },
+ {
+  "en": "mulatto",
+  "uk": "мулат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "mulch",
@@ -13288,6 +14014,17 @@
   "src": "verify-074.json"
  },
  {
+  "en": "necromancer",
+  "uk": "некромант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "necropolis",
   "uk": "некрополь",
   "pos": "",
@@ -13334,15 +14071,13 @@
  {
   "en": "nematode",
   "uk": "нематода",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "biology"
-  ],
+  "labels": [],
   "note": "",
   "checked": 1,
-  "src": "scan-020.json"
+  "src": "rverify-000.json"
  },
  {
   "en": "Neolithic",
@@ -13354,6 +14089,17 @@
   "note": "неоліт is the noun (the period); the adjective is неолітичний",
   "checked": 1,
   "src": "verify-071.json"
+ },
+ {
+  "en": "nephritis",
+  "uk": "нефрит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "nervous system",
@@ -13389,6 +14135,17 @@
   "src": "verify-092.json"
  },
  {
+  "en": "neurofibromatosis",
+  "uk": "нейрофіброматоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "neurology",
   "uk": "неврологія",
   "pos": "",
@@ -13409,6 +14166,17 @@
   "note": "Ukrainian ending -ія",
   "checked": 1,
   "src": "verify-122.json"
+ },
+ {
+  "en": "neurosis",
+  "uk": "невроз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "neurotic",
@@ -13611,13 +14379,13 @@
  {
   "en": "observatory",
   "uk": "обсерваторія",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
   "note": "",
   "checked": 1,
-  "src": "scan-011.json"
+  "src": "rverify-000.json"
  },
  {
   "en": "obsessive",
@@ -13651,6 +14419,17 @@
   "note": "-ic → -ський",
   "checked": 1,
   "src": "verify-047.json"
+ },
+ {
+  "en": "oceanographer",
+  "uk": "океанограф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "oceanography",
@@ -13753,6 +14532,17 @@
   "note": "",
   "checked": 1,
   "src": "verify-049.json"
+ },
+ {
+  "en": "onomatopoeia",
+  "uk": "ономатопея",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "ontology",
@@ -13902,13 +14692,13 @@
  {
   "en": "orchestra",
   "uk": "оркестр",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
   "note": "",
   "checked": 2,
-  "src": "scan-005.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "organist",
@@ -14043,15 +14833,48 @@
   "src": "verify-085.json"
  },
  {
+  "en": "osteomyelitis",
+  "uk": "остеомієліт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "osteoporosis",
   "uk": "остеопороз",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian drops the ending -is",
+  "note": "",
   "checked": 1,
-  "src": "verify-071.json"
+  "src": "rscan-000.json"
+ },
+ {
+  "en": "otitis",
+  "uk": "отит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
+  "en": "overtone",
+  "uk": "обертон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "oxidation",
@@ -14133,6 +14956,17 @@
   "src": "verify-085.json"
  },
  {
+  "en": "Paleozoic",
+  "uk": "палеозой",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "palladium",
   "uk": "паладій",
   "pos": "",
@@ -14164,6 +14998,17 @@
   "note": "plural of пальма; only the tree, palm of the hand = долоня",
   "checked": 1,
   "src": "verify-039.json"
+ },
+ {
+  "en": "pancreatitis",
+  "uk": "панкреатит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "pandemic",
@@ -14318,6 +15163,17 @@
   "note": "Ukrainian adjective ending -ичний",
   "checked": 1,
   "src": "verify-081.json"
+ },
+ {
+  "en": "paranoia",
+  "uk": "паранойя",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "paranoiac",
@@ -14605,6 +15461,17 @@
   "src": "verify-017.json"
  },
  {
+  "en": "perihelion",
+  "uk": "перигелій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "periphery",
   "uk": "периферія",
   "pos": "noun",
@@ -14691,6 +15558,17 @@
   "note": "Ukrainian adjective ending -ний",
   "checked": 1,
   "src": "verify-055.json"
+ },
+ {
+  "en": "phagocytosis",
+  "uk": "фагоцитоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "pharaoh",
@@ -14798,9 +15676,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian ending -ія; філармонія = concert society/hall",
+  "note": "",
   "checked": 1,
-  "src": "verify-058.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "philology",
@@ -15078,6 +15956,17 @@
   "src": "verify-031.json"
  },
  {
+  "en": "plasmapheresis",
+  "uk": "плазмаферез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "platform",
   "uk": "платформа",
   "pos": "noun",
@@ -15222,6 +16111,17 @@
   "note": "Ukrainian adds -іка",
   "checked": 1,
   "src": "verify-095.json"
+ },
+ {
+  "en": "polemicist",
+  "uk": "полеміст",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "police",
@@ -16062,6 +16962,17 @@
   "src": "verify-031.json"
  },
  {
+  "en": "proterozoic",
+  "uk": "протерозой",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
+ },
+ {
   "en": "proverbial",
   "uk": "провербіальний",
   "pos": "",
@@ -16082,6 +16993,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-003.json"
+ },
+ {
+  "en": "provocateur",
+  "uk": "провокатор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
  },
  {
   "en": "provocation",
@@ -16405,6 +17327,17 @@
   "src": "verify-098.json"
  },
  {
+  "en": "quadcopter",
+  "uk": "квадрокоптер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "qualification",
   "uk": "кваліфікація",
   "pos": "",
@@ -16711,6 +17644,17 @@
   "note": "suffix -ність",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "recitative",
+  "uk": "речитатив",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "reclame",
@@ -17282,6 +18226,17 @@
   "src": "verify-070.json"
  },
  {
+  "en": "rhesus",
+  "uk": "резус-фактор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "rhyme",
   "uk": "рима",
   "pos": "",
@@ -17447,6 +18402,17 @@
   "note": "Ukrainian adjective; the noun is рутина.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "rubidium",
+  "uk": "рубідій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "rubric",
@@ -17684,6 +18650,17 @@
   "src": "verify-085.json"
  },
  {
+  "en": "sardine",
+  "uk": "сардина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
+ },
+ {
   "en": "sarin",
   "uk": "зарин",
   "pos": "",
@@ -17726,6 +18703,17 @@
   "note": "Adjective ending -ський; the noun is скандинав.",
   "checked": 1,
   "src": "verify-042.json"
+ },
+ {
+  "en": "scapular",
+  "uk": "скапулярій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
  },
  {
   "en": "scarf",
@@ -17811,9 +18799,20 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian -оз for English -osis; склероз also colloquially = forgetfulness.",
+  "note": "",
   "checked": 1,
-  "src": "verify-052.json"
+  "src": "rscan-000.json"
+ },
+ {
+  "en": "scoliosis",
+  "uk": "сколіоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "Scorpio",
@@ -18027,6 +19026,17 @@
   "note": "-а added",
   "checked": 1,
   "src": "verify-103.json"
+ },
+ {
+  "en": "seraph",
+  "uk": "серафим",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
  },
  {
   "en": "serenade",
@@ -18443,6 +19453,17 @@
   "src": "verify-041.json"
  },
  {
+  "en": "speculator",
+  "uk": "спекулянт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-002.json"
+ },
+ {
   "en": "spelt",
   "uk": "спельта",
   "pos": "",
@@ -18463,6 +19484,17 @@
   "note": "Ending -а added.",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "sphagnum",
+  "uk": "сфагн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "sphere",
@@ -18551,6 +19583,17 @@
   "note": "Initial е- added; ескадрон is only a cavalry unit (naval squadron = ескадра, air squadron = ескадрилья).",
   "checked": 2,
   "src": "verify-032.json"
+ },
+ {
+  "en": "squall",
+  "uk": "шквал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-000.json"
  },
  {
   "en": "stability",
@@ -18778,6 +19821,17 @@
   "src": "verify-015.json"
  },
  {
+  "en": "stomatology",
+  "uk": "стоматологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
+ },
+ {
   "en": "storm",
   "uk": "шторм",
   "pos": "",
@@ -18987,6 +20041,17 @@
   "src": "scan-003.json"
  },
  {
+  "en": "substratum",
+  "uk": "субстрат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-005.json"
+ },
+ {
   "en": "sugar",
   "uk": "сахар",
   "pos": "",
@@ -19092,9 +20157,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -ія",
+  "note": "",
   "checked": 1,
-  "src": "verify-029.json"
+  "src": "rscan-000.json"
  },
  {
   "en": "symphony orchestra",
@@ -19172,6 +20237,17 @@
   "note": "Greek ending -is dropped.",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "syphilis",
+  "uk": "сифіліс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-000.json"
  },
  {
   "en": "system",
@@ -19585,6 +20661,17 @@
   "src": "verify-023.json"
  },
  {
+  "en": "thallium",
+  "uk": "талій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
+ },
+ {
   "en": "theme",
   "uk": "тема",
   "pos": "noun",
@@ -19737,6 +20824,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "thrombus",
+  "uk": "тромб",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-006.json"
  },
  {
   "en": "Tibetan mastiff",
@@ -20154,9 +21252,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian adds -а",
+  "note": "",
   "checked": 1,
-  "src": "verify-056.json"
+  "src": "rverify-000.json"
  },
  {
   "en": "Triassic",
@@ -20583,6 +21681,17 @@
   "src": "scan-018.json"
  },
  {
+  "en": "vanadium",
+  "uk": "ванадій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-001.json"
+ },
+ {
   "en": "vanguard",
   "uk": "авангард",
   "pos": "",
@@ -20603,6 +21712,17 @@
   "note": "",
   "checked": 2,
   "src": "scan-018.json"
+ },
+ {
+  "en": "vasculitis",
+  "uk": "васкуліт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-004.json"
  },
  {
   "en": "vase",

@@ -13,7 +13,7 @@ from build_site import list_level  # noqa: E402
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(REPO, 'data')
-SIZE = 150
+SIZE = int(os.environ.get("CROSS_SIZE", 150))
 
 
 def main():
@@ -50,6 +50,8 @@ def main():
             ce, cu = (r.get('ce') or r.get('en') or '').strip(), (r.get('cu') or r.get('uk') or '').strip()
             if not ce or not cu:
                 continue
+            if v != 'identical' and not os.environ.get('CROSS_BORDERLINE'):
+                continue  # token-saving mode: only re-check pairs judged identical
             if v != 'identical':
                 # borderline only: same length-ish and no extra Ukrainian ending
                 if not re.search(r'[бвгґджзклмнпрстфхцчшщь]$', cu) or abs(len(ce) - len(cu)) > 2:
