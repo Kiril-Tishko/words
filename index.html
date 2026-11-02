@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Same Words</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Literata:opsz,wght@7..72,500;7..72,600&display=swap">
+<style>
+/* Layout: one quiet toolbar (levels + view), then cards — a 4-column grid or a single card. */
+:root {
+  --bg: #f4f5f7;
+  --card: #ffffff;
+  --fg: #16191f;
+  --muted: #6a7180;
+  --line: #dfe2e8;
+  --accent: #1f5fbf;
+  --accent-soft: #e6eefb;
+  --ok: #1d7a4a;
+  --word: "Literata", "PT Serif", Georgia, "Times New Roman", serif;
+  --ui: "Golos Text", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
+  --shadow: 0 1px 2px rgba(20, 28, 45, .06), 0 2px 8px rgba(20, 28, 45, .05);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111317; --card: #1b1e24; --fg: #eceef2; --muted: #9aa1ae; --line: #2c3039;
+    --accent: #7eaaf0; --accent-soft: #1d2a40; --ok: #5cc48d;
+    --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111317; --card: #1b1e24; --fg: #eceef2; --muted: #9aa1ae; --line: #2c3039;
+  --accent: #7eaaf0; --accent-soft: #1d2a40; --ok: #5cc48d;
+  --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--ui); font-size: 15px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+.wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+button:focus-visible, .card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; justify-content: space-between; }
+.brand { font-family: var(--word); font-weight: 600; font-size: 20px; letter-spacing: -.01em; }
+.brand span { color: var(--muted); font-weight: 500; }
+.bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chip {
+  padding: 6px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--card);
+  font-size: 14px; font-variant-numeric: tabular-nums; white-space: nowrap;
+}
+.chip small { color: var(--muted); font-size: 12px; margin-left: 4px; }
+.chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.chip[aria-pressed="true"] small { color: inherit; opacity: .7; }
+.sep { width: 1px; height: 22px; background: var(--line); margin: 0 4px; }
+.tools { display: flex; gap: 6px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.count { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+
+/* cards */
+.grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+@media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 640px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } }
+
+.card { position: relative; perspective: 1000px; aspect-ratio: 4 / 3; cursor: pointer; border-radius: 14px; max-width: 100%; }
+.inner { position: absolute; inset: 0; transition: transform .45s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
+.card.flipped .inner { transform: rotateY(180deg); }
+.face {
+  position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  background: var(--card); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
+  padding: 14px; text-align: center; min-width: 0;
+}
+.back { transform: rotateY(180deg); justify-content: flex-start; align-items: stretch; text-align: left; gap: 8px; }
+.en, .uk { font-family: var(--word); line-height: 1.15; overflow-wrap: anywhere; hyphens: auto; max-width: 100%; }
+.en { font-size: clamp(19px, 2.2vw, 26px); font-weight: 600; }
+.eq { color: var(--muted); font-size: 16px; line-height: 1; }
+.uk { font-size: clamp(17px, 1.9vw, 22px); font-weight: 500; color: var(--muted); }
+.flag { position: absolute; top: 10px; left: 10px; width: 20px; height: 13px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
+.icon {
+  position: absolute; width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; color: var(--muted);
+}
+.icon:hover { background: var(--accent-soft); color: var(--accent); }
+.icon svg { width: 17px; height: 17px; }
+.say { bottom: 6px; left: 6px; }
+.add { top: 6px; right: 6px; }
+.add.on { color: var(--accent); }
+.back .head { font-family: var(--word); font-weight: 600; font-size: 17px; padding-right: 30px; }
+.back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13.5px; line-height: 1.35; }
+.back .note { margin-top: auto; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { font-size: 11.5px; letter-spacing: .02em; color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
+.empty-ex { color: var(--muted); font-size: 13px; }
+
+/* single view */
+.single { display: flex; flex-direction: column; align-items: center; gap: 16px; }
+.single .card { width: min(520px, 100%); aspect-ratio: 3 / 2; }
+.single .en { font-size: clamp(28px, 6vw, 40px); }
+.single .uk { font-size: clamp(24px, 5vw, 32px); }
+.single .back ol { font-size: 15px; gap: 6px; }
+.nav { display: flex; gap: 10px; align-items: center; }
+.nav .chip { min-width: 44px; text-align: center; }
+
+/* training */
+.train { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
+.train .card { width: min(520px, 100%); aspect-ratio: 3 / 2; cursor: default; }
+.train .uk { color: var(--fg); font-weight: 600; }
+.train .en { color: var(--accent); }
+.train .hint { color: var(--muted); font-size: 13px; max-width: 46ch; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.big { padding: 10px 18px; font-size: 15px; }
+.big.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.score { font-family: var(--word); font-size: 28px; }
+
+.blank { color: var(--muted); text-align: center; padding: 48px 0; }
+@media (prefers-reduced-motion: reduce) { .inner { transition: none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">Same Words <span>· Однакові слова</span></div>
+    <nav class="bar" id="levels" aria-label="Level"></nav>
+  </header>
+  <div class="tools">
+    <div class="bar" id="views" role="group" aria-label="View">
+      <button class="chip" id="v-grid" data-view="grid">Grid</button>
+      <button class="chip" id="v-single" data-view="single">One by one</button>
+      <button class="chip" id="v-shuffle" title="Shuffle">Shuffle</button>
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+  <main id="main"></main>
+</div>
+
+<script src="words.js"></script>
+<script>
+(function () {
+  const WORDS = (window.WORDS || []).map((w, i) => Object.assign({ id: w.id || (w.en + '|' + w.uk) }, w));
+  const LEVELS = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
+  let mine = new Set(store.get('sw.mine', []));
+  let state = { level: 'A1', view: store.get('sw.view', 'grid'), order: null, idx: 0 };
+  const byLevel = {};
+  LEVELS.forEach(l => byLevel[l] = []);
+  WORDS.forEach(w => { (byLevel[w.level] || (byLevel[w.level] = [])).push(w); });
+
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const FLAG = '<svg class="flag" viewBox="0 0 60 30" aria-label="British English" role="img"><clipPath id="fc"><path d="M0,0 v30 h60 v-30 z"/></clipPath><clipPath id="ft"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><g clip-path="url(#fc)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#ft)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>';
+  const SAY = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9.5h3.5L12 5.5v13l-4.5-4H4z"/><path d="M15.5 9a4 4 0 0 1 0 6M18 6.5a7.5 7.5 0 0 1 0 11"/></svg>';
+  const PLUS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>';
+  const CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+  const canSpeak = 'speechSynthesis' in window;
+
+  function speak(text) {
+    if (!canSpeak) return;
+    try {
+      speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text);
+      u.lang = 'en-US'; u.rate = .9;
+      const v = speechSynthesis.getVoices().find(v => v.lang === 'en-US') || speechSynthesis.getVoices().find(v => /^en/.test(v.lang));
+      if (v) u.voice = v;
+      speechSynthesis.speak(u);
+    } catch (e) {}
+  }
+
+  function listFor(level) {
+    if (level === 'mine') return WORDS.filter(w => mine.has(w.id));
+    return byLevel[level] || [];
+  }
+
+  function cardHTML(w, opts) {
+    opts = opts || {};
+    const ex = (w.examples || []).filter(Boolean);
+    const tags = (w.tags || []).filter(t => t !== 'british');
+    const back = ex.length
+      ? '<ol>' + ex.map(e => '<li>' + esc(e) + '</li>').join('') + '</ol>'
+      : '<div class="empty-ex">Examples coming soon.</div>';
+    return '<div class="card" tabindex="0" role="button" aria-label="' + esc(w.en) + ' equals ' + esc(w.uk) + '. Flip card" data-id="' + esc(w.id) + '">' +
+      '<div class="inner">' +
+        '<div class="face front">' +
+          (w.british ? FLAG : '') +
+          '<div class="en">' + esc(w.en) + '</div><div class="eq">=</div><div class="uk">' + esc(w.uk) + '</div>' +
+          (canSpeak ? '<button class="icon say" data-say="' + esc(w.en) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
+          (opts.noAdd ? '' : '<button class="icon add' + (mine.has(w.id) ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (mine.has(w.id) ? 'Remove from my words' : 'Add to my words') + '">' + (mine.has(w.id) ? CHECK : PLUS) + '</button>') +
+        '</div>' +
+        '<div class="face back">' +
+          '<div class="head">' + esc(w.en) + (w.pos ? ' <span class="tag">' + esc(w.pos) + '</span>' : '') + '</div>' +
+          back +
+          (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +
+          (w.note ? '<div class="note">' + esc(w.note) + '</div>' : '') +
+        '</div>' +
+      '</div></div>';
+  }
+
+  function renderLevels() {
+    const items = LEVELS.map(l => [l, l, (byLevel[l] || []).length])
+      .concat([['mine', 'My words', mine.size], ['train', 'Train', null]]);
+    $('#levels').innerHTML = items.map(([key, label, n], i) =>
+      (key === 'mine' ? '<span class="sep"></span>' : '') +
+      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + (state.level === key) + '">' + label +
+      (n !== null ? '<small>' + n + '</small>' : '') + '</button>').join('');
+  }
+
+  function current() {
+    const list = listFor(state.level);
+    if (!state.order || state.order.length !== list.length) state.order = list.map((_, i) => i);
+    return state.order.map(i => list[i]);
+  }
+
+  function render() {
+    renderLevels();
+    $('#views').hidden = state.level === 'train';
+    ['grid', 'single'].forEach(v => $('#v-' + v).setAttribute('aria-pressed', state.view === v));
+    if (state.level === 'train') return renderTrain();
+    const list = current();
+    $('#count').textContent = list.length ? list.length + ' words' : '';
+    if (!list.length) {
+      $('#main').innerHTML = '<div class="blank">' + (state.level === 'mine'
+        ? 'No words yet. Press + on a card to add it here.'
+        : 'Words for this level are being checked and will appear soon.') + '</div>';
+      return;
+    }
+    if (state.view === 'grid') {
+      $('#main').innerHTML = '<div class="grid">' + list.map(w => cardHTML(w)).join('') + '</div>';
+    } else {
+      state.idx = Math.min(state.idx, list.length - 1);
+      const w = list[state.idx];
+      $('#main').innerHTML = '<div class="single">' + cardHTML(w) +
+        '<div class="nav"><button class="chip" id="prev" aria-label="Previous">←</button>' +
+        '<span class="count">' + (state.idx + 1) + ' / ' + list.length + '</span>' +
+        '<button class="chip" id="next" aria-label="Next">→</button></div></div>';
+    }
+  }
+
+  // ---- training (basic): Ukrainian shown, recall the English word
+  let tr = null;
+  function startTrain() {
+    let pool = WORDS.filter(w => mine.has(w.id));
+    let sample = false;
+    if (!pool.length) { pool = (byLevel.A1.length ? byLevel.A1 : WORDS).slice(0, 8); sample = true; }
+    pool = pool.slice().sort(() => Math.random() - .5);
+    tr = { queue: pool, i: 0, shown: false, known: 0, again: [], sample: sample, total: pool.length };
+  }
+  function renderTrain() {
+    if (!tr) startTrain();
+    $('#count').textContent = '';
+    if (!tr.total) { $('#main').innerHTML = '<div class="blank">No words to train yet.</div>'; return; }
+    if (tr.i >= tr.queue.length) {
+      if (tr.again.length) { tr.queue = tr.again; tr.again = []; tr.i = 0; }
+      else {
+        $('#main').innerHTML = '<div class="train"><div class="score">' + tr.known + ' / ' + tr.total + '</div>' +
+          '<div class="hint">known on the first try</div><div class="row"><button class="chip big primary" id="t-restart">Train again</button></div></div>';
+        return;
+      }
+    }
+    const w = tr.queue[tr.i];
+    $('#main').innerHTML = '<div class="train">' +
+      (tr.sample ? '<div class="hint">Sample words. Add your own with + on any card.</div>' : '') +
+      '<div class="card' + (tr.shown ? '' : '') + '"><div class="inner"><div class="face front">' +
+        '<div class="uk">' + esc(w.uk) + '</div><div class="eq">=</div>' +
+        '<div class="en">' + (tr.shown ? esc(w.en) : '?') + '</div>' +
+        (tr.shown && canSpeak ? '<button class="icon say" data-say="' + esc(w.en) + '" aria-label="Pronounce">' + SAY + '</button>' : '') +
+      '</div></div></div>' +
+      '<div class="row">' + (tr.shown
+        ? '<button class="chip big" id="t-again">Again</button><button class="chip big primary" id="t-know">I knew it</button>'
+        : '<button class="chip big primary" id="t-show">Show English</button>') + '</div>' +
+      '<div class="count">' + (tr.i + 1) + ' / ' + tr.queue.length + '</div></div>';
+  }
+
+  // ---- events
+  document.addEventListener('click', e => {
+    const t = e.target.closest('button, .card');
+    if (!t) return;
+    if (t.dataset.say) { e.stopPropagation(); speak(t.dataset.say); return; }
+    if (t.dataset.add) {
+      e.stopPropagation();
+      const id = t.dataset.add;
+      mine.has(id) ? mine.delete(id) : mine.add(id);
+      store.set('sw.mine', Array.from(mine));
+      if (state.level === 'mine') { state.order = null; render(); return; }
+      t.classList.toggle('on', mine.has(id)); t.innerHTML = mine.has(id) ? CHECK : PLUS;
+      t.setAttribute('aria-label', mine.has(id) ? 'Remove from my words' : 'Add to my words');
+      renderLevels(); return;
+    }
+    if (t.dataset.level) { go(t.dataset.level); return; }
+    if (t.dataset.view) { state.view = t.dataset.view; store.set('sw.view', state.view); render(); return; }
+    if (t.id === 'v-shuffle') { const n = listFor(state.level).length; state.order = Array.from({ length: n }, (_, i) => i).sort(() => Math.random() - .5); state.idx = 0; render(); return; }
+    if (t.id === 'prev') { move(-1); return; }
+    if (t.id === 'next') { move(1); return; }
+    if (t.id === 't-show') { tr.shown = true; renderTrain(); speak(tr.queue[tr.i].en); return; }
+    if (t.id === 't-know' || t.id === 't-again') {
+      const w = tr.queue[tr.i];
+      if (t.id === 't-know') { if (!w._missed) tr.known++; } else { w._missed = true; tr.again.push(w); }
+      tr.i++; tr.shown = false; renderTrain(); return;
+    }
+    if (t.id === 't-restart') { tr.queue.forEach(w => delete w._missed); tr = null; renderTrain(); return; }
+    if (t.classList.contains('card') && !t.closest('.train')) t.classList.toggle('flipped');
+  });
+  document.addEventListener('keydown', e => {
+    if (e.target.closest && e.target.closest('input, textarea')) return;
+    if (state.level === 'train') return;
+    if (e.key === 'ArrowRight' && state.view === 'single') move(1);
+    else if (e.key === 'ArrowLeft' && state.view === 'single') move(-1);
+    else if ((e.key === ' ' || e.key === 'Enter') && document.activeElement && document.activeElement.classList.contains('card')) {
+      e.preventDefault(); document.activeElement.classList.toggle('flipped');
+    }
+  });
+  function move(d) {
+    const n = current().length; if (!n) return;
+    state.idx = (state.idx + d + n) % n; render();
+    const c = document.querySelector('.single .card'); if (c) c.focus();
+  }
+  function go(level) {
+    state.level = level; state.order = null; state.idx = 0;
+    if (level === 'train') tr = null;
+    if (location.hash.slice(1) !== level.toLowerCase()) { try { history.replaceState(null, '', '#' + level.toLowerCase()); } catch (e) { location.hash = level.toLowerCase(); } }
+    render();
+  }
+  function fromHash() {
+    const h = (location.hash || '').slice(1).toLowerCase();
+    const l = LEVELS.find(x => x.toLowerCase() === h) || (h === 'mine' || h === 'train' ? h : null);
+    if (l) state.level = l;
+    else { state.level = LEVELS.find(x => (byLevel[x] || []).length) || 'A1'; }
+  }
+  window.addEventListener('hashchange', () => { fromHash(); state.order = null; state.idx = 0; tr = null; render(); });
+  if (canSpeak) { try { speechSynthesis.getVoices(); } catch (e) {} }
+  fromHash();
+  render();
+})();
+</script>
+</body>
+</html>

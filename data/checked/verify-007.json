@@ -1,0 +1,1165 @@
+[
+ {
+  "en": "combination",
+  "uk": "комбінація",
+  "v": "similar",
+  "ce": "combination",
+  "cu": "комбінація",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "conservative",
+  "uk": "консервативний",
+  "v": "similar",
+  "ce": "conservative",
+  "cu": "консервативний",
+  "note": "adjective ending -ний; the person is консерватор"
+ },
+ {
+  "en": "conservative",
+  "uk": "консервативна",
+  "v": "not_lemma",
+  "ce": "conservative",
+  "cu": "консервативний",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "familiar",
+  "uk": "фамільярний",
+  "v": "partial_false_friend",
+  "ce": "familiar",
+  "cu": "фамільярний",
+  "note": "фамільярний = overly familiar, too casual; 'known' = знайомий"
+ },
+ {
+  "en": "familiar",
+  "uk": "фамільяр",
+  "v": "identical",
+  "ce": "familiar",
+  "cu": "фамільяр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "other"
+  ],
+  "note": "only the noun 'familiar spirit' (a witch's helper, fantasy); the adjective familiar = знайомий"
+ },
+ {
+  "en": "medium",
+  "uk": "медіум",
+  "v": "partial_false_friend",
+  "ce": "medium",
+  "cu": "медіум",
+  "note": "медіум = only a spiritualist medium; a means/material = засіб, середовище"
+ },
+ {
+  "en": "ohio",
+  "uk": "огайо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "papers",
+  "uk": "папери",
+  "v": "not_lemma",
+  "ce": "paper",
+  "cu": "папір",
+  "lv": "similar",
+  "note": "папери = plural of папір; same 'documents' sense"
+ },
+ {
+  "en": "prime minister",
+  "uk": "прем'єр-міністр",
+  "v": "similar",
+  "ce": "prime minister",
+  "cu": "прем'єр-міністр",
+  "note": "Ukrainian uses прем'єр (premier) instead of prime"
+ },
+ {
+  "en": "solo",
+  "uk": "соло",
+  "v": "identical",
+  "ce": "solo",
+  "cu": "соло",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ticket",
+  "uk": "тікет",
+  "v": "partial_false_friend",
+  "ce": "ticket",
+  "cu": "тікет",
+  "note": "тікет = only an IT/support ticket (slang); a travel or admission ticket = квиток"
+ },
+ {
+  "en": "bomb",
+  "uk": "бомба",
+  "v": "similar",
+  "ce": "bomb",
+  "cu": "бомба",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "creative",
+  "uk": "креативні",
+  "v": "not_lemma",
+  "ce": "creative",
+  "cu": "креативний",
+  "lv": "similar",
+  "note": "plural form; adjective ending -ний"
+ },
+ {
+  "en": "cycle",
+  "uk": "цикл",
+  "v": "identical",
+  "ce": "cycle",
+  "cu": "цикл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "in English cycle also means a bicycle (велосипед)"
+ },
+ {
+  "en": "don",
+  "uk": "дон",
+  "v": "identical",
+  "ce": "don",
+  "cu": "дон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "mafia boss / Spanish title 'Don'; in British English also a university teacher, and the verb 'to don' = to put on"
+ },
+ {
+  "en": "maximum",
+  "uk": "максимум",
+  "v": "identical",
+  "ce": "maximum",
+  "cu": "максимум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "republic",
+  "uk": "республіка",
+  "v": "similar",
+  "ce": "republic",
+  "cu": "республіка",
+  "note": "Ukrainian adds -іка"
+ },
+ {
+  "en": "reserve",
+  "uk": "резерв",
+  "v": "identical",
+  "ce": "reserve",
+  "cu": "резерв",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "a nature reserve = заповідник"
+ },
+ {
+  "en": "statistics",
+  "uk": "статистики",
+  "v": "not_lemma",
+  "ce": "statistics",
+  "cu": "статистика",
+  "lv": "similar",
+  "note": "inflected form of статистика"
+ },
+ {
+  "en": "statistics",
+  "uk": "статистика",
+  "v": "similar",
+  "ce": "statistics",
+  "cu": "статистика",
+  "note": "-ics → -ика"
+ },
+ {
+  "en": "statistics",
+  "uk": "статистику",
+  "v": "not_lemma",
+  "ce": "statistics",
+  "cu": "статистика",
+  "lv": "similar",
+  "note": "accusative of статистика"
+ },
+ {
+  "en": "statistics",
+  "uk": "статистикою",
+  "v": "not_lemma",
+  "ce": "statistics",
+  "cu": "статистика",
+  "lv": "similar",
+  "note": "instrumental of статистика"
+ },
+ {
+  "en": "territory",
+  "uk": "територія",
+  "v": "similar",
+  "ce": "territory",
+  "cu": "територія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "wales",
+  "uk": "валліс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wales",
+  "uk": "уельс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bell",
+  "uk": "белл",
+  "v": "unrelated"
+ },
+ {
+  "en": "bond",
+  "uk": "бонд",
+  "v": "identical",
+  "ce": "bond",
+  "cu": "бонд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "finance"
+  ],
+  "note": "only the financial bond (usually облігація; бонд in finance jargon, e.g. євробонди); a bond between people = зв'язок"
+ },
+ {
+  "en": "communications",
+  "uk": "комунікацій",
+  "v": "not_lemma",
+  "ce": "communication",
+  "cu": "комунікація",
+  "lv": "similar",
+  "note": "genitive plural of комунікація; Ukrainian adds -ія"
+ },
+ {
+  "en": "corporation",
+  "uk": "корпорація",
+  "v": "similar",
+  "ce": "corporation",
+  "cu": "корпорація",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "cry",
+  "uk": "крик",
+  "v": "similar",
+  "ce": "cry",
+  "cu": "крик",
+  "note": "крик = a cry, shout (noun); to cry (weep) = плакати"
+ },
+ {
+  "en": "dollar",
+  "uk": "долар",
+  "v": "identical",
+  "ce": "dollar",
+  "cu": "долар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dollar",
+  "uk": "доляр",
+  "v": "identical",
+  "ce": "dollar",
+  "cu": "долар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "доляр is an old/diaspora spelling; current spelling долар"
+ },
+ {
+  "en": "gender",
+  "uk": "гендер",
+  "v": "identical",
+  "ce": "gender",
+  "cu": "гендер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "social gender only; grammatical gender = рід; also spelled ґендер"
+ },
+ {
+  "en": "gender",
+  "uk": "ґендер",
+  "v": "identical",
+  "ce": "gender",
+  "cu": "гендер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "ґендер is a variant spelling of гендер"
+ },
+ {
+  "en": "gender",
+  "uk": "гендерна",
+  "v": "not_lemma",
+  "ce": "gender",
+  "cu": "гендерний",
+  "lv": "similar",
+  "note": "adjective (feminine form) гендерний"
+ },
+ {
+  "en": "kim",
+  "uk": "кім",
+  "v": "unrelated"
+ },
+ {
+  "en": "nick",
+  "uk": "нік",
+  "v": "partial_false_friend",
+  "ce": "nick",
+  "cu": "нік",
+  "note": "нік = online nickname (from English nick for nickname); the usual English nick = a small cut, notch"
+ },
+ {
+  "en": "prize",
+  "uk": "приз",
+  "v": "identical",
+  "ce": "prize",
+  "cu": "приз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "register",
+  "uk": "регістр",
+  "v": "partial_false_friend",
+  "ce": "register",
+  "cu": "регістр",
+  "note": "регістр = register in music, language or computing, also letter case; an official list = реєстр"
+ },
+ {
+  "en": "register",
+  "uk": "реєстр",
+  "v": "similar",
+  "ce": "register",
+  "cu": "реєстр",
+  "note": "different form (re-gis-ter → реєстр)"
+ },
+ {
+  "en": "ryan",
+  "uk": "райан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ryan",
+  "uk": "раян",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brazil",
+  "uk": "бразилії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brazil",
+  "uk": "бразилія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "definition",
+  "uk": "дефініція",
+  "v": "similar",
+  "ce": "definition",
+  "cu": "дефініція",
+  "note": "Ukrainian adds -ія; rare, usual word визначення"
+ },
+ {
+  "en": "flag",
+  "uk": "флаг",
+  "v": "identical",
+  "ce": "flag",
+  "cu": "флаг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "note": "mostly a ship's flag or a flag in computing; the usual word for flag is прапор"
+ },
+ {
+  "en": "flag",
+  "uk": "фляга",
+  "v": "unrelated"
+ },
+ {
+  "en": "flag",
+  "uk": "фляґа",
+  "v": "unrelated"
+ },
+ {
+  "en": "guest",
+  "uk": "гість",
+  "v": "similar",
+  "ce": "guest",
+  "cu": "гість",
+  "note": "related word, different form"
+ },
+ {
+  "en": "heavy metal",
+  "uk": "хеві-метал",
+  "v": "identical",
+  "ce": "heavy metal",
+  "cu": "хеві-метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "the music genre; heavy metals in chemistry = важкі метали"
+ },
+ {
+  "en": "industrial park",
+  "uk": "індустріальний парк",
+  "v": "similar",
+  "ce": "industrial park",
+  "cu": "індустріальний парк",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "institutions",
+  "uk": "інституції",
+  "v": "not_lemma",
+  "ce": "institution",
+  "cu": "інституція",
+  "lv": "similar",
+  "note": "plural of інституція; Ukrainian adds -ія"
+ },
+ {
+  "en": "jackson",
+  "uk": "джексон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "random",
+  "uk": "рандом",
+  "v": "identical",
+  "ce": "random",
+  "cu": "рандом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "games"
+  ],
+  "note": "Ukrainian рандом is a slang noun (chance, random pick); the adjective random = випадковий"
+ },
+ {
+  "en": "rent",
+  "uk": "рента",
+  "v": "partial_false_friend",
+  "ce": "rent",
+  "cu": "рента",
+  "note": "рента = economic rent, annuity; rent for a flat = оренда"
+ },
+ {
+  "en": "senator",
+  "uk": "сенатор",
+  "v": "identical",
+  "ce": "senator",
+  "cu": "сенатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "senator",
+  "uk": "сенаторка",
+  "v": "not_lemma",
+  "ce": "senator",
+  "cu": "сенатор",
+  "lv": "identical",
+  "note": "сенаторка = female senator",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "academy",
+  "uk": "академії",
+  "v": "not_lemma",
+  "ce": "academy",
+  "cu": "академія",
+  "lv": "similar",
+  "note": "inflected form of академія"
+ },
+ {
+  "en": "academy",
+  "uk": "академія",
+  "v": "similar",
+  "ce": "academy",
+  "cu": "академія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "accurate",
+  "uk": "акуратно",
+  "v": "false_friend",
+  "ce": "accurate",
+  "cu": "акуратний",
+  "note": "акуратний/акуратно = neat(ly), careful(ly); accurate = точний"
+ },
+ {
+  "en": "adam",
+  "uk": "адам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andrew",
+  "uk": "ендрю",
+  "v": "proper_noun"
+ },
+ {
+  "en": "category",
+  "uk": "категорія",
+  "v": "similar",
+  "ce": "category",
+  "cu": "категорія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "chat",
+  "uk": "чат",
+  "v": "identical",
+  "ce": "chat",
+  "cu": "чат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "in Ukrainian mainly an online chat; a face-to-face chat = розмова, балачка"
+ },
+ {
+  "en": "clinton",
+  "uk": "клінтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "detail",
+  "uk": "деталь",
+  "v": "identical",
+  "ce": "detail",
+  "cu": "деталь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "in Ukrainian also a machine part, component"
+ },
+ {
+  "en": "diet",
+  "uk": "дієта",
+  "v": "similar",
+  "ce": "diet",
+  "cu": "дієта",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "em",
+  "uk": "ем",
+  "v": "identical",
+  "ce": "em",
+  "cu": "ем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "language"
+  ],
+  "note": "the name of the letter M; in English also a typographic unit"
+ },
+ {
+  "en": "favourite",
+  "uk": "фаворит",
+  "v": "partial_false_friend",
+  "ce": "favorite",
+  "cu": "фаворит",
+  "note": "фаворит = the favourite to win, or a royal favourite; 'my favourite' = улюблений"
+ },
+ {
+  "en": "food truck",
+  "uk": "фудтрак",
+  "v": "identical",
+  "ce": "food truck",
+  "cu": "фудтрак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fruit",
+  "uk": "фрукт",
+  "v": "similar",
+  "ce": "fruit",
+  "cu": "фрукт",
+  "note": "Ukrainian adds -т"
+ },
+ {
+  "en": "index",
+  "uk": "індекс",
+  "v": "identical",
+  "ce": "index",
+  "cu": "індекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "in Ukrainian also a postal code (поштовий індекс)"
+ },
+ {
+  "en": "programme",
+  "uk": "програма",
+  "v": "similar",
+  "ce": "program",
+  "cu": "програма",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "rock and roll",
+  "uk": "рок-н-рол",
+  "v": "identical",
+  "ce": "rock and roll",
+  "cu": "рок-н-рол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "scheme",
+  "uk": "схеми",
+  "v": "not_lemma",
+  "ce": "scheme",
+  "cu": "схема",
+  "lv": "similar",
+  "note": "inflected form of схема"
+ },
+ {
+  "en": "scheme",
+  "uk": "схема",
+  "v": "similar",
+  "ce": "scheme",
+  "cu": "схема",
+  "note": "Ukrainian adds -а; схема also = diagram"
+ },
+ {
+  "en": "scheme",
+  "uk": "схему",
+  "v": "not_lemma",
+  "ce": "scheme",
+  "cu": "схема",
+  "lv": "similar",
+  "note": "accusative of схема"
+ },
+ {
+  "en": "tank",
+  "uk": "танк",
+  "v": "identical",
+  "ce": "tank",
+  "cu": "танк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "in Ukrainian only the military vehicle; a fuel or water tank = бак, резервуар"
+ },
+ {
+  "en": "yard",
+  "uk": "ярд",
+  "v": "identical",
+  "ce": "yard",
+  "cu": "ярд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units"
+  ],
+  "note": "only the unit of length (0.91 m); a yard around a house = двір"
+ },
+ {
+  "en": "basketball",
+  "uk": "баскетбол",
+  "v": "identical",
+  "ce": "basketball",
+  "cu": "баскетбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "candidates",
+  "uk": "кандидатів",
+  "v": "not_lemma",
+  "ce": "candidate",
+  "cu": "кандидат",
+  "lv": "identical",
+  "note": "genitive plural of кандидат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "people"
+  ]
+ },
+ {
+  "en": "combat",
+  "uk": "комбат",
+  "v": "false_friend",
+  "ce": "combat",
+  "cu": "комбат",
+  "note": "комбат = battalion commander (short for командир батальйону); combat = бій"
+ },
+ {
+  "en": "constitution",
+  "uk": "конституція",
+  "v": "similar",
+  "ce": "constitution",
+  "cu": "конституція",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "crown",
+  "uk": "крона",
+  "v": "partial_false_friend",
+  "ce": "crown",
+  "cu": "крона",
+  "note": "крона = tree crown or the currency; a royal crown = корона"
+ },
+ {
+  "en": "depression",
+  "uk": "депресія",
+  "v": "similar",
+  "ce": "depression",
+  "cu": "депресія",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "drivers",
+  "uk": "драйвери",
+  "v": "not_lemma",
+  "ce": "driver",
+  "cu": "драйвер",
+  "lv": "partial_false_friend",
+  "note": "драйвер = only a device/software driver; a car driver = водій"
+ },
+ {
+  "en": "exclusive",
+  "uk": "ексклюзив",
+  "v": "identical",
+  "ce": "exclusive",
+  "cu": "ексклюзив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": "the noun (an exclusive story or item); the adjective = ексклюзивний"
+ },
+ {
+  "en": "expert",
+  "uk": "експерт",
+  "v": "identical",
+  "ce": "expert",
+  "cu": "експерт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "expert",
+  "uk": "експертні",
+  "v": "not_lemma",
+  "ce": "expert",
+  "cu": "експертний",
+  "lv": "similar",
+  "note": "plural adjective експертний"
+ },
+ {
+  "en": "golf",
+  "uk": "гольф",
+  "v": "identical",
+  "ce": "golf",
+  "cu": "гольф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "in Ukrainian гольф also = a turtleneck sweater, гольфи = knee socks"
+ },
+ {
+  "en": "kevin",
+  "uk": "кевін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "object",
+  "uk": "об'єкт",
+  "v": "identical",
+  "ce": "object",
+  "cu": "об'єкт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "in Ukrainian also a site or facility (e.g. будівельний об'єкт)"
+ },
+ {
+  "en": "partners",
+  "uk": "партнери",
+  "v": "not_lemma",
+  "ce": "partner",
+  "cu": "партнер",
+  "lv": "identical",
+  "note": "plural of партнер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ]
+ },
+ {
+  "en": "personnel",
+  "uk": "персонал",
+  "v": "similar",
+  "ce": "personnel",
+  "cu": "персонал",
+  "note": "ending -ал vs -nel"
+ },
+ {
+  "en": "personnel",
+  "uk": "персоналу",
+  "v": "not_lemma",
+  "ce": "personnel",
+  "cu": "персонал",
+  "lv": "similar",
+  "note": "genitive of персонал"
+ },
+ {
+  "en": "perspective",
+  "uk": "перспективи",
+  "v": "not_lemma",
+  "ce": "perspective",
+  "cu": "перспектива",
+  "lv": "similar",
+  "note": "inflected form of перспектива"
+ },
+ {
+  "en": "perspective",
+  "uk": "перспективу",
+  "v": "not_lemma",
+  "ce": "perspective",
+  "cu": "перспектива",
+  "lv": "similar",
+  "note": "accusative of перспектива"
+ },
+ {
+  "en": "perspective",
+  "uk": "перспектива",
+  "v": "similar",
+  "ce": "perspective",
+  "cu": "перспектива",
+  "note": "Ukrainian adds -а; also = prospects"
+ },
+ {
+  "en": "premier",
+  "uk": "прем'єр",
+  "v": "identical",
+  "ce": "premier",
+  "cu": "прем'єр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "in Ukrainian also a lead actor; прем'єра = a premiere"
+ },
+ {
+  "en": "tour de france",
+  "uk": "тур де франс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "agents",
+  "uk": "агенти",
+  "v": "not_lemma",
+  "ce": "agent",
+  "cu": "агент",
+  "lv": "identical",
+  "note": "plural of агент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ]
+ },
+ {
+  "en": "amazon",
+  "uk": "амазон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amazon",
+  "uk": "амазонка",
+  "v": "similar",
+  "ce": "amazon",
+  "cu": "амазонка",
+  "note": "Ukrainian adds -ка; also a horsewoman"
+ },
+ {
+  "en": "arrest",
+  "uk": "арешт",
+  "v": "similar",
+  "ce": "arrest",
+  "cu": "арешт",
+  "note": "st → шт"
+ },
+ {
+  "en": "ban",
+  "uk": "бан",
+  "v": "identical",
+  "ce": "ban",
+  "cu": "бан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "tech"
+  ],
+  "note": "in Ukrainian mostly an online/game ban; a general ban = заборона"
+ },
+ {
+  "en": "brilliant",
+  "uk": "брильянт",
+  "v": "partial_false_friend",
+  "ce": "brilliant",
+  "cu": "брильянт",
+  "note": "брильянт = a cut diamond (rare noun sense of brilliant); the adjective = блискучий, чудовий"
+ },
+ {
+  "en": "brilliant",
+  "uk": "брілліант",
+  "v": "partial_false_friend",
+  "ce": "brilliant",
+  "cu": "брильянт",
+  "note": "non-standard spelling of брильянт (a cut diamond); the adjective = блискучий, чудовий"
+ },
+ {
+  "en": "carbon",
+  "uk": "карбон",
+  "v": "partial_false_friend",
+  "ce": "carbon",
+  "cu": "карбон",
+  "note": "карбон = carbon fibre or the Carboniferous period; the element = вуглець"
+ },
+ {
+  "en": "catholic",
+  "uk": "католик",
+  "v": "identical",
+  "ce": "Catholic",
+  "cu": "католик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "capitalized in English; lowercase catholic also means 'universal, wide-ranging'"
+ },
+ {
+  "en": "catholic",
+  "uk": "католичка",
+  "v": "not_lemma",
+  "ce": "Catholic",
+  "cu": "католик",
+  "lv": "identical",
+  "note": "католичка = female Catholic",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ]
+ },
+ {
+  "en": "concert",
+  "uk": "концерт",
+  "v": "identical",
+  "ce": "concert",
+  "cu": "концерт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "in Ukrainian also a concerto"
+ },
+ {
+  "en": "crash",
+  "uk": "крах",
+  "v": "partial_false_friend",
+  "ce": "crash",
+  "cu": "крах",
+  "note": "крах = collapse, ruin (e.g. a market crash); a car crash = аварія"
+ },
+ {
+  "en": "electronic",
+  "uk": "електронний",
+  "v": "similar",
+  "ce": "electronic",
+  "cu": "електронний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "electronic",
+  "uk": "електронні",
+  "v": "not_lemma",
+  "ce": "electronic",
+  "cu": "електронний",
+  "lv": "similar",
+  "note": "plural form"
+ },
+ {
+  "en": "electronic",
+  "uk": "електронне",
+  "v": "not_lemma",
+  "ce": "electronic",
+  "cu": "електронний",
+  "lv": "similar",
+  "note": "neuter form"
+ },
+ {
+  "en": "electronic",
+  "uk": "електроніка",
+  "v": "similar",
+  "ce": "electronics",
+  "cu": "електроніка",
+  "note": "електроніка = electronics (noun); -ics → -іка"
+ },
+ {
+  "en": "electronic",
+  "uk": "електронна",
+  "v": "not_lemma",
+  "ce": "electronic",
+  "cu": "електронний",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "interior",
+  "uk": "інтер'єр",
+  "v": "identical",
+  "ce": "interior",
+  "cu": "інтер'єр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": "only the noun (inside of a building, interior design); the adjective = внутрішній"
+ },
+ {
+  "en": "manner",
+  "uk": "манір",
+  "v": "similar",
+  "ce": "manner",
+  "cu": "манір",
+  "note": "used mainly in 'на свій манір'; usual word манера"
+ },
+ {
+  "en": "manner",
+  "uk": "манера",
+  "v": "similar",
+  "ce": "manner",
+  "cu": "манера",
+  "note": "Ukrainian adds -а"
+ }
+]

@@ -1,0 +1,1256 @@
+[
+ {
+  "en": "class",
+  "uk": "клас",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education",
+   "international"
+  ],
+  "note": "Also a school grade (year); informal клас! = cool!",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.36,
+  "list_level": "A0",
+  "level": "A0",
+  "langs": 9
+ },
+ {
+  "en": "basketball",
+  "uk": "баскетбол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": "A0",
+  "level": "A0",
+  "langs": 9
+ },
+ {
+  "en": "Mr.",
+  "uk": "м-р",
+  "pos": "abbr",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "international",
+   "people"
+  ],
+  "note": "Short for містер (mister); Ukrainians usually write містер in full.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.69,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "top",
+  "uk": "топ",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "informal",
+   "international"
+  ],
+  "note": "A top (garment) or the top of a ranking (топ-10); the top part of something is верх.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.57,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "business",
+  "uk": "бізнес",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "Russian spelling; Ukrainian is бізнес.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.56,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "start",
+  "uk": "старт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.56,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "course",
+  "uk": "курс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education",
+   "international"
+  ],
+  "note": "Also exchange rate and year of study; a meal course is страва.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.44,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "post",
+  "uk": "пост",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "media"
+  ],
+  "note": "A social-media post or a guard post/position; mail is пошта, a pole is стовп; пост also = religious fast.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.43,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "video",
+  "uk": "відео",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "media"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.43,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "office",
+  "uk": "офіс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international",
+   "places"
+  ],
+  "note": "An office (workplace); a public office/post is посада.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.4,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "idea",
+  "uk": "ідея",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.36,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "art",
+  "uk": "арт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "informal",
+   "international"
+  ],
+  "note": "Informal or in compounds (арт-простір); the usual word for art is мистецтво.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.29,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "plan",
+  "uk": "план",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.29,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "college",
+  "uk": "коледж",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education",
+   "international"
+  ],
+  "note": "Usually a vocational college (between school and university).",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.27,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "type",
+  "uk": "тип",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "Colloquially also 'a guy, a character'.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.27,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "partner",
+  "uk": "партнер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international",
+   "people"
+  ],
+  "note": "plural of партнер",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.84,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "dollar",
+  "uk": "долар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.59,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "flag",
+  "uk": "флаг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "technical",
+   "transport"
+  ],
+  "note": "mostly a ship's flag or a flag in computing; the usual word for flag is прапор",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.58,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "yard",
+  "uk": "ярд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "units"
+  ],
+  "note": "only the unit of length (0.91 m); a yard around a house = двір",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "concert",
+  "uk": "концерт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "in Ukrainian also a concerto",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.55,
+  "list_level": "A1",
+  "level": "A1",
+  "langs": 9
+ },
+ {
+  "en": "show",
+  "uk": "шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "media"
+  ],
+  "note": "Only the noun (a show); 'to show' is показувати.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.68,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "lot",
+  "uk": "лот",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "Only a lot at an auction or sale; 'a lot of' is багато.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.61,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "country",
+  "uk": "кантрі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "Only country music; a country (nation) is країна.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.48,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "court",
+  "uk": "корт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "Only a sports court (tennis etc.); a law court is суд.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.41,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "fact",
+  "uk": "факт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.41,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "control",
+  "uk": "контроль",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "Also checking/inspection (e.g. ticket control).",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.4,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "bit",
+  "uk": "біт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "tech",
+   "technical"
+  ],
+  "note": "Computing bit (also a music beat); 'a bit' (a little) is трохи.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.37,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "million",
+  "uk": "мільйон",
+  "pos": "num",
+  "british": false,
+  "labels": [
+   "international",
+   "math"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.33,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "act",
+  "uk": "акт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "law"
+  ],
+  "note": "Also an official certificate/report document.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.3,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "market",
+  "uk": "маркет",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "places"
+  ],
+  "note": "A (super)market store; an open-air market is ринок.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.29,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "final",
+  "uk": "фінал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "Also 'finale'; the adjective 'final' is фінальний.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.28,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "front",
+  "uk": "фронт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "military"
+  ],
+  "note": "A military or weather front, or field of work; the front side of something is перед.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.28,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "chance",
+  "uk": "шанс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.26,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "agent",
+  "uk": "агент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people"
+  ],
+  "note": "plural of агент",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.81,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "gender",
+  "uk": "гендер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people"
+  ],
+  "note": "social gender only; grammatical gender = рід; also spelled ґендер",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.59,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "detail",
+  "uk": "деталь",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "in Ukrainian also a machine part, component",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "expert",
+  "uk": "експерт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "golf",
+  "uk": "гольф",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "in Ukrainian гольф also = a turtleneck sweater, гольфи = knee socks",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": "A2",
+  "level": "A2",
+  "langs": 9
+ },
+ {
+  "en": "service",
+  "uk": "сервіс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "Customer service, service industry; military or church service is служба.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.49,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "season",
+  "uk": "сезон",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "time"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.48,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "general",
+  "uk": "генерал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "military"
+  ],
+  "note": "Only the military rank; the adjective 'general' is загальний.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.47,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "president",
+  "uk": "президент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "politics"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.45,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "hit",
+  "uk": "хіт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "A hit (song, film, product); 'to hit' is вдарити.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.37,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "cycle",
+  "uk": "цикл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "science"
+  ],
+  "note": "in English cycle also means a bicycle (велосипед)",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.6,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "maximum",
+  "uk": "максимум",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "math"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.6,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "reserve",
+  "uk": "резерв",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "a nature reserve = заповідник",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.6,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "bond",
+  "uk": "бонд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international",
+   "technical"
+  ],
+  "note": "only the financial bond (usually облігація; бонд in finance jargon, e.g. євробонди); a bond between people = зв'язок",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.59,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "prize",
+  "uk": "приз",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.59,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "chat",
+  "uk": "чат",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "tech"
+  ],
+  "note": "in Ukrainian mainly an online chat; a face-to-face chat = розмова, балачка",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "tank",
+  "uk": "танк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "military"
+  ],
+  "note": "in Ukrainian only the military vehicle; a fuel or water tank = бак, резервуар",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "object",
+  "uk": "об'єкт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "science"
+  ],
+  "note": "in Ukrainian also a site or facility (e.g. будівельний об'єкт)",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": "B1",
+  "level": "B1",
+  "langs": 9
+ },
+ {
+  "en": "major",
+  "uk": "майор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "military"
+  ],
+  "note": "Only the military rank; 'major' (main, important) is головний, значний.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.3,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "media",
+  "uk": "медіа",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "media"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.3,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "candidate",
+  "uk": "кандидат",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people",
+   "politics"
+  ],
+  "note": "genitive plural of кандидат",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.66,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 8
+ },
+ {
+  "en": "solo",
+  "uk": "соло",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.61,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "senator",
+  "uk": "сенатор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "politics"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.58,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 7
+ },
+ {
+  "en": "index",
+  "uk": "індекс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other"
+  ],
+  "note": "in Ukrainian also a postal code (поштовий індекс)",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "ban",
+  "uk": "бан",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "slang",
+   "tech"
+  ],
+  "note": "in Ukrainian mostly an online/game ban; a general ban = заборона",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.55,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "interior",
+  "uk": "інтер'єр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "home",
+   "international"
+  ],
+  "note": "only the noun (inside of a building, interior design); the adjective = внутрішній",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.55,
+  "list_level": "B2",
+  "level": "B2",
+  "langs": 9
+ },
+ {
+  "en": "premier",
+  "uk": "прем'єр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "politics"
+  ],
+  "note": "in Ukrainian also a lead actor; прем'єра = a premiere",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": "C1",
+  "level": "C1",
+  "langs": 9
+ },
+ {
+  "en": "like",
+  "uk": "лайк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "media"
+  ],
+  "note": "Only a 'like' on social media; the verb 'to like' is подобатися.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 6.41,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "time-out",
+  "uk": "тайм-аут",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 6.03,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "know-how",
+  "uk": "ноу-хау",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.86,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "stop",
+  "uk": "стоп",
+  "pos": "interj",
+  "british": false,
+  "labels": [
+   "international",
+   "transport"
+  ],
+  "note": "Mainly the command 'Stop!'; 'to stop' is зупинятися.",
+  "checked": 1,
+  "src": "verify-000.json",
+  "zipf": 5.52,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "familiar",
+  "uk": "фамільяр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "other",
+   "rare"
+  ],
+  "note": "only the noun 'familiar spirit' (a witch's helper, fantasy); the adjective familiar = знайомий",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.61,
+  "list_level": null,
+  "level": "C2",
+  "langs": 7
+ },
+ {
+  "en": "don",
+  "uk": "дон",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people"
+  ],
+  "note": "mafia boss / Spanish title 'Don'; in British English also a university teacher, and the verb 'to don' = to put on",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.6,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "heavy metal",
+  "uk": "хеві-метал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "the music genre; heavy metals in chemistry = важкі метали",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "random",
+  "uk": "рандом",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "international",
+   "slang"
+  ],
+  "note": "Ukrainian рандом is a slang noun (chance, random pick); the adjective random = випадковий",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "em",
+  "uk": "ем",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "language",
+   "rare"
+  ],
+  "note": "the name of the letter M; in English also a typographic unit",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "food truck",
+  "uk": "фудтрак",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "transport"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "rock and roll",
+  "uk": "рок-н-рол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.57,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "exclusive",
+  "uk": "ексклюзив",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "media"
+  ],
+  "note": "the noun (an exclusive story or item); the adjective = ексклюзивний",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.56,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ },
+ {
+  "en": "Catholic",
+  "uk": "католик",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "religion"
+  ],
+  "note": "capitalized in English; lowercase catholic also means 'universal, wide-ranging'",
+  "checked": 1,
+  "src": "verify-007.json",
+  "zipf": 4.55,
+  "list_level": null,
+  "level": "C2",
+  "langs": 9
+ }
+]

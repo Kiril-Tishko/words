@@ -1,0 +1,1135 @@
+[
+ {
+  "en": "my",
+  "uk": "мій",
+  "v": "unrelated"
+ },
+ {
+  "en": "one",
+  "uk": "одне",
+  "v": "unrelated"
+ },
+ {
+  "en": "like",
+  "uk": "лайк",
+  "v": "identical",
+  "ce": "like",
+  "cu": "лайк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "note": "Only a 'like' on social media; the verb 'to like' is подобатися."
+ },
+ {
+  "en": "do",
+  "uk": "до",
+  "v": "unrelated"
+ },
+ {
+  "en": "time",
+  "uk": "тайм",
+  "v": "false_friend",
+  "ce": "time",
+  "cu": "тайм",
+  "note": "тайм = half/period of a sports match; 'time' is час."
+ },
+ {
+  "en": "time-out",
+  "uk": "тайм-аут",
+  "v": "identical",
+  "ce": "time-out",
+  "cu": "тайм-аут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "said",
+  "uk": "саїд",
+  "v": "unrelated"
+ },
+ {
+  "en": "even",
+  "uk": "евен",
+  "v": "unrelated"
+ },
+ {
+  "en": "may",
+  "uk": "май",
+  "v": "unrelated"
+ },
+ {
+  "en": "life",
+  "uk": "лайф",
+  "v": "unrelated"
+ },
+ {
+  "en": "down",
+  "uk": "даун",
+  "v": "false_friend",
+  "ce": "down",
+  "cu": "даун",
+  "note": "даун = (offensive) person with Down syndrome; 'down' is вниз."
+ },
+ {
+  "en": "know-how",
+  "uk": "ноу-хау",
+  "v": "identical",
+  "ce": "know-how",
+  "cu": "ноу-хау",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "long",
+  "uk": "лонг",
+  "v": "unrelated"
+ },
+ {
+  "en": "same",
+  "uk": "самий",
+  "v": "similar",
+  "ce": "same",
+  "cu": "самий",
+  "note": "Ukrainian adjective; 'the same' = той самий, самий alone = 'the very'."
+ },
+ {
+  "en": "state",
+  "uk": "штат",
+  "v": "partial_false_friend",
+  "ce": "state",
+  "cu": "штат",
+  "note": "штат = state of a federation (US state) or staff; not 'condition' or 'country'."
+ },
+ {
+  "en": "three",
+  "uk": "три",
+  "v": "similar",
+  "ce": "three",
+  "cu": "три",
+  "note": "Related word, but pronounced 'try'."
+ },
+ {
+  "en": "mr",
+  "uk": "м-р",
+  "v": "identical",
+  "ce": "Mr.",
+  "cu": "м-р",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "people"
+  ],
+  "note": "Short for містер (mister); Ukrainians usually write містер in full."
+ },
+ {
+  "en": "must",
+  "uk": "мусити",
+  "v": "similar",
+  "ce": "must",
+  "cu": "мусити",
+  "note": "Ukrainian verb with ending -ити (мушу, мусиш)."
+ },
+ {
+  "en": "must",
+  "uk": "мусить",
+  "v": "not_lemma",
+  "ce": "must",
+  "cu": "мусити",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "show",
+  "uk": "шоу",
+  "v": "identical",
+  "ce": "show",
+  "cu": "шоу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Only the noun (a show); 'to show' is показувати."
+ },
+ {
+  "en": "big",
+  "uk": "біг",
+  "v": "unrelated"
+ },
+ {
+  "en": "lot",
+  "uk": "лот",
+  "v": "identical",
+  "ce": "lot",
+  "cu": "лот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": "Only a lot at an auction or sale; 'a lot of' is багато."
+ },
+ {
+  "en": "night",
+  "uk": "ніч",
+  "v": "unrelated"
+ },
+ {
+  "en": "company",
+  "uk": "компанія",
+  "v": "similar",
+  "ce": "company",
+  "cu": "компанія",
+  "note": "Ending -ія added."
+ },
+ {
+  "en": "real",
+  "uk": "реал",
+  "v": "unrelated"
+ },
+ {
+  "en": "real",
+  "uk": "реальний",
+  "v": "similar",
+  "ce": "real",
+  "cu": "реальний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "group",
+  "uk": "група",
+  "v": "similar",
+  "ce": "group",
+  "cu": "група",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "group",
+  "uk": "групу",
+  "v": "not_lemma",
+  "ce": "group",
+  "cu": "група",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "public",
+  "uk": "паблік",
+  "v": "false_friend",
+  "ce": "public",
+  "cu": "паблік",
+  "note": "Slang: a public page/group on social media."
+ },
+ {
+  "en": "public",
+  "uk": "публіка",
+  "v": "similar",
+  "ce": "public",
+  "cu": "публіка",
+  "note": "Noun: the public, audience; ending -а added."
+ },
+ {
+  "en": "top",
+  "uk": "топ",
+  "v": "identical",
+  "ce": "top",
+  "cu": "топ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "clothing"
+  ],
+  "note": "A top (garment) or the top of a ranking (топ-10); the top part of something is верх."
+ },
+ {
+  "en": "business",
+  "uk": "бизнес",
+  "v": "not_lemma",
+  "ce": "business",
+  "cu": "бізнес",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Russian spelling; Ukrainian is бізнес."
+ },
+ {
+  "en": "business",
+  "uk": "бізнес",
+  "v": "identical",
+  "ce": "business",
+  "cu": "бізнес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "start",
+  "uk": "старт",
+  "v": "identical",
+  "ce": "start",
+  "cu": "старт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "system",
+  "uk": "системне",
+  "v": "not_lemma",
+  "ce": "system",
+  "cu": "система",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "system",
+  "uk": "системний",
+  "v": "not_lemma",
+  "ce": "system",
+  "cu": "система",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "system",
+  "uk": "системна",
+  "v": "not_lemma",
+  "ce": "system",
+  "cu": "система",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "system",
+  "uk": "системи",
+  "v": "not_lemma",
+  "ce": "system",
+  "cu": "система",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "system",
+  "uk": "система",
+  "v": "similar",
+  "ce": "system",
+  "cu": "система",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "times",
+  "uk": "таймс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "person",
+  "uk": "персона",
+  "v": "similar",
+  "ce": "person",
+  "cu": "персона",
+  "note": "Ending -а added; персона is formal (an important person); everyday 'person' is людина."
+ },
+ {
+  "en": "music",
+  "uk": "музик",
+  "v": "not_lemma",
+  "ce": "music",
+  "cu": "музика",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "stop",
+  "uk": "стоп",
+  "v": "identical",
+  "ce": "stop",
+  "cu": "стоп",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "Mainly the command 'Stop!'; 'to stop' is зупинятися."
+ },
+ {
+  "en": "national",
+  "uk": "націонал",
+  "v": "false_friend",
+  "ce": "national",
+  "cu": "націонал",
+  "note": "націонал = colloquial 'nationalist' or part of compounds; 'national' is національний."
+ },
+ {
+  "en": "white",
+  "uk": "вайт",
+  "v": "unrelated"
+ },
+ {
+  "en": "american",
+  "uk": "американка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "order",
+  "uk": "ордер",
+  "v": "partial_false_friend",
+  "ce": "order",
+  "cu": "ордер",
+  "note": "ордер = warrant or official permit; not sequence (порядок) or purchase (замовлення)."
+ },
+ {
+  "en": "order",
+  "uk": "орден",
+  "v": "partial_false_friend",
+  "ce": "order",
+  "cu": "орден",
+  "note": "орден = medal/decoration or a knightly/monastic order only."
+ },
+ {
+  "en": "party",
+  "uk": "партії",
+  "v": "not_lemma",
+  "ce": "party",
+  "cu": "партія",
+  "lv": "partial_false_friend",
+  "note": ""
+ },
+ {
+  "en": "party",
+  "uk": "партія",
+  "v": "partial_false_friend",
+  "ce": "party",
+  "cu": "партія",
+  "note": "партія = political party, batch, game (of chess); a celebration is вечірка."
+ },
+ {
+  "en": "service",
+  "uk": "сервіс",
+  "v": "identical",
+  "ce": "service",
+  "cu": "сервіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Customer service, service industry; military or church service is служба."
+ },
+ {
+  "en": "country",
+  "uk": "кантрі",
+  "v": "identical",
+  "ce": "country",
+  "cu": "кантрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Only country music; a country (nation) is країна."
+ },
+ {
+  "en": "season",
+  "uk": "сезон",
+  "v": "identical",
+  "ce": "season",
+  "cu": "сезон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "note": ""
+ },
+ {
+  "en": "general",
+  "uk": "генерал",
+  "v": "identical",
+  "ce": "general",
+  "cu": "генерал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "Only the military rank; the adjective 'general' is загальний."
+ },
+ {
+  "en": "general",
+  "uk": "генеральний",
+  "v": "similar",
+  "ce": "general",
+  "cu": "генеральний",
+  "note": "Ukrainian adjective ending -ний (генеральний директор)."
+ },
+ {
+  "en": "united",
+  "uk": "юнайтед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "per",
+  "uk": "пер",
+  "v": "unrelated"
+ },
+ {
+  "en": "president",
+  "uk": "президент",
+  "v": "identical",
+  "ce": "president",
+  "cu": "президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "president",
+  "uk": "президенти",
+  "v": "not_lemma",
+  "ce": "president",
+  "cu": "президент",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "president",
+  "uk": "президентка",
+  "v": "not_lemma",
+  "ce": "president",
+  "cu": "президент",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Feminine form (a female president)."
+ },
+ {
+  "en": "story",
+  "uk": "історія",
+  "v": "similar",
+  "ce": "story",
+  "cu": "історія",
+  "note": "історія = story and history; different form."
+ },
+ {
+  "en": "course",
+  "uk": "курс",
+  "v": "identical",
+  "ce": "course",
+  "cu": "курс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "note": "Also exchange rate and year of study; a meal course is страва."
+ },
+ {
+  "en": "information",
+  "uk": "інформація",
+  "v": "similar",
+  "ce": "information",
+  "cu": "інформація",
+  "note": "Ending -ія instead of -ion."
+ },
+ {
+  "en": "local",
+  "uk": "локальна",
+  "v": "not_lemma",
+  "ce": "local",
+  "cu": "локальний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "local",
+  "uk": "локальний",
+  "v": "similar",
+  "ce": "local",
+  "cu": "локальний",
+  "note": "Ukrainian adjective ending -ний; the everyday word is місцевий."
+ },
+ {
+  "en": "local",
+  "uk": "локальні",
+  "v": "not_lemma",
+  "ce": "local",
+  "cu": "локальний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "post",
+  "uk": "пост",
+  "v": "identical",
+  "ce": "post",
+  "cu": "пост",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": "A social-media post or a guard post/position; mail is пошта, a pole is стовп; пост also = religious fast."
+ },
+ {
+  "en": "post",
+  "uk": "пошта",
+  "v": "similar",
+  "ce": "post",
+  "cu": "пошта",
+  "note": "пошта = mail, post office; different ending."
+ },
+ {
+  "en": "video",
+  "uk": "відео",
+  "v": "identical",
+  "ce": "video",
+  "cu": "відео",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "young",
+  "uk": "янг",
+  "v": "unrelated"
+ },
+ {
+  "en": "court",
+  "uk": "корт",
+  "v": "identical",
+  "ce": "court",
+  "cu": "корт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Only a sports court (tennis etc.); a law court is суд."
+ },
+ {
+  "en": "fact",
+  "uk": "факт",
+  "v": "identical",
+  "ce": "fact",
+  "cu": "факт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hand",
+  "uk": "хенд",
+  "v": "unrelated"
+ },
+ {
+  "en": "control",
+  "uk": "контроль",
+  "v": "identical",
+  "ce": "control",
+  "cu": "контроль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Also checking/inspection (e.g. ticket control)."
+ },
+ {
+  "en": "control",
+  "uk": "контрольна",
+  "v": "not_lemma",
+  "ce": "control",
+  "cu": "контрольний",
+  "lv": "similar",
+  "note": "контрольна (робота) = a school test."
+ },
+ {
+  "en": "guy",
+  "uk": "гай",
+  "v": "unrelated"
+ },
+ {
+  "en": "guy",
+  "uk": "гі",
+  "v": "unrelated"
+ },
+ {
+  "en": "office",
+  "uk": "офіс",
+  "v": "identical",
+  "ce": "office",
+  "cu": "офіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "places"
+  ],
+  "note": "An office (workplace); a public office/post is посада."
+ },
+ {
+  "en": "problem",
+  "uk": "проблема",
+  "v": "similar",
+  "ce": "problem",
+  "cu": "проблема",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "problem",
+  "uk": "проблему",
+  "v": "not_lemma",
+  "ce": "problem",
+  "cu": "проблема",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "history",
+  "uk": "історії",
+  "v": "not_lemma",
+  "ce": "history",
+  "cu": "історія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "history",
+  "uk": "історія",
+  "v": "similar",
+  "ce": "history",
+  "cu": "історія",
+  "note": "Ending -ія added; also means 'story'."
+ },
+ {
+  "en": "university",
+  "uk": "університет",
+  "v": "similar",
+  "ce": "university",
+  "cu": "університет",
+  "note": "Ending -итет instead of -ity."
+ },
+ {
+  "en": "john",
+  "uk": "джон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "john",
+  "uk": "ян",
+  "v": "unrelated"
+ },
+ {
+  "en": "matter",
+  "uk": "матерія",
+  "v": "similar",
+  "ce": "matter",
+  "cu": "матерія",
+  "note": "матерія = matter (physics), also fabric; 'a matter' (issue) is справа."
+ },
+ {
+  "en": "bit",
+  "uk": "біт",
+  "v": "identical",
+  "ce": "bit",
+  "cu": "біт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "Computing bit (also a music beat); 'a bit' (a little) is трохи."
+ },
+ {
+  "en": "hit",
+  "uk": "хіт",
+  "v": "identical",
+  "ce": "hit",
+  "cu": "хіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "A hit (song, film, product); 'to hit' is вдарити."
+ },
+ {
+  "en": "york",
+  "uk": "йорк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "class",
+  "uk": "клас",
+  "v": "identical",
+  "ce": "class",
+  "cu": "клас",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "note": "Also a school grade (year); informal клас! = cool!"
+ },
+ {
+  "en": "class",
+  "uk": "кляса",
+  "v": "similar",
+  "ce": "class",
+  "cu": "кляса",
+  "note": "Old Galician/diaspora form of клас."
+ },
+ {
+  "en": "idea",
+  "uk": "ідея",
+  "v": "identical",
+  "ce": "idea",
+  "cu": "ідея",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "international",
+  "uk": "інтернаціонал",
+  "v": "false_friend",
+  "ce": "international",
+  "cu": "інтернаціонал",
+  "note": "Інтернаціонал = the (Communist) International or its anthem; 'international' is міжнародний."
+ },
+ {
+  "en": "series",
+  "uk": "серії",
+  "v": "not_lemma",
+  "ce": "series",
+  "cu": "серія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "north",
+  "uk": "норт",
+  "v": "unrelated"
+ },
+ {
+  "en": "c",
+  "uk": "сі",
+  "v": "unrelated"
+ },
+ {
+  "en": "million",
+  "uk": "мільйон",
+  "v": "identical",
+  "ce": "million",
+  "cu": "мільйон",
+  "pos": "num",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "red",
+  "uk": "ред",
+  "v": "unrelated"
+ },
+ {
+  "en": "report",
+  "uk": "рапорт",
+  "v": "similar",
+  "ce": "report",
+  "cu": "рапорт",
+  "note": "рапорт = official/military report to a superior; the usual 'report' is звіт."
+ },
+ {
+  "en": "check",
+  "uk": "чек",
+  "v": "partial_false_friend",
+  "ce": "check",
+  "cu": "чек",
+  "note": "чек = receipt or (bank) check; 'to check' is перевіряти."
+ },
+ {
+  "en": "form",
+  "uk": "форму",
+  "v": "not_lemma",
+  "ce": "form",
+  "cu": "форма",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "form",
+  "uk": "форма",
+  "v": "similar",
+  "ce": "form",
+  "cu": "форма",
+  "note": "Ending -а added; also means uniform."
+ },
+ {
+  "en": "act",
+  "uk": "акт",
+  "v": "identical",
+  "ce": "act",
+  "cu": "акт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": "Also an official certificate/report document."
+ },
+ {
+  "en": "major",
+  "uk": "мажор",
+  "v": "partial_false_friend",
+  "ce": "major",
+  "cu": "мажор",
+  "note": "мажор = major key in music; slang: spoiled rich kid."
+ },
+ {
+  "en": "major",
+  "uk": "майор",
+  "v": "identical",
+  "ce": "major",
+  "cu": "майор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "note": "Only the military rank; 'major' (main, important) is головний, значний."
+ },
+ {
+  "en": "media",
+  "uk": "медіа",
+  "v": "identical",
+  "ce": "media",
+  "cu": "медіа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "art",
+  "uk": "арт",
+  "v": "identical",
+  "ce": "art",
+  "cu": "арт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "art"
+  ],
+  "note": "Informal or in compounds (арт-простір); the usual word for art is мистецтво."
+ },
+ {
+  "en": "market",
+  "uk": "маркет",
+  "v": "identical",
+  "ce": "market",
+  "cu": "маркет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "places"
+  ],
+  "note": "A (super)market store; an open-air market is ринок."
+ },
+ {
+  "en": "non",
+  "uk": "нон",
+  "v": "unrelated"
+ },
+ {
+  "en": "plan",
+  "uk": "план",
+  "v": "identical",
+  "ce": "plan",
+  "cu": "план",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "west",
+  "uk": "вест",
+  "v": "unrelated"
+ },
+ {
+  "en": "final",
+  "uk": "фінал",
+  "v": "identical",
+  "ce": "final",
+  "cu": "фінал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Also 'finale'; the adjective 'final' is фінальний."
+ },
+ {
+  "en": "front",
+  "uk": "фронт",
+  "v": "identical",
+  "ce": "front",
+  "cu": "фронт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "A military or weather front, or field of work; the front side of something is перед."
+ },
+ {
+  "en": "street",
+  "uk": "стріт",
+  "v": "unrelated"
+ },
+ {
+  "en": "college",
+  "uk": "коледж",
+  "v": "identical",
+  "ce": "college",
+  "cu": "коледж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education"
+  ],
+  "note": "Usually a vocational college (between school and university)."
+ },
+ {
+  "en": "college",
+  "uk": "коледжі",
+  "v": "not_lemma",
+  "ce": "college",
+  "cu": "коледж",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education"
+  ],
+  "note": ""
+ },
+ {
+  "en": "london",
+  "uk": "лондон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "program",
+  "uk": "програма",
+  "v": "similar",
+  "ce": "program",
+  "cu": "програма",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "type",
+  "uk": "тип",
+  "v": "identical",
+  "ce": "type",
+  "cu": "тип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Colloquially also 'a guy, a character'."
+ },
+ {
+  "en": "chance",
+  "uk": "шанс",
+  "v": "identical",
+  "ce": "chance",
+  "cu": "шанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ }
+]
