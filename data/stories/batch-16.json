@@ -1,0 +1,657 @@
+[
+{
+"id": "c193",
+"part": "p20",
+"title": "Wow!",
+"scene": "Max shows Anna his new flat, and she reacts to everything: 'wow' at the view, 'ah' and 'huh?' at a strange lamp, 'oho' and 'ooh la la' at his new jacket, 'OMG' and 'caramba' at the mess in the kitchen, 'voila!' says Max when he opens the fridge, and 'eureka!' when he finds his lost keys.",
+"anchors": [
+"wow",
+"ah",
+"huh",
+"oho",
+"ooh la la",
+"OMG",
+"caramba",
+"voila",
+"eureka"
+],
+"level": "A2",
+"words": [
+{
+"en": "wow",
+"uk": "вау",
+"band": "top-1000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Wow, your new car is great!"
+},
+{
+"en": "ah",
+"uk": "ах",
+"band": "top-1000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Ah, now I understand!"
+},
+{
+"en": "huh",
+"uk": "га",
+"band": "top-1000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Huh? What is it?"
+},
+{
+"en": "oho",
+"uk": "ого",
+"band": "top-50k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Oho, so that's where you hid the cookies!"
+},
+{
+"en": "ooh la la",
+"uk": "о-ла-ла",
+"band": "top-50k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Ooh la la, you look great in that dress!"
+},
+{
+"en": "OMG",
+"uk": "омг",
+"band": "top-20k",
+"pos": "interj",
+"topics": "other",
+"ex": "OMG, I just passed my driving test!"
+},
+{
+"en": "caramba",
+"uk": "карамба",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "Caramba, I forgot my keys again!"
+},
+{
+"en": "voila",
+"uk": "вуаля",
+"band": "top-20k",
+"pos": "interj",
+"topics": "other",
+"ex": "Add hot water, stir, and voila, soup is ready!"
+},
+{
+"en": "eureka",
+"uk": "еврика",
+"band": "top-20k",
+"pos": "interj",
+"topics": "science",
+"ex": "\"Eureka! I finally found my car keys!\" she shouted."
+}
+]
+},
+{
+"id": "c194",
+"part": "p20",
+"title": "Oops!",
+"scene": "A bad morning for Taras: 'oops' - he drops his phone, 'brr' - the bathroom is cold, 'feh' - the soup is cold too, 'fie!' says Grandpa like an old king in a film, and 'boo!' - his sister jumps out from behind the door. Only Mama's pancakes make him say 'mmm'.",
+"anchors": [
+"oops",
+"brr",
+"feh",
+"fie",
+"boo",
+"mmm"
+],
+"level": "A2",
+"words": [
+{
+"en": "oops",
+"uk": "упс",
+"band": "top-10k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Oops, I dropped my phone again."
+},
+{
+"en": "brr",
+"uk": "брр",
+"band": "top-50k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Brr, it's really cold outside today!"
+},
+{
+"en": "feh",
+"uk": "фе",
+"band": "top-100k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "\"Feh, this soup is cold,\" she said."
+},
+{
+"en": "fie",
+"uk": "фі",
+"band": "top-20k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "\"Fie on you!\" shouted the old king."
+},
+{
+"en": "boo",
+"uk": "бу",
+"band": "top-10k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "\"Boo!\" he shouted from behind the door."
+},
+{
+"en": "mmm",
+"uk": "ммм",
+"band": "top-5000",
+"pos": "interj",
+"topics": "other",
+"ex": "Mmm, this soup is really good."
+}
+]
+},
+{
+"id": "c195",
+"part": "p20",
+"title": "Ha-ha!",
+"scene": "The family watches a comedy together, and everyone laughs in a different way: Dad with a short 'ha' and then a loud 'ha-ha-ha', Anna with a quiet 'heh', Taras with 'ha-ha' and 'hehe' in his messages, the little cousins with 'hee-hee', and Grandpa with 'ho-ho' and a Santa 'ho-ho-ho'.",
+"anchors": [
+"ha",
+"ha-ha-ha",
+"heh",
+"ha-ha",
+"hehe",
+"hee-hee",
+"ho-ho",
+"ho-ho-ho"
+],
+"level": "A2",
+"words": [
+{
+"en": "ha",
+"uk": "ха",
+"band": "top-2000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Ha! That's so funny!"
+},
+{
+"en": "ha-ha-ha",
+"uk": "ха-ха-ха",
+"band": "top-50k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Ha-ha-ha, that joke was really funny!"
+},
+{
+"en": "heh",
+"uk": "хех",
+"band": "top-5000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Heh, that is a really funny joke."
+},
+{
+"en": "ha-ha",
+"uk": "ха-ха",
+"band": "top-20k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Ha-ha, that's the funniest joke I've heard today!"
+},
+{
+"en": "hehe",
+"uk": "хе-хе",
+"band": "top-20k",
+"pos": "interj",
+"topics": "emotions",
+"ex": "She texted me \"hehe\" after my silly joke."
+},
+{
+"en": "hee-hee",
+"uk": "хі-хі",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "\"Hee-hee,\" the little girl laughed behind her hand."
+},
+{
+"en": "ho-ho",
+"uk": "хо-хо",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "\"Ho-ho, what do we have here?\" he said."
+},
+{
+"en": "ho-ho-ho",
+"uk": "хо-хо-хо",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "Santa laughed \"ho-ho-ho\" and gave out the gifts."
+}
+]
+},
+{
+"id": "c196",
+"part": "p20",
+"title": "Stop! Bravo!",
+"scene": "Words people shout: a guard shouts 'stop!', a friend whispers 'psst', a teacher jokes 'achtung!', Mama says 'basta!', a pilot calls 'mayday' and sailors send an SOS - and happy crowds shout 'bravo', 'bravissimo', 'ole' and 'vivat', and soldiers in an old film shout 'banzai'.",
+"anchors": [
+"stop",
+"psst",
+"achtung",
+"basta",
+"mayday",
+"SOS",
+"bravo",
+"bravissimo",
+"ole",
+"vivat",
+"banzai"
+],
+"level": "A2",
+"words": [
+{
+"en": "stop",
+"uk": "стоп",
+"band": "top-1000",
+"pos": "interj",
+"topics": "transport",
+"ex": "Stop! The light is red."
+},
+{
+"en": "psst",
+"uk": "пст",
+"band": "top-20k",
+"pos": "interj",
+"topics": "other",
+"ex": "Psst, come over here and look at this!"
+},
+{
+"en": "achtung",
+"uk": "ахтунг",
+"band": "top-50k",
+"pos": "interj",
+"topics": "language",
+"ex": "\"Achtung!\" he shouted as a joke before his announcement."
+},
+{
+"en": "basta",
+"uk": "баста",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "Basta! I don't want to hear any more."
+},
+{
+"en": "mayday",
+"uk": "мейдей",
+"band": "top-20k",
+"pos": "interj",
+"topics": "transport",
+"ex": "The pilot shouted mayday into the radio."
+},
+{
+"en": "SOS",
+"uk": "сос",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "other",
+"ex": "The sailors sent an SOS when the engine failed."
+},
+{
+"en": "bravo",
+"uk": "браво",
+"band": "top-10k",
+"pos": "interj",
+"topics": "art",
+"ex": "Bravo! That was a beautiful song."
+},
+{
+"en": "bravissimo",
+"uk": "бравісимо",
+"band": "top-100k",
+"pos": "interj",
+"topics": "music",
+"ex": "The audience stood up and shouted \"Bravissimo!\""
+},
+{
+"en": "ole",
+"uk": "оле",
+"band": "top-20k",
+"pos": "interj",
+"topics": "sport",
+"ex": "The crowd shouted \"olé!\" at every good pass."
+},
+{
+"en": "vivat",
+"uk": "віват",
+"band": "top-100k",
+"pos": "interj",
+"topics": "other",
+"ex": "The crowd shouted \"Vivat!\" when the king appeared."
+},
+{
+"en": "banzai",
+"uk": "банзай",
+"band": "top-50k",
+"pos": "interj",
+"topics": "military",
+"ex": "The soldiers shouted \"Banzai!\" and ran forward."
+}
+]
+},
+{
+"id": "c197",
+"part": "p20",
+"title": "Meow, moo, bam!",
+"scene": "A noisy day in Grandma's village: the kitten says 'meow', the cow says 'moo', a door goes 'bam', a car goes 'beep-beep', the old clock goes 'tick-tack', and Grandma sings 'la-la', 'la-la-la' and 'tra-la-la' in the kitchen.",
+"anchors": [
+"meow",
+"moo",
+"bam",
+"beep-beep",
+"tick-tack",
+"la-la",
+"la-la-la",
+"tra-la-la"
+],
+"level": "A2",
+"words": [
+{
+"en": "meow",
+"uk": "мяу",
+"band": "top-10k",
+"pos": "interj",
+"topics": "nature",
+"ex": "\"Meow,\" said the kitten when it wanted food."
+},
+{
+"en": "moo",
+"uk": "му",
+"band": "top-20k",
+"pos": "interj",
+"topics": "nature",
+"ex": "The cow looked at us and said, \"Moo!\""
+},
+{
+"en": "bam",
+"uk": "бам",
+"band": "top-10k",
+"pos": "interj",
+"topics": "other",
+"ex": "Bam! The door closed hard behind me."
+},
+{
+"en": "beep-beep",
+"uk": "біп-біп",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "\"Beep-beep!\" the car horn went outside."
+},
+{
+"en": "tick-tack",
+"uk": "тік-так",
+"band": "top-100k",
+"pos": "interj",
+"topics": "games, time",
+"ex": "Tick-tack, the old clock in the hall kept going."
+},
+{
+"en": "la-la",
+"uk": "ла-ла",
+"band": "top-50k",
+"pos": "interj",
+"topics": "music",
+"ex": "She forgot the words, so she sang \"la-la.\""
+},
+{
+"en": "la-la-la",
+"uk": "ла-ла-ла",
+"band": "top-50k",
+"pos": "interj",
+"topics": "music",
+"ex": "She forgot the words and just sang \"la-la-la.\""
+},
+{
+"en": "tra-la-la",
+"uk": "тра-ля-ля",
+"band": "top-100k",
+"pos": "interj",
+"topics": "music",
+"ex": "She sang \"tra-la-la\" while cooking dinner."
+}
+]
+},
+{
+"id": "c198",
+"part": "p20",
+"title": "GG!",
+"scene": "Taras plays an online game with friends. They type 'LOL' and 'kek' in the chat, one friend shouts 'bazinga' after a silly joke, the screen says 'game over', everyone writes 'GG', and Mama says it is all blah blah blah.",
+"anchors": [
+"LOL",
+"kek",
+"bazinga",
+"game over",
+"GG",
+"blah blah blah"
+],
+"level": "A2",
+"words": [
+{
+"en": "LOL",
+"uk": "лол",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "media",
+"ex": "LOL, your photo of the cat is so funny!"
+},
+{
+"en": "kek",
+"uk": "кек",
+"band": "top-50k",
+"pos": "interj",
+"topics": "media",
+"ex": "Kek, that meme is so funny."
+},
+{
+"en": "bazinga",
+"uk": "базінга",
+"band": "top-100k",
+"pos": "interj",
+"topics": "media",
+"ex": "\"Bazinga!\" he shouted after his silly joke."
+},
+{
+"en": "game over",
+"uk": "гейм-овер",
+"band": "top-20k",
+"pos": "phrase",
+"topics": "games",
+"ex": "Game over, do you want to play again?"
+},
+{
+"en": "GG",
+"uk": "гг",
+"band": "top-50k",
+"pos": "interj",
+"topics": "games",
+"ex": "After the match, everyone typed GG in the chat."
+},
+{
+"en": "blah blah blah",
+"uk": "бла-бла-бла",
+"band": "top-20k",
+"pos": "interj",
+"topics": "language",
+"ex": "He talked about work all evening, blah blah blah."
+}
+]
+},
+{
+"id": "c199",
+"part": "p20",
+"title": "Ciao! Hello around the world",
+"scene": "Anna collects ways to greet people and say goodbye from her trips and friends: 'ciao' and 'arrivederci' in Italy, 'adios' in Mexico, 'adieu' in Paris, 'aloha' in Hawaii, 'konnichiwa' and 'sayonara' in Japan, and 'namaste' and 'namaskar' in India.",
+"anchors": [
+"ciao",
+"arrivederci",
+"adios",
+"adieu",
+"aloha",
+"konnichiwa",
+"sayonara",
+"namaste",
+"namaskar"
+],
+"level": "A2",
+"words": [
+{
+"en": "ciao",
+"uk": "чао",
+"band": "top-20k",
+"pos": "interj",
+"topics": "other",
+"ex": "Ciao, see you tomorrow at work!"
+},
+{
+"en": "arrivederci",
+"uk": "аріведерчі",
+"band": "top-50k",
+"pos": "interj",
+"topics": "language",
+"ex": "He waved and said \"arrivederci\" as he left the restaurant."
+},
+{
+"en": "adios",
+"uk": "адьос",
+"band": "top-20k",
+"pos": "interj",
+"topics": "other",
+"ex": "Adios, everyone, see you next week!"
+},
+{
+"en": "adieu",
+"uk": "адью",
+"band": "top-20k",
+"pos": "interj",
+"topics": "language",
+"ex": "She said adieu and left the room."
+},
+{
+"en": "aloha",
+"uk": "алоха",
+"band": "top-20k",
+"pos": "interj",
+"topics": "language",
+"ex": "The hotel staff greeted us with \"Aloha!\""
+},
+{
+"en": "konnichiwa",
+"uk": "конічіва",
+"band": "top-50k",
+"pos": "interj",
+"topics": "language",
+"ex": "In Japan, people say konnichiwa to greet each other."
+},
+{
+"en": "sayonara",
+"uk": "сайонара",
+"band": "top-50k",
+"pos": "interj",
+"topics": "other",
+"ex": "Sayonara, everyone, and see you next week!"
+},
+{
+"en": "namaste",
+"uk": "намасте",
+"band": "top-20k",
+"pos": "interj",
+"topics": "religion",
+"ex": "The yoga teacher said namaste at the end of class."
+},
+{
+"en": "namaskar",
+"uk": "намаскар",
+"band": "top-100k",
+"pos": "interj",
+"topics": "religion",
+"ex": "\"Namaskar,\" she said and put her hands together."
+}
+]
+},
+{
+"id": "c200",
+"part": "p20",
+"title": "Words of faith and peace",
+"scene": "At an evening of many faiths Anna hears words people use every day: 'shalom' and 'salaam' to wish peace, 'inshallah' and 'alhamdulillah' from her Muslim friend, and 'alleluia' and 'Ave Maria' from the church choir.",
+"anchors": [
+"shalom",
+"salaam",
+"inshallah",
+"alhamdulillah",
+"alleluia",
+"ave"
+],
+"level": "B1",
+"words": [
+{
+"en": "shalom",
+"uk": "шалом",
+"band": "top-20k",
+"pos": "interj",
+"topics": "language",
+"ex": "He said \"shalom\" when he walked in."
+},
+{
+"en": "salaam",
+"uk": "салам",
+"band": "top-20k",
+"pos": "interj",
+"topics": "language, religion",
+"ex": "He greeted his neighbor with a warm salaam."
+},
+{
+"en": "inshallah",
+"uk": "іншалла",
+"band": "top-50k",
+"pos": "interj",
+"topics": "religion",
+"ex": "\"See you tomorrow?\" \"Inshallah, I'll be there.\""
+},
+{
+"en": "alhamdulillah",
+"uk": "альхамдуліллах",
+"band": "top-100k",
+"pos": "interj",
+"topics": "religion",
+"ex": "\"How are you?\" \"Alhamdulillah, I'm fine, thank you.\""
+},
+{
+"en": "alleluia",
+"uk": "алілуя",
+"band": "top-50k",
+"pos": "interj",
+"topics": "religion",
+"ex": "The choir sang \"Alleluia\" at the end of the service."
+},
+{
+"en": "ave",
+"uk": "аве",
+"band": "top-50k",
+"pos": "interj",
+"topics": "religion",
+"ex": "The choir sang the \"Ave Maria\" softly at the end."
+}
+]
+}
+]

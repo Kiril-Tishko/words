@@ -1,0 +1,1400 @@
+[
+{
+"id": "c037",
+"part": "p04",
+"title": "Uncle Ivan, the pilot",
+"scene": "Max's uncle is a pilot. He shows Max and Anna the cockpit of his jet and explains the radar, the transponder and the autopilot; then they visit an airfield and see a helicopter with a loud rotor, an old plane with a propeller and a glider.",
+"anchors": [
+"pilot",
+"cockpit",
+"jet",
+"radar",
+"transponder",
+"autopilot",
+"helicopter",
+"rotor",
+"propeller",
+"glider"
+],
+"level": "A2",
+"words": [
+{
+"en": "pilot",
+"uk": "пілот",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Do you want to be a pilot?"
+},
+{
+"en": "cockpit",
+"uk": "кокпіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The pilot sat down in the cockpit."
+},
+{
+"en": "jet",
+"uk": "джет",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Have you ever flown on a private jet?"
+},
+{
+"en": "radar",
+"uk": "радар",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The plane disappeared from the radar."
+},
+{
+"en": "transponder",
+"uk": "транспондер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, transport",
+"ex": "Every plane has a transponder for air traffic control."
+},
+{
+"en": "autopilot",
+"uk": "автопілот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, transport",
+"ex": "The pilot switched on the autopilot."
+},
+{
+"en": "helicopter",
+"uk": "гелікоптер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "A helicopter landed on the roof of the hospital."
+},
+{
+"en": "rotor",
+"uk": "ротор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The helicopter's rotor makes a very loud noise."
+},
+{
+"en": "propeller",
+"uk": "пропелер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The boat's propeller got caught in some weeds."
+},
+{
+"en": "glider",
+"uk": "глайдер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The glider flew quietly over the green hills."
+},
+{
+"en": "parachute",
+"uk": "парашут",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, sport",
+"ex": "The pilot jumped out of the plane with a parachute."
+},
+{
+"en": "ace",
+"uk": "ас",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was a famous flying ace in the war."
+},
+{
+"en": "simulator",
+"uk": "симулятор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, tech",
+"ex": "Pilots train in a flight simulator."
+}
+]
+},
+{
+"id": "c038",
+"part": "p05",
+"title": "Anna's new smartphone",
+"scene": "Anna buys a new high-end smartphone with a fast chip. The shop assistant shows her the camera, the zoom, the big touchscreen display and the fingerprint sensor, connects her headphones by Bluetooth and changes the ringtone; Max says the device is the best gadget for every user, and Anna buys an add-on.",
+"anchors": [
+"high-end",
+"smartphone",
+"chip",
+"camera",
+"zoom",
+"touchscreen",
+"display",
+"sensor",
+"Bluetooth",
+"ringtone",
+"device",
+"gadget"
+],
+"level": "A2",
+"words": [
+{
+"en": "high-end",
+"uk": "хай-енд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "tech",
+"ex": "This store only sells high-end phones and laptops."
+},
+{
+"en": "smartphone",
+"uk": "смартфон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Almost everyone has a smartphone these days."
+},
+{
+"en": "chip",
+"uk": "чип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This phone has a new, faster chip."
+},
+{
+"en": "camera",
+"uk": "камера",
+"band": "top-1000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone has a very good camera."
+},
+{
+"en": "zoom",
+"uk": "зум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This camera has a powerful zoom."
+},
+{
+"en": "touchscreen",
+"uk": "тач-скрін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The touchscreen on my phone is cracked."
+},
+{
+"en": "display",
+"uk": "дисплей",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The phone has a bright, clear display."
+},
+{
+"en": "sensor",
+"uk": "сенсор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone has a fingerprint sensor on the back."
+},
+{
+"en": "Bluetooth",
+"uk": "блютуз",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Turn on Bluetooth to connect the speaker."
+},
+{
+"en": "ringtone",
+"uk": "рингтон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I changed my ringtone to a quiet song."
+},
+{
+"en": "device",
+"uk": "девайс",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Please turn off all your devices."
+},
+{
+"en": "gadget",
+"uk": "гаджет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He loves buying new kitchen gadgets."
+}
+]
+},
+{
+"id": "c039",
+"part": "p05",
+"title": "No signal in the metro",
+"scene": "In the metro Anna's phone has no signal and no internet, so she cannot go online and is offline for an hour. Back on the street, twenty messages and an alert from the group chat arrive, and Mama asks why roaming is on.",
+"anchors": [
+"signal",
+"internet",
+"online",
+"offline",
+"message",
+"alert",
+"chat",
+"roaming"
+],
+"level": "A1",
+"words": [
+{
+"en": "signal",
+"uk": "сигнал",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "There is no signal in this room."
+},
+{
+"en": "internet",
+"uk": "інтернет",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you have internet?"
+},
+{
+"en": "online",
+"uk": "онлайн",
+"band": "top-2000",
+"pos": "adv",
+"topics": "tech",
+"ex": "I buy most of my clothes online."
+},
+{
+"en": "offline",
+"uk": "офлайн",
+"band": "top-20k",
+"pos": "adv",
+"topics": "tech",
+"ex": "I downloaded the map so I can use it offline."
+},
+{
+"en": "message",
+"uk": "меседж",
+"band": "top-1000",
+"pos": "noun",
+"topics": "media",
+"ex": "Send me a message, please."
+},
+{
+"en": "alert",
+"uk": "алерт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone shows an alert for every email."
+},
+{
+"en": "chat",
+"uk": "чат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I left a message in the group chat."
+},
+{
+"en": "roaming",
+"uk": "роумінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech, travel",
+"ex": "Turn off roaming to avoid big bills abroad."
+}
+]
+},
+{
+"id": "c040",
+"part": "p05",
+"title": "Max fixes Anna's laptop",
+"scene": "Anna's laptop is slow and full of glitches. Max, who works in IT, connects it to his computer, finds the problem in the software, makes a backup of her files on a disk with a USB cable, installs an update and does a reset; he shows her a keyboard shortcut, says his desktop at work is faster, and tells her that only the system administrator knows the college password.",
+"anchors": [
+"laptop",
+"glitch",
+"IT",
+"computer",
+"software",
+"backup",
+"file",
+"disk",
+"USB",
+"cable",
+"update",
+"reset"
+],
+"level": "A2",
+"words": [
+{
+"en": "laptop",
+"uk": "лептоп",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use my laptop for work and school."
+},
+{
+"en": "glitch",
+"uk": "глітч",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "A glitch in the app deleted my messages."
+},
+{
+"en": "IT",
+"uk": "айті",
+"band": "top-3000",
+"pos": "abbr",
+"topics": "tech",
+"ex": "I work in IT."
+},
+{
+"en": "computer",
+"uk": "комп'ютер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I work on a computer."
+},
+{
+"en": "software",
+"uk": "софтвер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need to update the software on my laptop."
+},
+{
+"en": "backup",
+"uk": "бекап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Always make a backup of your important files."
+},
+{
+"en": "file",
+"uk": "файл",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I can't open this file."
+},
+{
+"en": "disk",
+"uk": "диск",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Save the file to the disk before you close it."
+},
+{
+"en": "USB",
+"uk": "юесбі",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Plug the USB cable into the computer."
+},
+{
+"en": "cable",
+"uk": "кабель",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you have a phone cable I can use?"
+},
+{
+"en": "update",
+"uk": "апдейт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "My phone needs an update again."
+},
+{
+"en": "reset",
+"uk": "ресет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The router needs a reset to work again."
+},
+{
+"en": "user",
+"uk": "юзер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The app has many users."
+},
+{
+"en": "shortcut",
+"uk": "шорткат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Press this keyboard shortcut to copy the text."
+}
+]
+},
+{
+"id": "c041",
+"part": "p05",
+"title": "An email to the professor",
+"scene": "Anna writes her first email in English to a professor. She logs in to her account with her username, uses a template, puts her name in the header and the date with a slash, and attaches her homework in PDF format; then she checks her inbox all evening and finds his reply in spam, with a link to a reading list.",
+"anchors": [
+"email",
+"account",
+"username",
+"template",
+"header",
+"slash",
+"format",
+"inbox",
+"reply",
+"spam",
+"link"
+],
+"level": "A2",
+"words": [
+{
+"en": "email",
+"uk": "емейл",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I'll send you an email tonight."
+},
+{
+"en": "account",
+"uk": "акаунт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I forgot the password to my account."
+},
+{
+"en": "username",
+"uk": "юзернейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Enter your username and password, please."
+},
+{
+"en": "template",
+"uk": "темплейт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Use this template for your resume."
+},
+{
+"en": "header",
+"uk": "хедер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Add your name to the header of the page."
+},
+{
+"en": "slash",
+"uk": "слеш",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language, tech",
+"ex": "Type a slash between the two dates."
+},
+{
+"en": "format",
+"uk": "формат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "Send the file in PDF format."
+},
+{
+"en": "inbox",
+"uk": "інбокс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I have fifty new emails in my inbox."
+},
+{
+"en": "reply",
+"uk": "реплай",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "Thanks for your quick reply to my email."
+},
+{
+"en": "spam",
+"uk": "спам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My inbox is full of spam again today."
+},
+{
+"en": "link",
+"uk": "лінк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Can you send me the link, please?"
+}
+]
+},
+{
+"id": "c042",
+"part": "p05",
+"title": "Train tickets online",
+"scene": "Anna buys train tickets with an online service. The website opens slowly in her browser and the layout is confusing; while browsing she closes pop-ups, clicks 'buy', enters the code from an SMS and takes a screenshot of the QR code, which the conductor scans on the train.",
+"anchors": [
+"online service",
+"website",
+"browser",
+"layout",
+"browsing",
+"pop-up",
+"click",
+"code",
+"SMS",
+"screenshot",
+"QR code",
+"scan"
+],
+"level": "A2",
+"words": [
+{
+"en": "online service",
+"uk": "онлайн-сервіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Do you use this online service?"
+},
+{
+"en": "website",
+"uk": "вебсайт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Please visit our website for more information."
+},
+{
+"en": "browser",
+"uk": "браузер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Open this link in your web browser, please."
+},
+{
+"en": "layout",
+"uk": "лейаут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media, tech",
+"ex": "I like the layout of the new website."
+},
+{
+"en": "browsing",
+"uk": "браузинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Private browsing does not save your history."
+},
+{
+"en": "pop-up",
+"uk": "поп-ап",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "A pop-up asked me to accept the cookies."
+},
+{
+"en": "click",
+"uk": "клік",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "With one click, you can order food to your door."
+},
+{
+"en": "code",
+"uk": "код",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Enter the code to open the door."
+},
+{
+"en": "SMS",
+"uk": "СМС",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "tech",
+"ex": "I got an SMS with a code from my bank."
+},
+{
+"en": "screenshot",
+"uk": "скріншот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Take a screenshot of the error."
+},
+{
+"en": "QR code",
+"uk": "куар-код",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Scan the QR code to see the menu."
+},
+{
+"en": "scan",
+"uk": "скан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Send me a scan of your passport, please."
+}
+]
+},
+{
+"id": "c043",
+"part": "p05",
+"title": "Max's new flat goes online",
+"scene": "Max needs internet in his new flat: a technician from the provider brings a router and a modem, fixes a connector and the antenna and does the setup. Then Max builds a home office with a big monitor, a headset and a microphone for calls, a printer that needs a new cartridge, a scanner, a tripod for video calls, and an adapter and a converter for his old plugs.",
+"anchors": [
+"provider",
+"router",
+"modem",
+"connector",
+"antenna",
+"setup",
+"home office",
+"monitor",
+"headset",
+"microphone",
+"printer",
+"cartridge"
+],
+"level": "A2",
+"words": [
+{
+"en": "provider",
+"uk": "провайдер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We changed our internet provider last month."
+},
+{
+"en": "router",
+"uk": "роутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Try restarting the router if the internet is slow."
+},
+{
+"en": "modem",
+"uk": "модем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Restart the modem if the internet stops working."
+},
+{
+"en": "connector",
+"uk": "конектор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The cable has a USB connector at one end."
+},
+{
+"en": "antenna",
+"uk": "антена",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We need to put the antenna on the roof."
+},
+{
+"en": "setup",
+"uk": "сетап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My gaming setup cost a lot of money."
+},
+{
+"en": "home office",
+"uk": "хоум-офіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "I work from my home office three days a week."
+},
+{
+"en": "monitor",
+"uk": "монітор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I use two monitors at work."
+},
+{
+"en": "headset",
+"uk": "хедсет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Put on your headset for the video call."
+},
+{
+"en": "microphone",
+"uk": "мікрофон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Speak into the microphone, please."
+},
+{
+"en": "printer",
+"uk": "принтер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The printer in our office is out of paper."
+},
+{
+"en": "cartridge",
+"uk": "картридж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, tech",
+"ex": "The printer needs a new ink cartridge."
+},
+{
+"en": "scanner",
+"uk": "сканер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I used the scanner to copy my passport."
+}
+]
+},
+{
+"id": "c044",
+"part": "p06",
+"title": "Anna's family tree",
+"scene": "Anna draws her family tree for Max: her mama, her siblings, a new baby cousin and the whole clan. Grandpa was an admiral and is now a pensioner who still uses an old telephone; Mama, a millennial, says Grandpa is a boomer and a true optimist - and Anna has his genes.",
+"anchors": [
+"mama",
+"sibling",
+"baby",
+"cousin",
+"clan",
+"admiral",
+"pensioner",
+"telephone",
+"millennial",
+"boomer",
+"optimist",
+"gene"
+],
+"level": "A1",
+"words": [
+{
+"en": "mama",
+"uk": "мама",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Mama, can I have some milk?"
+},
+{
+"en": "sibling",
+"uk": "сиблінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "How many siblings do you have?"
+},
+{
+"en": "baby",
+"uk": "бебі",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "The baby is hungry."
+},
+{
+"en": "cousin",
+"uk": "кузен",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "My cousin lives in Kyiv."
+},
+{
+"en": "clan",
+"uk": "клан",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Our whole clan meets at my grandmother's every summer."
+},
+{
+"en": "admiral",
+"uk": "адмірал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "My grandfather was an admiral in the navy."
+},
+{
+"en": "pensioner",
+"uk": "пенсіонер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The pensioner lives alone in a small apartment."
+},
+{
+"en": "telephone",
+"uk": "телефон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The telephone rang in the middle of the night."
+},
+{
+"en": "millennial",
+"uk": "міленіал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Many millennials work from home now."
+},
+{
+"en": "boomer",
+"uk": "бумер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My grandpa is a boomer, born in 1955."
+},
+{
+"en": "optimist",
+"uk": "оптиміст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My dad is a true optimist about everything."
+},
+{
+"en": "gene",
+"uk": "ген",
+"band": "top-3000",
+"pos": "noun",
+"topics": "biology",
+"ex": "I think it's in my genes."
+},
+{
+"en": "placenta",
+"uk": "плацента",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The placenta gives the baby food and oxygen."
+},
+{
+"en": "realist",
+"uk": "реаліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, people",
+"ex": "She is a realist and plans for problems."
+},
+{
+"en": "trimester",
+"uk": "триместр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, medicine",
+"ex": "She is in her second trimester of pregnancy."
+}
+]
+},
+{
+"id": "c045",
+"part": "p06",
+"title": "A surprise party for Mama",
+"scene": "Anna and Taras plan a surprise party for Mama's birthday. They send an invite to the family, order a bouquet from a florist, throw confetti, sing karaoke and give Mama a scrapbook of old photos; Mama's friend brings coffee liqueur and pays everyone a compliment.",
+"anchors": [
+"surprise",
+"invite",
+"bouquet",
+"florist",
+"confetti",
+"karaoke",
+"scrapbook",
+"liqueur",
+"compliment"
+],
+"level": "A2",
+"words": [
+{
+"en": "surprise",
+"uk": "сюрприз",
+"band": "top-2000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "We are planning a surprise party for Mom."
+},
+{
+"en": "invite",
+"uk": "інвайт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Thanks for the invite to your party!"
+},
+{
+"en": "bouquet",
+"uk": "букет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "He gave her a bouquet of roses."
+},
+{
+"en": "florist",
+"uk": "флорист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "I ordered flowers from the florist for her birthday."
+},
+{
+"en": "confetti",
+"uk": "конфеті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "They threw confetti at the wedding."
+},
+{
+"en": "karaoke",
+"uk": "караоке",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "We sang karaoke with friends until midnight."
+},
+{
+"en": "scrapbook",
+"uk": "скрапбук",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "She keeps a scrapbook of family photos."
+},
+{
+"en": "liqueur",
+"uk": "лікер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "She added a little coffee liqueur to the cake."
+},
+{
+"en": "compliment",
+"uk": "комплімент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "She paid me a nice compliment today."
+}
+]
+},
+{
+"id": "c046",
+"part": "p06",
+"title": "Max's new flat",
+"scene": "Max moves out of his parents' home. A realtor shows him a townhouse and a small loft with a modern interior: an old sofa in the hall, nice decor, a mini fridge, a queen-size bed, an intercom at the door and a thermostat - only four meters wide, but Max loves the comfort.",
+"anchors": [
+"realtor",
+"townhouse",
+"loft",
+"interior",
+"sofa",
+"hall",
+"decor",
+"mini",
+"queen-size",
+"intercom",
+"thermostat",
+"comfort"
+],
+"level": "A2",
+"words": [
+{
+"en": "realtor",
+"uk": "ріелтор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Our realtor showed us five houses today."
+},
+{
+"en": "townhouse",
+"uk": "таунхаус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "They bought a townhouse near the city center."
+},
+{
+"en": "loft",
+"uk": "лофт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "They live in a loft above an old factory."
+},
+{
+"en": "interior",
+"uk": "інтер'єр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The interior of the house is very modern."
+},
+{
+"en": "sofa",
+"uk": "софа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "We sat on the sofa and watched a movie."
+},
+{
+"en": "hall",
+"uk": "хол",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home, places",
+"ex": "Please wait for me in the hall downstairs."
+},
+{
+"en": "decor",
+"uk": "декор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, home",
+"ex": "I love the decor in this restaurant."
+},
+{
+"en": "mini",
+"uk": "міні",
+"band": "top-10k",
+"pos": "adj",
+"topics": "other",
+"ex": "We bought a mini fridge for our small kitchen."
+},
+{
+"en": "queen-size",
+"uk": "квін-сайз",
+"band": "top-20k",
+"pos": "adj",
+"topics": "home",
+"ex": "Our guest room has a queen-size bed."
+},
+{
+"en": "intercom",
+"uk": "інтерком",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, tech",
+"ex": "Press the intercom button to call the apartment."
+},
+{
+"en": "thermostat",
+"uk": "термостат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, tech",
+"ex": "Turn down the thermostat before you go to bed."
+},
+{
+"en": "comfort",
+"uk": "комфорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home",
+"ex": "For me, comfort is more important than style."
+},
+{
+"en": "meter",
+"uk": "метр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "My room is about four meters long."
+}
+]
+},
+{
+"id": "c047",
+"part": "p06",
+"title": "Fixing things at home",
+"scene": "Anna's dad and Taras fix up the flat instead of calling a professional. They drill holes for metal shelves and use bolts five millimeters wide, repair the mechanism in the door lock, check the electrical panel, build a wall with concrete blocks and cement, and paint it with primer; the neighbor uses glue, adhesive and a concrete vibrator for his siding.",
+"anchors": [
+"professional",
+"drill",
+"metal",
+"bolt",
+"millimeter",
+"mechanism",
+"panel",
+"block",
+"cement",
+"primer",
+"adhesive",
+"siding"
+],
+"level": "A2",
+"words": [
+{
+"en": "professional",
+"uk": "професіонал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Ask a professional to fix your roof."
+},
+{
+"en": "drill",
+"uk": "дриль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "He used a drill to make a hole in the wall."
+},
+{
+"en": "metal",
+"uk": "метал",
+"band": "top-2000",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "This chair is made of metal."
+},
+{
+"en": "bolt",
+"uk": "болт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "Tighten the bolt with a wrench."
+},
+{
+"en": "millimeter",
+"uk": "міліметр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The screw is five millimeters wide."
+},
+{
+"en": "mechanism",
+"uk": "механізм",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Can you fix the mechanism in this door lock?"
+},
+{
+"en": "panel",
+"uk": "панель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The light switch is on the panel."
+},
+{
+"en": "block",
+"uk": "блок",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The new house is made of concrete blocks."
+},
+{
+"en": "cement",
+"uk": "цемент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The workers mixed the cement with sand and water."
+},
+{
+"en": "primer",
+"uk": "праймер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Paint the wall with primer first."
+},
+{
+"en": "adhesive",
+"uk": "адгезив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Use a strong adhesive to fix the broken mug."
+},
+{
+"en": "siding",
+"uk": "сайдинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The house has white vinyl siding and a red door."
+},
+{
+"en": "vibrator",
+"uk": "вібратор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Workers used a concrete vibrator to remove air bubbles."
+}
+]
+},
+{
+"id": "c048",
+"part": "p06",
+"title": "A winter blackout",
+"scene": "In January the power goes out in the whole building. The family turns on the generator, which gives a loud beep, lights a kerosene lamp and wraps up in a quilt while the boiler and the radiator get cold; the smoke detector goes off because of the lamp.",
+"anchors": [
+"blackout",
+"generator",
+"beep",
+"kerosene",
+"quilt",
+"boiler",
+"radiator",
+"detector"
+],
+"level": "A2",
+"words": [
+{
+"en": "blackout",
+"uk": "блекаут",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The storm caused a blackout across the city."
+},
+{
+"en": "generator",
+"uk": "генератор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We used a generator when the power went out."
+},
+{
+"en": "beep",
+"uk": "біп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The microwave made a loud beep."
+},
+{
+"en": "kerosene",
+"uk": "керосин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, home",
+"ex": "We use a kerosene lamp when the power goes out."
+},
+{
+"en": "quilt",
+"uk": "квілт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "My grandmother made this quilt by hand."
+},
+{
+"en": "boiler",
+"uk": "бойлер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The boiler broke, so we had no hot water."
+},
+{
+"en": "radiator",
+"uk": "радіатор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, transport",
+"ex": "The radiator under the window keeps the room warm."
+},
+{
+"en": "detector",
+"uk": "детектор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The smoke detector went off when I burned toast."
+},
+{
+"en": "hypothermia",
+"uk": "гіпотермія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He got hypothermia after falling in the lake."
+}
+]
+}
+]

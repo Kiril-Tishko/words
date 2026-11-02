@@ -1,0 +1,1434 @@
+[
+{
+"id": "c169",
+"part": "p18",
+"title": "Building a website",
+"scene": "Anna wants a website for her podcast. Max buys a domain and hosting on a web server, plans the web design and a redesign of the logo, works on the back end and the interface, checks every pixel in a web browser, explains rendering, post-processing of photos and a real-time chat, makes the router a hub for their devices and shares big files peer-to-peer.",
+"anchors": [
+"domain",
+"hosting",
+"web server",
+"web design",
+"redesign",
+"back end",
+"interface",
+"pixel",
+"web browser",
+"rendering",
+"post-processing",
+"real-time"
+],
+"level": "B1",
+"words": [
+{
+"en": "domain",
+"uk": "домен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We bought a domain for our new website."
+},
+{
+"en": "hosting",
+"uk": "хостинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We pay for website hosting every year."
+},
+{
+"en": "web server",
+"uk": "вебсервер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our website runs on a fast web server."
+},
+{
+"en": "web design",
+"uk": "вебдизайн",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "She took a course in web design."
+},
+{
+"en": "redesign",
+"uk": "редизайн",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, business",
+"ex": "The website got a complete redesign this year."
+},
+{
+"en": "back end",
+"uk": "бек-енд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He works on the back end of our website."
+},
+{
+"en": "interface",
+"uk": "інтерфейс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The new app has a simple interface."
+},
+{
+"en": "pixel",
+"uk": "піксель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "This photo is 1,000 pixels wide and 600 pixels tall."
+},
+{
+"en": "web browser",
+"uk": "веббраузер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Open the link in your web browser, please."
+},
+{
+"en": "rendering",
+"uk": "рендеринг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The video rendering took three hours on my laptop."
+},
+{
+"en": "post-processing",
+"uk": "постпроцесинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Most of my photo editing happens in post-processing."
+},
+{
+"en": "real-time",
+"uk": "реалтайм",
+"band": "top-10k",
+"pos": "adj",
+"topics": "tech",
+"ex": "The app shows real-time traffic updates for your route."
+}
+]
+},
+{
+"id": "c170",
+"part": "p18",
+"title": "A visit to a data center",
+"scene": "Max's team visits a data center. The admin shows them rows of servers and an old mainframe, explains the cache and the firewall, shows how each batch of data travels on the Internet Protocol, why cloud computing is cheap, how a transmitter works and why the ping is low.",
+"anchors": [
+"data center",
+"admin",
+"server",
+"mainframe",
+"cache",
+"firewall",
+"batch",
+"Internet Protocol",
+"computing",
+"transmitter",
+"ping"
+],
+"level": "B1",
+"words": [
+{
+"en": "data center",
+"uk": "дата-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The company built a new data center in Texas."
+},
+{
+"en": "admin",
+"uk": "адмін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Ask the admin to reset your password."
+},
+{
+"en": "server",
+"uk": "сервер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The server is down, so the site doesn't work."
+},
+{
+"en": "mainframe",
+"uk": "мейнфрейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The bank still uses an old mainframe."
+},
+{
+"en": "cache",
+"uk": "кеш",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Clear your browser cache if the page looks wrong."
+},
+{
+"en": "firewall",
+"uk": "фаєрвол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The firewall blocked the suspicious connection."
+},
+{
+"en": "batch",
+"uk": "батч",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The system processes each batch overnight."
+},
+{
+"en": "Internet Protocol",
+"uk": "інтернет-протокол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Every device online uses the Internet Protocol."
+},
+{
+"en": "computing",
+"uk": "комп'ютинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Cloud computing saves companies a lot of money."
+},
+{
+"en": "transmitter",
+"uk": "трансмітер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The radio transmitter sends signals for miles."
+},
+{
+"en": "ping",
+"uk": "пінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "My ping is too high to play online."
+}
+]
+},
+{
+"id": "c171",
+"part": "p18",
+"title": "Anna's data science course",
+"scene": "Anna takes a data science course. She learns how an algorithm finds a cluster in big data and a dataset, how each parameter and coefficient works, draws a vector, a gradient, parallel lines and a spiral in one quadrant of a graph, and hears that in high tech an android may soon do this work.",
+"anchors": [
+"data science",
+"algorithm",
+"cluster",
+"big data",
+"dataset",
+"parameter",
+"coefficient",
+"vector",
+"gradient",
+"parallel",
+"spiral",
+"quadrant"
+],
+"level": "B1",
+"words": [
+{
+"en": "data science",
+"uk": "дата-сайнс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science, tech",
+"ex": "She wants to study data science at the university."
+},
+{
+"en": "algorithm",
+"uk": "алгоритм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The app uses an algorithm to suggest new songs."
+},
+{
+"en": "cluster",
+"uk": "кластер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The company runs its website on a cluster of servers."
+},
+{
+"en": "big data",
+"uk": "біг-дата",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our company uses big data to understand customers."
+},
+{
+"en": "dataset",
+"uk": "датасет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "We need a bigger dataset for this project."
+},
+{
+"en": "parameter",
+"uk": "параметр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "You can change this parameter in the settings."
+},
+{
+"en": "coefficient",
+"uk": "коефіцієнт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "In 3x, the coefficient is three."
+},
+{
+"en": "vector",
+"uk": "вектор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math, physics",
+"ex": "A vector has both size and direction."
+},
+{
+"en": "gradient",
+"uk": "градієнт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "The background uses a blue-to-purple gradient."
+},
+{
+"en": "parallel",
+"uk": "паралель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "There are clear parallels between these two stories."
+},
+{
+"en": "spiral",
+"uk": "спіраль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Draw a spiral on the paper."
+},
+{
+"en": "quadrant",
+"uk": "квадрант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "math",
+"ex": "Plot the point in the upper right quadrant."
+}
+]
+},
+{
+"id": "c172",
+"part": "p18",
+"title": "A physics lesson",
+"scene": "In physics class Taras learns that everything is made of atoms. The teacher explains electrons, protons and neutrons, light as photons and the tiny quark, sound that cannot travel in a vacuum, plasma in lightning, an impulse and resonance, and shows a magnet.",
+"anchors": [
+"atom",
+"electron",
+"proton",
+"neutron",
+"photon",
+"quark",
+"vacuum",
+"plasma",
+"impulse",
+"resonance",
+"magnet"
+],
+"level": "B1",
+"words": [
+{
+"en": "atom",
+"uk": "атом",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Everything around us is made of atoms."
+},
+{
+"en": "electron",
+"uk": "електрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "An electron has a negative electric charge."
+},
+{
+"en": "proton",
+"uk": "протон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A proton has a positive electric charge."
+},
+{
+"en": "neutron",
+"uk": "нейтрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A neutron has no electric charge."
+},
+{
+"en": "photon",
+"uk": "фотон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A photon is a tiny particle of light."
+},
+{
+"en": "quark",
+"uk": "кварк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A quark is smaller than a proton."
+},
+{
+"en": "vacuum",
+"uk": "вакуум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Sound cannot travel through a vacuum."
+},
+{
+"en": "plasma",
+"uk": "плазма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Lightning is a form of plasma."
+},
+{
+"en": "impulse",
+"uk": "імпульс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "The nerve sends an electrical impulse to the brain."
+},
+{
+"en": "resonance",
+"uk": "резонанс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "The glass broke because of resonance."
+},
+{
+"en": "magnet",
+"uk": "магніт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Put the photo on the fridge with a magnet."
+},
+{
+"en": "stasis",
+"uk": "стазис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "After the factory closed, the town was in stasis for years."
+}
+]
+},
+{
+"id": "c173",
+"part": "p18",
+"title": "Max's science project",
+"scene": "Max helps Taras with a science project about electricity. They measure watts and volts, check the voltage and the ohms, read about henrys and other SI units, make a battery with an electrode, an ion, nickel, cobalt and zinc, and read about a nuclear reactor.",
+"anchors": [
+"watt",
+"volt",
+"voltage",
+"ohm",
+"henry",
+"SI",
+"electrode",
+"ion",
+"nickel",
+"cobalt",
+"zinc",
+"reactor"
+],
+"level": "B1",
+"words": [
+{
+"en": "watt",
+"uk": "ват",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics, units",
+"ex": "This light bulb uses sixty watts."
+},
+{
+"en": "volt",
+"uk": "вольт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics, units",
+"ex": "This small battery gives one and a half volts."
+},
+{
+"en": "voltage",
+"uk": "вольтаж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "Check the voltage before you plug it in."
+},
+{
+"en": "ohm",
+"uk": "ом",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "This resistor has a resistance of one hundred ohms."
+},
+{
+"en": "henry",
+"uk": "генрі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The henry is the unit of inductance."
+},
+{
+"en": "SI",
+"uk": "СІ",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "units",
+"ex": "The meter is the SI unit of length."
+},
+{
+"en": "electrode",
+"uk": "електрод",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, physics",
+"ex": "The nurse placed electrodes on my chest."
+},
+{
+"en": "ion",
+"uk": "іон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "An ion has a positive or negative charge."
+},
+{
+"en": "nickel",
+"uk": "нікель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Nickel is used to make stainless steel."
+},
+{
+"en": "cobalt",
+"uk": "кобальт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Cobalt is used in phone batteries."
+},
+{
+"en": "zinc",
+"uk": "цинк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Zinc helps your body fight colds and infections."
+},
+{
+"en": "reactor",
+"uk": "реактор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "physics",
+"ex": "The nuclear reactor provides power to the city."
+}
+]
+},
+{
+"id": "c174",
+"part": "p18",
+"title": "In the chemistry lab",
+"scene": "Anna's friend works in a chemistry lab. She shows Anna hydrogen, sulfur and neon, explains an oxide, a chloride, a sulfate and an isotope, a polymer, peroxide, ether and graphite, and a chrome machine that studies a meteorite; she says that amphetamine is made in labs too, but it is a dangerous drug.",
+"anchors": [
+"hydrogen",
+"sulfur",
+"neon",
+"oxide",
+"chloride",
+"sulfate",
+"isotope",
+"polymer",
+"peroxide",
+"ether",
+"graphite",
+"meteorite"
+],
+"level": "B1",
+"words": [
+{
+"en": "hydrogen",
+"uk": "гідроген",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Water is made of hydrogen and oxygen."
+},
+{
+"en": "sulfur",
+"uk": "сульфур",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Rotten eggs smell a bit like sulfur."
+},
+{
+"en": "neon",
+"uk": "неон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Neon lights glowed above the bar all night."
+},
+{
+"en": "oxide",
+"uk": "оксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Iron oxide is the red color of rust."
+},
+{
+"en": "chloride",
+"uk": "хлорид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Sodium chloride is ordinary table salt."
+},
+{
+"en": "sulfate",
+"uk": "сульфат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "This shampoo is free of sulfates."
+},
+{
+"en": "isotope",
+"uk": "ізотоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, physics",
+"ex": "Carbon has several isotopes with different numbers of neutrons."
+},
+{
+"en": "polymer",
+"uk": "полімер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Plastic is a type of polymer."
+},
+{
+"en": "peroxide",
+"uk": "пероксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Clean the cut with hydrogen peroxide."
+},
+{
+"en": "ether",
+"uk": "етер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Doctors once used ether to put patients to sleep."
+},
+{
+"en": "graphite",
+"uk": "графіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Pencil lead is actually made of graphite."
+},
+{
+"en": "meteorite",
+"uk": "метеорит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "A meteorite landed in the field last night."
+},
+{
+"en": "chrome",
+"uk": "хром",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "The old car had shiny chrome bumpers."
+}
+]
+},
+{
+"id": "c175",
+"part": "p18",
+"title": "Chemistry at home",
+"scene": "Anna reads the labels on things at home: silicone baking molds, latex gloves, nitrate and phosphate in fertilizer, ethanol in hand gel, ethylene glycol in the car, an aerosol spray, beta-carotene in carrots, pigment in paint and minerals in water. Dad warns her about carbon monoxide, cyanide and dynamite, and shows her a quartz watch.",
+"anchors": [
+"silicone",
+"latex",
+"nitrate",
+"phosphate",
+"ethanol",
+"ethylene glycol",
+"aerosol",
+"beta-carotene",
+"pigment",
+"mineral",
+"monoxide",
+"cyanide"
+],
+"level": "B1",
+"words": [
+{
+"en": "silicone",
+"uk": "силікон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "These baking molds are made of silicone."
+},
+{
+"en": "latex",
+"uk": "латекс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Some people are allergic to latex gloves."
+},
+{
+"en": "nitrate",
+"uk": "нітрат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Too much nitrate in water can be harmful."
+},
+{
+"en": "phosphate",
+"uk": "фосфат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Phosphate helps plants grow strong roots."
+},
+{
+"en": "ethanol",
+"uk": "етанол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Many cars can run on fuel with ethanol."
+},
+{
+"en": "ethylene glycol",
+"uk": "етиленгліколь",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Ethylene glycol is the main part of antifreeze."
+},
+{
+"en": "aerosol",
+"uk": "аерозоль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Don't use aerosol sprays near an open flame."
+},
+{
+"en": "beta-carotene",
+"uk": "бета-каротин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Carrots and pumpkins are rich in beta-carotene."
+},
+{
+"en": "pigment",
+"uk": "пігмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The paint gets its color from pigment."
+},
+{
+"en": "mineral",
+"uk": "мінерал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "Milk is rich in minerals like calcium."
+},
+{
+"en": "monoxide",
+"uk": "моноксид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Carbon monoxide has no color and no smell."
+},
+{
+"en": "cyanide",
+"uk": "ціанід",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Cyanide is a very dangerous poison."
+}
+]
+},
+{
+"id": "c176",
+"part": "p18",
+"title": "A night at the observatory",
+"scene": "Anna and Max visit an observatory. Through a telescope they see a bright object, an asteroid and a meteor; an astronaut talks about the cosmos, its genesis, a lander on Mars and neutrinos from the sun, and a guide explains the zenith and the zodiac.",
+"anchors": [
+"telescope",
+"object",
+"asteroid",
+"meteor",
+"astronaut",
+"cosmos",
+"genesis",
+"lander",
+"neutrino",
+"zenith",
+"zodiac"
+],
+"level": "B1",
+"words": [
+{
+"en": "telescope",
+"uk": "телескоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "We looked at the moon through a telescope."
+},
+{
+"en": "object",
+"uk": "об'єкт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "I saw a strange bright object in the sky."
+},
+{
+"en": "asteroid",
+"uk": "астероїд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "A small asteroid passed close to Earth last night."
+},
+{
+"en": "meteor",
+"uk": "метеор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "We watched a meteor cross the night sky."
+},
+{
+"en": "astronaut",
+"uk": "астронавт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, science",
+"ex": "The astronaut spent six months in space."
+},
+{
+"en": "cosmos",
+"uk": "космос",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The stars fill the vast cosmos."
+},
+{
+"en": "genesis",
+"uk": "генезис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Scientists study the genesis of the universe."
+},
+{
+"en": "lander",
+"uk": "ландер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The lander touched down safely on the surface of Mars."
+},
+{
+"en": "neutrino",
+"uk": "нейтрино",
+"band": "top-20k",
+"pos": "noun",
+"topics": "physics",
+"ex": "A neutrino can pass right through the whole Earth."
+},
+{
+"en": "zenith",
+"uk": "зеніт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "The sun reached its zenith at noon."
+},
+{
+"en": "zodiac",
+"uk": "зодіак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "There are twelve signs in the zodiac."
+},
+{
+"en": "crater",
+"uk": "кратер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The volcano has a huge crater at the top."
+}
+]
+},
+{
+"id": "c177",
+"part": "p18",
+"title": "Anna's psychology experiment",
+"scene": "For her psychology class Anna runs an experiment. She explains every factor, element and indicator, keeps her focus, talks about ego, a priori ideas and the placebo effect, a paradox and a social construct, a continuum of feelings and stasis, and her professor praises her scientific skepticism.",
+"anchors": [
+"experiment",
+"factor",
+"element",
+"indicator",
+"focus",
+"ego",
+"a priori",
+"placebo effect",
+"paradox",
+"construct",
+"continuum",
+"skepticism"
+],
+"level": "B1",
+"words": [
+{
+"en": "experiment",
+"uk": "експеримент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "We did a fun experiment in class."
+},
+{
+"en": "factor",
+"uk": "фактор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "Price is an important factor for me."
+},
+{
+"en": "element",
+"uk": "елемент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "Trust is an important element of any friendship."
+},
+{
+"en": "indicator",
+"uk": "індикатор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "science",
+"ex": "The color change is an indicator of acid."
+},
+{
+"en": "focus",
+"uk": "фокус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "science",
+"ex": "The photo is out of focus."
+},
+{
+"en": "ego",
+"uk": "его",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "Don't let your ego stop you from asking for help."
+},
+{
+"en": "a priori",
+"uk": "апріорі",
+"band": "top-20k",
+"pos": "adv",
+"topics": "science",
+"ex": "You can't know that a priori; you need to test it."
+},
+{
+"en": "placebo effect",
+"uk": "плацебо-ефект",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The pill had no medicine; it was the placebo effect."
+},
+{
+"en": "paradox",
+"uk": "парадокс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "It's a paradox that more choices make us less happy."
+},
+{
+"en": "construct",
+"uk": "конструкт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Many people say that time is a social construct."
+},
+{
+"en": "continuum",
+"uk": "континуум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Colors form a continuum from light to dark."
+},
+{
+"en": "skepticism",
+"uk": "скептицизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Scientists met the claim with skepticism."
+}
+]
+},
+{
+"id": "c178",
+"part": "p18",
+"title": "Genes and germs",
+"scene": "Anna's aunt works in a biotech lab. She studies the human genome, shows Anna a clone and a mutant fly under the microscope, explains how a microbe makes a toxin and how an enzyme or an inhibitor works, and how scientists fight Ebola and anthrax.",
+"anchors": [
+"biotech",
+"genome",
+"clone",
+"mutant",
+"microscope",
+"microbe",
+"toxin",
+"enzyme",
+"inhibitor",
+"Ebola",
+"anthrax"
+],
+"level": "B1",
+"words": [
+{
+"en": "biotech",
+"uk": "біотех",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "She works for a biotech company near the university."
+},
+{
+"en": "genome",
+"uk": "геном",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Scientists mapped the human genome."
+},
+{
+"en": "clone",
+"uk": "клон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The sheep in the photo is a clone."
+},
+{
+"en": "mutant",
+"uk": "мутант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The movie is about a mutant with special powers."
+},
+{
+"en": "microscope",
+"uk": "мікроскоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "science",
+"ex": "Look at the cells under the microscope."
+},
+{
+"en": "microbe",
+"uk": "мікроб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "Microbes live everywhere, even in our bodies."
+},
+{
+"en": "toxin",
+"uk": "токсин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The liver removes toxins from the body."
+},
+{
+"en": "enzyme",
+"uk": "ензим",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology, chemistry",
+"ex": "Enzymes help the body digest food."
+},
+{
+"en": "inhibitor",
+"uk": "інгібітор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, chemistry",
+"ex": "The new medicine is an inhibitor that slows the virus."
+},
+{
+"en": "Ebola",
+"uk": "Ебола",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Ebola is a very dangerous virus."
+},
+{
+"en": "anthrax",
+"uk": "антракс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Anthrax is a dangerous disease of animals and people."
+},
+{
+"en": "actin",
+"uk": "актин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Actin is a protein that helps muscles move."
+}
+]
+},
+{
+"id": "c179",
+"part": "p18",
+"title": "Brain, mood and hormones",
+"scene": "A lecture at medical school explains the brain: neurons in the cortex, receptors and serotonin, how an antidepressant works, and what happens in mania, paranoia, amnesia and autism. The professor also talks about testosterone and estrogen, the reflex in the knee, the protein actin, every organ, and the placenta in the first trimester.",
+"anchors": [
+"neuron",
+"cortex",
+"receptor",
+"serotonin",
+"antidepressant",
+"mania",
+"paranoia",
+"amnesia",
+"autism",
+"testosterone",
+"estrogen",
+"reflex"
+],
+"level": "B1",
+"words": [
+{
+"en": "neuron",
+"uk": "нейрон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The brain has billions of tiny neurons."
+},
+{
+"en": "cortex",
+"uk": "кортекс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The cortex is the outer layer of the brain."
+},
+{
+"en": "receptor",
+"uk": "рецептор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The drug blocks certain receptors in the brain."
+},
+{
+"en": "serotonin",
+"uk": "серотонін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Serotonin is a brain chemical that affects your mood."
+},
+{
+"en": "antidepressant",
+"uk": "антидепресант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor prescribed an antidepressant."
+},
+{
+"en": "mania",
+"uk": "манія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "During his mania, he barely slept."
+},
+{
+"en": "paranoia",
+"uk": "параноя",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "His paranoia made him trust no one."
+},
+{
+"en": "amnesia",
+"uk": "амнезія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "After the accident, he suffered from amnesia."
+},
+{
+"en": "autism",
+"uk": "аутизм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Her son was diagnosed with autism last year."
+},
+{
+"en": "testosterone",
+"uk": "тестостерон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Testosterone is a male hormone."
+},
+{
+"en": "estrogen",
+"uk": "естроген",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "Estrogen is an important hormone in the female body."
+},
+{
+"en": "reflex",
+"uk": "рефлекс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "The doctor tested the reflex in my knee."
+}
+]
+},
+{
+"id": "c180",
+"part": "p18",
+"title": "Medical school",
+"scene": "Anna's friend Ira studies at medical school. In anatomy class they work with a cadaver and a scalpel and learn about the abdomen, the appendix, the pancreas, the aorta, the digestive tract and the anus; in the hospital she sees triage, anesthesia, a catheter and a muscle spasm, and reads how doctors once used chloroform.",
+"anchors": [
+"cadaver",
+"scalpel",
+"abdomen",
+"appendix",
+"pancreas",
+"aorta",
+"tract",
+"anus",
+"triage",
+"anesthesia",
+"catheter",
+"spasm"
+],
+"level": "B1",
+"words": [
+{
+"en": "cadaver",
+"uk": "кадавр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Medical students study anatomy on a cadaver."
+},
+{
+"en": "scalpel",
+"uk": "скальпель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The surgeon asked for a scalpel."
+},
+{
+"en": "abdomen",
+"uk": "абдомен",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He felt pain in his lower abdomen."
+},
+{
+"en": "appendix",
+"uk": "апендикс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor removed his appendix last year."
+},
+{
+"en": "pancreas",
+"uk": "панкреас",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The pancreas makes insulin to control your blood sugar."
+},
+{
+"en": "aorta",
+"uk": "аорта",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology, medicine",
+"ex": "The aorta is the biggest blood vessel in the body."
+},
+{
+"en": "tract",
+"uk": "тракт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The digestive tract is about nine meters long."
+},
+{
+"en": "anus",
+"uk": "анус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor examined the patient's anus."
+},
+{
+"en": "triage",
+"uk": "тріаж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "In the emergency room, triage decides who goes first."
+},
+{
+"en": "anesthesia",
+"uk": "анестезія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The surgery was done under general anesthesia."
+},
+{
+"en": "catheter",
+"uk": "катетер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The nurse put in a catheter after surgery."
+},
+{
+"en": "spasm",
+"uk": "спазм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He felt a sharp spasm in his back."
+},
+{
+"en": "organ",
+"uk": "орган",
+"band": "top-5000",
+"pos": "noun",
+"topics": "biology",
+"ex": "I want to be an organ donor."
+}
+]
+}
+]

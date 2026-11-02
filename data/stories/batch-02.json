@@ -1,0 +1,1321 @@
+[
+{
+"id": "c025",
+"part": "p03",
+"title": "A parcel for Max",
+"scene": "Max loves online shopping. He finds headphones in the catalog of a site, uses a coupon, checks the status of his order and meets the courier, but the product has a defect and looks like a fake, so he sells it on a marketplace.",
+"anchors": [
+"online shopping",
+"catalog",
+"site",
+"coupon",
+"status",
+"courier",
+"product",
+"defect",
+"fake",
+"marketplace"
+],
+"level": "A2",
+"words": [
+{
+"en": "online shopping",
+"uk": "онлайн-шопінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "I do a lot of online shopping."
+},
+{
+"en": "catalog",
+"uk": "каталог",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "I ordered shoes from a catalog."
+},
+{
+"en": "site",
+"uk": "сайт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "tech",
+"ex": "I buy shoes on this site."
+},
+{
+"en": "coupon",
+"uk": "купон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "I used a coupon to save five dollars."
+},
+{
+"en": "status",
+"uk": "статус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "Check the status of your order online."
+},
+{
+"en": "courier",
+"uk": "кур'єр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "A courier brought the package this morning."
+},
+{
+"en": "product",
+"uk": "продукт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "This is a new product."
+},
+{
+"en": "defect",
+"uk": "дефект",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The phone had a defect, so I took it back."
+},
+{
+"en": "fake",
+"uk": "фейк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "Don't buy that bag, it's a fake."
+},
+{
+"en": "marketplace",
+"uk": "маркетплейс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, tech",
+"ex": "I sold my old bike on an online marketplace."
+}
+]
+},
+{
+"id": "c026",
+"part": "p03",
+"title": "Sofia's first fashion show",
+"scene": "Max's sister Sofia studies to be a fashion designer and shows her first collection at a fashion show. Supermodels wear her couture - a corset, a cape, jackets in cashmere, tweed, flannel and khaki - and she explains why she likes natural material and textile, not nylon or polyester.",
+"anchors": [
+"fashion designer",
+"fashion show",
+"supermodel",
+"couture",
+"corset",
+"cape",
+"cashmere",
+"tweed",
+"flannel",
+"khaki",
+"material",
+"textile"
+],
+"level": "B1",
+"words": [
+{
+"en": "fashion designer",
+"uk": "фешн-дизайнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, people",
+"ex": "I want to be a fashion designer one day."
+},
+{
+"en": "fashion show",
+"uk": "фешн-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I went to a fashion show in Kyiv last week."
+},
+{
+"en": "supermodel",
+"uk": "супермодель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, people",
+"ex": "The supermodel walked the runway in a red dress."
+},
+{
+"en": "couture",
+"uk": "кутюр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a couture gown to the gala."
+},
+{
+"en": "corset",
+"uk": "корсет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a tight corset under her dress."
+},
+{
+"en": "cape",
+"uk": "кейп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I bought a warm wool cape for the autumn."
+},
+{
+"en": "cashmere",
+"uk": "кашемір",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She bought a soft cashmere scarf."
+},
+{
+"en": "tweed",
+"uk": "твід",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore an old tweed jacket to the meeting."
+},
+{
+"en": "flannel",
+"uk": "фланель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a warm flannel shirt in the cold."
+},
+{
+"en": "khaki",
+"uk": "хакі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The soldiers were dressed in khaki from head to toe."
+},
+{
+"en": "material",
+"uk": "матеріал",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "This material is soft."
+},
+{
+"en": "textile",
+"uk": "текстиль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The town is famous for its textiles."
+},
+{
+"en": "dandy",
+"uk": "данді",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was a dandy who loved fancy suits."
+}
+]
+},
+{
+"id": "c027",
+"part": "p04",
+"title": "Around Kyiv by metro",
+"scene": "Anna's cousin comes on his first visit to Kyiv, a city of three million people. Anna explains public transport, an inspector checks their tickets in the metro, and the long escalator takes them up to the city center; on the avenue near the park and the monuments a woman says 'Excuse me, mister, you dropped your wallet', and they ask a policeman the way.",
+"anchors": [
+"visitor",
+"visit",
+"million",
+"transport",
+"inspector",
+"metro",
+"escalator",
+"center",
+"avenue",
+"park",
+"monument",
+"policeman"
+],
+"level": "A1",
+"words": [
+{
+"en": "visitor",
+"uk": "візитер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "We had visitors last weekend."
+},
+{
+"en": "visit",
+"uk": "візит",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Thanks for your visit!"
+},
+{
+"en": "million",
+"uk": "мільйон",
+"band": "top-1000",
+"pos": "num",
+"topics": "math",
+"ex": "Kyiv has about three million people."
+},
+{
+"en": "transport",
+"uk": "транспорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Public transport in this city is cheap and fast."
+},
+{
+"en": "inspector",
+"uk": "інспектор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Is the inspector coming today?"
+},
+{
+"en": "metro",
+"uk": "метро",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We took the metro to the museum."
+},
+{
+"en": "escalator",
+"uk": "ескалатор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Take the escalator to the second floor."
+},
+{
+"en": "center",
+"uk": "центр",
+"band": "top-1000",
+"pos": "noun",
+"topics": "places",
+"ex": "The hotel is in the city center."
+},
+{
+"en": "avenue",
+"uk": "авеню",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "The shop is on the main avenue, near the park."
+},
+{
+"en": "park",
+"uk": "парк",
+"band": "top-1000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's go to the park."
+},
+{
+"en": "monument",
+"uk": "монумент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "The monument stands in the city square."
+},
+{
+"en": "policeman",
+"uk": "полісмен",
+"band": "top-5000",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Excuse me, where can I find a policeman?"
+},
+{
+"en": "mister",
+"uk": "містер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, mister, you dropped your wallet."
+}
+]
+},
+{
+"id": "c028",
+"part": "p04",
+"title": "Taxi to the airport",
+"scene": "Anna is flying to a summer course in London. Max helps her put her stuff in a taxi; the driver uses GPS and takes the highway - forty kilometers, thirty minutes max - and stops at the terminal next to the free shuttle buses.",
+"anchors": [
+"max",
+"stuff",
+"taxi",
+"GPS",
+"highway",
+"kilometer",
+"terminal",
+"shuttle"
+],
+"level": "A1",
+"words": [
+{
+"en": "max",
+"uk": "макс",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "math",
+"ex": "The trip takes twenty minutes max by bus."
+},
+{
+"en": "stuff",
+"uk": "стаф",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Put your stuff in the car."
+},
+{
+"en": "taxi",
+"uk": "таксі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Let's take a taxi to the airport."
+},
+{
+"en": "GPS",
+"uk": "джипіес",
+"band": "top-5000",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Turn on the GPS before we leave."
+},
+{
+"en": "highway",
+"uk": "хайвей",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Take the highway to get there faster."
+},
+{
+"en": "kilometer",
+"uk": "кілометр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "The station is two kilometers away."
+},
+{
+"en": "terminal",
+"uk": "термінал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Our flight leaves from Terminal B."
+},
+{
+"en": "shuttle",
+"uk": "шатл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Take the free shuttle to the airport."
+}
+]
+},
+{
+"id": "c029",
+"part": "p04",
+"title": "Anna's first flight",
+"scene": "At the airport there is chaos. Anna's baggage is twenty kilograms, she shows her passport and visa at passport control, buys chocolate at the duty-free and sees a celebrity going into business class; on the aeroplane a steward brings coffee, her bag gets lost in transit, and in London she has jet lag.",
+"anchors": [
+"chaos",
+"baggage",
+"kilogram",
+"passport",
+"visa",
+"control",
+"duty-free",
+"celebrity",
+"aeroplane",
+"steward",
+"transit",
+"jet lag"
+],
+"level": "A2",
+"words": [
+{
+"en": "chaos",
+"uk": "хаос",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "There was total chaos at the airport this morning."
+},
+{
+"en": "baggage",
+"uk": "багаж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Pick up your baggage at carousel three."
+},
+{
+"en": "kilogram",
+"uk": "кілограм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "The bag of rice weighs five kilograms."
+},
+{
+"en": "passport",
+"uk": "паспорт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Don't forget to bring your passport to the airport."
+},
+{
+"en": "visa",
+"uk": "віза",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I need a visa to travel to China."
+},
+{
+"en": "control",
+"uk": "контроль",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Where is passport control?"
+},
+{
+"en": "duty-free",
+"uk": "дьюті-фрі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I bought perfume at the duty-free."
+},
+{
+"en": "celebrity",
+"uk": "селебріті",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "We saw a celebrity at the airport."
+},
+{
+"en": "aeroplane",
+"uk": "аероплан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The aeroplane landed safely in the storm."
+},
+{
+"en": "steward",
+"uk": "стюард",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, travel",
+"ex": "The steward brought us coffee and some cookies."
+},
+{
+"en": "transit",
+"uk": "транзит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Our luggage was lost in transit."
+},
+{
+"en": "jet lag",
+"uk": "джетлаг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I had bad jet lag after flying to Tokyo."
+},
+{
+"en": "hub",
+"uk": "хаб",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech, transport",
+"ex": "The airport is a major travel hub."
+},
+{
+"en": "converter",
+"uk": "конвертор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need a converter for my European charger."
+},
+{
+"en": "business class",
+"uk": "бізнес-клас",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We flew business class to Tokyo last year."
+}
+]
+},
+{
+"id": "c030",
+"part": "p04",
+"title": "Booking a hotel for the weekend",
+"scene": "Max books a cheap hotel in Lviv for the weekend; the booking says four people maximum and a fee for a no-show. At reception the check-in is quick, they get the Wi-Fi password, find their room at the end of the corridor and hear that check-out is at eleven.",
+"anchors": [
+"hotel",
+"booking",
+"maximum",
+"no-show",
+"reception",
+"check-in",
+"Wi-Fi",
+"corridor",
+"check-out"
+],
+"level": "A1",
+"words": [
+{
+"en": "hotel",
+"uk": "готель",
+"band": "top-1000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Is there a hotel near here?"
+},
+{
+"en": "booking",
+"uk": "букінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "I made a booking at the hotel for Friday."
+},
+{
+"en": "maximum",
+"uk": "максимум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The maximum for this room is ten people."
+},
+{
+"en": "no-show",
+"uk": "ноу-шоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, travel",
+"ex": "The hotel charges a fee for no-shows."
+},
+{
+"en": "reception",
+"uk": "рісепшн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "Leave your keys at the reception."
+},
+{
+"en": "check-in",
+"uk": "чек-ін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Hotel check-in starts at three o'clock."
+},
+{
+"en": "Wi-Fi",
+"uk": "вай-фай",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Excuse me, what is the Wi-Fi password?"
+},
+{
+"en": "corridor",
+"uk": "коридор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "The bathroom is at the end of the corridor."
+},
+{
+"en": "check-out",
+"uk": "чек-аут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Check-out is at eleven in the morning."
+},
+{
+"en": "deluxe",
+"uk": "делюкс",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "We stayed in a deluxe room with an ocean view."
+},
+{
+"en": "adapter",
+"uk": "адаптер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "I need a power adapter for my trip to Europe."
+}
+]
+},
+{
+"id": "c031",
+"part": "p04",
+"title": "A night in a luxury hotel",
+"scene": "Anna wins a night in a luxury hotel in a competition. The concierge meets her in the foyer, her room has a king-size bed and a jacuzzi, she tries the spa and the sauna, and orders breakfast from room service.",
+"anchors": [
+"luxury",
+"concierge",
+"foyer",
+"king-size",
+"jacuzzi",
+"spa",
+"sauna",
+"room service"
+],
+"level": "A2",
+"words": [
+{
+"en": "luxury",
+"uk": "лакшері",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "We stayed in a luxury hotel by the sea."
+},
+{
+"en": "concierge",
+"uk": "консьєрж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, travel",
+"ex": "Ask the concierge to book a taxi."
+},
+{
+"en": "foyer",
+"uk": "фоє",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "Please wait for me in the hotel foyer."
+},
+{
+"en": "king-size",
+"uk": "кінг-сайз",
+"band": "top-10k",
+"pos": "adj",
+"topics": "home",
+"ex": "We need new sheets for our king-size bed."
+},
+{
+"en": "jacuzzi",
+"uk": "джакузі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The hotel has a jacuzzi on the roof."
+},
+{
+"en": "spa",
+"uk": "спа",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "We spent the weekend at a spa."
+},
+{
+"en": "sauna",
+"uk": "сауна",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "I relax in the sauna after the gym."
+},
+{
+"en": "room service",
+"uk": "рум-сервіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We ordered room service for breakfast."
+},
+{
+"en": "massage",
+"uk": "масаж",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I got a back massage after work."
+}
+]
+},
+{
+"id": "c032",
+"part": "p04",
+"title": "Max's new scooter",
+"scene": "Max buys an electric scooter to get to college faster. On the smooth asphalt by the river he races a biker, forgets the speed limit in a tunnel and nearly hits a bicycle with a red reflector; the cyclist stops pedaling, and the incident ends with a shout.",
+"anchors": [
+"scooter",
+"asphalt",
+"biker",
+"limit",
+"tunnel",
+"bicycle",
+"reflector",
+"pedal",
+"incident"
+],
+"level": "A2",
+"words": [
+{
+"en": "scooter",
+"uk": "скутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He rides his scooter to work every day."
+},
+{
+"en": "asphalt",
+"uk": "асфальт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The road is covered with fresh asphalt."
+},
+{
+"en": "biker",
+"uk": "байкер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, transport",
+"ex": "A biker rode past us on a loud motorcycle."
+},
+{
+"en": "limit",
+"uk": "ліміт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The speed limit here is fifty kilometers per hour."
+},
+{
+"en": "tunnel",
+"uk": "тунель",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "Is there a tunnel under the river?"
+},
+{
+"en": "bicycle",
+"uk": "біцикл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "I ride my bicycle to work every day."
+},
+{
+"en": "reflector",
+"uk": "рефлектор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The bike has a red reflector on the back."
+},
+{
+"en": "pedal",
+"uk": "педаль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Press the brake pedal gently at the light."
+},
+{
+"en": "incident",
+"uk": "інцидент",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "There was an incident on the bus today."
+}
+]
+},
+{
+"id": "c033",
+"part": "p04",
+"title": "Dad buys a car",
+"scene": "Anna's dad is a car enthusiast who watches every grand prix and wants a new automobile for the family. At the dealer's showroom he looks at a supercar and a limousine, but chooses between a sedan and a diesel minivan, takes a test drive and asks about leasing; Anna's driving instructor comes too.",
+"anchors": [
+"enthusiast",
+"automobile",
+"dealer",
+"showroom",
+"supercar",
+"limousine",
+"sedan",
+"diesel",
+"minivan",
+"test drive",
+"leasing",
+"instructor"
+],
+"level": "A2",
+"words": [
+{
+"en": "enthusiast",
+"uk": "ентузіаст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is a big car enthusiast."
+},
+{
+"en": "automobile",
+"uk": "автомобіль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The automobile changed the way people live."
+},
+{
+"en": "dealer",
+"uk": "дилер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business",
+"ex": "I bought my car from a local dealer."
+},
+{
+"en": "showroom",
+"uk": "шоурум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, places",
+"ex": "We visited the car showroom on Saturday."
+},
+{
+"en": "supercar",
+"uk": "суперкар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He saved for years to buy a supercar."
+},
+{
+"en": "limousine",
+"uk": "лімузин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "They rode to the prom in a limousine."
+},
+{
+"en": "sedan",
+"uk": "седан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He drives a gray four-door sedan."
+},
+{
+"en": "diesel",
+"uk": "дизель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Does this truck run on diesel or gas?"
+},
+{
+"en": "minivan",
+"uk": "мінівен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We drove the minivan to the beach."
+},
+{
+"en": "test drive",
+"uk": "тест-драйв",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "I took the car for a test drive yesterday."
+},
+{
+"en": "leasing",
+"uk": "лізинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "Leasing a car can cost less each month than buying."
+},
+{
+"en": "instructor",
+"uk": "інструктор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "My driving instructor is very patient."
+},
+{
+"en": "grand prix",
+"uk": "гран-прі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Thousands of fans came to watch the grand prix."
+}
+]
+},
+{
+"id": "c034",
+"part": "p04",
+"title": "The car breaks down",
+"scene": "On the way to the dacha Dad presses the accelerator, but the motor stops. A mechanic from an auto repair shop takes the car to his garage, uses a loud air compressor, cleans the carburetor, checks the chassis and fixes the bumper.",
+"anchors": [
+"accelerator",
+"motor",
+"mechanic",
+"auto",
+"garage",
+"compressor",
+"carburetor",
+"chassis",
+"bumper"
+],
+"level": "A2",
+"words": [
+{
+"en": "accelerator",
+"uk": "акселератор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Press the accelerator gently when the light turns green."
+},
+{
+"en": "motor",
+"uk": "мотор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "transport",
+"ex": "The boat has a small motor at the back."
+},
+{
+"en": "mechanic",
+"uk": "механік",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, transport",
+"ex": "The mechanic fixed my car in two hours."
+},
+{
+"en": "auto",
+"uk": "авто",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He works in an auto repair shop."
+},
+{
+"en": "garage",
+"uk": "гараж",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "I park my car in the garage at night."
+},
+{
+"en": "compressor",
+"uk": "компресор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The air compressor is very loud."
+},
+{
+"en": "carburetor",
+"uk": "карбюратор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The mechanic cleaned the carburetor, and now the car starts."
+},
+{
+"en": "chassis",
+"uk": "шасі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The car's chassis was badly damaged."
+},
+{
+"en": "bumper",
+"uk": "бампер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "Someone hit my car's back bumper."
+}
+]
+},
+{
+"id": "c035",
+"part": "p04",
+"title": "A road trip",
+"scene": "In summer Max and his cousin go on a road trip in America in a camper and an old jeep with a turbo. They drive off-road with the phone in a holder for the map, pay four dollars a gallon, follow a pickup to a cheap motel and eat cheeseburgers, and the cousin tries bourbon.",
+"anchors": [
+"road trip",
+"camper",
+"jeep",
+"turbo",
+"off-road",
+"holder",
+"gallon",
+"pickup",
+"motel",
+"cheeseburger",
+"bourbon"
+],
+"level": "A2",
+"words": [
+{
+"en": "road trip",
+"uk": "роуд-трип",
+"band": "top-20k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We went on a road trip across the country."
+},
+{
+"en": "camper",
+"uk": "кемпер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport, travel",
+"ex": "We drove a camper across the country."
+},
+{
+"en": "jeep",
+"uk": "джип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "We drove an old jeep through the desert."
+},
+{
+"en": "turbo",
+"uk": "турбо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The car has a turbo for extra power."
+},
+{
+"en": "off-road",
+"uk": "офроуд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "transport",
+"ex": "We rented an off-road vehicle for the trip."
+},
+{
+"en": "holder",
+"uk": "холдер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "I need a phone holder for my car."
+},
+{
+"en": "gallon",
+"uk": "галон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Gas costs four dollars a gallon."
+},
+{
+"en": "pickup",
+"uk": "пікап",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "He drives an old pickup to work every day."
+},
+{
+"en": "motel",
+"uk": "мотель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "We stayed at a cheap motel on the highway."
+},
+{
+"en": "cheeseburger",
+"uk": "чизбургер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ordered a cheeseburger and fries."
+},
+{
+"en": "bourbon",
+"uk": "бурбон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a bourbon with ice at the bar."
+}
+]
+},
+{
+"id": "c036",
+"part": "p04",
+"title": "Planning a summer trip",
+"scene": "Anna and Max want a trip in August. At a travel bureau an agent from a tour operator shows them low-cost and nonstop flights, a cheap charter and a bus tour with a guide; she says tourism is booming and every tourist wants to go to the sea.",
+"anchors": [
+"trip",
+"bureau",
+"agent",
+"tour operator",
+"tour",
+"low-cost",
+"nonstop",
+"charter",
+"guide",
+"tourism",
+"tourist"
+],
+"level": "A1",
+"words": [
+{
+"en": "trip",
+"uk": "тріп",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "How was your trip to the mountains?"
+},
+{
+"en": "bureau",
+"uk": "бюро",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "I asked at the travel bureau about cheap tours."
+},
+{
+"en": "agent",
+"uk": "агент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Call the travel agent, please."
+},
+{
+"en": "tour operator",
+"uk": "туроператор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, travel",
+"ex": "We booked our trip through a local tour operator."
+},
+{
+"en": "tour",
+"uk": "тур",
+"band": "top-2000",
+"pos": "noun",
+"topics": "travel",
+"ex": "We took a bus tour of the city."
+},
+{
+"en": "low-cost",
+"uk": "лоукост",
+"band": "top-10k",
+"pos": "adj",
+"topics": "business, travel",
+"ex": "We flew to Spain with a low-cost airline."
+},
+{
+"en": "nonstop",
+"uk": "нон-стоп",
+"band": "top-20k",
+"pos": "adv",
+"topics": "time, travel",
+"ex": "We flew nonstop from New York to Paris."
+},
+{
+"en": "charter",
+"uk": "чартер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport, travel",
+"ex": "We flew to Turkey on a cheap charter."
+},
+{
+"en": "guide",
+"uk": "гід",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Our tour guide spoke three languages."
+},
+{
+"en": "tourism",
+"uk": "туризм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "travel",
+"ex": "Tourism is important for the local economy."
+},
+{
+"en": "tourist",
+"uk": "турист",
+"band": "top-5000",
+"pos": "noun",
+"topics": "travel",
+"ex": "Kyiv is full of tourists in the summer."
+},
+{
+"en": "voucher",
+"uk": "ваучер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "I got a fifty-dollar voucher for the store."
+}
+]
+}
+]

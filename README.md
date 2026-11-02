@@ -13,7 +13,7 @@ Open `index.html` in a browser. It works offline, and on any static host such as
 - **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
 
 ### Stories
-The **Stories** tab groups the most useful words (Top 1000 to Top 20K) into short scenes.
+The **Stories** tab groups the 2,284 most useful words (Top 1000 to Top 20K, plus all exclamations) into 200 short scenes in 20 parts.
 - **The grouping:** a linguist designed parts that run like a course: first words, café, shopping, travel, work, home, health, sport, media, the wider world. Each part is split into chapters. Each chapter is one scene with Anna, a student in Kyiv, and her friend Max (`docs/review/grouping.md`).
 - **The story:** each chapter has a short, simple English story that uses its words in order. Click a word to hear it and see its card. The cards follow in the same order, and **Train these words** drills the chapter.
 - **Exclamations:** wow, oops, hmm, bravo, ciao, meow and the like have their own part at the end, with short dialogues.

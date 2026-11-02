@@ -1,0 +1,1291 @@
+[
+{
+"id": "c049",
+"part": "p06",
+"title": "Cleaning day",
+"scene": "It is Saturday, and Max's flat is a mess, so he hires a cleaner and turns on his robot vacuum. They put plastic in the recycling and food scraps in the compost, keep leftovers in a container, run the washing machine on a short cycle with detergent, fill the soap dispenser, change the coffee filter, use a spray on the windows and test the fire alarm.",
+"anchors": [
+"cleaner",
+"robot",
+"plastic",
+"recycling",
+"compost",
+"container",
+"cycle",
+"detergent",
+"dispenser",
+"filter",
+"spray",
+"alarm"
+],
+"level": "A2",
+"words": [
+{
+"en": "cleaner",
+"uk": "клінер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "We hired a cleaner to come twice a week."
+},
+{
+"en": "robot",
+"uk": "робот",
+"band": "top-3000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our robot cleans the floor every day."
+},
+{
+"en": "plastic",
+"uk": "пластик",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "This toy is made of plastic."
+},
+{
+"en": "recycling",
+"uk": "рециклінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our city has a good recycling program for plastic."
+},
+{
+"en": "compost",
+"uk": "компост",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, nature",
+"ex": "We put food scraps in the compost."
+},
+{
+"en": "container",
+"uk": "контейнер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "home, transport",
+"ex": "Put the leftovers in a plastic container."
+},
+{
+"en": "cycle",
+"uk": "цикл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "I always use the short cycle for my shirts."
+},
+{
+"en": "detergent",
+"uk": "детергент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Add a cup of detergent to the washing machine."
+},
+{
+"en": "dispenser",
+"uk": "диспенсер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "The soap dispenser in the bathroom is empty."
+},
+{
+"en": "filter",
+"uk": "фільтр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "The coffee filters are in the top drawer."
+},
+{
+"en": "spray",
+"uk": "спрей",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "Use bug spray before you go camping."
+},
+{
+"en": "alarm",
+"uk": "аларм",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "The fire alarm is very loud in our building."
+}
+]
+},
+{
+"id": "c050",
+"part": "p06",
+"title": "A weekend at the dacha",
+"scene": "Grandma's cottage at the dacha has a veranda, a hammock and a garden with a funny gnome. Grandma buys seeds at the garden center, sprays insecticide on her dahlias, irises and azaleas, the jasmine and the magnolia smell sweet, Anna turns on the sprinkler, and they play badminton.",
+"anchors": [
+"cottage",
+"veranda",
+"hammock",
+"gnome",
+"garden center",
+"insecticide",
+"dahlia",
+"iris",
+"azalea",
+"jasmine",
+"magnolia",
+"sprinkler"
+],
+"level": "A2",
+"words": [
+{
+"en": "cottage",
+"uk": "котедж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "We rented a small cottage by the lake."
+},
+{
+"en": "veranda",
+"uk": "веранда",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "We drank tea on the veranda after dinner."
+},
+{
+"en": "hammock",
+"uk": "гамак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, travel",
+"ex": "He fell asleep in the hammock."
+},
+{
+"en": "gnome",
+"uk": "гном",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "There is a garden gnome next to the door."
+},
+{
+"en": "garden center",
+"uk": "гарден-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature, places",
+"ex": "We buy flowers and seeds at the garden center."
+},
+{
+"en": "insecticide",
+"uk": "інсектицид",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We sprayed insecticide on the roses in the garden."
+},
+{
+"en": "dahlia",
+"uk": "далія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "She grows dahlias in her garden every year."
+},
+{
+"en": "iris",
+"uk": "ірис",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "An iris grows next to our front door."
+},
+{
+"en": "azalea",
+"uk": "азалія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The azaleas bloomed in the spring."
+},
+{
+"en": "jasmine",
+"uk": "жасмин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The garden smells of jasmine in the evening."
+},
+{
+"en": "magnolia",
+"uk": "магнолія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The magnolia in our yard is blooming again."
+},
+{
+"en": "sprinkler",
+"uk": "спринклер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "Turn on the sprinkler to water the lawn."
+}
+]
+},
+{
+"id": "c051",
+"part": "p06",
+"title": "Taras wants a pet",
+"scene": "Taras wants a pet. At the pet shop they look at an aquarium with koi and a green iguana, and at a chihuahua, a terrier and a poodle with a microchip; the seller explains each dog's temperament.",
+"anchors": [
+"pet shop",
+"aquarium",
+"koi",
+"iguana",
+"chihuahua",
+"terrier",
+"poodle",
+"microchip",
+"temperament"
+],
+"level": "A2",
+"words": [
+{
+"en": "pet shop",
+"uk": "пет-шоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We buy food for our cat at the pet shop."
+},
+{
+"en": "aquarium",
+"uk": "акваріум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home, places",
+"ex": "We have a fish aquarium in the living room."
+},
+{
+"en": "koi",
+"uk": "кої",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The garden pond is full of koi."
+},
+{
+"en": "iguana",
+"uk": "ігуана",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "My brother keeps a green iguana as a pet."
+},
+{
+"en": "chihuahua",
+"uk": "чихуахуа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Her chihuahua fits in her bag."
+},
+{
+"en": "terrier",
+"uk": "тер'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our terrier barks at every car that drives past."
+},
+{
+"en": "poodle",
+"uk": "пудель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Our neighbor walks her white poodle every morning."
+},
+{
+"en": "microchip",
+"uk": "мікрочип",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our cat has a microchip with our phone number."
+},
+{
+"en": "temperament",
+"uk": "темперамент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions, people",
+"ex": "She has a calm temperament and rarely gets angry."
+}
+]
+},
+{
+"id": "c052",
+"part": "p06",
+"title": "Games night at Grandma's",
+"scene": "On Friday the family plays games at Grandma's: a big puzzle, a crossword, bingo, mahjong and ping-pong in the basement. Grandpa always has the joker, plays a clever gambit and wins every chess endgame, and Grandma reads tarot cards and everyone's horoscope.",
+"anchors": [
+"puzzle",
+"crossword",
+"bingo",
+"mahjong",
+"ping-pong",
+"joker",
+"gambit",
+"endgame",
+"tarot",
+"horoscope"
+],
+"level": "A2",
+"words": [
+{
+"en": "puzzle",
+"uk": "пазл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "We spent the evening doing a big jigsaw puzzle."
+},
+{
+"en": "crossword",
+"uk": "кросворд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "My dad does the crossword every Sunday morning."
+},
+{
+"en": "bingo",
+"uk": "бінго",
+"band": "top-10k",
+"pos": "noun",
+"topics": "games",
+"ex": "My grandmother plays bingo every Thursday."
+},
+{
+"en": "mahjong",
+"uk": "маджонг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "My grandma plays mahjong with friends."
+},
+{
+"en": "ping-pong",
+"uk": "пінг-понг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, sport",
+"ex": "We played ping-pong in the basement."
+},
+{
+"en": "joker",
+"uk": "джокер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "In this game, the joker can replace any card."
+},
+{
+"en": "gambit",
+"uk": "гамбіт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "She opened the chess game with a bold gambit."
+},
+{
+"en": "endgame",
+"uk": "ендгейм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "He played the endgame very well and won."
+},
+{
+"en": "tarot",
+"uk": "таро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games",
+"ex": "She reads tarot cards for her friends."
+},
+{
+"en": "horoscope",
+"uk": "гороскоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She reads her horoscope every morning with coffee."
+}
+]
+},
+{
+"id": "c053",
+"part": "p06",
+"title": "Anna babysits",
+"scene": "Anna babysits the neighbors' kids. They plan activities: the kids dress up as a pirate and an angel, are afraid of monsters and zombies, play with stickers and glitter, ride the carousel, and at a birthday party a clown brings a pony.",
+"anchors": [
+"babysitter",
+"activity",
+"pirate",
+"angel",
+"monster",
+"zombie",
+"sticker",
+"glitter",
+"carousel",
+"clown",
+"pony"
+],
+"level": "A2",
+"words": [
+{
+"en": "babysitter",
+"uk": "бебі-ситер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "We hired a babysitter for Saturday night."
+},
+{
+"en": "activity",
+"uk": "актівіті",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "We have many activities for kids."
+},
+{
+"en": "pirate",
+"uk": "пірат",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "My son wants to dress up as a pirate."
+},
+{
+"en": "angel",
+"uk": "ангел",
+"band": "top-2000",
+"pos": "noun",
+"topics": "religion",
+"ex": "My little girl is an angel."
+},
+{
+"en": "monster",
+"uk": "монстр",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "My son is afraid of monsters."
+},
+{
+"en": "zombie",
+"uk": "зомбі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "Do you like watching zombie movies at night?"
+},
+{
+"en": "sticker",
+"uk": "стикер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "My daughter put stickers on her notebook."
+},
+{
+"en": "glitter",
+"uk": "глітер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The kids used glitter on their cards."
+},
+{
+"en": "carousel",
+"uk": "карусель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The kids rode the carousel at the fair."
+},
+{
+"en": "clown",
+"uk": "клоун",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "We hired a clown for her birthday party."
+},
+{
+"en": "pony",
+"uk": "поні",
+"band": "top-10k",
+"pos": "noun",
+"topics": "nature",
+"ex": "The kids rode a pony at the farm."
+},
+{
+"en": "collage",
+"uk": "колаж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "The kids made a collage from old magazines."
+},
+{
+"en": "boy scout",
+"uk": "бойскаут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My son became a boy scout this year."
+}
+]
+},
+{
+"id": "c054",
+"part": "p06",
+"title": "Max on a dating app",
+"scene": "Max is single and tries a dating app. He updates his profile, writes about sex and love, has a crush on a sexy girl from his gym, plans a rendezvous, sees his ex, a narcissist, on the app and learns what a red flag is - he still dreams of a real love story.",
+"anchors": [
+"dating",
+"profile",
+"sex",
+"crush",
+"sexy",
+"rendezvous",
+"ex",
+"narcissist",
+"red flag",
+"love story"
+],
+"level": "A2",
+"words": [
+{
+"en": "dating",
+"uk": "дейтинг",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Do you use a dating app?"
+},
+{
+"en": "profile",
+"uk": "профіль",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "Update your profile with a new photo."
+},
+{
+"en": "sex",
+"uk": "секс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "They talk about sex."
+},
+{
+"en": "crush",
+"uk": "краш",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "She has a crush on her classmate."
+},
+{
+"en": "sexy",
+"uk": "сексі",
+"band": "top-3000",
+"pos": "adj",
+"topics": "people",
+"ex": "Do you think this dress is too sexy?"
+},
+{
+"en": "rendezvous",
+"uk": "рандеву",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "We planned a rendezvous at the old bridge."
+},
+{
+"en": "ex",
+"uk": "екс",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "I saw my ex at the store today."
+},
+{
+"en": "narcissist",
+"uk": "нарцисист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Her ex-boyfriend was a narcissist who never listened."
+},
+{
+"en": "red flag",
+"uk": "редфлег",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "Asking for money right away is a big red flag."
+},
+{
+"en": "love story",
+"uk": "лав-сторі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions, media",
+"ex": "Their love story started at a small coffee shop."
+},
+{
+"en": "fetish",
+"uk": "фетиш",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "In some old religions, a fetish was a holy object."
+}
+]
+},
+{
+"id": "c055",
+"part": "p06",
+"title": "Sofia's coming out",
+"scene": "Max's sister Sofia tells the family about her coming out: she is queer and introduces her partner. Grandma asks questions about gender and LGBT people, the family talks about stereotypes and taboos, and they learn to show respect.",
+"anchors": [
+"coming out",
+"queer",
+"partner",
+"gender",
+"LGBT",
+"stereotype",
+"taboo",
+"respect"
+],
+"level": "B1",
+"words": [
+{
+"en": "coming out",
+"uk": "камінг-аут",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Her coming out surprised no one in her family."
+},
+{
+"en": "queer",
+"uk": "квір",
+"band": "top-10k",
+"pos": "adj",
+"topics": "people",
+"ex": "The film tells the story of a queer teenager."
+},
+{
+"en": "partner",
+"uk": "партнер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "business, people",
+"ex": "I live with my partner."
+},
+{
+"en": "gender",
+"uk": "гендер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Please write your name, age, and gender."
+},
+{
+"en": "LGBT",
+"uk": "ЛГБТ",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "politics",
+"ex": "The city holds an LGBT pride parade every June."
+},
+{
+"en": "stereotype",
+"uk": "стереотип",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "That joke is based on an old stereotype."
+},
+{
+"en": "taboo",
+"uk": "табу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Talking about money is a taboo in some families."
+},
+{
+"en": "respect",
+"uk": "респект",
+"band": "top-2000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "Children should show respect to their teachers."
+}
+]
+},
+{
+"id": "c056",
+"part": "p06",
+"title": "Cousin Olya's wedding",
+"scene": "Anna's cousin Olya gets married. An event coordinator plans the banquet and the catering, the bride wears a tiara, a guest films everything with a video camera, the groom's Scottish friend in a kilt makes a speech and acts like a buffoon, and a DJ plays a waltz; Grandma remembers the big parties for the new millennium, and Olya says she will remember this day forever.",
+"anchors": [
+"coordinator",
+"banquet",
+"catering",
+"tiara",
+"video camera",
+"kilt",
+"speech",
+"buffoon",
+"DJ",
+"waltz",
+"millennium",
+"forever"
+],
+"level": "A2",
+"words": [
+{
+"en": "coordinator",
+"uk": "координатор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "She works as an event coordinator at a hotel."
+},
+{
+"en": "banquet",
+"uk": "бенкет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "The hotel hosted a big wedding banquet."
+},
+{
+"en": "catering",
+"uk": "кейтеринг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, food",
+"ex": "The catering at the wedding was excellent."
+},
+{
+"en": "tiara",
+"uk": "тіара",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The bride wore a small silver tiara."
+},
+{
+"en": "video camera",
+"uk": "відеокамера",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "He filmed the wedding with a video camera."
+},
+{
+"en": "kilt",
+"uk": "кілт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a kilt to the wedding."
+},
+{
+"en": "speech",
+"uk": "спіч",
+"band": "top-3000",
+"pos": "noun",
+"topics": "language",
+"ex": "I have to make a speech tomorrow."
+},
+{
+"en": "buffoon",
+"uk": "буфон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He acted like a buffoon at the party."
+},
+{
+"en": "DJ",
+"uk": "діджей",
+"band": "top-5000",
+"pos": "noun",
+"topics": "music",
+"ex": "We hired a DJ for our wedding."
+},
+{
+"en": "waltz",
+"uk": "вальс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "music",
+"ex": "They danced a waltz at the wedding."
+},
+{
+"en": "millennium",
+"uk": "міленіум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "time",
+"ex": "People had big parties for the new millennium."
+},
+{
+"en": "forever",
+"uk": "форева",
+"band": "top-2000",
+"pos": "adv",
+"topics": "time",
+"ex": "I will remember this day forever."
+}
+]
+},
+{
+"id": "c057",
+"part": "p07",
+"title": "Max's job interview",
+"scene": "Max applies for a part-time job at an IT company because he wants to become a software engineer. The recruiter and the interviewer ask about his skills and soft skills and every aspect of the job; Max shows his portfolio in a new blazer, and two days later he gets an offer and signs a contract.",
+"anchors": [
+"part-time",
+"software engineer",
+"recruiter",
+"interviewer",
+"skill",
+"soft skill",
+"aspect",
+"portfolio",
+"blazer",
+"offer",
+"contract"
+],
+"level": "A2",
+"words": [
+{
+"en": "part-time",
+"uk": "парттайм",
+"band": "top-5000",
+"pos": "adj",
+"topics": "business",
+"ex": "I have a part-time job at a coffee shop."
+},
+{
+"en": "software engineer",
+"uk": "софтвер-інженер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, tech",
+"ex": "My brother works as a software engineer in Kyiv."
+},
+{
+"en": "recruiter",
+"uk": "рекрутер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "A recruiter called me about a job."
+},
+{
+"en": "interviewer",
+"uk": "інтерв'юер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media, people",
+"ex": "The interviewer asked about my last job."
+},
+{
+"en": "skill",
+"uk": "скіл",
+"band": "top-2000",
+"pos": "noun",
+"topics": "games",
+"ex": "What skills do you need for this job?"
+},
+{
+"en": "soft skill",
+"uk": "софт-скіл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Teamwork is an important soft skill at any job."
+},
+{
+"en": "aspect",
+"uk": "аспект",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "Money is an important aspect of the job."
+},
+{
+"en": "portfolio",
+"uk": "портфоліо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She showed her design portfolio at the job interview."
+},
+{
+"en": "blazer",
+"uk": "блейзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a navy blazer to the interview."
+},
+{
+"en": "offer",
+"uk": "офер",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "I got a job offer today!"
+},
+{
+"en": "contract",
+"uk": "контракт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "Please read the contract before you sign it."
+}
+]
+},
+{
+"id": "c058",
+"part": "p07",
+"title": "Max's first day at the office",
+"scene": "On his first day Max comes to the office, gets a badge from HR and meets his boss, the office manager and the assistant. He learns about the dress code, and the training starts at ten in the meeting room.",
+"anchors": [
+"office",
+"badge",
+"HR",
+"boss",
+"office manager",
+"assistant",
+"dress code",
+"training",
+"meeting room"
+],
+"level": "A1",
+"words": [
+{
+"en": "office",
+"uk": "офіс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "business, places",
+"ex": "I work in an office."
+},
+{
+"en": "badge",
+"uk": "бейдж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Please wear your badge at all times."
+},
+{
+"en": "HR",
+"uk": "ейчар",
+"band": "top-10k",
+"pos": "abbr",
+"topics": "business",
+"ex": "Talk to HR about your vacation days."
+},
+{
+"en": "boss",
+"uk": "бос",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "My boss is very nice."
+},
+{
+"en": "office manager",
+"uk": "офіс-менеджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Ask the office manager for a new key."
+},
+{
+"en": "assistant",
+"uk": "асистент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Ask my assistant to call you back."
+},
+{
+"en": "dress code",
+"uk": "дрес-код",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, clothing",
+"ex": "The office has a strict dress code."
+},
+{
+"en": "training",
+"uk": "тренінг",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business, education",
+"ex": "The training starts at ten."
+},
+{
+"en": "meeting room",
+"uk": "мітинг-рум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, places",
+"ex": "Can I book the meeting room for ten o'clock?"
+},
+{
+"en": "administrator",
+"uk": "адміністратор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Ask the system administrator for a new password."
+}
+]
+},
+{
+"id": "c059",
+"part": "p07",
+"title": "A new project",
+"scene": "It is a busy period at work: the team leader starts a project for a big client, and the manager gives Max his first task. He explains the deadline, writes every milestone on the team wiki and in a checklist, and Max's enthusiasm is so big that three reminders for one meeting feel like overkill.",
+"anchors": [
+"period",
+"leader",
+"project",
+"client",
+"manager",
+"task",
+"deadline",
+"milestone",
+"wiki",
+"checklist",
+"enthusiasm",
+"overkill"
+],
+"level": "A2",
+"words": [
+{
+"en": "period",
+"uk": "період",
+"band": "top-2000",
+"pos": "noun",
+"topics": "time",
+"ex": "It is a busy period at work."
+},
+{
+"en": "leader",
+"uk": "лідер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "She is our team leader."
+},
+{
+"en": "project",
+"uk": "проєкт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "I have a new project at work."
+},
+{
+"en": "client",
+"uk": "клієнт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "I have a meeting with a client at ten."
+},
+{
+"en": "manager",
+"uk": "менеджер",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business, people",
+"ex": "Can I speak to the manager, please?"
+},
+{
+"en": "task",
+"uk": "таск",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "My first task today is to answer emails."
+},
+{
+"en": "deadline",
+"uk": "дедлайн",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "The deadline for the project is Friday."
+},
+{
+"en": "milestone",
+"uk": "майлстоун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "We reached an important milestone in the project today."
+},
+{
+"en": "wiki",
+"uk": "вікі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Our team keeps all its notes on a wiki."
+},
+{
+"en": "checklist",
+"uk": "чек-лист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Make a checklist before your trip."
+},
+{
+"en": "enthusiasm",
+"uk": "ентузіазм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "She showed great enthusiasm for the new project."
+},
+{
+"en": "overkill",
+"uk": "оверкіл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Three alarms for one meeting is overkill."
+}
+]
+},
+{
+"id": "c060",
+"part": "p07",
+"title": "Max's first presentation",
+"scene": "Max shows his slides on the projector to the client and explains the document about their service. Later the client sends feedback and a follow-up email with useful insights about the impact of the project and asks for a deep dive into the numbers.",
+"anchors": [
+"slide",
+"projector",
+"document",
+"service",
+"feedback",
+"follow-up",
+"insight",
+"impact",
+"deep dive"
+],
+"level": "A2",
+"words": [
+{
+"en": "slide",
+"uk": "слайд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Go to the next slide, please."
+},
+{
+"en": "projector",
+"uk": "проєктор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Turn on the projector for the slides."
+},
+{
+"en": "document",
+"uk": "документ",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "Please sign this document."
+},
+{
+"en": "service",
+"uk": "сервіс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "The service here is very good."
+},
+{
+"en": "feedback",
+"uk": "фідбек",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "Thanks for your feedback on my report."
+},
+{
+"en": "follow-up",
+"uk": "фоловап",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "I'll send a follow-up email tomorrow."
+},
+{
+"en": "insight",
+"uk": "інсайт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "Thanks for your insights in today's meeting."
+},
+{
+"en": "impact",
+"uk": "імпакт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business",
+"ex": "Does coffee have an impact on your sleep?"
+},
+{
+"en": "deep dive",
+"uk": "діп-дайв",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Let's do a deep dive into last month's sales."
+}
+]
+}
+]

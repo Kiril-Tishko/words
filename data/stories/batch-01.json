@@ -1,0 +1,1270 @@
+[
+{
+"id": "c013",
+"part": "p02",
+"title": "Baking a birthday cake",
+"scene": "Anna and her mama bake for Grandma's birthday: they weigh the ingredients in grams, use honey as a substitute for sugar, mix in cinnamon and vanilla extract with the mixer and set the timer. They make cupcakes with icing, a cheesecake with gelatin, a red velvet cake, brownies, an apple tart and chocolate fudge.",
+"anchors": [
+"ingredient",
+"gram",
+"substitute",
+"cinnamon",
+"extract",
+"mixer",
+"timer",
+"cupcake",
+"icing",
+"cheesecake",
+"brownie",
+"tart"
+],
+"level": "A2",
+"words": [
+{
+"en": "ingredient",
+"uk": "інгредієнт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "What are the ingredients in this cake?"
+},
+{
+"en": "gram",
+"uk": "грам",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "Add two hundred grams of sugar."
+},
+{
+"en": "substitute",
+"uk": "субститут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Use honey as a substitute for sugar."
+},
+{
+"en": "cinnamon",
+"uk": "цинамон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put cinnamon on my oatmeal."
+},
+{
+"en": "extract",
+"uk": "екстракт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Add a teaspoon of vanilla extract to the cake."
+},
+{
+"en": "mixer",
+"uk": "міксер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, music",
+"ex": "I use an electric mixer to make cakes."
+},
+{
+"en": "timer",
+"uk": "таймер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "time",
+"ex": "Set the timer for ten minutes."
+},
+{
+"en": "cupcake",
+"uk": "капкейк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked chocolate cupcakes for the party."
+},
+{
+"en": "icing",
+"uk": "айсинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "My son licked the icing off his cupcake."
+},
+{
+"en": "cheesecake",
+"uk": "чізкейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked a strawberry cheesecake."
+},
+{
+"en": "brownie",
+"uk": "брауні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked chocolate brownies for the party."
+},
+{
+"en": "tart",
+"uk": "тарт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She baked an apple tart for the party."
+},
+{
+"en": "fudge",
+"uk": "фадж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She made chocolate fudge for the holidays."
+},
+{
+"en": "pecan",
+"uk": "пекан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "She baked a pecan pie for the holiday."
+},
+{
+"en": "red velvet",
+"uk": "ред-вельвет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have a slice of red velvet, please?"
+}
+]
+},
+{
+"id": "c014",
+"part": "p02",
+"title": "A barbecue at the dacha",
+"scene": "On Saturday Anna's family has a barbecue at the dacha. Dad connects the propane and checks the regulator, then cooks hamburgers, hot dogs and roast beef on the grill; everyone has a big appetite, and the kids drink lemonade and roast marshmallows.",
+"anchors": [
+"barbecue",
+"propane",
+"regulator",
+"hamburger",
+"hot dog",
+"roast beef",
+"grill",
+"appetite",
+"lemonade",
+"marshmallow"
+],
+"level": "A2",
+"words": [
+{
+"en": "barbecue",
+"uk": "барбекю",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We're having a barbecue in the backyard on Saturday."
+},
+{
+"en": "propane",
+"uk": "пропан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We cook on a propane grill in the backyard."
+},
+{
+"en": "regulator",
+"uk": "регулятор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Turn the regulator to lower the gas pressure."
+},
+{
+"en": "hamburger",
+"uk": "гамбургер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a hamburger and fries, please."
+},
+{
+"en": "hot dog",
+"uk": "хот-дог",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I bought a hot dog at the game."
+},
+{
+"en": "roast beef",
+"uk": "ростбіф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made a roast beef sandwich for lunch."
+},
+{
+"en": "grill",
+"uk": "гриль",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We cooked burgers on the grill in the backyard."
+},
+{
+"en": "appetite",
+"uk": "апетит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I have no appetite after that long flight."
+},
+{
+"en": "lemonade",
+"uk": "лимонад",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "The kids sold lemonade on a hot day."
+},
+{
+"en": "marshmallow",
+"uk": "маршмелоу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We roasted marshmallows over the campfire."
+}
+]
+},
+{
+"id": "c015",
+"part": "p02",
+"title": "Dinner at an Italian restaurant",
+"scene": "Max takes Anna to an Italian restaurant for her birthday. The hostess shows them to a table, and they order a glass of pinot, spaghetti, ravioli and other pasta, a risotto with parmesan and truffle, and finish with chocolate mousse and an espresso.",
+"anchors": [
+"hostess",
+"pinot",
+"spaghetti",
+"ravioli",
+"pasta",
+"risotto",
+"parmesan",
+"truffle",
+"mousse",
+"espresso"
+],
+"level": "A2",
+"words": [
+{
+"en": "hostess",
+"uk": "хостес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The hostess showed us to a table by the window."
+},
+{
+"en": "pinot",
+"uk": "піно",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered a glass of pinot with dinner."
+},
+{
+"en": "spaghetti",
+"uk": "спагеті",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had spaghetti with meatballs for dinner."
+},
+{
+"en": "ravioli",
+"uk": "равіолі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made cheese ravioli for dinner tonight."
+},
+{
+"en": "pasta",
+"uk": "паста",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We are having pasta for dinner tonight."
+},
+{
+"en": "risotto",
+"uk": "різото",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made mushroom risotto for dinner."
+},
+{
+"en": "parmesan",
+"uk": "пармезан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Sprinkle some parmesan on the pasta."
+},
+{
+"en": "truffle",
+"uk": "трюфель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "The pasta was served with black truffle and cheese."
+},
+{
+"en": "mousse",
+"uk": "мус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had chocolate mousse for dessert."
+},
+{
+"en": "espresso",
+"uk": "еспресо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I need a strong espresso after lunch."
+}
+]
+},
+{
+"id": "c016",
+"part": "p02",
+"title": "Mama's comfort food",
+"scene": "After a hard week Anna goes home. 'Perfect timing!' says Mama, and they eat her comfort food on the patio: lasagna, mac and cheese, pasta alfredo, Grandma's pie made with lard and chocolate pudding; Dad drinks a little brandy, and Mama puts the rest in Anna's lunch box.",
+"anchors": [
+"timing",
+"comfort food",
+"patio",
+"lasagna",
+"mac and cheese",
+"alfredo",
+"lard",
+"pudding",
+"brandy",
+"lunch box"
+],
+"level": "A2",
+"words": [
+{
+"en": "timing",
+"uk": "таймінг",
+"band": "top-5000",
+"pos": "noun",
+"topics": "time",
+"ex": "Perfect timing, dinner is ready right now!"
+},
+{
+"en": "comfort food",
+"uk": "комфорт-фуд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Soup is my favorite comfort food in winter."
+},
+{
+"en": "patio",
+"uk": "патіо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "We ate dinner on the patio last night."
+},
+{
+"en": "lasagna",
+"uk": "лазанья",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "My mom makes lasagna for dinner every Sunday."
+},
+{
+"en": "mac and cheese",
+"uk": "мак-енд-чіз",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "My kids want mac and cheese for dinner again."
+},
+{
+"en": "alfredo",
+"uk": "альфредо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made fettuccine alfredo for dinner tonight."
+},
+{
+"en": "lard",
+"uk": "лярд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "My grandma made pie crust with lard."
+},
+{
+"en": "pudding",
+"uk": "пудинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had chocolate pudding for dessert."
+},
+{
+"en": "brandy",
+"uk": "бренді",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He drank a glass of brandy after dinner."
+},
+{
+"en": "lunch box",
+"uk": "ланч-бокс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put a sandwich and an apple in my lunch box."
+},
+{
+"en": "gelatin",
+"uk": "желатин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add gelatin to make the dessert firm."
+}
+]
+},
+{
+"id": "c017",
+"part": "p02",
+"title": "Street food Saturday",
+"scene": "Anna and Max walk around a food market by the river and try street food: a kebab, tacos and a burrito from a food truck, warm tortillas, and chips with guacamole and other dips.",
+"anchors": [
+"food market",
+"street food",
+"kebab",
+"taco",
+"burrito",
+"food truck",
+"tortilla",
+"guacamole",
+"dip"
+],
+"level": "A2",
+"words": [
+{
+"en": "food market",
+"uk": "фудмаркет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, places",
+"ex": "Let's grab lunch at the food market downtown."
+},
+{
+"en": "street food",
+"uk": "стріт-фуд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I love trying street food when I travel."
+},
+{
+"en": "kebab",
+"uk": "кебаб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had a chicken kebab for lunch."
+},
+{
+"en": "taco",
+"uk": "тако",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ordered three beef tacos and a soda."
+},
+{
+"en": "burrito",
+"uk": "буріто",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ordered a chicken burrito with rice and beans."
+},
+{
+"en": "food truck",
+"uk": "фудтрак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, transport",
+"ex": "We bought burritos from a food truck."
+},
+{
+"en": "tortilla",
+"uk": "тортилья",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Wrap the beans and rice in a tortilla."
+},
+{
+"en": "guacamole",
+"uk": "гуакамоле",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We made guacamole with avocados and lime."
+},
+{
+"en": "dip",
+"uk": "діп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had chips and dip at the party."
+}
+]
+},
+{
+"id": "c018",
+"part": "p02",
+"title": "Happy hour",
+"scene": "After a long week Max's new colleagues invite him to happy hour at a bar. The bartender makes cocktails - a martini for one colleague and a gin and tonic with lime for Max - another colleague drinks a lite beer, and Anna does not drink alcohol at all.",
+"anchors": [
+"happy hour",
+"bar",
+"bartender",
+"cocktail",
+"martini",
+"gin",
+"tonic",
+"lime",
+"lite",
+"alcohol"
+],
+"level": "A2",
+"words": [
+{
+"en": "happy hour",
+"uk": "хепі-ауер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, time",
+"ex": "Is there a happy hour at this bar?"
+},
+{
+"en": "bar",
+"uk": "бар",
+"band": "top-3000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's meet at the bar after work."
+},
+{
+"en": "bartender",
+"uk": "бартендер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The bartender made me a great cocktail."
+},
+{
+"en": "cocktail",
+"uk": "коктейль",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We ordered two cocktails at the hotel bar."
+},
+{
+"en": "martini",
+"uk": "мартіні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a dry martini with an olive."
+},
+{
+"en": "gin",
+"uk": "джин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a gin and tonic at the bar."
+},
+{
+"en": "tonic",
+"uk": "тонік",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a gin and tonic, please."
+},
+{
+"en": "lime",
+"uk": "лайм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add a slice of lime to your drink."
+},
+{
+"en": "lite",
+"uk": "лайт",
+"band": "top-20k",
+"pos": "adj",
+"topics": "other",
+"ex": "I'll have a lite beer, please."
+},
+{
+"en": "alcohol",
+"uk": "алкоголь",
+"band": "top-3000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I don't drink alcohol."
+}
+]
+},
+{
+"id": "c019",
+"part": "p02",
+"title": "Quiz night at the pub",
+"scene": "Anna, Max and their friends play the Thursday quiz at an Irish pub. The barman brings ale and cider from a new keg, and between rounds they play darts and snooker.",
+"anchors": [
+"quiz",
+"pub",
+"barman",
+"ale",
+"cider",
+"keg",
+"darts",
+"snooker"
+],
+"level": "A2",
+"words": [
+{
+"en": "quiz",
+"uk": "квіз",
+"band": "top-10k",
+"pos": "noun",
+"topics": "games",
+"ex": "We go to a quiz night at the bar every Thursday."
+},
+{
+"en": "pub",
+"uk": "паб",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks, places",
+"ex": "Let's meet at the pub after work."
+},
+{
+"en": "barman",
+"uk": "бармен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, people",
+"ex": "The barman poured us two glasses of beer."
+},
+{
+"en": "ale",
+"uk": "ель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a pint of ale."
+},
+{
+"en": "cider",
+"uk": "сидр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We drank warm apple cider in the fall."
+},
+{
+"en": "keg",
+"uk": "кег",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We bought a keg of beer for the party."
+},
+{
+"en": "darts",
+"uk": "дартс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "games, sport",
+"ex": "We played darts at the bar after work."
+},
+{
+"en": "snooker",
+"uk": "снукер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "We played snooker at the pub after work."
+}
+]
+},
+{
+"id": "c020",
+"part": "p03",
+"title": "A new sweater",
+"scene": "Anna goes shopping at a big shopping center. She sees a sweater on a mannequin in the window; it is on sale, so she asks for the same model in blue cotton, gets a discount and pays in cash.",
+"anchors": [
+"shopping",
+"shopping center",
+"sweater",
+"mannequin",
+"sale",
+"model",
+"cotton",
+"discount",
+"cash"
+],
+"level": "A1",
+"words": [
+{
+"en": "shopping",
+"uk": "шопінг",
+"band": "top-3000",
+"pos": "noun",
+"topics": "other",
+"ex": "Let's go shopping on Saturday."
+},
+{
+"en": "shopping center",
+"uk": "шопінг-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "We went to the shopping center on Saturday."
+},
+{
+"en": "sweater",
+"uk": "светр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "It's cold outside, so wear a warm sweater."
+},
+{
+"en": "mannequin",
+"uk": "манекен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The mannequin in the window wears a red dress."
+},
+{
+"en": "sale",
+"uk": "сейл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "These shoes were on sale for half price."
+},
+{
+"en": "model",
+"uk": "модель",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Do you have this model in blue?"
+},
+{
+"en": "cotton",
+"uk": "котон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "clothing",
+"ex": "Do you have this dress in cotton?"
+},
+{
+"en": "discount",
+"uk": "дисконт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "We got a ten percent discount on the shoes."
+},
+{
+"en": "cash",
+"uk": "кеш",
+"band": "top-2000",
+"pos": "noun",
+"topics": "finance",
+"ex": "Do you have any cash for the taxi?"
+},
+{
+"en": "nylon",
+"uk": "нейлон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "This jacket is made of nylon."
+},
+{
+"en": "polyester",
+"uk": "поліестер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, clothing",
+"ex": "This shirt is made of cheap polyester."
+}
+]
+},
+{
+"id": "c021",
+"part": "p03",
+"title": "Max needs a new look",
+"scene": "Max wants a new style but knows nothing about fashion. In a boutique the shop assistant asks Anna 'Can I help you, madam?', and she chooses his outfit - a hoodie from a good brand, a denim jacket, baggy jeans, a tank top and a beanie - and Max starts to think about a tattoo and a piercing.",
+"anchors": [
+"style",
+"fashion",
+"boutique",
+"madam",
+"outfit",
+"hoodie",
+"brand",
+"denim",
+"baggy",
+"beanie",
+"tattoo",
+"piercing"
+],
+"level": "A2",
+"words": [
+{
+"en": "style",
+"uk": "стиль",
+"band": "top-2000",
+"pos": "noun",
+"topics": "art, clothing",
+"ex": "I like your style."
+},
+{
+"en": "fashion",
+"uk": "фешн",
+"band": "top-3000",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I don't follow fashion."
+},
+{
+"en": "boutique",
+"uk": "бутик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing, places",
+"ex": "She bought a silk scarf at a small boutique."
+},
+{
+"en": "madam",
+"uk": "мадам",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, madam, can I help you?"
+},
+{
+"en": "outfit",
+"uk": "аутфіт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "clothing",
+"ex": "I really love your outfit today!"
+},
+{
+"en": "hoodie",
+"uk": "худі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a gray hoodie and jeans."
+},
+{
+"en": "brand",
+"uk": "бренд",
+"band": "top-2000",
+"pos": "noun",
+"topics": "business",
+"ex": "What brand is your phone?"
+},
+{
+"en": "denim",
+"uk": "денім",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "Denim jackets never go out of style."
+},
+{
+"en": "baggy",
+"uk": "бегі",
+"band": "top-20k",
+"pos": "adj",
+"topics": "clothing",
+"ex": "He likes to wear baggy jeans to school."
+},
+{
+"en": "beanie",
+"uk": "біні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "He wore a warm beanie in the snow."
+},
+{
+"en": "tattoo",
+"uk": "тату",
+"band": "top-5000",
+"pos": "noun",
+"topics": "art",
+"ex": "How much does a small tattoo cost here?"
+},
+{
+"en": "piercing",
+"uk": "пірсинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She has a nose piercing."
+},
+{
+"en": "tank top",
+"uk": "танк-топ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "It's hot today, so I'm wearing a tank top."
+}
+]
+},
+{
+"id": "c022",
+"part": "p03",
+"title": "At the hair salon",
+"scene": "Before a big party Anna goes to a salon: her stylist does the styling with gel, she gets a manicure and hand cream, and puts on makeup, mascara and eyeliner. Next door Max goes to the barber and sits next to a man with a big afro.",
+"anchors": [
+"salon",
+"stylist",
+"styling",
+"gel",
+"manicure",
+"cream",
+"makeup",
+"mascara",
+"eyeliner",
+"barber",
+"afro"
+],
+"level": "A2",
+"words": [
+{
+"en": "salon",
+"uk": "салон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "She gets her hair cut at a salon."
+},
+{
+"en": "stylist",
+"uk": "стиліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My stylist cut my hair short."
+},
+{
+"en": "styling",
+"uk": "стайлінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "The hair salon offers cutting and styling."
+},
+{
+"en": "gel",
+"uk": "гель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "home",
+"ex": "Put some gel on your hair before you go."
+},
+{
+"en": "manicure",
+"uk": "манікюр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She gets a manicure every two weeks."
+},
+{
+"en": "cream",
+"uk": "крем",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food, home",
+"ex": "Put some cream on your hands every night."
+},
+{
+"en": "makeup",
+"uk": "мейкап",
+"band": "top-5000",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She doesn't wear much makeup to work."
+},
+{
+"en": "mascara",
+"uk": "маскара",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She put on mascara before the party."
+},
+{
+"en": "eyeliner",
+"uk": "айлайнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She put on black eyeliner before the party."
+},
+{
+"en": "barber",
+"uk": "барбер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "I go to the barber once a month."
+},
+{
+"en": "afro",
+"uk": "афро",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "He wore his hair in a big afro."
+}
+]
+},
+{
+"id": "c023",
+"part": "p03",
+"title": "A present for Mama",
+"scene": "Anna and her brother Taras look for a birthday present for Mama in a jewelry shop. They see pearls, a silver bracelet, a gold medallion and rings with a sapphire, an opal and an amethyst; an expert explains carats and shows them a crystal.",
+"anchors": [
+"pearl",
+"bracelet",
+"medallion",
+"sapphire",
+"opal",
+"amethyst",
+"expert",
+"carat",
+"crystal"
+],
+"level": "A2",
+"words": [
+{
+"en": "pearl",
+"uk": "перл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "nature",
+"ex": "I'd like to see the pearl earrings, please."
+},
+{
+"en": "bracelet",
+"uk": "браслет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "clothing",
+"ex": "She wore a silver bracelet on her wrist."
+},
+{
+"en": "medallion",
+"uk": "медальйон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art, clothing",
+"ex": "She wore a gold medallion on a long chain."
+},
+{
+"en": "sapphire",
+"uk": "сапфір",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Her ring has a small blue sapphire."
+},
+{
+"en": "opal",
+"uk": "опал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "She has an opal ring from her grandmother."
+},
+{
+"en": "amethyst",
+"uk": "аметист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "She wears a ring with a small amethyst."
+},
+{
+"en": "expert",
+"uk": "експерт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Ask an expert before you buy a car."
+},
+{
+"en": "carat",
+"uk": "карат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "How many carats is this diamond?"
+},
+{
+"en": "crystal",
+"uk": "кристал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "science",
+"ex": "Look at the ice crystals on the window."
+}
+]
+},
+{
+"id": "c024",
+"part": "p03",
+"title": "Anna's student budget",
+"scene": "At the end of the month Anna counts her money: plus a hundred dollars from her parents, minus the money for books. She is on a tight budget and saves every cent and penny, so she goes to the bank, checks her balance, makes a deposit and decides not to buy anything on credit.",
+"anchors": [
+"plus",
+"dollar",
+"minus",
+"budget",
+"cent",
+"penny",
+"bank",
+"balance",
+"deposit",
+"credit"
+],
+"level": "A1",
+"words": [
+{
+"en": "plus",
+"uk": "плюс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "math",
+"ex": "Two plus two is four."
+},
+{
+"en": "dollar",
+"uk": "долар",
+"band": "top-1000",
+"pos": "noun",
+"topics": "finance",
+"ex": "This T-shirt costs ten dollars."
+},
+{
+"en": "minus",
+"uk": "мінус",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "Can you tell me what ten minus four is?"
+},
+{
+"en": "budget",
+"uk": "бюджет",
+"band": "top-3000",
+"pos": "noun",
+"topics": "finance",
+"ex": "We are on a tight budget this month."
+},
+{
+"en": "cent",
+"uk": "цент",
+"band": "top-3000",
+"pos": "noun",
+"topics": "finance",
+"ex": "This candy costs fifty cents."
+},
+{
+"en": "penny",
+"uk": "пенні",
+"band": "top-5000",
+"pos": "noun",
+"topics": "finance",
+"ex": "I save every penny for my trip to London."
+},
+{
+"en": "bank",
+"uk": "банк",
+"band": "top-1000",
+"pos": "noun",
+"topics": "finance",
+"ex": "Where is the bank?"
+},
+{
+"en": "balance",
+"uk": "баланс",
+"band": "top-5000",
+"pos": "noun",
+"topics": "finance",
+"ex": "It's hard to find a balance between work and family."
+},
+{
+"en": "deposit",
+"uk": "депозит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "I want to make a deposit, please."
+},
+{
+"en": "credit",
+"uk": "кредит",
+"band": "top-2000",
+"pos": "noun",
+"topics": "finance",
+"ex": "We bought the car on credit."
+}
+]
+}
+]

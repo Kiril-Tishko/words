@@ -1,0 +1,4058 @@
+{
+ "parts": [
+  {
+   "id": "p01",
+   "title": "Hello, Kyiv!",
+   "about": "First meetings: saying hello and sorry, talking about yourself and your friends, and making a plan together."
+  },
+  {
+   "id": "p02",
+   "title": "Café and food",
+   "about": "Ordering in cafés and restaurants, shopping for food, cooking and baking at home, and going out for drinks."
+  },
+  {
+   "id": "p03",
+   "title": "Shopping and money",
+   "about": "Shops, clothes, beauty and prices, paying and saving, buying online, and a first look at the fashion world."
+  },
+  {
+   "id": "p04",
+   "title": "Getting around",
+   "about": "The metro, taxis, airports and hotels, scooters and cars, a road trip and planning a holiday."
+  },
+  {
+   "id": "p05",
+   "title": "Phone and internet",
+   "about": "Your phone, laptop and the internet: signal and messages, email, buying online, fixing things and setting up a home office."
+  },
+  {
+   "id": "p06",
+   "title": "Home and family",
+   "about": "Family and home life: relatives, a new flat, repairs and cleaning, a blackout, the dacha, pets, games, love and a wedding."
+  },
+  {
+   "id": "p07",
+   "title": "Work and office",
+   "about": "Getting a job and working in an office: the interview, the first day, projects and meetings, feedback, and problems at work."
+  },
+  {
+   "id": "p08",
+   "title": "School and study",
+   "about": "Classes and tests, languages and accents, maths homework, online courses, the library, school problems and research."
+  },
+  {
+   "id": "p09",
+   "title": "Health and the doctor",
+   "about": "Being ill and getting better: the doctor and the dentist, checkups, healthy habits, stress, emergencies and talking openly about the body."
+  },
+  {
+   "id": "p10",
+   "title": "Sport",
+   "about": "Watching and doing sport: football on TV, the gym, a marathon, martial arts, boxing, team games, the sea and extreme sports."
+  },
+  {
+   "id": "p11",
+   "title": "Music, theater and art",
+   "about": "Bands and concerts, festivals and clubs, the opera and dancing, the theater and comedy, museums and street art."
+  },
+  {
+   "id": "p12",
+   "title": "On screen",
+   "about": "Films, TV, radio and podcasts, video games and social media: what we watch, play and post."
+  },
+  {
+   "id": "p13",
+   "title": "Nature and animals",
+   "about": "Animals at the zoo, in the park and on the farm, mountains and national parks, the sea, the climate and the history of life."
+  },
+  {
+   "id": "p14",
+   "title": "Around the world",
+   "about": "Trips abroad with Anna, Max and their families: the words people use in other countries, from Paris to Kenya."
+  },
+  {
+   "id": "p15",
+   "title": "Business and money",
+   "about": "How companies and money work: a small business, a startup, marketing, trade, banks and the stock market, the economy and big business."
+  },
+  {
+   "id": "p16",
+   "title": "City, society and politics",
+   "about": "How a city and a country are run: city hall, volunteers, new neighbors, elections, parliament, protests, the news and the war."
+  },
+  {
+   "id": "p17",
+   "title": "Law and crime",
+   "about": "Police, courts and crime: a stolen bike, a trial, gangs and drugs, a true-crime podcast and the fight against terror."
+  },
+  {
+   "id": "p18",
+   "title": "Science and technology",
+   "about": "How computers, the internet, data, physics, chemistry, space, the brain and modern medicine work."
+  },
+  {
+   "id": "p19",
+   "title": "History and religion",
+   "about": "Kings and empires, warriors and explorers, the dark times of the 20th century, and the world's faiths, myths and legends."
+  },
+  {
+   "id": "p20",
+   "title": "Exclamations",
+   "about": "One-word reactions: little words of talk, surprise, feelings, laughter, shouts, sounds, gaming chat, hellos from other languages and words of faith."
+  }
+ ],
+ "chapters": [
+  {
+   "id": "c001",
+   "part": "p01",
+   "title": "Nice to meet you",
+   "scene": "It is Anna's first week at college in Kyiv. At a party for new students a speaker says 'Ladies and gentlemen, welcome!' to all the people; Anna says hello to Max - 'Nice to meet you!' - a student from her college, and by the end of the cool party they are good friends.",
+   "anchors": [
+    "college",
+    "party",
+    "student",
+    "lady",
+    "gentleman",
+    "welcome",
+    "people",
+    "hello",
+    "nice",
+    "cool",
+    "good",
+    "friend"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c002",
+   "part": "p01",
+   "title": "Lost on the first day",
+   "scene": "Anna is late and in trouble on her first day. A guard says 'Your ID, please', she answers 'Sorry, sir, one moment', and a kind Miss at the desk says the room is easy to find - 'OK, thank you!'",
+   "anchors": [
+    "trouble",
+    "ID",
+    "please",
+    "sorry",
+    "sir",
+    "moment",
+    "Miss",
+    "easy",
+    "OK"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c003",
+   "part": "p01",
+   "title": "Tell me about yourself",
+   "scene": "After class Anna and Max talk about their background: Max came to Kyiv as a teenager, and Anna's dad has a small business. They talk about hobbies, their favorite season, the type of music they are fans of and their character - Max is very friendly - then swap contacts and say goodbye.",
+   "anchors": [
+    "background",
+    "teenager",
+    "business",
+    "hobby",
+    "season",
+    "type",
+    "fan",
+    "character",
+    "friendly",
+    "contact",
+    "goodbye"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c004",
+   "part": "p01",
+   "title": "Anna's photos",
+   "scene": "Anna shows Max photos and selfies on her phone: her boyfriend, who is six feet tall and has a kind face, a girl with long blonde hair, and a crazy friend who is always in a good mood.",
+   "anchors": [
+    "photo",
+    "selfie",
+    "boyfriend",
+    "foot",
+    "face",
+    "blonde",
+    "hair",
+    "crazy",
+    "mood"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c005",
+   "part": "p01",
+   "title": "A plan for the weekend",
+   "scene": "Max has an idea for the weekend and tells Anna a secret: his bro can lend them a car, so they have a chance to go to Lviv. Anna thinks it is a super plan that makes sense; they talk about the details, and in fact they leave on Saturday.",
+   "anchors": [
+    "idea",
+    "weekend",
+    "secret",
+    "bro",
+    "chance",
+    "super",
+    "plan",
+    "sense",
+    "detail",
+    "fact"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c006",
+   "part": "p02",
+   "title": "Lunch at the café",
+   "scene": "Anna and Max have lunch at a small café near college. They read the menu: Max orders soup and a sandwich, Anna takes a salad with dressing and chicken with rice and sauce, and for dessert she wants tea with lemon.",
+   "anchors": [
+    "lunch",
+    "cafe",
+    "menu",
+    "soup",
+    "sandwich",
+    "dressing",
+    "rice",
+    "sauce",
+    "dessert",
+    "lemon"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c007",
+   "part": "p02",
+   "title": "Coffee before class",
+   "scene": "Max meets Anna at a coffee shop with a great vibe, full of hipsters with laptops. The barista makes a latte from a new blend and a cappuccino with caramel - Max is a real coffee snob - and they take a croissant and a muffin.",
+   "anchors": [
+    "coffee shop",
+    "vibe",
+    "hipster",
+    "barista",
+    "latte",
+    "blend",
+    "cappuccino",
+    "caramel",
+    "snob",
+    "croissant",
+    "muffin"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c008",
+   "part": "p02",
+   "title": "Pizza night",
+   "scene": "Max wants to chill at home with friends and watch a movie. They order a big pizza for delivery and choose the toppings, pepperoni and mozzarella - the diameter is forty centimeters - get cola, nachos and other snacks, and make popcorn.",
+   "anchors": [
+    "chill",
+    "pizza",
+    "delivery",
+    "topping",
+    "pepperoni",
+    "mozzarella",
+    "diameter",
+    "cola",
+    "nachos",
+    "snack",
+    "popcorn"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c009",
+   "part": "p02",
+   "title": "At the burger place",
+   "scene": "After the cinema Max wants fast food, so they go to a burger place with a drive-through. Max orders a burger with ketchup and mayonnaise and a milkshake, Anna takes a sundae, and Max's older cousin orders a cold lager.",
+   "anchors": [
+    "fast food",
+    "burger",
+    "drive-through",
+    "ketchup",
+    "mayonnaise",
+    "milkshake",
+    "sundae",
+    "lager"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c010",
+   "part": "p02",
+   "title": "Breakfast at home",
+   "scene": "Anna's mama makes a big Sunday breakfast. Bread goes into the toaster for toast with jam, there are pancakes with syrup, bacon and an omelet, and Taras eats only yogurt and half a grapefruit.",
+   "anchors": [
+    "toaster",
+    "toast",
+    "jam",
+    "pancake",
+    "syrup",
+    "bacon",
+    "omelet",
+    "yogurt",
+    "grapefruit"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c011",
+   "part": "p02",
+   "title": "At the supermarket",
+   "scene": "Anna and Max shop at the supermarket for a dinner with friends. They buy a kilo of tomatoes, two liters of milk, broccoli, an avocado, citrus fruit, a mango, kiwis and tangerines, and cheddar, salami and crackers.",
+   "anchors": [
+    "supermarket",
+    "kilo",
+    "liter",
+    "broccoli",
+    "avocado",
+    "citrus",
+    "mango",
+    "kiwi",
+    "tangerine",
+    "cheddar",
+    "salami",
+    "cracker"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c012",
+   "part": "p02",
+   "title": "Cooking for a vegan friend",
+   "scene": "Anna's friend Lisa is a vegan and cannot eat gluten. Anna cooks tofu in a wok on the gas stove with kale and zucchini, makes a curry with chili and some hummus, but forgets to turn off the gas, and the dinner is almost a fiasco.",
+   "anchors": [
+    "vegan",
+    "gluten",
+    "tofu",
+    "wok",
+    "gas",
+    "kale",
+    "zucchini",
+    "curry",
+    "chili",
+    "hummus",
+    "fiasco"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c013",
+   "part": "p02",
+   "title": "Baking a birthday cake",
+   "scene": "Anna and her mama bake for Grandma's birthday: they weigh the ingredients in grams, use honey as a substitute for sugar, mix in cinnamon and vanilla extract with the mixer and set the timer. They make cupcakes with icing, a cheesecake with gelatin, a red velvet cake, brownies, an apple tart and chocolate fudge.",
+   "anchors": [
+    "ingredient",
+    "gram",
+    "substitute",
+    "cinnamon",
+    "extract",
+    "mixer",
+    "timer",
+    "cupcake",
+    "icing",
+    "cheesecake",
+    "brownie",
+    "tart"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c014",
+   "part": "p02",
+   "title": "A barbecue at the dacha",
+   "scene": "On Saturday Anna's family has a barbecue at the dacha. Dad connects the propane and checks the regulator, then cooks hamburgers, hot dogs and roast beef on the grill; everyone has a big appetite, and the kids drink lemonade and roast marshmallows.",
+   "anchors": [
+    "barbecue",
+    "propane",
+    "regulator",
+    "hamburger",
+    "hot dog",
+    "roast beef",
+    "grill",
+    "appetite",
+    "lemonade",
+    "marshmallow"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c015",
+   "part": "p02",
+   "title": "Dinner at an Italian restaurant",
+   "scene": "Max takes Anna to an Italian restaurant for her birthday. The hostess shows them to a table, and they order a glass of pinot, spaghetti, ravioli and other pasta, a risotto with parmesan and truffle, and finish with chocolate mousse and an espresso.",
+   "anchors": [
+    "hostess",
+    "pinot",
+    "spaghetti",
+    "ravioli",
+    "pasta",
+    "risotto",
+    "parmesan",
+    "truffle",
+    "mousse",
+    "espresso"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c016",
+   "part": "p02",
+   "title": "Mama's comfort food",
+   "scene": "After a hard week Anna goes home. 'Perfect timing!' says Mama, and they eat her comfort food on the patio: lasagna, mac and cheese, pasta alfredo, Grandma's pie made with lard and chocolate pudding; Dad drinks a little brandy, and Mama puts the rest in Anna's lunch box.",
+   "anchors": [
+    "timing",
+    "comfort food",
+    "patio",
+    "lasagna",
+    "mac and cheese",
+    "alfredo",
+    "lard",
+    "pudding",
+    "brandy",
+    "lunch box"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c017",
+   "part": "p02",
+   "title": "Street food Saturday",
+   "scene": "Anna and Max walk around a food market by the river and try street food: a kebab, tacos and a burrito from a food truck, warm tortillas, and chips with guacamole and other dips.",
+   "anchors": [
+    "food market",
+    "street food",
+    "kebab",
+    "taco",
+    "burrito",
+    "food truck",
+    "tortilla",
+    "guacamole",
+    "dip"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c018",
+   "part": "p02",
+   "title": "Happy hour",
+   "scene": "After a long week Max's new colleagues invite him to happy hour at a bar. The bartender makes cocktails - a martini for one colleague and a gin and tonic with lime for Max - another colleague drinks a lite beer, and Anna does not drink alcohol at all.",
+   "anchors": [
+    "happy hour",
+    "bar",
+    "bartender",
+    "cocktail",
+    "martini",
+    "gin",
+    "tonic",
+    "lime",
+    "lite",
+    "alcohol"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c019",
+   "part": "p02",
+   "title": "Quiz night at the pub",
+   "scene": "Anna, Max and their friends play the Thursday quiz at an Irish pub. The barman brings ale and cider from a new keg, and between rounds they play darts and snooker.",
+   "anchors": [
+    "quiz",
+    "pub",
+    "barman",
+    "ale",
+    "cider",
+    "keg",
+    "darts",
+    "snooker"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c020",
+   "part": "p03",
+   "title": "A new sweater",
+   "scene": "Anna goes shopping at a big shopping center. She sees a sweater on a mannequin in the window; it is on sale, so she asks for the same model in blue cotton, gets a discount and pays in cash.",
+   "anchors": [
+    "shopping",
+    "shopping center",
+    "sweater",
+    "mannequin",
+    "sale",
+    "model",
+    "cotton",
+    "discount",
+    "cash"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c021",
+   "part": "p03",
+   "title": "Max needs a new look",
+   "scene": "Max wants a new style but knows nothing about fashion. In a boutique the shop assistant asks Anna 'Can I help you, madam?', and she chooses his outfit - a hoodie from a good brand, a denim jacket, baggy jeans, a tank top and a beanie - and Max starts to think about a tattoo and a piercing.",
+   "anchors": [
+    "style",
+    "fashion",
+    "boutique",
+    "madam",
+    "outfit",
+    "hoodie",
+    "brand",
+    "denim",
+    "baggy",
+    "beanie",
+    "tattoo",
+    "piercing"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c022",
+   "part": "p03",
+   "title": "At the hair salon",
+   "scene": "Before a big party Anna goes to a salon: her stylist does the styling with gel, she gets a manicure and hand cream, and puts on makeup, mascara and eyeliner. Next door Max goes to the barber and sits next to a man with a big afro.",
+   "anchors": [
+    "salon",
+    "stylist",
+    "styling",
+    "gel",
+    "manicure",
+    "cream",
+    "makeup",
+    "mascara",
+    "eyeliner",
+    "barber",
+    "afro"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c023",
+   "part": "p03",
+   "title": "A present for Mama",
+   "scene": "Anna and her brother Taras look for a birthday present for Mama in a jewelry shop. They see pearls, a silver bracelet, a gold medallion and rings with a sapphire, an opal and an amethyst; an expert explains carats and shows them a crystal.",
+   "anchors": [
+    "pearl",
+    "bracelet",
+    "medallion",
+    "sapphire",
+    "opal",
+    "amethyst",
+    "expert",
+    "carat",
+    "crystal"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c024",
+   "part": "p03",
+   "title": "Anna's student budget",
+   "scene": "At the end of the month Anna counts her money: plus a hundred dollars from her parents, minus the money for books. She is on a tight budget and saves every cent and penny, so she goes to the bank, checks her balance, makes a deposit and decides not to buy anything on credit.",
+   "anchors": [
+    "plus",
+    "dollar",
+    "minus",
+    "budget",
+    "cent",
+    "penny",
+    "bank",
+    "balance",
+    "deposit",
+    "credit"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c025",
+   "part": "p03",
+   "title": "A parcel for Max",
+   "scene": "Max loves online shopping. He finds headphones in the catalog of a site, uses a coupon, checks the status of his order and meets the courier, but the product has a defect and looks like a fake, so he sells it on a marketplace.",
+   "anchors": [
+    "online shopping",
+    "catalog",
+    "site",
+    "coupon",
+    "status",
+    "courier",
+    "product",
+    "defect",
+    "fake",
+    "marketplace"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c026",
+   "part": "p03",
+   "title": "Sofia's first fashion show",
+   "scene": "Max's sister Sofia studies to be a fashion designer and shows her first collection at a fashion show. Supermodels wear her couture - a corset, a cape, jackets in cashmere, tweed, flannel and khaki - and she explains why she likes natural material and textile, not nylon or polyester.",
+   "anchors": [
+    "fashion designer",
+    "fashion show",
+    "supermodel",
+    "couture",
+    "corset",
+    "cape",
+    "cashmere",
+    "tweed",
+    "flannel",
+    "khaki",
+    "material",
+    "textile"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c027",
+   "part": "p04",
+   "title": "Around Kyiv by metro",
+   "scene": "Anna's cousin comes on his first visit to Kyiv, a city of three million people. Anna explains public transport, an inspector checks their tickets in the metro, and the long escalator takes them up to the city center; on the avenue near the park and the monuments a woman says 'Excuse me, mister, you dropped your wallet', and they ask a policeman the way.",
+   "anchors": [
+    "visitor",
+    "visit",
+    "million",
+    "transport",
+    "inspector",
+    "metro",
+    "escalator",
+    "center",
+    "avenue",
+    "park",
+    "monument",
+    "policeman"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c028",
+   "part": "p04",
+   "title": "Taxi to the airport",
+   "scene": "Anna is flying to a summer course in London. Max helps her put her stuff in a taxi; the driver uses GPS and takes the highway - forty kilometers, thirty minutes max - and stops at the terminal next to the free shuttle buses.",
+   "anchors": [
+    "max",
+    "stuff",
+    "taxi",
+    "GPS",
+    "highway",
+    "kilometer",
+    "terminal",
+    "shuttle"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c029",
+   "part": "p04",
+   "title": "Anna's first flight",
+   "scene": "At the airport there is chaos. Anna's baggage is twenty kilograms, she shows her passport and visa at passport control, buys chocolate at the duty-free and sees a celebrity going into business class; on the aeroplane a steward brings coffee, her bag gets lost in transit, and in London she has jet lag.",
+   "anchors": [
+    "chaos",
+    "baggage",
+    "kilogram",
+    "passport",
+    "visa",
+    "control",
+    "duty-free",
+    "celebrity",
+    "aeroplane",
+    "steward",
+    "transit",
+    "jet lag"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c030",
+   "part": "p04",
+   "title": "Booking a hotel for the weekend",
+   "scene": "Max books a cheap hotel in Lviv for the weekend; the booking says four people maximum and a fee for a no-show. At reception the check-in is quick, they get the Wi-Fi password, find their room at the end of the corridor and hear that check-out is at eleven.",
+   "anchors": [
+    "hotel",
+    "booking",
+    "maximum",
+    "no-show",
+    "reception",
+    "check-in",
+    "Wi-Fi",
+    "corridor",
+    "check-out"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c031",
+   "part": "p04",
+   "title": "A night in a luxury hotel",
+   "scene": "Anna wins a night in a luxury hotel in a competition. The concierge meets her in the foyer, her room has a king-size bed and a jacuzzi, she tries the spa and the sauna, and orders breakfast from room service.",
+   "anchors": [
+    "luxury",
+    "concierge",
+    "foyer",
+    "king-size",
+    "jacuzzi",
+    "spa",
+    "sauna",
+    "room service"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c032",
+   "part": "p04",
+   "title": "Max's new scooter",
+   "scene": "Max buys an electric scooter to get to college faster. On the smooth asphalt by the river he races a biker, forgets the speed limit in a tunnel and nearly hits a bicycle with a red reflector; the cyclist stops pedaling, and the incident ends with a shout.",
+   "anchors": [
+    "scooter",
+    "asphalt",
+    "biker",
+    "limit",
+    "tunnel",
+    "bicycle",
+    "reflector",
+    "pedal",
+    "incident"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c033",
+   "part": "p04",
+   "title": "Dad buys a car",
+   "scene": "Anna's dad is a car enthusiast who watches every grand prix and wants a new automobile for the family. At the dealer's showroom he looks at a supercar and a limousine, but chooses between a sedan and a diesel minivan, takes a test drive and asks about leasing; Anna's driving instructor comes too.",
+   "anchors": [
+    "enthusiast",
+    "automobile",
+    "dealer",
+    "showroom",
+    "supercar",
+    "limousine",
+    "sedan",
+    "diesel",
+    "minivan",
+    "test drive",
+    "leasing",
+    "instructor"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c034",
+   "part": "p04",
+   "title": "The car breaks down",
+   "scene": "On the way to the dacha Dad presses the accelerator, but the motor stops. A mechanic from an auto repair shop takes the car to his garage, uses a loud air compressor, cleans the carburetor, checks the chassis and fixes the bumper.",
+   "anchors": [
+    "accelerator",
+    "motor",
+    "mechanic",
+    "auto",
+    "garage",
+    "compressor",
+    "carburetor",
+    "chassis",
+    "bumper"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c035",
+   "part": "p04",
+   "title": "A road trip",
+   "scene": "In summer Max and his cousin go on a road trip in America in a camper and an old jeep with a turbo. They drive off-road with the phone in a holder for the map, pay four dollars a gallon, follow a pickup to a cheap motel and eat cheeseburgers, and the cousin tries bourbon.",
+   "anchors": [
+    "road trip",
+    "camper",
+    "jeep",
+    "turbo",
+    "off-road",
+    "holder",
+    "gallon",
+    "pickup",
+    "motel",
+    "cheeseburger",
+    "bourbon"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c036",
+   "part": "p04",
+   "title": "Planning a summer trip",
+   "scene": "Anna and Max want a trip in August. At a travel bureau an agent from a tour operator shows them low-cost and nonstop flights, a cheap charter and a bus tour with a guide; she says tourism is booming and every tourist wants to go to the sea.",
+   "anchors": [
+    "trip",
+    "bureau",
+    "agent",
+    "tour operator",
+    "tour",
+    "low-cost",
+    "nonstop",
+    "charter",
+    "guide",
+    "tourism",
+    "tourist"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c037",
+   "part": "p04",
+   "title": "Uncle Ivan, the pilot",
+   "scene": "Max's uncle is a pilot. He shows Max and Anna the cockpit of his jet and explains the radar, the transponder and the autopilot; then they visit an airfield and see a helicopter with a loud rotor, an old plane with a propeller and a glider.",
+   "anchors": [
+    "pilot",
+    "cockpit",
+    "jet",
+    "radar",
+    "transponder",
+    "autopilot",
+    "helicopter",
+    "rotor",
+    "propeller",
+    "glider"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c038",
+   "part": "p05",
+   "title": "Anna's new smartphone",
+   "scene": "Anna buys a new high-end smartphone with a fast chip. The shop assistant shows her the camera, the zoom, the big touchscreen display and the fingerprint sensor, connects her headphones by Bluetooth and changes the ringtone; Max says the device is the best gadget for every user, and Anna buys an add-on.",
+   "anchors": [
+    "high-end",
+    "smartphone",
+    "chip",
+    "camera",
+    "zoom",
+    "touchscreen",
+    "display",
+    "sensor",
+    "Bluetooth",
+    "ringtone",
+    "device",
+    "gadget"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c039",
+   "part": "p05",
+   "title": "No signal in the metro",
+   "scene": "In the metro Anna's phone has no signal and no internet, so she cannot go online and is offline for an hour. Back on the street, twenty messages and an alert from the group chat arrive, and Mama asks why roaming is on.",
+   "anchors": [
+    "signal",
+    "internet",
+    "online",
+    "offline",
+    "message",
+    "alert",
+    "chat",
+    "roaming"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c040",
+   "part": "p05",
+   "title": "Max fixes Anna's laptop",
+   "scene": "Anna's laptop is slow and full of glitches. Max, who works in IT, connects it to his computer, finds the problem in the software, makes a backup of her files on a disk with a USB cable, installs an update and does a reset; he shows her a keyboard shortcut, says his desktop at work is faster, and tells her that only the system administrator knows the college password.",
+   "anchors": [
+    "laptop",
+    "glitch",
+    "IT",
+    "computer",
+    "software",
+    "backup",
+    "file",
+    "disk",
+    "USB",
+    "cable",
+    "update",
+    "reset"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c041",
+   "part": "p05",
+   "title": "An email to the professor",
+   "scene": "Anna writes her first email in English to a professor. She logs in to her account with her username, uses a template, puts her name in the header and the date with a slash, and attaches her homework in PDF format; then she checks her inbox all evening and finds his reply in spam, with a link to a reading list.",
+   "anchors": [
+    "email",
+    "account",
+    "username",
+    "template",
+    "header",
+    "slash",
+    "format",
+    "inbox",
+    "reply",
+    "spam",
+    "link"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c042",
+   "part": "p05",
+   "title": "Train tickets online",
+   "scene": "Anna buys train tickets with an online service. The website opens slowly in her browser and the layout is confusing; while browsing she closes pop-ups, clicks 'buy', enters the code from an SMS and takes a screenshot of the QR code, which the conductor scans on the train.",
+   "anchors": [
+    "online service",
+    "website",
+    "browser",
+    "layout",
+    "browsing",
+    "pop-up",
+    "click",
+    "code",
+    "SMS",
+    "screenshot",
+    "QR code",
+    "scan"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c043",
+   "part": "p05",
+   "title": "Max's new flat goes online",
+   "scene": "Max needs internet in his new flat: a technician from the provider brings a router and a modem, fixes a connector and the antenna and does the setup. Then Max builds a home office with a big monitor, a headset and a microphone for calls, a printer that needs a new cartridge, a scanner, a tripod for video calls, and an adapter and a converter for his old plugs.",
+   "anchors": [
+    "provider",
+    "router",
+    "modem",
+    "connector",
+    "antenna",
+    "setup",
+    "home office",
+    "monitor",
+    "headset",
+    "microphone",
+    "printer",
+    "cartridge"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c044",
+   "part": "p06",
+   "title": "Anna's family tree",
+   "scene": "Anna draws her family tree for Max: her mama, her siblings, a new baby cousin and the whole clan. Grandpa was an admiral and is now a pensioner who still uses an old telephone; Mama, a millennial, says Grandpa is a boomer and a true optimist - and Anna has his genes.",
+   "anchors": [
+    "mama",
+    "sibling",
+    "baby",
+    "cousin",
+    "clan",
+    "admiral",
+    "pensioner",
+    "telephone",
+    "millennial",
+    "boomer",
+    "optimist",
+    "gene"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c045",
+   "part": "p06",
+   "title": "A surprise party for Mama",
+   "scene": "Anna and Taras plan a surprise party for Mama's birthday. They send an invite to the family, order a bouquet from a florist, throw confetti, sing karaoke and give Mama a scrapbook of old photos; Mama's friend brings coffee liqueur and pays everyone a compliment.",
+   "anchors": [
+    "surprise",
+    "invite",
+    "bouquet",
+    "florist",
+    "confetti",
+    "karaoke",
+    "scrapbook",
+    "liqueur",
+    "compliment"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c046",
+   "part": "p06",
+   "title": "Max's new flat",
+   "scene": "Max moves out of his parents' home. A realtor shows him a townhouse and a small loft with a modern interior: an old sofa in the hall, nice decor, a mini fridge, a queen-size bed, an intercom at the door and a thermostat - only four meters wide, but Max loves the comfort.",
+   "anchors": [
+    "realtor",
+    "townhouse",
+    "loft",
+    "interior",
+    "sofa",
+    "hall",
+    "decor",
+    "mini",
+    "queen-size",
+    "intercom",
+    "thermostat",
+    "comfort"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c047",
+   "part": "p06",
+   "title": "Fixing things at home",
+   "scene": "Anna's dad and Taras fix up the flat instead of calling a professional. They drill holes for metal shelves and use bolts five millimeters wide, repair the mechanism in the door lock, check the electrical panel, build a wall with concrete blocks and cement, and paint it with primer; the neighbor uses glue, adhesive and a concrete vibrator for his siding.",
+   "anchors": [
+    "professional",
+    "drill",
+    "metal",
+    "bolt",
+    "millimeter",
+    "mechanism",
+    "panel",
+    "block",
+    "cement",
+    "primer",
+    "adhesive",
+    "siding"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c048",
+   "part": "p06",
+   "title": "A winter blackout",
+   "scene": "In January the power goes out in the whole building. The family turns on the generator, which gives a loud beep, lights a kerosene lamp and wraps up in a quilt while the boiler and the radiator get cold; the smoke detector goes off because of the lamp.",
+   "anchors": [
+    "blackout",
+    "generator",
+    "beep",
+    "kerosene",
+    "quilt",
+    "boiler",
+    "radiator",
+    "detector"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c049",
+   "part": "p06",
+   "title": "Cleaning day",
+   "scene": "It is Saturday, and Max's flat is a mess, so he hires a cleaner and turns on his robot vacuum. They put plastic in the recycling and food scraps in the compost, keep leftovers in a container, run the washing machine on a short cycle with detergent, fill the soap dispenser, change the coffee filter, use a spray on the windows and test the fire alarm.",
+   "anchors": [
+    "cleaner",
+    "robot",
+    "plastic",
+    "recycling",
+    "compost",
+    "container",
+    "cycle",
+    "detergent",
+    "dispenser",
+    "filter",
+    "spray",
+    "alarm"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c050",
+   "part": "p06",
+   "title": "A weekend at the dacha",
+   "scene": "Grandma's cottage at the dacha has a veranda, a hammock and a garden with a funny gnome. Grandma buys seeds at the garden center, sprays insecticide on her dahlias, irises and azaleas, the jasmine and the magnolia smell sweet, Anna turns on the sprinkler, and they play badminton.",
+   "anchors": [
+    "cottage",
+    "veranda",
+    "hammock",
+    "gnome",
+    "garden center",
+    "insecticide",
+    "dahlia",
+    "iris",
+    "azalea",
+    "jasmine",
+    "magnolia",
+    "sprinkler"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c051",
+   "part": "p06",
+   "title": "Taras wants a pet",
+   "scene": "Taras wants a pet. At the pet shop they look at an aquarium with koi and a green iguana, and at a chihuahua, a terrier and a poodle with a microchip; the seller explains each dog's temperament.",
+   "anchors": [
+    "pet shop",
+    "aquarium",
+    "koi",
+    "iguana",
+    "chihuahua",
+    "terrier",
+    "poodle",
+    "microchip",
+    "temperament"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c052",
+   "part": "p06",
+   "title": "Games night at Grandma's",
+   "scene": "On Friday the family plays games at Grandma's: a big puzzle, a crossword, bingo, mahjong and ping-pong in the basement. Grandpa always has the joker, plays a clever gambit and wins every chess endgame, and Grandma reads tarot cards and everyone's horoscope.",
+   "anchors": [
+    "puzzle",
+    "crossword",
+    "bingo",
+    "mahjong",
+    "ping-pong",
+    "joker",
+    "gambit",
+    "endgame",
+    "tarot",
+    "horoscope"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c053",
+   "part": "p06",
+   "title": "Anna babysits",
+   "scene": "Anna babysits the neighbors' kids. They plan activities: the kids dress up as a pirate and an angel, are afraid of monsters and zombies, play with stickers and glitter, ride the carousel, and at a birthday party a clown brings a pony.",
+   "anchors": [
+    "babysitter",
+    "activity",
+    "pirate",
+    "angel",
+    "monster",
+    "zombie",
+    "sticker",
+    "glitter",
+    "carousel",
+    "clown",
+    "pony"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c054",
+   "part": "p06",
+   "title": "Max on a dating app",
+   "scene": "Max is single and tries a dating app. He updates his profile, writes about sex and love, has a crush on a sexy girl from his gym, plans a rendezvous, sees his ex, a narcissist, on the app and learns what a red flag is - he still dreams of a real love story.",
+   "anchors": [
+    "dating",
+    "profile",
+    "sex",
+    "crush",
+    "sexy",
+    "rendezvous",
+    "ex",
+    "narcissist",
+    "red flag",
+    "love story"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c055",
+   "part": "p06",
+   "title": "Sofia's coming out",
+   "scene": "Max's sister Sofia tells the family about her coming out: she is queer and introduces her partner. Grandma asks questions about gender and LGBT people, the family talks about stereotypes and taboos, and they learn to show respect.",
+   "anchors": [
+    "coming out",
+    "queer",
+    "partner",
+    "gender",
+    "LGBT",
+    "stereotype",
+    "taboo",
+    "respect"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c056",
+   "part": "p06",
+   "title": "Cousin Olya's wedding",
+   "scene": "Anna's cousin Olya gets married. An event coordinator plans the banquet and the catering, the bride wears a tiara, a guest films everything with a video camera, the groom's Scottish friend in a kilt makes a speech and acts like a buffoon, and a DJ plays a waltz; Grandma remembers the big parties for the new millennium, and Olya says she will remember this day forever.",
+   "anchors": [
+    "coordinator",
+    "banquet",
+    "catering",
+    "tiara",
+    "video camera",
+    "kilt",
+    "speech",
+    "buffoon",
+    "DJ",
+    "waltz",
+    "millennium",
+    "forever"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c057",
+   "part": "p07",
+   "title": "Max's job interview",
+   "scene": "Max applies for a part-time job at an IT company because he wants to become a software engineer. The recruiter and the interviewer ask about his skills and soft skills and every aspect of the job; Max shows his portfolio in a new blazer, and two days later he gets an offer and signs a contract.",
+   "anchors": [
+    "part-time",
+    "software engineer",
+    "recruiter",
+    "interviewer",
+    "skill",
+    "soft skill",
+    "aspect",
+    "portfolio",
+    "blazer",
+    "offer",
+    "contract"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c058",
+   "part": "p07",
+   "title": "Max's first day at the office",
+   "scene": "On his first day Max comes to the office, gets a badge from HR and meets his boss, the office manager and the assistant. He learns about the dress code, and the training starts at ten in the meeting room.",
+   "anchors": [
+    "office",
+    "badge",
+    "HR",
+    "boss",
+    "office manager",
+    "assistant",
+    "dress code",
+    "training",
+    "meeting room"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c059",
+   "part": "p07",
+   "title": "A new project",
+   "scene": "It is a busy period at work: the team leader starts a project for a big client, and the manager gives Max his first task. He explains the deadline, writes every milestone on the team wiki and in a checklist, and Max's enthusiasm is so big that three reminders for one meeting feel like overkill.",
+   "anchors": [
+    "period",
+    "leader",
+    "project",
+    "client",
+    "manager",
+    "task",
+    "deadline",
+    "milestone",
+    "wiki",
+    "checklist",
+    "enthusiasm",
+    "overkill"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c060",
+   "part": "p07",
+   "title": "Max's first presentation",
+   "scene": "Max shows his slides on the projector to the client and explains the document about their service. Later the client sends feedback and a follow-up email with useful insights about the impact of the project and asks for a deep dive into the numbers.",
+   "anchors": [
+    "slide",
+    "projector",
+    "document",
+    "service",
+    "feedback",
+    "follow-up",
+    "insight",
+    "impact",
+    "deep dive"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c061",
+   "part": "p07",
+   "title": "A one-on-one with the boss",
+   "scene": "After three months Max has a one-on-one with his supervisor - his first performance review. They talk about his progress, his potential and his professionalism, the director gives him a bonus, and the good news gives Max a boost.",
+   "anchors": [
+    "one-on-one",
+    "supervisor",
+    "performance review",
+    "progress",
+    "potential",
+    "professionalism",
+    "director",
+    "bonus",
+    "boost"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c062",
+   "part": "p07",
+   "title": "Sofia works freelance",
+   "scene": "'Hey, sis!' - Max visits his sister Sofia, a freelancer who works from home. She writes invoices, plans her week in a calendar and a task manager, follows time management tips, tries career coaching and networking, and keeps a work-life balance.",
+   "anchors": [
+    "sis",
+    "freelancer",
+    "invoice",
+    "calendar",
+    "task manager",
+    "time management",
+    "coaching",
+    "networking",
+    "work-life balance"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c063",
+   "part": "p07",
+   "title": "A summer job at a call center",
+   "scene": "Anna takes a summer job at a call center of a telecom company. She reads from a script, passes calls to an operator, sends questions about bills to billing and angry clients to the service center, works with a clerk from the back office who still uses a fax, and gets snacks from the vending machine.",
+   "anchors": [
+    "call center",
+    "telecom",
+    "script",
+    "operator",
+    "billing",
+    "service center",
+    "clerk",
+    "back office",
+    "fax",
+    "vending"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c064",
+   "part": "p07",
+   "title": "A problem at work",
+   "scene": "A colleague tells Max about harassment by a manager, and Max faces a dilemma. He does not want a conflict, so he acts with tact, reads the company guideline about compliance and talks to the compliance officer; the director gives the manager an ultimatum, and his lackey leaves too.",
+   "anchors": [
+    "harassment",
+    "dilemma",
+    "conflict",
+    "tact",
+    "guideline",
+    "compliance",
+    "compliance officer",
+    "ultimatum",
+    "lackey"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c065",
+   "part": "p07",
+   "title": "Big changes at the company",
+   "scene": "Top management wants to change the company. They write a business case, change every business process and cut middle management to save resources; Anna's aunt, who worked in management in this sector, explains her motive for leaving, and after a long process she starts freelance work.",
+   "anchors": [
+    "top management",
+    "management",
+    "business case",
+    "business process",
+    "process",
+    "middle management",
+    "resource",
+    "sector",
+    "motive",
+    "freelance"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c066",
+   "part": "p08",
+   "title": "Professor Brown's class",
+   "scene": "Anna's first class this semester is with Professor Brown, who has an old-school way of teaching. He gives the class the syllabus, writes on the board with a marker, says patience is an important attribute of a student, and shows them the campus and the institute.",
+   "anchors": [
+    "class",
+    "semester",
+    "professor",
+    "old-school",
+    "syllabus",
+    "marker",
+    "attribute",
+    "campus",
+    "institute"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c067",
+   "part": "p08",
+   "title": "Anna's English test",
+   "scene": "Anna takes an English course and has a test today: a minimum of two hours. She reads a text, writes a short dialogue and an essay, finds the right adjective, synonym and Ukrainian equivalent from the context, and forgets one comma and a consonant.",
+   "anchors": [
+    "course",
+    "test",
+    "minimum",
+    "text",
+    "dialogue",
+    "essay",
+    "adjective",
+    "synonym",
+    "equivalent",
+    "context",
+    "comma",
+    "consonant"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c068",
+   "part": "p08",
+   "title": "Small talk with exchange students",
+   "scene": "Anna meets exchange students from India, Ireland and Texas; one speaks Hindi. Small talk is hard at first - there is a language barrier, their accents, slang and dialects are different - and she learns about sarcasm, clichés, acronyms, euphemisms and nuance.",
+   "anchors": [
+    "Hindi",
+    "small talk",
+    "barrier",
+    "accent",
+    "slang",
+    "dialect",
+    "sarcasm",
+    "cliché",
+    "acronym",
+    "euphemism",
+    "nuance"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c069",
+   "part": "p08",
+   "title": "Taras's maths homework",
+   "scene": "Taras has algebra homework from Mrs. Koval, and Anna shows him an easy method: with a calculator and a formula with pi they find the radius of a circle and the perimeter of a square, and draw a cube, a cylinder and an oval.",
+   "anchors": [
+    "algebra",
+    "Mrs.",
+    "method",
+    "calculator",
+    "formula",
+    "pi",
+    "radius",
+    "perimeter",
+    "cube",
+    "cylinder",
+    "oval"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c070",
+   "part": "p08",
+   "title": "Anna studies online",
+   "scene": "Anna takes an online course in marketing and keeps a thirty-day streak in her learning app. She watches a video tutorial for each module of the e-learning program, books one-to-one lessons on the student portal, gets a certificate and wants to apply for a grant.",
+   "anchors": [
+    "online course",
+    "streak",
+    "tutorial",
+    "module",
+    "e-learning",
+    "one-to-one",
+    "portal",
+    "certificate",
+    "grant"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c071",
+   "part": "p08",
+   "title": "A day in the library",
+   "scene": "Anna spends a day in the old university library and its archive. She finds an encyclopedia, an atlas and a Latin manuscript, then reads a paperback of fiction by an author who writes under a pseudonym; the prologue explains how the story began.",
+   "anchors": [
+    "archive",
+    "encyclopedia",
+    "atlas",
+    "Latin",
+    "manuscript",
+    "paperback",
+    "fiction",
+    "author",
+    "pseudonym",
+    "prologue"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c072",
+   "part": "p08",
+   "title": "Trouble at Taras's school",
+   "scene": "Older boys play a cruel prank on Taras: they call him a geek and a loser because of his high IQ, and a hater writes about him online. The bullying gets on his nerves until he has a nervous tic, but a mentor helps him feel strong again.",
+   "anchors": [
+    "prank",
+    "geek",
+    "loser",
+    "IQ",
+    "hater",
+    "bullying",
+    "nerve",
+    "tic",
+    "mentor"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c073",
+   "part": "p08",
+   "title": "Aunt Iryna's doctorate",
+   "scene": "Anna's aunt finishes her doctorate. At a symposium at her alma mater she presents her argument about public discourse, helps to write a new curriculum and enjoys the prestige; Anna thinks she is a real intellectual with a great intellect.",
+   "anchors": [
+    "doctorate",
+    "symposium",
+    "alma mater",
+    "argument",
+    "discourse",
+    "curriculum",
+    "prestige",
+    "intellectual",
+    "intellect"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c074",
+   "part": "p09",
+   "title": "Anna has a virus",
+   "scene": "Anna feels ill and goes to the doctor. The doctor checks her pulse and uses a thermometer, asks about her symptoms and says it is a virus, not a case for an antibiotic; Anna takes an aspirin of 500 milligrams, and the medicine has a good effect.",
+   "anchors": [
+    "doctor",
+    "pulse",
+    "thermometer",
+    "symptom",
+    "virus",
+    "antibiotic",
+    "aspirin",
+    "milligram",
+    "effect"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c075",
+   "part": "p09",
+   "title": "At the dentist and the eye doctor",
+   "scene": "Max checks in at the front office of a clinic. The dentist gives him an anesthetic, talks about an implant, floss and a retainer, and a skin doctor looks at his acne; then an eye doctor checks his retina and talks about laser surgery.",
+   "anchors": [
+    "front office",
+    "anesthetic",
+    "implant",
+    "floss",
+    "retainer",
+    "acne",
+    "retina",
+    "laser"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c076",
+   "part": "p09",
+   "title": "Dad's checkup",
+   "scene": "Anna's dad has his yearly checkup. The doctor talks about cholesterol and risk factors, sends him for a stress test and a cancer screening and to a heart specialist, and asks about his migraines; the clinic's case management also checks Grandpa's pacemaker, his insulin and the tremor in his hands.",
+   "anchors": [
+    "checkup",
+    "cholesterol",
+    "risk factor",
+    "stress test",
+    "screening",
+    "specialist",
+    "migraine",
+    "case management",
+    "pacemaker",
+    "insulin",
+    "tremor"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c077",
+   "part": "p09",
+   "title": "A healthier lifestyle",
+   "scene": "Anna wants a healthier lifestyle. She stops eating junk food, takes vitamins and omega-3, makes a smoothie in the blender every morning, tries a juice detox and a drink with electrolytes after yoga, reads about metabolism, wellness and anti-aging creams - and her friend, a skeptic, laughs at her.",
+   "anchors": [
+    "lifestyle",
+    "junk food",
+    "vitamin",
+    "omega-3",
+    "smoothie",
+    "blender",
+    "detox",
+    "electrolyte",
+    "yoga",
+    "metabolism",
+    "wellness",
+    "anti-aging"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c078",
+   "part": "p09",
+   "title": "Talking about stress",
+   "scene": "Before exams Anna has a lot of stress and feels discomfort in her chest. A counselor at college talks about triggers, phobias, coping and a positive mindset and optimism, gives her a self-help book and a stress management plan, explains the stigma around mental health, and gives everyone a hotline number for thoughts of suicide or self-harm.",
+   "anchors": [
+    "stress",
+    "discomfort",
+    "trigger",
+    "phobia",
+    "coping",
+    "mindset",
+    "optimism",
+    "self-help",
+    "stress management",
+    "stigma",
+    "suicide",
+    "self-harm"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c079",
+   "part": "p09",
+   "title": "Remembering the lockdown",
+   "scene": "Grandma remembers the COVID lockdown: a virus is a kind of pathogen, so everyone stayed home. Influenza and pneumonia were dangerous too, hospitals needed oxygen and careful monitoring of patients, and later people got a booster shot.",
+   "anchors": [
+    "COVID",
+    "lockdown",
+    "pathogen",
+    "influenza",
+    "pneumonia",
+    "oxygen",
+    "monitoring",
+    "booster"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c080",
+   "part": "p09",
+   "title": "An accident in the street",
+   "scene": "Anna sees a man fall off his bike and calls the dispatcher. The paramedics come fast and treat him for shock and trauma, give him morphine, and his adrenaline is high; in the hospital, where doctors still carry pagers, he is in a coma for a day, needs blood from a donor, and his wife is in great distress.",
+   "anchors": [
+    "dispatcher",
+    "paramedic",
+    "shock",
+    "trauma",
+    "morphine",
+    "adrenaline",
+    "pager",
+    "coma",
+    "donor",
+    "distress"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c081",
+   "part": "p09",
+   "title": "Health week at college",
+   "scene": "During health week a doctor talks openly to students about sex education: the penis and the vagina, hormones, libido and orgasm, condoms and tampons, infections like herpes and syphilis, and why porno is not real life. Nobody laughs, and many students ask questions.",
+   "anchors": [
+    "penis",
+    "vagina",
+    "hormone",
+    "libido",
+    "orgasm",
+    "condom",
+    "tampon",
+    "herpes",
+    "syphilis",
+    "porno"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c082",
+   "part": "p09",
+   "title": "Uncle Petro's way back",
+   "scene": "Anna's uncle is an alcoholic. After years of alcoholism he goes to rehab and also stops smoking because of the nicotine; in his group people talk about heroin and opiates, cocaine, meth, LSD and marijuana, and one man takes methadone.",
+   "anchors": [
+    "alcoholic",
+    "alcoholism",
+    "rehab",
+    "nicotine",
+    "heroin",
+    "opiate",
+    "cocaine",
+    "meth",
+    "LSD",
+    "marijuana",
+    "methadone"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c083",
+   "part": "p10",
+   "title": "The big match on TV",
+   "scene": "Max and his dad watch the city derby on TV: Kyiv versus Lviv. The referee calls a foul and an offside, the goalkeeper saves a penalty, and in extra time a midfielder passes to the winger, who scores the winning goal; they watch the replay, while a fanatic dad talks about fair play and hooligans fight outside the stadium.",
+   "anchors": [
+    "football",
+    "derby",
+    "match",
+    "versus",
+    "referee",
+    "foul",
+    "offside",
+    "goalkeeper",
+    "extra time",
+    "midfielder",
+    "winger",
+    "goal"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c084",
+   "part": "p10",
+   "title": "Max at the gym",
+   "scene": "Max wants to do more sport and joins a club with a fitness center. His trainer, a fitness guru, plans cardio, stretching and pilates; an older man shows off his biceps and six-pack and talks about steroids, and after the workout Max books a massage.",
+   "anchors": [
+    "sport",
+    "club",
+    "fitness center",
+    "fitness",
+    "trainer",
+    "guru",
+    "cardio",
+    "stretching",
+    "pilates",
+    "biceps",
+    "six-pack",
+    "steroid"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c085",
+   "part": "p10",
+   "title": "The Kyiv marathon",
+   "scene": "Anna starts jogging with a fitness tracker and runs her first race. At the start fast runners sprint past her - some do cross-country and triathlon too - and at the end a champion athlete stands on the podium with a gold medal and a prize, while journalists ask the other medalists about doping.",
+   "anchors": [
+    "start",
+    "jogging",
+    "tracker",
+    "runner",
+    "sprint",
+    "cross-country",
+    "triathlon",
+    "champion",
+    "athlete",
+    "podium",
+    "medal",
+    "prize"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c086",
+   "part": "p10",
+   "title": "Taras learns karate",
+   "scene": "Taras starts karate at a dojo near his school. His sensei has a black belt and a fifth dan and also teaches kung fu; the kids do sparring every Friday, watch sumo on TV and meet a young gymnast from the next hall.",
+   "anchors": [
+    "karate",
+    "dojo",
+    "sensei",
+    "dan",
+    "kung fu",
+    "sparring",
+    "sumo",
+    "gymnast"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c087",
+   "part": "p10",
+   "title": "Boxing night",
+   "scene": "Max and his friends watch a night of boxing and MMA. The young challenger is the underdog in this fight, but the fighter makes a comeback against the champ and wins by knockout; the commentator screams, the fans are in euphoria, and later they watch the highlights.",
+   "anchors": [
+    "boxer",
+    "MMA",
+    "challenger",
+    "underdog",
+    "fight",
+    "fighter",
+    "comeback",
+    "champ",
+    "knockout",
+    "commentator",
+    "euphoria",
+    "highlight"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c088",
+   "part": "p10",
+   "title": "Basketball after school",
+   "scene": "Taras plays basketball for his school team. His name is on the roster for the playoff game against a strong opponent: a teammate makes a dunk, Taras gets the rebound and makes an assist, the coach calls a time-out, and the team wins the final - a real triumph; the school mascot dances, and the volleyball and softball teams cheer.",
+   "anchors": [
+    "basketball",
+    "roster",
+    "playoff",
+    "opponent",
+    "teammate",
+    "dunk",
+    "rebound",
+    "assist",
+    "time-out",
+    "final",
+    "triumph",
+    "mascot"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c089",
+   "part": "p10",
+   "title": "A day at the sea",
+   "scene": "On holiday by the sea Max and Anna try surfing and SUP; a surfer shows them his fiberglass surfboard, and they rent a kayak. They go diving with a diver, see a small boat's keel hit a buoy, swim in the ocean and watch people skydiving with parachutes.",
+   "anchors": [
+    "surfing",
+    "SUP",
+    "surfer",
+    "fiberglass",
+    "surfboard",
+    "kayak",
+    "diving",
+    "diver",
+    "keel",
+    "buoy",
+    "ocean",
+    "skydiving"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c090",
+   "part": "p10",
+   "title": "Boards and bikes",
+   "scene": "Taras and his friends love extreme sport and hip-hop. They practice skateboarding in the park on a new skateboard, ride mountain bikes with composite frames on a forest trail, go biking and snowboarding, and play hockey, frisbee and paintball; Anna prefers bowling.",
+   "anchors": [
+    "hip-hop",
+    "skateboarding",
+    "skateboard",
+    "mountain bike",
+    "composite",
+    "trail",
+    "biking",
+    "snowboarding",
+    "hockey",
+    "frisbee",
+    "paintball",
+    "bowling"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c091",
+   "part": "p10",
+   "title": "An American sports weekend",
+   "scene": "Max visits a friend in Texas. They watch baseball - a home run in the last inning - and American football: the quarterback throws, a linebacker falls, the team scores a touchdown and a field goal, and the cheerleaders show their cheerleading; on Sunday they go to a rodeo and see a lacrosse game.",
+   "anchors": [
+    "baseball",
+    "home run",
+    "inning",
+    "quarterback",
+    "linebacker",
+    "touchdown",
+    "field goal",
+    "cheerleader",
+    "cheerleading",
+    "rodeo",
+    "lacrosse"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c092",
+   "part": "p10",
+   "title": "Golf, tennis and cricket",
+   "scene": "Max's rich uncle invites him to his golf club. A caddie carries the bags, and the uncle talks about golf, tennis and the grand slam, polo, rugby and cricket, where a bowler throws the ball.",
+   "anchors": [
+    "golf club",
+    "golf",
+    "caddie",
+    "tennis",
+    "grand slam",
+    "polo",
+    "rugby",
+    "cricket",
+    "bowler"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c093",
+   "part": "p11",
+   "title": "Max's band",
+   "scene": "Max plays bass in a rock band with friends. They practice heavy metal in a garage: the drummer keeps the rhythm, the guitarist tunes his instrument, the frontman finds the right tone, and they record a demo.",
+   "anchors": [
+    "bass",
+    "rock",
+    "band",
+    "heavy metal",
+    "drummer",
+    "rhythm",
+    "guitarist",
+    "instrument",
+    "frontman",
+    "tone",
+    "demo"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c094",
+   "part": "p11",
+   "title": "Concert night",
+   "scene": "Anna and Max go to a sold-out concert of their favorite band at the new arena; Max bought premium tickets. They hear the intro, a track from the new album, a long guitar solo and strong vocals, see groupies and the tour manager, buy merch, and say they love live shows.",
+   "anchors": [
+    "concert",
+    "arena",
+    "sold out",
+    "premium",
+    "intro",
+    "track",
+    "album",
+    "solo",
+    "vocal",
+    "groupie",
+    "tour manager",
+    "merch"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c095",
+   "part": "p11",
+   "title": "A summer music festival",
+   "scene": "At a summer festival the lineup has rap, R&B, reggae and electro. A young rapper does a freestyle with the MC, a vocalist sings world music, and Anna discovers new favorite songs.",
+   "anchors": [
+    "festival",
+    "lineup",
+    "rap",
+    "R&B",
+    "reggae",
+    "electro",
+    "rapper",
+    "freestyle",
+    "MC",
+    "vocalist",
+    "world music"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c096",
+   "part": "p11",
+   "title": "Jazz in a small club",
+   "scene": "Anna's dad takes her to a jazz club. A trio plays the blues, a pianist plays a funk song, a man plays the saxophone, the band plays the last line in unison, the music has a great groove, and an old jukebox stands in the corner.",
+   "anchors": [
+    "jazz",
+    "trio",
+    "blues",
+    "pianist",
+    "funk",
+    "saxophone",
+    "unison",
+    "groove",
+    "jukebox"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c097",
+   "part": "p11",
+   "title": "A night at the opera",
+   "scene": "Anna's grandma takes her to the opera 'The Phantom of the Opera'. A soprano sings a famous aria, the tenor answers, the maestro leads the ensemble, and before the show a string quartet plays a sonata in the hall.",
+   "anchors": [
+    "opera",
+    "phantom",
+    "soprano",
+    "aria",
+    "tenor",
+    "maestro",
+    "ensemble",
+    "quartet",
+    "sonata"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c098",
+   "part": "p11",
+   "title": "Taras's music lesson",
+   "scene": "Taras plays in the school band. His teacher sings the notes fa and la and explains an interval, and the band practices with a trombone, a tuba, a piccolo, a sax and a big gong.",
+   "anchors": [
+    "fa",
+    "la",
+    "interval",
+    "trombone",
+    "tuba",
+    "piccolo",
+    "sax",
+    "gong"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c099",
+   "part": "p11",
+   "title": "Dance lessons",
+   "scene": "Anna and Max take dance lessons before cousin Olya's wedding. They learn the tango, salsa and samba for the carnival, try a polka and the boogie, and watch a ballet with a famous ballerina.",
+   "anchors": [
+    "tango",
+    "salsa",
+    "samba",
+    "carnival",
+    "polka",
+    "boogie",
+    "ballet",
+    "ballerina"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c100",
+   "part": "p11",
+   "title": "Dad's old records",
+   "scene": "Anna's dad shows her his old vinyl and CDs and plays them on his stereo: rock and roll, hard rock, punk and new wave. He was a rocker and played in a rock band, Grandpa was a hippie who played the banjo, and now there is a revival of their music - Dad feels nostalgia.",
+   "anchors": [
+    "vinyl",
+    "CD",
+    "stereo",
+    "rock and roll",
+    "hard rock",
+    "punk",
+    "new wave",
+    "rocker",
+    "rock band",
+    "hippie",
+    "banjo",
+    "revival"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c101",
+   "part": "p11",
+   "title": "Max's first rave",
+   "scene": "Max goes to a rave in an old factory - a mega party. The DJ plays a long mix of techno and acid house, a girl in goth clothes plays a synth, and a punk rock band plays at sunrise.",
+   "anchors": [
+    "rave",
+    "mega",
+    "mix",
+    "techno",
+    "acid house",
+    "goth",
+    "synth",
+    "punk rock"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c102",
+   "part": "p11",
+   "title": "Sofia writes a song",
+   "scene": "Max's sister Sofia is a songwriter who loves folk and new age. With a producer she records a duet, adds an instrumental and a remix, and plans the release of her debut album; the title track is about Kyiv.",
+   "anchors": [
+    "songwriter",
+    "folk",
+    "new age",
+    "producer",
+    "duet",
+    "instrumental",
+    "remix",
+    "release",
+    "debut",
+    "title track"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c103",
+   "part": "p11",
+   "title": "The school play",
+   "scene": "Taras gets a role in the school play at the theater - he plays the prince. As the protagonist he says a long monologue, a poet reads a sonnet at a masquerade, and the drama teacher, who knows every actor and the whole repertoire, says the farce shows Taras has real talent.",
+   "anchors": [
+    "role",
+    "theater",
+    "prince",
+    "protagonist",
+    "monologue",
+    "poet",
+    "sonnet",
+    "masquerade",
+    "drama",
+    "actor",
+    "repertoire",
+    "talent"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c104",
+   "part": "p11",
+   "title": "An evening of comedy",
+   "scene": "Anna and her friends go to an improv show and a stand-up comedian, then to a cabaret with a drag queen and a revue of a musical; a comedy duo makes them laugh at a matinee, one joke is a total fail, and at a charity gala an artiste with great humor sings.",
+   "anchors": [
+    "improv",
+    "stand-up",
+    "cabaret",
+    "drag queen",
+    "revue",
+    "musical",
+    "duo",
+    "matinee",
+    "fail",
+    "gala",
+    "artiste",
+    "humor"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c105",
+   "part": "p11",
+   "title": "A day at the art museum",
+   "scene": "Anna takes Max to the art museum. They see Renaissance portraits and a Madonna full of symbolism, the contour of a face in an indigo drawing, statues by a famous sculptor on stone pedestals, antique furniture and modern realism; a realist painter's panorama of Kyiv makes a critic and the curator smile.",
+   "anchors": [
+    "art",
+    "renaissance",
+    "portrait",
+    "madonna",
+    "symbolism",
+    "contour",
+    "sculptor",
+    "pedestal",
+    "antique",
+    "realism",
+    "critic",
+    "curator"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c106",
+   "part": "p11",
+   "title": "Street art in Kyiv",
+   "scene": "Max shows Anna street art in an old district: graffiti, a huge mural and public art on the exterior of old buildings. In an art space they see contemporary art, collages, avant-garde visuals and posters by an illustrator, and an art critic talks about design, designers and contrast.",
+   "anchors": [
+    "graffiti",
+    "mural",
+    "public art",
+    "exterior",
+    "art space",
+    "contemporary art",
+    "avant-garde",
+    "poster",
+    "illustrator",
+    "art critic",
+    "design",
+    "designer"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c107",
+   "part": "p12",
+   "title": "What shall we watch?",
+   "scene": "Anna and Max cannot choose a film on their streaming service. They watch trailers, read the rating and argue about the genre - a thriller, sci-fi about a cyborg or fantasy - and Max gives a spoiler about the sequel of a summer blockbuster.",
+   "anchors": [
+    "film",
+    "streaming service",
+    "trailer",
+    "rating",
+    "genre",
+    "thriller",
+    "sci-fi",
+    "cyborg",
+    "fantasy",
+    "spoiler",
+    "sequel",
+    "blockbuster"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c108",
+   "part": "p12",
+   "title": "Max's favorite TV show",
+   "scene": "Every Thursday at prime time Max watches a new episode of his favorite sitcom, and Grandma prefers a game show. Taras likes a reality show, Mama watches a talk show with a funny gag and a cooking segment, but Max says streaming is better entertainment and sends a promo clip to Anna.",
+   "anchors": [
+    "prime time",
+    "episode",
+    "sitcom",
+    "game show",
+    "show",
+    "reality show",
+    "talk show",
+    "gag",
+    "streaming",
+    "entertainment",
+    "promo",
+    "clip"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c109",
+   "part": "p12",
+   "title": "A day on a film set",
+   "scene": "Sofia works as an extra on a film set. After the casting she meets the filmmaker and the production designer, the cameraman films a close-up, the narrator explains the setting and the flashback, and the director shows them a preview with footage, suspense, a cameo and a great soundtrack.",
+   "anchors": [
+    "casting",
+    "filmmaker",
+    "production designer",
+    "cameraman",
+    "close-up",
+    "narrator",
+    "setting",
+    "flashback",
+    "preview",
+    "footage",
+    "suspense",
+    "soundtrack"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c110",
+   "part": "p12",
+   "title": "Grandpa's old films",
+   "scene": "Grandpa remembers the drive-in and the old music hall. He loves film noir and melodrama, not mainstream films but indie ones, watches a remake as a homage to an old classic on disc, keeps a photo album with negatives, and makes a slide show of retro posters.",
+   "anchors": [
+    "drive-in",
+    "music hall",
+    "noir",
+    "melodrama",
+    "mainstream",
+    "indie",
+    "remake",
+    "homage",
+    "disc",
+    "photo album",
+    "negative",
+    "slide show"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c111",
+   "part": "p12",
+   "title": "Taras's comics and anime",
+   "scene": "Taras watches anime every night. His favorite hero has an alter ego like Superman, and his only weakness is like kryptonite; a cold sociopath villain with many minions, a droid and an ogre lives in a creepy castle with a vampire, and Taras also reads the hobbit saga.",
+   "anchors": [
+    "anime",
+    "alter ego",
+    "superman",
+    "kryptonite",
+    "sociopath",
+    "minion",
+    "droid",
+    "ogre",
+    "creepy",
+    "vampire",
+    "hobbit",
+    "saga"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c112",
+   "part": "p12",
+   "title": "Taras the gamer",
+   "scene": "Taras is a gamer: gaming is his favorite hobby. He plays on his console with a new controller, joins a squad online, finds a rare item and makes a ten-hit combo, but the lag - and an IP problem - ruin his high score.",
+   "anchors": [
+    "gamer",
+    "gaming",
+    "console",
+    "controller",
+    "squad",
+    "item",
+    "combo",
+    "lag",
+    "IP",
+    "high score"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c113",
+   "part": "p12",
+   "title": "Max makes a game",
+   "scene": "Max and a friend want to be game developers. A project manager and one more dev join them to make an RPG with elves, orcs, goblins and a mage who needs mana; the gameplay is simple, players can add a mod, choose an avatar and try a flight simulator.",
+   "anchors": [
+    "game developer",
+    "project manager",
+    "dev",
+    "RPG",
+    "elf",
+    "orc",
+    "goblin",
+    "mage",
+    "mana",
+    "gameplay",
+    "mod",
+    "avatar"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c114",
+   "part": "p12",
+   "title": "Uncle's poker night",
+   "scene": "Max's uncle invites friends to play poker. He tries a bluff, goes all-in and loses to a full house - a real hustler takes his money; then he talks about his trips to the casino, blackjack, gambling and a jackpot, and Grandma says he is a gambler who should play pinball instead.",
+   "anchors": [
+    "poker",
+    "bluff",
+    "all-in",
+    "full house",
+    "hustler",
+    "casino",
+    "blackjack",
+    "gambling",
+    "jackpot",
+    "gambler",
+    "pinball"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c115",
+   "part": "p12",
+   "title": "Anna's travel blog",
+   "scene": "Anna starts a travel blog on the web. She writes a short bio, adds a hashtag, an emoji or a gif to every post, puts a video clip in each content piece, answers each comment, and is happy when blogging brings her first hundred followers - now she is a real blogger.",
+   "anchors": [
+    "blog",
+    "web",
+    "bio",
+    "hashtag",
+    "emoji",
+    "gif",
+    "post",
+    "video clip",
+    "content",
+    "comment",
+    "blogging",
+    "follower"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c116",
+   "part": "p12",
+   "title": "Max goes viral",
+   "scene": "Max posts a funny video of his cat. It becomes a meme and a trend: people share it on their timeline, tag friends and tweet about it, the hype grows, and a brand offers him a giveaway; then he posts a how-to with a kitchen hack and a playlist for cat lovers.",
+   "anchors": [
+    "video",
+    "meme",
+    "trend",
+    "timeline",
+    "tag",
+    "tweet",
+    "hype",
+    "giveaway",
+    "how-to",
+    "hack",
+    "playlist"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c117",
+   "part": "p12",
+   "title": "Trouble in the comments",
+   "scene": "A troll writes rude comments under Anna's post and sends her a friend request. The moderator of the forum stops the trolling and deletes hate speech, and the online community asks for proof and real info instead of fake news.",
+   "anchors": [
+    "troll",
+    "request",
+    "moderator",
+    "forum",
+    "trolling",
+    "hate speech",
+    "community",
+    "proof",
+    "info",
+    "fake news"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c118",
+   "part": "p12",
+   "title": "Anna's podcast",
+   "scene": "Anna and Max start a podcast. They write a jingle, record the audio on a recorder, edit the audio file, print a small booklet and practice storytelling; then a reporter from a local radio station invites them for an interview on her radio show.",
+   "anchors": [
+    "podcast",
+    "jingle",
+    "audio",
+    "recorder",
+    "audio file",
+    "booklet",
+    "storytelling",
+    "reporter",
+    "radio",
+    "interview",
+    "radio show"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c119",
+   "part": "p12",
+   "title": "Meeting a superstar",
+   "scene": "Sofia is a finalist in a TV talent show, and a talent scout from showbiz notices her. Backstage she meets a superstar - a rich playboy - with a bodyguard; VIP guests talk about glamour, the paparazzi take photos, and fans from the fan club ask for an autograph.",
+   "anchors": [
+    "finalist",
+    "talent show",
+    "scout",
+    "showbiz",
+    "superstar",
+    "playboy",
+    "bodyguard",
+    "VIP",
+    "glamour",
+    "paparazzi",
+    "fan club",
+    "autograph"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c120",
+   "part": "p13",
+   "title": "A day at the zoo",
+   "scene": "Anna takes Taras to the zoo. They see a tiger, a gorilla, an orangutan, a panda and a zebra, a leopard on a branch, a crocodile, a big python, flamingos and lemurs; a guide explains each animal's habitat, and they buy hot dogs at the snack bar.",
+   "anchors": [
+    "tiger",
+    "gorilla",
+    "orangutan",
+    "panda",
+    "zebra",
+    "leopard",
+    "crocodile",
+    "python",
+    "flamingo",
+    "lemur",
+    "habitat",
+    "snack bar"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c121",
+   "part": "p13",
+   "title": "Dogs in the park",
+   "scene": "On Sunday Anna's family has a picnic near the pavilion in the park. They meet dogs of every kind - a bulldog, a beagle, a basset, a husky, a collie and a pit bull - see how dogs act by instinct, hear about a parasite from dirty water and clean up a dog's excrement.",
+   "anchors": [
+    "picnic",
+    "pavilion",
+    "bulldog",
+    "beagle",
+    "basset",
+    "husky",
+    "collie",
+    "pit bull",
+    "instinct",
+    "parasite",
+    "excrement"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c122",
+   "part": "p13",
+   "title": "Grandma's farm",
+   "scene": "Anna and Max help on Grandma's farm. The farmer next door drives a tractor over many hectares, an old mule carries ten bushels of apples from the homestead, bees collect nectar, and Grandma talks about pesticides and a new hybrid tree.",
+   "anchors": [
+    "farmer",
+    "tractor",
+    "hectare",
+    "mule",
+    "bushel",
+    "homestead",
+    "nectar",
+    "pesticide",
+    "hybrid"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c123",
+   "part": "p13",
+   "title": "Hiking in the Carpathians",
+   "scene": "Anna and Max go hiking in the Carpathian Mountains. They camp near a cliff, use a compass to find the peak, feel the breeze from the canyon under old cedars, sit on granite rocks on a high plateau, look at the local flora and paddle a canoe across a lake, where they meet boy scouts who love scouting.",
+   "anchors": [
+    "hiking",
+    "camp",
+    "cliff",
+    "compass",
+    "peak",
+    "breeze",
+    "canyon",
+    "cedar",
+    "granite",
+    "plateau",
+    "flora",
+    "canoe"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c124",
+   "part": "p13",
+   "title": "National parks in America",
+   "scene": "Max's cousin works as a park ranger in America. He shows them a grizzly, a coyote, a raccoon near the trash, bison, gophers and caribou, wild mustangs and an alligator in the swamp, warns them about cougars and makes a fire from hickory wood.",
+   "anchors": [
+    "ranger",
+    "grizzly",
+    "coyote",
+    "raccoon",
+    "bison",
+    "gopher",
+    "caribou",
+    "mustang",
+    "alligator",
+    "cougar",
+    "hickory"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c125",
+   "part": "p13",
+   "title": "Under the sea",
+   "scene": "On a sea voyage Anna watches the water: an orca jumps, a fisherman catches a marlin, mackerel and a carp from a river, a pelican and an albatross fly over the boat, and a diver shows them a coral reef full of plankton and a tiny hydra.",
+   "anchors": [
+    "voyage",
+    "orca",
+    "marlin",
+    "mackerel",
+    "carp",
+    "pelican",
+    "albatross",
+    "coral",
+    "reef",
+    "plankton",
+    "hydra"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c126",
+   "part": "p13",
+   "title": "A climate strike",
+   "scene": "Anna joins a climate strike. Students talk about smog in the city, the ozone layer and melting icebergs, methane, carbon dioxide and fracking, eco solutions, and how a tornado or a tsunami can hit a whole region.",
+   "anchors": [
+    "climate",
+    "strike",
+    "smog",
+    "ozone",
+    "iceberg",
+    "methane",
+    "dioxide",
+    "fracking",
+    "eco",
+    "tornado",
+    "tsunami",
+    "region"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c127",
+   "part": "p13",
+   "title": "At the natural history museum",
+   "scene": "Taras's class visits the natural history museum. They see a dinosaur, a dodo, old primates like the gibbon, an artifact and a fragment of an old bone, learn how each organism lives, watch a chameleon, a cocoon and termites that use pheromones, and read about fauna and even cannibalism among animals.",
+   "anchors": [
+    "dinosaur",
+    "dodo",
+    "primate",
+    "gibbon",
+    "artifact",
+    "fragment",
+    "organism",
+    "chameleon",
+    "cocoon",
+    "termite",
+    "pheromone",
+    "fauna"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c128",
+   "part": "p14",
+   "title": "A weekend in Paris",
+   "scene": "Anna and her mama spend a weekend in Paris. A waiter says 'Bonjour, monsieur' to a man, 'madame' to Mama and 'mademoiselle' to Anna; they eat madeleines, creme brulee and brie in a bistro, buy a beret, pay a lot of euros, admire the facade of an old chateau, and drink cognac and pinot noir in a wine bar, dressed a la old movie stars.",
+   "anchors": [
+    "monsieur",
+    "madame",
+    "mademoiselle",
+    "madeleine",
+    "creme",
+    "brie",
+    "bistro",
+    "beret",
+    "euro",
+    "facade",
+    "chateau",
+    "cognac"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c129",
+   "part": "p14",
+   "title": "Summer in Italy and Spain",
+   "scene": "Max and his parents go on a cruise on a big liner. In Venice they take a gondola along a canal and drink coffee in a piazza, see an old villa and a palace, and in Spain they walk on the promenade, buy souvenirs, dance at a fiesta, drink chardonnay and meet a compatriot from Kyiv.",
+   "anchors": [
+    "cruise",
+    "liner",
+    "gondola",
+    "canal",
+    "piazza",
+    "villa",
+    "palace",
+    "promenade",
+    "souvenir",
+    "fiesta",
+    "chardonnay",
+    "compatriot"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c130",
+   "part": "p14",
+   "title": "Rainy days in London",
+   "scene": "During her summer course in London Anna learns to dress for rain: a trench coat, a poncho, a warm jumper, a fleece and a shawl. She pays in sterling, eats scones and toffee, sees an old painting sold for a hundred guineas, and asks a constable for directions.",
+   "anchors": [
+    "trench coat",
+    "poncho",
+    "jumper",
+    "fleece",
+    "shawl",
+    "sterling",
+    "scone",
+    "toffee",
+    "guinea",
+    "constable"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c131",
+   "part": "p14",
+   "title": "Interrail to the North",
+   "scene": "Max travels by train. In Berlin Herr and Frau Weber invite him to a beer fest; in the Alps he wears a cardigan, sleeps in a chalet near an old baron's castle, hears an echo, learns about each Swiss canton and pays in francs; in Norway he pays in krone, sees a fjord and a Viking ship, and in Iceland a geyser and magma under the ground, and almost gets hypothermia.",
+   "anchors": [
+    "Herr",
+    "Frau",
+    "fest",
+    "cardigan",
+    "chalet",
+    "baron",
+    "echo",
+    "canton",
+    "franc",
+    "krone",
+    "fjord",
+    "Viking"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c132",
+   "part": "p14",
+   "title": "Letters in Athens",
+   "scene": "In Athens Anna tries to read the signs. She learns the Greek letters - alpha, gamma, kappa, mu, theta, phi, chi, sigma and omega - visits the old citadel on a hill and gets lost in a garden labyrinth.",
+   "anchors": [
+    "alpha",
+    "gamma",
+    "kappa",
+    "mu",
+    "theta",
+    "phi",
+    "chi",
+    "sigma",
+    "omega",
+    "citadel",
+    "labyrinth"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c133",
+   "part": "p14",
+   "title": "Two weeks in Japan",
+   "scene": "Max visits a friend in Tokyo. He eats sushi and ramen, buys manga, sees a woman in a kimono and a geisha under the sakura trees, learns table etiquette from his senpai, and stays inside during a typhoon.",
+   "anchors": [
+    "sushi",
+    "ramen",
+    "manga",
+    "kimono",
+    "geisha",
+    "sakura",
+    "etiquette",
+    "senpai",
+    "typhoon"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c134",
+   "part": "p14",
+   "title": "Backpacking in Asia",
+   "scene": "Anna's friend Lisa goes backpacking in Asia and sleeps in cheap hostels. In Seoul she eats kimchi with fans of a K-pop oppa, in China she eats bao and a mandarin and pays in yuan, in Vietnam she rides a moped and pays in dong, and in Thailand she pays in baht and tries durian and papaya; a doctor talks about malaria, cholera and quarantine.",
+   "anchors": [
+    "hostel",
+    "kimchi",
+    "oppa",
+    "bao",
+    "mandarin",
+    "yuan",
+    "moped",
+    "dong",
+    "baht",
+    "durian",
+    "papaya",
+    "malaria"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c135",
+   "part": "p14",
+   "title": "A wedding in India",
+   "scene": "Anna's friend from college invites her to a wedding in India. The women wear saris, the men wear dhotis and turbans, a Sikh uncle tells stories about an old raja and a British sahib, a snake charmer shows a cobra, and at a temple puja a mystic reads Sanskrit and gives everyone prasad.",
+   "anchors": [
+    "sari",
+    "dhoti",
+    "turban",
+    "Sikh",
+    "raja",
+    "sahib",
+    "cobra",
+    "puja",
+    "mystic",
+    "Sanskrit",
+    "prasad"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c136",
+   "part": "p14",
+   "title": "Istanbul, Dubai and Cairo",
+   "scene": "Max's parents travel around the Middle East. In Istanbul they shop in a bazaar, pay in lira and hear about a pasha who ruled the city; in Dubai they meet a sheikh in his emirate and pay in dinars on the way; they ride to an oasis, see a mirage and a scorpion, and in Egypt they hear a mullah, see the Sphinx and the Nile delta.",
+   "anchors": [
+    "bazaar",
+    "lira",
+    "pasha",
+    "sheikh",
+    "emirate",
+    "dinar",
+    "oasis",
+    "mirage",
+    "scorpion",
+    "mullah",
+    "sphinx",
+    "delta"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c137",
+   "part": "p14",
+   "title": "A safari in Kenya",
+   "scene": "Anna's aunt books a safari in Kenya through her travel agent. Near the equator, in the tropics of another continent, she sees hyenas and gazelles on the savanna, pays in shillings and buys shea butter; then she flies to South Africa and pays in rand.",
+   "anchors": [
+    "safari",
+    "travel agent",
+    "equator",
+    "tropics",
+    "continent",
+    "hyena",
+    "gazelle",
+    "savanna",
+    "shilling",
+    "shea",
+    "rand"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c138",
+   "part": "p14",
+   "title": "Max in Latin America",
+   "scene": "Max travels in Mexico and Peru. His new amigo pays in pesos, they drink tequila and margaritas among the cacti and dance the mambo to bongos, see a llama, a puma and a condor in the mountains and coca fields, and cut through the Amazon jungle with a machete, where caimans and piranhas live.",
+   "anchors": [
+    "amigo",
+    "peso",
+    "tequila",
+    "margarita",
+    "cactus",
+    "llama",
+    "puma",
+    "condor",
+    "coca",
+    "machete",
+    "caiman",
+    "piranha"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c139",
+   "part": "p14",
+   "title": "Australia and the islands",
+   "scene": "Anna's cousin works at a beach resort in Australia. He sees kangaroos, koalas and a wild dingo, throws a boomerang, eats crab, sleeps in a bungalow during a cyclone, and on an island he plays the ukulele in a deluxe room, sees tourists in bikinis on a topless beach, a wooden tiki and a volcano with hot lava in its crater.",
+   "anchors": [
+    "resort",
+    "kangaroo",
+    "koala",
+    "dingo",
+    "boomerang",
+    "crab",
+    "bungalow",
+    "cyclone",
+    "bikini",
+    "topless",
+    "tiki",
+    "lava"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c140",
+   "part": "p14",
+   "title": "A week in New York",
+   "scene": "Anna and Max spend a week in New York. They walk downtown on a wide boulevard, see Chinatown and the huge billboards, eat bagels with cream cheese and French toast at brunch, steak and lobster for dinner and pecan pie, find a dime on the street and visit a friend's penthouse.",
+   "anchors": [
+    "downtown",
+    "boulevard",
+    "Chinatown",
+    "billboard",
+    "bagel",
+    "cream cheese",
+    "French toast",
+    "brunch",
+    "steak",
+    "lobster",
+    "dime",
+    "penthouse"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c141",
+   "part": "p15",
+   "title": "Dad's small bakery",
+   "scene": "Anna's dad becomes a businessman: he opens a small bakery with a business partner. They write a business plan, check the cash flow and the profit, decide on their pricing, choose a vendor for flour, talk to a retailer about retail, hire a sales manager, join a farmers' cooperative and sometimes use barter.",
+   "anchors": [
+    "businessman",
+    "business partner",
+    "business plan",
+    "cash flow",
+    "profit",
+    "pricing",
+    "vendor",
+    "retailer",
+    "retail",
+    "sales manager",
+    "cooperative",
+    "barter"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c142",
+   "part": "p15",
+   "title": "Max's startup",
+   "scene": "Max and two friends start their own startup. The founder explains the concept, the business model and a use case to an investor, who sees a game changer and a win-win deal; he offers venture capital for their know-how, they get a patent, and later they plan a joint venture and a spin-off.",
+   "anchors": [
+    "startup",
+    "founder",
+    "concept",
+    "business model",
+    "use case",
+    "investor",
+    "game changer",
+    "win-win",
+    "venture",
+    "capital",
+    "know-how",
+    "patent"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c143",
+   "part": "p15",
+   "title": "Anna's marketing seminar",
+   "scene": "At a marketing seminar Anna studies a case study about branding. She creates a logo and a slogan with an art director, plans targeting for the mass market, reads what the respondents said, compares the results with a benchmark, and learns about merchandising, promotion and gift vouchers.",
+   "anchors": [
+    "marketing",
+    "seminar",
+    "case study",
+    "branding",
+    "logo",
+    "slogan",
+    "art director",
+    "targeting",
+    "mass market",
+    "respondent",
+    "benchmark",
+    "merchandising"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c144",
+   "part": "p15",
+   "title": "A tech expo",
+   "scene": "Anna helps at a tech expo. The keynote speaker is a famous businesswoman and a product manager; sponsors hang banners, a promoter hands out flyers about a bestseller, the PR team sends a press release, and a speaker explains email marketing and a good landing page.",
+   "anchors": [
+    "expo",
+    "keynote",
+    "businesswoman",
+    "product manager",
+    "sponsor",
+    "banner",
+    "promoter",
+    "flyer",
+    "bestseller",
+    "PR",
+    "press release",
+    "email marketing"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c145",
+   "part": "p15",
+   "title": "Export and import in Odesa",
+   "scene": "Max's uncle runs a business at the port of Odesa. Ships come to the dock with cargo, a tanker with water as ballast brings oil by the barrel, an industrialist and a distributor talk about export and import, and the uncle explains tariffs, quotas, an exporter, an importer and a conveyor in the warehouse.",
+   "anchors": [
+    "port",
+    "dock",
+    "cargo",
+    "tanker",
+    "ballast",
+    "barrel",
+    "export",
+    "import",
+    "tariff",
+    "quota",
+    "exporter",
+    "importer"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c146",
+   "part": "p15",
+   "title": "Uncle Oleh, the trader",
+   "scene": "Anna's uncle is a trader at a big bank. He explains trading and a broker's work at a brokerage, the stock market index and dividends, buys bitcoin, follows the smart money, and talks about futures, derivatives, hedge funds and asset management.",
+   "anchors": [
+    "trader",
+    "trading",
+    "broker",
+    "brokerage",
+    "index",
+    "dividend",
+    "bitcoin",
+    "smart money",
+    "futures",
+    "derivative",
+    "hedge fund",
+    "asset management"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c147",
+   "part": "p15",
+   "title": "Buying a flat",
+   "scene": "Anna's parents want to buy a new flat. A developer and a consortium of banks build a condominium, the bank's banking app shows them a loan with a grace period, the money waits in escrow, a creditor checks their reserve, they get a rebate from the city, and an auditor does an audit of the developer.",
+   "anchors": [
+    "developer",
+    "consortium",
+    "condominium",
+    "banking",
+    "grace period",
+    "escrow",
+    "creditor",
+    "reserve",
+    "rebate",
+    "auditor",
+    "audit"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c148",
+   "part": "p15",
+   "title": "The economy on TV",
+   "scene": "An economist on TV talks about a boom and a collapse, the budget deficit, debts of a trillion dollars, the fall of the ruble and a country close to default; an insider talks about a drug cartel's money, risk management at banks, a broker-dealer and tax-free shopping at the airport.",
+   "anchors": [
+    "economist",
+    "boom",
+    "collapse",
+    "deficit",
+    "trillion",
+    "ruble",
+    "default",
+    "insider",
+    "cartel",
+    "risk management",
+    "broker-dealer",
+    "tax-free"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c149",
+   "part": "p15",
+   "title": "A party for the rich",
+   "scene": "Max's rich cousin takes him to a cocktail party with a burlesque show. He meets a self-made millionaire, an oil magnate with a huge conglomerate and business interests everywhere, people from show business who talk about the box office and eat caviar, and a man who gives an endowment to a university.",
+   "anchors": [
+    "cocktail party",
+    "burlesque",
+    "self-made",
+    "millionaire",
+    "magnate",
+    "conglomerate",
+    "business interest",
+    "show business",
+    "box office",
+    "caviar",
+    "endowment"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c150",
+   "part": "p15",
+   "title": "Consultants come to the company",
+   "scene": "Consultants from a consulting firm come to Max's company. They run a workshop in the business center, talk about project management and recruiting, write a memorandum for the directorate and the pharma clients, put old papers in the shredder and sell old furniture at an auction - every middle manager is worried.",
+   "anchors": [
+    "consultant",
+    "consulting",
+    "workshop",
+    "business center",
+    "project management",
+    "recruiting",
+    "memorandum",
+    "directorate",
+    "pharma",
+    "shredder",
+    "auction",
+    "middle manager"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c151",
+   "part": "p16",
+   "title": "A meeting at city hall",
+   "scene": "Anna goes to a meeting at city hall about her street. The mayor and an alderman talk about zoning, urban design and a smart city plan, and a bureaucrat shows papers; neighbors worry that a bulldozer will take down the community center, the old kiosk, the barbershop and the bus depot, where squatters now live.",
+   "anchors": [
+    "mayor",
+    "alderman",
+    "zoning",
+    "urban design",
+    "smart city",
+    "bureaucrat",
+    "bulldozer",
+    "community center",
+    "kiosk",
+    "barbershop",
+    "depot",
+    "squatter"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c152",
+   "part": "p16",
+   "title": "Anna volunteers",
+   "scene": "Anna becomes a volunteer at a charity. She helps a fundraiser with fundraising for war veterans and for children with lymphoma, does advocacy for people who live like paupers, sells handmade cards, and lays flowers at a memorial to the soldiers' heroism.",
+   "anchors": [
+    "volunteer",
+    "charity",
+    "fundraiser",
+    "fundraising",
+    "veteran",
+    "lymphoma",
+    "advocacy",
+    "pauper",
+    "handmade",
+    "memorial",
+    "heroism"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c153",
+   "part": "p16",
+   "title": "New neighbors",
+   "scene": "A family of immigrants moves into Anna's building. They talk about their green card, the consulate and the consul, about racism and a racist neighbor, about the poor ghetto where they lived and their hope to join the middle class; Grandpa, born in the baby boom, is a baby boomer and a nationalist, and they argue about nationalism.",
+   "anchors": [
+    "immigrant",
+    "green card",
+    "consulate",
+    "consul",
+    "racism",
+    "racist",
+    "ghetto",
+    "middle class",
+    "baby boom",
+    "baby boomer",
+    "nationalist",
+    "nationalism"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c154",
+   "part": "p16",
+   "title": "Election night",
+   "scene": "Anna and Max watch election night on TV. The national broadcaster shows the president and the vice president; each candidate - a democrat, a liberal and a social democrat - talks about the electorate and his mandate, the mass media talk about the primaries, a caucus, a referendum, a veto, impeachment and the leader's charisma.",
+   "anchors": [
+    "broadcaster",
+    "president",
+    "vice president",
+    "candidate",
+    "democrat",
+    "liberal",
+    "social democrat",
+    "electorate",
+    "mandate",
+    "primaries",
+    "caucus",
+    "referendum"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c155",
+   "part": "p16",
+   "title": "A day in parliament",
+   "scene": "Anna's class visits parliament, and the secretariat gives them the agenda. A minister and the premier speak, the teacher explains that other countries have a senate with senators, a British Tory guest watches, a lobbyist from a big lobby waits in the hall, and the members try to reach a compromise and a consensus to keep the status quo and avoid a shutdown.",
+   "anchors": [
+    "parliament",
+    "agenda",
+    "minister",
+    "premier",
+    "senate",
+    "senator",
+    "lobbyist",
+    "lobby",
+    "compromise",
+    "consensus",
+    "status quo",
+    "shutdown"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c156",
+   "part": "p16",
+   "title": "A summit in Geneva",
+   "scene": "Anna's aunt works as an interpreter at a summit. Diplomats and delegates from every bloc discuss an alliance, a peace pact and an embargo; an emir, a sovereign and an American congressman and congresswoman from Congress give speeches.",
+   "anchors": [
+    "summit",
+    "diplomat",
+    "delegate",
+    "bloc",
+    "alliance",
+    "pact",
+    "embargo",
+    "emir",
+    "sovereign",
+    "congressman",
+    "congresswoman",
+    "congress"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c157",
+   "part": "p16",
+   "title": "Students protest",
+   "scene": "Students protest against a new law. A young activist talks about activism, ideals, idealism and a utopia, a trade union joins the boycott, an anarchist shouts, a cynic calls the politicians hypocrites and their words nonsense, and a patriot talks about patriotism and liberalism.",
+   "anchors": [
+    "protest",
+    "activist",
+    "activism",
+    "ideal",
+    "idealism",
+    "utopia",
+    "trade union",
+    "boycott",
+    "anarchist",
+    "cynic",
+    "hypocrite",
+    "nonsense"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c158",
+   "part": "p16",
+   "title": "A debate about rights",
+   "scene": "Anna's class holds a debate about rights. They talk about feminism and a famous feminist, about sexism, homophobia and the rights of gay people, pro-choice and pro-life views, antisemitism and apartheid in history, the rights of every migrant, and extremists such as skinheads, supremacists and a separatist group.",
+   "anchors": [
+    "feminism",
+    "feminist",
+    "sexism",
+    "homophobia",
+    "gay",
+    "pro-choice",
+    "pro-life",
+    "antisemitism",
+    "apartheid",
+    "extremist",
+    "skinhead",
+    "supremacist"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c159",
+   "part": "p16",
+   "title": "Left and right",
+   "scene": "In politics class Anna's professor explains the difference between communism and capitalism, socialism, Marxism and the proletariat, why a communist, a socialist and a capitalist see the world differently, why an anti-communist dislikes communists, and why old communists still say 'comrade'.",
+   "anchors": [
+    "communism",
+    "capitalism",
+    "socialism",
+    "Marxism",
+    "proletariat",
+    "communist",
+    "socialist",
+    "capitalist",
+    "anti-communist",
+    "comrade"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c160",
+   "part": "p16",
+   "title": "Anna's internship at a newspaper",
+   "scene": "Anna works for a month in a newsroom. A journalist teaches her, a columnist writes an editorial, a correspondent calls from abroad with an exclusive about a scandal, a tabloid wants publicity, the publisher wants a rewrite of the morning digest, and the media wait for a briefing.",
+   "anchors": [
+    "newsroom",
+    "journalist",
+    "columnist",
+    "editorial",
+    "correspondent",
+    "exclusive",
+    "scandal",
+    "tabloid",
+    "publicity",
+    "publisher",
+    "rewrite",
+    "media"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c161",
+   "part": "p16",
+   "title": "Anna's cousin in the army",
+   "scene": "Anna's cousin was a cadet; now he is an officer and trains new recruits. He tells her about his lieutenant and his sergeant, his battalion and a convoy at a checkpoint, a bunker, camouflage, drones, a tank and a sniper, and about the victory parade they all dream of.",
+   "anchors": [
+    "cadet",
+    "officer",
+    "recruit",
+    "lieutenant",
+    "sergeant",
+    "battalion",
+    "convoy",
+    "checkpoint",
+    "bunker",
+    "camouflage",
+    "drone",
+    "tank"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c162",
+   "part": "p17",
+   "title": "Who stole Max's bike?",
+   "scene": "Max's bike disappears from the street. A cop and a detective look at the camera and see a silhouette; the main suspect, known for shoplifting and vandalism, has an alibi and a pretext, but the police find ganja in his pocket, check his dossier and give him a polygraph test - the vandal confesses.",
+   "anchors": [
+    "cop",
+    "detective",
+    "silhouette",
+    "shoplifting",
+    "vandalism",
+    "alibi",
+    "pretext",
+    "ganja",
+    "dossier",
+    "polygraph",
+    "vandal"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c163",
+   "part": "p17",
+   "title": "A hacker on trial",
+   "scene": "Anna goes to court with her law class. A young hacker is on trial for hacking, a scam and selling warez against copyright; the barrister, working pro bono, talks about a precedent and an affidavit, the bailiff asks everyone to stand, and the tribunal reads the verdict - de facto he is guilty, ergo he must pay, says the judge, and reads a disclaimer.",
+   "anchors": [
+    "hacker",
+    "hacking",
+    "scam",
+    "warez",
+    "copyright",
+    "barrister",
+    "pro bono",
+    "precedent",
+    "affidavit",
+    "bailiff",
+    "tribunal",
+    "verdict"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c164",
+   "part": "p17",
+   "title": "Gangs and drugs",
+   "scene": "Max watches a film about the mafia. Gangsters and the yakuza fight a vendetta over drug trafficking - cannabis and opium - for a crime syndicate, until a police raid finds their bongs, a pistol and a shotgun.",
+   "anchors": [
+    "mafia",
+    "gangster",
+    "yakuza",
+    "vendetta",
+    "trafficking",
+    "cannabis",
+    "opium",
+    "syndicate",
+    "raid",
+    "bong",
+    "pistol",
+    "shotgun"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c165",
+   "part": "p17",
+   "title": "A true-crime podcast",
+   "scene": "Anna listens to a true-crime podcast about a maniac. Experts talk about a psychopath and a sadist, an abuser and years of abuse, a pedophile, incest, stalking and kidnapping, and the coroner explains what happened in the morgue.",
+   "anchors": [
+    "maniac",
+    "psychopath",
+    "sadist",
+    "abuser",
+    "abuse",
+    "pedophile",
+    "incest",
+    "stalking",
+    "kidnapping",
+    "coroner",
+    "morgue"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c166",
+   "part": "p17",
+   "title": "Terror and security",
+   "scene": "Anna reads about the fight against terrorism. A terrorist group of jihadists and insurgents plans sabotage; the police find a detonator and an arsenal of weapons - a magnum and bullets of a large caliber - the commandant sends soldiers and a medic, sonar helps to find a boat of the aggressors, and a special team gives the president an escort; a combatant is arrested.",
+   "anchors": [
+    "terrorism",
+    "terrorist",
+    "jihadist",
+    "insurgent",
+    "sabotage",
+    "detonator",
+    "arsenal",
+    "commandant",
+    "medic",
+    "sonar",
+    "aggressor",
+    "escort"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c167",
+   "part": "p18",
+   "title": "Max builds a computer",
+   "scene": "Max builds his own computer from new hardware. He reads the manual, puts every component and the processor into the right slot, adds memory as an upgrade, and tests the input, output and buffer; a friend shows him a high-tech prototype with old transistors, made by a famous innovator, that counts every byte.",
+   "anchors": [
+    "hardware",
+    "manual",
+    "component",
+    "processor",
+    "slot",
+    "upgrade",
+    "input",
+    "output",
+    "buffer",
+    "prototype",
+    "transistor",
+    "byte"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c168",
+   "part": "p18",
+   "title": "Max learns coding",
+   "scene": "A programmer at Max's company teaches him coding. Max writes a test case, a tester reads the log, and the team builds an open source bot that answers every prompt; a contributor adds a plug-in that uses a weather API, and the beta goes to testers next week.",
+   "anchors": [
+    "programmer",
+    "coding",
+    "test case",
+    "tester",
+    "log",
+    "open source",
+    "bot",
+    "prompt",
+    "contributor",
+    "plug-in",
+    "API",
+    "beta"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c169",
+   "part": "p18",
+   "title": "Building a website",
+   "scene": "Anna wants a website for her podcast. Max buys a domain and hosting on a web server, plans the web design and a redesign of the logo, works on the back end and the interface, checks every pixel in a web browser, explains rendering, post-processing of photos and a real-time chat, makes the router a hub for their devices and shares big files peer-to-peer.",
+   "anchors": [
+    "domain",
+    "hosting",
+    "web server",
+    "web design",
+    "redesign",
+    "back end",
+    "interface",
+    "pixel",
+    "web browser",
+    "rendering",
+    "post-processing",
+    "real-time"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c170",
+   "part": "p18",
+   "title": "A visit to a data center",
+   "scene": "Max's team visits a data center. The admin shows them rows of servers and an old mainframe, explains the cache and the firewall, shows how each batch of data travels on the Internet Protocol, why cloud computing is cheap, how a transmitter works and why the ping is low.",
+   "anchors": [
+    "data center",
+    "admin",
+    "server",
+    "mainframe",
+    "cache",
+    "firewall",
+    "batch",
+    "Internet Protocol",
+    "computing",
+    "transmitter",
+    "ping"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c171",
+   "part": "p18",
+   "title": "Anna's data science course",
+   "scene": "Anna takes a data science course. She learns how an algorithm finds a cluster in big data and a dataset, how each parameter and coefficient works, draws a vector, a gradient, parallel lines and a spiral in one quadrant of a graph, and hears that in high tech an android may soon do this work.",
+   "anchors": [
+    "data science",
+    "algorithm",
+    "cluster",
+    "big data",
+    "dataset",
+    "parameter",
+    "coefficient",
+    "vector",
+    "gradient",
+    "parallel",
+    "spiral",
+    "quadrant"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c172",
+   "part": "p18",
+   "title": "A physics lesson",
+   "scene": "In physics class Taras learns that everything is made of atoms. The teacher explains electrons, protons and neutrons, light as photons and the tiny quark, sound that cannot travel in a vacuum, plasma in lightning, an impulse and resonance, and shows a magnet.",
+   "anchors": [
+    "atom",
+    "electron",
+    "proton",
+    "neutron",
+    "photon",
+    "quark",
+    "vacuum",
+    "plasma",
+    "impulse",
+    "resonance",
+    "magnet"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c173",
+   "part": "p18",
+   "title": "Max's science project",
+   "scene": "Max helps Taras with a science project about electricity. They measure watts and volts, check the voltage and the ohms, read about henrys and other SI units, make a battery with an electrode, an ion, nickel, cobalt and zinc, and read about a nuclear reactor.",
+   "anchors": [
+    "watt",
+    "volt",
+    "voltage",
+    "ohm",
+    "henry",
+    "SI",
+    "electrode",
+    "ion",
+    "nickel",
+    "cobalt",
+    "zinc",
+    "reactor"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c174",
+   "part": "p18",
+   "title": "In the chemistry lab",
+   "scene": "Anna's friend works in a chemistry lab. She shows Anna hydrogen, sulfur and neon, explains an oxide, a chloride, a sulfate and an isotope, a polymer, peroxide, ether and graphite, and a chrome machine that studies a meteorite; she says that amphetamine is made in labs too, but it is a dangerous drug.",
+   "anchors": [
+    "hydrogen",
+    "sulfur",
+    "neon",
+    "oxide",
+    "chloride",
+    "sulfate",
+    "isotope",
+    "polymer",
+    "peroxide",
+    "ether",
+    "graphite",
+    "meteorite"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c175",
+   "part": "p18",
+   "title": "Chemistry at home",
+   "scene": "Anna reads the labels on things at home: silicone baking molds, latex gloves, nitrate and phosphate in fertilizer, ethanol in hand gel, ethylene glycol in the car, an aerosol spray, beta-carotene in carrots, pigment in paint and minerals in water. Dad warns her about carbon monoxide, cyanide and dynamite, and shows her a quartz watch.",
+   "anchors": [
+    "silicone",
+    "latex",
+    "nitrate",
+    "phosphate",
+    "ethanol",
+    "ethylene glycol",
+    "aerosol",
+    "beta-carotene",
+    "pigment",
+    "mineral",
+    "monoxide",
+    "cyanide"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c176",
+   "part": "p18",
+   "title": "A night at the observatory",
+   "scene": "Anna and Max visit an observatory. Through a telescope they see a bright object, an asteroid and a meteor; an astronaut talks about the cosmos, its genesis, a lander on Mars and neutrinos from the sun, and a guide explains the zenith and the zodiac.",
+   "anchors": [
+    "telescope",
+    "object",
+    "asteroid",
+    "meteor",
+    "astronaut",
+    "cosmos",
+    "genesis",
+    "lander",
+    "neutrino",
+    "zenith",
+    "zodiac"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c177",
+   "part": "p18",
+   "title": "Anna's psychology experiment",
+   "scene": "For her psychology class Anna runs an experiment. She explains every factor, element and indicator, keeps her focus, talks about ego, a priori ideas and the placebo effect, a paradox and a social construct, a continuum of feelings and stasis, and her professor praises her scientific skepticism.",
+   "anchors": [
+    "experiment",
+    "factor",
+    "element",
+    "indicator",
+    "focus",
+    "ego",
+    "a priori",
+    "placebo effect",
+    "paradox",
+    "construct",
+    "continuum",
+    "skepticism"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c178",
+   "part": "p18",
+   "title": "Genes and germs",
+   "scene": "Anna's aunt works in a biotech lab. She studies the human genome, shows Anna a clone and a mutant fly under the microscope, explains how a microbe makes a toxin and how an enzyme or an inhibitor works, and how scientists fight Ebola and anthrax.",
+   "anchors": [
+    "biotech",
+    "genome",
+    "clone",
+    "mutant",
+    "microscope",
+    "microbe",
+    "toxin",
+    "enzyme",
+    "inhibitor",
+    "Ebola",
+    "anthrax"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c179",
+   "part": "p18",
+   "title": "Brain, mood and hormones",
+   "scene": "A lecture at medical school explains the brain: neurons in the cortex, receptors and serotonin, how an antidepressant works, and what happens in mania, paranoia, amnesia and autism. The professor also talks about testosterone and estrogen, the reflex in the knee, the protein actin, every organ, and the placenta in the first trimester.",
+   "anchors": [
+    "neuron",
+    "cortex",
+    "receptor",
+    "serotonin",
+    "antidepressant",
+    "mania",
+    "paranoia",
+    "amnesia",
+    "autism",
+    "testosterone",
+    "estrogen",
+    "reflex"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c180",
+   "part": "p18",
+   "title": "Medical school",
+   "scene": "Anna's friend Ira studies at medical school. In anatomy class they work with a cadaver and a scalpel and learn about the abdomen, the appendix, the pancreas, the aorta, the digestive tract and the anus; in the hospital she sees triage, anesthesia, a catheter and a muscle spasm, and reads how doctors once used chloroform.",
+   "anchors": [
+    "cadaver",
+    "scalpel",
+    "abdomen",
+    "appendix",
+    "pancreas",
+    "aorta",
+    "tract",
+    "anus",
+    "triage",
+    "anesthesia",
+    "catheter",
+    "spasm"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c181",
+   "part": "p18",
+   "title": "On the hospital ward",
+   "scene": "Ira works on a hospital ward. She meets patients with a tumor, leukemia, anemia, a rare syndrome, asthma, diarrhea and vertigo, learns about polio, penicillin, an antidote and a placebo in medical history, and talks with a family about a hospice and euthanasia.",
+   "anchors": [
+    "tumor",
+    "leukemia",
+    "anemia",
+    "syndrome",
+    "asthma",
+    "diarrhea",
+    "vertigo",
+    "polio",
+    "penicillin",
+    "antidote",
+    "placebo",
+    "hospice"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c182",
+   "part": "p19",
+   "title": "A castle in England",
+   "scene": "Anna visits an old castle in England with a stone bastion. A guide tells her about the lord and the duke who lived there, an earl, squires and yeomen, the gentry and every aristocrat, a monarch on the throne with his consort, a regent, a loyal vassal and the loyalists, and a dandy in fancy clothes.",
+   "anchors": [
+    "bastion",
+    "lord",
+    "duke",
+    "earl",
+    "squire",
+    "yeoman",
+    "gentry",
+    "aristocrat",
+    "monarch",
+    "throne",
+    "consort",
+    "regent"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c183",
+   "part": "p19",
+   "title": "Empires of the East",
+   "scene": "In history class Taras learns about great empires: a sultan with his harem and eunuchs, a caliph and his caliphate, a khan whose nomads ride across the steppe with yaks, and a maharaja who signs an edict.",
+   "anchors": [
+    "sultan",
+    "harem",
+    "eunuch",
+    "caliph",
+    "caliphate",
+    "khan",
+    "nomad",
+    "steppe",
+    "yak",
+    "maharaja",
+    "edict"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c184",
+   "part": "p19",
+   "title": "Warriors of the past",
+   "scene": "Max loves military history. He reads about gladiators and a centurion with his legion, a paladin who defends a fort, musketeers who fight a duel, samurai and a shogun, a commodore who leads a great armada with a clever maneuver, a padre who blesses the soldiers, and a flying ace.",
+   "anchors": [
+    "gladiator",
+    "centurion",
+    "legion",
+    "paladin",
+    "fort",
+    "musketeer",
+    "duel",
+    "samurai",
+    "shogun",
+    "commodore",
+    "armada",
+    "maneuver"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c185",
+   "part": "p19",
+   "title": "The Wild West",
+   "scene": "Taras watches an old western. Pioneers and colonists move to the frontier and get acres of land, a trapper lives alone, bandits rob a train, a cowboy with a revolver drinks whiskey in the saloon, and the sheriff waits for the locomotive and news by telegraph; it is a new era, and a scary legend tells of cannibals in the mountains.",
+   "anchors": [
+    "pioneer",
+    "colonist",
+    "frontier",
+    "acre",
+    "trapper",
+    "bandit",
+    "cowboy",
+    "revolver",
+    "whiskey",
+    "saloon",
+    "sheriff",
+    "locomotive"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c186",
+   "part": "p19",
+   "title": "Dark times",
+   "scene": "At a museum Anna learns about the dark times of the 20th century: the last tsar and kaiser, imperialism, fascism and fascists, the national socialists and the swastika, the Holocaust and genocide, dictators and juntas, a prefect who ruled a province and a general's adjutant, propaganda and a false narrative, and brave dissidents.",
+   "anchors": [
+    "tsar",
+    "kaiser",
+    "imperialism",
+    "fascism",
+    "fascist",
+    "national socialist",
+    "swastika",
+    "holocaust",
+    "genocide",
+    "dictator",
+    "propaganda",
+    "dissident"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c187",
+   "part": "p19",
+   "title": "Grandma's church",
+   "scene": "At Easter Anna goes to church with Grandma. The pastor talks about the archangel and the messiah, Grandma's Catholic friend explains Catholicism, the sacrament, the crucifix and the canon, and talks about a cardinal at a synod in Rome.",
+   "anchors": [
+    "pastor",
+    "archangel",
+    "messiah",
+    "Catholic",
+    "Catholicism",
+    "sacrament",
+    "crucifix",
+    "canon",
+    "cardinal",
+    "synod"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c188",
+   "part": "p19",
+   "title": "An evening of many faiths",
+   "scene": "Anna's college holds an evening of many faiths. A Protestant, a Baptist, a Mormon and a Quaker speak, a Jewish cantor sings, and an imam and another cleric explain Islam, Ramadan, what is haram and what jihad really means, why an Islamist is not the same as a Muslim, and what a fetish was in old religions.",
+   "anchors": [
+    "Protestant",
+    "Baptist",
+    "Mormon",
+    "quaker",
+    "cantor",
+    "imam",
+    "cleric",
+    "Islam",
+    "Ramadan",
+    "haram",
+    "jihad",
+    "Islamist"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c189",
+   "part": "p19",
+   "title": "A yoga retreat",
+   "scene": "Anna's friend Lisa goes on a yoga retreat. A swami and a brahmin talk about chakras, karma and dharma, they repeat a mantra and fall into a trance, and a Buddhist lama explains Buddhism, the sutras and nirvana; an old abbot talks about the Tao and yin.",
+   "anchors": [
+    "retreat",
+    "swami",
+    "brahmin",
+    "chakra",
+    "karma",
+    "dharma",
+    "mantra",
+    "trance",
+    "Buddhist",
+    "lama",
+    "Buddhism",
+    "sutra"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c190",
+   "part": "p19",
+   "title": "Heaven, hell and spirits",
+   "scene": "Max and Anna argue after a horror film. Max is an atheist and talks about atheism; Anna asks about paradise, demons and the antichrist, an exorcism and an exorcist, armageddon, dogma and the inquisitor, voodoo, a jinn, an idol, a totem, an amulet and a druid.",
+   "anchors": [
+    "atheist",
+    "atheism",
+    "paradise",
+    "demon",
+    "antichrist",
+    "exorcism",
+    "exorcist",
+    "armageddon",
+    "dogma",
+    "inquisitor",
+    "voodoo",
+    "jinn"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c191",
+   "part": "p19",
+   "title": "Grandma's folk tales",
+   "scene": "On a winter evening Grandma tells old folk tales from world folklore: a ghoul, a banshee and a leprechaun, a yeti and a phoenix, a healer with a talisman and a magic elixir, a shaman with a strong aura and his ritual, a charlatan who sells magic, and an enigma that nobody can solve.",
+   "anchors": [
+    "folklore",
+    "ghoul",
+    "banshee",
+    "leprechaun",
+    "yeti",
+    "phoenix",
+    "healer",
+    "talisman",
+    "elixir",
+    "shaman",
+    "charlatan",
+    "enigma"
+   ],
+   "level": "B1"
+  },
+  {
+   "id": "c192",
+   "part": "p20",
+   "title": "Hey, mhm, pardon?",
+   "scene": "Anna talks to Max on the phone and uses all the little words of a conversation: 'hey' and 'yo' at the start, 'mhm' while she listens, 'hmm' while she thinks, 'pardon?' when the line is bad, 'okey-dokey' to agree and 'bye' at the end.",
+   "anchors": [
+    "hey",
+    "yo",
+    "mhm",
+    "hmm",
+    "pardon",
+    "okey-dokey",
+    "bye"
+   ],
+   "level": "A1"
+  },
+  {
+   "id": "c193",
+   "part": "p20",
+   "title": "Wow!",
+   "scene": "Max shows Anna his new flat, and she reacts to everything: 'wow' at the view, 'ah' and 'huh?' at a strange lamp, 'oho' and 'ooh la la' at his new jacket, 'OMG' and 'caramba' at the mess in the kitchen, 'voila!' says Max when he opens the fridge, and 'eureka!' when he finds his lost keys.",
+   "anchors": [
+    "wow",
+    "ah",
+    "huh",
+    "oho",
+    "ooh la la",
+    "OMG",
+    "caramba",
+    "voila",
+    "eureka"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c194",
+   "part": "p20",
+   "title": "Oops!",
+   "scene": "A bad morning for Taras: 'oops' - he drops his phone, 'brr' - the bathroom is cold, 'feh' - the soup is cold too, 'fie!' says Grandpa like an old king in a film, and 'boo!' - his sister jumps out from behind the door. Only Mama's pancakes make him say 'mmm'.",
+   "anchors": [
+    "oops",
+    "brr",
+    "feh",
+    "fie",
+    "boo",
+    "mmm"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c195",
+   "part": "p20",
+   "title": "Ha-ha!",
+   "scene": "The family watches a comedy together, and everyone laughs in a different way: Dad with a short 'ha' and then a loud 'ha-ha-ha', Anna with a quiet 'heh', Taras with 'ha-ha' and 'hehe' in his messages, the little cousins with 'hee-hee', and Grandpa with 'ho-ho' and a Santa 'ho-ho-ho'.",
+   "anchors": [
+    "ha",
+    "ha-ha-ha",
+    "heh",
+    "ha-ha",
+    "hehe",
+    "hee-hee",
+    "ho-ho",
+    "ho-ho-ho"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c196",
+   "part": "p20",
+   "title": "Stop! Bravo!",
+   "scene": "Words people shout: a guard shouts 'stop!', a friend whispers 'psst', a teacher jokes 'achtung!', Mama says 'basta!', a pilot calls 'mayday' and sailors send an SOS - and happy crowds shout 'bravo', 'bravissimo', 'ole' and 'vivat', and soldiers in an old film shout 'banzai'.",
+   "anchors": [
+    "stop",
+    "psst",
+    "achtung",
+    "basta",
+    "mayday",
+    "SOS",
+    "bravo",
+    "bravissimo",
+    "ole",
+    "vivat",
+    "banzai"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c197",
+   "part": "p20",
+   "title": "Meow, moo, bam!",
+   "scene": "A noisy day in Grandma's village: the kitten says 'meow', the cow says 'moo', a door goes 'bam', a car goes 'beep-beep', the old clock goes 'tick-tack', and Grandma sings 'la-la', 'la-la-la' and 'tra-la-la' in the kitchen.",
+   "anchors": [
+    "meow",
+    "moo",
+    "bam",
+    "beep-beep",
+    "tick-tack",
+    "la-la",
+    "la-la-la",
+    "tra-la-la"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c198",
+   "part": "p20",
+   "title": "GG!",
+   "scene": "Taras plays an online game with friends. They type 'LOL' and 'kek' in the chat, one friend shouts 'bazinga' after a silly joke, the screen says 'game over', everyone writes 'GG', and Mama says it is all blah blah blah.",
+   "anchors": [
+    "LOL",
+    "kek",
+    "bazinga",
+    "game over",
+    "GG",
+    "blah blah blah"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c199",
+   "part": "p20",
+   "title": "Ciao! Hello around the world",
+   "scene": "Anna collects ways to greet people and say goodbye from her trips and friends: 'ciao' and 'arrivederci' in Italy, 'adios' in Mexico, 'adieu' in Paris, 'aloha' in Hawaii, 'konnichiwa' and 'sayonara' in Japan, and 'namaste' and 'namaskar' in India.",
+   "anchors": [
+    "ciao",
+    "arrivederci",
+    "adios",
+    "adieu",
+    "aloha",
+    "konnichiwa",
+    "sayonara",
+    "namaste",
+    "namaskar"
+   ],
+   "level": "A2"
+  },
+  {
+   "id": "c200",
+   "part": "p20",
+   "title": "Words of faith and peace",
+   "scene": "At an evening of many faiths Anna hears words people use every day: 'shalom' and 'salaam' to wish peace, 'inshallah' and 'alhamdulillah' from her Muslim friend, and 'alleluia' and 'Ave Maria' from the church choir.",
+   "anchors": [
+    "shalom",
+    "salaam",
+    "inshallah",
+    "alhamdulillah",
+    "alleluia",
+    "ave"
+   ],
+   "level": "B1"
+  }
+ ]
+}

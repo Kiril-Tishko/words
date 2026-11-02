@@ -33,7 +33,10 @@ def words_in():
 
 def cmd_todo(n=6):
     o = json.load(open(f'{S}/outline.json', encoding='utf-8'))
-    anchors = {w for c in o['chapters'] for w in c['anchors']}
+    anchors = set()
+    for c in o['chapters']:
+        for k in ('anchors', 'extras', 'extra', 'more', 'words'):
+            anchors |= {(w['en'] if isinstance(w, dict) else w) for w in (c.get(k) or [])}
     W = words_in()
     rest = [w for w in W if w not in anchors]
     for f in glob.glob(f'{S}/todo-*.txt'):
@@ -49,7 +52,15 @@ def cmd_todo(n=6):
 def cmd_chapters(k=12):
     o = json.load(open(f'{S}/outline.json', encoding='utf-8'))
     W = words_in()
-    chapters = OrderedDict((c['id'], dict(c, words=[w for w in c['anchors'] if w in W])) for c in o['chapters'])
+    def outline_words(c):   # anchors plus any further words the linguist already placed
+        ws = []
+        for k in ('anchors', 'extras', 'extra', 'more', 'words'):
+            for w in c.get(k) or []:
+                w = w['en'] if isinstance(w, dict) else w
+                if w in W and w not in ws:
+                    ws.append(w)
+        return ws
+    chapters = OrderedDict((c['id'], dict(c, words=outline_words(c))) for c in o['chapters'])
     parts = {p['id'] for p in o['parts']}
     assign = {}
     for f in sorted(glob.glob(f'{S}/assign-*.json')):

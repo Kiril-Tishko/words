@@ -1,0 +1,1241 @@
+[
+{
+"id": "c001",
+"part": "p01",
+"title": "Nice to meet you",
+"scene": "It is Anna's first week at college in Kyiv. At a party for new students a speaker says 'Ladies and gentlemen, welcome!' to all the people; Anna says hello to Max - 'Nice to meet you!' - a student from her college, and by the end of the cool party they are good friends.",
+"anchors": [
+"college",
+"party",
+"student",
+"lady",
+"gentleman",
+"welcome",
+"people",
+"hello",
+"nice",
+"cool",
+"good",
+"friend"
+],
+"level": "A1",
+"words": [
+{
+"en": "college",
+"uk": "коледж",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "I study at a college in Kyiv."
+},
+{
+"en": "party",
+"uk": "паті",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Come to my party!"
+},
+{
+"en": "student",
+"uk": "студент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "education",
+"ex": "I am a student."
+},
+{
+"en": "lady",
+"uk": "леді",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen."
+},
+{
+"en": "gentleman",
+"uk": "джентльмен",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Good evening, ladies and gentlemen!"
+},
+{
+"en": "welcome",
+"uk": "велкам",
+"band": "top-3000",
+"pos": "interj",
+"topics": "other",
+"ex": "Welcome to our home!"
+},
+{
+"en": "people",
+"uk": "піпл",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "How many people are here?"
+},
+{
+"en": "hello",
+"uk": "хелло",
+"band": "top-1000",
+"pos": "interj",
+"topics": "language",
+"ex": "Hello, how are you?"
+},
+{
+"en": "nice",
+"uk": "найс",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Nice to meet you."
+},
+{
+"en": "cool",
+"uk": "кул",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Your new phone is cool!"
+},
+{
+"en": "good",
+"uk": "гуд",
+"band": "top-1000",
+"pos": "adj",
+"topics": "other",
+"ex": "Is this cafe good?"
+},
+{
+"en": "friend",
+"uk": "френд",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "This is my friend Anna."
+}
+]
+},
+{
+"id": "c002",
+"part": "p01",
+"title": "Lost on the first day",
+"scene": "Anna is late and in trouble on her first day. A guard says 'Your ID, please', she answers 'Sorry, sir, one moment', and a kind Miss at the desk says the room is easy to find - 'OK, thank you!'",
+"anchors": [
+"trouble",
+"ID",
+"please",
+"sorry",
+"sir",
+"moment",
+"Miss",
+"easy",
+"OK"
+],
+"level": "A1",
+"words": [
+{
+"en": "trouble",
+"uk": "трабл",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Are you in trouble?"
+},
+{
+"en": "ID",
+"uk": "айді",
+"band": "top-3000",
+"pos": "abbr",
+"topics": "tech",
+"ex": "Can I see your ID, please?"
+},
+{
+"en": "please",
+"uk": "пліз",
+"band": "top-1000",
+"pos": "adv",
+"topics": "other",
+"ex": "Call a taxi, please."
+},
+{
+"en": "sorry",
+"uk": "сорі",
+"band": "top-1000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Sorry, I'm late."
+},
+{
+"en": "sir",
+"uk": "сер",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, sir."
+},
+{
+"en": "moment",
+"uk": "момент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "time",
+"ex": "Wait a moment, please."
+},
+{
+"en": "Miss",
+"uk": "міс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Excuse me, Miss, is this your bag?"
+},
+{
+"en": "easy",
+"uk": "ізі",
+"band": "top-1000",
+"pos": "adj",
+"topics": "games",
+"ex": "This test is easy."
+},
+{
+"en": "OK",
+"uk": "окей",
+"band": "top-1000",
+"pos": "interj",
+"topics": "other",
+"ex": "OK, see you tomorrow."
+}
+]
+},
+{
+"id": "c003",
+"part": "p01",
+"title": "Tell me about yourself",
+"scene": "After class Anna and Max talk about their background: Max came to Kyiv as a teenager, and Anna's dad has a small business. They talk about hobbies, their favorite season, the type of music they are fans of and their character - Max is very friendly - then swap contacts and say goodbye.",
+"anchors": [
+"background",
+"teenager",
+"business",
+"hobby",
+"season",
+"type",
+"fan",
+"character",
+"friendly",
+"contact",
+"goodbye"
+],
+"level": "A1",
+"words": [
+{
+"en": "background",
+"uk": "бекграунд",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "Can you tell me a little about your background?"
+},
+{
+"en": "teenager",
+"uk": "тінейджер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I moved to Kyiv as a teenager."
+},
+{
+"en": "business",
+"uk": "бізнес",
+"band": "top-1000",
+"pos": "noun",
+"topics": "business",
+"ex": "My father has a small business."
+},
+{
+"en": "hobby",
+"uk": "хобі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "other",
+"ex": "My favorite hobby is taking photos of nature."
+},
+{
+"en": "season",
+"uk": "сезон",
+"band": "top-1000",
+"pos": "noun",
+"topics": "time",
+"ex": "What is your favorite season?"
+},
+{
+"en": "type",
+"uk": "тип",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "What type of music do you like?"
+},
+{
+"en": "fan",
+"uk": "фан",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "I am a big fan."
+},
+{
+"en": "character",
+"uk": "характер",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "Describe your character in three words."
+},
+{
+"en": "friendly",
+"uk": "френдлі",
+"band": "top-3000",
+"pos": "adj",
+"topics": "other",
+"ex": "The people at this hotel are very friendly."
+},
+{
+"en": "contact",
+"uk": "контакт",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "Let's stay in contact after the trip."
+},
+{
+"en": "goodbye",
+"uk": "гудбай",
+"band": "top-2000",
+"pos": "interj",
+"topics": "other",
+"ex": "Goodbye, see you tomorrow!"
+}
+]
+},
+{
+"id": "c004",
+"part": "p01",
+"title": "Anna's photos",
+"scene": "Anna shows Max photos and selfies on her phone: her boyfriend, who is six feet tall and has a kind face, a girl with long blonde hair, and a crazy friend who is always in a good mood.",
+"anchors": [
+"photo",
+"selfie",
+"boyfriend",
+"foot",
+"face",
+"blonde",
+"hair",
+"crazy",
+"mood"
+],
+"level": "A1",
+"words": [
+{
+"en": "photo",
+"uk": "фото",
+"band": "top-1000",
+"pos": "noun",
+"topics": "media",
+"ex": "Can you take a photo of us?"
+},
+{
+"en": "selfie",
+"uk": "селфі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "Can you take a selfie with us?"
+},
+{
+"en": "boyfriend",
+"uk": "бойфренд",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "This is my boyfriend."
+},
+{
+"en": "foot",
+"uk": "фут",
+"band": "top-3000",
+"pos": "noun",
+"topics": "units",
+"ex": "I am almost six feet tall."
+},
+{
+"en": "face",
+"uk": "фейс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Wash your face and hands."
+},
+{
+"en": "blonde",
+"uk": "блонд",
+"band": "top-10k",
+"pos": "adj",
+"topics": "people",
+"ex": "She has long blonde hair and blue eyes."
+},
+{
+"en": "hair",
+"uk": "хаєр",
+"band": "top-1000",
+"pos": "noun",
+"topics": "people",
+"ex": "Anna has long hair."
+},
+{
+"en": "crazy",
+"uk": "крейзі",
+"band": "top-1000",
+"pos": "adj",
+"topics": "emotions",
+"ex": "This is a crazy idea!"
+},
+{
+"en": "mood",
+"uk": "муд",
+"band": "top-3000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "I'm in a good mood today."
+}
+]
+},
+{
+"id": "c005",
+"part": "p01",
+"title": "A plan for the weekend",
+"scene": "Max has an idea for the weekend and tells Anna a secret: his bro can lend them a car, so they have a chance to go to Lviv. Anna thinks it is a super plan that makes sense; they talk about the details, and in fact they leave on Saturday.",
+"anchors": [
+"idea",
+"weekend",
+"secret",
+"bro",
+"chance",
+"super",
+"plan",
+"sense",
+"detail",
+"fact"
+],
+"level": "A1",
+"words": [
+{
+"en": "idea",
+"uk": "ідея",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "That is a good idea."
+},
+{
+"en": "weekend",
+"uk": "вікенд",
+"band": "top-2000",
+"pos": "noun",
+"topics": "time",
+"ex": "What are you doing this weekend?"
+},
+{
+"en": "secret",
+"uk": "секрет",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Can you keep a secret?"
+},
+{
+"en": "bro",
+"uk": "бро",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people",
+"ex": "Thanks a lot, bro!"
+},
+{
+"en": "chance",
+"uk": "шанс",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "Give me a chance."
+},
+{
+"en": "super",
+"uk": "супер",
+"band": "top-2000",
+"pos": "adj",
+"topics": "emotions",
+"ex": "That's a super idea, let's do it!"
+},
+{
+"en": "plan",
+"uk": "план",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "I have a plan."
+},
+{
+"en": "sense",
+"uk": "сенс",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "Does this make sense to you?"
+},
+{
+"en": "detail",
+"uk": "деталь",
+"band": "top-2000",
+"pos": "noun",
+"topics": "other",
+"ex": "Send me the details, please."
+},
+{
+"en": "fact",
+"uk": "факт",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "That is a fact."
+}
+]
+},
+{
+"id": "c006",
+"part": "p02",
+"title": "Lunch at the café",
+"scene": "Anna and Max have lunch at a small café near college. They read the menu: Max orders soup and a sandwich, Anna takes a salad with dressing and chicken with rice and sauce, and for dessert she wants tea with lemon.",
+"anchors": [
+"lunch",
+"cafe",
+"menu",
+"soup",
+"sandwich",
+"dressing",
+"rice",
+"sauce",
+"dessert",
+"lemon"
+],
+"level": "A1",
+"words": [
+{
+"en": "lunch",
+"uk": "ланч",
+"band": "top-2000",
+"pos": "noun",
+"topics": "food",
+"ex": "What do you want for lunch?"
+},
+{
+"en": "cafe",
+"uk": "кафе",
+"band": "top-5000",
+"pos": "noun",
+"topics": "places",
+"ex": "Let's meet at the cafe on the corner."
+},
+{
+"en": "menu",
+"uk": "меню",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I see the menu, please?"
+},
+{
+"en": "soup",
+"uk": "суп",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a bowl of chicken soup."
+},
+{
+"en": "sandwich",
+"uk": "сендвіч",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I made a ham and cheese sandwich."
+},
+{
+"en": "dressing",
+"uk": "дресинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Would you like dressing on your salad?"
+},
+{
+"en": "rice",
+"uk": "рис",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like chicken with rice, please."
+},
+{
+"en": "sauce",
+"uk": "соус",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Would you like some tomato sauce with that?"
+},
+{
+"en": "dessert",
+"uk": "десерт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "What do you want for dessert tonight?"
+},
+{
+"en": "lemon",
+"uk": "лимон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have tea with lemon, please?"
+}
+]
+},
+{
+"id": "c007",
+"part": "p02",
+"title": "Coffee before class",
+"scene": "Max meets Anna at a coffee shop with a great vibe, full of hipsters with laptops. The barista makes a latte from a new blend and a cappuccino with caramel - Max is a real coffee snob - and they take a croissant and a muffin.",
+"anchors": [
+"coffee shop",
+"vibe",
+"hipster",
+"barista",
+"latte",
+"blend",
+"cappuccino",
+"caramel",
+"snob",
+"croissant",
+"muffin"
+],
+"level": "A1",
+"words": [
+{
+"en": "coffee shop",
+"uk": "кофі-шоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks, places",
+"ex": "Let's meet at the coffee shop at ten."
+},
+{
+"en": "vibe",
+"uk": "вайб",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "I love the vibe at this coffee shop."
+},
+{
+"en": "hipster",
+"uk": "хіпстер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The cafe is full of hipsters with laptops."
+},
+{
+"en": "barista",
+"uk": "бариста",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, people",
+"ex": "The barista made a perfect latte."
+},
+{
+"en": "latte",
+"uk": "лате",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a large latte, please."
+},
+{
+"en": "blend",
+"uk": "бленд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks, food",
+"ex": "This coffee is a blend of three beans."
+},
+{
+"en": "cappuccino",
+"uk": "капучино",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'd like a large cappuccino and a croissant, please."
+},
+{
+"en": "caramel",
+"uk": "карамель",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a coffee with caramel, please."
+},
+{
+"en": "snob",
+"uk": "сноб",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My cousin is a real coffee snob."
+},
+{
+"en": "croissant",
+"uk": "круасан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a croissant and coffee for breakfast."
+},
+{
+"en": "muffin",
+"uk": "мафін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I had a blueberry muffin for breakfast."
+}
+]
+},
+{
+"id": "c008",
+"part": "p02",
+"title": "Pizza night",
+"scene": "Max wants to chill at home with friends and watch a movie. They order a big pizza for delivery and choose the toppings, pepperoni and mozzarella - the diameter is forty centimeters - get cola, nachos and other snacks, and make popcorn.",
+"anchors": [
+"chill",
+"pizza",
+"delivery",
+"topping",
+"pepperoni",
+"mozzarella",
+"diameter",
+"cola",
+"nachos",
+"snack",
+"popcorn"
+],
+"level": "A1",
+"words": [
+{
+"en": "chill",
+"uk": "чил",
+"band": "top-10k",
+"pos": "verb",
+"topics": "emotions",
+"ex": "Let's just chill at home tonight."
+},
+{
+"en": "pizza",
+"uk": "піца",
+"band": "top-3000",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's order a pizza for dinner."
+},
+{
+"en": "delivery",
+"uk": "делівері",
+"band": "top-3000",
+"pos": "noun",
+"topics": "business, food",
+"ex": "Is delivery free for this order?"
+},
+{
+"en": "topping",
+"uk": "топінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "What topping do you want on your pizza?"
+},
+{
+"en": "pepperoni",
+"uk": "пепероні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a large pepperoni pizza, please."
+},
+{
+"en": "mozzarella",
+"uk": "моцарела",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add fresh mozzarella to the pizza."
+},
+{
+"en": "diameter",
+"uk": "діаметр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "math",
+"ex": "The pizza has a diameter of twelve inches."
+},
+{
+"en": "cola",
+"uk": "кола",
+"band": "top-10k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "Can I have a cola with ice, please?"
+},
+{
+"en": "nachos",
+"uk": "начос",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's order nachos and watch the game."
+},
+{
+"en": "snack",
+"uk": "снек",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I usually eat a small snack after work."
+},
+{
+"en": "popcorn",
+"uk": "попкорн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Let's make popcorn and watch a movie."
+}
+]
+},
+{
+"id": "c009",
+"part": "p02",
+"title": "At the burger place",
+"scene": "After the cinema Max wants fast food, so they go to a burger place with a drive-through. Max orders a burger with ketchup and mayonnaise and a milkshake, Anna takes a sundae, and Max's older cousin orders a cold lager.",
+"anchors": [
+"fast food",
+"burger",
+"drive-through",
+"ketchup",
+"mayonnaise",
+"milkshake",
+"sundae",
+"lager"
+],
+"level": "A1",
+"words": [
+{
+"en": "fast food",
+"uk": "фастфуд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I try not to eat fast food."
+},
+{
+"en": "burger",
+"uk": "бургер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a burger and fries, please."
+},
+{
+"en": "drive-through",
+"uk": "драйв-тру",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, places",
+"ex": "Let's get coffee at the drive-through on the way to work."
+},
+{
+"en": "ketchup",
+"uk": "кетчуп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Do you want ketchup on your fries?"
+},
+{
+"en": "mayonnaise",
+"uk": "майонез",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can you add some mayonnaise to my sandwich?"
+},
+{
+"en": "milkshake",
+"uk": "мілкшейк",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I'll have a burger and a chocolate milkshake."
+},
+{
+"en": "sundae",
+"uk": "санде",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Can I have a chocolate sundae, please?"
+},
+{
+"en": "lager",
+"uk": "лагер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He ordered a cold lager with his burger."
+}
+]
+},
+{
+"id": "c010",
+"part": "p02",
+"title": "Breakfast at home",
+"scene": "Anna's mama makes a big Sunday breakfast. Bread goes into the toaster for toast with jam, there are pancakes with syrup, bacon and an omelet, and Taras eats only yogurt and half a grapefruit.",
+"anchors": [
+"toaster",
+"toast",
+"jam",
+"pancake",
+"syrup",
+"bacon",
+"omelet",
+"yogurt",
+"grapefruit"
+],
+"level": "A2",
+"words": [
+{
+"en": "toaster",
+"uk": "тостер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, home",
+"ex": "Put two slices of bread in the toaster."
+},
+{
+"en": "toast",
+"uk": "тост",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I have toast and eggs for breakfast."
+},
+{
+"en": "jam",
+"uk": "джем",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I spread strawberry jam on my toast."
+},
+{
+"en": "pancake",
+"uk": "панкейк",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "We had pancakes with syrup for breakfast."
+},
+{
+"en": "syrup",
+"uk": "сироп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Pour some syrup on your pancakes."
+},
+{
+"en": "bacon",
+"uk": "бекон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "food",
+"ex": "I usually have bacon and eggs for breakfast."
+},
+{
+"en": "omelet",
+"uk": "омлет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made an omelet with cheese for breakfast."
+},
+{
+"en": "yogurt",
+"uk": "йогурт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I eat yogurt with fruit for breakfast."
+},
+{
+"en": "grapefruit",
+"uk": "грейпфрут",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "I eat half a grapefruit for breakfast."
+}
+]
+},
+{
+"id": "c011",
+"part": "p02",
+"title": "At the supermarket",
+"scene": "Anna and Max shop at the supermarket for a dinner with friends. They buy a kilo of tomatoes, two liters of milk, broccoli, an avocado, citrus fruit, a mango, kiwis and tangerines, and cheddar, salami and crackers.",
+"anchors": [
+"supermarket",
+"kilo",
+"liter",
+"broccoli",
+"avocado",
+"citrus",
+"mango",
+"kiwi",
+"tangerine",
+"cheddar",
+"salami",
+"cracker"
+],
+"level": "A1",
+"words": [
+{
+"en": "supermarket",
+"uk": "супермаркет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "Is there a supermarket near here?"
+},
+{
+"en": "kilo",
+"uk": "кіло",
+"band": "top-10k",
+"pos": "noun",
+"topics": "units",
+"ex": "I bought a kilo of apples at the market."
+},
+{
+"en": "liter",
+"uk": "літр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "We need two liters of milk."
+},
+{
+"en": "broccoli",
+"uk": "броколі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "Please eat your broccoli because it is good for you."
+},
+{
+"en": "avocado",
+"uk": "авокадо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put avocado on my toast every morning."
+},
+{
+"en": "citrus",
+"uk": "цитрус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "Lemons, limes, and oranges are all citrus fruits."
+},
+{
+"en": "mango",
+"uk": "манго",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I eat a sweet mango for breakfast every day."
+},
+{
+"en": "kiwi",
+"uk": "ківі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, nature",
+"ex": "I cut a kiwi in half and ate it with a spoon."
+},
+{
+"en": "tangerine",
+"uk": "танжерин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put a tangerine in my son's lunch box."
+},
+{
+"en": "cheddar",
+"uk": "чеддер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I put cheddar on my sandwich."
+},
+{
+"en": "salami",
+"uk": "салямі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I'd like a salami sandwich, please."
+},
+{
+"en": "cracker",
+"uk": "крекер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I ate cheese on a cracker."
+}
+]
+},
+{
+"id": "c012",
+"part": "p02",
+"title": "Cooking for a vegan friend",
+"scene": "Anna's friend Lisa is a vegan and cannot eat gluten. Anna cooks tofu in a wok on the gas stove with kale and zucchini, makes a curry with chili and some hummus, but forgets to turn off the gas, and the dinner is almost a fiasco.",
+"anchors": [
+"vegan",
+"gluten",
+"tofu",
+"wok",
+"gas",
+"kale",
+"zucchini",
+"curry",
+"chili",
+"hummus",
+"fiasco"
+],
+"level": "A2",
+"words": [
+{
+"en": "vegan",
+"uk": "веган",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, people",
+"ex": "My sister has been a vegan for years."
+},
+{
+"en": "gluten",
+"uk": "глютен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "This bread is made without gluten."
+},
+{
+"en": "tofu",
+"uk": "тофу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "She cooked tofu with rice and vegetables."
+},
+{
+"en": "wok",
+"uk": "вок",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I cook vegetables in a wok."
+},
+{
+"en": "gas",
+"uk": "газ",
+"band": "top-2000",
+"pos": "noun",
+"topics": "science",
+"ex": "Turn off the gas after cooking."
+},
+{
+"en": "kale",
+"uk": "кейл",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I added some kale to my smoothie."
+},
+{
+"en": "zucchini",
+"uk": "цукіні",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made a light soup with zucchini and carrots."
+},
+{
+"en": "curry",
+"uk": "каррі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I made chicken curry for dinner."
+},
+{
+"en": "chili",
+"uk": "чилі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "Add a chili for extra heat."
+},
+{
+"en": "hummus",
+"uk": "хумус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "I like to eat hummus with fresh carrots."
+},
+{
+"en": "fiasco",
+"uk": "фіаско",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The party was a total fiasco."
+}
+]
+}
+]

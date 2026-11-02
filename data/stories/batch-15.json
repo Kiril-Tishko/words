@@ -1,0 +1,1494 @@
+[
+{
+"id": "c181",
+"part": "p18",
+"title": "On the hospital ward",
+"scene": "Ira works on a hospital ward. She meets patients with a tumor, leukemia, anemia, a rare syndrome, asthma, diarrhea and vertigo, learns about polio, penicillin, an antidote and a placebo in medical history, and talks with a family about a hospice and euthanasia.",
+"anchors": [
+"tumor",
+"leukemia",
+"anemia",
+"syndrome",
+"asthma",
+"diarrhea",
+"vertigo",
+"polio",
+"penicillin",
+"antidote",
+"placebo",
+"hospice"
+],
+"level": "B1",
+"words": [
+{
+"en": "tumor",
+"uk": "тумор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor said the tumor is not cancer."
+},
+{
+"en": "leukemia",
+"uk": "лейкемія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Leukemia is a cancer of the blood."
+},
+{
+"en": "anemia",
+"uk": "анемія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Her tiredness was caused by anemia."
+},
+{
+"en": "syndrome",
+"uk": "синдром",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor said I have a rare syndrome."
+},
+{
+"en": "asthma",
+"uk": "астма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "My son has asthma and uses an inhaler."
+},
+{
+"en": "diarrhea",
+"uk": "діарея",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He got diarrhea after drinking the tap water."
+},
+{
+"en": "vertigo",
+"uk": "вертиго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She gets vertigo on tall buildings."
+},
+{
+"en": "polio",
+"uk": "поліо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The polio vaccine has saved millions of children."
+},
+{
+"en": "penicillin",
+"uk": "пеніцилін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave me penicillin for my sore throat."
+},
+{
+"en": "antidote",
+"uk": "антидот",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave him an antidote to the poison."
+},
+{
+"en": "placebo",
+"uk": "плацебо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Half the patients got a placebo."
+},
+{
+"en": "hospice",
+"uk": "хоспіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, places",
+"ex": "Her grandfather spent his last weeks in a hospice."
+},
+{
+"en": "cholera",
+"uk": "холера",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Cholera spreads through dirty water."
+}
+]
+},
+{
+"id": "c182",
+"part": "p19",
+"title": "A castle in England",
+"scene": "Anna visits an old castle in England with a stone bastion. A guide tells her about the lord and the duke who lived there, an earl, squires and yeomen, the gentry and every aristocrat, a monarch on the throne with his consort, a regent, a loyal vassal and the loyalists, and a dandy in fancy clothes.",
+"anchors": [
+"bastion",
+"lord",
+"duke",
+"earl",
+"squire",
+"yeoman",
+"gentry",
+"aristocrat",
+"monarch",
+"throne",
+"consort",
+"regent"
+],
+"level": "B1",
+"words": [
+{
+"en": "bastion",
+"uk": "бастіон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The city was a bastion against the enemy."
+},
+{
+"en": "lord",
+"uk": "лорд",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "We visited the castle of an old lord."
+},
+{
+"en": "duke",
+"uk": "дюк",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I'm reading a book about a duke and his family."
+},
+{
+"en": "earl",
+"uk": "ерл",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The earl lived in a huge castle."
+},
+{
+"en": "squire",
+"uk": "сквайр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The squire owned most of the land around the village."
+},
+{
+"en": "yeoman",
+"uk": "йомен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "In old England, a yeoman owned and farmed his own land."
+},
+{
+"en": "gentry",
+"uk": "джентрі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The gentry lived in large country houses."
+},
+{
+"en": "aristocrat",
+"uk": "аристократ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He was born into a family of aristocrats."
+},
+{
+"en": "monarch",
+"uk": "монарх",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The monarch gave a speech on TV today."
+},
+{
+"en": "throne",
+"uk": "трон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who will be next on the throne?"
+},
+{
+"en": "consort",
+"uk": "консорт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The queen's consort stood beside her."
+},
+{
+"en": "regent",
+"uk": "регент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The queen's uncle ruled as regent."
+},
+{
+"en": "vassal",
+"uk": "васал",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The vassal promised loyalty to his lord."
+}
+]
+},
+{
+"id": "c183",
+"part": "p19",
+"title": "Empires of the East",
+"scene": "In history class Taras learns about great empires: a sultan with his harem and eunuchs, a caliph and his caliphate, a khan whose nomads ride across the steppe with yaks, and a maharaja who signs an edict.",
+"anchors": [
+"sultan",
+"harem",
+"eunuch",
+"caliph",
+"caliphate",
+"khan",
+"nomad",
+"steppe",
+"yak",
+"maharaja",
+"edict"
+],
+"level": "B1",
+"words": [
+{
+"en": "sultan",
+"uk": "султан",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The sultan lived in a huge palace."
+},
+{
+"en": "harem",
+"uk": "гарем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The sultan's harem lived in the palace."
+},
+{
+"en": "eunuch",
+"uk": "евнух",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "In old China, eunuchs worked in the palace."
+},
+{
+"en": "caliph",
+"uk": "каліф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The caliph ruled a huge empire."
+},
+{
+"en": "caliphate",
+"uk": "каліфат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The caliphate once ruled a very large area."
+},
+{
+"en": "khan",
+"uk": "хан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The khan ruled a huge empire on the steppe."
+},
+{
+"en": "nomad",
+"uk": "номад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The nomads moved their tents with the seasons."
+},
+{
+"en": "steppe",
+"uk": "степ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "Horses run across the wide steppe."
+},
+{
+"en": "yak",
+"uk": "як",
+"band": "top-20k",
+"pos": "noun",
+"topics": "nature",
+"ex": "A yak can live high in the mountains."
+},
+{
+"en": "maharaja",
+"uk": "махараджа",
+"band": "top-20k",
+"pos": "noun",
+"topics": "history, people, politics",
+"ex": "The maharaja lived in a beautiful palace."
+},
+{
+"en": "edict",
+"uk": "едикт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, politics",
+"ex": "The king issued an edict banning all public gatherings."
+}
+]
+},
+{
+"id": "c184",
+"part": "p19",
+"title": "Warriors of the past",
+"scene": "Max loves military history. He reads about gladiators and a centurion with his legion, a paladin who defends a fort, musketeers who fight a duel, samurai and a shogun, a commodore who leads a great armada with a clever maneuver, a padre who blesses the soldiers, and a flying ace.",
+"anchors": [
+"gladiator",
+"centurion",
+"legion",
+"paladin",
+"fort",
+"musketeer",
+"duel",
+"samurai",
+"shogun",
+"commodore",
+"armada",
+"maneuver"
+],
+"level": "B1",
+"words": [
+{
+"en": "gladiator",
+"uk": "гладіатор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The gladiator fought a lion in the arena."
+},
+{
+"en": "centurion",
+"uk": "центуріон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The centurion led a hundred soldiers."
+},
+{
+"en": "legion",
+"uk": "легіон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The Roman legion marched into the city."
+},
+{
+"en": "paladin",
+"uk": "паладин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The paladin rode out to defend the king."
+},
+{
+"en": "fort",
+"uk": "форт",
+"band": "top-5000",
+"pos": "noun",
+"topics": "military",
+"ex": "Can we visit the old fort on Sunday?"
+},
+{
+"en": "musketeer",
+"uk": "мушкетер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "history, military",
+"ex": "He played a musketeer in the school play."
+},
+{
+"en": "duel",
+"uk": "дуель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The two men fought a duel at dawn."
+},
+{
+"en": "samurai",
+"uk": "самурай",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military, people",
+"ex": "The samurai carried two swords."
+},
+{
+"en": "shogun",
+"uk": "шогун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military, politics",
+"ex": "The shogun ruled Japan for many years."
+},
+{
+"en": "commodore",
+"uk": "комодор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "The commodore gave orders to the fleet."
+},
+{
+"en": "armada",
+"uk": "армада",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "An armada of ships sailed toward the coast."
+},
+{
+"en": "maneuver",
+"uk": "маневр",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The army practiced a difficult maneuver."
+}
+]
+},
+{
+"id": "c185",
+"part": "p19",
+"title": "The Wild West",
+"scene": "Taras watches an old western. Pioneers and colonists move to the frontier and get acres of land, a trapper lives alone, bandits rob a train, a cowboy with a revolver drinks whiskey in the saloon, and the sheriff waits for the locomotive and news by telegraph; it is a new era, and a scary legend tells of cannibals in the mountains.",
+"anchors": [
+"pioneer",
+"colonist",
+"frontier",
+"acre",
+"trapper",
+"bandit",
+"cowboy",
+"revolver",
+"whiskey",
+"saloon",
+"sheriff",
+"locomotive"
+],
+"level": "B1",
+"words": [
+{
+"en": "pioneer",
+"uk": "піонер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "She was a pioneer in computer science."
+},
+{
+"en": "colonist",
+"uk": "колоніст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The first colonists arrived by ship."
+},
+{
+"en": "frontier",
+"uk": "фронтир",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "Pioneers moved west to the frontier."
+},
+{
+"en": "acre",
+"uk": "акр",
+"band": "top-5000",
+"pos": "noun",
+"topics": "units",
+"ex": "How many acres of land does your family have?"
+},
+{
+"en": "trapper",
+"uk": "трапер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The old trapper lived alone in the forest."
+},
+{
+"en": "bandit",
+"uk": "бандит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "law, people",
+"ex": "Bandits robbed the travelers on the mountain road."
+},
+{
+"en": "cowboy",
+"uk": "ковбой",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "The cowboy rode his horse across the field."
+},
+{
+"en": "revolver",
+"uk": "револьвер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "military",
+"ex": "The detective always carried a revolver in his coat."
+},
+{
+"en": "whiskey",
+"uk": "віскі",
+"band": "top-5000",
+"pos": "noun",
+"topics": "drinks",
+"ex": "He likes his whiskey with a little ice."
+},
+{
+"en": "saloon",
+"uk": "салун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The cowboys drank whiskey in the saloon."
+},
+{
+"en": "sheriff",
+"uk": "шериф",
+"band": "top-3000",
+"pos": "noun",
+"topics": "law",
+"ex": "I like old movies about sheriffs."
+},
+{
+"en": "locomotive",
+"uk": "локомотив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The old steam locomotive pulled ten cars."
+},
+{
+"en": "dynamite",
+"uk": "динаміт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Workers used dynamite to blast the rock."
+},
+{
+"en": "telegraph",
+"uk": "телеграф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "In the past, important news came by telegraph."
+},
+{
+"en": "magnum",
+"uk": "магнум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "military",
+"ex": "He carried a magnum in his belt."
+}
+]
+},
+{
+"id": "c186",
+"part": "p19",
+"title": "Dark times",
+"scene": "At a museum Anna learns about the dark times of the 20th century: the last tsar and kaiser, imperialism, fascism and fascists, the national socialists and the swastika, the Holocaust and genocide, dictators and juntas, a prefect who ruled a province and a general's adjutant, propaganda and a false narrative, and brave dissidents.",
+"anchors": [
+"tsar",
+"kaiser",
+"imperialism",
+"fascism",
+"fascist",
+"national socialist",
+"swastika",
+"holocaust",
+"genocide",
+"dictator",
+"propaganda",
+"dissident"
+],
+"level": "B1",
+"words": [
+{
+"en": "tsar",
+"uk": "цар",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The museum has a portrait of a Russian tsar."
+},
+{
+"en": "kaiser",
+"uk": "кайзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "Kaiser was the title of the German emperor."
+},
+{
+"en": "imperialism",
+"uk": "імперіалізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The book is about British imperialism."
+},
+{
+"en": "fascism",
+"uk": "фашизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Fascism spread across Europe in the 1930s."
+},
+{
+"en": "fascist",
+"uk": "фашист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The fascists took power in Italy in the 1920s."
+},
+{
+"en": "national socialist",
+"uk": "націонал-соціаліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The national socialists came to power in 1933."
+},
+{
+"en": "swastika",
+"uk": "свастика",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The swastika is an old symbol in many cultures."
+},
+{
+"en": "holocaust",
+"uk": "голокост",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Her grandparents survived the Holocaust as children."
+},
+{
+"en": "genocide",
+"uk": "геноцид",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The genocide killed millions of people."
+},
+{
+"en": "dictator",
+"uk": "диктатор",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The dictator ruled the country for thirty years."
+},
+{
+"en": "propaganda",
+"uk": "пропаганда",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The government spread propaganda on TV."
+},
+{
+"en": "dissident",
+"uk": "дисидент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The dissident spent ten years in prison for his ideas."
+},
+{
+"en": "junta",
+"uk": "хунта",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The military junta took power last night."
+}
+]
+},
+{
+"id": "c187",
+"part": "p19",
+"title": "Grandma's church",
+"scene": "At Easter Anna goes to church with Grandma. The pastor talks about the archangel and the messiah, Grandma's Catholic friend explains Catholicism, the sacrament, the crucifix and the canon, and talks about a cardinal at a synod in Rome.",
+"anchors": [
+"pastor",
+"archangel",
+"messiah",
+"Catholic",
+"Catholicism",
+"sacrament",
+"crucifix",
+"canon",
+"cardinal",
+"synod"
+],
+"level": "B1",
+"words": [
+{
+"en": "pastor",
+"uk": "пастор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "religion",
+"ex": "I talked to the pastor after the service."
+},
+{
+"en": "archangel",
+"uk": "архангел",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The painting shows the archangel Michael."
+},
+{
+"en": "messiah",
+"uk": "месія",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Some people saw him as a messiah."
+},
+{
+"en": "Catholic",
+"uk": "католик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Her family are Catholics and go to church every Sunday."
+},
+{
+"en": "Catholicism",
+"uk": "католицизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "She converted to Catholicism last year."
+},
+{
+"en": "sacrament",
+"uk": "сакрамент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Baptism is a sacrament in many churches."
+},
+{
+"en": "crucifix",
+"uk": "круцифікс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "A crucifix hangs on the wall of the church."
+},
+{
+"en": "canon",
+"uk": "канон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "This novel is now part of the literary canon."
+},
+{
+"en": "cardinal",
+"uk": "кардинал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The cardinal wore a long red robe."
+},
+{
+"en": "synod",
+"uk": "синод",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The church held a synod to discuss the issue."
+},
+{
+"en": "padre",
+"uk": "падре",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The padre blessed the soldiers before the battle."
+},
+{
+"en": "abbot",
+"uk": "абат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The abbot welcomed us to the monastery."
+}
+]
+},
+{
+"id": "c188",
+"part": "p19",
+"title": "An evening of many faiths",
+"scene": "Anna's college holds an evening of many faiths. A Protestant, a Baptist, a Mormon and a Quaker speak, a Jewish cantor sings, and an imam and another cleric explain Islam, Ramadan, what is haram and what jihad really means, why an Islamist is not the same as a Muslim, and what a fetish was in old religions.",
+"anchors": [
+"Protestant",
+"Baptist",
+"Mormon",
+"quaker",
+"cantor",
+"imam",
+"cleric",
+"Islam",
+"Ramadan",
+"haram",
+"jihad",
+"Islamist"
+],
+"level": "B1",
+"words": [
+{
+"en": "Protestant",
+"uk": "протестант",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "He was raised as a Protestant."
+},
+{
+"en": "Baptist",
+"uk": "баптист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "He grew up as a Baptist in a small town."
+},
+{
+"en": "Mormon",
+"uk": "мормон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "My neighbor is a Mormon from Utah."
+},
+{
+"en": "quaker",
+"uk": "квакер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Her grandparents were Quakers who lived in Pennsylvania."
+},
+{
+"en": "cantor",
+"uk": "кантор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music, religion",
+"ex": "The cantor sang during the service."
+},
+{
+"en": "imam",
+"uk": "імам",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The imam led the evening prayer."
+},
+{
+"en": "cleric",
+"uk": "клірик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The cleric led the religious ceremony."
+},
+{
+"en": "Islam",
+"uk": "іслам",
+"band": "top-3000",
+"pos": "noun",
+"topics": "religion",
+"ex": "What do you know about Islam?"
+},
+{
+"en": "Ramadan",
+"uk": "рамадан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion, time",
+"ex": "Many Muslims fast during the month of Ramadan."
+},
+{
+"en": "haram",
+"uk": "харам",
+"band": "top-20k",
+"pos": "adj",
+"topics": "religion",
+"ex": "Pork and alcohol are haram for many Muslims."
+},
+{
+"en": "jihad",
+"uk": "джихад",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The word jihad means struggle in Arabic."
+},
+{
+"en": "Islamist",
+"uk": "ісламіст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, religion",
+"ex": "The Islamist group wants a state based on religious law."
+}
+]
+},
+{
+"id": "c189",
+"part": "p19",
+"title": "A yoga retreat",
+"scene": "Anna's friend Lisa goes on a yoga retreat. A swami and a brahmin talk about chakras, karma and dharma, they repeat a mantra and fall into a trance, and a Buddhist lama explains Buddhism, the sutras and nirvana; an old abbot talks about the Tao and yin.",
+"anchors": [
+"retreat",
+"swami",
+"brahmin",
+"chakra",
+"karma",
+"dharma",
+"mantra",
+"trance",
+"Buddhist",
+"lama",
+"Buddhism",
+"sutra"
+],
+"level": "B1",
+"words": [
+{
+"en": "retreat",
+"uk": "ретрит",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion, travel",
+"ex": "We are going on a yoga retreat in the mountains."
+},
+{
+"en": "swami",
+"uk": "свамі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The swami taught meditation in the village."
+},
+{
+"en": "brahmin",
+"uk": "брамін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The Brahmin led the prayers at the temple."
+},
+{
+"en": "chakra",
+"uk": "чакра",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Yoga teachers talk about the heart chakra."
+},
+{
+"en": "karma",
+"uk": "карма",
+"band": "top-10k",
+"pos": "noun",
+"topics": "religion",
+"ex": "He helped a stranger for good karma."
+},
+{
+"en": "dharma",
+"uk": "дхарма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "In Hinduism, dharma means duty and right living."
+},
+{
+"en": "mantra",
+"uk": "мантра",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "\"Stay calm\" is my daily mantra."
+},
+{
+"en": "trance",
+"uk": "транс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "music",
+"ex": "She fell into a deep trance during the hypnosis."
+},
+{
+"en": "Buddhist",
+"uk": "буддист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "He is a Buddhist and meditates every morning."
+},
+{
+"en": "lama",
+"uk": "лама",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The lama taught the monks every morning."
+},
+{
+"en": "Buddhism",
+"uk": "буддизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Buddhism started in India about 2,500 years ago."
+},
+{
+"en": "sutra",
+"uk": "сутра",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The monks chanted a sutra every morning."
+},
+{
+"en": "ritual",
+"uk": "ритуал",
+"band": "top-5000",
+"pos": "noun",
+"topics": "religion",
+"ex": "Morning coffee is my favorite daily ritual."
+},
+{
+"en": "aura",
+"uk": "аура",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "She has an aura of calm."
+},
+{
+"en": "Tao",
+"uk": "тао",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The Tao is the central idea of Taoism."
+},
+{
+"en": "yin",
+"uk": "інь",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "In Chinese philosophy, yin is the dark, calm force."
+},
+{
+"en": "nirvana",
+"uk": "нірвана",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Buddhists believe nirvana ends all suffering."
+}
+]
+},
+{
+"id": "c190",
+"part": "p19",
+"title": "Heaven, hell and spirits",
+"scene": "Max and Anna argue after a horror film. Max is an atheist and talks about atheism; Anna asks about paradise, demons and the antichrist, an exorcism and an exorcist, armageddon, dogma and the inquisitor, voodoo, a jinn, an idol, a totem, an amulet and a druid.",
+"anchors": [
+"atheist",
+"atheism",
+"paradise",
+"demon",
+"antichrist",
+"exorcism",
+"exorcist",
+"armageddon",
+"dogma",
+"inquisitor",
+"voodoo",
+"jinn"
+],
+"level": "B1",
+"words": [
+{
+"en": "atheist",
+"uk": "атеїст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "He became an atheist in college."
+},
+{
+"en": "atheism",
+"uk": "атеїзм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "His atheism caused arguments with his parents."
+},
+{
+"en": "paradise",
+"uk": "парадиз",
+"band": "top-5000",
+"pos": "noun",
+"topics": "religion",
+"ex": "This small island is a paradise for divers."
+},
+{
+"en": "demon",
+"uk": "демон",
+"band": "top-3000",
+"pos": "noun",
+"topics": "religion",
+"ex": "Do you believe in demons?"
+},
+{
+"en": "antichrist",
+"uk": "антихрист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "In the film, the antichrist is a little boy."
+},
+{
+"en": "exorcism",
+"uk": "екзорцизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The priest performed an exorcism in the old house."
+},
+{
+"en": "exorcist",
+"uk": "екзорцист",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The family asked the church to send an exorcist."
+},
+{
+"en": "armageddon",
+"uk": "армагеддон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The movie shows armageddon coming to the earth."
+},
+{
+"en": "dogma",
+"uk": "догма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The church teaches this idea as dogma."
+},
+{
+"en": "inquisitor",
+"uk": "інквізитор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The inquisitor asked the man many questions."
+},
+{
+"en": "voodoo",
+"uk": "вуду",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "Voodoo is a religion practiced in Haiti."
+},
+{
+"en": "jinn",
+"uk": "джин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The jinn came out of the lamp."
+},
+{
+"en": "skeptic",
+"uk": "скептик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "I'm a skeptic about diets that promise fast results."
+}
+]
+},
+{
+"id": "c191",
+"part": "p19",
+"title": "Grandma's folk tales",
+"scene": "On a winter evening Grandma tells old folk tales from world folklore: a ghoul, a banshee and a leprechaun, a yeti and a phoenix, a healer with a talisman and a magic elixir, a shaman with a strong aura and his ritual, a charlatan who sells magic, and an enigma that nobody can solve.",
+"anchors": [
+"folklore",
+"ghoul",
+"banshee",
+"leprechaun",
+"yeti",
+"phoenix",
+"healer",
+"talisman",
+"elixir",
+"shaman",
+"charlatan",
+"enigma"
+],
+"level": "B1",
+"words": [
+{
+"en": "folklore",
+"uk": "фольклор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "Dragons appear often in local folklore."
+},
+{
+"en": "ghoul",
+"uk": "гуль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "A ghoul appeared in the old cemetery."
+},
+{
+"en": "banshee",
+"uk": "банші",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "In Irish stories, a banshee cries before someone dies."
+},
+{
+"en": "leprechaun",
+"uk": "лепрекон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "A leprechaun is a little man from Irish stories."
+},
+{
+"en": "yeti",
+"uk": "єті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "People say a yeti lives in the mountains."
+},
+{
+"en": "phoenix",
+"uk": "фенікс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The phoenix rises from its own ashes."
+},
+{
+"en": "healer",
+"uk": "хілер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The village healer used herbs and plants."
+},
+{
+"en": "talisman",
+"uk": "талісман",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "He carries a talisman for good luck."
+},
+{
+"en": "elixir",
+"uk": "еліксир",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The wizard drank a magic elixir."
+},
+{
+"en": "shaman",
+"uk": "шаман",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, religion",
+"ex": "The village shaman performed a healing ritual."
+},
+{
+"en": "charlatan",
+"uk": "шарлатан",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The so-called doctor was a charlatan."
+},
+{
+"en": "enigma",
+"uk": "енігма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "The old castle remains an enigma."
+},
+{
+"en": "idol",
+"uk": "ідол",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The people prayed to a golden idol."
+},
+{
+"en": "druid",
+"uk": "друїд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The druid gathered herbs in the forest."
+},
+{
+"en": "totem",
+"uk": "тотем",
+"band": "top-20k",
+"pos": "noun",
+"topics": "religion",
+"ex": "The tribe carved a tall totem pole."
+}
+]
+},
+{
+"id": "c192",
+"part": "p20",
+"title": "Hey, mhm, pardon?",
+"scene": "Anna talks to Max on the phone and uses all the little words of a conversation: 'hey' and 'yo' at the start, 'mhm' while she listens, 'hmm' while she thinks, 'pardon?' when the line is bad, 'okey-dokey' to agree and 'bye' at the end.",
+"anchors": [
+"hey",
+"yo",
+"mhm",
+"hmm",
+"pardon",
+"okey-dokey",
+"bye"
+],
+"level": "A1",
+"words": [
+{
+"en": "hey",
+"uk": "хей",
+"band": "top-1000",
+"pos": "interj",
+"topics": "other",
+"ex": "Hey, how are you?"
+},
+{
+"en": "yo",
+"uk": "йо",
+"band": "top-2000",
+"pos": "interj",
+"topics": "language",
+"ex": "Yo, what's up?"
+},
+{
+"en": "mhm",
+"uk": "мгм",
+"band": "top-10k",
+"pos": "interj",
+"topics": "other",
+"ex": "Mhm, I understand what you mean."
+},
+{
+"en": "hmm",
+"uk": "хм",
+"band": "top-2000",
+"pos": "interj",
+"topics": "emotions",
+"ex": "Hmm, which one should I buy?"
+},
+{
+"en": "pardon",
+"uk": "пардон",
+"band": "top-10k",
+"pos": "interj",
+"topics": "other",
+"ex": "Pardon? I didn't hear you, sorry."
+},
+{
+"en": "okey-dokey",
+"uk": "окі-докі",
+"band": "top-100k",
+"pos": "interj",
+"topics": "other",
+"ex": "Okey-dokey, I will see you at five."
+},
+{
+"en": "bye",
+"uk": "бай",
+"band": "top-2000",
+"pos": "interj",
+"topics": "other",
+"ex": "Bye, see you tomorrow!"
+}
+]
+}
+]

@@ -1,0 +1,1515 @@
+[
+{
+"id": "c145",
+"part": "p15",
+"title": "Export and import in Odesa",
+"scene": "Max's uncle runs a business at the port of Odesa. Ships come to the dock with cargo, a tanker with water as ballast brings oil by the barrel, an industrialist and a distributor talk about export and import, and the uncle explains tariffs, quotas, an exporter, an importer and a conveyor in the warehouse.",
+"anchors": [
+"port",
+"dock",
+"cargo",
+"tanker",
+"ballast",
+"barrel",
+"export",
+"import",
+"tariff",
+"quota",
+"exporter",
+"importer"
+],
+"level": "B1",
+"words": [
+{
+"en": "port",
+"uk": "порт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "transport",
+"ex": "The ship is leaving the port."
+},
+{
+"en": "dock",
+"uk": "док",
+"band": "top-10k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The ship is in dock for repairs this month."
+},
+{
+"en": "cargo",
+"uk": "карго",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business, transport",
+"ex": "How long does cargo take to arrive by sea?"
+},
+{
+"en": "tanker",
+"uk": "танкер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "An oil tanker sailed into the port."
+},
+{
+"en": "ballast",
+"uk": "баласт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The ship carries water as ballast."
+},
+{
+"en": "barrel",
+"uk": "барель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, units",
+"ex": "Oil prices rose to ninety dollars a barrel."
+},
+{
+"en": "export",
+"uk": "експорт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "Coffee is the main export of Brazil."
+},
+{
+"en": "import",
+"uk": "імпорт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "This car is an import from Japan."
+},
+{
+"en": "tariff",
+"uk": "тариф",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The government raised tariffs on imported cars."
+},
+{
+"en": "quota",
+"uk": "квота",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "Each factory has a monthly quota."
+},
+{
+"en": "exporter",
+"uk": "експортер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The country is a major exporter of wheat."
+},
+{
+"en": "importer",
+"uk": "імпортер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company is a major importer of coffee."
+},
+{
+"en": "joint venture",
+"uk": "джойнт-венчур",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The two companies started a joint venture in Poland."
+},
+{
+"en": "conveyor",
+"uk": "конвеєр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The boxes move along a conveyor."
+},
+{
+"en": "industrialist",
+"uk": "індустріаліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The industrialist owned many factories."
+}
+]
+},
+{
+"id": "c146",
+"part": "p15",
+"title": "Uncle Oleh, the trader",
+"scene": "Anna's uncle is a trader at a big bank. He explains trading and a broker's work at a brokerage, the stock market index and dividends, buys bitcoin, follows the smart money, and talks about futures, derivatives, hedge funds and asset management.",
+"anchors": [
+"trader",
+"trading",
+"broker",
+"brokerage",
+"index",
+"dividend",
+"bitcoin",
+"smart money",
+"futures",
+"derivative",
+"hedge fund",
+"asset management"
+],
+"level": "B1",
+"words": [
+{
+"en": "trader",
+"uk": "трейдер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, people",
+"ex": "He works as a trader on Wall Street."
+},
+{
+"en": "trading",
+"uk": "трейдинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "He works in stock trading at a big bank."
+},
+{
+"en": "broker",
+"uk": "брокер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "My broker bought shares for me."
+},
+{
+"en": "brokerage",
+"uk": "брокеридж",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He opened an account at an online brokerage."
+},
+{
+"en": "index",
+"uk": "індекс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The stock market index went up again today."
+},
+{
+"en": "dividend",
+"uk": "дивіденд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The company pays a dividend every quarter."
+},
+{
+"en": "bitcoin",
+"uk": "біткоїн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, tech",
+"ex": "He bought some bitcoin five years ago."
+},
+{
+"en": "smart money",
+"uk": "смарт-мані",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "Many traders try to follow the smart money in the market."
+},
+{
+"en": "futures",
+"uk": "ф'ючерс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He trades oil futures on the market."
+},
+{
+"en": "derivative",
+"uk": "дериватив",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He trades derivatives at a big bank in London."
+},
+{
+"en": "hedge fund",
+"uk": "хедж-фонд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "He works as a manager at a hedge fund."
+},
+{
+"en": "asset management",
+"uk": "асет-менеджмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "My sister works in asset management at a big bank."
+}
+]
+},
+{
+"id": "c147",
+"part": "p15",
+"title": "Buying a flat",
+"scene": "Anna's parents want to buy a new flat. A developer and a consortium of banks build a condominium, the bank's banking app shows them a loan with a grace period, the money waits in escrow, a creditor checks their reserve, they get a rebate from the city, and an auditor does an audit of the developer.",
+"anchors": [
+"developer",
+"consortium",
+"condominium",
+"banking",
+"grace period",
+"escrow",
+"creditor",
+"reserve",
+"rebate",
+"auditor",
+"audit"
+],
+"level": "B1",
+"words": [
+{
+"en": "developer",
+"uk": "девелопер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The developer plans to build new apartments here."
+},
+{
+"en": "consortium",
+"uk": "консорціум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "A consortium of banks paid for the project."
+},
+{
+"en": "condominium",
+"uk": "кондомініум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home, law",
+"ex": "They bought a condominium near the beach."
+},
+{
+"en": "banking",
+"uk": "банкінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, tech",
+"ex": "She has worked in banking for ten years."
+},
+{
+"en": "grace period",
+"uk": "грейс-період",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "You have a ten-day grace period to pay the bill."
+},
+{
+"en": "escrow",
+"uk": "ескроу",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The money is in escrow until the deal closes."
+},
+{
+"en": "creditor",
+"uk": "кредитор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The company could not pay its creditors."
+},
+{
+"en": "reserve",
+"uk": "резерв",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "We keep some money in reserve."
+},
+{
+"en": "rebate",
+"uk": "ребейт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "We got a fifty-dollar rebate on the TV."
+},
+{
+"en": "auditor",
+"uk": "аудитор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, finance",
+"ex": "The auditor checked all the company's accounts."
+},
+{
+"en": "audit",
+"uk": "аудит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "Our company has an audit every year."
+}
+]
+},
+{
+"id": "c148",
+"part": "p15",
+"title": "The economy on TV",
+"scene": "An economist on TV talks about a boom and a collapse, the budget deficit, debts of a trillion dollars, the fall of the ruble and a country close to default; an insider talks about a drug cartel's money, risk management at banks, a broker-dealer and tax-free shopping at the airport.",
+"anchors": [
+"economist",
+"boom",
+"collapse",
+"deficit",
+"trillion",
+"ruble",
+"default",
+"insider",
+"cartel",
+"risk management",
+"broker-dealer",
+"tax-free"
+],
+"level": "B1",
+"words": [
+{
+"en": "economist",
+"uk": "економіст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The economist predicts a slow year."
+},
+{
+"en": "boom",
+"uk": "бум",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "There is a boom in online shopping right now."
+},
+{
+"en": "collapse",
+"uk": "колапс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "The economy is close to collapse after the war."
+},
+{
+"en": "deficit",
+"uk": "дефіцит",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The country has a large budget deficit."
+},
+{
+"en": "trillion",
+"uk": "трильйон",
+"band": "top-10k",
+"pos": "num",
+"topics": "math",
+"ex": "The country's debt is over a trillion dollars."
+},
+{
+"en": "ruble",
+"uk": "рубль",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "One ruble is worth very little today."
+},
+{
+"en": "default",
+"uk": "дефолт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The country is close to default on its debt."
+},
+{
+"en": "insider",
+"uk": "інсайдер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "An insider told reporters about the secret plan."
+},
+{
+"en": "cartel",
+"uk": "картель",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The police arrested leaders of a drug cartel."
+},
+{
+"en": "risk management",
+"uk": "ризик-менеджмент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works in risk management at an insurance company."
+},
+{
+"en": "broker-dealer",
+"uk": "брокер-дилер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "A broker-dealer buys and sells stocks for its clients."
+},
+{
+"en": "tax-free",
+"uk": "такс-фрі",
+"band": "top-20k",
+"pos": "adj",
+"topics": "business",
+"ex": "You can buy tax-free goods at the airport."
+}
+]
+},
+{
+"id": "c149",
+"part": "p15",
+"title": "A party for the rich",
+"scene": "Max's rich cousin takes him to a cocktail party with a burlesque show. He meets a self-made millionaire, an oil magnate with a huge conglomerate and business interests everywhere, people from show business who talk about the box office and eat caviar, and a man who gives an endowment to a university.",
+"anchors": [
+"cocktail party",
+"burlesque",
+"self-made",
+"millionaire",
+"magnate",
+"conglomerate",
+"business interest",
+"show business",
+"box office",
+"caviar",
+"endowment"
+],
+"level": "B1",
+"words": [
+{
+"en": "cocktail party",
+"uk": "коктейль-паті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "We are invited to a cocktail party on Friday."
+},
+{
+"en": "burlesque",
+"uk": "бурлеск",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "We saw a burlesque show in a small club."
+},
+{
+"en": "self-made",
+"uk": "селф-мейд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "people",
+"ex": "My uncle is a self-made businessman from a small town."
+},
+{
+"en": "millionaire",
+"uk": "мільйонер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "finance, people",
+"ex": "He became a millionaire before he turned thirty."
+},
+{
+"en": "magnate",
+"uk": "магнат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "The oil magnate bought a new yacht."
+},
+{
+"en": "conglomerate",
+"uk": "конгломерат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company is part of a large conglomerate."
+},
+{
+"en": "business interest",
+"uk": "бізнес-інтерес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "He has business interests in three countries."
+},
+{
+"en": "show business",
+"uk": "шоу-бізнес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "She has worked in show business for many years."
+},
+{
+"en": "box office",
+"uk": "бокс-офіс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, media",
+"ex": "The movie was a big hit at the box office."
+},
+{
+"en": "caviar",
+"uk": "кав'яр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food",
+"ex": "We tried black caviar at the party."
+},
+{
+"en": "endowment",
+"uk": "ендавмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance",
+"ex": "The university has a large endowment."
+}
+]
+},
+{
+"id": "c150",
+"part": "p15",
+"title": "Consultants come to the company",
+"scene": "Consultants from a consulting firm come to Max's company. They run a workshop in the business center, talk about project management and recruiting, write a memorandum for the directorate and the pharma clients, put old papers in the shredder and sell old furniture at an auction - every middle manager is worried.",
+"anchors": [
+"consultant",
+"consulting",
+"workshop",
+"business center",
+"project management",
+"recruiting",
+"memorandum",
+"directorate",
+"pharma",
+"shredder",
+"auction",
+"middle manager"
+],
+"level": "B1",
+"words": [
+{
+"en": "consultant",
+"uk": "консультант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "The company hired a consultant to cut costs."
+},
+{
+"en": "consulting",
+"uk": "консалтинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works in management consulting."
+},
+{
+"en": "workshop",
+"uk": "воркшоп",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business, education",
+"ex": "I signed up for a free writing workshop."
+},
+{
+"en": "business center",
+"uk": "бізнес-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Our office is on the fifth floor of the business center."
+},
+{
+"en": "project management",
+"uk": "проджект-менеджмент",
+"band": "top-10k",
+"pos": "noun",
+"topics": "business",
+"ex": "She took a course in project management last year."
+},
+{
+"en": "recruiting",
+"uk": "рекрутинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "She works in recruiting at a big tech company."
+},
+{
+"en": "memorandum",
+"uk": "меморандум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, politics",
+"ex": "The two countries signed a memorandum on trade."
+},
+{
+"en": "directorate",
+"uk": "директорат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, politics",
+"ex": "She works for the health directorate."
+},
+{
+"en": "pharma",
+"uk": "фарма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, medicine",
+"ex": "She got a job in pharma after college."
+},
+{
+"en": "shredder",
+"uk": "шредер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, tech",
+"ex": "Put the old bills in the shredder, please."
+},
+{
+"en": "auction",
+"uk": "аукціон",
+"band": "top-5000",
+"pos": "noun",
+"topics": "business",
+"ex": "We bought our old car at an auction."
+},
+{
+"en": "middle manager",
+"uk": "мідл-менеджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, people",
+"ex": "As a middle manager, she leads a team of ten."
+}
+]
+},
+{
+"id": "c151",
+"part": "p16",
+"title": "A meeting at city hall",
+"scene": "Anna goes to a meeting at city hall about her street. The mayor and an alderman talk about zoning, urban design and a smart city plan, and a bureaucrat shows papers; neighbors worry that a bulldozer will take down the community center, the old kiosk, the barbershop and the bus depot, where squatters now live.",
+"anchors": [
+"mayor",
+"alderman",
+"zoning",
+"urban design",
+"smart city",
+"bureaucrat",
+"bulldozer",
+"community center",
+"kiosk",
+"barbershop",
+"depot",
+"squatter"
+],
+"level": "B1",
+"words": [
+{
+"en": "mayor",
+"uk": "мер",
+"band": "top-2000",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "Who is the mayor of your city?"
+},
+{
+"en": "alderman",
+"uk": "олдермен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The alderman spoke at the city council meeting."
+},
+{
+"en": "zoning",
+"uk": "зонінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places, politics",
+"ex": "Zoning laws don't allow shops here."
+},
+{
+"en": "urban design",
+"uk": "урбан-дизайн",
+"band": "top-20k",
+"pos": "noun",
+"topics": "art",
+"ex": "She studied urban design at a university in Boston."
+},
+{
+"en": "smart city",
+"uk": "смарт-сіті",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "In a smart city, buses use apps and sensors."
+},
+{
+"en": "bureaucrat",
+"uk": "бюрократ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The bureaucrat asked for three more forms."
+},
+{
+"en": "bulldozer",
+"uk": "бульдозер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "A bulldozer cleared the land for new houses."
+},
+{
+"en": "community center",
+"uk": "ком'юніті-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "The community center offers free English classes."
+},
+{
+"en": "kiosk",
+"uk": "кіоск",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "I bought a newspaper at the kiosk near the station."
+},
+{
+"en": "barbershop",
+"uk": "барбершоп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "places",
+"ex": "I get my hair cut at the barbershop."
+},
+{
+"en": "depot",
+"uk": "депо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "transport",
+"ex": "The bus returns to the depot at night."
+},
+{
+"en": "squatter",
+"uk": "сквотер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "Squatters moved into the empty building."
+},
+{
+"en": "prefect",
+"uk": "префект",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The prefect ruled the province for the emperor."
+}
+]
+},
+{
+"id": "c152",
+"part": "p16",
+"title": "Anna volunteers",
+"scene": "Anna becomes a volunteer at a charity. She helps a fundraiser with fundraising for war veterans and for children with lymphoma, does advocacy for people who live like paupers, sells handmade cards, and lays flowers at a memorial to the soldiers' heroism.",
+"anchors": [
+"volunteer",
+"charity",
+"fundraiser",
+"fundraising",
+"veteran",
+"lymphoma",
+"advocacy",
+"pauper",
+"handmade",
+"memorial",
+"heroism"
+],
+"level": "B1",
+"words": [
+{
+"en": "volunteer",
+"uk": "волонтер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I work as a volunteer at the hospital."
+},
+{
+"en": "charity",
+"uk": "чаріті",
+"band": "top-3000",
+"pos": "noun",
+"topics": "people",
+"ex": "She gives money to a charity every month."
+},
+{
+"en": "fundraiser",
+"uk": "фандрейзер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "She works as a fundraiser for a children's charity."
+},
+{
+"en": "fundraising",
+"uk": "фандрейзинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "The school does fundraising for a new gym."
+},
+{
+"en": "veteran",
+"uk": "ветеран",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "My grandfather is a war veteran."
+},
+{
+"en": "lymphoma",
+"uk": "лімфома",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He was diagnosed with lymphoma last year."
+},
+{
+"en": "advocacy",
+"uk": "адвокасі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Our group does advocacy for people with disabilities."
+},
+{
+"en": "pauper",
+"uk": "паупер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He was born a pauper and died rich."
+},
+{
+"en": "handmade",
+"uk": "хенд-мейд",
+"band": "top-20k",
+"pos": "adj",
+"topics": "art",
+"ex": "She sells handmade jewelry on her website."
+},
+{
+"en": "memorial",
+"uk": "меморіал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "They built a memorial for the soldiers."
+},
+{
+"en": "heroism",
+"uk": "героїзм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "The firefighter was praised for his heroism."
+},
+{
+"en": "patriotism",
+"uk": "патріотизм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Patriotism grew strong during the war."
+}
+]
+},
+{
+"id": "c153",
+"part": "p16",
+"title": "New neighbors",
+"scene": "A family of immigrants moves into Anna's building. They talk about their green card, the consulate and the consul, about racism and a racist neighbor, about the poor ghetto where they lived and their hope to join the middle class; Grandpa, born in the baby boom, is a baby boomer and a nationalist, and they argue about nationalism.",
+"anchors": [
+"immigrant",
+"green card",
+"consulate",
+"consul",
+"racism",
+"racist",
+"ghetto",
+"middle class",
+"baby boom",
+"baby boomer",
+"nationalist",
+"nationalism"
+],
+"level": "B1",
+"words": [
+{
+"en": "immigrant",
+"uk": "іммігрант",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "I came to Poland as an immigrant in 2022."
+},
+{
+"en": "green card",
+"uk": "грін-кард",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics, travel",
+"ex": "She finally got her green card after five years."
+},
+{
+"en": "consulate",
+"uk": "консулат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "She went to the consulate to get a visa."
+},
+{
+"en": "consul",
+"uk": "консул",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The consul helped the lost tourists."
+},
+{
+"en": "racism",
+"uk": "расизм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Racism is still a problem in many countries."
+},
+{
+"en": "racist",
+"uk": "расист",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He was fired for being a racist."
+},
+{
+"en": "ghetto",
+"uk": "гетто",
+"band": "top-10k",
+"pos": "noun",
+"topics": "places",
+"ex": "He grew up in a poor ghetto."
+},
+{
+"en": "middle class",
+"uk": "мідл-клас",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "I grew up in a family from the middle class."
+},
+{
+"en": "baby boom",
+"uk": "бейбі-бум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "There was a baby boom after the war."
+},
+{
+"en": "baby boomer",
+"uk": "бебі-бумер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "My father is a baby boomer, born in 1955."
+},
+{
+"en": "nationalist",
+"uk": "націоналіст",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "He is known as a strong nationalist."
+},
+{
+"en": "nationalism",
+"uk": "націоналізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Nationalism grew stronger after the war."
+},
+{
+"en": "migrant",
+"uk": "мігрант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "Many migrants crossed the border last year."
+}
+]
+},
+{
+"id": "c154",
+"part": "p16",
+"title": "Election night",
+"scene": "Anna and Max watch election night on TV. The national broadcaster shows the president and the vice president; each candidate - a democrat, a liberal and a social democrat - talks about the electorate and his mandate, the mass media talk about the primaries, a caucus, a referendum, a veto, impeachment and the leader's charisma.",
+"anchors": [
+"broadcaster",
+"president",
+"vice president",
+"candidate",
+"democrat",
+"liberal",
+"social democrat",
+"electorate",
+"mandate",
+"primaries",
+"caucus",
+"referendum"
+],
+"level": "B1",
+"words": [
+{
+"en": "broadcaster",
+"uk": "бродкастер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "The national broadcaster showed the game live."
+},
+{
+"en": "president",
+"uk": "президент",
+"band": "top-1000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who is the president?"
+},
+{
+"en": "vice president",
+"uk": "віце-президент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who is the vice president of the company?"
+},
+{
+"en": "candidate",
+"uk": "кандидат",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "There are three candidates for the job."
+},
+{
+"en": "democrat",
+"uk": "демократ",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I am a democrat; I believe every vote matters."
+},
+{
+"en": "liberal",
+"uk": "ліберал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "He is a liberal who supports social programs."
+},
+{
+"en": "social democrat",
+"uk": "соціал-демократ",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "She has been a social democrat for years."
+},
+{
+"en": "electorate",
+"uk": "електорат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The electorate wants lower taxes."
+},
+{
+"en": "mandate",
+"uk": "мандат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The new government has a strong mandate for change."
+},
+{
+"en": "primaries",
+"uk": "праймеріз",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "She won the primaries in three states."
+},
+{
+"en": "caucus",
+"uk": "кокус",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The Iowa caucus is held in winter."
+},
+{
+"en": "referendum",
+"uk": "референдум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The country held a referendum on independence."
+},
+{
+"en": "Tory",
+"uk": "торі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The Tories won the election in Britain."
+},
+{
+"en": "charisma",
+"uk": "харизма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "The new leader has a lot of charisma."
+},
+{
+"en": "loyalist",
+"uk": "лояліст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The loyalists fought for the king."
+}
+]
+},
+{
+"id": "c155",
+"part": "p16",
+"title": "A day in parliament",
+"scene": "Anna's class visits parliament, and the secretariat gives them the agenda. A minister and the premier speak, the teacher explains that other countries have a senate with senators, a British Tory guest watches, a lobbyist from a big lobby waits in the hall, and the members try to reach a compromise and a consensus to keep the status quo and avoid a shutdown.",
+"anchors": [
+"parliament",
+"agenda",
+"minister",
+"premier",
+"senate",
+"senator",
+"lobbyist",
+"lobby",
+"compromise",
+"consensus",
+"status quo",
+"shutdown"
+],
+"level": "B1",
+"words": [
+{
+"en": "parliament",
+"uk": "парламент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "The parliament will vote on the new law next week."
+},
+{
+"en": "agenda",
+"uk": "агенда",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The new party has a clear political agenda."
+},
+{
+"en": "minister",
+"uk": "міністр",
+"band": "top-2000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Who is the new health minister?"
+},
+{
+"en": "premier",
+"uk": "прем'єр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The premier met with the president today."
+},
+{
+"en": "senate",
+"uk": "сенат",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Does your country have a senate?"
+},
+{
+"en": "senator",
+"uk": "сенатор",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I saw a senator on TV last night."
+},
+{
+"en": "lobbyist",
+"uk": "лобіст",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The lobbyist met with senators all week."
+},
+{
+"en": "lobby",
+"uk": "лобі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The oil lobby is very powerful in the capital."
+},
+{
+"en": "compromise",
+"uk": "компроміс",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "We reached a compromise after a long talk."
+},
+{
+"en": "consensus",
+"uk": "консенсус",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The team finally reached a consensus on the plan."
+},
+{
+"en": "status quo",
+"uk": "статус-кво",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Many people just want to keep the status quo."
+},
+{
+"en": "shutdown",
+"uk": "шатдаун",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The government shutdown lasted two weeks."
+},
+{
+"en": "briefing",
+"uk": "брифінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "media",
+"ex": "The minister held a press briefing this morning."
+},
+{
+"en": "de facto",
+"uk": "де-факто",
+"band": "top-10k",
+"pos": "adv",
+"topics": "law",
+"ex": "English is the de facto language of business."
+},
+{
+"en": "impeachment",
+"uk": "імпічмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "law, politics",
+"ex": "The impeachment trial lasted three weeks."
+}
+]
+},
+{
+"id": "c156",
+"part": "p16",
+"title": "A summit in Geneva",
+"scene": "Anna's aunt works as an interpreter at a summit. Diplomats and delegates from every bloc discuss an alliance, a peace pact and an embargo; an emir, a sovereign and an American congressman and congresswoman from Congress give speeches.",
+"anchors": [
+"summit",
+"diplomat",
+"delegate",
+"bloc",
+"alliance",
+"pact",
+"embargo",
+"emir",
+"sovereign",
+"congressman",
+"congresswoman",
+"congress"
+],
+"level": "B1",
+"words": [
+{
+"en": "summit",
+"uk": "саміт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "World leaders met at a summit in Geneva."
+},
+{
+"en": "diplomat",
+"uk": "дипломат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "She works as a diplomat in Paris."
+},
+{
+"en": "delegate",
+"uk": "делегат",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "Each country sent two delegates to the meeting."
+},
+{
+"en": "bloc",
+"uk": "блок",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The European bloc agreed on new rules."
+},
+{
+"en": "alliance",
+"uk": "альянс",
+"band": "top-5000",
+"pos": "noun",
+"topics": "politics",
+"ex": "Our company formed an alliance with a bigger firm."
+},
+{
+"en": "pact",
+"uk": "пакт",
+"band": "top-10k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The two countries signed a peace pact."
+},
+{
+"en": "embargo",
+"uk": "ембарго",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The government placed an embargo on oil imports."
+},
+{
+"en": "emir",
+"uk": "емір",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The emir welcomed the foreign guests."
+},
+{
+"en": "sovereign",
+"uk": "суверен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The sovereign opened the new session of parliament."
+},
+{
+"en": "congressman",
+"uk": "конгресмен",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people, politics",
+"ex": "The congressman met with voters in our town."
+},
+{
+"en": "congresswoman",
+"uk": "конгрес-вумен",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The congresswoman visited our school last week."
+},
+{
+"en": "congress",
+"uk": "конгрес",
+"band": "top-3000",
+"pos": "noun",
+"topics": "politics",
+"ex": "I am going to a medical congress in May."
+},
+{
+"en": "veto",
+"uk": "вето",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The president used his veto to stop the new law."
+},
+{
+"en": "secretariat",
+"uk": "секретаріат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "politics",
+"ex": "The conference secretariat is on the second floor."
+}
+]
+}
+]

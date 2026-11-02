@@ -522,7 +522,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       const cs = S.chapters.filter(c => c.part === p.id);
       return '<section id="part-' + esc(p.id) + '"><h2>' + esc(p.title) + '</h2>' + (p.about ? '<p class="about">' + esc(p.about) + '</p>' : '') +
         '<div class="tiles">' + cs.map(c => '<a class="tile" href="#story-' + esc(c.id.toLowerCase()) + '">' +
-          '<span class="tn">' + (S.chapters.indexOf(c) + 1) + ' · ' + plural(c.words.length, 'word') + '</span>' +
+          '<span class="tn">' + (S.chapters.indexOf(c) + 1) + (c.level ? ' · ' + esc(c.level) : '') + ' · ' + plural(c.words.length, 'word') + '</span>' +
           '<b>' + esc(c.title) + '</b><span class="tw">' + esc(c.words.slice(0, 6).join(' · ')) + '</span></a>').join('') +
         '</div></section>';
     }).join('') + '</div>';

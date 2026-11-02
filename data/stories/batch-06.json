@@ -1,0 +1,1290 @@
+[
+{
+"id": "c073",
+"part": "p08",
+"title": "Aunt Iryna's doctorate",
+"scene": "Anna's aunt finishes her doctorate. At a symposium at her alma mater she presents her argument about public discourse, helps to write a new curriculum and enjoys the prestige; Anna thinks she is a real intellectual with a great intellect.",
+"anchors": [
+"doctorate",
+"symposium",
+"alma mater",
+"argument",
+"discourse",
+"curriculum",
+"prestige",
+"intellectual",
+"intellect"
+],
+"level": "B1",
+"words": [
+{
+"en": "doctorate",
+"uk": "докторат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "She earned her doctorate in biology."
+},
+{
+"en": "symposium",
+"uk": "симпозіум",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education, science",
+"ex": "She gave a talk at a medical symposium last month."
+},
+{
+"en": "alma mater",
+"uk": "альма-матер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "I visited my alma mater after twenty years."
+},
+{
+"en": "argument",
+"uk": "аргумент",
+"band": "top-5000",
+"pos": "noun",
+"topics": "language",
+"ex": "That's a good argument, but I don't agree."
+},
+{
+"en": "discourse",
+"uk": "дискурс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "language",
+"ex": "Political discourse has become very angry lately."
+},
+{
+"en": "curriculum",
+"uk": "курикулум",
+"band": "top-10k",
+"pos": "noun",
+"topics": "education",
+"ex": "Our school has a new science curriculum this year."
+},
+{
+"en": "prestige",
+"uk": "престиж",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "A job at this hospital brings a lot of prestige."
+},
+{
+"en": "intellectual",
+"uk": "інтелектуал",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is an intellectual who reads all the time."
+},
+{
+"en": "intellect",
+"uk": "інтелект",
+"band": "top-20k",
+"pos": "noun",
+"topics": "education",
+"ex": "She is a woman of great intellect."
+},
+{
+"en": "ergo",
+"uk": "ерго",
+"band": "top-20k",
+"pos": "adv",
+"topics": "other",
+"ex": "The store was closed; ergo, we went home without milk."
+}
+]
+},
+{
+"id": "c074",
+"part": "p09",
+"title": "Anna has a virus",
+"scene": "Anna feels ill and goes to the doctor. The doctor checks her pulse and uses a thermometer, asks about her symptoms and says it is a virus, not a case for an antibiotic; Anna takes an aspirin of 500 milligrams, and the medicine has a good effect.",
+"anchors": [
+"doctor",
+"pulse",
+"thermometer",
+"symptom",
+"virus",
+"antibiotic",
+"aspirin",
+"milligram",
+"effect"
+],
+"level": "A1",
+"words": [
+{
+"en": "doctor",
+"uk": "доктор",
+"band": "top-1000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I need a doctor."
+},
+{
+"en": "pulse",
+"uk": "пульс",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The nurse checked my pulse and blood pressure."
+},
+{
+"en": "thermometer",
+"uk": "термометр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, science",
+"ex": "Use the thermometer to check his fever."
+},
+{
+"en": "symptom",
+"uk": "симптом",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "What symptoms do you have today?"
+},
+{
+"en": "virus",
+"uk": "вірус",
+"band": "top-3000",
+"pos": "noun",
+"topics": "medicine, tech",
+"ex": "I think I have a virus."
+},
+{
+"en": "antibiotic",
+"uk": "антибіотик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor gave me antibiotics for my throat."
+},
+{
+"en": "aspirin",
+"uk": "аспірин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I took an aspirin for my headache."
+},
+{
+"en": "milligram",
+"uk": "міліграм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "units",
+"ex": "Take one tablet of 500 milligrams twice a day."
+},
+{
+"en": "effect",
+"uk": "ефект",
+"band": "top-1000",
+"pos": "noun",
+"topics": "other",
+"ex": "The medicine has a good effect."
+}
+]
+},
+{
+"id": "c075",
+"part": "p09",
+"title": "At the dentist and the eye doctor",
+"scene": "Max checks in at the front office of a clinic. The dentist gives him an anesthetic, talks about an implant, floss and a retainer, and a skin doctor looks at his acne; then an eye doctor checks his retina and talks about laser surgery.",
+"anchors": [
+"front office",
+"anesthetic",
+"implant",
+"floss",
+"retainer",
+"acne",
+"retina",
+"laser"
+],
+"level": "A2",
+"words": [
+{
+"en": "front office",
+"uk": "фронт-офіс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Please check in at the front office."
+},
+{
+"en": "anesthetic",
+"uk": "анестетик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The dentist gave me a local anesthetic before the filling."
+},
+{
+"en": "implant",
+"uk": "імплант",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She got a dental implant last month."
+},
+{
+"en": "floss",
+"uk": "флос",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Use floss every night after brushing your teeth."
+},
+{
+"en": "retainer",
+"uk": "ретейнер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Wear your retainer every night after the braces come off."
+},
+{
+"en": "acne",
+"uk": "акне",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Many teenagers have problems with acne at school."
+},
+{
+"en": "retina",
+"uk": "ретина",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The retina is at the back of the eye."
+},
+{
+"en": "laser",
+"uk": "лазер",
+"band": "top-5000",
+"pos": "noun",
+"topics": "tech",
+"ex": "The doctor used a laser to fix her eyes."
+}
+]
+},
+{
+"id": "c076",
+"part": "p09",
+"title": "Dad's checkup",
+"scene": "Anna's dad has his yearly checkup. The doctor talks about cholesterol and risk factors, sends him for a stress test and a cancer screening and to a heart specialist, and asks about his migraines; the clinic's case management also checks Grandpa's pacemaker, his insulin and the tremor in his hands.",
+"anchors": [
+"checkup",
+"cholesterol",
+"risk factor",
+"stress test",
+"screening",
+"specialist",
+"migraine",
+"case management",
+"pacemaker",
+"insulin",
+"tremor"
+],
+"level": "A2",
+"words": [
+{
+"en": "checkup",
+"uk": "чекап",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I have a checkup with my doctor tomorrow."
+},
+{
+"en": "cholesterol",
+"uk": "холестерол",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor told me to lower my cholesterol."
+},
+{
+"en": "risk factor",
+"uk": "ризик-фактор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor asked me about my risk factors."
+},
+{
+"en": "stress test",
+"uk": "стрес-тест",
+"band": "top-20k",
+"pos": "noun",
+"topics": "finance, medicine",
+"ex": "The doctor wants me to do a stress test."
+},
+{
+"en": "screening",
+"uk": "скринінг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor recommended a cancer screening."
+},
+{
+"en": "specialist",
+"uk": "спеціаліст",
+"band": "top-5000",
+"pos": "noun",
+"topics": "people",
+"ex": "You need to see a heart specialist."
+},
+{
+"en": "migraine",
+"uk": "мігрень",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I have a terrible migraine today."
+},
+{
+"en": "case management",
+"uk": "кейс-менеджмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business",
+"ex": "Our clinic uses case management to help each patient."
+},
+{
+"en": "pacemaker",
+"uk": "пейсмейкер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "My grandfather has a pacemaker in his chest."
+},
+{
+"en": "insulin",
+"uk": "інсулін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He takes insulin every day for diabetes."
+},
+{
+"en": "tremor",
+"uk": "тремор",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He has a slight tremor in his hands."
+}
+]
+},
+{
+"id": "c077",
+"part": "p09",
+"title": "A healthier lifestyle",
+"scene": "Anna wants a healthier lifestyle. She stops eating junk food, takes vitamins and omega-3, makes a smoothie in the blender every morning, tries a juice detox and a drink with electrolytes after yoga, reads about metabolism, wellness and anti-aging creams - and her friend, a skeptic, laughs at her.",
+"anchors": [
+"lifestyle",
+"junk food",
+"vitamin",
+"omega-3",
+"smoothie",
+"blender",
+"detox",
+"electrolyte",
+"yoga",
+"metabolism",
+"wellness",
+"anti-aging"
+],
+"level": "A2",
+"words": [
+{
+"en": "lifestyle",
+"uk": "лайфстайл",
+"band": "top-5000",
+"pos": "noun",
+"topics": "media",
+"ex": "I'm trying to have a healthier lifestyle this year."
+},
+{
+"en": "junk food",
+"uk": "джанк-фуд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "food",
+"ex": "I try not to eat junk food every day."
+},
+{
+"en": "vitamin",
+"uk": "вітамін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Oranges are full of vitamin C."
+},
+{
+"en": "omega-3",
+"uk": "омега-3",
+"band": "top-20k",
+"pos": "noun",
+"topics": "food, science",
+"ex": "Fish like salmon is rich in omega-3."
+},
+{
+"en": "smoothie",
+"uk": "смузі",
+"band": "top-20k",
+"pos": "noun",
+"topics": "drinks",
+"ex": "I have a banana smoothie for breakfast."
+},
+{
+"en": "blender",
+"uk": "блендер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "home",
+"ex": "I make smoothies in the blender every morning."
+},
+{
+"en": "detox",
+"uk": "детокс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She is doing a three-day juice detox."
+},
+{
+"en": "electrolyte",
+"uk": "електроліт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Sports drinks help replace lost electrolytes."
+},
+{
+"en": "yoga",
+"uk": "йога",
+"band": "top-5000",
+"pos": "noun",
+"topics": "sport",
+"ex": "I do yoga every morning before work."
+},
+{
+"en": "metabolism",
+"uk": "метаболізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Regular exercise speeds up your metabolism."
+},
+{
+"en": "wellness",
+"uk": "велнес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Our company has a free wellness program."
+},
+{
+"en": "anti-aging",
+"uk": "антиейджинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "My mom buys anti-aging cream at the pharmacy."
+}
+]
+},
+{
+"id": "c078",
+"part": "p09",
+"title": "Talking about stress",
+"scene": "Before exams Anna has a lot of stress and feels discomfort in her chest. A counselor at college talks about triggers, phobias, coping and a positive mindset and optimism, gives her a self-help book and a stress management plan, explains the stigma around mental health, and gives everyone a hotline number for thoughts of suicide or self-harm.",
+"anchors": [
+"stress",
+"discomfort",
+"trigger",
+"phobia",
+"coping",
+"mindset",
+"optimism",
+"self-help",
+"stress management",
+"stigma",
+"suicide",
+"self-harm"
+],
+"level": "B1",
+"words": [
+{
+"en": "stress",
+"uk": "стрес",
+"band": "top-3000",
+"pos": "noun",
+"topics": "emotions",
+"ex": "I have a lot of stress at work."
+},
+{
+"en": "discomfort",
+"uk": "дискомфорт",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "You may feel some discomfort after the shot."
+},
+{
+"en": "trigger",
+"uk": "тригер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "Stress is a common trigger for my headaches."
+},
+{
+"en": "phobia",
+"uk": "фобія",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She has a phobia of spiders and small spaces."
+},
+{
+"en": "coping",
+"uk": "копінг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "Talking to friends is a good coping strategy."
+},
+{
+"en": "mindset",
+"uk": "майндсет",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "You need a positive mindset to succeed."
+},
+{
+"en": "optimism",
+"uk": "оптимізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "Her optimism helped the team stay strong."
+},
+{
+"en": "self-help",
+"uk": "селфхелп",
+"band": "top-20k",
+"pos": "noun",
+"topics": "emotions",
+"ex": "She reads a lot of self-help books."
+},
+{
+"en": "stress management",
+"uk": "стрес-менеджмент",
+"band": "top-20k",
+"pos": "noun",
+"topics": "business, medicine",
+"ex": "The company offers stress management classes for staff."
+},
+{
+"en": "stigma",
+"uk": "стигма",
+"band": "top-20k",
+"pos": "noun",
+"topics": "other",
+"ex": "There is still a stigma around mental illness."
+},
+{
+"en": "suicide",
+"uk": "суїцид",
+"band": "top-2000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Suicide is a serious problem."
+},
+{
+"en": "self-harm",
+"uk": "селфхарм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Self-harm is a sign that someone needs help."
+}
+]
+},
+{
+"id": "c079",
+"part": "p09",
+"title": "Remembering the lockdown",
+"scene": "Grandma remembers the COVID lockdown: a virus is a kind of pathogen, so everyone stayed home. Influenza and pneumonia were dangerous too, hospitals needed oxygen and careful monitoring of patients, and later people got a booster shot.",
+"anchors": [
+"COVID",
+"lockdown",
+"pathogen",
+"influenza",
+"pneumonia",
+"oxygen",
+"monitoring",
+"booster"
+],
+"level": "A2",
+"words": [
+{
+"en": "COVID",
+"uk": "ковід",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She stayed home for two weeks with COVID."
+},
+{
+"en": "lockdown",
+"uk": "локдаун",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The whole city was in lockdown for two months."
+},
+{
+"en": "pathogen",
+"uk": "патоген",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "A virus is a type of pathogen."
+},
+{
+"en": "influenza",
+"uk": "інфлюенца",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Influenza spreads quickly in winter."
+},
+{
+"en": "pneumonia",
+"uk": "пневмонія",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "My grandfather is in the hospital with pneumonia."
+},
+{
+"en": "oxygen",
+"uk": "оксиген",
+"band": "top-5000",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "We need oxygen to breathe and live."
+},
+{
+"en": "monitoring",
+"uk": "моніторинг",
+"band": "top-10k",
+"pos": "noun",
+"topics": "other",
+"ex": "After the operation, he needs careful monitoring for a day."
+},
+{
+"en": "booster",
+"uk": "бустер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I got my booster shot last week."
+},
+{
+"en": "quarantine",
+"uk": "карантин",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The travelers had to stay in quarantine for a week."
+}
+]
+},
+{
+"id": "c080",
+"part": "p09",
+"title": "An accident in the street",
+"scene": "Anna sees a man fall off his bike and calls the dispatcher. The paramedics come fast and treat him for shock and trauma, give him morphine, and his adrenaline is high; in the hospital, where doctors still carry pagers, he is in a coma for a day, needs blood from a donor, and his wife is in great distress.",
+"anchors": [
+"dispatcher",
+"paramedic",
+"shock",
+"trauma",
+"morphine",
+"adrenaline",
+"pager",
+"coma",
+"donor",
+"distress"
+],
+"level": "A2",
+"words": [
+{
+"en": "dispatcher",
+"uk": "диспетчер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people, transport",
+"ex": "The dispatcher sent an ambulance to the house."
+},
+{
+"en": "paramedic",
+"uk": "парамедик",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine, people",
+"ex": "The paramedic checked his pulse and breathing."
+},
+{
+"en": "shock",
+"uk": "шок",
+"band": "top-3000",
+"pos": "noun",
+"topics": "emotions, medicine",
+"ex": "The news was a big shock."
+},
+{
+"en": "trauma",
+"uk": "травма",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I had head trauma after a car accident."
+},
+{
+"en": "morphine",
+"uk": "морфін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The nurse gave him morphine for the pain."
+},
+{
+"en": "adrenaline",
+"uk": "адреналін",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I felt a rush of adrenaline before the race."
+},
+{
+"en": "pager",
+"uk": "пейджер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "tech",
+"ex": "Doctors at this hospital still carry pagers."
+},
+{
+"en": "coma",
+"uk": "кома",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He was in a coma for three weeks."
+},
+{
+"en": "donor",
+"uk": "донор",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "I'm a blood donor, and I give blood twice a year."
+},
+{
+"en": "distress",
+"uk": "дистрес",
+"band": "top-10k",
+"pos": "noun",
+"topics": "emotions, medicine",
+"ex": "She was in great distress after the bad news."
+}
+]
+},
+{
+"id": "c081",
+"part": "p09",
+"title": "Health week at college",
+"scene": "During health week a doctor talks openly to students about sex education: the penis and the vagina, hormones, libido and orgasm, condoms and tampons, infections like herpes and syphilis, and why porno is not real life. Nobody laughs, and many students ask questions.",
+"anchors": [
+"penis",
+"vagina",
+"hormone",
+"libido",
+"orgasm",
+"condom",
+"tampon",
+"herpes",
+"syphilis",
+"porno"
+],
+"level": "B1",
+"words": [
+{
+"en": "penis",
+"uk": "пеніс",
+"band": "top-5000",
+"pos": "noun",
+"topics": "biology",
+"ex": "The penis is part of the male body."
+},
+{
+"en": "vagina",
+"uk": "вагіна",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The doctor examined her vagina during the checkup."
+},
+{
+"en": "hormone",
+"uk": "гормон",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "Stress raises the level of this hormone."
+},
+{
+"en": "libido",
+"uk": "лібідо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Stress and lack of sleep can lower your libido."
+},
+{
+"en": "orgasm",
+"uk": "оргазм",
+"band": "top-10k",
+"pos": "noun",
+"topics": "biology",
+"ex": "An orgasm releases hormones that help you relax."
+},
+{
+"en": "condom",
+"uk": "кондом",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Always use a condom to stay safe."
+},
+{
+"en": "tampon",
+"uk": "тампон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "She keeps a tampon in her purse."
+},
+{
+"en": "herpes",
+"uk": "герпес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Herpes can cause painful sores on the lips."
+},
+{
+"en": "syphilis",
+"uk": "сифіліс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Syphilis can be cured with antibiotics."
+},
+{
+"en": "porno",
+"uk": "порно",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media",
+"ex": "They found a porno hidden under his bed."
+}
+]
+},
+{
+"id": "c082",
+"part": "p09",
+"title": "Uncle Petro's way back",
+"scene": "Anna's uncle is an alcoholic. After years of alcoholism he goes to rehab and also stops smoking because of the nicotine; in his group people talk about heroin and opiates, cocaine, meth, LSD and marijuana, and one man takes methadone.",
+"anchors": [
+"alcoholic",
+"alcoholism",
+"rehab",
+"nicotine",
+"heroin",
+"opiate",
+"cocaine",
+"meth",
+"LSD",
+"marijuana",
+"methadone"
+],
+"level": "B1",
+"words": [
+{
+"en": "alcoholic",
+"uk": "алкоголік",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "My uncle is a recovering alcoholic now."
+},
+{
+"en": "alcoholism",
+"uk": "алкоголізм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "His father struggled with alcoholism for years."
+},
+{
+"en": "rehab",
+"uk": "рехаб",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He went to rehab to stop drinking."
+},
+{
+"en": "nicotine",
+"uk": "нікотин",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry",
+"ex": "Cigarettes contain nicotine, which is bad for you."
+},
+{
+"en": "heroin",
+"uk": "героїн",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Heroin is a very dangerous and illegal drug."
+},
+{
+"en": "opiate",
+"uk": "опіат",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Opiates are strong drugs that doctors use for pain."
+},
+{
+"en": "cocaine",
+"uk": "кокаїн",
+"band": "top-5000",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The police found cocaine in his car."
+},
+{
+"en": "meth",
+"uk": "мет",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Meth is a very addictive illegal drug."
+},
+{
+"en": "LSD",
+"uk": "ЛСД",
+"band": "top-20k",
+"pos": "abbr",
+"topics": "chemistry",
+"ex": "He tried LSD once when he was in college."
+},
+{
+"en": "marijuana",
+"uk": "марихуана",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "Marijuana is legal in some countries but not here."
+},
+{
+"en": "methadone",
+"uk": "метадон",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "He takes methadone to help him stop using heroin."
+},
+{
+"en": "amphetamine",
+"uk": "амфетамін",
+"band": "top-20k",
+"pos": "noun",
+"topics": "chemistry, medicine",
+"ex": "Amphetamine is a strong and dangerous drug."
+}
+]
+},
+{
+"id": "c083",
+"part": "p10",
+"title": "The big match on TV",
+"scene": "Max and his dad watch the city derby on TV: Kyiv versus Lviv. The referee calls a foul and an offside, the goalkeeper saves a penalty, and in extra time a midfielder passes to the winger, who scores the winning goal; they watch the replay, while a fanatic dad talks about fair play and hooligans fight outside the stadium.",
+"anchors": [
+"football",
+"derby",
+"match",
+"versus",
+"referee",
+"foul",
+"offside",
+"goalkeeper",
+"extra time",
+"midfielder",
+"winger",
+"goal"
+],
+"level": "A2",
+"words": [
+{
+"en": "football",
+"uk": "футбол",
+"band": "top-2000",
+"pos": "noun",
+"topics": "sport",
+"ex": "I play football on Saturdays."
+},
+{
+"en": "derby",
+"uk": "дербі",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The city derby is the biggest game of the year."
+},
+{
+"en": "match",
+"uk": "матч",
+"band": "top-3000",
+"pos": "noun",
+"topics": "sport",
+"ex": "Did you watch the match last night?"
+},
+{
+"en": "versus",
+"uk": "версус",
+"band": "top-5000",
+"pos": "prep",
+"topics": "sport",
+"ex": "Tonight's match is our city versus the champions."
+},
+{
+"en": "referee",
+"uk": "рефері",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The referee gave him a yellow card."
+},
+{
+"en": "foul",
+"uk": "фол",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Why did the referee call a foul there?"
+},
+{
+"en": "offside",
+"uk": "офсайд",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The goal didn't count because of offside."
+},
+{
+"en": "goalkeeper",
+"uk": "голкіпер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The goalkeeper stopped the penalty kick."
+},
+{
+"en": "extra time",
+"uk": "екстра-тайм",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The game went into extra time after a 1-1 draw."
+},
+{
+"en": "midfielder",
+"uk": "мідфілдер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The midfielder passed the ball to the striker."
+},
+{
+"en": "winger",
+"uk": "вінгер",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Our winger scored in the last minute."
+},
+{
+"en": "goal",
+"uk": "гол",
+"band": "top-5000",
+"pos": "noun",
+"topics": "sport",
+"ex": "He scored a goal in the last minute."
+},
+{
+"en": "fanatic",
+"uk": "фанатик",
+"band": "top-20k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is a football fanatic who watches every game."
+},
+{
+"en": "replay",
+"uk": "реплей",
+"band": "top-20k",
+"pos": "noun",
+"topics": "media, sport",
+"ex": "Let's watch the replay of the goal again."
+}
+]
+},
+{
+"id": "c084",
+"part": "p10",
+"title": "Max at the gym",
+"scene": "Max wants to do more sport and joins a club with a fitness center. His trainer, a fitness guru, plans cardio, stretching and pilates; an older man shows off his biceps and six-pack and talks about steroids, and after the workout Max books a massage.",
+"anchors": [
+"sport",
+"club",
+"fitness center",
+"fitness",
+"trainer",
+"guru",
+"cardio",
+"stretching",
+"pilates",
+"biceps",
+"six-pack",
+"steroid"
+],
+"level": "A2",
+"words": [
+{
+"en": "sport",
+"uk": "спорт",
+"band": "top-3000",
+"pos": "noun",
+"topics": "sport",
+"ex": "What is your favorite sport?"
+},
+{
+"en": "club",
+"uk": "клуб",
+"band": "top-1000",
+"pos": "noun",
+"topics": "places",
+"ex": "I go to a sports club."
+},
+{
+"en": "fitness center",
+"uk": "фітнес-центр",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "The hotel has a small fitness center."
+},
+{
+"en": "fitness",
+"uk": "фітнес",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "She works hard on her fitness."
+},
+{
+"en": "trainer",
+"uk": "тренер",
+"band": "top-10k",
+"pos": "noun",
+"topics": "sport",
+"ex": "My personal trainer makes me run every morning."
+},
+{
+"en": "guru",
+"uk": "гуру",
+"band": "top-10k",
+"pos": "noun",
+"topics": "people",
+"ex": "He is a fitness guru with millions of followers."
+},
+{
+"en": "cardio",
+"uk": "кардіо",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "I do thirty minutes of cardio every morning."
+},
+{
+"en": "stretching",
+"uk": "стретчинг",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "Stretching before a run helps prevent injury."
+},
+{
+"en": "pilates",
+"uk": "пілатес",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "I go to pilates class twice a week."
+},
+{
+"en": "biceps",
+"uk": "біцепс",
+"band": "top-20k",
+"pos": "noun",
+"topics": "medicine, sport",
+"ex": "He works out his biceps at the gym."
+},
+{
+"en": "six-pack",
+"uk": "сікс-пак",
+"band": "top-20k",
+"pos": "noun",
+"topics": "sport",
+"ex": "He works out every day to get a six-pack."
+},
+{
+"en": "steroid",
+"uk": "стероїд",
+"band": "top-10k",
+"pos": "noun",
+"topics": "medicine",
+"ex": "The athlete was banned for using steroids."
+}
+]
+}
+]
