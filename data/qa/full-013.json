@@ -1,0 +1,718 @@
+{
+ "sheikh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sheikh · sheikhs",
+  "say": "",
+  "ex": [
+   "The sheikh welcomed the guests to his palace.",
+   "A local sheikh paid for the new school.",
+   "The sheikh owns many expensive horses and cars.",
+   "Reporters waited outside to speak with the sheikh."
+  ],
+  "note": ""
+ },
+ "recruit": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a recruit · recruits",
+  "say": "",
+  "ex": [
+   "The new recruits arrived at the army base today.",
+   "Every recruit trains hard for twelve weeks.",
+   "He was a young recruit when the war started.",
+   "The army needs more recruits this year."
+  ],
+  "note": "Most often \"recruit\" is a verb: \"We need to recruit new workers.\""
+ },
+ "crocodile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a crocodile · crocodiles",
+  "say": "",
+  "note": ""
+ },
+ "sterling": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "sterling · uncountable",
+  "say": "",
+  "ex": [
+   "In the UK, you pay for things in sterling.",
+   "Sterling fell against the dollar this week.",
+   "Can I change my dollars into sterling here?",
+   "The value of sterling rose a little today."
+  ],
+  "note": "Uncountable. Often \"pound sterling\": the money of the UK."
+ },
+ "article": {
+  "v": "partial_false_friend",
+  "s": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "an article · articles",
+  "say": "",
+  "ex": [
+   "In English, \"a\" and \"the\" are articles.",
+   "Use the article \"an\" before a vowel sound.",
+   "Do I need an article before this word?",
+   "You forgot the article in this sentence."
+  ],
+  "note": "Most often \"article\" means a text in a newspaper: \"I read an article about Kyiv.\""
+ },
+ "bullying": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "bullying · uncountable",
+  "say": "",
+  "note": "Uncountable: \"stop bullying\", not \"a bullying\"."
+ },
+ "sultan": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a sultan · sultans",
+  "say": "",
+  "ex": [
+   "The sultan lived in a huge palace.",
+   "The sultan ruled the country for many years.",
+   "We visited the tomb of an old sultan.",
+   "The sultan welcomed guests from many countries."
+  ],
+  "note": ""
+ },
+ "commentator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a commentator · commentators",
+  "say": "",
+  "ex": [
+   "The commentator got excited after the goal.",
+   "He works as a TV commentator.",
+   "The political commentator spoke about the vote.",
+   "Sports commentators often talk very fast."
+  ],
+  "note": ""
+ },
+ "coral": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "coral · uncountable",
+  "say": "",
+  "ex": [
+   "This reef is made of living coral.",
+   "Coral grows very slowly in the sea.",
+   "We saw bright coral when we went diving.",
+   "Please don't touch the coral when you swim."
+  ],
+  "note": "Usually uncountable: \"a lot of coral\". Also a pink-orange color."
+ },
+ "filmmaker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a filmmaker · filmmakers",
+  "say": "",
+  "note": ""
+ },
+ "scooter": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a scooter · scooters",
+  "say": "",
+  "ex": [
+   "He rides his scooter to work every day.",
+   "Can we rent a scooter for the day?",
+   "My scooter needs gas before the trip.",
+   "A scooter is easy to park in the city."
+  ],
+  "note": "\"Scooter\" can also mean a kick scooter or an electric scooter."
+ },
+ "jam": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "jam · uncountable",
+  "say": "",
+  "note": "Uncountable: some jam. \"Jam\" also often means a traffic jam: too many cars on the road."
+ },
+ "grill": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a grill · grills",
+  "say": "",
+  "note": ""
+ },
+ "souvenir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a souvenir · souvenirs",
+  "say": "",
+  "ex": [
+   "I bought a mug as a souvenir.",
+   "She brought me a souvenir from Japan.",
+   "Where can I buy cheap souvenirs here?",
+   "Keep this ticket as a souvenir of the trip."
+  ],
+  "note": ""
+ },
+ "tattoo salon": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a tattoo salon · tattoo salons",
+  "say": "",
+  "ex": [
+   "There is a new tattoo salon near my house.",
+   "Is this tattoo salon open on Sundays?",
+   "She works as an artist at a tattoo salon.",
+   "The tattoo salon uses new needles every time."
+  ],
+  "note": "More often called a \"tattoo shop\" or \"tattoo parlor\"."
+ },
+ "pedal": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a pedal · pedals",
+  "say": "",
+  "ex": [
+   "Press the brake pedal gently at the light.",
+   "My foot slipped off the bike pedal.",
+   "Push the gas pedal to go faster.",
+   "This piano has three pedals at the bottom."
+  ],
+  "note": "\"Gas pedal\" in the US; \"accelerator\" in the UK."
+ },
+ "demo": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a demo · demos",
+  "say": "",
+  "note": ""
+ },
+ "lava": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "lava · uncountable",
+  "say": "",
+  "note": "Uncountable: \"hot lava\", not \"a lava\"."
+ },
+ "transmitter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a transmitter · transmitters",
+  "say": "",
+  "note": ""
+ },
+ "medic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a medic · medics",
+  "say": "",
+  "ex": [
+   "The medic helped the injured soldier.",
+   "A medic arrived at the scene in minutes.",
+   "She worked as a medic in the army.",
+   "Call a medic! Someone is hurt here."
+  ],
+  "note": ""
+ },
+ "ale": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an ale · ales",
+  "say": "",
+  "note": ""
+ },
+ "moral": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a moral · morals",
+  "say": "",
+  "ex": [
+   "The moral of the story is to be kind.",
+   "Every old fairy tale has a moral.",
+   "What is the moral of this story?",
+   "The moral is simple: do not lie to friends."
+  ],
+  "note": "Most often \"moral\" is an adjective: \"a moral choice\". Good rules of life are \"morals\"."
+ },
+ "hub": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a hub · hubs",
+  "say": "",
+  "note": ""
+ },
+ "diameter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a diameter · diameters",
+  "say": "",
+  "note": ""
+ },
+ "equivalent": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an equivalent · equivalents",
+  "say": "",
+  "ex": [
+   "Is there an English equivalent of this word?",
+   "Ten dollars is the equivalent of nine euros.",
+   "What is the Ukrainian equivalent of this phrase?",
+   "This car costs the equivalent of a year's pay."
+  ],
+  "note": "Often an adjective: \"One mile is equivalent to 1.6 kilometers.\""
+ },
+ "sequel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sequel · sequels",
+  "say": "",
+  "note": ""
+ },
+ "capitalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "capitalism · uncountable",
+  "say": "",
+  "ex": [
+   "Capitalism is based on private business and profit.",
+   "We talked about capitalism in history class.",
+   "Some people think capitalism is unfair to workers.",
+   "He wrote a book about capitalism and money."
+  ],
+  "note": "Uncountable: \"capitalism\", not \"a capitalism\"."
+ },
+ "drummer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a drummer · drummers",
+  "say": "",
+  "ex": [
+   "The drummer counted to four and started the song.",
+   "He is the drummer in a rock band.",
+   "Our drummer was late to practice again.",
+   "Do you know a good drummer for our band?"
+  ],
+  "note": ""
+ },
+ "copyright": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a copyright · copyrights",
+  "say": "",
+  "note": "Do not mix it up with \"copywriting\" (writing texts for ads)."
+ },
+ "alibi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an alibi · alibis",
+  "say": "",
+  "ex": [
+   "He had an alibi for the night of the crime.",
+   "The police checked her alibi carefully.",
+   "His friend gave him a false alibi.",
+   "Do you have an alibi for last night?"
+  ],
+  "note": ""
+ },
+ "yuan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a yuan · yuan",
+  "say": "",
+  "note": "Plural is also \"yuan\": \"ten yuan\"."
+ },
+ "steroid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a steroid · steroids",
+  "say": "",
+  "note": "Usually plural for drugs: \"on steroids\"."
+ },
+ "pardon": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Pardon? I didn't hear you, sorry.",
+   "Pardon me, is this seat free?",
+   "Pardon me, could you say that again?",
+   "Pardon me, I did not see you there."
+  ],
+  "note": "Often \"pardon\" means official forgiveness for a crime: \"The president gave him a pardon.\""
+ },
+ "level": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a level · levels",
+  "say": "",
+  "ex": [
+   "I finally finished the last level of the game.",
+   "This level of the game is really hard.",
+   "You need more points to reach the next level.",
+   "How do I get past this level?"
+  ],
+  "note": "Most often \"level\" means how high or good something is: \"a high level of English.\""
+ },
+ "hamburger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hamburger · hamburgers",
+  "say": "",
+  "ex": [
+   "I'd like a hamburger and fries, please.",
+   "He grilled hamburgers in the backyard.",
+   "This hamburger is too big to eat.",
+   "Kids usually love hamburgers with cheese."
+  ],
+  "note": "In everyday speech, people often say \"burger\"."
+ },
+ "coroner": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a coroner · coroners",
+  "say": "",
+  "note": ""
+ },
+ "ghetto": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a ghetto · ghettos",
+  "say": "",
+  "note": ""
+ },
+ "legion": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a legion · legions",
+  "say": "",
+  "ex": [
+   "The Roman legion marched into the city.",
+   "He joined the French Foreign Legion at twenty.",
+   "A Roman legion had thousands of soldiers.",
+   "The legion fought bravely in the battle."
+  ],
+  "note": "Also \"legions of\" = very many: \"legions of fans\"."
+ },
+ "ex": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "an ex · exes",
+  "say": "",
+  "note": "Informal: a former partner (ex-boyfriend, ex-girlfriend, ex-wife)."
+ },
+ "reception": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "reception · uncountable",
+  "say": "",
+  "note": "Also a formal party: \"a wedding reception\". In US hotels, often \"the front desk\"."
+ },
+ "preview": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": true,
+  "gram": "a preview · previews",
+  "say": "",
+  "note": ""
+ },
+ "hacking": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "hacking · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a hacking attack\", not \"a hacking\"."
+ },
+ "pi": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "pi · uncountable",
+  "say": "",
+  "ex": [
+   "The number pi is about 3.14.",
+   "Use pi to find the area of a circle.",
+   "She learned pi to fifty digits for fun.",
+   "Multiply the diameter of the circle by pi."
+  ],
+  "note": ""
+ },
+ "bot": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a bot · bots",
+  "say": "",
+  "ex": [
+   "A bot answered my question on the website.",
+   "Many social media accounts are actually bots.",
+   "This bot sends me the weather every morning.",
+   "He built a simple bot for his online shop."
+  ],
+  "note": ""
+ },
+ "dynamite": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "dynamite · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"a stick of dynamite\"."
+ },
+ "kilo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a kilo · kilos",
+  "say": "",
+  "note": "Informal short form of \"kilogram\"."
+ },
+ "dilemma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dilemma · dilemmas",
+  "say": "",
+  "note": ""
+ },
+ "indicator": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an indicator · indicators",
+  "say": "",
+  "note": ""
+ },
+ "safe": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a safe · safes",
+  "say": "",
+  "note": "Most often \"safe\" is an adjective, \"not dangerous\": \"Is it safe here?\""
+ },
+ "renaissance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the Renaissance",
+  "say": "",
+  "note": "Capitalized for the historical period: \"the Renaissance\"."
+ },
+ "proxy server": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a proxy server · proxy servers",
+  "say": "",
+  "ex": [
+   "Our office uses a proxy server for the internet.",
+   "Can I connect through a proxy server at work?",
+   "The proxy server blocks some websites at school.",
+   "Turn off the proxy server if the page does not load."
+  ],
+  "note": ""
+ },
+ "traffic": {
+  "v": "partial_false_friend",
+  "s": 7,
+  "reg": [],
+  "ns": false,
+  "gram": "traffic · uncountable",
+  "say": "",
+  "ex": [
+   "Our website gets a lot of traffic.",
+   "Web traffic grew after the new ad.",
+   "How much traffic does your blog get?",
+   "We check the traffic to our page every week."
+  ],
+  "note": "Most often \"traffic\" means cars on the road: \"There is a lot of traffic today.\""
+ },
+ "pneumonia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "pneumonia · uncountable",
+  "say": "",
+  "ex": [
+   "My grandfather is in the hospital with pneumonia.",
+   "She caught pneumonia last winter and stayed home.",
+   "Pneumonia can be very dangerous for babies.",
+   "The doctor said it was pneumonia."
+  ],
+  "note": "Uncountable: \"have pneumonia\", not \"a pneumonia\"."
+ },
+ "deficit": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a deficit · deficits",
+  "say": "",
+  "note": ""
+ },
+ "banquet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a banquet · banquets",
+  "say": "",
+  "ex": [
+   "The hotel hosted a big wedding banquet.",
+   "We went to the school awards banquet last night.",
+   "The banquet had five courses and a cake.",
+   "The guests danced after the banquet ended."
+  ],
+  "note": ""
+ },
+ "correspondent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a correspondent · correspondents",
+  "say": "",
+  "note": ""
+ },
+ "compass": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a compass · compasses",
+  "say": "",
+  "note": ""
+ },
+ "tribunal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a tribunal · tribunals",
+  "say": "",
+  "ex": [
+   "The case went to a special tribunal.",
+   "The tribunal made its decision on Friday.",
+   "An international tribunal judged the war crimes.",
+   "He appeared before the tribunal last month."
+  ],
+  "note": ""
+ },
+ "bunker": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a bunker · bunkers",
+  "say": "",
+  "note": ""
+ },
+ "feminist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a feminist · feminists",
+  "say": "",
+  "note": "Also an adjective: \"feminist ideas\"."
+ }
+}

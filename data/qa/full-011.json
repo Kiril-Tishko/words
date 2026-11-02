@@ -1,0 +1,739 @@
+{
+ "seminar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a seminar · seminars",
+  "say": "",
+  "ex": [
+   "I have a seminar on marketing tomorrow.",
+   "What time does the seminar start today?",
+   "Can I sign up for the free seminar?",
+   "Our teacher gives a seminar every Friday morning."
+  ],
+  "note": ""
+ },
+ "console": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a console · consoles",
+  "say": "",
+  "note": ""
+ },
+ "parameter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a parameter · parameters",
+  "say": "",
+  "ex": [
+   "You can change this parameter in the settings.",
+   "What parameters should I use for the test?",
+   "This function in the code takes two parameters.",
+   "We need to set clear parameters for the project."
+  ],
+  "note": ""
+ },
+ "setup": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a setup · setups",
+  "say": "",
+  "ex": [
+   "My gaming setup cost a lot of money.",
+   "He showed us his new desk setup at home.",
+   "What do you think of my home office setup?",
+   "I need a better camera setup for my videos."
+  ],
+  "note": "The noun is one word; the verb is two words: \"Set up the camera.\""
+ },
+ "timer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a timer · timers",
+  "say": "",
+  "note": ""
+ },
+ "habitat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a habitat · habitats",
+  "say": "",
+  "ex": [
+   "The zoo tries to copy each animal's natural habitat.",
+   "Forests are an important habitat for many birds.",
+   "Pollution is destroying the habitat of these fish.",
+   "Where is the natural habitat of the polar bear?"
+  ],
+  "note": ""
+ },
+ "phantom": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "gram": "a phantom · phantoms",
+  "say": "",
+  "note": "\"Ghost\" is the more common everyday word."
+ },
+ "cardinal": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a cardinal · cardinals",
+  "say": "",
+  "ex": [
+   "The cardinal wore a long red robe.",
+   "The cardinals meet in Rome to choose the pope.",
+   "A cardinal visited our city's cathedral last week.",
+   "Who is the youngest cardinal in the Catholic Church?"
+  ],
+  "note": "Also a red North American bird, and an adjective meaning \"most important\": a cardinal rule."
+ },
+ "comeback": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a comeback · comebacks",
+  "say": "",
+  "note": "Usually \"make a comeback\": The team made a great comeback."
+ },
+ "diesel": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "diesel · uncountable",
+  "say": "",
+  "ex": [
+   "Does this truck run on diesel or gas?",
+   "Diesel is cheaper than gas here.",
+   "He bought a car with a diesel engine.",
+   "The price of diesel went up again."
+  ],
+  "note": "Uncountable as fuel: \"some diesel\". A car with a diesel engine is \"a diesel\"."
+ },
+ "hot dog": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a hot dog · hot dogs",
+  "say": "",
+  "note": ""
+ },
+ "press release": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a press release · press releases",
+  "say": "",
+  "note": ""
+ },
+ "cash flow": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "cash flow · uncountable",
+  "say": "",
+  "note": "Uncountable: \"good cash flow\" (not \"a cash flow\")."
+ },
+ "hedge fund": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": false,
+  "gram": "a hedge fund · hedge funds",
+  "say": "",
+  "note": ""
+ },
+ "sci-fi": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "sci-fi · uncountable",
+  "say": "",
+  "note": "Informal short form of \"science fiction.\""
+ },
+ "avant-garde": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "the avant-garde",
+  "say": "",
+  "note": "As a noun, usually \"the avant-garde.\" Also an adjective: avant-garde art."
+ },
+ "gag": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a gag · gags",
+  "say": "",
+  "ex": [
+   "The movie has a funny gag about a dog.",
+   "That old gag still makes me laugh every time.",
+   "Is this a real sign or just a gag?",
+   "The comedian ended his show with a great gag."
+  ],
+  "note": "Also a cloth over someone's mouth, and the verb \"gag\" means to almost throw up."
+ },
+ "tornado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tornado · tornadoes",
+  "say": "",
+  "ex": [
+   "A tornado hit the town last night.",
+   "The tornado destroyed many houses on our street.",
+   "We hid in the basement during the tornado.",
+   "Tornadoes are common in this state."
+  ],
+  "note": ""
+ },
+ "slot": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a slot · slots",
+  "say": "",
+  "note": ""
+ },
+ "radius": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a radius · radii",
+  "say": "",
+  "ex": [
+   "The circle has a radius of five centimeters.",
+   "Are there any stores within a one-mile radius?",
+   "Measure the radius to find the area.",
+   "This restaurant delivers food within a small radius."
+  ],
+  "note": "Plural: \"radii\" (also \"radiuses\")."
+ },
+ "import": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "an import · imports",
+  "say": "",
+  "ex": [
+   "This car is an import from Japan.",
+   "Most of our coffee is an import from Brazil.",
+   "Cheap imports are hurting local farmers this year.",
+   "Are these shoes local or an import?"
+  ],
+  "note": "Also a verb: \"We import oil.\" Stress: IMport (noun), imPORT (verb)."
+ },
+ "script": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a script · scripts",
+  "say": "",
+  "note": "Most often \"script\" means the text of a movie or play: \"She wrote the script.\""
+ },
+ "pudding": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "pudding · uncountable",
+  "say": "",
+  "ex": [
+   "We had chocolate pudding for dessert.",
+   "My kids love vanilla pudding after dinner.",
+   "She made rice pudding with cinnamon.",
+   "I bought pudding cups for lunch."
+  ],
+  "note": "In the US, a soft sweet dessert like thick cream. In the UK, \"pudding\" can mean any dessert."
+ },
+ "mechanic": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a mechanic · mechanics",
+  "say": "",
+  "note": ""
+ },
+ "vendor": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "a vendor · vendors",
+  "say": "",
+  "ex": [
+   "We chose a new software vendor this year.",
+   "The company pays all its vendors on time.",
+   "Which vendor sells the best laptops for schools?",
+   "Ask the vendor about the price for support."
+  ],
+  "note": "Also a person who sells things on the street: \"a street vendor\"."
+ },
+ "barbecue": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a barbecue · barbecues",
+  "say": "",
+  "note": "Often written \"BBQ\"."
+ },
+ "popcorn": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "popcorn · uncountable",
+  "say": "",
+  "ex": [
+   "Let's make popcorn and watch a movie.",
+   "I bought a large bag of popcorn at the theater.",
+   "The smell of popcorn filled the kitchen.",
+   "Do you want butter on your popcorn?"
+  ],
+  "note": "Uncountable: some popcorn, a bag of popcorn (not \"a popcorn\")."
+ },
+ "title": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a title · titles",
+  "say": "",
+  "ex": [
+   "This game studio released five new titles this year.",
+   "The library added two hundred new titles last month.",
+   "What is the best-selling title in your store?",
+   "This anime title is very popular with teenagers."
+  ],
+  "note": "Most often \"title\" means the name of a book or film: \"What is the title of this song?\""
+ },
+ "bam": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Bam! The door closed hard behind me.",
+   "I turned the key and, bam, the engine started.",
+   "Bam, the ball hit the window.",
+   "He opened the box and bam, a surprise."
+  ],
+  "note": "Informal. Used to say something happened suddenly and fast."
+ },
+ "quarterback": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a quarterback · quarterbacks",
+  "say": "",
+  "note": "A player in American football who throws the ball."
+ },
+ "gorilla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gorilla · gorillas",
+  "say": "",
+  "note": ""
+ },
+ "bravo": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Bravo! That was a beautiful song.",
+   "The audience shouted \"Bravo!\" at the end.",
+   "Bravo, you did a great job.",
+   "People in the front row stood up and shouted \"Bravo!\""
+  ],
+  "note": "Used mostly at concerts and shows; \"Well done!\" is more common in daily life."
+ },
+ "rabbi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a rabbi · rabbis",
+  "say": "",
+  "note": ""
+ },
+ "portfolio": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a portfolio · portfolios",
+  "say": "",
+  "ex": [
+   "She showed her design portfolio at the job interview.",
+   "Every artist needs a strong portfolio of work.",
+   "Can I see your portfolio before we start?",
+   "Add your best photos to your online portfolio."
+  ],
+  "note": "Very often \"portfolio\" means all the stocks and other investments a person has."
+ },
+ "geek": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a geek · geeks",
+  "say": "",
+  "note": "Informal."
+ },
+ "VIP": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a VIP · VIPs",
+  "say": "",
+  "note": "Say each letter: \"a V-I-P\"."
+ },
+ "orgasm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an orgasm · orgasms",
+  "say": "",
+  "note": ""
+ },
+ "tourism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "tourism · uncountable",
+  "say": "",
+  "ex": [
+   "Tourism is important for the local economy.",
+   "The city earns a lot from tourism.",
+   "Tourism grew after the new airport opened.",
+   "She studies tourism at a college in Kyiv."
+  ],
+  "note": "Uncountable: tourism (not \"a tourism\"). A person is \"a tourist.\""
+ },
+ "bodyguard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a bodyguard · bodyguards",
+  "say": "",
+  "note": ""
+ },
+ "guideline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a guideline · guidelines",
+  "say": "",
+  "ex": [
+   "Follow the safety guidelines at work.",
+   "The company has strict guidelines for emails.",
+   "The new guidelines start next month.",
+   "Where can I find the guidelines for new workers?"
+  ],
+  "note": "Usually used in the plural: guidelines."
+ },
+ "front": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a front · fronts",
+  "say": "",
+  "ex": [
+   "Her brother is a soldier at the front.",
+   "He spent two years at the front.",
+   "We get news from the front every day.",
+   "A cold front will bring rain tomorrow."
+  ],
+  "note": "Most often \"front\" means the front part: \"Sit in the front.\" \"in front of the house\""
+ },
+ "foul": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a foul · fouls",
+  "say": "",
+  "ex": [
+   "Why did the referee call a foul there?",
+   "He got a yellow card for a foul.",
+   "That was a hard foul on the striker.",
+   "She has four fouls in the game."
+  ],
+  "note": "As an adjective, \"foul\" means very bad or dirty: \"a foul smell.\""
+ },
+ "format": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a format · formats",
+  "say": "",
+  "ex": [
+   "Send the file in PDF format.",
+   "What format is this video file in?",
+   "I don't like the new format of the show.",
+   "Please use this format for your report."
+  ],
+  "note": ""
+ },
+ "curry": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a curry · curries",
+  "say": "",
+  "ex": [
+   "I made chicken curry for dinner.",
+   "This curry is too spicy for me.",
+   "Can we order some curry and rice tonight?",
+   "She learned to cook curry in India."
+  ],
+  "note": ""
+ },
+ "briefing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a briefing · briefings",
+  "say": "",
+  "note": ""
+ },
+ "country": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "country · uncountable",
+  "say": "",
+  "ex": [
+   "Do you like country music or rock?",
+   "She loves listening to country music in the car.",
+   "They play country music in this bar on Fridays.",
+   "My dad sings old country songs at parties."
+  ],
+  "note": "Most often \"country\" means a state: \"Ukraine is a big country.\""
+ },
+ "mentor": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a mentor · mentors",
+  "say": "",
+  "note": ""
+ },
+ "gadget": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gadget · gadgets",
+  "say": "",
+  "note": ""
+ },
+ "guru": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a guru · gurus",
+  "say": "",
+  "note": "Often informal for an expert: \"a tech guru\"."
+ },
+ "implant": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "an implant · implants",
+  "say": "",
+  "ex": [
+   "She got a dental implant last month.",
+   "How much does a dental implant cost here?",
+   "This small implant in his ear helps him hear.",
+   "The doctor removed the old implant from her knee."
+  ],
+  "note": ""
+ },
+ "retail": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "retail · uncountable",
+  "say": "",
+  "ex": [
+   "My sister has worked in retail for five years.",
+   "Retail sales went up this month.",
+   "The retail price is twenty dollars.",
+   "Retail jobs are busy at Christmas."
+  ],
+  "note": "Often used before nouns: \"retail price\", \"retail store\"."
+ },
+ "ion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an ion · ions",
+  "say": "",
+  "note": ""
+ },
+ "welfare": {
+  "v": "not_standard_ukrainian",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "welfare · uncountable",
+  "say": "",
+  "ex": [
+   "Many families depend on welfare to survive.",
+   "He was on welfare for two years.",
+   "The government wants to cut welfare programs again.",
+   "Welfare helps people who can't find work."
+  ],
+  "note": "Also means health and safety: \"animal welfare\", \"child welfare\"."
+ },
+ "dock": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a dock · docks",
+  "say": "",
+  "ex": [
+   "The ship is in dock for repairs this month.",
+   "My father worked at the docks for twenty years.",
+   "Workers unload boxes from ships at the docks.",
+   "Big ships are built and repaired in this dock."
+  ],
+  "note": "In the US, \"dock\" often means a small wooden pier for boats: \"Meet me at the dock.\""
+ },
+ "depot": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a depot · depots",
+  "say": "",
+  "note": "Often a place to store goods: \"an oil depot\". In the US, also a small bus or train station."
+ },
+ "psycho": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a psycho · psychos",
+  "say": "",
+  "note": "Very informal and rude."
+ },
+ "cupcake": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cupcake · cupcakes",
+  "say": "",
+  "note": ""
+ },
+ "export": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "an export · exports",
+  "say": "",
+  "ex": [
+   "Coffee is the main export of Brazil.",
+   "Our exports grew a lot last year.",
+   "The country depends on oil exports.",
+   "Is wine an important export in your country?"
+  ],
+  "note": "Also a verb: \"We export grain.\" Stress: EXport (noun), exPORT (verb)."
+ },
+ "bartender": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bartender · bartenders",
+  "say": "",
+  "note": "\"Bartender\" is the usual US word; \"barman\" is British."
+ },
+ "ideal": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "an ideal · ideals",
+  "say": "",
+  "ex": [
+   "He is young and has very high ideals.",
+   "She always tries to live by her ideals.",
+   "Freedom is an important ideal for many people.",
+   "Is a big house your ideal of happiness?"
+  ],
+  "note": "Most often \"ideal\" is an adjective: \"This is an ideal place for a picnic.\""
+ }
+}

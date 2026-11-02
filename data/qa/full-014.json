@@ -1,0 +1,716 @@
+{
+ "streaming": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "streaming · uncountable",
+  "say": "",
+  "note": "Uncountable. Often before another noun: \"a streaming service\", \"music streaming\"."
+ },
+ "meteor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a meteor · meteors",
+  "say": "",
+  "note": ""
+ },
+ "monitor": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a monitor · monitors",
+  "say": "",
+  "note": "Most often a verb, \"to watch and check\": \"Nurses monitor the patients.\""
+ },
+ "slide": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a slide · slides",
+  "say": "",
+  "note": "Often a verb, \"to move smoothly\": \"The door slides open.\" In a park, a slide is for kids."
+ },
+ "selfie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a selfie · selfies",
+  "say": "",
+  "ex": [
+   "Can you take a selfie with us?",
+   "She posted a new selfie online.",
+   "He took a selfie at the beach.",
+   "No selfies in the museum, please."
+  ],
+  "note": ""
+ },
+ "booking": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": true,
+  "gram": "a booking · bookings",
+  "say": "",
+  "ex": [
+   "I made a booking at the hotel for Friday.",
+   "Can I change my booking to next week?",
+   "The online booking took only two minutes.",
+   "She has a booking for two at eight."
+  ],
+  "note": "In the US, people often say \"reservation\": \"a hotel reservation\"."
+ },
+ "trillion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "After a number, no \"s\": \"two trillion dollars\"."
+ },
+ "meth": {
+  "v": "keep",
+  "s": 98,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "meth · uncountable",
+  "say": "",
+  "note": "Informal short form of \"methamphetamine\"."
+ },
+ "crush": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a crush · crushes",
+  "say": "",
+  "note": "Most often a verb, \"to press and break\": \"Crush the garlic.\" Say \"have a crush on someone\"."
+ },
+ "interval": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an interval · intervals",
+  "say": "",
+  "ex": [
+   "The buses come at ten-minute intervals.",
+   "Take this medicine at regular intervals.",
+   "We have a short interval between the two classes.",
+   "How long is the interval between trains?"
+  ],
+  "note": "Often \"at regular intervals\" (= again and again, with the same time between)."
+ },
+ "cadet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cadet · cadets",
+  "say": "",
+  "note": ""
+ },
+ "coordinator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a coordinator · coordinators",
+  "say": "",
+  "ex": [
+   "She works as an event coordinator at a hotel.",
+   "Please talk to the project coordinator about this.",
+   "The volunteer coordinator called me this morning.",
+   "Who is the coordinator for this trip?"
+  ],
+  "note": ""
+ },
+ "liberal": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a liberal · liberals",
+  "say": "",
+  "note": "Most often an adjective: \"liberal ideas\". In the US, a liberal is a person on the political left."
+ },
+ "baggage": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "baggage · uncountable",
+  "say": "",
+  "note": "Uncountable: some baggage, a piece of baggage (not \"a baggage\"). Also \"luggage\"."
+ },
+ "Herr": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "Herr + surname (no article)",
+  "say": "",
+  "ex": [
+   "Herr Schmidt is our new German teacher.",
+   "\"Good morning, Herr Weber,\" said the students.",
+   "Can I speak to Herr Müller, please?",
+   "The letter is for Herr Klein in Berlin."
+  ],
+  "note": "A German title, like \"Mr.\": \"Herr Schmidt\". Used for German-speaking men."
+ },
+ "leopard": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a leopard · leopards",
+  "say": "",
+  "ex": [
+   "A leopard is sleeping on a tree branch.",
+   "The leopard has beautiful spotted fur.",
+   "We saw a leopard at the zoo today.",
+   "Leopards usually hunt alone at night."
+  ],
+  "note": ""
+ },
+ "voltage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "voltage · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "applicant": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an applicant · applicants",
+  "say": "",
+  "note": ""
+ },
+ "paramedic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a paramedic · paramedics",
+  "say": "",
+  "ex": [
+   "The paramedic checked his pulse and breathing.",
+   "Paramedics arrived in an ambulance in five minutes.",
+   "She works as a paramedic in the city.",
+   "The paramedics took him to the hospital."
+  ],
+  "note": ""
+ },
+ "audit": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "an audit · audits",
+  "say": "",
+  "ex": [
+   "Our company has an audit every year.",
+   "The tax office wants to do an audit.",
+   "The audit found several mistakes in the reports.",
+   "When will the audit be finished?"
+  ],
+  "note": ""
+ },
+ "asthma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "asthma · uncountable",
+  "say": "",
+  "ex": [
+   "My son has asthma and uses an inhaler.",
+   "Cold air can make her asthma worse.",
+   "He had an asthma attack during the race.",
+   "Do you have asthma or any allergies?"
+  ],
+  "note": "Uncountable: \"She has asthma\" (not \"an asthma\"). Pronounced \"AZ-muh\"."
+ },
+ "gamma": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a gamma · gammas",
+  "say": "",
+  "ex": [
+   "Gamma is the third letter of the Greek alphabet.",
+   "Gamma rays can pass through thick walls.",
+   "Doctors use gamma rays to treat some cancers.",
+   "In math class, we use gamma as a symbol."
+  ],
+  "note": "Most often in \"gamma rays\", a strong kind of radiation."
+ },
+ "SMS": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "I got an SMS with a code from my bank.",
+   "Can you send me an SMS when you arrive?",
+   "The app sends you an SMS reminder before your visit.",
+   "Most people now use chat apps instead of SMS."
+  ],
+  "note": "Americans usually say \"text\" or \"text message\": \"Text me when you arrive.\""
+ },
+ "portal": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a portal · portals",
+  "say": "",
+  "note": ""
+ },
+ "frontier": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "a frontier · frontiers",
+  "say": "",
+  "ex": [
+   "Pioneers moved west to the frontier.",
+   "Life on the frontier was very hard.",
+   "Many families built farms on the frontier.",
+   "The old western movie shows life on the frontier."
+  ],
+  "note": "Also a border, or the edge of what we know: \"the frontiers of medicine\"."
+ },
+ "troll": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a troll · trolls",
+  "say": "",
+  "ex": [
+   "A troll left rude comments under my post.",
+   "Please don't answer him, he's just a troll.",
+   "The website blocked several trolls this week.",
+   "In the old story, a troll lives under a bridge."
+  ],
+  "note": "Also a verb: \"to troll\" = to post rude things online to make people angry."
+ },
+ "consensus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a consensus · no plural",
+  "say": "",
+  "note": "Common phrase: \"reach a consensus\" (= everyone agrees)."
+ },
+ "maniac": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a maniac · maniacs",
+  "say": "",
+  "note": "Often informal: \"He drives like a maniac\" (= very fast and dangerously)."
+ },
+ "upgrade": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "an upgrade · upgrades",
+  "say": "",
+  "note": "Also a verb: \"upgrade your phone\" (= get a better or newer one)."
+ },
+ "boulevard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a boulevard · boulevards",
+  "say": "",
+  "note": "In street names often written \"Blvd.\": \"Ocean Blvd.\""
+ },
+ "karate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "karate · uncountable",
+  "say": "",
+  "ex": [
+   "My son takes karate lessons after school.",
+   "She has a black belt in karate.",
+   "Karate teaches children focus and discipline.",
+   "Do you want to try a karate class?"
+  ],
+  "note": "Uncountable: \"do karate\", \"karate classes\" (not \"a karate\")."
+ },
+ "gong": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a gong · gongs",
+  "say": "",
+  "note": ""
+ },
+ "hypocrite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a hypocrite · hypocrites",
+  "say": "",
+  "note": ""
+ },
+ "tone": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a tone · tones",
+  "say": "",
+  "ex": [
+   "Please don't speak to me in that tone.",
+   "Her tone was friendly and calm.",
+   "I didn't like the tone of his email.",
+   "This makeup matches my skin tone."
+  ],
+  "note": "Common: \"tone of voice\", \"in an angry tone\". Also a sound: \"Leave a message after the tone.\""
+ },
+ "enzyme": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an enzyme · enzymes",
+  "say": "",
+  "ex": [
+   "Enzymes help the body digest food.",
+   "This enzyme helps break down sugar.",
+   "The washing powder has special enzymes.",
+   "Some people lack the enzyme to digest milk."
+  ],
+  "note": ""
+ },
+ "cheerleader": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cheerleader · cheerleaders",
+  "say": "",
+  "ex": [
+   "The cheerleaders danced during the football game.",
+   "My sister is a cheerleader at her school.",
+   "The cheerleaders practice every afternoon after class.",
+   "Do you want to be a cheerleader?"
+  ],
+  "note": ""
+ },
+ "freeway": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a freeway · freeways",
+  "say": "",
+  "note": "American English. Also \"highway\"; in British English, \"motorway\"."
+ },
+ "controller": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a controller · controllers",
+  "say": "",
+  "ex": [
+   "My game controller stopped working this morning.",
+   "Can I borrow your controller for this game?",
+   "You need two controllers to play together.",
+   "The new controller has better buttons."
+  ],
+  "note": "Also a job: an \"air traffic controller\" guides planes."
+ },
+ "dictator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dictator · dictators",
+  "say": "",
+  "ex": [
+   "The dictator ruled the country for thirty years.",
+   "People finally stood up against the dictator.",
+   "The dictator controlled all the newspapers and TV.",
+   "My boss acts like a dictator at work."
+  ],
+  "note": ""
+ },
+ "communism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "communism · uncountable",
+  "say": "",
+  "note": "Uncountable, no \"the\": \"life under communism\"."
+ },
+ "ole": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Usually written \"olé\". \"Ole\" alone often means \"old\" in informal speech: \"the good ole days\"."
+ },
+ "Hindi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Hindi · uncountable",
+  "say": "",
+  "note": "Always capitalized; no \"the\": \"speak Hindi\"."
+ },
+ "coyote": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a coyote · coyotes",
+  "say": "",
+  "note": "Pronounced \"kai-OH-tee\" in American English."
+ },
+ "cashmere": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cashmere · uncountable",
+  "say": "",
+  "note": "Uncountable: \"made of cashmere\", \"a cashmere sweater\" (not \"a cashmere\")."
+ },
+ "migrant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a migrant · migrants",
+  "say": "",
+  "note": ""
+ },
+ "western": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a western · westerns",
+  "say": "",
+  "ex": [
+   "My grandpa loves watching old westerns on TV.",
+   "Every western has cowboys, horses, and guns.",
+   "Do you want to watch a western tonight?",
+   "This old western was filmed in the desert."
+  ],
+  "note": "Most often an adjective, \"in the west\": \"western Ukraine\", \"Western Europe\"."
+ },
+ "parachute": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a parachute · parachutes",
+  "say": "",
+  "ex": [
+   "The pilot jumped out of the plane with a parachute.",
+   "Her parachute opened right on time.",
+   "The soldiers landed safely by parachute.",
+   "Always check your parachute before you jump."
+  ],
+  "note": ""
+ },
+ "saga": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a saga · sagas",
+  "say": "",
+  "note": ""
+ },
+ "boiler": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a boiler · boilers",
+  "say": "",
+  "note": "In the US, a hot water tank is often called a \"water heater\"."
+ },
+ "curriculum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a curriculum · curricula",
+  "say": "",
+  "ex": [
+   "Our school has a new science curriculum this year.",
+   "Is swimming part of the school curriculum?",
+   "The teachers are changing the math curriculum.",
+   "English is in the curriculum from the first grade."
+  ],
+  "note": "Plural: \"curricula\" or \"curriculums\". It means all the subjects taught at a school."
+ },
+ "trend": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a trend · trends",
+  "say": "",
+  "note": ""
+ },
+ "gala concert": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a gala concert · gala concerts",
+  "say": "",
+  "ex": [
+   "Tickets for the gala concert sold out quickly.",
+   "The orchestra gave a gala concert for charity.",
+   "Are you going to the gala concert on Saturday?",
+   "Famous singers performed at the gala concert."
+  ],
+  "note": "English speakers often just say \"a gala\" or \"a gala evening\"."
+ },
+ "catalog": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a catalog · catalogs",
+  "say": "",
+  "note": "British spelling: \"catalogue\"."
+ },
+ "tequila": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "tequila · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "cannabis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cannabis · uncountable",
+  "say": "",
+  "ex": [
+   "Cannabis is legal in some countries now.",
+   "Some doctors prescribe medical cannabis for pain.",
+   "He was caught growing cannabis at home.",
+   "Smoking cannabis can affect your memory."
+  ],
+  "note": ""
+ },
+ "crater": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a crater · craters",
+  "say": "",
+  "note": ""
+ },
+ "toxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a toxin · toxins",
+  "say": "",
+  "ex": [
+   "The liver removes toxins from the body.",
+   "Some wild mushrooms contain deadly toxins.",
+   "The factory released toxins into the river.",
+   "Snake venom is a very strong toxin."
+  ],
+  "note": ""
+ },
+ "millennium": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a millennium · millennia",
+  "say": "",
+  "ex": [
+   "People had big parties for the new millennium.",
+   "The city is more than a millennium old.",
+   "Where were you at the start of the millennium?",
+   "This church was built almost a millennium ago."
+  ],
+  "note": "Plural: \"millennia\". It means 1,000 years; \"the new millennium\" = the time after 2000."
+ },
+ "extract": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "an extract · extracts",
+  "say": "",
+  "ex": [
+   "Add a teaspoon of vanilla extract to the cake.",
+   "This face cream contains natural plant extracts.",
+   "Green tea extract is used in many drinks.",
+   "Can I use lemon extract instead of lemon juice?"
+  ],
+  "note": "Most often a verb, \"to take out\": \"extract a tooth\". Stress: verb ex-TRACT, noun EX-tract."
+ },
+ "print": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a print · prints",
+  "say": "",
+  "note": "Most often a verb: \"print a document\" (= put it on paper with a printer)."
+ }
+}

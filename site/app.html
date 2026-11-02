@@ -99,6 +99,10 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .back .pic.has { border: 0; }
 .back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; }
 .back ol b { font-weight: 600; color: var(--fg); }
+.st { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .18em; text-decoration-color: var(--accent); }
+.gram { font-family: var(--ui); font-weight: 400; font-size: 13px; color: var(--muted); margin-left: 4px; }
+.say-line { font-size: 13px; color: var(--fg); }
+.say-line span { color: var(--muted); }
 .back .head { font-family: var(--word); font-weight: 600; font-size: 18px; }
 .back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13px; line-height: 1.32; }
 .back .note { margin-top: auto; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
@@ -146,7 +150,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       <button class="chip" id="v-single" data-view="single">One by one</button>
       <button class="chip" id="v-shuffle" title="Shuffle">Shuffle</button>
       <select class="chip" id="topic" aria-label="Topic"></select>
-      <button class="chip" id="f-ns" aria-pressed="false" title="Hide cards whose Ukrainian word is slang, colloquial, rare or archaic">Hide slang</button>
+      <button class="chip" id="f-ns" aria-pressed="false" title="Hide pairs where the Ukrainian word is slang or rare (піпл, френд) and rude English words">Hide slang</button>
     </div>
     <div class="count" id="count"></div>
   </div>
@@ -158,9 +162,13 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 (function () {
   const WORDS = (window.WORDS || []).map((w, i) => Object.assign({ id: w.id || (w.en + '|' + w.uk) }, w));
   // categories = how often the English word is used (rank among the most used English words)
-  const LEVELS = ['top-400', 'top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k', 'top-20k', 'top-50k', 'top-100k', 'rare'];
-  const LEVEL_NAMES = { 'top-400': 'Top 400', 'top-1000': 'Top 1000', 'top-2000': 'Top 2000', 'top-3000': 'Top 3000',
+  const LEVELS = ['top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k', 'top-20k', 'top-50k', 'top-100k', 'rare'];
+  const LEVEL_NAMES = { 'top-1000': 'Top 1000', 'top-2000': 'Top 2000', 'top-3000': 'Top 3000',
     'top-5000': 'Top 5000', 'top-10k': 'Top 10K', 'top-20k': 'Top 20K', 'top-50k': 'Top 50K', 'top-100k': 'Top 100K', 'rare': 'Rare' };
+  const BAND_TIP = { 'top-1000': 'Among the 1,000 most used English words', 'top-2000': 'English words ranked 1,001–2,000',
+    'top-3000': 'Ranked 2,001–3,000', 'top-5000': 'Ranked 3,001–5,000', 'top-10k': 'Ranked 5,001–10,000',
+    'top-20k': 'Ranked 10,001–20,000', 'top-50k': 'Ranked 20,001–50,000', 'top-100k': 'Ranked 50,001–100,000',
+    'rare': 'Less common than the 100,000 most used English words' };
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
@@ -237,7 +245,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 
   function baseList(level) {
     let l = level === 'mine' ? WORDS.filter(w => mine.has(w.id)) : (byLevel[level] || []);
-    if (state.hideNs) l = l.filter(w => !w.ns);
+    if (state.hideNs) l = l.filter(w => !w.ns && !w.rude);
     return l;
   }
   function listFor(level) {
@@ -260,15 +268,27 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       .map(p => esc(p).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
     if (!words.length) return html;
     const last = words.pop();
-    const stem = last.length > 3 && /e$/i.test(last) ? last.slice(0, -1) + 'e?' : last;
+    const IRREG = { person: 'person|people', foot: 'foot|feet', man: 'man|men', woman: 'woman|women', child: 'child|children',
+      tooth: 'tooth|teeth', mouse: 'mouse|mice', goose: 'goose|geese', phenomenon: 'phenomenon|phenomena',
+      criterion: 'criterion|criteria', datum: 'datum|data', analysis: 'analysis|analyses', crisis: 'crisis|crises',
+      thesis: 'thesis|theses', cactus: 'cactus|cacti', fungus: 'fungus|fungi', medium: 'medium|media', bacterium: 'bacterium|bacteria' };
+    let stem = last.length > 3 && /e$/i.test(last) ? last.slice(0, -1) + 'e?' : last;
+    if (IRREG[last.toLowerCase()]) stem = '(?:' + IRREG[last.toLowerCase()] + ')';
+    else if (/[^aeiou]y$/i.test(last)) stem = last.slice(0, -1) + '(?:y|ie)';
     const re = new RegExp('(^|[^\\p{L}])(' + words.map(x => x + '[\\s-]+').join('') + stem + "(?:s|es|ed|d|ing|'s|ies)?)(?![\\p{L}])", 'giu');
     return html.replace(re, '$1<b>$2</b>');
   }
 
   function rankText(w) {
-    if (!w.rank) return 'Rare in English';
+    if (!w.rank || w.band === 'rare') return 'Rare in English';
     if (w.approx) return 'About ' + LEVEL_NAMES[w.band].replace('Top', 'top') + ' in English';
     return '#' + w.rank.toLocaleString('en-US') + ' most used English word';
+  }
+  // underline the stressed vowel (from the CMU pronouncing dictionary)
+  function stressed(w) {
+    if (!w.st) return esc(w.en);
+    const a = w.st[0], b = w.st[1];
+    return esc(w.en.slice(0, a)) + '<span class="st">' + esc(w.en.slice(a, b)) + '</span>' + esc(w.en.slice(b));
   }
 
   function cardHTML(w, opts) {
@@ -282,15 +302,16 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       '<div class="inner">' +
         '<div class="face front">' +
           (w.british ? FLAG : '') +
-          '<div class="en">' + esc(w.en) + '</div><div class="eq">=</div><div class="uk">' + esc(w.uk) + '</div>' +
+          '<div class="en">' + stressed(w) + '</div><div class="eq">=</div><div class="uk">' + esc(w.uk) + '</div>' +
           (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
           (opts.noAdd ? '' : '<button class="icon add' + (mine.has(w.id) ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (mine.has(w.id) ? 'Remove from my words' : 'Add to my words') + '">' + (mine.has(w.id) ? CHECK : PLUS) + '</button>') +
         '</div>' +
         '<div class="face back">' +
           (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy"></div>' : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
           '<div class="txt">' +
-            '<div class="head">' + esc(w.en) + (w.pos ? ' <span class="tag">' + esc(w.pos) + '</span>' : '') + '</div>' +
+            '<div class="head">' + stressed(w) + (w.gram ? ' <span class="gram">' + esc(w.gram) + '</span>' : (w.pos ? ' <span class="tag">' + esc(w.pos) + '</span>' : '')) + '</div>' +
             '<div class="rank">' + rankText(w) + '</div>' +
+            (w.say ? '<div class="say-line"><span>Say:</span> ' + esc(w.say) + '</div>' : '') +
             back +
             (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +
             (w.note ? '<div class="note">' + esc(w.note) + '</div>' : '') +
@@ -304,7 +325,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       .concat([['mine', 'My words', mine.size], ['train', 'Train', null]]);
     $('#levels').innerHTML = items.map(([key, label, n], i) =>
       (key === 'mine' ? '<span class="sep"></span>' : '') +
-      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + (state.level === key) + '">' + label +
+      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + (state.level === key) + '"' +
+      (BAND_TIP[key] ? ' title="' + BAND_TIP[key] + '"' : '') + '>' + label +
       (n !== null ? '<small>' + n + '</small>' : '') + '</button>').join('');
   }
 
@@ -366,7 +388,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   function startTrain() {
     let pool = WORDS.filter(w => mine.has(w.id));
     let sample = false;
-    if (!pool.length) { pool = WORDS.slice(0, 8); sample = true; }
+    if (!pool.length) { pool = baseList(state.prev || LEVELS[0]).slice(0, 10); sample = true; }
     pool = pool.slice().sort(() => Math.random() - .5);
     tr = { queue: pool, i: 0, shown: false, known: 0, again: [], sample: sample, total: pool.length };
   }
@@ -443,6 +465,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     const c = document.querySelector('.single .card'); if (c) c.focus();
   }
   function go(level) {
+    if (state.level !== 'train' && state.level !== 'mine') state.prev = state.level;
     state.level = level; state.order = null; state.idx = 0;
     if (level === 'train') tr = null;
     if (location.hash.slice(1) !== level.toLowerCase()) { try { history.replaceState(null, '', '#' + level.toLowerCase()); } catch (e) { location.hash = level.toLowerCase(); } }

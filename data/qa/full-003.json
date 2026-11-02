@@ -1,0 +1,772 @@
+{
+ "experiment": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an experiment · experiments",
+  "say": "do an experiment · a science experiment",
+  "note": "Say \"do\" or \"run\" an experiment, not \"make\"."
+ },
+ "sergeant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sergeant · sergeants",
+  "say": "a police sergeant · an army sergeant",
+  "ex": [
+   "My brother is a sergeant in the army.",
+   "The police sergeant asked for my name.",
+   "Is the sergeant here today?",
+   "The sergeant gives orders to the soldiers."
+  ],
+  "note": ""
+ },
+ "pilot": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a pilot · pilots",
+  "say": "an airline pilot · fly a plane",
+  "ex": [
+   "My uncle is a pilot.",
+   "Do you want to be a pilot?",
+   "The pilot says we land in ten minutes.",
+   "The pilot landed the plane safely."
+  ],
+  "note": ""
+ },
+ "welcome": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "welcome to Kyiv · welcome back",
+  "note": "Also a verb: \"They welcomed us.\" Answer \"Thank you\" with \"You're welcome.\""
+ },
+ "congress": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a congress · congresses",
+  "say": "in Congress · a member of Congress",
+  "ex": [
+   "Congress passed a new law today.",
+   "What does Congress do in the US?",
+   "She works for a member of Congress.",
+   "Doctors from many countries came to the congress."
+  ],
+  "note": "In the US, written with a capital C and no \"the\": Congress."
+ },
+ "professional": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a professional · professionals",
+  "say": "ask a professional · a health professional",
+  "note": "Most often an adjective: \"a professional team\", \"get professional help\"."
+ },
+ "gene": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a gene · genes",
+  "say": "in your genes",
+  "ex": [
+   "Eye color is in our genes.",
+   "She got her height from her dad's genes.",
+   "Some illnesses come from one bad gene.",
+   "Do you think good health is in the genes?"
+  ],
+  "note": ""
+ },
+ "institute": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an institute · institutes",
+  "say": "at an institute · a research institute",
+  "ex": [
+   "She studies at a technical institute.",
+   "He works at a research institute.",
+   "Where is the art institute?",
+   "The institute is near the city center."
+  ],
+  "note": "To talk about studies, Americans usually say \"college\" or \"university\"."
+ },
+ "nonsense": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nonsense · uncountable",
+  "say": "talk nonsense · That's nonsense!",
+  "ex": [
+   "That's complete nonsense!",
+   "Stop talking nonsense, please.",
+   "This article is full of nonsense.",
+   "Don't believe that nonsense about the test."
+  ],
+  "note": "Uncountable: \"nonsense\", not \"a nonsense\"."
+ },
+ "demon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a demon · demons",
+  "say": "believe in demons",
+  "ex": [
+   "This movie is about a demon.",
+   "Do you believe in demons?",
+   "In the story, a demon lives in the forest.",
+   "My son draws demons with red eyes."
+  ],
+  "note": ""
+ },
+ "ID": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an ID · IDs",
+  "say": "show your ID · a photo ID",
+  "note": "Say each letter: \"eye-dee\". It means an identity card or document."
+ },
+ "face": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a face · faces",
+  "say": "wash your face · on your face",
+  "note": ""
+ },
+ "Islam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Islam · uncountable",
+  "say": "in Islam",
+  "ex": [
+   "Islam is a big world religion.",
+   "What do you know about Islam?",
+   "She studies the history of Islam.",
+   "Ramadan is a holy month in Islam."
+  ],
+  "note": "Always with a capital I and no \"the\": Islam."
+ },
+ "sheriff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sheriff · sheriffs",
+  "say": "the sheriff's office",
+  "note": "In the US, a sheriff is the elected head of police in a county."
+ },
+ "baseball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "baseball · uncountable",
+  "say": "play baseball · a baseball game",
+  "note": ""
+ },
+ "record": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a record · records",
+  "say": "break a record · set a record · a world record",
+  "ex": [
+   "She broke the world record.",
+   "What is the world record for this?",
+   "He has the school record for running.",
+   "This is a new record for our team."
+  ],
+  "note": "Most often \"record\" means saved facts or sound: \"medical records\", \"record a video\"."
+ },
+ "golf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "golf · uncountable",
+  "say": "play golf · a golf course",
+  "note": ""
+ },
+ "IT": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "IT · uncountable",
+  "say": "work in IT · the IT department",
+  "note": "Say each letter: \"eye-tee\". It is not the word \"it\"."
+ },
+ "rock": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "rock · uncountable",
+  "say": "a rock band · rock music · a rock concert",
+  "ex": [
+   "Do you like rock or jazz?",
+   "My dad plays in a rock band.",
+   "This is a classic rock song.",
+   "Let's go to a rock concert on Friday."
+  ],
+  "note": "Most often \"rock\" means a stone: \"He sat on a big rock.\""
+ },
+ "robot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a robot · robots",
+  "say": "a toy robot · a robot vacuum",
+  "ex": [
+   "Our robot cleans the floor every day.",
+   "Robots build cars in this factory.",
+   "Can I buy a toy robot here?",
+   "My son wants a robot for his birthday."
+  ],
+  "note": ""
+ },
+ "live": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "live music · play live · watch live",
+  "ex": [
+   "Is there live music here tonight?",
+   "The band plays live on Fridays.",
+   "We watched a live concert on TV.",
+   "This show is live, not recorded."
+  ],
+  "note": "This \"live\" sounds like \"five\". The verb \"live\" (sounds like \"give\") means to have a home."
+ },
+ "journalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a journalist · journalists",
+  "say": "work as a journalist · a sports journalist",
+  "ex": [
+   "She works as a journalist for a newspaper.",
+   "A journalist asked me some questions.",
+   "He wants to be a sports journalist.",
+   "Are you a journalist?"
+  ],
+  "note": ""
+ },
+ "producer": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a producer · producers",
+  "say": "a music producer · a TV producer",
+  "ex": [
+   "He is a music producer.",
+   "She works as a TV producer.",
+   "The producer likes our song.",
+   "Who is the producer of this film?"
+  ],
+  "note": "Also a company or country that makes goods: \"a big oil producer\"."
+ },
+ "vice president": {
+  "v": "keep",
+  "pm": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a vice president · vice presidents",
+  "say": "vice president of sales · the Vice President",
+  "ex": [
+   "The vice president met with the workers.",
+   "She is vice president of sales.",
+   "Who is the vice president of the company?",
+   "He became vice president last year."
+  ],
+  "note": "Often shortened to \"VP\"."
+ },
+ "hip-hop": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "hip-hop · uncountable",
+  "say": "listen to hip-hop · a hip-hop artist",
+  "ex": [
+   "My son listens to hip-hop every day.",
+   "Do you like hip-hop or rock?",
+   "There is a free hip-hop concert tonight.",
+   "She takes a hip-hop dance class."
+  ],
+  "note": "Also written \"hip hop\"."
+ },
+ "virus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a virus · viruses",
+  "say": "have a virus · a computer virus",
+  "note": ""
+ },
+ "user": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a user · users",
+  "say": "a new user · a user name",
+  "note": ""
+ },
+ "device": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "a device · devices",
+  "say": "charge a device · on any device",
+  "note": "Also any tool made for a job: \"a safety device\"."
+ },
+ "stress": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "stress · uncountable",
+  "say": "a lot of stress · under stress · stress at work",
+  "ex": [
+   "I have a lot of stress at work.",
+   "Exercise helps with stress.",
+   "What helps you with stress?",
+   "Exams cause a lot of stress."
+  ],
+  "note": "Usually uncountable: \"a lot of stress,\" not \"many stresses.\""
+ },
+ "shock": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a shock · shocks",
+  "say": "a big shock · in shock",
+  "ex": [
+   "The news was a big shock.",
+   "It was a shock to see him here.",
+   "He was in shock after the accident.",
+   "Is she still in shock?"
+  ],
+  "note": ""
+ },
+ "cap": {
+  "v": "not_standard_ukrainian",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a cap · caps",
+  "say": "wear a cap · a baseball cap",
+  "ex": [
+   "Put on your cap, it's sunny.",
+   "Where did you buy that cap?",
+   "He wears a baseball cap every day.",
+   "I like your new cap."
+  ],
+  "note": "Also the top of a bottle or pen: \"Where is the cap for this pen?\""
+ },
+ "gas": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "gas · uncountable",
+  "say": "a gas stove · turn off the gas",
+  "note": "In American English \"gas\" also often means fuel for a car (gasoline)."
+ },
+ "highway": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a highway · highways",
+  "say": "on the highway · take the highway",
+  "note": ""
+ },
+ "hit": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a hit · hits",
+  "say": "a big hit · a hit song",
+  "ex": [
+   "This song is a big hit.",
+   "What's this summer's biggest hit?",
+   "The band had many hits in the 90s.",
+   "The DJ plays old hits all night."
+  ],
+  "note": "Most often \"hit\" is a verb: \"Don't hit your sister.\""
+ },
+ "stand": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a stand · stands",
+  "say": "visit our stand · at the stand",
+  "note": "Most often a verb: \"Please stand here.\" At a fair, Americans often say \"booth\"."
+ },
+ "nerve": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a nerve · nerves",
+  "say": "nerve damage · a nerve in your back",
+  "ex": [
+   "The doctor says a nerve is damaged.",
+   "I have pain in a nerve in my back.",
+   "Can the dentist save the nerve in my tooth?",
+   "Nerves carry signals to the brain."
+  ],
+  "note": "\"Have the nerve to\" means to be brave or rude enough: \"He had the nerve to ask.\""
+ },
+ "sandwich": {
+  "v": "keep",
+  "s": 97,
+  "reg": [],
+  "ns": false,
+  "gram": "a sandwich · sandwiches",
+  "say": "a ham sandwich · make a sandwich",
+  "note": ""
+ },
+ "sector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sector · sectors",
+  "say": "the public sector · in the tech sector",
+  "ex": [
+   "She works in the public sector.",
+   "The tech sector is growing fast.",
+   "Many jobs are in the service sector.",
+   "Which sector do you work in?"
+  ],
+  "note": ""
+ },
+ "tunnel": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a tunnel · tunnels",
+  "say": "through a tunnel · in the tunnel",
+  "ex": [
+   "The train goes through a long tunnel.",
+   "There is a lot of traffic in the tunnel.",
+   "Is there a tunnel under the river?",
+   "The tunnel connects two parts of the city."
+  ],
+  "note": ""
+ },
+ "terrorist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a terrorist · terrorists",
+  "say": "a terrorist attack",
+  "ex": [
+   "Police caught two terrorists at the airport.",
+   "The terrorists are in prison now.",
+   "Do the police know who the terrorists are?",
+   "Police stopped a terrorist attack last week."
+  ],
+  "note": ""
+ },
+ "crystal": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a crystal · crystals",
+  "say": "ice crystals · grow crystals",
+  "ex": [
+   "Look at the ice crystals on the window.",
+   "Salt and sugar are made of crystals.",
+   "Can we grow crystals at home?",
+   "She grew crystals in science class."
+  ],
+  "note": "Also fine glass: \"crystal glasses\"."
+ },
+ "loser": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a loser · losers",
+  "say": "feel like a loser · a total loser",
+  "ex": [
+   "He called his brother a loser.",
+   "Don't feel like a loser after one mistake.",
+   "Why do you think you are a loser?",
+   "In the movie, he is a loser with no job."
+  ],
+  "note": "Rude when used about a person. It also means the one who loses a game."
+ },
+ "duke": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "a duke · dukes",
+  "say": "the Duke of ... · a duke and duchess",
+  "ex": [
+   "The duke lives in a big castle.",
+   "The duke and duchess visit the city today.",
+   "Is he a real duke?",
+   "He became a duke when his father died."
+  ],
+  "note": ""
+ },
+ "dealer": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a dealer · dealers",
+  "say": "a car dealer · buy from a dealer",
+  "note": ""
+ },
+ "era": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an era · eras",
+  "say": "the end of an era · in the era of",
+  "ex": [
+   "The internet started a new era.",
+   "This song is from the disco era.",
+   "We live in the era of smartphones.",
+   "Which era of history do you like most?"
+  ],
+  "note": ""
+ },
+ "entertainment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "entertainment · uncountable",
+  "say": "live entertainment · the entertainment industry",
+  "ex": [
+   "There is live entertainment at the hotel.",
+   "Is there any entertainment for kids here?",
+   "TV is his only entertainment.",
+   "She works in the entertainment business."
+  ],
+  "note": "Uncountable: no \"an\" and no plural."
+ },
+ "medal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a medal · medals",
+  "say": "win a medal · a gold medal",
+  "ex": [
+   "She won a gold medal.",
+   "Can I see your medal?",
+   "Our team got a silver medal.",
+   "Every runner gets a medal at the end."
+  ],
+  "note": ""
+ },
+ "aspect": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aspect · aspects",
+  "say": "every aspect of · an important aspect",
+  "ex": [
+   "Money is an important aspect of the job.",
+   "I like every aspect of my new job.",
+   "What aspect of the work do you like most?",
+   "The best aspect of the hotel is the view."
+  ],
+  "note": ""
+ },
+ "basketball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "basketball · uncountable",
+  "say": "play basketball · a basketball game",
+  "note": ""
+ },
+ "soup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "soup · uncountable",
+  "say": "a bowl of soup · chicken soup",
+  "note": ""
+ },
+ "photo project": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo project · photo projects",
+  "say": "work on a photo project",
+  "ex": [
+   "My daughter is working on a photo project for school.",
+   "Can I use your pictures for my photo project?",
+   "Her photo project shows old buildings in Kyiv.",
+   "The museum has a new photo project about the city."
+  ],
+  "note": ""
+ },
+ "radio drama": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a radio drama · radio dramas",
+  "say": "listen to a radio drama",
+  "ex": [
+   "My grandmother listens to a radio drama every evening.",
+   "Do you know any good radio dramas for kids?",
+   "The actors record the radio drama in a small studio.",
+   "A radio drama tells a story with only voices and sounds."
+  ],
+  "note": ""
+ },
+ "business client": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a business client · business clients",
+  "say": "a new business client · for business clients",
+  "ex": [
+   "The bank has special accounts for business clients.",
+   "Can business clients pay by bank transfer?",
+   "She meets with a business client every Monday morning.",
+   "We offer free delivery for all business clients."
+  ],
+  "note": "\"Business customer\" and \"corporate client\" are also common."
+ },
+ "auto show": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an auto show · auto shows",
+  "say": "at the auto show · go to an auto show",
+  "ex": [
+   "We saw many new electric cars at the auto show.",
+   "When does the auto show open this year?",
+   "The auto show is in a big hall downtown.",
+   "My son wants to go to the auto show with me."
+  ],
+  "note": "\"Car show\" is also common."
+ },
+ "auto center": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an auto center · auto centers",
+  "say": "take your car to the auto center",
+  "ex": [
+   "Take your car to the auto center for an oil change.",
+   "Is the auto center open on Sundays?",
+   "The auto center fixed my brakes in one hour.",
+   "There is a big auto center near the highway."
+  ],
+  "note": "In the US, usually a place that repairs cars, often inside a big store."
+ },
+ "solo artist": {
+  "v": "keep",
+  "pm": 1.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a solo artist · solo artists",
+  "say": "become a solo artist · go solo",
+  "ex": [
+   "After the band broke up, she became a solo artist.",
+   "He is a famous solo artist now.",
+   "Is she in a band or a solo artist?",
+   "This solo artist writes all her own songs."
+  ],
+  "note": ""
+ },
+ "senate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the Senate · senates",
+  "say": "in the Senate · a seat in the Senate",
+  "note": "Usually written with a capital S: the Senate."
+ },
+ "port": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a port · ports",
+  "say": "in port · a USB port",
+  "note": ""
+ },
+ "garage": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a garage · garages",
+  "say": "in the garage · a garage sale",
+  "ex": [
+   "He parks the car in the garage every night.",
+   "Our garage is full of old boxes.",
+   "Can you close the garage door, please?",
+   "They turned the garage into a small gym."
+  ],
+  "note": ""
+ },
+ "software": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "software · uncountable",
+  "say": "install software · update the software",
+  "note": "Uncountable: say \"some software,\" not \"a software\" or \"softwares.\""
+ }
+}

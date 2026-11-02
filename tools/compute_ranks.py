@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """How common is each English word? Build a ranked list of English words (lemmas).
 
-Reference: the wordfreq 'large' English frequency list.
+Reference: how often a word is used = geometric mean of written English (wordfreq 'large' list) and
+spoken English (OpenSubtitles 2018 counts, hermitdave/FrequencyWords en_full.txt).
   - only alphabetic words (apostrophes and hyphens allowed), no digits;
   - words that Wiktionary knows only as names (people, places) are dropped;
   - pure inflected forms (every Wiktionary sense is "plural of X", "simple past of X", ...)
@@ -61,10 +62,40 @@ def main():
         if lemma_of.get(base):          # one more hop at most (e.g. a spelling variant of a form)
             base = lemma_of[base]
         freq[base] += f
+    # spoken English: OpenSubtitles 2018 word counts (hermitdave/FrequencyWords en_full), folded the same way
+    sub = defaultdict(float)
+    total = 0
+    rows = []
+    for line in open(f'{SRC}/en_full.txt', encoding='utf-8'):
+        parts = line.split()
+        if len(parts) != 2 or not parts[1].isdigit():
+            continue
+        rows.append((parts[0], int(parts[1])))
+        total += int(parts[1])
+    for w, c in rows:
+        if not re.fullmatch(r"[a-z][a-z'\-]*", w) or (len(w) == 1 and w not in ('a', 'i')):
+            continue
+        p = pos.get(w)
+        if p and p <= {'name'}:
+            continue
+        base = lemma_of.get(w, w)
+        if lemma_of.get(base):
+            base = lemma_of[base]
+        sub[base] += c / total
+    # how often a word is used = half written (wordfreq), half spoken (subtitles): geometric mean.
+    # A word missing from one source counts as rare there (a quarter of its frequency in the other).
+    blend = {}
+    for w in set(freq) | set(sub):
+        a, b2 = freq.get(w, 0.0), sub.get(w, 0.0)
+        if a and b2:
+            blend[w] = (a * b2) ** 0.5
+        else:
+            blend[w] = (a or b2) * 0.25
+    freq = blend
     ranked = sorted(freq.items(), key=lambda x: -x[1])[:KEEP]
     with open(OUT, 'w', encoding='utf-8') as f:
-        f.write('# English lemmas by frequency (wordfreq large list; inflected forms folded into base words; '
-                'name-only words removed). Built by tools/compute_ranks.py\n')
+        f.write('# English lemmas by frequency (geometric mean of wordfreq "large" and OpenSubtitles 2018; inflected '
+                'forms folded into base words; name-only words removed). Built by tools/compute_ranks.py\n')
         for w, fr in ranked:
             f.write(f'{w}\t{fr:.3e}\n')
     print(len(freq), 'lemmas; wrote top', len(ranked))

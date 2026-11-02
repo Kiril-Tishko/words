@@ -1,0 +1,742 @@
+{
+ "trigger": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a trigger · triggers",
+  "say": "a trigger for (headaches) · avoid triggers",
+  "ex": [
+   "Stress is a common trigger for my headaches.",
+   "What is the trigger for your allergy?",
+   "Loud noise can be a trigger for my dog.",
+   "Try to avoid your asthma triggers, like smoke and dust."
+  ],
+  "note": "Often the part of a gun you pull: \"pull the trigger.\" As a verb: \"Stress can trigger headaches.\""
+ },
+ "symptom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a symptom · symptoms",
+  "say": "a symptom of (the flu) · have symptoms",
+  "ex": [
+   "What symptoms do you have today?",
+   "A fever is a common symptom of the flu.",
+   "Call the doctor if your symptoms get worse.",
+   "I have no symptoms, but I still feel tired."
+  ],
+  "note": ""
+ },
+ "ranger": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a ranger · rangers",
+  "say": "a park ranger · a forest ranger",
+  "ex": [
+   "Ask the park ranger where the trail starts.",
+   "The ranger told us not to feed the bears.",
+   "A forest ranger checks the woods for fires.",
+   "Can we talk to a ranger about camping here?"
+  ],
+  "note": "Also a soldier in a special unit: \"an Army Ranger.\" Many sports teams are called \"Rangers.\""
+ },
+ "parliament": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a parliament · parliaments",
+  "say": "in parliament · a member of parliament",
+  "ex": [
+   "The parliament will vote on the new law next week.",
+   "She was elected to parliament last year.",
+   "Can we visit the parliament building on Saturday?",
+   "How many members does the parliament have?"
+  ],
+  "note": "The US has no parliament; it has \"Congress.\""
+ },
+ "sauce": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sauce · sauces",
+  "say": "tomato sauce · with sauce",
+  "ex": [
+   "Would you like some tomato sauce with that?",
+   "This pasta sauce is very easy to make.",
+   "Can I have the sauce on the side, please?",
+   "This sauce is too spicy for me."
+  ],
+  "note": ""
+ },
+ "narrator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a narrator · narrators",
+  "say": "the narrator of the story",
+  "note": ""
+ },
+ "celebrity": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a celebrity · celebrities",
+  "say": "a TV celebrity · a famous celebrity",
+  "note": ""
+ },
+ "object": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an object · objects",
+  "say": "a small object · a metal object",
+  "note": "Also a verb (ob-JECT) meaning \"say no to\": \"I object to this plan.\""
+ },
+ "promotion": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a promotion · promotions",
+  "say": "a special promotion · run a promotion",
+  "ex": [
+   "The store has a special promotion this week.",
+   "Is this price part of the summer promotion?",
+   "Our new shop needs more promotion online.",
+   "The promotion gives you two pizzas for one price."
+  ],
+  "note": "Most often \"promotion\" means a better job: \"She got a promotion at work.\""
+ },
+ "designer": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a designer · designers",
+  "say": "a fashion designer · a web designer",
+  "note": ""
+ },
+ "taxi": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a taxi · taxis",
+  "say": "take a taxi · call a taxi · by taxi",
+  "note": "In the US, \"cab\" is also very common."
+ },
+ "fort": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a fort · forts",
+  "say": "an old fort · in the fort",
+  "ex": [
+   "The old fort is on top of the hill.",
+   "Can we visit the fort on Sunday?",
+   "Soldiers lived in this fort long ago.",
+   "There is a small museum inside the fort."
+  ],
+  "note": ""
+ },
+ "vampire": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vampire · vampires",
+  "say": "a vampire movie · believe in vampires",
+  "ex": [
+   "In old stories, vampires only come out at night.",
+   "My kids love movies about vampires.",
+   "He dressed as a vampire for the costume party.",
+   "Do you believe in vampires and ghosts?"
+  ],
+  "note": ""
+ },
+ "pass": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a pass · passes",
+  "say": "make a pass · a pass to (a teammate)",
+  "ex": [
+   "He made a long pass to his teammate.",
+   "That was a perfect pass from the left side.",
+   "She scored a goal after a great pass.",
+   "The pass was too short, and they lost the ball."
+  ],
+  "note": "Most often a verb: \"pass an exam,\" \"pass the salt.\" Also a ticket: \"a bus pass.\""
+ },
+ "penny": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a penny · pennies",
+  "say": "every penny · a few pennies",
+  "note": "In the US, a penny is a one-cent coin. Plural: pennies."
+ },
+ "jinn": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a jinn · jinn",
+  "say": "",
+  "note": "In fairy tales people usually say \"genie.\" Jinn is often also the plural."
+ },
+ "argument": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "an argument · arguments",
+  "say": "a good argument · an argument for/against",
+  "ex": [
+   "That's a good argument, but I don't agree.",
+   "What is your main argument for this plan?",
+   "Her argument against the new rule makes sense.",
+   "Give one strong argument for living in a city."
+  ],
+  "note": "Also often a fight with words: \"We had an argument.\""
+ },
+ "slide show": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a slide show · slide shows",
+  "say": "make a slide show · watch a slide show",
+  "ex": [
+   "I made a slide show of our vacation photos.",
+   "Can you play the slide show on the big screen?",
+   "Our teacher showed us a slide show about space.",
+   "The slide show is ready for the meeting tomorrow."
+  ],
+  "note": "Also written as one word: \"slideshow.\""
+ },
+ "climate": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a climate · climates",
+  "say": "climate change · a warm climate",
+  "note": ""
+ },
+ "check": {
+  "v": "partial_false_friend",
+  "s": 6,
+  "reg": [],
+  "ns": false,
+  "gram": "a check · checks",
+  "say": "the check, please · pay by check",
+  "note": "Most often a verb: \"Check your answers.\" In a US restaurant, the bill is \"the check.\""
+ },
+ "avenue": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an avenue · avenues",
+  "say": "on Fifth Avenue · down the avenue",
+  "ex": [
+   "The shop is on Fifth Avenue, near the park.",
+   "Turn left onto the avenue at the next light.",
+   "We live on a busy avenue downtown.",
+   "Excuse me, how do I get to Park Avenue?"
+  ],
+  "note": "In addresses it is often short: Ave."
+ },
+ "elephant": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an elephant · elephants",
+  "say": "see an elephant · a baby elephant",
+  "ex": [
+   "We saw three elephants at the zoo today.",
+   "The elephant drank water from the river.",
+   "An elephant can live for about seventy years.",
+   "The baby elephant is walking next to its mother."
+  ],
+  "note": ""
+ },
+ "outfit": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an outfit · outfits",
+  "say": "a new outfit · wear an outfit",
+  "ex": [
+   "I really love your outfit today!",
+   "She bought a new outfit for the party.",
+   "What outfit should I wear to the wedding?",
+   "This outfit is perfect for a job interview."
+  ],
+  "note": ""
+ },
+ "tattoo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a tattoo · tattoos",
+  "say": "get a tattoo · have a tattoo",
+  "ex": [
+   "He has a tattoo of a dragon on his arm.",
+   "She got her first tattoo at eighteen.",
+   "My mom doesn't like tattoos at all.",
+   "How much does a small tattoo cost here?"
+  ],
+  "note": ""
+ },
+ "campus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a campus · campuses",
+  "say": "on campus",
+  "note": "Usually \"on campus,\" not \"in campus.\""
+ },
+ "opponent": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an opponent · opponents",
+  "say": "beat an opponent · a strong opponent",
+  "ex": [
+   "Our opponent today is a very strong team.",
+   "She shook hands with her opponent after the game.",
+   "He easily beat his opponent in the final.",
+   "Who is your next opponent in the tournament?"
+  ],
+  "note": ""
+ },
+ "act": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "an act · acts",
+  "say": "pass an act",
+  "ex": [
+   "The new act protects the rights of workers.",
+   "Parliament passed an act on clean water.",
+   "This act became law last year.",
+   "The new act changes the tax rules for small businesses."
+  ],
+  "note": "Most often a verb: \"act fast\" (do something), \"act in a movie.\""
+ },
+ "marketing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "marketing · uncountable",
+  "say": "work in marketing · a marketing team",
+  "ex": [
+   "My sister works in marketing at a big company.",
+   "Good marketing helps a small business grow.",
+   "Our marketing team has only three people.",
+   "I want to study marketing at college."
+  ],
+  "note": "Uncountable: good marketing, a lot of marketing (not \"a marketing\")."
+ },
+ "alliance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an alliance · alliances",
+  "say": "form an alliance · an alliance with",
+  "ex": [
+   "The two countries formed an alliance last year.",
+   "Our company made an alliance with a bigger firm.",
+   "The alliance helps protect all its members.",
+   "How many countries are in the alliance now?"
+  ],
+  "note": ""
+ },
+ "super": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "super easy · a super idea",
+  "ex": [
+   "That's a super idea, let's do it!",
+   "This test was super easy for me.",
+   "The new teacher is super nice.",
+   "Thanks, you were super helpful today!"
+  ],
+  "note": "Informal. Most often used before an adjective to mean \"very\": \"super easy.\""
+ },
+ "bonus": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a bonus · bonuses",
+  "say": "get a bonus · a bonus for",
+  "note": ""
+ },
+ "timing": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "timing · uncountable",
+  "say": "good timing · bad timing · perfect timing",
+  "ex": [
+   "Perfect timing, dinner is ready right now!",
+   "The timing of the meeting is bad for me.",
+   "Good timing is very important in sports.",
+   "Bad timing: the store closed five minutes ago."
+  ],
+  "note": "Uncountable: good timing, bad timing (not \"a timing\")."
+ },
+ "helicopter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a helicopter · helicopters",
+  "say": "by helicopter · in a helicopter",
+  "ex": [
+   "A helicopter landed on the roof of the hospital.",
+   "We flew over the city in a helicopter.",
+   "They took the injured man to the hospital by helicopter.",
+   "Can you hear that helicopter above our house?"
+  ],
+  "note": ""
+ },
+ "tourist": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a tourist · tourists",
+  "say": "a tourist attraction · popular with tourists",
+  "note": ""
+ },
+ "blog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a blog · blogs",
+  "say": "write a blog · on my blog · a blog post",
+  "note": ""
+ },
+ "block": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a block · blocks",
+  "say": "a block of ice · a concrete block",
+  "ex": [
+   "The kids are building a tower with blocks.",
+   "Put a block of ice in the cooler.",
+   "The wall is made of concrete blocks.",
+   "Can you buy a block of cheese for the pizza?"
+  ],
+  "note": "In the US \"block\" often means a part of a street: \"The shop is two blocks away.\""
+ },
+ "boom": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a boom · booms",
+  "say": "a boom in (sales) · a baby boom",
+  "ex": [
+   "There was a housing boom in the city.",
+   "The tech boom created many new jobs.",
+   "There is a boom in online shopping right now.",
+   "The town grew fast during the oil boom."
+  ],
+  "note": "Also a loud sound: \"We heard a loud boom.\""
+ },
+ "volunteer": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a volunteer · volunteers",
+  "say": "work as a volunteer · a volunteer at (a hospital)",
+  "ex": [
+   "She works as a volunteer at the hospital.",
+   "We need more volunteers for the school event.",
+   "Volunteers cleaned the park on Saturday morning.",
+   "Can I sign up as a volunteer here?"
+  ],
+  "note": ""
+ },
+ "comfort": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "comfort · uncountable",
+  "say": "in comfort · for comfort",
+  "note": "Uncountable here (not \"a comfort\"). Also help when you are sad: \"Your words are a comfort.\""
+ },
+ "court": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a court · courts",
+  "say": "a tennis court · on the court",
+  "note": "Most often \"court\" is a place where a judge decides cases: \"go to court.\""
+ },
+ "grant": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a grant · grants",
+  "say": "get a grant · apply for a grant",
+  "note": "Also a verb meaning \"give or allow\": \"The bank granted him a loan.\""
+ },
+ "protest": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a protest · protests",
+  "say": "go to a protest · a protest against",
+  "ex": [
+   "There was a big protest in the city today.",
+   "Many students went to the protest against the new law.",
+   "The protest was peaceful and nobody got hurt.",
+   "The road is closed because of a protest."
+  ],
+  "note": ""
+ },
+ "online": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "buy online · go online · online shopping",
+  "ex": [
+   "I buy most of my clothes online.",
+   "Can I pay for the tickets online?",
+   "We met online two years ago.",
+   "My son has his English lessons online."
+  ],
+  "note": ""
+ },
+ "poet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a poet · poets",
+  "say": "a famous poet",
+  "note": ""
+ },
+ "jazz": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "jazz · uncountable",
+  "say": "listen to jazz · a jazz club",
+  "note": "Uncountable: listen to jazz, live jazz (not \"a jazz\")."
+ },
+ "bureau": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a bureau · bureaus",
+  "say": "a travel bureau · an information bureau",
+  "note": "Plural: bureaus."
+ },
+ "cliff": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a cliff · cliffs",
+  "say": "on the cliff · the edge of the cliff",
+  "note": ""
+ },
+ "teenager": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a teenager · teenagers",
+  "say": "as a teenager",
+  "note": ""
+ },
+ "certificate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a certificate · certificates",
+  "say": "get a certificate · a birth certificate",
+  "note": ""
+ },
+ "meter": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a meter · meters",
+  "say": "five meters long · ten meters tall",
+  "note": "Also a machine that measures: \"a gas meter,\" \"a parking meter.\" British spelling: \"metre.\""
+ },
+ "camp": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a camp · camps",
+  "say": "summer camp · at camp · go to camp",
+  "note": "Also a place for refugees or prisoners: \"a refugee camp.\" Also a verb: \"camp by the lake.\""
+ },
+ "earl": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "an earl · earls",
+  "say": "the Earl of (a place)",
+  "note": "A British noble title. \"Earl\" is also a man's first name in the US."
+ },
+ "pub": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pub · pubs",
+  "say": "at the pub · go to the pub",
+  "note": ""
+ },
+ "passport": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a passport · passports",
+  "say": "show your passport · a passport photo",
+  "ex": [
+   "Don't forget to bring your passport to the airport.",
+   "My passport expires next month, so I need a new one.",
+   "Can I see your passport, please?",
+   "She showed her passport at the border."
+  ],
+  "note": ""
+ },
+ "athlete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an athlete · athletes",
+  "say": "a professional athlete",
+  "ex": [
+   "She is a great athlete and a good student.",
+   "The athletes train every morning before school.",
+   "He wants to be a professional athlete one day.",
+   "Many athletes eat a lot of protein."
+  ],
+  "note": ""
+ },
+ "chaos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "chaos · uncountable",
+  "say": "in chaos · total chaos",
+  "note": "Uncountable: total chaos, a lot of chaos (not \"a chaos\")."
+ },
+ "transport": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "transport · uncountable",
+  "say": "public transport · transport to (the airport)",
+  "ex": [
+   "Public transport in this city is cheap and fast.",
+   "What transport do you use to get to work?",
+   "The hotel can help with transport to the airport.",
+   "Air transport is faster but more expensive."
+  ],
+  "note": "Uncountable. In the US \"transportation\" is more common: public transportation."
+ },
+ "like": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a like · likes",
+  "say": "get likes · give a like",
+  "ex": [
+   "Her photo got hundreds of likes in one hour.",
+   "Thanks for all the likes and comments!",
+   "How many likes did your new video get?",
+   "He checks his likes every hour on his phone."
+  ],
+  "note": "Most often a verb (\"I like tea\") or \"similar to\" (\"She looks like her mom\")."
+ },
+ "raid": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a raid · raids",
+  "say": "a police raid · an air raid · a raid on",
+  "ex": [
+   "Police carried out a raid on the building at dawn.",
+   "During the air raid, we stayed in the shelter.",
+   "Did you hear the air raid siren last night?",
+   "Two soldiers were hurt in the night raid."
+  ],
+  "note": ""
+ },
+ "menu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a menu · menus",
+  "say": "on the menu · look at the menu",
+  "ex": [
+   "Can I see the menu, please?",
+   "The menu has a lot of vegetarian dishes.",
+   "What's on the menu for lunch today?",
+   "Is there a kids' menu in this cafe?"
+  ],
+  "note": ""
+ }
+}

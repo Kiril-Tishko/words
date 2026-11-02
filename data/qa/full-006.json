@@ -1,0 +1,785 @@
+{
+ "respect": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "respect · uncountable",
+  "say": "respect for someone · show respect · treat with respect",
+  "ex": [
+   "Children should show respect to their teachers.",
+   "I have a lot of respect for my doctor.",
+   "Please treat everyone at work with respect.",
+   "She earned the respect of her whole team."
+  ],
+  "note": "Also a verb: \"I respect my parents.\""
+ },
+ "laptop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a laptop · laptops",
+  "say": "on my laptop · work on a laptop",
+  "note": ""
+ },
+ "policeman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a policeman · policemen",
+  "say": "ask a policeman · call the police",
+  "ex": [
+   "Excuse me, where can I find a policeman?",
+   "A policeman helped me find the train station.",
+   "My uncle works as a policeman in Kyiv.",
+   "The policeman asked to see my driver's license."
+  ],
+  "note": "\"Police officer\" is more common and neutral today."
+ },
+ "snack": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a snack · snacks",
+  "say": "have a snack · a healthy snack",
+  "ex": [
+   "I usually eat a small snack after work.",
+   "Apples and nuts make a healthy snack.",
+   "Can we buy some snacks for the trip?",
+   "The kids want a snack after school."
+  ],
+  "note": ""
+ },
+ "penis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a penis · penises",
+  "say": "",
+  "ex": [
+   "The doctor asked about the pain in his penis.",
+   "The penis is part of the male body.",
+   "Wash a baby boy's penis gently with warm water.",
+   "He went to a doctor about a problem with his penis."
+  ],
+  "note": ""
+ },
+ "conflict": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a conflict · conflicts",
+  "say": "a conflict between · in conflict with · avoid conflict",
+  "note": ""
+ },
+ "instinct": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an instinct · instincts",
+  "say": "by instinct · trust your instincts",
+  "ex": [
+   "Cats catch mice by instinct, not by learning.",
+   "My first instinct was to call my mom.",
+   "Trust your instincts when you choose a new job.",
+   "A mother's instinct is to protect her baby."
+  ],
+  "note": ""
+ },
+ "plastic": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "plastic · uncountable",
+  "say": "made of plastic · a plastic bag",
+  "note": "Often used before nouns: a plastic bag, a plastic bottle."
+ },
+ "steak": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a steak · steaks",
+  "say": "medium rare · a steak dinner",
+  "ex": [
+   "I'd like my steak medium rare, please.",
+   "How would you like your steak cooked?",
+   "This restaurant serves the best steak in town.",
+   "We often have steak and potatoes on Sunday."
+  ],
+  "note": ""
+ },
+ "lemon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a lemon · lemons",
+  "say": "tea with lemon · lemon juice",
+  "ex": [
+   "Can I have tea with lemon, please?",
+   "Squeeze some lemon juice over the fish.",
+   "These lemons are very sour and juicy.",
+   "I need two lemons for this cake."
+  ],
+  "note": ""
+ },
+ "ritual": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a ritual · rituals",
+  "say": "a daily ritual · a morning ritual",
+  "ex": [
+   "Morning coffee is my favorite daily ritual.",
+   "Reading a story before bed is our family ritual.",
+   "Lighting candles is part of the wedding ritual.",
+   "Every sports team has its own little rituals."
+  ],
+  "note": ""
+ },
+ "acre": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an acre · acres",
+  "say": "ten acres of land",
+  "note": "One acre is about 4,047 square meters (0.4 hectares)."
+ },
+ "calendar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a calendar · calendars",
+  "say": "on the calendar · in my calendar",
+  "note": ""
+ },
+ "gambling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "gambling · uncountable",
+  "say": "online gambling · a gambling problem",
+  "ex": [
+   "Gambling is not allowed in this city.",
+   "He lost all his money on online gambling.",
+   "Gambling can become a serious problem for families.",
+   "Is gambling legal in your country?"
+  ],
+  "note": "Uncountable: \"gambling,\" not \"a gambling.\" The verb is \"gamble.\""
+ },
+ "laser": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a laser · lasers",
+  "say": "laser printer · laser surgery",
+  "ex": [
+   "The doctor used a laser to fix her eyes.",
+   "My cat chases the red laser on the floor.",
+   "The machine uses a laser to cut metal.",
+   "Can I print this on the laser printer?"
+  ],
+  "note": ""
+ },
+ "peak": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a peak · peaks",
+  "say": "at its peak · peak hours · reach the peak",
+  "ex": [
+   "We reached the peak of the mountain by noon.",
+   "The view from the peak is amazing.",
+   "Snow covers the mountain peaks all year.",
+   "Avoid the subway at peak hours; it is very crowded."
+  ],
+  "note": "Do not confuse with \"peek\" (a quick look)."
+ },
+ "parade": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a parade · parades",
+  "say": "watch a parade · in the parade",
+  "ex": [
+   "The whole town watched the parade on the main street.",
+   "Soldiers marched in the parade on Independence Day.",
+   "We can see the parade from our balcony.",
+   "What time does the parade start tomorrow?"
+  ],
+  "note": ""
+ },
+ "ingredient": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an ingredient · ingredients",
+  "say": "the main ingredient · fresh ingredients",
+  "ex": [
+   "What are the ingredients in this cake?",
+   "Fresh ingredients make the food taste better.",
+   "Flour is the main ingredient in bread.",
+   "Can you buy the ingredients for dinner tonight?"
+  ],
+  "note": ""
+ },
+ "fiction": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "fiction · uncountable",
+  "say": "science fiction · read fiction · a work of fiction",
+  "ex": [
+   "She reads fiction more than history books.",
+   "The fiction section is on the second floor.",
+   "He writes science fiction for young readers.",
+   "Do you prefer fiction or true stories?"
+  ],
+  "note": "Uncountable: a work of fiction (not \"a fiction\")."
+ },
+ "mechanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mechanism · mechanisms",
+  "say": "a mechanism for · a safety mechanism",
+  "ex": [
+   "The lock has a simple mechanism inside.",
+   "The mechanism in this old clock still works.",
+   "Can you fix the mechanism of this door?",
+   "This toy uses a spring mechanism to jump."
+  ],
+  "note": ""
+ },
+ "radar": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a radar · radars",
+  "say": "on the radar · a radar screen",
+  "note": ""
+ },
+ "LOL": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "LOL, your photo of the cat is so funny!",
+   "LOL, I fell asleep in class again today.",
+   "She texted me \"LOL\" after my silly joke.",
+   "LOL, that is the best video I've seen."
+  ],
+  "note": "Used in chats and texts. It means \"laughing out loud.\""
+ },
+ "cream": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "cream · uncountable",
+  "say": "put cream on · hand cream · face cream",
+  "ex": [
+   "Put some cream on your hands every night.",
+   "Do you have a cream for dry skin?",
+   "This cream helps with sunburn and red skin.",
+   "I need a good face cream for winter."
+  ],
+  "note": "Most often \"cream\" is the thick part of milk: \"coffee with cream.\""
+ },
+ "founder": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": true,
+  "gram": "a founder · founders",
+  "say": "the founder of · co-founder",
+  "note": ""
+ },
+ "cargo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "cargo · uncountable",
+  "say": "carry cargo · a cargo ship",
+  "note": "Usually uncountable: some cargo, a lot of cargo."
+ },
+ "audio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "audio · uncountable",
+  "say": "an audio file · the audio",
+  "ex": [
+   "The audio is too quiet, can you turn it up?",
+   "I can't hear the audio on this video.",
+   "Please check your audio before the online meeting.",
+   "You can download the audio file for this lesson."
+  ],
+  "note": ""
+ },
+ "essay": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "an essay · essays",
+  "say": "write an essay · an essay about",
+  "ex": [
+   "I have to write an essay for English class.",
+   "Her essay about her family won first prize.",
+   "The essay is due next Monday morning.",
+   "Can you check my essay for mistakes, please?"
+  ],
+  "note": ""
+ },
+ "clan": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a clan · clans",
+  "say": "a family clan",
+  "note": ""
+ },
+ "sensor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sensor · sensors",
+  "say": "a motion sensor · a fingerprint sensor",
+  "note": ""
+ },
+ "gender": {
+  "v": "keep",
+  "s": 88,
+  "reg": [],
+  "ns": false,
+  "gram": "a gender · genders",
+  "say": "gender equality · of any gender",
+  "note": "In grammar, \"gender\" also means masculine or feminine words."
+ },
+ "DJ": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a DJ · DJs",
+  "say": "hire a DJ · the DJ at a party",
+  "note": "Pronounced \"DEE-jay.\""
+ },
+ "lifestyle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a lifestyle · lifestyles",
+  "say": "a healthy lifestyle · change your lifestyle",
+  "ex": [
+   "Doctors say a healthy lifestyle is very important.",
+   "Moving to the city changed his whole lifestyle.",
+   "She writes a blog about food and lifestyle.",
+   "A busy lifestyle can cause a lot of stress."
+  ],
+  "note": ""
+ },
+ "bacon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "bacon · uncountable",
+  "say": "bacon and eggs · a slice of bacon",
+  "ex": [
+   "I usually have bacon and eggs for breakfast.",
+   "Can I get extra bacon on my sandwich?",
+   "The whole kitchen smells like fried bacon.",
+   "Add some crispy bacon to the salad."
+  ],
+  "note": "Uncountable: some bacon, a slice of bacon (not \"a bacon\")."
+ },
+ "internet consultant": {
+  "v": "not_english",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet consultant · internet consultants",
+  "say": "",
+  "ex": [
+   "We paid an internet consultant to build our online store.",
+   "An internet consultant helps companies sell more online.",
+   "She works as an internet consultant for small businesses.",
+   "Our internet consultant said we need a better website."
+  ],
+  "note": "Rare. For help in a website chat, English says \"online support\" or \"live chat.\""
+ },
+ "original": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "an original · originals",
+  "say": "the original · in the original",
+  "note": "Most often \"original\" is an adjective meaning first: \"the original plan.\""
+ },
+ "deposit": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a deposit · deposits",
+  "say": "make a deposit · a bank deposit",
+  "ex": [
+   "I want to make a deposit, please.",
+   "My bank pays good interest on a deposit.",
+   "Can I make a deposit at this ATM?",
+   "She keeps her savings in a bank deposit."
+  ],
+  "note": "Often \"deposit\" is money you pay first: \"a deposit for the apartment.\""
+ },
+ "pulse": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a pulse · pulses",
+  "say": "check your pulse · take someone's pulse",
+  "ex": [
+   "The nurse checked my pulse and blood pressure.",
+   "You can feel your pulse on your wrist.",
+   "His pulse was very fast after the run.",
+   "Let me take your pulse for one minute."
+  ],
+  "note": ""
+ },
+ "high-end": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "high-end products · a high-end hotel",
+  "note": ""
+ },
+ "admiral": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "an admiral · admirals",
+  "say": "an admiral in the navy",
+  "ex": [
+   "The admiral visited the sailors on the ship.",
+   "An admiral is a very high rank in the navy.",
+   "Her grandfather was an admiral in the navy.",
+   "The admiral gave orders to all the ships."
+  ],
+  "note": ""
+ },
+ "cafe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cafe · cafes",
+  "say": "at a cafe · in a cafe",
+  "ex": [
+   "Let's meet at the cafe on the corner.",
+   "She works part-time in a small cafe.",
+   "Is there a good cafe near the station?",
+   "This cafe has great cakes and coffee."
+  ],
+  "note": "Also spelled \"café.\""
+ },
+ "mister": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "mister · as a title: Mr. Smith",
+  "say": "Mr. + last name",
+  "note": "Usually written \"Mr.\" before a name; \"mister\" alone is informal."
+ },
+ "capital": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "capital · uncountable",
+  "say": "raise capital · start-up capital",
+  "ex": [
+   "They need more capital to start the business.",
+   "He used his own capital to open the shop.",
+   "The company got capital from three investors.",
+   "How much capital do you need for a cafe?"
+  ],
+  "note": "Most often \"capital\" means the main city: \"Kyiv is the capital of Ukraine.\""
+ },
+ "release": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a release · releases",
+  "say": "a new release · a press release",
+  "note": "Most often \"release\" means to let go or free: \"They released him from prison.\""
+ },
+ "image": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "an image · images",
+  "say": "public image",
+  "note": "Most often \"image\" means a picture: \"Click on the image to see it bigger.\""
+ },
+ "rhythm": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a rhythm · rhythms",
+  "say": "to the rhythm · a sense of rhythm",
+  "ex": [
+   "This song has a great rhythm for dancing.",
+   "Clap your hands to the rhythm of the music.",
+   "I have no sense of rhythm at all.",
+   "The drummer keeps the rhythm for the band."
+  ],
+  "note": ""
+ },
+ "workshop": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a workshop · workshops",
+  "say": "a workshop on · go to a workshop",
+  "ex": [
+   "I signed up for a free writing workshop.",
+   "The workshop lasts two days and costs fifty dollars.",
+   "She runs a workshop on public speaking.",
+   "Are you going to the photo workshop on Saturday?"
+  ],
+  "note": "Also a room where people make or fix things: \"my dad's workshop.\""
+ },
+ "guide": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a guide · guides",
+  "say": "a tour guide · a local guide",
+  "note": "Often \"guide\" is a book or text that helps: \"a travel guide to Kyiv.\""
+ },
+ "collapse": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a collapse · collapses",
+  "say": "the collapse of · close to collapse",
+  "ex": [
+   "The economy is close to collapse after the war.",
+   "Many people lost their jobs after the bank's collapse.",
+   "The collapse of the company shocked its workers.",
+   "The hospital system is near collapse."
+  ],
+  "note": "Most often \"collapse\" is a verb, fall down: \"The old bridge collapsed.\""
+ },
+ "immigrant": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "an immigrant · immigrants",
+  "say": "an immigrant from · come as an immigrant",
+  "ex": [
+   "My grandparents came here as immigrants.",
+   "Many immigrants live and work in this city.",
+   "She helps new immigrants find jobs and homes.",
+   "Are you an immigrant or were you born here?"
+  ],
+  "note": ""
+ },
+ "canal": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a canal · canals",
+  "say": "along the canal",
+  "ex": [
+   "Small boats travel along the canal every day.",
+   "We walked along the old canal after lunch.",
+   "The city has many canals and small bridges.",
+   "Can we take a boat tour on the canal?"
+  ],
+  "note": "A TV channel is a \"channel,\" not a \"canal.\""
+ },
+ "killer": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a killer · killers",
+  "say": "a hired killer",
+  "ex": [
+   "Police say a hired killer shot the businessman.",
+   "The movie is about a paid killer in Paris.",
+   "He worked as a hired killer for a gang.",
+   "The hired killer was caught at the airport."
+  ],
+  "note": "Most often \"killer\" is any person who kills. A paid killer is a \"hit man.\""
+ },
+ "freak": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a freak · freaks",
+  "say": "like a freak",
+  "ex": [
+   "Kids at school called him a freak.",
+   "I'm not a freak, I just like different music.",
+   "They looked at me like I was a freak.",
+   "Don't call people freaks, it's very rude."
+  ],
+  "note": "Often in \"freak out\": get very upset or scared. Calling someone a freak is rude."
+ },
+ "agenda": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "an agenda · agendas",
+  "say": "on the agenda · a hidden agenda",
+  "ex": [
+   "The new party has a clear political agenda.",
+   "Health care is high on the government's agenda.",
+   "I think he has a hidden agenda.",
+   "Climate change is on every party's agenda now."
+  ],
+  "note": "Also a list of topics for a meeting: \"What is on the agenda today?\""
+ },
+ "luxury": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a luxury · luxuries",
+  "say": "a luxury hotel · live in luxury",
+  "note": "Often used before nouns: a luxury hotel, a luxury car."
+ },
+ "cocktail": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cocktail · cocktails",
+  "say": "order a cocktail · a cocktail party",
+  "ex": [
+   "We ordered two cocktails at the hotel bar.",
+   "This cocktail has lime, mint, and ice.",
+   "What is your favorite cocktail to order?",
+   "Can I see the cocktail menu, please?"
+  ],
+  "note": "A milk drink is a \"milkshake,\" not a \"cocktail.\""
+ },
+ "heh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Heh, that is a really funny joke.",
+   "Heh, I didn't think you would notice.",
+   "He just said \"heh\" and smiled at me.",
+   "Heh, nice try, but I know the answer."
+  ],
+  "note": "Informal, mostly in writing and chat."
+ },
+ "businessman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a businessman · businessmen",
+  "say": "a successful businessman",
+  "note": "\"Businessperson\" is a gender-neutral option."
+ },
+ "container": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a container · containers",
+  "say": "a plastic container · a container of",
+  "ex": [
+   "Put the leftovers in a plastic container.",
+   "The ship carries hundreds of big containers.",
+   "Keep the cookies in a container with a lid.",
+   "Do you have a container for this soup?"
+  ],
+  "note": ""
+ },
+ "arena": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "an arena · arenas",
+  "say": "at the arena · in the arena",
+  "note": ""
+ },
+ "pistol": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": true,
+  "gram": "a pistol · pistols",
+  "say": "carry a pistol",
+  "ex": [
+   "The officer carried a pistol on his belt.",
+   "He cleaned his pistol after shooting practice.",
+   "The police found a pistol in the car.",
+   "You need a license to own a pistol here."
+  ],
+  "note": "\"Gun\" is the more common everyday word."
+ }
+}

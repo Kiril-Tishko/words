@@ -1,0 +1,772 @@
+{
+ "cottage": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cottage · cottages",
+  "say": "",
+  "note": "A cottage is a small, simple house, often in the country, not a big modern house."
+ },
+ "instructor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an instructor · instructors",
+  "say": "",
+  "note": ""
+ },
+ "maximum": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a maximum · maximums",
+  "say": "",
+  "ex": [
+   "The maximum for this room is ten people.",
+   "You can stay for a maximum of three days.",
+   "Can I take a maximum of two bags?",
+   "Set the heat to the maximum, please."
+  ],
+  "note": "Often used before a noun: \"maximum speed\", \"maximum size\"."
+ },
+ "chip": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a chip · chips",
+  "say": "",
+  "ex": [
+   "This phone has a new, faster chip.",
+   "There is a chip in your bank card.",
+   "This company makes chips for computers and cars.",
+   "Does your dog have a chip under its skin?"
+  ],
+  "note": "Most often \"chips\" are thin fried potato slices: \"a bag of chips.\""
+ },
+ "scout": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a scout · scouts",
+  "say": "",
+  "note": ""
+ },
+ "sponsor": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a sponsor · sponsors",
+  "say": "",
+  "ex": [
+   "The bank is the main sponsor of the race.",
+   "Our team needs a new sponsor this year.",
+   "Who is the sponsor of this event?",
+   "The sponsors paid for the whole concert."
+  ],
+  "note": ""
+ },
+ "activist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an activist · activists",
+  "say": "",
+  "ex": [
+   "The activists marched to city hall.",
+   "She is an activist for clean air.",
+   "The police arrested several activists last night.",
+   "He became an animal rights activist after college."
+  ],
+  "note": ""
+ },
+ "banner": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a banner · banners",
+  "say": "",
+  "note": ""
+ },
+ "sweater": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sweater · sweaters",
+  "say": "",
+  "note": ""
+ },
+ "index": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "an index · indexes",
+  "say": "",
+  "ex": [
+   "The stock market index went up again today.",
+   "What is the UV index outside today?",
+   "The price index shows that food got more expensive.",
+   "Check your body mass index with this app."
+  ],
+  "note": "Also the list at the back of a book. Plural: indexes (indices in science)."
+ },
+ "bowling": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "bowling · uncountable",
+  "say": "",
+  "note": "Say \"go bowling\" (not \"go to bowling\"): \"Let's go bowling tonight.\""
+ },
+ "vitamin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vitamin · vitamins",
+  "say": "",
+  "ex": [
+   "Oranges are full of vitamin C.",
+   "I take vitamins every morning with breakfast.",
+   "Where can I buy vitamins for kids?",
+   "In winter, many people need more vitamin D."
+  ],
+  "note": ""
+ },
+ "compromise": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a compromise · compromises",
+  "say": "",
+  "ex": [
+   "We reached a compromise after a long talk.",
+   "Both sides had to make a compromise.",
+   "Can we find a compromise on the price?",
+   "The new plan is a good compromise for everyone."
+  ],
+  "note": "We say \"reach a compromise\" or \"make a compromise\"."
+ },
+ "terrorism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "terrorism · uncountable",
+  "say": "",
+  "ex": [
+   "The country passed new laws against terrorism.",
+   "Terrorism is a danger to many big cities.",
+   "She studies the causes of terrorism in college.",
+   "The police called the attack an act of terrorism."
+  ],
+  "note": "Uncountable: no \"a\" and no plural (not \"a terrorism\")."
+ },
+ "supervisor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a supervisor · supervisors",
+  "say": "",
+  "note": "\"Manager\" or \"boss\" is more common in everyday speech."
+ },
+ "segment": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a segment · segments",
+  "say": "",
+  "ex": [
+   "The next segment of the show is about food.",
+   "This phone is in the low-price segment.",
+   "Draw a line segment from A to B.",
+   "Our company wants to enter a new market segment."
+  ],
+  "note": ""
+ },
+ "publicity": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "publicity · uncountable",
+  "say": "",
+  "ex": [
+   "The scandal brought the company a lot of bad publicity.",
+   "The new movie got a lot of publicity.",
+   "She hates publicity and rarely gives interviews.",
+   "Is this just a trick for publicity?"
+  ],
+  "note": "Uncountable: a lot of publicity (not \"a publicity\")."
+ },
+ "sibling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a sibling · siblings",
+  "say": "",
+  "ex": [
+   "How many siblings do you have?",
+   "I have two siblings, a brother and a sister.",
+   "Young siblings often fight over toys.",
+   "She is very close to her siblings."
+  ],
+  "note": "Formal; in everyday speech people often say \"brothers and sisters\"."
+ },
+ "condom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a condom · condoms",
+  "say": "",
+  "note": ""
+ },
+ "jersey": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a jersey · jerseys",
+  "say": "",
+  "ex": [
+   "The fans wore their team jerseys to the game.",
+   "He bought a soccer jersey with his favorite number.",
+   "After the game, the players swapped jerseys.",
+   "Does this jersey come in a smaller size?"
+  ],
+  "note": "Most often in the name \"New Jersey\" (a US state). As a word, usually a sports shirt."
+ },
+ "kidnapping": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a kidnapping · kidnappings",
+  "say": "",
+  "ex": [
+   "The police are investigating a kidnapping downtown.",
+   "The kidnapping shocked the whole town.",
+   "He went to prison for kidnapping a child.",
+   "The movie is about a kidnapping in a big city."
+  ],
+  "note": ""
+ },
+ "cowboy": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cowboy · cowboys",
+  "say": "",
+  "ex": [
+   "The cowboy rode his horse across the field.",
+   "He wore a cowboy hat and boots.",
+   "Cowboys work with cows and horses on big farms.",
+   "My son wants to be a cowboy for Halloween."
+  ],
+  "note": ""
+ },
+ "ballet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "ballet · uncountable",
+  "say": "",
+  "ex": [
+   "My daughter takes ballet lessons after school.",
+   "We saw a ballet at the theater last night.",
+   "She has danced ballet since she was five.",
+   "Are there any tickets for the ballet tonight?"
+  ],
+  "note": "Uncountable for the dance: \"I love ballet.\" \"A ballet\" is one show: \"We saw a ballet.\""
+ },
+ "vibe": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a vibe · vibes",
+  "say": "",
+  "note": "Informal. Often plural: \"good vibes\", \"bad vibes\"."
+ },
+ "archive": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an archive · archives",
+  "say": "",
+  "note": "Often used in the plural: the archives."
+ },
+ "atom": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "an atom · atoms",
+  "say": "",
+  "ex": [
+   "Everything around us is made of atoms.",
+   "An atom is too small to see.",
+   "A water molecule has three atoms.",
+   "In class today, we learned about the atom."
+  ],
+  "note": ""
+ },
+ "appetite": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an appetite · appetites",
+  "say": "",
+  "note": "Not a wish before meals: say \"Enjoy your meal!\" (not \"Good appetite!\")."
+ },
+ "production": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": true,
+  "gram": "a production · productions",
+  "say": "",
+  "ex": [
+   "The film is still in production.",
+   "She works in TV production in Kyiv.",
+   "The production of the show took a year.",
+   "Our small video production company makes ads."
+  ],
+  "note": "Most often \"production\" means making things: \"car production\", \"food production\"."
+ },
+ "visa": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a visa · visas",
+  "say": "",
+  "note": "We say \"apply for a visa\" and \"get a visa\"."
+ },
+ "canyon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a canyon · canyons",
+  "say": "",
+  "note": ""
+ },
+ "shotgun": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a shotgun · shotguns",
+  "say": "",
+  "ex": [
+   "The farmer keeps a shotgun to protect his chickens.",
+   "In this video game, the shotgun is very strong.",
+   "He went hunting for ducks with a shotgun.",
+   "Is it legal to own a shotgun here?"
+  ],
+  "note": "Also informal \"ride shotgun\": sit in the front seat of a car."
+ },
+ "echo": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "an echo · echoes",
+  "say": "",
+  "note": ""
+ },
+ "escort": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "an escort · escorts",
+  "say": "",
+  "note": "Often a verb: \"Staff will escort you out.\" \"An escort\" can also mean a paid companion."
+ },
+ "picnic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a picnic · picnics",
+  "say": "",
+  "note": "Say \"have a picnic\" or \"go on a picnic\"."
+ },
+ "playoff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a playoff · playoffs",
+  "say": "",
+  "ex": [
+   "Our team is in the playoffs this year!",
+   "We watched the playoff game together at a bar.",
+   "They lost in the first round of the playoffs.",
+   "When do the playoffs start this year?"
+  ],
+  "note": "Usually plural: the playoffs."
+ },
+ "compliment": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a compliment · compliments",
+  "say": "",
+  "ex": [
+   "She paid me a nice compliment today.",
+   "Thank you so much for the compliment!",
+   "He often gives his wife compliments.",
+   "Is that a compliment or not?"
+  ],
+  "note": "Do not mix up with \"complement\" (something that goes well with another thing)."
+ },
+ "transfer": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a transfer · transfers",
+  "say": "",
+  "ex": [
+   "The hotel offers a free airport transfer.",
+   "Can we book a transfer from the airport?",
+   "The player's transfer to a new club cost millions.",
+   "Our transfer to the hotel took about an hour."
+  ],
+  "note": "Most often \"transfer\" means moving money or people: \"a bank transfer\", \"transfer to a new school\"."
+ },
+ "monument": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a monument · monuments",
+  "say": "",
+  "ex": [
+   "The monument stands in the city square.",
+   "They built a monument to the soldiers.",
+   "Excuse me, how do I get to the monument?",
+   "Tourists take photos next to the monument."
+  ],
+  "note": ""
+ },
+ "fantasy": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "fantasy · uncountable",
+  "say": "",
+  "ex": [
+   "I love reading fantasy books before bed.",
+   "This is a fantasy movie with dragons.",
+   "Do you like fantasy or science fiction more?",
+   "She writes fantasy stories for young readers."
+  ],
+  "note": "Most often a \"fantasy\" is something you imagine or dream about: \"a childhood fantasy\"."
+ },
+ "motel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a motel · motels",
+  "say": "",
+  "note": ""
+ },
+ "interior": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an interior · interiors",
+  "say": "",
+  "ex": [
+   "The interior of the house is very modern.",
+   "I love the leather interior of your car.",
+   "She wants to study interior design in college.",
+   "The interior of the cafe is warm and cozy."
+  ],
+  "note": "Also an adjective: \"interior walls\" (inside walls)."
+ },
+ "filter": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a filter · filters",
+  "say": "",
+  "ex": [
+   "The coffee filters are in the top drawer.",
+   "We changed the water filter last week.",
+   "Can you add a filter to this photo?",
+   "The car needs a new oil filter."
+  ],
+  "note": ""
+ },
+ "status quo": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "the status quo",
+  "say": "",
+  "ex": [
+   "Many people just want to keep the status quo.",
+   "The new boss wants to change the status quo.",
+   "She is not happy with the status quo at work.",
+   "Why should we accept the status quo?"
+  ],
+  "note": "Means \"the way things are now\". Usually with \"the\"."
+ },
+ "Wi-Fi": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "Wi-Fi · uncountable",
+  "say": "",
+  "ex": [
+   "Excuse me, what is the Wi-Fi password?",
+   "Does the hotel have free Wi-Fi?",
+   "The Wi-Fi in my room is very slow.",
+   "Connect your phone to the Wi-Fi first."
+  ],
+  "note": "Uncountable: \"free Wi-Fi\" (not \"a Wi-Fi\"). Also written \"WiFi\" or \"wifi\"."
+ },
+ "de facto": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "English is the de facto language of business.",
+   "He became the de facto leader of the team.",
+   "She is de facto the boss of this office.",
+   "Their parents are away, so Anna is de facto in charge."
+  ],
+  "note": "Formal. Means \"in real life\" (not by law): \"the de facto leader\"."
+ },
+ "cruise": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a cruise · cruises",
+  "say": "",
+  "ex": [
+   "We went on a cruise to the Caribbean.",
+   "How much does a ten-day cruise cost?",
+   "They met on a cruise ship last summer.",
+   "My parents want to take a river cruise."
+  ],
+  "note": "Also a verb: \"cruise\" means drive or move at an easy, steady speed."
+ },
+ "semester": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a semester · semesters",
+  "say": "",
+  "note": ""
+ },
+ "monsieur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a monsieur · messieurs",
+  "say": "",
+  "ex": [
+   "Good evening, monsieur, welcome to our hotel.",
+   "The waiter asked, \"Anything else, monsieur?\"",
+   "Monsieur, your table by the window is ready.",
+   "Excuse me, monsieur, is this your bag?"
+  ],
+  "note": "French word; used in English mainly to address a French man."
+ },
+ "algorithm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an algorithm · algorithms",
+  "say": "",
+  "note": ""
+ },
+ "constable": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a constable · constables",
+  "say": "",
+  "note": "British; in the US say \"police officer\"."
+ },
+ "toast": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "toast · uncountable",
+  "say": "",
+  "ex": [
+   "I have toast and eggs for breakfast.",
+   "She puts butter and jam on her toast.",
+   "Can you make me two slices of toast?",
+   "Oh no, the toast is burned again!"
+  ],
+  "note": "Bread: some toast, two slices of toast (not \"a toast\"). \"A toast\" is a drink to someone."
+ },
+ "propaganda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "propaganda · uncountable",
+  "say": "",
+  "note": "Uncountable. Always negative in English: one-sided information to change what people think."
+ },
+ "pancake": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a pancake · pancakes",
+  "say": "",
+  "note": ""
+ },
+ "chat": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a chat · chats",
+  "say": "",
+  "ex": [
+   "I left a message in the group chat.",
+   "We had a video chat with Grandma yesterday.",
+   "Can you add me to the class chat?",
+   "Write to us in the chat on our website."
+  ],
+  "note": "Most often a \"chat\" is a friendly talk: \"Let's have a chat over coffee.\""
+ },
+ "summit": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a summit · summits",
+  "say": "",
+  "ex": [
+   "World leaders met at a summit in Geneva.",
+   "The summit lasted for two long days.",
+   "Climate change was the main topic of the summit.",
+   "The next summit will take place in Kyiv."
+  ],
+  "note": "Also the top of a mountain: \"We reached the summit at noon.\""
+ },
+ "trader": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a trader · traders",
+  "say": "",
+  "note": "Also someone who buys and sells goods: \"a market trader\"."
+ },
+ "coma": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a coma · comas",
+  "say": "",
+  "ex": [
+   "He was in a coma for three weeks.",
+   "The patient woke up from the coma.",
+   "The accident put her in a coma.",
+   "Doctors kept him in a coma so he could heal."
+  ],
+  "note": "Spelled with one \"m\"; \"comma\" (,) is punctuation."
+ },
+ "congressman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a congressman · congressmen",
+  "say": "",
+  "ex": [
+   "The congressman met with voters in our town.",
+   "She wrote a letter to her congressman.",
+   "The congressman voted against the new law.",
+   "He was elected congressman last year."
+  ],
+  "note": "\"Member of Congress\" is gender-neutral."
+ },
+ "PC": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a PC · PCs",
+  "say": "",
+  "ex": [
+   "I play games on my PC at night.",
+   "My PC is very slow; can you help?",
+   "She bought a new PC for work.",
+   "Turn off the PC before you leave."
+  ],
+  "note": "Also \"politically correct\": \"That joke is not PC.\""
+ },
+ "communist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a communist · communists",
+  "say": "",
+  "ex": [
+   "His grandfather was a communist all his life.",
+   "The communists took power after the war.",
+   "She was arrested for being a communist.",
+   "Many communists left the party after 1991."
+  ],
+  "note": "Often an adjective: \"a communist country\", \"the Communist Party\"."
+ }
+}

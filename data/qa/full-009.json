@@ -1,0 +1,706 @@
+{
+ "rugby": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "rugby · uncountable",
+  "say": "",
+  "note": "Uncountable: play rugby, a rugby match (not \"a rugby\")."
+ },
+ "mini": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "We bought a mini fridge for our small kitchen.",
+   "The café sells mini pizzas for kids.",
+   "I always carry a mini umbrella in my bag.",
+   "Can I get the mini size, please?"
+  ],
+  "note": "Often joined to the noun: miniskirt, minibar, minivan."
+ },
+ "astronaut": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an astronaut · astronauts",
+  "say": "",
+  "note": ""
+ },
+ "triumph": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a triumph · triumphs",
+  "say": "",
+  "ex": [
+   "Winning the cup was a great triumph for our team.",
+   "The school concert was a real triumph this year.",
+   "The players came home in triumph after the final.",
+   "Passing the exam was a small triumph for me."
+  ],
+  "note": ""
+ },
+ "teammate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a teammate · teammates",
+  "say": "",
+  "note": ""
+ },
+ "oops": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Say it after a small mistake: \"Oops, sorry!\""
+ },
+ "gangster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gangster · gangsters",
+  "say": "",
+  "note": ""
+ },
+ "single": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a single · singles",
+  "say": "",
+  "ex": [
+   "Have you heard her new single on the radio?",
+   "The band will release a new single next month.",
+   "Their first single was a big hit.",
+   "You can download the single for one dollar."
+  ],
+  "note": "Most often \"single\" means one or not married: \"a single room\", \"Are you single?\""
+ },
+ "voyage": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a voyage · voyages",
+  "say": "",
+  "note": "A long trip by sea or into space; for other trips say \"trip\"."
+ },
+ "abuse": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "abuse · uncountable",
+  "say": "",
+  "ex": [
+   "She left him after years of abuse.",
+   "Emotional abuse can be hard to see from outside.",
+   "If you see abuse at home, call this number.",
+   "Many people stay silent about abuse in relationships."
+  ],
+  "note": "Also wrong use: \"drug abuse\", \"abuse of power\". It is a verb too: to abuse."
+ },
+ "vagina": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vagina · vaginas",
+  "say": "",
+  "note": ""
+ },
+ "display": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a display · displays",
+  "say": "",
+  "ex": [
+   "The phone has a bright, clear display.",
+   "The display on my watch is broken.",
+   "Can you make the display a bit brighter?",
+   "This laptop has a bigger display than mine."
+  ],
+  "note": "Often a verb, \"to show\": \"The museum displays old cars.\" \"On display\" = shown to people."
+ },
+ "patent": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a patent · patents",
+  "say": "",
+  "note": ""
+ },
+ "supermarket": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a supermarket · supermarkets",
+  "say": "",
+  "ex": [
+   "Is there a supermarket near here?",
+   "I buy groceries at the supermarket on Fridays.",
+   "The supermarket is open until ten tonight.",
+   "She works at the supermarket near our house."
+  ],
+  "note": ""
+ },
+ "pasta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "pasta · uncountable",
+  "say": "",
+  "ex": [
+   "We are having pasta for dinner tonight.",
+   "I usually cook pasta with tomato sauce.",
+   "How long do I boil the pasta?",
+   "Can I have the pasta with chicken, please?"
+  ],
+  "note": "Uncountable: some pasta, a lot of pasta (not \"a pasta\")."
+ },
+ "kilometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kilometer · kilometers",
+  "say": "",
+  "note": "British spelling: \"kilometre\". Short form: km."
+ },
+ "sniper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sniper · snipers",
+  "say": "",
+  "note": ""
+ },
+ "pioneer": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a pioneer · pioneers",
+  "say": "",
+  "ex": [
+   "She was a pioneer in computer science.",
+   "He is a pioneer of electric cars.",
+   "The first pioneers built a small town here.",
+   "Our company was a pioneer in online shopping."
+  ],
+  "note": ""
+ },
+ "nerd": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a nerd · nerds",
+  "say": "",
+  "ex": [
+   "He is a total computer nerd.",
+   "I was a big nerd in high school.",
+   "Are you a movie nerd like me?",
+   "My brother is a science nerd and loves space."
+  ],
+  "note": "Informal; can be friendly or rude."
+ },
+ "bass": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a bass · basses",
+  "say": "",
+  "note": "Pronounced \"base\". The fish \"bass\" sounds different."
+ },
+ "enthusiasm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "enthusiasm · uncountable",
+  "say": "",
+  "ex": [
+   "She showed great enthusiasm for the new project.",
+   "The kids greeted us with a lot of enthusiasm.",
+   "I love your enthusiasm, but please slow down.",
+   "He lost his enthusiasm for the job after a year."
+  ],
+  "note": "Uncountable: a lot of enthusiasm (not \"an enthusiasm\")."
+ },
+ "patriot": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a patriot · patriots",
+  "say": "",
+  "ex": [
+   "He is a true patriot and loves his country.",
+   "Many patriots joined the army to defend the country.",
+   "She calls herself a proud patriot.",
+   "You can be a patriot and still criticize the government."
+  ],
+  "note": ""
+ },
+ "millionaire": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a millionaire · millionaires",
+  "say": "",
+  "note": ""
+ },
+ "sofa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sofa · sofas",
+  "say": "",
+  "note": "\"Couch\" is more common in everyday American English."
+ },
+ "spa": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a spa · spas",
+  "say": "",
+  "note": ""
+ },
+ "chili": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a chili · chilies",
+  "say": "",
+  "note": "British spelling: \"chilli\". In the US, \"chili\" is also a spicy meat dish."
+ },
+ "manuscript": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a manuscript · manuscripts",
+  "say": "",
+  "ex": [
+   "She sent her manuscript to three publishers last week.",
+   "The old manuscript is kept in the city museum.",
+   "He finished the first draft of his manuscript.",
+   "The editor returned the manuscript with many notes."
+  ],
+  "note": ""
+ },
+ "fake": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a fake · fakes",
+  "say": "",
+  "ex": [
+   "Don't buy that bag, it's a fake.",
+   "Is this painting real or a fake?",
+   "The news story turned out to be a fake.",
+   "He sold cheap fakes as real watches."
+  ],
+  "note": "Most often an adjective: \"fake news\", \"a fake bag\". Also a verb: to fake a smile."
+ },
+ "duo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a duo · duos",
+  "say": "",
+  "note": ""
+ },
+ "Viking": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a Viking · Vikings",
+  "say": "",
+  "note": "Written with a capital letter: a Viking, the Vikings."
+ },
+ "administrator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an administrator · administrators",
+  "say": "",
+  "ex": [
+   "Ask the system administrator for a new password.",
+   "She works as an administrator at a hospital.",
+   "The administrator manages the company website.",
+   "Please contact the administrator if you have problems."
+  ],
+  "note": "Often shortened to \"admin\" in everyday speech."
+ },
+ "logo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a logo · logos",
+  "say": "",
+  "ex": [
+   "The company changed its logo last year.",
+   "The logo is printed on every shirt.",
+   "She designed a logo for her friend's café.",
+   "Can you make the logo a little bigger?"
+  ],
+  "note": ""
+ },
+ "taco": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a taco · tacos",
+  "say": "",
+  "note": ""
+ },
+ "crab": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a crab · crabs",
+  "say": "",
+  "note": ""
+ },
+ "tank": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a tank · tanks",
+  "say": "",
+  "ex": [
+   "A tank moved slowly across the field.",
+   "The soldiers sat on top of the tank.",
+   "Many tanks drove through the city in the parade.",
+   "The army sent more tanks to the border."
+  ],
+  "note": "Also a container: \"a gas tank\", \"a fish tank\". A \"think tank\" is a group of experts."
+ },
+ "fragment": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a fragment · fragments",
+  "say": "",
+  "note": ""
+ },
+ "salon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a salon · salons",
+  "say": "",
+  "note": "Mostly a place for hair, nails or beauty: \"a hair salon\", \"a nail salon\"."
+ },
+ "bandit": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a bandit · bandits",
+  "say": "",
+  "ex": [
+   "Bandits robbed the travelers on the mountain road.",
+   "The old movie is about a famous bandit.",
+   "Police caught the bandit near the border.",
+   "The bandits hid their money in a cave."
+  ],
+  "note": "Sounds old-fashioned; \"robber\" is more common today."
+ },
+ "shuttle": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a shuttle · shuttles",
+  "say": "",
+  "note": ""
+ },
+ "sentiment": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a sentiment · sentiments",
+  "say": "",
+  "ex": [
+   "Public sentiment turned against the new plan.",
+   "Market sentiment improved after the good news.",
+   "There is strong anti-war sentiment in the country.",
+   "I understand the sentiment, but I don't agree."
+  ],
+  "note": ""
+ },
+ "breeze": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a breeze · breezes",
+  "say": "",
+  "ex": [
+   "A cool breeze came in from the sea.",
+   "The curtains moved gently in the breeze.",
+   "Let's sit outside and enjoy the evening breeze.",
+   "There is a nice breeze by the lake today."
+  ],
+  "note": "Any light wind. Informal: \"The test was a breeze\" means it was very easy."
+ },
+ "beep": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a beep · beeps",
+  "say": "",
+  "note": ""
+ },
+ "tweet": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a tweet · tweets",
+  "say": "",
+  "ex": [
+   "He posted a tweet about the game last night.",
+   "Her tweet got hundreds of replies in an hour.",
+   "Did you see his tweet about the new phone?",
+   "I deleted my old tweet because it was rude."
+  ],
+  "note": "Also a verb: to tweet. The short high sound of a bird is also a tweet."
+ },
+ "automobile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "an automobile · automobiles",
+  "say": "",
+  "note": "Formal; \"car\" is far more common."
+ },
+ "harassment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "harassment · uncountable",
+  "say": "",
+  "note": "Uncountable: \"sexual harassment\", \"online harassment\" (not \"a harassment\")."
+ },
+ "boo": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "\"Boo!\" he shouted from behind the door.",
+   "She jumped when her brother said \"boo\" behind her.",
+   "The kids hide and shout \"boo\" on Halloween.",
+   "Don't say \"boo\" to the baby, she will cry."
+  ],
+  "note": "Also shouted at a bad show: \"The crowd started to boo.\" Slang: \"my boo\" means my love."
+ },
+ "trading": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "trading · uncountable",
+  "say": "",
+  "ex": [
+   "He works in stock trading at a big bank.",
+   "Online trading is very popular among young people.",
+   "Trading on the stock market starts at nine.",
+   "She lost a lot of money in trading last year."
+  ],
+  "note": "Also buying and selling in general: \"trading between countries\"."
+ },
+ "timeline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a timeline · timelines",
+  "say": "",
+  "note": ""
+ },
+ "hospital": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a hospital · hospitals",
+  "say": "",
+  "ex": [
+   "The wounded soldier is in a military hospital.",
+   "She works as a nurse at the army hospital.",
+   "The military hospital is near the base.",
+   "Doctors at the field hospital work day and night."
+  ],
+  "note": "Any hospital, not only for soldiers. US: \"in the hospital\"; UK: \"in hospital\"."
+ },
+ "top": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a top · tops",
+  "say": "",
+  "note": "Most often \"top\" means the highest part: \"the top of the hill\", \"on top of the box\"."
+ },
+ "balance": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a balance · balances",
+  "say": "",
+  "note": "Also means staying steady: \"I lost my balance and fell.\" Also \"work-life balance\"."
+ },
+ "Tory": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a Tory · Tories",
+  "say": "",
+  "ex": [
+   "The Tories won the election in Britain.",
+   "My uncle has been a Tory all his life.",
+   "Many Tories voted against the new law.",
+   "A famous Tory spoke on the radio this morning."
+  ],
+  "note": "British politics: a member of the Conservative Party. Plural: Tories."
+ },
+ "fitness": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "fitness · uncountable",
+  "say": "",
+  "note": "Uncountable: \"My fitness is better now\" (not \"a fitness\")."
+ },
+ "mafia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the mafia",
+  "say": "",
+  "note": "Often written \"the Mafia\"."
+ },
+ "blues": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "the blues",
+  "say": "",
+  "note": "Usually used with \"the\": the blues."
+ },
+ "mutant": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a mutant · mutants",
+  "say": "",
+  "ex": [
+   "The movie is about a mutant with special powers.",
+   "In the comic, the mutants hide from people.",
+   "Scientists study mutants of this small fly.",
+   "Every mutant in the game has a different power."
+  ],
+  "note": ""
+ },
+ "broker": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a broker · brokers",
+  "say": "",
+  "note": ""
+ },
+ "karma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "karma · uncountable",
+  "say": "",
+  "note": "Uncountable: \"good karma\", \"bad karma\"."
+ },
+ "food blogger": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a food blogger · food bloggers",
+  "say": "",
+  "ex": [
+   "She is a food blogger who reviews new cafés.",
+   "The food blogger posted a photo of her lunch.",
+   "Many restaurants invite food bloggers to try new dishes.",
+   "My sister wants to become a food blogger."
+  ],
+  "note": ""
+ },
+ "trainer": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a trainer · trainers",
+  "say": "",
+  "note": "For a sports team, \"coach\" is more common in American English."
+ }
+}

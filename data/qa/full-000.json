@@ -1,0 +1,870 @@
+{
+ "friend": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a friend · friends",
+  "say": "best friend · make friends",
+  "ex": [
+   "This is my friend Anna.",
+   "She is my best friend.",
+   "Can my friend come too?",
+   "Do you have friends in Kyiv?"
+  ],
+  "note": ""
+ },
+ "OK": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "OK, thanks · …, OK?",
+  "ex": [
+   "OK, see you tomorrow.",
+   "Wait here, OK?",
+   "Call me tonight, OK?",
+   "OK, I can help you."
+  ],
+  "note": "Also written \"okay\"."
+ },
+ "hey": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "Hey, how are you? · Hey, wait!",
+  "note": "Informal. Use it with friends."
+ },
+ "people": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a person · people",
+  "say": "a lot of people · many people",
+  "ex": [
+   "How many people are here?",
+   "Many people work in this office.",
+   "There are a lot of people here.",
+   "Are these people your friends?"
+  ],
+  "note": "People is plural: \"people are\", not \"people is\". One person, two people."
+ },
+ "idea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an idea · ideas",
+  "say": "a good idea · have an idea",
+  "ex": [
+   "That is a good idea.",
+   "I have an idea!",
+   "Do you have any ideas?",
+   "Is this your idea?"
+  ],
+  "note": ""
+ },
+ "sir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "sir · sirs",
+  "say": "Yes, sir · Excuse me, sir",
+  "ex": [
+   "Excuse me, sir.",
+   "Sir, is this your bag?",
+   "Can I help you, sir?",
+   "Thank you, sir."
+  ],
+  "note": "A polite word for a man. For a woman, say \"ma'am\"."
+ },
+ "business": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a business · businesses",
+  "say": "on business · have a business",
+  "ex": [
+   "My father has a small business.",
+   "How is your business?",
+   "I am here on business.",
+   "Do you have your own business?"
+  ],
+  "note": ""
+ },
+ "sorry": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "Sorry, I'm late · Sorry?",
+  "ex": [
+   "Sorry, I'm late.",
+   "Sorry, can you say that again?",
+   "Sorry, is this seat free?",
+   "Sorry, where is the bus stop?"
+  ],
+  "note": ""
+ },
+ "show": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a show · shows",
+  "say": "a TV show · watch a show",
+  "ex": [
+   "I like this TV show.",
+   "The show starts at eight.",
+   "What time is the show?",
+   "Can we watch the show tonight?"
+  ],
+  "note": "Most often \"show\" is a verb: \"Show me your ticket, please.\""
+ },
+ "chance": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a chance · chances",
+  "say": "have a chance · give me a chance",
+  "note": ""
+ },
+ "moment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a moment · moments",
+  "say": "wait a moment · at the moment",
+  "note": ""
+ },
+ "baby": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": true,
+  "gram": "a baby · babies",
+  "say": "have a baby · a baby girl / boy",
+  "ex": [
+   "The baby is hungry.",
+   "Is the baby asleep?",
+   "How old is your baby?",
+   "We have a new baby."
+  ],
+  "note": ""
+ },
+ "fact": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a fact · facts",
+  "say": "a fun fact · in fact",
+  "ex": [
+   "That is a fact.",
+   "Tell me a fun fact.",
+   "Is this a fact?",
+   "Can you check the facts?"
+  ],
+  "note": ""
+ },
+ "million": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "a million · two million people",
+  "ex": [
+   "Kyiv has about three million people.",
+   "This house costs a million dollars.",
+   "Is it one million or two?",
+   "Can you count to a million?"
+  ],
+  "note": "Say \"two million dollars\", not \"two millions dollars\"."
+ },
+ "office": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an office · offices",
+  "say": "in the office · at the office",
+  "ex": [
+   "I work in an office.",
+   "Where is your office?",
+   "The office opens at nine.",
+   "Come to my office, please."
+  ],
+  "note": ""
+ },
+ "president": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a president · presidents",
+  "say": "the president of …",
+  "ex": [
+   "Who is the president?",
+   "The president is on TV now.",
+   "She is the club president.",
+   "Is he the president of the company?"
+  ],
+  "note": ""
+ },
+ "doctor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a doctor · doctors",
+  "say": "see a doctor · go to the doctor",
+  "ex": [
+   "I need a doctor.",
+   "Call a doctor, please.",
+   "Where is the doctor?",
+   "I want to see a doctor."
+  ],
+  "note": ""
+ },
+ "hello": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "say hello · Hello, this is …",
+  "note": "\"Hi\" is more common with friends."
+ },
+ "student": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a student · students",
+  "say": "a university student · a student card",
+  "ex": [
+   "I am a student.",
+   "Are you a student?",
+   "Do students pay less here?",
+   "My sister is a university student."
+  ],
+  "note": "In English, school children are also called \"students\"."
+ },
+ "plan": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a plan · plans",
+  "say": "make a plan · plans for today",
+  "ex": [
+   "I have a plan.",
+   "What are your plans for today?",
+   "Do you have plans tonight?",
+   "We need a plan."
+  ],
+  "note": ""
+ },
+ "video": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a video · videos",
+  "say": "watch a video · make a video",
+  "note": ""
+ },
+ "officer": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an officer · officers",
+  "say": "an army officer · an officer in the army",
+  "ex": [
+   "He is an army officer.",
+   "My brother is an officer in the army.",
+   "Are you an army officer?",
+   "Is your dad an officer?"
+  ],
+  "note": "Most often \"officer\" means a police officer: \"Ask the officer for help.\""
+ },
+ "party": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a party · parties",
+  "say": "at a party · have a party · a birthday party",
+  "ex": [
+   "Come to my party!",
+   "The party is on Friday.",
+   "Is Anna at the party?",
+   "Can my friend come to the party?"
+  ],
+  "note": "Most often \"party\" means a political group: \"Which party is in power?\""
+ },
+ "lady": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a lady · ladies",
+  "say": "ladies and gentlemen · the first lady",
+  "ex": [
+   "Good evening, ladies and gentlemen.",
+   "She is a real lady.",
+   "Is she the first lady?",
+   "Ladies and gentlemen, please sit down."
+  ],
+  "note": "Most often \"lady\" is just a polite word for a woman: \"Ask the lady at the desk.\""
+ },
+ "wow": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "Wow, that's great! · Wow, look!",
+  "ex": [
+   "Wow, your new car is great!",
+   "Wow, look at the snow!",
+   "Wow, is this your house?",
+   "Wow, can you really do that?"
+  ],
+  "note": ""
+ },
+ "start": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a start · starts",
+  "say": "at the start · a good start",
+  "ex": [
+   "The race start is at ten.",
+   "Where is the start?",
+   "Wait at the start, please.",
+   "This is a good start!"
+  ],
+  "note": "Most often \"start\" is a verb: \"The film starts at eight.\""
+ },
+ "bank": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a bank · banks",
+  "say": "at the bank · go to the bank",
+  "ex": [
+   "Where is the bank?",
+   "Is the bank open today?",
+   "My money is in the bank.",
+   "The bank opens at nine."
+  ],
+  "note": ""
+ },
+ "college": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a college · colleges",
+  "say": "go to college · study at a college",
+  "ex": [
+   "I study at a college in Kyiv.",
+   "She teaches at a college.",
+   "Where is your college?",
+   "Is the college far from here?"
+  ],
+  "note": "In the US, \"college\" often means university."
+ },
+ "test": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a test · tests",
+  "say": "take a test · pass a test",
+  "ex": [
+   "I have a test today.",
+   "Is the test easy?",
+   "When is the English test?",
+   "I want to take the test again."
+  ],
+  "note": ""
+ },
+ "film": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a film · films",
+  "say": "watch a film · see a film",
+  "note": "In American English, \"movie\" is more common."
+ },
+ "ah": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "Ah, I see · Ah, OK",
+  "ex": [
+   "Ah, now I understand!",
+   "Ah, this coffee is so good.",
+   "Ah, is this your bag?",
+   "Ah, OK. Can you show me?"
+  ],
+  "note": ""
+ },
+ "secret": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a secret · secrets",
+  "say": "keep a secret · tell a secret",
+  "ex": [
+   "Can you keep a secret?",
+   "It is a secret. Don't tell Anna.",
+   "What is your secret?",
+   "I have a secret for you."
+  ],
+  "note": ""
+ },
+ "photo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo · photos",
+  "say": "take a photo · in the photo",
+  "note": "Say \"take a photo\", not \"make a photo\"."
+ },
+ "season": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a season · seasons",
+  "say": "favorite season · in this season",
+  "ex": [
+   "What is your favorite season?",
+   "Summer is my favorite season.",
+   "There are four seasons.",
+   "Which season do you like?"
+  ],
+  "note": ""
+ },
+ "club": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a club · clubs",
+  "say": "join a club · at the club",
+  "ex": [
+   "I go to a sports club.",
+   "Can I join your club?",
+   "Is the club open today?",
+   "We meet at the club."
+  ],
+  "note": ""
+ },
+ "sex": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "sex · uncountable",
+  "say": "have sex · safe sex",
+  "ex": [
+   "They talk about sex.",
+   "Is there sex in this film?",
+   "This film has no sex scenes.",
+   "Can we talk about safe sex?"
+  ],
+  "note": "On forms, \"sex\" also means male or female."
+ },
+ "director": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a director · directors",
+  "say": "the director of … · a company director",
+  "ex": [
+   "She is the director of the company.",
+   "Who is the director here?",
+   "Can I talk to the director?",
+   "The director is in his office."
+  ],
+  "note": "A film director is also a \"director\". A school head is the \"principal\"."
+ },
+ "hotel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hotel · hotels",
+  "say": "at a hotel · stay at a hotel",
+  "ex": [
+   "Is there a hotel near here?",
+   "How much is this hotel?",
+   "The hotel has free breakfast.",
+   "I like to stay at this hotel."
+  ],
+  "note": ""
+ },
+ "boss": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a boss · bosses",
+  "say": "my boss · ask your boss",
+  "ex": [
+   "My boss is very nice.",
+   "Is your boss in the office?",
+   "The boss is in a meeting now.",
+   "Can I talk to your boss?"
+  ],
+  "note": ""
+ },
+ "art": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "art · uncountable",
+  "say": "modern art · an art class",
+  "ex": [
+   "I like modern art.",
+   "Do you like art?",
+   "Where is the art museum?",
+   "We have art class today."
+  ],
+  "note": "Art is uncountable here: \"I like art\", not \"an art\"."
+ },
+ "control": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "control · uncountable",
+  "say": "under control · passport control",
+  "ex": [
+   "Where is passport control?",
+   "Everything is under control.",
+   "Is the fire under control?",
+   "Go to passport control, please."
+  ],
+  "note": ""
+ },
+ "message": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a message · messages",
+  "say": "send a message · leave a message",
+  "ex": [
+   "Send me a message, please.",
+   "I have a new message.",
+   "Can I leave a message?",
+   "Is there a message for me?"
+  ],
+  "note": ""
+ },
+ "camera": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a camera · cameras",
+  "say": "on camera · a phone camera",
+  "ex": [
+   "My phone has a very good camera.",
+   "Smile at the camera, please!",
+   "Is there a camera in the room?",
+   "Can I use your camera?"
+  ],
+  "note": ""
+ },
+ "leader": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a leader · leaders",
+  "say": "a team leader · the leader of …",
+  "ex": [
+   "She is our team leader.",
+   "He is a good leader.",
+   "Who is the leader here?",
+   "Can I talk to the team leader?"
+  ],
+  "note": ""
+ },
+ "service": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a service · services",
+  "say": "good service · customer service",
+  "ex": [
+   "The service here is very good.",
+   "Is service included?",
+   "Where is customer service, please?",
+   "This hotel has great service."
+  ],
+  "note": ""
+ },
+ "agent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an agent · agents",
+  "say": "a travel agent · an insurance agent",
+  "ex": [
+   "Call the travel agent, please.",
+   "Is the agent here today?",
+   "I am a travel agent.",
+   "Can the agent help me?"
+  ],
+  "note": ""
+ },
+ "computer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a computer · computers",
+  "say": "on the computer · use a computer",
+  "ex": [
+   "I work on a computer.",
+   "My computer is very slow.",
+   "Can I use your computer?",
+   "Is there a computer here?"
+  ],
+  "note": ""
+ },
+ "class": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a class · classes",
+  "say": "in my class · business class",
+  "ex": [
+   "My class is small.",
+   "There are twenty kids in my class.",
+   "Are you in my class?",
+   "Is this business class?"
+  ],
+  "note": "Often \"class\" means a lesson: \"I have a class at nine.\""
+ },
+ "radio": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a radio · radios",
+  "say": "on the radio · listen to the radio",
+  "ex": [
+   "I listen to the radio every day.",
+   "The radio is too loud.",
+   "Is the radio on?",
+   "Can we listen to the radio?"
+  ],
+  "note": ""
+ },
+ "park": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a park · parks",
+  "say": "in the park · go to the park",
+  "ex": [
+   "Let's go to the park.",
+   "Is there a park near here?",
+   "Kids play in the park.",
+   "I walk in the park every day."
+  ],
+  "note": ""
+ },
+ "fan": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a fan · fans",
+  "say": "a big fan · a football fan",
+  "ex": [
+   "I am a big fan.",
+   "He is a football fan.",
+   "Are you a fan of this team?",
+   "Is your brother a football fan?"
+  ],
+  "note": ""
+ },
+ "dollar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dollar · dollars",
+  "say": "ten dollars · pay in dollars",
+  "ex": [
+   "This T-shirt costs ten dollars.",
+   "Can I pay in dollars here?",
+   "Is it ten dollars or twenty?",
+   "The ticket is five dollars."
+  ],
+  "note": ""
+ },
+ "project": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a project · projects",
+  "say": "work on a project · a school project",
+  "ex": [
+   "I have a new project at work.",
+   "Is the project ready?",
+   "Can you help me with my project?",
+   "This is a school project."
+  ],
+  "note": ""
+ },
+ "huh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "Huh? · …, huh?",
+  "ex": [
+   "Huh? What is it?",
+   "Huh? Can you say that again?",
+   "It's cold today, huh?",
+   "Huh, that's strange."
+  ],
+  "note": "Informal."
+ },
+ "process": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a process · processes",
+  "say": "a long process · the process of …",
+  "ex": [
+   "The process is easy.",
+   "It is a long process.",
+   "What is the process?",
+   "Can you tell me about the process?"
+  ],
+  "note": ""
+ },
+ "file": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a file · files",
+  "say": "open a file · save a file · send a file",
+  "ex": [
+   "I can't open this file.",
+   "Please save the file.",
+   "Can you send me the file?",
+   "The file is on my desktop."
+  ],
+  "note": ""
+ },
+ "Miss": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "Miss + last name (no article)",
+  "say": "Excuse me, Miss · Thank you, Miss",
+  "ex": [
+   "Excuse me, Miss, is this your bag?",
+   "Thank you, Miss.",
+   "Can I help you, Miss?",
+   "Miss, can you help me, please?"
+  ],
+  "note": "Most often \"miss\" is a verb: \"I miss you.\" The title Miss is for a young woman."
+ },
+ "stop": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "Stop! · Stop here, please",
+  "ex": [
+   "Stop! The light is red.",
+   "Stop! Don't touch that!",
+   "Stop! Wait for me!",
+   "Stop here, please."
+  ],
+  "note": "Most often \"stop\" is a verb: \"The bus stops here.\" A \"bus stop\" is a place."
+ },
+ "effect": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an effect · effects",
+  "say": "have an effect on · a good effect",
+  "ex": [
+   "The medicine has a good effect.",
+   "Coffee has a strong effect on me.",
+   "Does this tea have any effect?",
+   "Add a fun effect to the photo."
+  ],
+  "note": "Effect is a noun. The verb is \"affect\"."
+ },
+ "professor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a professor · professors",
+  "say": "a professor at a university",
+  "ex": [
+   "Our history professor is very funny.",
+   "She is a professor at the university.",
+   "Can I talk to the professor?",
+   "Is the professor here today?"
+  ],
+  "note": "In the US, most university teachers are called \"professor\"."
+ }
+}

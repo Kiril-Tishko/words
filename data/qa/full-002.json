@@ -1,0 +1,775 @@
+{
+ "album": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an album · albums",
+  "say": "a new album · a photo album",
+  "note": "",
+  "ex": [
+   "Do you like their new album?",
+   "I listen to this album every day.",
+   "The band has a new album.",
+   "Can I see your photo album?"
+  ]
+ },
+ "talent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a talent · talents",
+  "say": "have a talent for · a talent show",
+  "note": "",
+  "ex": [
+   "She has a talent for music.",
+   "Does your son have a talent for sports?",
+   "Our school has a talent show in May.",
+   "He has a real talent for drawing."
+  ]
+ },
+ "cent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cent · cents",
+  "say": "fifty cents · ten cents each",
+  "note": "",
+  "ex": [
+   "This candy costs fifty cents.",
+   "Is this pen fifty cents?",
+   "I have only ten cents.",
+   "There are a hundred cents in a dollar."
+  ]
+ },
+ "management": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "management · uncountable",
+  "say": "the management · business management",
+  "note": "Uncountable: \"the management,\" \"hotel management\" (not \"a management\").",
+  "ex": [
+   "Can I talk to the management, please?",
+   "I study business management.",
+   "The new management is very good.",
+   "She works in hotel management."
+  ]
+ },
+ "design": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a design · designs",
+  "say": "the design of · web design",
+  "note": "",
+  "ex": [
+   "Do you like the design of our website?",
+   "The new phone has a nice design.",
+   "She studies fashion design at college.",
+   "The design of this kitchen is very simple."
+  ]
+ },
+ "monster": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a monster · monsters",
+  "say": "afraid of monsters · a sea monster",
+  "note": "",
+  "ex": [
+   "My son is afraid of monsters.",
+   "Is there a monster under my bed?",
+   "Let's watch a movie about a sea monster.",
+   "The kids drew a funny green monster."
+  ]
+ },
+ "email": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an email · emails",
+  "say": "send an email · email address · by email",
+  "note": ""
+ },
+ "progress": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "progress · uncountable",
+  "say": "make progress · in progress",
+  "note": "Uncountable: good progress, a lot of progress (not \"a progress\").",
+  "ex": [
+   "You are making good progress in English.",
+   "The doctor is happy with my progress.",
+   "We made a lot of progress today.",
+   "Is there any progress with my visa?"
+  ]
+ },
+ "visit": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a visit · visits",
+  "say": "pay a visit · a visit to the doctor · on a visit",
+  "note": "Most often \"visit\" is a verb: \"Come and visit us!\"",
+  "ex": [
+   "Thanks for your visit!",
+   "Is this your first visit to Kyiv?",
+   "My parents came for a short visit.",
+   "How much is a visit to the doctor?"
+  ]
+ },
+ "cop": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a cop · cops",
+  "say": "call the cops",
+  "note": "Informal. The neutral word is \"police officer.\"",
+  "ex": [
+   "A cop asked to see my license.",
+   "Please call the cops now!",
+   "Her brother is a cop.",
+   "Ask that cop for directions."
+  ]
+ },
+ "community": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a community · communities",
+  "say": "the online community · in the community",
+  "note": "Most often \"community\" means the people in one area: \"Our community has a new park.\"",
+  "ex": [
+   "The online community helped me fix my phone.",
+   "Is there an online community for this game?",
+   "I am in a big photo community online.",
+   "Our IT community meets every Friday."
+  ]
+ },
+ "bro": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a bro · bros",
+  "say": "hey, bro · thanks, bro",
+  "note": "Very informal slang. Use only with close friends.",
+  "ex": [
+   "Thanks a lot, bro!",
+   "Can you help me, bro?",
+   "Hey bro, how are you?",
+   "See you tomorrow, bro."
+  ]
+ },
+ "mayor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mayor · mayors",
+  "say": "the mayor of · a new mayor",
+  "note": ""
+ },
+ "champion": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a champion · champions",
+  "say": "world champion · tennis champion",
+  "note": "",
+  "ex": [
+   "She is the national tennis champion.",
+   "Who is the world champion now?",
+   "Our team is the city champion this year.",
+   "The champion gets a big gold cup."
+  ]
+ },
+ "signal": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a signal · signals",
+  "say": "no signal · a weak signal · lose the signal",
+  "note": ""
+ },
+ "limit": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a limit · limits",
+  "say": "speed limit · time limit · over the limit",
+  "note": "Also a common verb, to limit: \"Limit your time on the phone.\""
+ },
+ "bullshit": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "vulgar",
+   "slang"
+  ],
+  "ns": true,
+  "gram": "bullshit · uncountable",
+  "say": "that's bullshit · total bullshit",
+  "note": "Vulgar; don't use it at work or with strangers. Polite word: \"nonsense.\"",
+  "ex": [
+   "That's bullshit, and you know it.",
+   "I don't believe his bullshit.",
+   "Is this story true or bullshit?",
+   "This ad is total bullshit."
+  ]
+ },
+ "resource": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a resource · resources",
+  "say": "natural resources · a useful resource",
+  "note": "",
+  "ex": [
+   "Water is an important natural resource.",
+   "This website is a great resource for students.",
+   "Can you share some good resources for learning English?",
+   "We need more resources to finish the project."
+  ]
+ },
+ "media": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "the media",
+  "say": "in the media · on social media",
+  "note": "Often with \"the\": \"in the media.\" Also \"social media\": \"on social media.\""
+ },
+ "mama": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a mama · mamas",
+  "say": "my mama · Mama says",
+  "note": "Informal or childish; \"mom\" is more common in American English."
+ },
+ "click": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a click · clicks",
+  "say": "with one click · a mouse click",
+  "note": "Most often \"click\" is a verb: \"Click the button.\"",
+  "ex": [
+   "One click and the file is open.",
+   "Buy this with just one click.",
+   "The site counts every click.",
+   "Can I pay with one click here?"
+  ]
+ },
+ "shopping": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "shopping · uncountable",
+  "say": "go shopping · do the shopping · a shopping center",
+  "note": "Uncountable. Say \"go shopping\" or \"do the shopping.\""
+ },
+ "website": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a website · websites",
+  "say": "on the website · visit a website",
+  "note": "",
+  "ex": [
+   "Please visit our website for more information.",
+   "What is the website address?",
+   "I buy tickets on the website.",
+   "The website does not work today."
+  ]
+ },
+ "credit": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "credit · uncountable",
+  "say": "on credit · credit card · a loan (not a credit)",
+  "note": "Not \"a credit\" for money from a bank: say \"a loan.\" Use \"on credit,\" \"credit card.\"",
+  "ex": [
+   "We bought the car on credit.",
+   "Can I buy this phone on credit?",
+   "Can I pay by credit card here?",
+   "Bad credit makes it hard to get a loan."
+  ]
+ },
+ "incident": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "an incident · incidents",
+  "say": "report an incident · an incident on the bus",
+  "note": "Formal word. In everyday talk, people often say \"something happened.\"",
+  "ex": [
+   "There was an incident on the bus today.",
+   "Please report any incident to the manager.",
+   "Nobody was hurt in the incident.",
+   "Can you tell me about the incident?"
+  ]
+ },
+ "clerk": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a clerk · clerks",
+  "say": "a bank clerk · an office clerk",
+  "note": "In the US, a \"clerk\" is also a person who works in a store or at a hotel desk.",
+  "ex": [
+   "She works as a clerk in a bank.",
+   "Ask the clerk for the form.",
+   "The clerk checks all the papers.",
+   "Is the clerk in the office today?"
+  ]
+ },
+ "candidate": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a candidate · candidates",
+  "say": "a candidate for · vote for a candidate",
+  "note": ""
+ },
+ "status": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a status · statuses",
+  "say": "order status · check the status",
+  "note": ""
+ },
+ "account": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "an account · accounts",
+  "say": "log in to your account · create an account",
+  "note": "Most often \"account\" means a bank account: \"Put the money in my account.\""
+ },
+ "theater": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a theater · theaters",
+  "say": "go to the theater · at the theater",
+  "note": "British spelling: theatre. A \"movie theater\" is a place to watch movies.",
+  "ex": [
+   "We went to the theater on Saturday.",
+   "Is the theater next to the park?",
+   "I love the theater more than movies.",
+   "Let's buy theater tickets for Friday."
+  ]
+ },
+ "author": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an author · authors",
+  "say": "the author of · a favorite author",
+  "note": ""
+ },
+ "prize": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a prize · prizes",
+  "say": "win a prize · first prize",
+  "note": ""
+ },
+ "drink": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": true,
+  "gram": "a drink · drinks",
+  "say": "have a drink · go out for a drink · buy someone a drink",
+  "note": "Most often \"drink\" is a verb: \"I drink tea.\" A drink can be any drink, like juice.",
+  "ex": [
+   "Let's go out for a drink after work.",
+   "Can I buy you a drink?",
+   "She ordered a drink at the bar.",
+   "I only have one drink at parties."
+  ]
+ },
+ "bar": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a bar · bars",
+  "say": "at a bar · go to a bar",
+  "note": "Also a long piece of something: \"a chocolate bar,\" \"a bar of soap.\""
+ },
+ "cousin": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cousin · cousins",
+  "say": "my cousin · on my mom's side",
+  "note": "Used for both male and female cousins.",
+  "ex": [
+   "My cousin lives in Kyiv.",
+   "Do you have any cousins?",
+   "I have ten cousins on my mom's side.",
+   "We visit our cousins every summer."
+  ]
+ },
+ "senator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a senator · senators",
+  "say": "a state senator · vote for a senator",
+  "note": "",
+  "ex": [
+   "The senator answered our questions.",
+   "Who is the senator from your state?",
+   "We wrote a letter to our senator.",
+   "The senator visited our school."
+  ]
+ },
+ "region": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a region · regions",
+  "say": "in the region · a region of the country",
+  "note": ""
+ },
+ "fashion": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "fashion · uncountable",
+  "say": "in fashion · out of fashion · a fashion show",
+  "note": "",
+  "ex": [
+   "She loves fashion and new clothes.",
+   "Are long coats in fashion this year?",
+   "He works in the fashion business.",
+   "I don't follow fashion."
+  ]
+ },
+ "concept": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a concept · concepts",
+  "say": "the concept of · a new concept",
+  "note": ""
+ },
+ "inspector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an inspector · inspectors",
+  "say": "a health inspector · a building inspector",
+  "note": "",
+  "ex": [
+   "The health inspector visits the restaurant every year.",
+   "Is the inspector coming today?",
+   "The inspector checked the building for safety.",
+   "A police inspector came to the house."
+  ]
+ },
+ "reporter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a reporter · reporters",
+  "say": "a TV reporter · a news reporter",
+  "note": "",
+  "ex": [
+   "She works as a TV reporter.",
+   "A reporter asked me some questions.",
+   "Is he a reporter for the local paper?",
+   "He wants to be a sports reporter."
+  ]
+ },
+ "festival": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a festival · festivals",
+  "say": "at the festival · a music festival · a film festival",
+  "note": "",
+  "ex": [
+   "We went to a music festival last summer.",
+   "The town has a food festival in May.",
+   "When does the festival start?",
+   "Tickets for the festival are sold out."
+  ]
+ },
+ "jury": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a jury · juries",
+  "say": "on the jury · the jury chose",
+  "note": "Most often \"jury\" means the people who decide a case in court: \"The jury said he is guilty.\"",
+  "ex": [
+   "The jury liked her song best.",
+   "Who is on the jury this year?",
+   "She was on the jury at the film festival.",
+   "The jury gave him first place."
+  ]
+ },
+ "concert": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a concert · concerts",
+  "say": "go to a concert · at the concert",
+  "note": ""
+ },
+ "alcohol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "alcohol · uncountable",
+  "say": "drink alcohol · no alcohol",
+  "note": "Uncountable: some alcohol, no alcohol (not \"an alcohol\").",
+  "ex": [
+   "I don't drink alcohol.",
+   "No alcohol is allowed in the park.",
+   "Does this drink have alcohol?",
+   "Alcohol is bad for your health."
+  ]
+ },
+ "budget": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a budget · budgets",
+  "say": "on a budget · a tight budget · over budget",
+  "note": ""
+ },
+ "pizza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pizza · pizzas",
+  "say": "order a pizza · a slice of pizza",
+  "note": ""
+ },
+ "madam": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "madam · madams",
+  "say": "excuse me, madam · Dear Sir or Madam",
+  "note": "Formal; \"ma'am\" is more common in American speech.",
+  "ex": [
+   "Excuse me, madam, can I help you?",
+   "This way, please, madam.",
+   "Dear Sir or Madam, I am writing to you.",
+   "Good evening, madam. Your table is ready."
+  ]
+ },
+ "sexy": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "look sexy · a sexy voice",
+  "note": "Informal; can sound rude when said about someone you don't know well.",
+  "ex": [
+   "She looks sexy in that red dress.",
+   "Do you think this dress is too sexy?",
+   "The singer has a sexy voice.",
+   "He thinks his new car is sexy."
+  ]
+ },
+ "sport": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a sport · sports",
+  "say": "play a sport · do sports · favorite sport",
+  "note": "Americans usually say \"sports\": \"Do you like sports?\""
+ },
+ "tiger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tiger · tigers",
+  "say": "a tiger at the zoo · a white tiger",
+  "note": "",
+  "ex": [
+   "We saw a tiger at the zoo.",
+   "Can we go and see the tigers?",
+   "The tiger is sleeping in the sun.",
+   "My son drew a tiger at school."
+  ]
+ },
+ "rice": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "rice · uncountable",
+  "say": "cook rice · chicken with rice",
+  "note": "Uncountable: some rice, not \"a rice\" or \"rices\"."
+ },
+ "palace": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a palace · palaces",
+  "say": "a royal palace · visit a palace",
+  "note": ""
+ },
+ "telephone": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a telephone · telephones",
+  "say": "on the telephone · answer the telephone · telephone number",
+  "note": "In everyday speech people usually just say \"phone\"."
+ },
+ "visitor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a visitor · visitors",
+  "say": "have visitors · visitors to the museum",
+  "note": "",
+  "ex": [
+   "We had visitors last weekend.",
+   "Visitors can park here for free.",
+   "The museum gets many visitors in summer.",
+   "Are visitors allowed in the hospital today?"
+  ]
+ },
+ "farmer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a farmer · farmers",
+  "say": "a local farmer · a farmers' market",
+  "note": "",
+  "ex": [
+   "The farmer sells eggs at the market.",
+   "My grandfather was a farmer.",
+   "Do you buy milk from a local farmer?",
+   "Farmers work very hard."
+  ]
+ },
+ "post": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a post · posts",
+  "say": "write a post · like a post · in a post",
+  "note": "Most often \"post\" is a verb: \"Post a photo.\" In British English, \"post\" also means mail."
+ },
+ "factor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a factor · factors",
+  "say": "a big factor · the main factor · a factor in",
+  "note": "",
+  "ex": [
+   "Price is an important factor for me.",
+   "Weather is a big factor in our plans.",
+   "What is the main factor in your choice?",
+   "Stress is a factor in many illnesses."
+  ]
+ },
+ "alarm": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "an alarm · alarms",
+  "say": "fire alarm · car alarm · set the alarm",
+  "note": "Also an alarm clock: \"Set the alarm for seven.\"",
+  "ex": [
+   "The fire alarm is very loud.",
+   "Can you stop the alarm, please?",
+   "Our car has an alarm.",
+   "Is that the fire alarm ringing?"
+  ]
+ },
+ "match": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a match · matches",
+  "say": "watch a match · win a match · a tennis match",
+  "note": "Most often a verb: \"The shoes match the bag.\" In the US, \"game\" is common for team sports."
+ }
+}

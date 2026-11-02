@@ -20,7 +20,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(REPO, 'data')
 LEVELS = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 # frequency bands shown on the site: rank among the most used English words (data/levels/en-rank.tsv)
-BANDS = [(400, 'top-400'), (1000, 'top-1000'), (2000, 'top-2000'), (3000, 'top-3000'),
+BANDS = [(1000, 'top-1000'), (2000, 'top-2000'), (3000, 'top-3000'),
          (5000, 'top-5000'), (10000, 'top-10k'), (20000, 'top-20k'), (50000, 'top-50k'), (100000, 'top-100k')]
 BAND_KEYS = [k for _, k in BANDS] + ['rare']
 
@@ -187,6 +187,19 @@ def main():
     cefr = json.load(open(f'{D}/levels/cefr.json', encoding='utf-8'))
     rank_of, rank_from_freq, freq_of = load_ranks()
     sense = load_sense()
+    qa = {}   # final expert pass (tools/workflows/card-qa.js): verdict, share, labels, grammar, examples, note
+    for f in sorted(glob.glob(f'{D}/qa/*.json')):
+        try:
+            for k, v in json.load(open(f, encoding='utf-8')).items():
+                if isinstance(v, dict):
+                    qa[k] = v
+        except Exception as e:
+            print('skip broken', f, e, file=sys.stderr)
+    for k, v in qa.items():          # the QA's share estimate (with the card's meaning in view) wins
+        if 'pm' in v:
+            sense[k] = {'pm': v['pm']}
+        elif 's' in v:
+            sense[k] = {'s': v['s']}
     first, cross, gap = load_checked()
 
     buckets = defaultdict(dict)  # verdict -> key -> record
@@ -225,22 +238,64 @@ def main():
             w['uk_alt'] = sorted(set(alts))
         w['labels'] = sorted(set().union(*[set(x['labels']) for x in ws]))
         merged.append(w)
-    # spelling variants of the same Ukrainian word (centre/center): keep the American/international one
-    by_uk = defaultdict(list)
+    # clean-up (reviewers' findings): no prefixes, no English words without English evidence,
+    # no Latin-script Ukrainian sides (use the Cyrillic reading when there is one), one card per spelling group
+    evp = f'{D}/levels/en-evidence.json'
+    ev = json.load(open(evp, encoding='utf-8')) if os.path.exists(evp) else {'missing': [], 'variants': {}}
+    missing, variants = set(ev['missing']), ev['variants']
+    latin = re.compile(r'[A-Za-z]')
+    excluded, cleaned = [], []
     for w in merged:
-        by_uk[w['uk'].lower()].append(w)
+        e = w['en']
+        if e.startswith('-') or e.endswith('-'):
+            excluded.append({'en': e, 'uk': w['uk'], 'why': 'prefix, not a word'})
+            continue
+        if e.lower() in missing:
+            excluded.append({'en': e, 'uk': w['uk'], 'why': 'no English dictionary or corpus evidence'})
+            continue
+        if latin.search(w['uk']):
+            cyr = [a for a in w.get('uk_alt', []) if not latin.search(a)]
+            if not cyr:
+                excluded.append({'en': e, 'uk': w['uk'], 'why': 'Ukrainian side written in Latin letters'})
+                continue
+            w['uk_alt'] = [a for a in w.get('uk_alt', []) if a != cyr[0]] + [w['uk']]
+            w['uk'] = cyr[0]
+        cleaned.append(w)
+
+    def dkey(e):
+        e = e.lower()
+        e = variants.get(e, e)
+        e = re.sub(r"[\s\-'.]", '', strip_accents(e))
+        return re.sub(r'ise$', 'ize', re.sub(r're$', 'er', e.replace('our', 'or')))
+    groups = defaultdict(list)
+    for w in cleaned:
+        groups[dkey(w['en'])].append(w)
     final = []
-    for uk, ws in by_uk.items():
+    for ws in groups.values():
         if len(ws) == 1:
             final += ws
             continue
-        keep = []
-        for w in sorted(ws, key=lambda w: -wordfreq.zipf_frequency(w['en'].lower(), 'en')):
-            k = re.sub(r'(our)', 'or', re.sub(r're$', 'er', re.sub(r'ise$', 'ize', w['en'].lower())))
-            if any(re.sub(r'(our)', 'or', re.sub(r're$', 'er', re.sub(r'ise$', 'ize', x['en'].lower()))) == k for x in keep):
-                continue
-            keep.append(w)
-        final += keep
+        def score(w):   # American/international spelling first, then the most used form
+            e = w['en'].lower()
+            brit = bool(re.search(r'our|re$|ise$|ae|oe|ll[eio]', e)) and not w['british']
+            return (w['checked'], wordfreq.zipf_frequency(e, 'en') - (0.6 if brit else 0) - (0.3 if e != strip_accents(e) else 0))
+        ws.sort(key=score, reverse=True)
+        keep = dict(ws[0])
+        keep['also'] = sorted({x['en'] for x in ws[1:]})
+        keep['labels'] = sorted(set().union(*[set(x['labels']) for x in ws]))
+        alts = set(keep.get('uk_alt', [])) | {x['uk'] for x in ws[1:] if x['uk'].lower() != keep['uk'].lower()}
+        if alts:
+            keep['uk_alt'] = sorted(alts)
+        final.append(keep)
+    kept = []
+    for w in final:
+        v = (qa.get(w['en']) or {}).get('v', 'keep')
+        if v != 'keep':
+            excluded.append({'en': w['en'], 'uk': w['uk'], 'why': 'final expert pass: ' + v})
+        else:
+            kept.append(w)
+    final = kept
+    json.dump(excluded, open(f'{D}/excluded.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 
     for w in final:
         e = w['en'].lower()
@@ -317,12 +372,22 @@ def main():
             print('skip broken', f, e, file=sys.stderr)
     am_path = os.path.join(REPO, 'audio', 'manifest.json')
     audio = json.load(open(am_path, encoding='utf-8')) if os.path.exists(am_path) else {'chunks': [], 'words': {}}
+    def ekey(e):   # match example keys regardless of accents, hyphens, spaces and case (déjà vu / deja vu)
+        return re.sub(r"[\s\-'.]", '', strip_accents(e.lower()))
+    ex_norm = {ekey(k): v for k, v in examples.items()}
+    stp = f'{D}/levels/stress.json'
+    stress = json.load(open(stp, encoding='utf-8')) if os.path.exists(stp) else {}
     site = []
     for w in final:
         r = reg.get(w['en'], {})
-        tags = list(r.get('en', [])) + [l for l in ('abbreviation', 'technical') if l in w['labels']]
+        q = qa.get(w['en'], {})
+        tags = sorted(set(r.get('en', [])) | set(q.get('reg', []))) + [l for l in ('abbreviation', 'technical') if l in w['labels']]
         topics = [l for l in w['labels'] if l not in USAGE]
-        ex = examples.get(w['en']) or {}
+        ex = examples.get(w['en']) or ex_norm.get(ekey(w['en'])) or {}
+        if q.get('ex'):
+            ex = {'ex': q['ex'], 'note': q.get('note', ex.get('note', ''))}
+        elif 'note' in q:
+            ex = dict(ex, note=q['note'])
         if ex.get('ex'):
             w['examples'] = [e for e in ex['ex'] if isinstance(e, str)][:4]
         if ex.get('note'):
@@ -344,8 +409,17 @@ def main():
             rec['note'] = w['en_note']
         if w.get('examples'):
             rec['examples'] = w['examples']
-        if r.get('uk_nonstd'):
+        if r.get('uk_nonstd') or q.get('ns'):
             rec['ns'] = 1
+        en_reg = set(r.get('en', [])) | set(q.get('reg', []))
+        if en_reg & {'vulgar', 'offensive', 'derogatory'}:
+            rec['rude'] = 1
+        if w['en'] in stress:
+            rec['st'] = stress[w['en']]
+        if q.get('gram'):
+            rec['gram'] = q['gram']
+        if q.get('say'):
+            rec['say'] = q['say']
         if w['en'] in audio['words']:
             rec['au'] = audio['words'][w['en']]
         site.append(rec)

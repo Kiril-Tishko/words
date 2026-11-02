@@ -1,0 +1,708 @@
+{
+ "tango": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a tango · tangos",
+  "say": "",
+  "ex": [
+   "We danced a tango at my sister's wedding.",
+   "The tango comes from Argentina and Uruguay.",
+   "I want to take tango lessons this year.",
+   "Can you teach me to dance the tango?"
+  ],
+  "note": ""
+ },
+ "task": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a task · tasks",
+  "say": "",
+  "note": ""
+ },
+ "stalking": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "stalking · uncountable",
+  "say": "",
+  "ex": [
+   "Stalking is a serious crime in many countries.",
+   "She told the police about the stalking.",
+   "Online stalking can make people feel very unsafe.",
+   "If someone is stalking you, call the police."
+  ],
+  "note": "Uncountable: \"stalking\", not \"a stalking\"."
+ },
+ "casting": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a casting · castings",
+  "say": "",
+  "ex": [
+   "The casting for the new movie starts on Monday.",
+   "She went to a casting for a TV commercial.",
+   "Hundreds of young actors came to the casting.",
+   "Where can I find a casting for models?"
+  ],
+  "note": "Also a form of the verb \"cast\": \"casting a vote\", \"casting a shadow\"."
+ },
+ "adrenaline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "adrenaline · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a rush of adrenaline\" (not \"an adrenaline\")."
+ },
+ "spam": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "spam · uncountable",
+  "say": "",
+  "ex": [
+   "My inbox is full of spam again today.",
+   "This email filter blocks most of the spam.",
+   "Don't click on links in spam emails.",
+   "How do I stop all this spam on my phone?"
+  ],
+  "note": "Uncountable: some spam, a lot of spam (not \"a spam\")."
+ },
+ "savanna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a savanna · savannas",
+  "say": "",
+  "note": "Also spelled \"savannah\"."
+ },
+ "flora": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "flora · uncountable",
+  "say": "",
+  "ex": [
+   "The island has unique flora and fauna.",
+   "Scientists came here to study the local flora.",
+   "The desert flora can live with very little water.",
+   "This park is famous for its rare mountain flora."
+  ],
+  "note": "Formal; in everyday English say \"plants\"."
+ },
+ "morphine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "morphine · uncountable",
+  "say": "",
+  "note": "Uncountable: some morphine (not \"a morphine\")."
+ },
+ "home run": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": true,
+  "gram": "a home run · home runs",
+  "say": "",
+  "note": "A baseball word; \"hit a home run\" can also mean have a big success."
+ },
+ "business model": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a business model · business models",
+  "say": "",
+  "note": ""
+ },
+ "fast food": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "fast food · uncountable",
+  "say": "",
+  "note": "Uncountable: some fast food (not \"a fast food\")."
+ },
+ "rock and roll": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "rock and roll · uncountable",
+  "say": "",
+  "note": "Also written \"rock 'n' roll\"."
+ },
+ "grand prix": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a grand prix · grands prix",
+  "say": "",
+  "ex": [
+   "Thousands of fans came to watch the grand prix.",
+   "The grand prix starts on Sunday afternoon.",
+   "She finished second in the grand prix race.",
+   "Where can we watch the grand prix on TV?"
+  ],
+  "note": "Usually a big car race; plural \"grands prix\". Also the top prize at a festival."
+ },
+ "pop-up": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a pop-up · pop-ups",
+  "say": "",
+  "note": "Also \"a pop-up shop\": a store that is open only for a short time."
+ },
+ "cross-country": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "cross-country · uncountable",
+  "say": "",
+  "note": "Also \"a cross-country trip\": a trip across a whole country."
+ },
+ "lift": {
+  "v": "partial_false_friend",
+  "s": 7,
+  "reg": [],
+  "ns": false,
+  "gram": "a lift · lifts",
+  "say": "",
+  "ex": [
+   "Take the lift to the fifth floor.",
+   "Sorry, the lift is out of order today.",
+   "Where is the lift in this hotel?",
+   "The lift was full, so we took the stairs."
+  ],
+  "note": "Most often \"lift\" means raise: \"Lift the box.\" The elevator sense is British; in the US say \"elevator\"."
+ },
+ "major": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a major · majors",
+  "say": "",
+  "note": "Most often \"major\" means big or important: \"a major problem.\""
+ },
+ "mango": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mango · mangoes",
+  "say": "",
+  "ex": [
+   "I eat a sweet mango for breakfast every day.",
+   "Can I have a mango smoothie, please?",
+   "Mangoes grow well in hot countries.",
+   "Cut the mango into small pieces for the salad."
+  ],
+  "note": "Plural: \"mangoes\" or \"mangos\"."
+ },
+ "cinnamon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "cinnamon · uncountable",
+  "say": "",
+  "note": "Uncountable: some cinnamon (not \"a cinnamon\")."
+ },
+ "trio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a trio · trios",
+  "say": "",
+  "note": ""
+ },
+ "impact": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an impact · impacts",
+  "say": "",
+  "note": "Say \"have an impact on\": \"Sleep has an impact on health.\""
+ },
+ "security": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": true,
+  "gram": "security · uncountable",
+  "say": "",
+  "note": "Most often \"security\" means safety: \"national security\", \"job security\"."
+ },
+ "Yankee": {
+  "v": "proper_noun",
+  "s": 35,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a Yankee · Yankees",
+  "say": "",
+  "note": "Often part of a baseball team's name; for an American it is informal and can sound rude."
+ },
+ "distributor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a distributor · distributors",
+  "say": "",
+  "note": ""
+ },
+ "alcoholic": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an alcoholic · alcoholics",
+  "say": "",
+  "ex": [
+   "My uncle is a recovering alcoholic now.",
+   "Her father was an alcoholic for many years.",
+   "This group helps alcoholics stop drinking.",
+   "An alcoholic needs support from family and friends."
+  ],
+  "note": "Also an adjective: \"alcoholic drinks\" (drinks with alcohol)."
+ },
+ "dioxide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "dioxide · uncountable",
+  "say": "",
+  "ex": [
+   "Plants take in carbon dioxide from the air.",
+   "Cars produce a lot of carbon dioxide.",
+   "Too much carbon dioxide is bad for the planet.",
+   "Carbon dioxide levels in the air keep rising."
+  ],
+  "note": "Almost always with another word: \"carbon dioxide\"."
+ },
+ "tracker": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a tracker · trackers",
+  "say": "",
+  "note": ""
+ },
+ "hippie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hippie · hippies",
+  "say": "",
+  "ex": [
+   "My parents were hippies in the 1960s.",
+   "The hippie had long hair and flowers.",
+   "He drives an old hippie van with flowers.",
+   "Hippies sang songs about peace and love."
+  ],
+  "note": "Also spelled \"hippy\"."
+ },
+ "volleyball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "volleyball · uncountable",
+  "say": "",
+  "note": "The game is uncountable: \"play volleyball\". The ball is \"a volleyball\"."
+ },
+ "editorial": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "gram": "an editorial · editorials",
+  "say": "",
+  "ex": [
+   "The newspaper's editorial criticized the new city plan.",
+   "She writes editorials for a weekly magazine.",
+   "Did you read today's editorial in the paper?",
+   "The editorial asks the city for new bike lanes."
+  ],
+  "note": "Also an adjective: \"the editorial team\" (the people who edit)."
+ },
+ "surfing": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "surfing · uncountable",
+  "say": "",
+  "ex": [
+   "We went surfing early in the morning.",
+   "Surfing is very popular in Australia.",
+   "Where can I rent a board for surfing?",
+   "The waves are perfect for surfing today."
+  ],
+  "note": "Also \"surfing the web\": going from one website to the next."
+ },
+ "racist": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a racist · racists",
+  "say": "",
+  "note": "Most often \"racist\" is an adjective: \"a racist joke\"."
+ },
+ "podcast": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a podcast · podcasts",
+  "say": "",
+  "note": ""
+ },
+ "cartridge": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a cartridge · cartridges",
+  "say": "",
+  "ex": [
+   "The printer needs a new ink cartridge.",
+   "Where can I buy black ink cartridges?",
+   "Change the water filter cartridge every three months.",
+   "This old game cartridge still works perfectly."
+  ],
+  "note": "Also a bullet in its case for a gun: \"a rifle cartridge\"."
+ },
+ "background": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a background · backgrounds",
+  "say": "",
+  "ex": [
+   "She has a background in nursing and teaching.",
+   "People here come from very different backgrounds.",
+   "His background is in sales and marketing.",
+   "Can you tell me about your background?"
+  ],
+  "note": "Also the back part of a picture: \"a photo with a blue background\"."
+ },
+ "caramel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "caramel · uncountable",
+  "say": "",
+  "note": "Uncountable as a food; \"a caramel\" is one candy."
+ },
+ "monarch": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a monarch · monarchs",
+  "say": "",
+  "ex": [
+   "The monarch gave a speech on TV today.",
+   "Britain and Spain still have a monarch.",
+   "The young monarch ruled for fifty years.",
+   "The old monarch lived in this castle."
+  ],
+  "note": "Also a kind of butterfly: \"a monarch butterfly\"."
+ },
+ "holocaust": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the Holocaust",
+  "say": "",
+  "ex": [
+   "Her grandparents survived the Holocaust as children.",
+   "We visited a museum about the Holocaust.",
+   "Students learn about the Holocaust in history class.",
+   "Many films tell true stories from the Holocaust."
+  ],
+  "note": "Usually capitalized with \"the\" when it means the Nazi genocide."
+ },
+ "consul": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a consul · consuls",
+  "say": "",
+  "note": ""
+ },
+ "precedent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a precedent · precedents",
+  "say": "",
+  "note": "Common phrase: \"set a precedent\"."
+ },
+ "log": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a log · logs",
+  "say": "",
+  "ex": [
+   "Check the log to find the error.",
+   "The server keeps a log of all visits.",
+   "Can you send me the error log, please?",
+   "The app saves a new log every day."
+  ],
+  "note": "Also a thick piece of a tree, and the verb \"log in\": \"Log in with your password.\""
+ },
+ "gambler": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a gambler · gamblers",
+  "say": "",
+  "note": ""
+ },
+ "mega": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "That was a mega party last night.",
+   "The band had a mega hit this summer.",
+   "They built a mega mall near our house.",
+   "Our school concert was a mega success."
+  ],
+  "note": "Informal. Also a word part: \"megastore\", \"megabyte\"."
+ },
+ "lemonade": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "lemonade · uncountable",
+  "say": "",
+  "note": "In the US, lemonade is lemon juice, water, and sugar, usually not fizzy."
+ },
+ "delta": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a delta · deltas",
+  "say": "",
+  "note": "Also the Greek letter Δ, which means \"change\" in math and science."
+ },
+ "lime": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a lime · limes",
+  "say": "",
+  "note": ""
+ },
+ "vacuum": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a vacuum · vacuums",
+  "say": "",
+  "note": "Often means a vacuum cleaner, or to clean with one: \"I vacuum the floor.\""
+ },
+ "processor": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a processor · processors",
+  "say": "",
+  "note": "Also \"a food processor\": a kitchen machine that cuts and mixes food."
+ },
+ "emir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an emir · emirs",
+  "say": "",
+  "note": ""
+ },
+ "intellectual": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "an intellectual · intellectuals",
+  "say": "",
+  "ex": [
+   "He is an intellectual who reads all the time.",
+   "Many intellectuals left the country after the war.",
+   "She was a leading intellectual of her time.",
+   "The cafe was full of artists and intellectuals."
+  ],
+  "note": "Most often \"intellectual\" is an adjective: \"intellectual work\"."
+ },
+ "socialism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "socialism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "psychopath": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a psychopath · psychopaths",
+  "say": "",
+  "ex": [
+   "The killer in the movie was a psychopath.",
+   "A psychopath often feels no guilt or fear.",
+   "Don't call him a psychopath just because he's rude.",
+   "Is the main character in this book a psychopath?"
+  ],
+  "note": ""
+ },
+ "scorpion": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a scorpion · scorpions",
+  "say": "",
+  "ex": [
+   "A scorpion was hiding in my shoe this morning.",
+   "Some scorpions have a very dangerous sting.",
+   "Scorpions live in hot and dry places.",
+   "Check your boots for scorpions in the desert."
+  ],
+  "note": "The star sign is \"Scorpio\", not \"Scorpion\"."
+ },
+ "insulin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "insulin · uncountable",
+  "say": "",
+  "note": "Uncountable: \"take insulin\"."
+ },
+ "update": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "an update · updates",
+  "say": "",
+  "ex": [
+   "My phone needs an update again.",
+   "The new update fixed the bug in the app.",
+   "I will send you an update tomorrow morning.",
+   "Can you give me a quick update on the project?"
+  ],
+  "note": "Also a verb: \"Please update the app.\""
+ },
+ "jackpot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a jackpot · jackpots",
+  "say": "",
+  "ex": [
+   "She won the lottery jackpot last year.",
+   "The jackpot is now ten million dollars.",
+   "Nobody won the jackpot this week.",
+   "The slot machine paid out the jackpot."
+  ],
+  "note": "Idiom: \"hit the jackpot\" means have great luck."
+ },
+ "waltz": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a waltz · waltzes",
+  "say": "",
+  "note": ""
+ },
+ "genocide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "genocide · uncountable",
+  "say": "",
+  "ex": [
+   "The genocide killed millions of people.",
+   "The court called the killings genocide.",
+   "We must never forget the victims of genocide.",
+   "The two leaders are accused of genocide."
+  ],
+  "note": "Usually uncountable: \"an act of genocide\"."
+ },
+ "diarrhea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "diarrhea · uncountable",
+  "say": "",
+  "ex": [
+   "He got diarrhea after drinking the tap water.",
+   "Drink plenty of water if you have diarrhea.",
+   "This medicine can sometimes cause diarrhea.",
+   "Do you have anything for diarrhea, please?"
+  ],
+  "note": "Uncountable: \"have diarrhea\". British spelling: \"diarrhoea\"."
+ }
+}

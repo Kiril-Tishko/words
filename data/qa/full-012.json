@@ -1,0 +1,728 @@
+{
+ "manual": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a manual · manuals",
+  "say": "",
+  "note": "Most often \"manual\" is an adjective meaning done by hand: \"manual work.\""
+ },
+ "defect": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a defect · defects",
+  "say": "",
+  "ex": [
+   "The phone had a defect, so I took it back.",
+   "Check the shoes for defects before you buy them.",
+   "Is this a defect, or did I break it?",
+   "The shop changed my TV because of a defect."
+  ],
+  "note": ""
+ },
+ "referee": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a referee · referees",
+  "say": "",
+  "ex": [
+   "The referee gave him a yellow card.",
+   "The players argued with the referee after the goal.",
+   "She works as a referee for basketball games.",
+   "Why did the referee stop the game?"
+  ],
+  "note": ""
+ },
+ "diving": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "diving · uncountable",
+  "say": "",
+  "ex": [
+   "We went diving near the coral reef.",
+   "Diving is my favorite summer activity.",
+   "She took a diving course on her vacation.",
+   "Can I go diving if I can't swim well?"
+  ],
+  "note": "Uncountable. Also jumping into water head first: \"a diving board.\" Say \"go diving.\""
+ },
+ "prank": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a prank · pranks",
+  "say": "",
+  "note": "\"Play a prank on someone\", not \"make a prank\"."
+ },
+ "vector": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a vector · vectors",
+  "say": "",
+  "ex": [
+   "A vector has both size and direction.",
+   "In math class, we draw a vector as an arrow.",
+   "Can you add these two vectors for me?",
+   "Wind speed and direction can be shown as a vector."
+  ],
+  "note": ""
+ },
+ "olein": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "olein · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "mineral": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a mineral · minerals",
+  "say": "",
+  "ex": [
+   "Milk is rich in minerals like calcium.",
+   "Iron is an important mineral for your body.",
+   "This rock contains many different minerals.",
+   "Do these vitamins have minerals in them too?"
+  ],
+  "note": ""
+ },
+ "artifact": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an artifact · artifacts",
+  "say": "",
+  "note": "American spelling; British English uses \"artefact\"."
+ },
+ "hack": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a hack · hacks",
+  "say": "",
+  "note": "Most often \"hack\" is a verb: \"Someone hacked my email.\""
+ },
+ "general": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a general · generals",
+  "say": "",
+  "ex": [
+   "The general gave an order to the soldiers.",
+   "He became a general in the army.",
+   "The general spoke on TV about the war.",
+   "My grandfather was a general in the army."
+  ],
+  "note": "Most often \"general\" is an adjective: \"a general idea\", \"in general\"."
+ },
+ "scanner": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a scanner · scanners",
+  "say": "",
+  "note": ""
+ },
+ "panda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a panda · pandas",
+  "say": "",
+  "ex": [
+   "The panda is eating bamboo at the zoo.",
+   "Can we go and see the pandas today?",
+   "Pandas live in the mountains of China.",
+   "My daughter loves her soft toy panda."
+  ],
+  "note": ""
+ },
+ "bolt": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a bolt · bolts",
+  "say": "",
+  "note": "Also a bar that locks a door, and \"a bolt of lightning.\""
+ },
+ "diver": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a diver · divers",
+  "say": "",
+  "ex": [
+   "The diver swam down to the old ship.",
+   "Divers found the lost phone in the lake.",
+   "She teaches new divers how to breathe underwater.",
+   "How deep can a diver go with this tank?"
+  ],
+  "note": ""
+ },
+ "tutor": {
+  "v": "partial_false_friend",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a tutor · tutors",
+  "say": "",
+  "ex": [
+   "Each new student at the college gets a tutor.",
+   "Ask your tutor if you need help with the course.",
+   "My online course has a tutor who answers questions.",
+   "I meet my tutor every week to discuss my work."
+  ],
+  "note": "Most often a \"tutor\" is a private teacher: \"I have a math tutor.\""
+ },
+ "asteroid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an asteroid · asteroids",
+  "say": "",
+  "ex": [
+   "A small asteroid passed close to Earth last night.",
+   "Scientists think an asteroid killed the dinosaurs.",
+   "Can we see the asteroid without a telescope?",
+   "This asteroid is about two miles wide."
+  ],
+  "note": ""
+ },
+ "stereo": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "stereo · uncountable",
+  "say": "",
+  "ex": [
+   "This old song was recorded in stereo.",
+   "Does this speaker play music in stereo?",
+   "You need two speakers to hear the music in stereo.",
+   "The movie sounds much better in stereo."
+  ],
+  "note": "Most often \"a stereo\" is a music system: \"Turn on the stereo.\""
+ },
+ "trafficking": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "trafficking · uncountable",
+  "say": "",
+  "ex": [
+   "Human trafficking is a serious crime in every country.",
+   "Police rescued twelve victims of human trafficking.",
+   "The new law helps fight human trafficking at the border.",
+   "Where can victims of trafficking get help?"
+  ],
+  "note": "Most often about drugs: \"drug trafficking.\" For people, say \"human trafficking.\""
+ },
+ "module": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a module · modules",
+  "say": "",
+  "note": ""
+ },
+ "fax": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a fax · faxes",
+  "say": "",
+  "ex": [
+   "Please send me a fax with the signed contract.",
+   "Does your office still have a fax machine?",
+   "I got a fax from the bank this morning.",
+   "Very few people send faxes these days."
+  ],
+  "note": ""
+ },
+ "autograph": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an autograph · autographs",
+  "say": "",
+  "ex": [
+   "She asked the actor for his autograph.",
+   "Can I have your autograph, please?",
+   "The fans waited outside the stadium for autographs.",
+   "He signed autographs for an hour after the game."
+  ],
+  "note": ""
+ },
+ "brandy": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "brandy · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "barber": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a barber · barbers",
+  "say": "",
+  "note": "\"Barbershop\" is the place: \"I go to the barbershop.\""
+ },
+ "panel": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a panel · panels",
+  "say": "",
+  "note": "Often a group of experts: \"a panel of judges\", \"a panel discussion.\""
+ },
+ "slogan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a slogan · slogans",
+  "say": "",
+  "note": ""
+ },
+ "rapper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a rapper · rappers",
+  "say": "",
+  "note": ""
+ },
+ "antenna": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an antenna · antennas",
+  "say": "",
+  "ex": [
+   "We need to put the antenna on the roof.",
+   "The TV antenna broke in the storm.",
+   "Can you move the antenna? The picture is bad.",
+   "This old radio has a long antenna."
+  ],
+  "note": "Plural: \"antennas\" (devices) or \"antennae\" (insects)."
+ },
+ "cartel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cartel · cartels",
+  "say": "",
+  "note": ""
+ },
+ "yogurt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "yogurt · uncountable",
+  "say": "",
+  "note": "Usually uncountable: \"some yogurt\", but \"a cup of yogurt\"."
+ },
+ "bikini": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bikini · bikinis",
+  "say": "",
+  "note": ""
+ },
+ "ooh la la": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Ooh la la, you look great in that dress!",
+   "Ooh la la, this cake looks really expensive.",
+   "He saw the new car and said, \"Ooh la la!\"",
+   "Ooh la la, is that a new watch?"
+  ],
+  "note": "A playful, joking way to say something looks fancy or sexy."
+ },
+ "antibiotic": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an antibiotic · antibiotics",
+  "say": "",
+  "ex": [
+   "The doctor gave me antibiotics for my throat.",
+   "Take the antibiotics for seven full days.",
+   "Do I need a prescription for these antibiotics?",
+   "Antibiotics do not work against a cold."
+  ],
+  "note": "Usually plural: \"take antibiotics\", \"be on antibiotics\"."
+ },
+ "sushi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "sushi · uncountable",
+  "say": "",
+  "ex": [
+   "We had sushi for dinner last night.",
+   "She learned to make sushi at home.",
+   "This restaurant serves very fresh sushi.",
+   "Do you eat sushi with chopsticks?"
+  ],
+  "note": "Uncountable: \"some sushi\", \"a piece of sushi\"."
+ },
+ "bingo": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "bingo · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "sabotage": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "sabotage · uncountable",
+  "say": "",
+  "note": "Uncountable: \"an act of sabotage\"."
+ },
+ "prototype": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a prototype · prototypes",
+  "say": "",
+  "note": ""
+ },
+ "syrup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "syrup · uncountable",
+  "say": "",
+  "ex": [
+   "Pour some syrup on your pancakes.",
+   "This cough syrup tastes really bad.",
+   "Can I have vanilla syrup in my coffee?",
+   "Do you have any maple syrup for the waffles?"
+  ],
+  "note": ""
+ },
+ "convoy": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a convoy · convoys",
+  "say": "",
+  "ex": [
+   "A convoy of trucks brought food to the city.",
+   "The military convoy moved slowly at night.",
+   "The convoy stopped at the border for hours.",
+   "Two police cars drove at the front of the convoy."
+  ],
+  "note": ""
+ },
+ "courier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a courier · couriers",
+  "say": "",
+  "ex": [
+   "A courier brought the package this morning.",
+   "Can you send the documents by courier?",
+   "The courier rang the doorbell twice.",
+   "He works as a bike courier in the city."
+  ],
+  "note": ""
+ },
+ "diplomat": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a diplomat · diplomats",
+  "say": "",
+  "note": ""
+ },
+ "pact": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a pact · pacts",
+  "say": "",
+  "ex": [
+   "The two countries signed a peace pact.",
+   "The pact between the countries lasted two years.",
+   "The leaders broke the pact after a few months.",
+   "Is the trade pact good for small businesses?"
+  ],
+  "note": ""
+ },
+ "spaghetti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "spaghetti · uncountable",
+  "say": "",
+  "ex": [
+   "We had spaghetti with meatballs for dinner.",
+   "Cook the spaghetti for ten minutes.",
+   "My kids love spaghetti with tomato sauce.",
+   "Can I have more spaghetti, please?"
+  ],
+  "note": "Uncountable: \"some spaghetti\", not \"spaghettis\"."
+ },
+ "metro": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "the metro",
+  "say": "",
+  "note": "In the US, \"metro\" often means a big city area; the trains are usually the \"subway.\""
+ },
+ "dev": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a dev · devs",
+  "say": "",
+  "ex": [
+   "Our team needs one more dev for the app.",
+   "The devs fixed the bug in two days.",
+   "Can you ask a dev to check this error?",
+   "She works as a web dev for a small company."
+  ],
+  "note": "Short for \"developer\", a person who writes code."
+ },
+ "follower": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a follower · followers",
+  "say": "",
+  "note": "Also a person who supports a leader or a religion: \"his loyal followers.\""
+ },
+ "delegate": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a delegate · delegates",
+  "say": "",
+  "note": ""
+ },
+ "interface": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an interface · interfaces",
+  "say": "",
+  "note": ""
+ },
+ "watt": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a watt · watts",
+  "say": "",
+  "ex": [
+   "This light bulb uses sixty watts.",
+   "How many watts does this microwave use?",
+   "The speaker has one hundred watts of power.",
+   "Buy a bulb with fewer watts to save energy."
+  ],
+  "note": ""
+ },
+ "parasite": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a parasite · parasites",
+  "say": "",
+  "ex": [
+   "The dog got a parasite from dirty water.",
+   "Some parasites live inside other animals.",
+   "The doctor found a parasite in his stomach.",
+   "Wash fruit well to avoid parasites."
+  ],
+  "note": ""
+ },
+ "gel": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "gel · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "hate": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "hate · uncountable",
+  "say": "",
+  "note": "Most often \"hate\" is a verb: \"I hate rain.\""
+ },
+ "queer": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Once an insult; now used with care, mostly by the community itself."
+ },
+ "gaming": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "gaming · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "muffin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a muffin · muffins",
+  "say": "",
+  "note": ""
+ },
+ "open source": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "open source · uncountable",
+  "say": "",
+  "ex": [
+   "He works on open source in his free time.",
+   "Many popular apps are built on open source.",
+   "Is this program open source, or do I pay?",
+   "Open source means anyone can see and change the code."
+  ],
+  "note": ""
+ },
+ "box office": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "the box office",
+  "say": "",
+  "ex": [
+   "The movie was a big hit at the box office.",
+   "The film made fifty million dollars at the box office.",
+   "How did the new movie do at the box office?",
+   "Box office sales were low this summer."
+  ],
+  "note": "Also the place where you buy tickets: \"Buy tickets at the box office.\""
+ },
+ "trade union": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a trade union · trade unions",
+  "say": "",
+  "note": "British; in the US say \"labor union\" or \"union\"."
+ },
+ "bitcoin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "bitcoin · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "transit": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "transit · uncountable",
+  "say": "",
+  "ex": [
+   "Our luggage was lost in transit.",
+   "We waited three hours in transit at the airport.",
+   "Do I need a visa for transit through this country?",
+   "The package is still in transit, so please wait."
+  ],
+  "note": "In the US, \"transit\" most often means buses and trains: \"public transit.\""
+ }
+}

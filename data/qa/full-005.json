@@ -1,0 +1,784 @@
+{
+ "mmm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Shows you like a taste or smell, or that you are thinking: \"Mmm, good!\"",
+  "ex": [
+   "Mmm, this soup is really good.",
+   "Mmm, can I have another piece of cake?",
+   "Mmm, that smells great. What are you cooking?",
+   "Mmm, let me think about it for a minute."
+  ]
+ },
+ "link": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a link · links",
+  "say": "click on a link · send a link",
+  "note": "Often \"link\" means a connection: \"a link between sleep and health.\"",
+  "ex": [
+   "Can you send me the link, please?",
+   "Click on the link to buy tickets.",
+   "This link doesn't work. Can you check it?",
+   "I put the link to the video in the chat."
+  ]
+ },
+ "trailer": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a trailer · trailers",
+  "say": "watch a trailer · the trailer for a movie",
+  "note": "Also means a vehicle pulled behind a car or truck.",
+  "ex": [
+   "Have you seen the trailer for the new movie?",
+   "The trailer looks good. Let's watch the movie.",
+   "They show a lot of trailers before the film.",
+   "We put our bikes in a small trailer behind the car."
+  ]
+ },
+ "final": {
+  "v": "keep",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a final · finals",
+  "say": "in the final · watch the final",
+  "note": "Most often \"final\" means last: \"my final answer.\" In the US, \"finals\" are also end-of-year exams.",
+  "ex": [
+   "Are you going to watch the final tonight?",
+   "Our team is in the final this year!",
+   "They lost the final by one goal.",
+   "The tickets for the final are very expensive."
+  ]
+ },
+ "market": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": true,
+  "gram": "a market · markets",
+  "say": "at the market · on the market",
+  "note": "Most often \"market\" means buying and selling: \"the job market,\" \"the stock market.\"",
+  "ex": [
+   "I need to go to the market for milk.",
+   "Is there a market near your hotel?",
+   "The little market on our street opens at seven.",
+   "Can you buy some bread at the market?"
+  ]
+ },
+ "opera": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an opera · operas",
+  "say": "go to the opera · at the opera",
+  "note": "",
+  "ex": [
+   "Do you want to go to the opera tonight?",
+   "We have two tickets for the opera on Saturday.",
+   "She sings opera in Italian and French.",
+   "The opera starts at seven, so don't be late."
+  ]
+ },
+ "oxygen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "oxygen · uncountable",
+  "say": "breathe oxygen · an oxygen mask",
+  "note": "Uncountable: some oxygen, not \"an oxygen.\"",
+  "ex": [
+   "We need oxygen to breathe and live.",
+   "The doctor gave him oxygen through a mask.",
+   "Trees and plants give us oxygen every day.",
+   "There is less oxygen high in the mountains."
+  ]
+ },
+ "character": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a character · characters",
+  "say": "a strong character · build character",
+  "note": "Most often \"character\" means a person in a story or film: \"my favorite character.\"",
+  "ex": [
+   "My sister has a strong character and never gives up.",
+   "The two brothers look the same but have different characters.",
+   "Hard work at school can build character.",
+   "Her calm character helps a lot in difficult times."
+  ]
+ },
+ "tennis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "tennis · uncountable",
+  "say": "play tennis · a tennis court",
+  "note": "No article: \"play tennis,\" not \"play the tennis.\""
+ },
+ "drama": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a drama · dramas",
+  "say": "a TV drama · drama class",
+  "note": "Informal: \"drama\" also means silly fights between people: \"Stop the drama!\"",
+  "ex": [
+   "Do you like comedies or dramas more?",
+   "My daughter takes drama classes after school.",
+   "We watched a new crime drama on TV last night.",
+   "This film is a sad drama about a family."
+  ]
+ },
+ "burger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a burger · burgers",
+  "say": "a burger and fries",
+  "note": ""
+ },
+ "formula": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a formula · formulas",
+  "say": "a formula for",
+  "note": "In the US, \"formula\" is also milk powder for babies."
+ },
+ "chill": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "chill out · chill at home",
+  "note": "Slang for \"relax,\" often \"chill out.\" Most often \"chill\" means cold: \"a chill in the air.\"",
+  "ex": [
+   "Let's just chill at home tonight.",
+   "I want to chill after work today.",
+   "Do you want to chill at my place?",
+   "We chilled by the pool all afternoon."
+  ]
+ },
+ "motor": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a motor · motors",
+  "say": "an electric motor",
+  "note": "For cars, people usually say \"engine\": \"The car has a new engine.\"",
+  "ex": [
+   "The boat has a small motor at the back.",
+   "The motor in my washing machine stopped working.",
+   "This fan has a very quiet motor.",
+   "Can you fix the motor, or do I need a new one?"
+  ]
+ },
+ "motive": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a motive · motives",
+  "say": "a motive for",
+  "note": ""
+ },
+ "strike": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a strike · strikes",
+  "say": "on strike · go on strike",
+  "note": "Most often \"strike\" is a verb meaning to hit: \"Lightning struck the tree.\"",
+  "ex": [
+   "The workers are on strike again this week.",
+   "Is there a train strike tomorrow?",
+   "The teachers went on strike for better pay.",
+   "Because of the strike, the buses are not running."
+  ]
+ },
+ "info": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "info · uncountable",
+  "say": "more info · info about",
+  "note": "Informal and uncountable: some info (not \"an info\"). The full word is \"information.\"",
+  "ex": [
+   "Thanks for the info, it really helps.",
+   "Can you send me more info about the job?",
+   "I need some info about the trip.",
+   "You can find more info on our website."
+  ]
+ },
+ "assist": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "an assist · assists",
+  "say": "make an assist",
+  "note": "Most often \"assist\" is a formal verb meaning help: \"Can I assist you?\"",
+  "ex": [
+   "He scored one goal and made two assists.",
+   "She had five assists in the last game.",
+   "That was a great assist from the captain!",
+   "Who made the assist for the first goal?"
+  ]
+ },
+ "specialist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a specialist · specialists",
+  "say": "see a specialist · a specialist in",
+  "note": ""
+ },
+ "makeup": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "makeup · uncountable",
+  "say": "wear makeup · put on makeup",
+  "note": "Uncountable: some makeup, not \"a makeup.\"",
+  "ex": [
+   "She doesn't wear much makeup to work.",
+   "Take off your makeup before you go to bed.",
+   "Where can I buy good makeup for sensitive skin?",
+   "It takes me ten minutes to put on makeup."
+  ]
+ },
+ "cable": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a cable · cables",
+  "say": "a charging cable · plug in a cable",
+  "note": "In the US, \"cable\" also means cable TV: \"We don't have cable.\"",
+  "ex": [
+   "Do you have a phone cable I can use?",
+   "This cable is too short for my laptop.",
+   "Plug the cable into the back of the TV.",
+   "I need a new charging cable for my phone."
+  ]
+ },
+ "throne": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a throne · thrones",
+  "say": "on the throne",
+  "note": ""
+ },
+ "casino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a casino · casinos",
+  "say": "at the casino",
+  "note": ""
+ },
+ "hall": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a hall · halls",
+  "say": "in the hall",
+  "note": "Often \"hall\" means a big room or building: \"a concert hall,\" \"the town hall.\"",
+  "ex": [
+   "Please wait for me in the hall downstairs.",
+   "You can leave your shoes in the hall.",
+   "We hung our coats in the front hall.",
+   "Is there a mirror in the hall?"
+  ]
+ },
+ "hockey": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "hockey · uncountable",
+  "say": "play hockey · a hockey game",
+  "note": "In American English \"hockey\" means ice hockey."
+ },
+ "accent": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an accent · accents",
+  "say": "a strong accent · speak with an accent",
+  "note": "",
+  "ex": [
+   "She speaks English with a strong French accent.",
+   "I love your accent. Where are you from?",
+   "My accent is not perfect, but people understand me.",
+   "It is hard to lose an accent as an adult."
+  ]
+ },
+ "component": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a component · components",
+  "say": "a key component",
+  "note": "",
+  "ex": [
+   "This computer has very cheap components inside.",
+   "One component of the machine is broken.",
+   "Each component comes in a separate box.",
+   "Check every component before you start the job."
+  ]
+ },
+ "auction": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an auction · auctions",
+  "say": "at auction · sell at auction",
+  "note": ""
+ },
+ "pirate": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a pirate · pirates",
+  "say": "a pirate ship",
+  "note": "Also a person who copies films or music illegally.",
+  "ex": [
+   "The pirates attacked the ship at night.",
+   "My son wants to dress up as a pirate.",
+   "We read a book about pirates and gold.",
+   "The movie is about a famous pirate captain."
+  ]
+ },
+ "CD": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a CD · CDs",
+  "say": "on CD · play a CD",
+  "note": ""
+ },
+ "coach": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a coach · coaches",
+  "say": "a life coach · a business coach",
+  "note": "Most often \"coach\" means a sports trainer: \"Our coach makes us run a lot.\"",
+  "ex": [
+   "She works as a life coach for busy parents.",
+   "My business coach helps me plan my week.",
+   "I hired a career coach to find a new job.",
+   "Do you think a coach can help me speak better?"
+  ]
+ },
+ "portrait": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a portrait · portraits",
+  "say": "paint a portrait · a portrait of",
+  "note": ""
+ },
+ "context": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a context · contexts",
+  "say": "in this context · out of context",
+  "note": "",
+  "ex": [
+   "Guess the meaning of the word from the context.",
+   "Read the whole text to understand the context.",
+   "This word has a different meaning in this context.",
+   "Can you give me some context? I don't understand."
+  ]
+ },
+ "whiskey": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a whiskey · whiskeys",
+  "say": "a glass of whiskey",
+  "note": "Also spelled \"whisky,\" especially for Scotch.",
+  "ex": [
+   "He likes his whiskey with a little ice.",
+   "This whiskey is twelve years old.",
+   "Can I have a glass of whiskey, please?",
+   "We had a whiskey together after dinner."
+  ]
+ },
+ "retreat": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a retreat · retreats",
+  "say": "go on a retreat · a yoga retreat",
+  "note": "Often \"retreat\" means to move back, away from danger: \"The army had to retreat.\"",
+  "ex": [
+   "We are going on a yoga retreat in the mountains.",
+   "Our company has a team retreat every spring.",
+   "She spent a week at a quiet retreat by the lake.",
+   "How much does the weekend retreat cost?"
+  ]
+ },
+ "organ": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an organ · organs",
+  "say": "an organ donor",
+  "note": "Also a big musical instrument in a church: \"She plays the organ.\"",
+  "ex": [
+   "The heart is a very important organ.",
+   "He needs a new organ from a donor.",
+   "The liver is the largest organ inside the body.",
+   "Smoking can damage many organs in your body."
+  ]
+ },
+ "critic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a critic · critics",
+  "say": "a film critic · a food critic",
+  "note": "A critic is a person; the article or opinion is a review.",
+  "ex": [
+   "The critics loved the new film.",
+   "She works as a food critic for a magazine.",
+   "The critic gave the movie four stars.",
+   "My dad is always my biggest critic."
+  ]
+ },
+ "track": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a track · tracks",
+  "say": "a track on the album · a race track",
+  "note": "Often \"track\" means a path or rails: \"a train track,\" \"keep track of time.\"",
+  "ex": [
+   "This is the best track on the album.",
+   "Can you send me the name of this track?",
+   "The runners go around the track four times.",
+   "I listen to this track every morning."
+  ]
+ },
+ "euro": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a euro · euros",
+  "say": "pay in euros",
+  "note": "Say \"a euro,\" not \"an euro\": it starts with a \"you\" sound.",
+  "ex": [
+   "The museum ticket costs fifty euros.",
+   "The euro is used in many countries.",
+   "Can I pay in euros or only in dollars?",
+   "How many euros do I need for the trip?"
+  ]
+ },
+ "don": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a don · dons",
+  "say": "a mafia don",
+  "note": "Most often \"Don\" is a man's name. \"To don\" means to put on clothes (formal)."
+ },
+ "scandal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a scandal · scandals",
+  "say": "a big scandal · a scandal about",
+  "note": "Not used for a loud family fight; say \"a fight\" or \"an argument.\""
+ },
+ "clown": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a clown · clowns",
+  "say": "the class clown",
+  "note": ""
+ },
+ "democrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a democrat · democrats",
+  "say": "",
+  "note": "In the US, usually with a capital D for the political party.",
+  "ex": [
+   "My parents have always been Democrats.",
+   "She is a Democrat and votes in every election.",
+   "The Democrats have a new plan for schools.",
+   "He is a true democrat and respects every vote."
+  ]
+ },
+ "operator": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an operator · operators",
+  "say": "a tour operator · a machine operator",
+  "note": "In the US, a phone company is usually a \"carrier,\" not an \"operator.\"",
+  "ex": [
+   "Call the operator if you need help.",
+   "He works as a machine operator in a factory.",
+   "Our tour operator booked a nice hotel for us.",
+   "The operator told me to wait for a minute."
+  ]
+ },
+ "minimum": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a minimum · minimums",
+  "say": "a minimum of · to a minimum",
+  "note": "",
+  "ex": [
+   "The minimum age for this job is 18.",
+   "You need a minimum of two hours for this.",
+   "Please keep the noise to a minimum after ten.",
+   "What is the minimum price for this car?"
+  ]
+ },
+ "finish": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a finish · finishes",
+  "say": "the finish line · a close finish",
+  "note": "Most often \"finish\" is a verb meaning to end: \"I finish work at six.\"",
+  "ex": [
+   "She ran all the way to the finish line.",
+   "The race had a very exciting finish.",
+   "Let's wait for the runners at the finish.",
+   "It was a close finish between the two cars."
+  ]
+ },
+ "veteran": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a veteran · veterans",
+  "say": "a war veteran",
+  "note": "Also means a person with long experience: a veteran teacher."
+ },
+ "jet": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "gram": "a jet · jets",
+  "say": "a private jet · jet lag",
+  "note": "",
+  "ex": [
+   "The jet flew low over the city.",
+   "He flies to work in his private jet.",
+   "The jet landed safely in the rain.",
+   "We could hear the noise of a jet above."
+  ]
+ },
+ "poster": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a poster · posters",
+  "say": "put up a poster",
+  "note": ""
+ },
+ "comrade": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a comrade · comrades",
+  "say": "",
+  "note": "Sounds old or political today; \"friend\" or \"fellow soldier\" is more common."
+ },
+ "zombie": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a zombie · zombies",
+  "say": "a zombie movie",
+  "note": ""
+ },
+ "trauma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "trauma · uncountable",
+  "say": "head trauma · deal with trauma",
+  "note": "Only for serious harm. For a small hurt, like a knee or sports injury, say \"injury.\"",
+  "ex": [
+   "He had head trauma after the car accident.",
+   "The war caused deep trauma for many people.",
+   "She sees a therapist to deal with her trauma.",
+   "Many children need help after this kind of trauma."
+  ]
+ },
+ "reply": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a reply · replies",
+  "say": "get a reply · in reply to",
+  "note": "Often \"reply\" is a verb: \"Please reply to my email.\"",
+  "ex": [
+   "Thanks for your quick reply to my email.",
+   "I'm still waiting for a reply from the bank.",
+   "Her funny reply got a lot of likes.",
+   "Read the replies under my post."
+  ]
+ },
+ "humor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "humor · uncountable",
+  "say": "a sense of humor",
+  "note": "Uncountable: \"a sense of humor.\" British spelling is \"humour.\""
+ },
+ "investor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an investor · investors",
+  "say": "find an investor",
+  "note": "",
+  "ex": [
+   "We need an investor for our small business.",
+   "The investors liked our idea very much.",
+   "He puts his money in tech as a small investor.",
+   "She has a meeting with two investors today."
+  ]
+ },
+ "barrier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a barrier · barriers",
+  "say": "a language barrier",
+  "note": ""
+ },
+ "dialogue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dialogue · dialogues",
+  "say": "a dialogue between",
+  "note": "Also spelled \"dialog\" in American English.",
+  "ex": [
+   "The movie has very funny dialogue.",
+   "We practiced a short dialogue in English class.",
+   "The two countries started a dialogue about peace.",
+   "Open dialogue between parents and kids is important."
+  ]
+ },
+ "venture": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a venture · ventures",
+  "say": "a business venture · a joint venture",
+  "note": "As a verb, \"venture\" means to go somewhere risky: \"venture outside.\"",
+  "ex": [
+   "Their new business venture is doing very well.",
+   "Opening a small cafe was a risky venture.",
+   "The two companies started a joint venture last year.",
+   "Do you have money for a new venture?"
+  ]
+ },
+ "villa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a villa · villas",
+  "say": "rent a villa",
+  "note": ""
+ },
+ "amateur": {
+  "v": "similar",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an amateur · amateurs",
+  "say": "an amateur photographer",
+  "note": "Also an adjective: \"an amateur photographer\" (not paid, does it for fun).",
+  "ex": [
+   "He is not a professional, just an amateur.",
+   "This competition is only for amateurs.",
+   "My dad is an amateur, but his photos are great.",
+   "She plays golf as an amateur on weekends."
+  ]
+ }
+}
