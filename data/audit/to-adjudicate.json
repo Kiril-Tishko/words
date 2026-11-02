@@ -1,0 +1,5296 @@
+[
+{
+"side": "en",
+"en": "saluki",
+"uk": "салюкі",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "roving",
+"uk": "ровінг",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "promotion",
+"uk": "промоушн",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "trap",
+"uk": "трап",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "minor",
+"uk": "мінор",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "division",
+"uk": "дивізіон",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "flex",
+"uk": "флекс",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "fighting",
+"uk": "файтинг",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "aluminium",
+"uk": "алюміній",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "shift",
+"uk": "шифт",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "minimal",
+"uk": "мінімал",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "serial",
+"uk": "серіал",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "grade",
+"uk": "грейд",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "milonga",
+"uk": "мілонга",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "dispensationalism",
+"uk": "диспенсаціоналізм",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "deck",
+"uk": "дек",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "slam",
+"uk": "слем",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "offer",
+"uk": "офер",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jump",
+"uk": "джамп",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "shifu",
+"uk": "шифу",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "skin",
+"uk": "скін",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "terror",
+"uk": "терор",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "fallback",
+"uk": "фолбек",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "review",
+"uk": "рев'ю",
+"cat": "rejected",
+"prev": [
+"?",
+"false_friend",
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "muntjac",
+"uk": "мунтжак",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "terrane",
+"uk": "терейн",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "gaullist",
+"uk": "голліст",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "zero",
+"uk": "зеро",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "topic",
+"uk": "топік",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "clicker",
+"uk": "клікер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "margrave",
+"uk": "маркграф",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "merchandise",
+"uk": "мерчендайз",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "dev",
+"uk": "дев",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "babe",
+"uk": "бейб",
+"cat": "rejected",
+"prev": [
+"identical",
+"unrelated"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "canvas",
+"uk": "канвас",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "plaza",
+"uk": "плаза",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "kabaddi",
+"uk": "кабаді",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "horn",
+"uk": "горн",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "marchesa",
+"uk": "маркеза",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "royal",
+"uk": "рояль",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "counterpoint",
+"uk": "контрапункт",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "amateur",
+"uk": "аматор",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "comedian",
+"uk": "комедіант",
+"cat": "rejected",
+"prev": [
+"partial_false_friend",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "murid",
+"uk": "мюрид",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "trust",
+"uk": "траст",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "myoclonus",
+"uk": "міоклонус",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "doc",
+"uk": "док",
+"cat": "rejected",
+"prev": [
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "healing",
+"uk": "хілінг",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "blini",
+"uk": "блини",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "logarithm",
+"uk": "логарифм",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "reboot",
+"uk": "ребут",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "hackintosh",
+"uk": "хакінтош",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "dreidel",
+"uk": "дрейдл",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "stuntman",
+"uk": "стантмен",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "integument",
+"uk": "інтегумент",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "permafrost",
+"uk": "пермафрост",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "offset",
+"uk": "офсет",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "guesthouse",
+"uk": "гестхаус",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "nim",
+"uk": "нім",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cherry",
+"uk": "черрі",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "kasha",
+"uk": "каша",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cardioverter",
+"uk": "кардіовертер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jacobite",
+"uk": "якобіт",
+"cat": "rejected",
+"prev": [
+"identical",
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "nimby",
+"uk": "німбі",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "skip",
+"uk": "скіп",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "meta",
+"uk": "мета",
+"cat": "rejected",
+"prev": [
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "attic",
+"uk": "аттик",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "feature",
+"uk": "фічер",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "topsail",
+"uk": "топсель",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "positive",
+"uk": "позитив",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "retractor",
+"uk": "ретрактор",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "fuck",
+"uk": "фак",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "dominion",
+"uk": "домініон",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "sateen",
+"uk": "сатин",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "fitting",
+"uk": "фітинг",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "suplex",
+"uk": "суплекс",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "sikh",
+"uk": "сикх",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "journal",
+"uk": "журнал",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "panache",
+"uk": "панаш",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "gag",
+"uk": "гег",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "roast",
+"uk": "рост",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "metonymy",
+"uk": "метонімія",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "retreat",
+"uk": "ретрит",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "typographer",
+"uk": "типограф",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "skinny",
+"uk": "скіні",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "development",
+"uk": "девелопмент",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "kobold",
+"uk": "кобольд",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "carjacking",
+"uk": "карджекінг",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "bacchanalia",
+"uk": "вакханалія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "foundation",
+"uk": "фаундейшн",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "outlet",
+"uk": "аутлет",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "von",
+"uk": "фон",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cheers",
+"uk": "чірс",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "scroll",
+"uk": "скрол",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "house",
+"uk": "хаус",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "assortment",
+"uk": "асортимент",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "differential",
+"uk": "диференціал",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "headlock",
+"uk": "хедлок",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "landing",
+"uk": "лендинг",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "kirtan",
+"uk": "кіртан",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "gatling",
+"uk": "гатлінг",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "callback",
+"uk": "колбек",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "boston",
+"uk": "бостон",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "drumlin",
+"uk": "друмлін",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "compound",
+"uk": "компаунд",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "coronet",
+"uk": "коронет",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jungle",
+"uk": "джангл",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "scrapie",
+"uk": "скрепі",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "rollover",
+"uk": "ролловер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "stayer",
+"uk": "стаєр",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "ole",
+"uk": "оле",
+"cat": "rejected",
+"prev": [
+"identical"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "venture",
+"uk": "венчур",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "shotgun",
+"uk": "шотган",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "upscaling",
+"uk": "апскейлінг",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "careerism",
+"uk": "кар'єризм",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "kris",
+"uk": "кріс",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "greenscreen",
+"uk": "грінскрін",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "hosanna",
+"uk": "осанна",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "prakrti",
+"uk": "пракріті",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "corporal",
+"uk": "капрал",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "cofounder",
+"uk": "кофаундер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "trocar",
+"uk": "троакар",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "freight",
+"uk": "фрахт",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "dancing",
+"uk": "дансинг",
+"cat": "rejected",
+"prev": [
+"false_friend",
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "skill",
+"uk": "скіл",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "multi-touch",
+"uk": "мультитач",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "direct",
+"uk": "директ",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "error",
+"uk": "ерор",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "minstrel",
+"uk": "менестрель",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "cyperus",
+"uk": "циперус",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jack",
+"uk": "джек",
+"cat": "rejected",
+"prev": [
+"?",
+"proper_noun"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "menhaden",
+"uk": "менхеден",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "heel",
+"uk": "хіл",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "habitat",
+"uk": "габітат",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jumping",
+"uk": "джампінг",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "millennium",
+"uk": "міленіум",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "time",
+"uk": "тайм",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "play",
+"uk": "плей",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "roshi",
+"uk": "роші",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "alteration",
+"uk": "альтерація",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "dance",
+"uk": "денс",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "vortex",
+"uk": "вортекс",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "double",
+"uk": "дубль",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "parking",
+"uk": "паркінг",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cutter",
+"uk": "катер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "rover",
+"uk": "ровер",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "kite",
+"uk": "кайт",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "curriculum",
+"uk": "курикулум",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "tremolo",
+"uk": "тремоло",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "hyperplasia",
+"uk": "гіперплазія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "tomato",
+"uk": "томат",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "shake",
+"uk": "шейк",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "jacket",
+"uk": "жакет",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "roger",
+"uk": "роджер",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "tren",
+"uk": "трен",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "dab",
+"uk": "деб",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "contemporary",
+"uk": "контемпорарі",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "targum",
+"uk": "таргум",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "backdraft",
+"uk": "бекдрафт",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "nude",
+"uk": "нюд",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "caca",
+"uk": "кака",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "puff",
+"uk": "пуф",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "dinamo",
+"uk": "динамо",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "assassin",
+"uk": "асасин",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "analysis",
+"uk": "аналіз",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "lead",
+"uk": "лід",
+"cat": "rejected",
+"prev": [
+"?",
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "raider",
+"uk": "рейдер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "chan",
+"uk": "чан",
+"cat": "rejected",
+"prev": [
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "microblading",
+"uk": "мікроблейдинг",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cyber",
+"uk": "кібер",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "notum",
+"uk": "нотум",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "nova",
+"uk": "нова",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "aero",
+"uk": "аеро",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "trigger",
+"uk": "тригер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "organizer",
+"uk": "органайзер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "giveaway",
+"uk": "гівевей",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "macro",
+"uk": "макро",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "privilege",
+"uk": "привілей",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "imperial",
+"uk": "імперіал",
+"cat": "rejected",
+"prev": [
+"false_friend",
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "flow",
+"uk": "флоу",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "urbanism",
+"uk": "урбанізм",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "multiplayer",
+"uk": "мультиплеєр",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "photo's",
+"uk": "фото",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "spectrum",
+"uk": "спектр",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "advocate",
+"uk": "адвокат",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "funky",
+"uk": "фанкі",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "bolide",
+"uk": "болід",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "spinning",
+"uk": "спінінг",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "mil",
+"uk": "міл",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "asthenosphere",
+"uk": "астеносфера",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "militia",
+"uk": "міліція",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "tribute",
+"uk": "триб'ют",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "cirque",
+"uk": "цирк",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "denims",
+"uk": "денім",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "phosphatidylserine",
+"uk": "фосфатидилсерин",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "ratio",
+"uk": "раціо",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "cassava",
+"uk": "касава",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "parttime",
+"uk": "парттайм",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "greek",
+"uk": "грек",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "quantum",
+"uk": "квант",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "stimulus",
+"uk": "стимул",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "academic",
+"uk": "академік",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "international",
+"uk": "інтернаціонал",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "outing",
+"uk": "аутинг",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "kiai",
+"uk": "кіай",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "sangiovese",
+"uk": "санджовезе",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "pod",
+"uk": "под",
+"cat": "rejected",
+"prev": [
+"unrelated"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "splash",
+"uk": "сплеш",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "replay",
+"uk": "реплей",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "coltan",
+"uk": "колтан",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "virginal",
+"uk": "вірджинел",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "floating",
+"uk": "флоатинг",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "rum",
+"uk": "ром",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "logo's",
+"uk": "лого",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "bbq's",
+"uk": "барбекю",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "label",
+"uk": "лейбл",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "host",
+"uk": "хост",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "frank",
+"uk": "франк",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "wigwam",
+"uk": "вігвам",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "troika",
+"uk": "трійка",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "oracle",
+"uk": "оракул",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "provocateur",
+"uk": "провокатор",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "punch",
+"uk": "пунш",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "surf",
+"uk": "серф",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "extrovert",
+"uk": "екстраверт",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "ferrum",
+"uk": "ферум",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "golfer",
+"uk": "гольфер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "artist",
+"uk": "артист",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "chill",
+"uk": "чил",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "loot",
+"uk": "лут",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "stoma",
+"uk": "стома",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "kurd",
+"uk": "курд",
+"cat": "rejected",
+"prev": [
+"identical",
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "en",
+"en": "mosquito",
+"uk": "москіт",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "purana",
+"uk": "пурана",
+"cat": "rejected",
+"prev": [
+"auto_proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "mirin",
+"uk": "мірин",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "dicamba",
+"uk": "дикамба",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "en",
+"en": "listicle",
+"uk": "лістикл",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "woke",
+"uk": "воук",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "stadium",
+"uk": "стадіон",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "en",
+"en": "lustre",
+"uk": "люстра",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "surzhyk",
+"uk": "суржик",
+"cat": "rejected",
+"prev": [
+"auto_proper_noun"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "roentgen equivalent",
+"uk": "рентген-еквівалент",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "hop",
+"uk": "гоп",
+"cat": "rejected",
+"prev": [
+"?",
+"false_friend",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Fermi liquid",
+"uk": "фермі-рідина",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "hyperlipidemia",
+"uk": "гіперліпідемія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "fisc",
+"uk": "фіск",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "talon",
+"uk": "талон",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "marina",
+"uk": "марина",
+"cat": "rejected",
+"prev": [
+"?",
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "superintendent",
+"uk": "суперінтендант",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "null vector",
+"uk": "нуль-вектор",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "borscht",
+"uk": "борщ",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ethno",
+"uk": "етно",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "mmm",
+"uk": "ммм",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "major",
+"uk": "мажор",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "pit lane",
+"uk": "піт-лейн",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tremolo",
+"uk": "тремоло",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "lactulose",
+"uk": "лактулоза",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "baton",
+"uk": "батон",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "feint",
+"uk": "фінт",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "necrolog",
+"uk": "некролог",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Holodomor",
+"uk": "голодомор",
+"cat": "rejected",
+"prev": [
+"auto_proper_noun"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "grader",
+"uk": "грейдер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "vacuum meter",
+"uk": "вакуумметр",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "neuroglia",
+"uk": "нейроглія",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "proxy server",
+"uk": "проксі-сервер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tonne",
+"uk": "тонна",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "medium",
+"uk": "медіум",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "multimedia",
+"uk": "мультимедія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "solo artist",
+"uk": "соло-артист",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "beater",
+"uk": "бітер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "cyclogram",
+"uk": "циклограма",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "noyon",
+"uk": "нойон",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "techno artist",
+"uk": "техно-артист",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "floorball",
+"uk": "флорбол",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "bur",
+"uk": "бур",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "coulisse",
+"uk": "куліса",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "judo",
+"uk": "дзюдо",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ooh la la",
+"uk": "о-ля-ля",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "skybox",
+"uk": "скай-бокс",
+"cat": "rejected",
+"prev": [
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "CrossFit",
+"uk": "кросфіт",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "rating leader",
+"uk": "рейтинг-лідер",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "furor",
+"uk": "фурор",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ambrosia",
+"uk": "амброзія",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "exemplar",
+"uk": "екземпляр",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "driver",
+"uk": "драйвер",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "hadith",
+"uk": "хадіс",
+"cat": "rejected",
+"prev": [
+"identical"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "mocha",
+"uk": "мокко",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "photograph",
+"uk": "фотограф",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Kyokushinkai karate",
+"uk": "кіокушинкай-карате",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "nomenklatura",
+"uk": "номенклатура",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "referent",
+"uk": "референт",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "blackjack",
+"uk": "блек-джек",
+"cat": "rejected",
+"prev": [
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "courtine",
+"uk": "куртина",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "eman",
+"uk": "еман",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ghazawat",
+"uk": "газават",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "c'est la vie",
+"uk": "селява",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "delta ferrite",
+"uk": "дельта-ферит",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "break",
+"uk": "брек",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Hellene",
+"uk": "еллін",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Shinto",
+"uk": "синто",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "portemonnaie",
+"uk": "портмоне",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "echelon",
+"uk": "ешелон",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "globalization",
+"uk": "глобалізація",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "lead manager",
+"uk": "лід-менеджер",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "WikiProject",
+"uk": "вікіпроект",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "electrostimulation",
+"uk": "електростимуляція",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "biosphere",
+"uk": "біосфера",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "lot",
+"uk": "лот",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "esplanade",
+"uk": "еспланада",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "focus group",
+"uk": "фокус-група",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "beta blocker",
+"uk": "бета-блокатор",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "trust fund",
+"uk": "траст-фонд",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "commission",
+"uk": "комісія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "conspiracy",
+"uk": "конспірація",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "black rot",
+"uk": "блек-рот",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "communicator",
+"uk": "комунікатор",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "cap",
+"uk": "кеп",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "leukosis",
+"uk": "лейкоз",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Eden",
+"uk": "едем",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "resection",
+"uk": "резекція",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "delegation",
+"uk": "делегація",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Sheikh ul-Islam",
+"uk": "шейх-уль-іслам",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "cover",
+"uk": "кавер",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "internet consultant",
+"uk": "інтернет-консультант",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "general field marshal",
+"uk": "генерал-фельдмаршал",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "TED talk",
+"uk": "тед-ток",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "paragraph",
+"uk": "параграф",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "butene",
+"uk": "бутен",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tattoo salon",
+"uk": "тату-салон",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "mammography",
+"uk": "мамографія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "sycosis",
+"uk": "сикоз",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "auto show",
+"uk": "автошоу",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "scan code",
+"uk": "скан-код",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "lupus nephritis",
+"uk": "люпус-нефрит",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "chemization",
+"uk": "хімізація",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "hip-hop artist",
+"uk": "хіп-хоп-артист",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "rooibos",
+"uk": "ройбуш",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "food blogger",
+"uk": "фуд-блогер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "socket",
+"uk": "сокет",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "safe packet",
+"uk": "сейф-пакет",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "teraelectronvolt",
+"uk": "тераелектронвольт",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "symbol",
+"uk": "символ",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tendovaginitis",
+"uk": "тендовагініт",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "concept car",
+"uk": "концепт-кар",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Hades",
+"uk": "гадес",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "refraction",
+"uk": "рефракція",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "general admiral",
+"uk": "генерал-адмірал",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "cross",
+"uk": "крос",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "mutation",
+"uk": "мутація",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "rating list",
+"uk": "рейтинг-лист",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "proxy",
+"uk": "проксі",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "mass start",
+"uk": "мас-старт",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Zion",
+"uk": "сіон",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "colonnade",
+"uk": "колонада",
+"cat": "rejected",
+"prev": [
+"auto_not_identical"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "khagan",
+"uk": "хакан",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "osmium",
+"uk": "осмій",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "piracetam",
+"uk": "пірацетам",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "dyspepsia",
+"uk": "диспепсія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "amblyopia",
+"uk": "амбліопія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "iteration",
+"uk": "ітерація",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "modern",
+"uk": "модерн",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "anion radical",
+"uk": "аніон-радикал",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "moderation",
+"uk": "модерація",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "simulation",
+"uk": "симуляція",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "bike computer",
+"uk": "велокомп'ютер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "coder",
+"uk": "кодер",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "rhodium",
+"uk": "родій",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "rhythm and blues",
+"uk": "ритм-н-блюз",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "gamma",
+"uk": "гама",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "electrophysiology",
+"uk": "електрофізіологія",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "capuchin",
+"uk": "капуцин",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tamagotchi",
+"uk": "тамагочі",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Caesar",
+"uk": "кесар",
+"cat": "rejected",
+"prev": [
+"identical",
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "consultation",
+"uk": "консультація",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "flag captain",
+"uk": "флаг-капітан",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "slide show",
+"uk": "слайд-шоу",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "auto center",
+"uk": "автоцентр",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "gravitation",
+"uk": "гравітація",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "commode",
+"uk": "комод",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "port wine",
+"uk": "портвейн",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "business aviation",
+"uk": "бізнес-авіація",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "radio drama",
+"uk": "радіодрама",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "stein",
+"uk": "штейн",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "dysfunction",
+"uk": "дисфункція",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Arbidol",
+"uk": "арбідол",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "fund",
+"uk": "фонд",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Frankenstein",
+"uk": "франкенштейн",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "archeparchy",
+"uk": "архієпархія",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "crane",
+"uk": "кран",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "air taxi",
+"uk": "аеротаксі",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "chai",
+"uk": "чай",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "chaga",
+"uk": "чага",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "iconography",
+"uk": "іконографія",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "brandy cola",
+"uk": "бренді-кола",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "specialization",
+"uk": "спеціалізація",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "gala concert",
+"uk": "гала-концерт",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "bye-bye",
+"uk": "бай-бай",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "topinambur",
+"uk": "топінамбур",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "out",
+"uk": "аут",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "fraise",
+"uk": "фреза",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "choir",
+"uk": "хор",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "matryoshka",
+"uk": "матрьошка",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "adept",
+"uk": "адепт",
+"cat": "rejected",
+"prev": [
+"?",
+"false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "hora",
+"uk": "хора",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "myth",
+"uk": "міф",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "teleproducer",
+"uk": "телепродюсер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "la-la",
+"uk": "ла-ла",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "Kyokushin karate",
+"uk": "кіокушин-карате",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ooh la la",
+"uk": "о-ла-ла",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "stalagmite",
+"uk": "сталагміт",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "clarinet",
+"uk": "кларнет",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "hypermedia",
+"uk": "гіпермедіа",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "anchar",
+"uk": "анчар",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "verge",
+"uk": "верже",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "business client",
+"uk": "бізнес-клієнт",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "SR",
+"uk": "есер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Fermi gas",
+"uk": "фермі-газ",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "melanocyte",
+"uk": "меланоцити",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "skype",
+"uk": "скайп",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "funicular",
+"uk": "фунікулер",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "parlementaire",
+"uk": "парламентер",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tachanka",
+"uk": "тачанка",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "listing",
+"uk": "лістинг",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "banker",
+"uk": "банкір",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "collector",
+"uk": "колектор",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "exanthema",
+"uk": "екзантема",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "master class",
+"uk": "майстер-клас",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "plombiere",
+"uk": "пломбір",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "end",
+"uk": "енд",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "Bolshevism",
+"uk": "більшовизм",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "compositor",
+"uk": "композитор",
+"cat": "rejected",
+"prev": [
+"false_friend"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "rally raid",
+"uk": "ралі-рейд",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "jungle",
+"uk": "джунглі",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "delta operator",
+"uk": "дельта-оператор",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "basin",
+"uk": "басейн",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "iPad",
+"uk": "айпад",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "hautboy",
+"uk": "гобой",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "netsuke",
+"uk": "нецке",
+"cat": "rejected",
+"prev": [
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "photo project",
+"uk": "фотопроект",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "quinine",
+"uk": "хінін",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"similar"
+],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "blackout",
+"uk": "блек-аут",
+"cat": "rejected",
+"prev": [
+"identical"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "boy",
+"uk": "бой",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "classic",
+"uk": "класик",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "publicist",
+"uk": "публіцист",
+"cat": "rejected",
+"prev": [
+"?",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ratio",
+"uk": "раціо",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "governor-general",
+"uk": "генерал-губернатор",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "neuroblastoma",
+"uk": "нейробластома",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "microorganism",
+"uk": "мікроорганізм",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "discotheque",
+"uk": "дискотека",
+"cat": "rejected",
+"prev": [
+"auto_not_identical",
+"similar"
+],
+"common": true,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "schema",
+"uk": "схема",
+"cat": "rejected",
+"prev": [
+"?",
+"identical",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "amateur",
+"uk": "аматор",
+"cat": "rejected",
+"prev": [
+"?",
+"similar"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "teleserial",
+"uk": "телесеріал",
+"cat": "miss",
+"prev": [],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "carafe",
+"uk": "карафа",
+"cat": "rejected",
+"prev": [
+"auto_not_identical"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "vena",
+"uk": "вена",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": false
+},
+{
+"side": "uk",
+"en": "narco-baron",
+"uk": "наркобарон",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "judoist",
+"uk": "дзюдоїст",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "brr",
+"uk": "бррр",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "traverse",
+"uk": "траверз",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "NEP",
+"uk": "неп",
+"cat": "rejected",
+"prev": [
+"proper_noun"
+],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "aerophoto",
+"uk": "аерофото",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "tartar",
+"uk": "тартар",
+"cat": "rejected",
+"prev": [
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "pamphletist",
+"uk": "памфлетист",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "square",
+"uk": "сквер",
+"cat": "rejected",
+"prev": [
+"false_friend",
+"partial_false_friend"
+],
+"common": true,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "autotourism",
+"uk": "автотуризм",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "ajour",
+"uk": "ажур",
+"cat": "miss",
+"prev": [],
+"common": false,
+"byA": false,
+"byB": true
+},
+{
+"side": "uk",
+"en": "sprite",
+"uk": "спрайт",
+"cat": "rejected",
+"prev": [
+"identical",
+"partial_false_friend"
+],
+"common": false,
+"byA": true,
+"byB": true
+},
+{
+"side": "uk",
+"en": "salto",
+"uk": "сальто",
+"cat": "rejected",
+"prev": [
+"?"
+],
+"common": true,
+"byA": true,
+"byB": true
+}
+]

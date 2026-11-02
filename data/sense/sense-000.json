@@ -1,0 +1,902 @@
+{
+"people": {
+"s": 25
+},
+"start": {
+"s": 20
+},
+"friend": {
+"s": 95
+},
+"business": {
+"s": 85
+},
+"party": {
+"s": 45
+},
+"stop": {
+"s": 15
+},
+"video": {
+"s": 98
+},
+"face": {
+"s": 8
+},
+"course": {
+"s": 15
+},
+"idea": {
+"s": 100
+},
+"plan": {
+"s": 60
+},
+"class": {
+"s": 50
+},
+"student": {
+"s": 100
+},
+"office": {
+"s": 85
+},
+"type": {
+"s": 40
+},
+"show": {
+"s": 35
+},
+"post": {
+"s": 20
+},
+"top": {
+"s": 3
+},
+"level": {
+"s": 3
+},
+"court": {
+"s": 10
+},
+"control": {
+"s": 50
+},
+"act": {
+"s": 10
+},
+"million": {
+"s": 100
+},
+"fact": {
+"s": 100
+},
+"OK": {
+"s": 60
+},
+"true": {
+"s": 1
+},
+"Miss": {
+"s": 25
+},
+"test": {
+"s": 70
+},
+"check": {
+"s": 8
+},
+"account": {
+"s": 30
+},
+"site": {
+"s": 70
+},
+"moment": {
+"s": 100
+},
+"chance": {
+"s": 100
+},
+"baby": {
+"s": 70
+},
+"character": {
+"s": 15
+},
+"college": {
+"s": 100
+},
+"easy": {
+"s": 1
+},
+"film": {
+"s": 75
+},
+"product": {
+"s": 100
+},
+"art": {
+"s": 85
+},
+"bank": {
+"s": 90
+},
+"fan": {
+"s": 85
+},
+"final": {
+"s": 15
+},
+"model": {
+"s": 70
+},
+"period": {
+"s": 75
+},
+"effect": {
+"s": 90
+},
+"officer": {
+"s": 90
+},
+"center": {
+"s": 60
+},
+"match": {
+"s": 25
+},
+"role": {
+"s": 100
+},
+"design": {
+"s": 60
+},
+"director": {
+"s": 100
+},
+"park": {
+"s": 75
+},
+"present": {
+"s": 3
+},
+"photo": {
+"s": 100
+},
+"club": {
+"s": 90
+},
+"online": {
+"s": 30
+},
+"activity": {
+"s": 100
+},
+"leader": {
+"s": 100
+},
+"style": {
+"s": 95
+},
+"training": {
+"s": 80
+},
+"sorry": {
+"s": 70
+},
+"material": {
+"s": 90
+},
+"website": {
+"s": 100
+},
+"hospital": {
+"s": 5
+},
+"code": {
+"s": 70
+},
+"track": {
+"s": 15
+},
+"hey": {
+"s": 100
+},
+"visit": {
+"s": 40
+},
+"football": {
+"s": 100
+},
+"contact": {
+"s": 50
+},
+"text": {
+"s": 85
+},
+"manager": {
+"s": 100
+},
+"crazy": {
+"s": 30
+},
+"super": {
+"s": 25
+},
+"episode": {
+"s": 90
+},
+"author": {
+"s": 100
+},
+"album": {
+"s": 95
+},
+"credit": {
+"s": 50
+},
+"detail": {
+"s": 95
+},
+"file": {
+"s": 85
+},
+"sir": {
+"s": 100
+},
+"doctor": {
+"s": 95
+},
+"goal": {
+"s": 20
+},
+"internet": {
+"s": 100
+},
+"computer": {
+"s": 100
+},
+"tour": {
+"s": 80
+},
+"rock": {
+"s": 25
+},
+"method": {
+"s": 100
+},
+"interview": {
+"s": 75
+},
+"country": {
+"s": 2
+},
+"player": {
+"s": 5
+},
+"season": {
+"s": 90
+},
+"service": {
+"s": 60
+},
+"general": {
+"s": 3
+},
+"president": {
+"s": 100
+},
+"single": {
+"s": 5
+},
+"record": {
+"s": 15
+},
+"market": {
+"s": 15
+},
+"hit": {
+"s": 10
+},
+"stand": {
+"s": 10
+},
+"light": {
+"s": 1
+},
+"process": {
+"s": 90
+},
+"march": {
+"s": 3
+},
+"foot": {
+"s": 25
+},
+"sex": {
+"s": 70
+},
+"sense": {
+"s": 2
+},
+"comment": {
+"s": 85
+},
+"title": {
+"s": 10
+},
+"pass": {
+"s": 15
+},
+"round": {
+"s": 40
+},
+"management": {
+"s": 100
+},
+"safe": {
+"s": 3
+},
+"article": {
+"s": 10
+},
+"sort": {
+"s": 2
+},
+"coach": {
+"s": 20
+},
+"gas": {
+"s": 30
+},
+"message": {
+"s": 100
+},
+"respect": {
+"s": 15
+},
+"band": {
+"s": 75
+},
+"resource": {
+"s": 95
+},
+"hotel": {
+"s": 100
+},
+"radio": {
+"s": 95
+},
+"partner": {
+"s": 80
+},
+"secret": {
+"s": 90
+},
+"block": {
+"s": 25
+},
+"welcome": {
+"s": 20
+},
+"agent": {
+"s": 95
+},
+"content": {
+"s": 30
+},
+"region": {
+"s": 100
+},
+"dollar": {
+"s": 100
+},
+"link": {
+"s": 40
+},
+"camera": {
+"s": 100
+},
+"impact": {
+"s": 10
+},
+"wow": {
+"s": 100
+},
+"cent": {
+"s": 100
+},
+"bar": {
+"s": 40
+},
+"strike": {
+"s": 20
+},
+"lady": {
+"s": 100
+},
+"finish": {
+"s": 15
+},
+"brand": {
+"s": 95
+},
+"document": {
+"s": 95
+},
+"fast food": {
+"pm": 4
+},
+"professor": {
+"s": 100
+},
+"device": {
+"s": 50
+},
+"weekend": {
+"s": 100
+},
+"gay": {
+"s": 15
+},
+"cash": {
+"s": 0.5
+},
+"trip": {
+"s": 75
+},
+"limit": {
+"s": 85
+},
+"drink": {
+"s": 25
+},
+"speech": {
+"s": 95
+},
+"camp": {
+"s": 25
+},
+"Mrs.": {
+"s": 100
+},
+"concept": {
+"s": 100
+},
+"click": {
+"s": 75
+},
+"status": {
+"s": 100
+},
+"champion": {
+"s": 100
+},
+"hall": {
+"s": 25
+},
+"institute": {
+"s": 100
+},
+"object": {
+"s": 40
+},
+"budget": {
+"s": 100
+},
+"trouble": {
+"s": 1
+},
+"progress": {
+"s": 95
+},
+"actor": {
+"s": 100
+},
+"expert": {
+"s": 100
+},
+"email": {
+"s": 90
+},
+"fashion": {
+"s": 85
+},
+"digital": {
+"s": 2
+},
+"guide": {
+"s": 30
+},
+"theater": {
+"s": 70
+},
+"metal": {
+"s": 100
+},
+"boss": {
+"s": 100
+},
+"task": {
+"s": 10
+},
+"port": {
+"s": 60
+},
+"argument": {
+"s": 50
+},
+"basis": {
+"s": 1
+},
+"surprise": {
+"s": 90
+},
+"blog": {
+"s": 100
+},
+"reply": {
+"s": 50
+},
+"signal": {
+"s": 75
+},
+"balance": {
+"s": 20
+},
+"grant": {
+"s": 40
+},
+"stress": {
+"s": 70
+},
+"festival": {
+"s": 100
+},
+"web": {
+"s": 40
+},
+"software": {
+"s": 100
+},
+"prince": {
+"s": 100
+},
+"aspect": {
+"s": 100
+},
+"assistant": {
+"s": 100
+},
+"reserve": {
+"s": 25
+},
+"conflict": {
+"s": 50
+},
+"ocean": {
+"s": 100
+},
+"display": {
+"s": 30
+},
+"sport": {
+"s": 100
+},
+"trend": {
+"s": 30
+},
+"climate": {
+"s": 90
+},
+"talent": {
+"s": 100
+},
+"hello": {
+"s": 100
+},
+"initial": {
+"s": 5
+},
+"express": {
+"s": 3
+},
+"proof": {
+"s": 1
+},
+"drama": {
+"s": 50
+},
+"transport": {
+"s": 60
+},
+"minimum": {
+"s": 70
+},
+"IT": {
+"s": 0.2
+},
+"like": {
+"s": 0.5
+},
+"live": {
+"s": 5
+},
+"shot": {
+"s": 3
+},
+"major": {
+"s": 3
+},
+"check-in": {
+"pm": 2
+},
+"media": {
+"s": 50
+},
+"front": {
+"s": 3
+},
+"check-out": {
+"pm": 1
+},
+"security": {
+"s": 3
+},
+"talk show": {
+"pm": 3
+},
+"project": {
+"s": 100
+},
+"original": {
+"s": 15
+},
+"production": {
+"s": 15
+},
+"release": {
+"s": 15
+},
+"image": {
+"s": 15
+},
+"hate": {
+"s": 3
+},
+"business class": {
+"pm": 0.8
+},
+"lord": {
+"s": 30
+},
+"room service": {
+"pm": 0.8
+},
+"forward": {
+"s": 1
+},
+"minister": {
+"s": 85
+},
+"professional": {
+"s": 40
+},
+"campaign": {
+"s": 3
+},
+"focus": {
+"s": 1
+},
+"contract": {
+"s": 95
+},
+"user": {
+"s": 100
+},
+"capital": {
+"s": 25
+},
+"western": {
+"s": 10
+},
+"beat": {
+"s": 10
+},
+"power bank": {
+"pm": 0.2
+},
+"factor": {
+"s": 95
+},
+"price list": {
+"pm": 0.3
+},
+"plus": {
+"s": 15
+},
+"transfer": {
+"s": 15
+},
+"candidate": {
+"s": 100
+},
+"soul": {
+"s": 2
+},
+"congress": {
+"s": 100
+},
+"city tour": {
+"pm": 0.1
+},
+"complex": {
+"s": 5
+},
+"roll": {
+"s": 3
+},
+"benefit": {
+"s": 3
+},
+"profile": {
+"s": 30
+},
+"profit": {
+"s": 1
+},
+"traffic": {
+"s": 10
+},
+"ring": {
+"s": 8
+},
+"update": {
+"s": 15
+},
+"hot dog": {
+"pm": 6
+},
+"reality show": {
+"pm": 2
+},
+"background": {
+"s": 10
+},
+"ex": {
+"s": 15
+},
+"negative": {
+"s": 2
+},
+"senate": {
+"s": 100
+},
+"engineering": {
+"s": 5
+},
+"client": {
+"s": 100
+},
+"marketing": {
+"s": 100
+},
+"video camera": {
+"pm": 0.8
+},
+"sector": {
+"s": 100
+},
+"pack": {
+"s": 5
+},
+"parliament": {
+"s": 100
+},
+"abuse": {
+"s": 25
+},
+"mix": {
+"s": 10
+},
+"fan club": {
+"pm": 0.5
+},
+"road trip": {
+"pm": 2
+},
+"democrat": {
+"s": 100
+},
+"senator": {
+"s": 100
+},
+"flag": {
+"s": 0.5
+},
+"assist": {
+"s": 70
+},
+"producer": {
+"s": 80
+},
+"photo album": {
+"pm": 0.6
+},
+"prize": {
+"s": 100
+},
+"cycle": {
+"s": 15
+},
+"incident": {
+"s": 100
+},
+"fake": {
+"s": 15
+},
+"era": {
+"s": 100
+},
+"component": {
+"s": 100
+},
+"lunch": {
+"s": 100
+},
+"protest": {
+"s": 70
+},
+"shopping": {
+"s": 100
+},
+"panel": {
+"s": 25
+},
+"rock band": {
+"pm": 1
+},
+"angel": {
+"s": 85
+},
+"print": {
+"s": 10
+},
+"max": {
+"s": 20
+},
+"protein": {
+"s": 1
+},
+"context": {
+"s": 100
+},
+"pilot": {
+"s": 75
+},
+"rating": {
+"s": 60
+},
+"friendly": {
+"s": 0.5
+},
+"monster": {
+"s": 80
+},
+"motor": {
+"s": 60
+},
+"concert": {
+"s": 100
+},
+"suicide": {
+"s": 100
+},
+"mayor": {
+"s": 100
+},
+"journalist": {
+"s": 100
+}
+}

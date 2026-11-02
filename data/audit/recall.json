@@ -1,0 +1,47 @@
+{
+ "en": {
+  "found": 248,
+  "real_misses": 90,
+  "recall": 0.734,
+  "found_common": 174,
+  "real_misses_common": 23,
+  "recall_common": 0.883,
+  "breakdown": {
+   "rejected->identical": 29,
+   "miss->partial_false_friend": 17,
+   "miss->identical": 61,
+   "rejected->false_friend": 9,
+   "rejected->partial_false_friend": 57,
+   "rejected->similar": 24,
+   "miss->unrelated": 13,
+   "miss->similar": 9,
+   "rejected->unrelated": 7,
+   "rejected->proper_noun": 5,
+   "miss->not_lemma": 5,
+   "miss->proper_noun": 1,
+   "miss->false_friend": 3
+  }
+ },
+ "uk": {
+  "found": 275,
+  "real_misses": 92,
+  "recall": 0.749,
+  "found_common": 148,
+  "real_misses_common": 40,
+  "recall_common": 0.787,
+  "breakdown": {
+   "rejected->identical": 21,
+   "miss->identical": 71,
+   "rejected->false_friend": 8,
+   "miss->similar": 30,
+   "rejected->similar": 37,
+   "miss->partial_false_friend": 3,
+   "miss->unrelated": 7,
+   "rejected->partial_false_friend": 30,
+   "rejected->proper_noun": 7,
+   "miss->false_friend": 4,
+   "miss->proper_noun": 8,
+   "miss->not_lemma": 1
+  }
+ }
+}

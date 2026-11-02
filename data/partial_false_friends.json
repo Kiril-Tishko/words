@@ -29,7 +29,7 @@
   "lvl": null,
   "labels": [],
   "note": "академік = academician (member of an Academy of Sciences); academic = university teacher, scholar.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-005.json"
  },
  {
@@ -594,7 +594,7 @@
   "lvl": null,
   "labels": [],
   "note": "аттик = architectural wall or storey above the cornice; the room under the roof is горище.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-035.json"
  },
  {
@@ -1103,6 +1103,17 @@
   "src": "gap-sweep-r1.json"
  },
  {
+  "en": "bolide",
+  "uk": "болід",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "bombardier",
   "uk": "бомбардир",
   "pos": "",
@@ -1207,6 +1218,17 @@
   "note": "Ukrainian брейк has only the borrowed senses: break of serve in tennis, the boxing referee's command, breakdance, coffee break (кава-брейк); not 'to break' or a general pause (перерва).",
   "checked": 2,
   "src": "scan-015.json"
+ },
+ {
+  "en": "break",
+  "uk": "брек",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "briar",
@@ -1387,6 +1409,17 @@
   "src": "scan-017.json"
  },
  {
+  "en": "bye-bye",
+  "uk": "бай-бай",
+  "pos": "interj",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian бай-бай is baby talk for 'sleep' (from the lullaby баю-бай); 'bye-bye' is бувай/па-па.",
+  "checked": 2,
+  "src": "scan-012.json"
+ },
+ {
   "en": "bypass",
   "uk": "байпас",
   "pos": "",
@@ -1540,6 +1573,17 @@
   "note": "",
   "checked": 2,
   "src": "rscan-010.json"
+ },
+ {
+  "en": "canvas",
+  "uk": "канвас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "caprice",
@@ -1922,6 +1966,17 @@
   "src": "verify-014.json"
  },
  {
+  "en": "cherry",
+  "uk": "черрі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "chiropractic",
   "uk": "хіропрактик",
   "pos": "noun",
@@ -2018,17 +2073,6 @@
   "src": "scan-006.json"
  },
  {
-  "en": "cirque",
-  "uk": "цирк",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "en cirque = mountain basin (geology); uk цирк mainly = circus",
-  "checked": 1,
-  "src": "verify-073.json"
- },
- {
   "en": "classic",
   "uk": "класик",
   "pos": "noun",
@@ -2036,7 +2080,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian класик = a classic author (класик літератури); a classic work is класика.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-009.json"
  },
  {
@@ -2300,7 +2344,7 @@
   "lvl": null,
   "labels": [],
   "note": "комод = chest of drawers; English commode is mostly a chair with a toilet pot (US: a toilet), only in antiques a chest of drawers.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-017.json"
  },
  {
@@ -2873,6 +2917,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "cross",
+  "uk": "крос",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "крос = cross-country race (also a boxing cross); a cross is хрест",
+  "checked": 2,
+  "src": "verify-002.json"
+ },
+ {
   "en": "crown",
   "uk": "крона",
   "pos": "",
@@ -2963,6 +3018,17 @@
   "src": "rscan-005.json"
  },
  {
+  "en": "dab",
+  "uk": "деб",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "daemon",
   "uk": "демон",
   "pos": "noun",
@@ -3014,6 +3080,17 @@
   "note": "uk датум = only a geodetic reference system; 'a piece of data' = дане",
   "checked": 1,
   "src": "verify-103.json"
+ },
+ {
+  "en": "deck",
+  "uk": "дек",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "decoration",
@@ -3083,12 +3160,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "business"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "dictate",
@@ -3107,12 +3182,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "physics"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "digger",
@@ -3127,6 +3200,17 @@
   "note": "",
   "checked": 2,
   "src": "rscan-009.json"
+ },
+ {
+  "en": "direct",
+  "uk": "директ",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "disco",
@@ -3306,6 +3390,17 @@
   "lvl": null,
   "labels": [],
   "note": "дабл = slang in sport/games or names (дабл-дабл, дабл чізбургер); the adjective double is подвійний",
+  "checked": 2,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "double",
+  "uk": "дубль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "from French; дубль = a film take, two goals by one player, or a duplicate",
   "checked": 2,
   "src": "verify-002.json"
  },
@@ -3622,6 +3717,17 @@
   "src": "rscan-001.json"
  },
  {
+  "en": "exemplar",
+  "uk": "екземпляр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "expertise",
   "uk": "експертиза",
   "pos": "noun",
@@ -3839,7 +3945,7 @@
    "games"
   ],
   "note": "Ukrainian файтинг = fighting video game genre; English fighting = бійка.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-020.json"
  },
  {
@@ -3920,12 +4026,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "modern"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1b.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "flicker",
@@ -3981,6 +4085,17 @@
   "src": "verify-041.json"
  },
  {
+  "en": "floating",
+  "uk": "флоатинг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "flood",
   "uk": "флуд",
   "pos": "noun",
@@ -4012,12 +4127,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "music"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "fluid",
@@ -4120,6 +4233,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "foundation",
+  "uk": "фаундейшн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "frame",
   "uk": "фрейм",
   "pos": "noun",
@@ -4188,6 +4312,17 @@
   "src": "verify-045.json"
  },
  {
+  "en": "fuck",
+  "uk": "фак",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "fun",
   "uk": "фан",
   "pos": "noun",
@@ -4231,7 +4366,7 @@
   "lvl": null,
   "labels": [],
   "note": "uk фурор = sensational success; en furor = mostly an angry uproar",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-103.json"
  },
  {
@@ -4453,6 +4588,17 @@
   "src": "rverify-006.json"
  },
  {
+  "en": "grade",
+  "uk": "грейд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "grader",
   "uk": "грейдер",
   "pos": "noun",
@@ -4653,6 +4799,17 @@
   "note": "In Ukrainian only the computing sense (хеш, хеш-функція); the food dish is not called хеш.",
   "checked": 2,
   "src": "verify-035.json"
+ },
+ {
+  "en": "healing",
+  "uk": "хілінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "hedge",
@@ -5036,6 +5193,17 @@
   "src": "gap-sweep-r1b.json"
  },
  {
+  "en": "jack",
+  "uk": "джек",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "jaeger",
   "uk": "єгер",
   "pos": "",
@@ -5139,12 +5307,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "music"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "jurist",
@@ -5240,12 +5406,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "sport2"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "kola",
@@ -5298,6 +5462,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-005.json"
+ },
+ {
+  "en": "landing",
+  "uk": "лендинг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "landlord",
@@ -5426,12 +5601,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "it"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1b.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "lot",
@@ -5559,20 +5732,6 @@
   "note": "English machinist = a machine-tool worker; a train driver is 'engineer' or 'train driver'.",
   "checked": 1,
   "src": "verify-087.json"
- },
- {
-  "en": "macro",
-  "uk": "макро",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "tech",
-   "technical"
-  ],
-  "note": "In Ukrainian mostly macro photography/macro mode; a computer macro is макрос.",
-  "checked": 2,
-  "src": "scan-017.json"
  },
  {
   "en": "mail",
@@ -5761,6 +5920,17 @@
   "src": "rscan-012.json"
  },
  {
+  "en": "merchandise",
+  "uk": "мерчендайз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "merchant",
   "uk": "мерчант",
   "pos": "noun",
@@ -5886,7 +6056,7 @@
   "lvl": null,
   "labels": [],
   "note": "міліція = (Soviet-style) police; a civilian volunteer army is ополчення.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-025.json"
  },
  {
@@ -6002,7 +6172,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian модерн is a noun: Art Nouveau style, modernity; English modern is mainly an adjective (сучасний).",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-013.json"
  },
  {
@@ -6339,6 +6509,17 @@
   "src": "scan-009.json"
  },
  {
+  "en": "nude",
+  "uk": "нюд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "null",
   "uk": "нуль",
   "pos": "noun",
@@ -6512,7 +6693,7 @@
   "lvl": null,
   "labels": [],
   "note": "аутинг = only revealing someone's sexual orientation; a trip is прогулянка/екскурсія.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-042.json"
  },
  {
@@ -6611,6 +6792,17 @@
   "note": "Ukrainian памфлет is a satirical or polemical essay; an informational pamphlet is брошура.",
   "checked": 1,
   "src": "verify-051.json"
+ },
+ {
+  "en": "panache",
+  "uk": "панаш",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "panama",
@@ -7481,7 +7673,7 @@
   "lvl": null,
   "labels": [],
   "note": "en mainly a PR/publicity agent; uk публіцист = opinion journalist, essayist",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-066.json"
  },
  {
@@ -7740,19 +7932,6 @@
   "note": "Genitive form of реалізація (= implementation, carrying out; also sale of goods); 'becoming aware' is усвідомлення.",
   "checked": 1,
   "src": "verify-031.json"
- },
- {
-  "en": "reboot",
-  "uk": "ребут",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "media"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-sweep-r1.json"
  },
  {
   "en": "receiver",
@@ -8020,6 +8199,17 @@
   "src": "gap-sweep-r1.json"
  },
  {
+  "en": "roast",
+  "uk": "рост",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "roller",
   "uk": "ролер",
   "pos": "noun",
@@ -8062,8 +8252,19 @@
   "lvl": null,
   "labels": [],
   "note": "ровер = bicycle (Western Ukrainian); rover = wanderer; a Mars rover is марсохід (sometimes ровер)",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-029.json"
+ },
+ {
+  "en": "roving",
+  "uk": "ровінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "royalty",
@@ -8211,6 +8412,17 @@
   "note": "In Ukrainian only special senses: DJ scratching, scratch race, scratch-off layer.",
   "checked": 2,
   "src": "scan-020.json"
+ },
+ {
+  "en": "scroll",
+  "uk": "скрол",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "scrum",
@@ -8464,6 +8676,17 @@
   "src": "verify-104.json"
  },
  {
+  "en": "shift",
+  "uk": "шифт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "shopper",
   "uk": "шопер",
   "pos": "",
@@ -8598,6 +8821,39 @@
   "note": "",
   "checked": 2,
   "src": "rscan-006.json"
+ },
+ {
+  "en": "skinny",
+  "uk": "скіні",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
+  "en": "skip",
+  "uk": "скіп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
+  "en": "slam",
+  "uk": "слем",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "sledge",
@@ -8845,7 +9101,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-003.json"
  },
  {
@@ -8912,17 +9168,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json"
- },
- {
-  "en": "square",
-  "uk": "сквер",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "сквер = small public garden; square = площа (also квадрат).",
-  "checked": 1,
-  "src": "scan-005.json"
  },
  {
   "en": "squat",
@@ -9023,12 +9268,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "sport"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "stimulator",
@@ -9201,6 +9444,17 @@
   "src": "rscan-014.json"
  },
  {
+  "en": "superintendent",
+  "uk": "суперінтендант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "support",
   "uk": "супорт",
   "pos": "",
@@ -9217,12 +9471,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "sport2"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "surrogate",
@@ -9407,7 +9659,7 @@
   "lvl": null,
   "labels": [],
   "note": "тартар = tartare (raw meat/fish dish) or tartar sauce; English tartar alone usually means dental plaque.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-018.json"
  },
  {
@@ -9619,7 +9871,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-001.json"
  },
  {
@@ -9779,7 +10031,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-003.json"
  },
  {
@@ -9827,19 +10079,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-002.json"
- },
- {
-  "en": "trigger",
-  "uk": "тригер",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "tech"
-  ],
-  "note": "Used for the figurative/psychological sense and in electronics/programming; a gun trigger = спусковий гачок.",
-  "checked": 2,
-  "src": "scan-018.json"
  },
  {
   "en": "trimming",
@@ -9911,7 +10150,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian траст only in the legal/financial sense (a trust, trust fund); trust as 'confidence' is довіра.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-013.json"
  },
  {
@@ -10106,19 +10345,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1b.json"
- },
- {
-  "en": "venture",
-  "uk": "венчур",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "finance"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json"
  },
  {
   "en": "verbatim",
@@ -10328,7 +10554,7 @@
   "lvl": null,
   "labels": [],
   "note": "зеро = only the zero on a roulette wheel; the number zero = нуль",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {

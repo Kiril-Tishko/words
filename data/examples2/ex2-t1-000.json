@@ -1,0 +1,587 @@
+{
+ "friend": {
+  "ex": [
+   "She is my best friend.",
+   "I call my friend every day.",
+   "My friends live near here.",
+   "This is my friend Tom."
+  ],
+  "note": ""
+ },
+ "people": {
+  "ex": [
+   "Many people work here.",
+   "The shop has a lot of people.",
+   "Five people live in my house.",
+   "People wait for the bus."
+  ],
+  "note": "People is plural: \"people are\", not \"people is\". One person, two people."
+ },
+ "business": {
+  "ex": [
+   "My father has a small business.",
+   "She works in business.",
+   "How is your business?",
+   "I go on business trips."
+  ],
+  "note": ""
+ },
+ "video": {
+  "ex": [
+   "I watch a video on my phone.",
+   "Send me the video, please.",
+   "This video is very funny.",
+   "Can you make a video?"
+  ],
+  "note": ""
+ },
+ "season": {
+  "ex": [
+   "Summer is my favorite season.",
+   "Winter is a cold season.",
+   "There are four seasons.",
+   "Which season do you like?"
+  ],
+  "note": ""
+ },
+ "idea": {
+  "ex": [
+   "That is a good idea.",
+   "I have an idea!",
+   "I have no idea.",
+   "Do you have any ideas?"
+  ],
+  "note": ""
+ },
+ "president": {
+  "ex": [
+   "The president lives here.",
+   "Who is the president?",
+   "The president is on TV.",
+   "She is the club president."
+  ],
+  "note": ""
+ },
+ "student": {
+  "ex": [
+   "I am a student.",
+   "My sister is a student.",
+   "The students are in class.",
+   "Students pay less here."
+  ],
+  "note": ""
+ },
+ "show": {
+  "ex": [
+   "I like this TV show.",
+   "The show starts at eight.",
+   "We watch a show every night.",
+   "Is the show funny?"
+  ],
+  "note": ""
+ },
+ "million": {
+  "ex": [
+   "The city has a million people.",
+   "This house costs two million dollars.",
+   "Thank you a million!",
+   "Millions of people use this app."
+  ],
+  "note": "Say \"two million dollars\", not \"two millions dollars\"."
+ },
+ "fact": {
+  "ex": [
+   "That is a fact.",
+   "Here is a fun fact.",
+   "I know the facts.",
+   "Is it a fact?"
+  ],
+  "note": ""
+ },
+ "office": {
+  "ex": [
+   "I work in an office.",
+   "My office is on the second floor.",
+   "The office opens at nine.",
+   "Come to my office, please."
+  ],
+  "note": ""
+ },
+ "moment": {
+  "ex": [
+   "Wait a moment, please.",
+   "One moment, please.",
+   "I am busy at the moment.",
+   "Can you help me for a moment?"
+  ],
+  "note": ""
+ },
+ "chance": {
+  "ex": [
+   "Give me a chance.",
+   "This is a good chance.",
+   "Do you have a chance to call?",
+   "I want another chance."
+  ],
+  "note": ""
+ },
+ "college": {
+  "ex": [
+   "My son goes to college.",
+   "I am in college.",
+   "The college is near my home.",
+   "She teaches at a college."
+  ],
+  "note": "In the US, \"college\" often means university."
+ },
+ "product": {
+  "ex": [
+   "This is a new product.",
+   "The shop has good products.",
+   "I like this product.",
+   "How much is this product?"
+  ],
+  "note": ""
+ },
+ "process": {
+  "ex": [
+   "The process is easy.",
+   "It is a long process.",
+   "I know the process.",
+   "Can you explain the process?"
+  ],
+  "note": ""
+ },
+ "service": {
+  "ex": [
+   "The service here is good.",
+   "This hotel has great service.",
+   "The service is slow today.",
+   "Is service included?"
+  ],
+  "note": ""
+ },
+ "plan": {
+  "ex": [
+   "I have a plan.",
+   "What are your plans for today?",
+   "Good plan!",
+   "We need a plan."
+  ],
+  "note": ""
+ },
+ "bank": {
+  "ex": [
+   "The bank is near here.",
+   "I go to the bank.",
+   "My money is in the bank.",
+   "The bank opens at nine."
+  ],
+  "note": ""
+ },
+ "party": {
+  "ex": [
+   "Come to my party!",
+   "I have a birthday party.",
+   "The party is on Friday.",
+   "We go to a party tonight."
+  ],
+  "note": ""
+ },
+ "role": {
+  "ex": [
+   "She has a big role in the film.",
+   "He plays the role of a doctor.",
+   "I like his role.",
+   "This is a small role."
+  ],
+  "note": ""
+ },
+ "director": {
+  "ex": [
+   "She is the director.",
+   "The director is in his office.",
+   "I talk to the director.",
+   "Who is the director here?"
+  ],
+  "note": ""
+ },
+ "art": {
+  "ex": [
+   "I like art.",
+   "We have art class today.",
+   "This is modern art.",
+   "She studies art."
+  ],
+  "note": "Art is uncountable here: \"I like art\", not \"an art\"."
+ },
+ "project": {
+  "ex": [
+   "I have a new project.",
+   "We work on a project.",
+   "The project is ready.",
+   "This is a school project."
+  ],
+  "note": ""
+ },
+ "fan": {
+  "ex": [
+   "I am a big fan.",
+   "He is a football fan.",
+   "The fans are happy.",
+   "Are you a fan of this team?"
+  ],
+  "note": ""
+ },
+ "effect": {
+  "ex": [
+   "The medicine has a good effect.",
+   "It has no effect.",
+   "Coffee has a strong effect on me.",
+   "What is the effect?"
+  ],
+  "note": "Effect is a noun. The verb is \"affect\"."
+ },
+ "officer": {
+  "ex": [
+   "The officer is very kind.",
+   "Ask the police officer.",
+   "He is an army officer.",
+   "The officer helps people."
+  ],
+  "note": ""
+ },
+ "test": {
+  "ex": [
+   "I have a test today.",
+   "The test is easy.",
+   "I pass the test.",
+   "We have an English test."
+  ],
+  "note": ""
+ },
+ "photo": {
+  "ex": [
+   "Can you take a photo of us?",
+   "Send me the photo.",
+   "This is a photo of my family.",
+   "I like this photo."
+  ],
+  "note": "Say \"take a photo\", not \"make a photo\"."
+ },
+ "site": {
+  "ex": [
+   "Visit our site.",
+   "The site is down.",
+   "I buy shoes on this site.",
+   "This site is very good."
+  ],
+  "note": "Short for \"website\"."
+ },
+ "activity": {
+  "ex": [
+   "We have many activities for kids.",
+   "Swimming is a good activity.",
+   "What activities do you like?",
+   "The hotel has fun activities."
+  ],
+  "note": ""
+ },
+ "leader": {
+  "ex": [
+   "She is our team leader.",
+   "He is a good leader.",
+   "Who is the leader?",
+   "The leader talks to us."
+  ],
+  "note": ""
+ },
+ "OK": {
+  "ex": [
+   "OK, see you later.",
+   "Are you OK?",
+   "OK, I can do it.",
+   "Is it OK to sit here?"
+  ],
+  "note": "Also written \"okay\"."
+ },
+ "film": {
+  "ex": [
+   "I like this film.",
+   "The film starts at seven.",
+   "Let's watch a film tonight.",
+   "Is the film good?"
+  ],
+  "note": "In American English, \"movie\" is more common."
+ },
+ "baby": {
+  "ex": [
+   "The baby is asleep.",
+   "We have a new baby.",
+   "The baby is hungry.",
+   "Her baby is one year old."
+  ],
+  "note": ""
+ },
+ "style": {
+  "ex": [
+   "I like your style.",
+   "This is a new style.",
+   "She has a great style.",
+   "What style do you like?"
+  ],
+  "note": ""
+ },
+ "class": {
+  "ex": [
+   "I have class at nine.",
+   "My class is small.",
+   "The class starts now.",
+   "I take a yoga class."
+  ],
+  "note": ""
+ },
+ "club": {
+  "ex": [
+   "I go to a sports club.",
+   "Join our club!",
+   "The club is open today.",
+   "We meet at the club."
+  ],
+  "note": ""
+ },
+ "website": {
+  "ex": [
+   "Visit our website.",
+   "The website is new.",
+   "I buy tickets on the website.",
+   "What is the website?"
+  ],
+  "note": ""
+ },
+ "control": {
+  "ex": [
+   "Passport control is here.",
+   "The remote control is on the table.",
+   "I have no control.",
+   "The car is out of control."
+  ],
+  "note": ""
+ },
+ "period": {
+  "ex": [
+   "It is a busy period at work.",
+   "The waiting period is one week.",
+   "This is a short period of time.",
+   "I work here for a short period."
+  ],
+  "note": ""
+ },
+ "comment": {
+  "ex": [
+   "Leave a comment, please.",
+   "I read the comments.",
+   "Thanks for your comment.",
+   "This comment is funny."
+  ],
+  "note": ""
+ },
+ "start": {
+  "ex": [
+   "The runners are at the start.",
+   "Get ready for the start.",
+   "He has a good start.",
+   "The start is at ten."
+  ],
+  "note": ""
+ },
+ "management": {
+  "ex": [
+   "Talk to the management.",
+   "The management is new.",
+   "I study business management.",
+   "Management is on the third floor."
+  ],
+  "note": "Management is uncountable: \"the management\", not \"a management\"."
+ },
+ "material": {
+  "ex": [
+   "This material is soft.",
+   "What material is this?",
+   "We need more material.",
+   "The bag is made of good material."
+  ],
+  "note": ""
+ },
+ "model": {
+  "ex": [
+   "This is a new model.",
+   "What model is your phone?",
+   "I like this car model.",
+   "She is a fashion model."
+  ],
+  "note": ""
+ },
+ "hey": {
+  "ex": [
+   "Hey, how are you?",
+   "Hey, wait for me!",
+   "Hey, nice to see you!",
+   "Hey, come here!"
+  ],
+  "note": "Informal. Use it with friends."
+ },
+ "football": {
+  "ex": [
+   "I play football.",
+   "We watch football on TV.",
+   "Football is my favorite sport.",
+   "Do you like football?"
+  ],
+  "note": "In the US, \"football\" means American football. Soccer is \"soccer\"."
+ },
+ "park": {
+  "ex": [
+   "Let's go to the park.",
+   "The park is near my house.",
+   "Kids play in the park.",
+   "I walk in the park."
+  ],
+  "note": ""
+ },
+ "manager": {
+  "ex": [
+   "Can I talk to the manager?",
+   "She is a manager.",
+   "The manager is not here.",
+   "My manager is nice."
+  ],
+  "note": ""
+ },
+ "training": {
+  "ex": [
+   "I have training today.",
+   "The training is free.",
+   "We go to a training.",
+   "The training starts at ten."
+  ],
+  "note": "Training is uncountable: say \"training\", not \"a training\"."
+ },
+ "author": {
+  "ex": [
+   "Who is the author?",
+   "She is my favorite author.",
+   "The author is here today.",
+   "I like this author."
+  ],
+  "note": ""
+ },
+ "sex": {
+  "ex": [
+   "Write your sex on the form.",
+   "Sex: male or female?",
+   "We talk about safe sex.",
+   "Sex is a private topic."
+  ],
+  "note": "On forms, \"sex\" means male or female."
+ },
+ "sir": {
+  "ex": [
+   "Yes, sir.",
+   "Thank you, sir.",
+   "Excuse me, sir.",
+   "Can I help you, sir?"
+  ],
+  "note": "A polite word for a man. For a woman, say \"ma'am\"."
+ },
+ "internet": {
+  "ex": [
+   "Do you have internet?",
+   "The internet is slow.",
+   "I read news on the internet.",
+   "Is there internet in the hotel?"
+  ],
+  "note": "Say \"the internet\" or \"on the internet\"."
+ },
+ "computer": {
+  "ex": [
+   "I have a new computer.",
+   "My computer is slow.",
+   "I work on a computer.",
+   "Turn off the computer, please."
+  ],
+  "note": ""
+ },
+ "album": {
+  "ex": [
+   "I like their new album.",
+   "This album is great.",
+   "I listen to the album.",
+   "The band has a new album."
+  ],
+  "note": ""
+ },
+ "LOL": {
+  "ex": [
+   "LOL, that is funny!",
+   "LOL, me too.",
+   "LOL, I love it!",
+   "LOL, good one!"
+  ],
+  "note": "Used in chats and texts. It means \"laughing out loud\"."
+ },
+ "detail": {
+  "ex": [
+   "Send me the details.",
+   "Here are the details.",
+   "I need more details.",
+   "Check every detail."
+  ],
+  "note": ""
+ },
+ "user": {
+  "ex": [
+   "The app has many users.",
+   "Enter your user name.",
+   "I am a new user.",
+   "Users like this app."
+  ],
+  "note": ""
+ },
+ "minister": {
+  "ex": [
+   "The minister is on TV.",
+   "She is a minister.",
+   "The minister talks to people.",
+   "Who is the new minister?"
+  ],
+  "note": ""
+ },
+ "method": {
+  "ex": [
+   "This method is easy.",
+   "I use a new method.",
+   "What method do you use?",
+   "It is a good method."
+  ],
+  "note": ""
+ },
+ "doctor": {
+  "ex": [
+   "I need a doctor.",
+   "Call a doctor, please.",
+   "The doctor is busy.",
+   "I go to the doctor."
+  ],
+  "note": ""
+ },
+ "center": {
+  "ex": [
+   "The hotel is in the city center.",
+   "We go to the shopping center.",
+   "The center is near here.",
+   "I live in the center."
+  ],
+  "note": "British spelling is \"centre\"."
+ }
+}

@@ -1,0 +1,360 @@
+[top-400] people = піпл | pos noun | rank #66 | CEFR A0 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter True
+   examples: ['Many people come to this park on weekends.', 'How many people are coming to the party?', 'Most people in my town are very friendly.', 'I like meeting new people at work.']
+   note: "People" is the plural of "person"; say "one person," not "one people."
+[top-400] start = старт | pos noun | rank #146 | CEFR A1 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['We were late and missed the start of the race.', 'The runners lined up at the start line.', 'Our team got off to a good start this season.', 'She had a fast start and won easily.']
+   note: 
+[top-400] friend = френд | pos noun | rank #186 | CEFR A0 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter True
+   examples: ['My best friend lives next door.', 'I went to the movies with a friend.', 'He made a lot of new friends at school.', 'Can I bring a friend to dinner?']
+   note: 
+[top-400] business = бізнес | pos noun | rank #223 | CEFR A1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['She runs a small business from home.', 'My uncle started his own business last year.', 'Business is good during the holidays.', 'He went to Chicago on business.']
+   note: 
+[top-400] party = паті | pos noun | rank #249 | CEFR A1 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter True
+   examples: ['We are having a birthday party on Saturday.', 'Thanks for inviting me to your party.', 'The party ended late last night.', "Let's throw a party for her new job."]
+   note: 
+[top-400] stop = стоп | pos interj | rank #272 | CEFR A1 | labels(EN) [] | topics ['transport'] | hidden-by-slang-filter False
+   examples: ['Stop! The light is red.', "Stop, don't cross the street yet!", '"Stop!" shouted the driver at the bus stop.', 'Stop right there and wait for the car.']
+   note: 
+[top-400] stop = стоп | pos interj | rank #272 | CEFR A1 | labels(EN) [] | topics ['transport'] | hidden-by-slang-filter False
+   examples: ['Stop! The light is red.', "Stop, don't cross the street yet!", '"Stop!" shouted the driver at the bus stop.', 'Stop right there and wait for the car.']
+   note: 
+[top-400] friend = френд | pos noun | rank #186 | CEFR A0 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter True
+   examples: ['My best friend lives next door.', 'I went to the movies with a friend.', 'He made a lot of new friends at school.', 'Can I bring a friend to dinner?']
+   note: 
+[top-400] video = відео | pos noun | rank #293 | CEFR A1 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter False
+   examples: ['I watched a funny video on my phone.', 'She posted a video of her dog online.', 'Can you send me the video from the trip?', 'We made a short video for class.']
+   note: 
+[top-400] plan = план | pos noun | rank #331 | CEFR A1 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter False
+   examples: ['What are your plans for the summer?', 'We made a plan to save money.', 'The plan worked perfectly.', 'I have no plans for tonight.']
+   note: 
+[top-400] people = піпл | pos noun | rank #66 | CEFR A0 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter True
+   examples: ['Many people come to this park on weekends.', 'How many people are coming to the party?', 'Most people in my town are very friendly.', 'I like meeting new people at work.']
+   note: "People" is the plural of "person"; say "one person," not "one people."
+[top-400] start = старт | pos noun | rank #146 | CEFR A1 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['We were late and missed the start of the race.', 'The runners lined up at the start line.', 'Our team got off to a good start this season.', 'She had a fast start and won easily.']
+   note: 
+[top-1000] show = шоу | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter False
+   examples: ['My favorite TV show starts at eight.', 'We saw a great show in New York.', 'The kids love this cartoon show.', 'Did you watch the show last night?']
+   note: 
+[top-1000] post = пост | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter True
+   examples: ['I liked your post about the trip.', 'She wrote a long post on her blog.', 'His last post got many comments.', 'Delete that post before your boss sees it.']
+   note: 
+[top-1000] top = топ | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['clothing'] | hidden-by-slang-filter False
+   examples: ['She wore a white top with jeans.', 'I bought a new top for the party.', 'This top is too small for me.', 'Her red top matches her shoes.']
+   note: 
+[top-1000] level = левел | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['games'] | hidden-by-slang-filter True
+   examples: ['I finally finished the last level of the game.', 'This level is really hard.', 'You need more points to reach the next level.', 'He played the same level ten times.']
+   note: 
+[top-1000] court = корт | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['We played tennis on the court near my house.', 'The players walked onto the court.', 'The basketball court is open until ten.', 'She practices on an indoor court in winter.']
+   note: 
+[top-1000] control = контроль | pos noun | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter False
+   examples: ['He lost control of the car on the ice.', 'The teacher has good control of the class.', 'Everything is under control now.', 'She likes to be in control.']
+   note: 
+[top-1000] goal = гол | pos noun | rank #939 | CEFR A1 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['He scored a goal in the last minute.', 'The team won by two goals.', 'What a great goal!', 'She scored the first goal of the game.']
+   note: 
+[top-1000] test = тест | pos noun | rank #447 | CEFR A1 | labels(EN) [] | topics ['education'] | hidden-by-slang-filter False
+   examples: ['I have a math test tomorrow.', 'She passed her driving test.', 'Did you study for the test?', 'The test was easier than I thought.']
+   note: 
+[top-1000] sorry = сорі | pos interj | rank #691 | CEFR A1 | labels(EN) [] | topics ['emotions'] | hidden-by-slang-filter True
+   examples: ['Sorry, I am late.', "Sorry, I didn't hear you.", "Oh, sorry, that's my seat.", 'Sorry, can you repeat that?']
+   note: 
+[top-1000] million = мільйон | pos num | rank ≈401 | CEFR A2 | labels(EN) [] | topics ['math'] | hidden-by-slang-filter False
+   examples: ['The city has about two million people.', 'He won a million dollars in the lottery.', 'The house costs one million dollars.', 'Millions of people watched the game.']
+   note: Say "two million dollars," not "two millions dollars."
+[top-1000] detail = деталь | pos noun | rank #908 | CEFR A2 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter False
+   examples: ['Tell me every detail about the trip.', 'She sent the details by email.', 'He pays attention to small details.', "I can't remember the details."]
+   note: 
+[top-1000] final = фінал | pos noun | rank #558 | CEFR A2 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['Our team made it to the final.', 'They lost the final by one point.', 'Millions watched the World Cup final.', 'She won the final in three sets.']
+   note: 
+[top-2000] country = кантрі | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['She loves listening to country.', 'He is a famous country singer.', 'They play country music in this bar.', 'This country song is about a truck.']
+   note: Usually said as "country music."
+[top-2000] player = плеєр | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['music', 'tech'] | hidden-by-slang-filter False
+   examples: ['I keep my old CD player in the car.', 'The music player stopped working.', 'She bought a new DVD player.', 'This player can play many file types.']
+   note: 
+[top-2000] season = сезон | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['time'] | hidden-by-slang-filter False
+   examples: ['Summer is my favorite season.', 'The football season starts in September.', 'Fall is a busy season for farmers.', 'The new season of the show is out.']
+   note: 
+[top-2000] service = сервіс | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['The service at this restaurant is great.', 'The company offers a delivery service.', 'We pay for a music streaming service.', 'Customer service was very helpful.']
+   note: 
+[top-2000] general = генерал | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['military', 'people'] | hidden-by-slang-filter False
+   examples: ['The general gave an order.', 'He became a general in the army.', 'The general spoke to the soldiers.', 'Two generals met at the base.']
+   note: 
+[top-2000] president = президент | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['politics'] | hidden-by-slang-filter False
+   examples: ['The president gave a speech today.', 'She was the first president of the club.', 'The president lives in the White House.', 'Who will be the next president?']
+   note: 
+[top-2000] general = генерал | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['military', 'people'] | hidden-by-slang-filter False
+   examples: ['The general gave an order.', 'He became a general in the army.', 'The general spoke to the soldiers.', 'Two generals met at the base.']
+   note: 
+[top-2000] light = лайт | pos adj | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter True
+   examples: ['I want a light lunch today.', 'She drinks light beer.', 'This bag is very light.', 'Wear light clothes in summer.']
+   note: 
+[top-2000] weekend = вікенд | pos noun | rank #1270 | CEFR A1 | labels(EN) [] | topics ['time'] | hidden-by-slang-filter False
+   examples: ['What did you do on the weekend?', 'We are going camping this weekend.', 'I sleep late on weekends.', 'Have a nice weekend!']
+   note: Americans say "on the weekend"; British say "at the weekend."
+[top-2000] professor = професор | pos noun | rank #1233 | CEFR B1 | labels(EN) [] | topics ['education'] | hidden-by-slang-filter False
+   examples: ['My professor gave us a lot of homework.', 'She is a history professor.', 'The professor answered our questions.', 'He became a professor at forty.']
+   note: In the US, any college teacher is often called "professor."
+[top-2000] market = маркет | pos noun | rank ≈1001 | CEFR B1 | labels(EN) [] | topics ['places'] | hidden-by-slang-filter False
+   examples: ['We buy fresh fruit at the market.', 'The market is open on Saturday.', 'There is a big flea market downtown.', 'She sells bread at the farmers market.']
+   note: 
+[top-2000] resource = ресурс | pos noun | rank #1028 | CEFR B1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['Time is our most important resource.', 'The library has many resources for students.', "We don't have the resources for this project.", 'Water is a precious resource.']
+   note: 
+[top-3000] IT = айті | pos abbr | rank ≈2001 | CEFR B1 | labels(EN) ['abbreviation'] | topics ['tech'] | hidden-by-slang-filter True
+   examples: ['She works in IT at a big bank.', 'Call IT if your computer stops working.', 'The IT department fixed my laptop.', 'He wants a job in IT.']
+   note: 
+[top-3000] like = лайк | pos noun | rank ≈2001 | CEFR B1 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter True
+   examples: ['Her photo got hundreds of likes.', 'Thanks for all the likes and comments!', 'The video has more likes than views.', 'He checks his likes every hour.']
+   note: 
+[top-3000] live = лайв | pos adj | rank ≈2001 | CEFR B1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter True
+   examples: ['We watched a live concert on TV.', 'The band plays live music on Fridays.', 'The game is shown live on the news channel.', 'I love the energy of live shows.']
+   note: 
+[top-3000] shot = шот | pos noun | rank ≈2001 | CEFR B2 | labels(EN) [] | topics ['drinks'] | hidden-by-slang-filter True
+   examples: ["Let's order a round of shots.", 'He drank a shot of tequila.', 'She ordered a coffee with an extra shot.', 'One shot is enough for me.']
+   note: 
+[top-3000] major = майор | pos noun | rank ≈2001 | CEFR B2 | labels(EN) [] | topics ['military'] | hidden-by-slang-filter False
+   examples: ['The major gave orders to his soldiers.', 'Her father was a major in the army.', 'The major walked into the office.', 'He was promoted to major last year.']
+   note: 
+[top-3000] check-in = чек-ін | pos noun | rank ≈2001 | CEFR B1 | labels(EN) [] | topics ['travel'] | hidden-by-slang-filter False
+   examples: ["Check-in starts at three o'clock.", 'The airport check-in was very slow.', 'You can do online check-in a day early.', 'We waited in line at the check-in desk.']
+   note: 
+[top-3000] campaign = кампейн | pos noun | rank ≈2001 | CEFR B2 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter True
+   examples: ['The ad campaign was a big success.', 'They started a campaign to save the park.', 'The campaign runs until December.', 'Her campaign raised a lot of money.']
+   note: 
+[top-3000] retail = ритейл | pos noun | rank #2570 | CEFR B1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter True
+   examples: ['She works in retail.', 'Retail sales went up this month.', 'The retail price is twenty dollars.', 'Retail jobs are busy at Christmas.']
+   note: 
+[top-3000] chat = чат | pos noun | rank #2319 | CEFR B1 | labels(EN) [] | topics ['tech'] | hidden-by-slang-filter False
+   examples: ['I left a message in the group chat.', 'We talked in a video chat.', 'The chat is open for questions.', 'Join the chat to meet other users.']
+   note: 
+[top-3000] image = імідж | pos noun | rank ≈2001 | CEFR B2 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter False
+   examples: ['The company wants a better public image.', 'He works hard on his image.', 'The star changed her image last year.', 'A clean image matters in business.']
+   note: 
+[top-3000] rice = рис | pos noun | rank #2594 | CEFR A0 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['We had rice with chicken.', 'Cook the rice for twenty minutes.', 'I bought a bag of rice.', 'Rice is cheap and filling.']
+   note: Uncountable: "some rice", not "rices".
+[top-3000] factor = фактор | pos noun | rank ≈2001 | CEFR B2 | labels(EN) [] | topics ['science'] | hidden-by-slang-filter False
+   examples: ['Price is a big factor in my choice.', 'The weather was a key factor.', 'Many factors affect our health.', 'Age is one factor to think about.']
+   note: 
+[top-5000] time-out = тайм-аут | pos noun | rank ≈3001 | CEFR B2 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['The coach called a time-out.', 'Each team has two time-outs.', 'After the time-out, they scored.', 'The players talked during the time-out.']
+   note: 
+[top-5000] set = сет | pos noun | rank ≈3001 | CEFR B2 | labels(EN) [] | topics ['music', 'sport'] | hidden-by-slang-filter False
+   examples: ['She won the first set.', 'The match lasted five sets.', 'The band played a short set.', 'He lost the set six to four.']
+   note: 
+[top-5000] community = ком'юніті | pos noun | rank ≈3001 | CEFR B2 | labels(EN) [] | topics ['media', 'people'] | hidden-by-slang-filter True
+   examples: ['Our online community is very friendly.', 'She is active in the local community.', 'The community helped after the fire.', 'Join our community of readers.']
+   note: 
+[top-5000] back office = бек-офіс | pos noun | rank ≈3001 | CEFR B2 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['She works in the back office.', 'The back office handles payments.', 'Back office staff process orders.', 'The back office is on the second floor.']
+   note: 
+[top-5000] home office = хоум-офіс | pos noun | rank ≈3001 | CEFR B2 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['I work from my home office.', 'He set up a home office in the bedroom.', 'My home office has a big desk.', 'A home office saves time.']
+   note: 
+[top-5000] re = ре | pos noun | rank ≈3001 | CEFR C1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['Re is the second note of the scale.', 'Sing do, re, mi.', 'Play re on the piano.', 'After do comes re.']
+   note: 
+[top-5000] rock concert = рок-концерт | pos noun | rank ≈3247 | CEFR B1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['We went to a rock concert last night.', 'The rock concert was very loud.', 'Thousands of fans came to the rock concert.', 'My ears rang after the rock concert.']
+   note: 
+[top-5000] timeline = таймлайн | pos noun | rank #4669 | CEFR B2 | labels(EN) [] | topics ['media', 'tech'] | hidden-by-slang-filter True
+   examples: ['Drag the clip onto the timeline to edit it.', 'The project timeline is very tight.', 'She made a timeline of her life for class.', "Let's agree on a timeline for the work."]
+   note: 
+[top-5000] shooter = шутер | pos noun | rank #4646 | CEFR B2 | labels(EN) [] | topics ['games'] | hidden-by-slang-filter True
+   examples: ['He spends hours playing a shooter online.', 'This shooter has amazing graphics.', 'First-person shooters are popular with teenagers.', 'Which shooter is your favorite game?']
+   note: 
+[top-5000] PIN code = пін-код | pos noun | rank ≈4503 | CEFR B1 | labels(EN) ['abbreviation'] | topics ['finance'] | hidden-by-slang-filter False
+   examples: ['Enter your PIN code to unlock the phone.', 'Never share your PIN code with strangers.', 'I forgot the PIN code for my bank card.', 'You can change your PIN code at the ATM.']
+   note: Often just "PIN"; "PIN number" is also common.
+[top-5000] happening = хепенінг | pos noun | rank ≈3001 | CEFR C1 | labels(EN) [] | topics ['art'] | hidden-by-slang-filter True
+   examples: ['The artists staged a happening in the city park.', 'The happening was part of the art festival.', 'Visitors joined the happening and painted on the walls.', 'In the 1960s, happenings were a new kind of art.']
+   note: In everyday English "happening" usually means an event; the art sense is old-fashioned.
+[top-5000] portfolio = портфоліо | pos noun | rank #4499 | CEFR C1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['She showed her design portfolio at the interview.', 'An artist needs a strong portfolio.', 'He has stocks and bonds in his portfolio.', 'Add your best photos to your portfolio.']
+   note: 
+[top-10k] all-in = олл-ін | pos adj | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['games'] | hidden-by-slang-filter True
+   examples: ['He went all-in with a pair of aces.', "I'm all-in on this new project.", 'She was all-in after the first card.', 'Going all-in is risky in poker.']
+   note: Informal; from poker.
+[top-10k] take = тейк | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter True
+   examples: ['The director wanted one more take.', 'We got the scene on the third take.', 'That was a great take, everyone.', 'The actors did ten takes before lunch.']
+   note: 
+[top-10k] must-have = мастхев | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter True
+   examples: ['This jacket is a must-have for winter.', 'A good phone case is a must-have.', 'Sunscreen is a must-have at the beach.', "This year's must-have toy sold out fast."]
+   note: Informal.
+[top-10k] no-name = ноунейм | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter True
+   examples: ['I bought a cheap no-name charger.', 'No-name brands are often just as good.', 'She prefers no-name products to save money.', 'This no-name phone broke after a week.']
+   note: In English "no-name" is mostly for products; for brands say "unknown brand".
+[top-10k] old-school = олдскул | pos adj | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter True
+   examples: ['He has an old-school style of teaching.', 'I love old-school hip-hop.', 'Writing letters by hand feels old-school.', 'My grandpa uses an old-school phone.']
+   note: Informal.
+[top-10k] coming out = камінг-аут | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter False
+   examples: ['Her coming out surprised no one in her family.', 'He wrote about his coming out in a book.', 'Coming out can be hard for teenagers.', 'Friends supported him after his coming out.']
+   note: 
+[top-10k] tesla = тесла | pos noun | rank #8516 | CEFR C1 | labels(EN) ['technical'] | topics ['physics', 'units'] | hidden-by-slang-filter False
+   examples: ['The magnet has a strength of one tesla.', 'The machine works at three teslas.', 'The tesla is a unit of magnetic field.', 'Measure the field in teslas.']
+   note: 
+[top-10k] MVP = MVP | pos abbr | rank ≈7114 | CEFR C1 | labels(EN) ['abbreviation'] | topics ['business', 'sport'] | hidden-by-slang-filter False
+   examples: ['He was named the MVP of the final game.', 'She won the MVP award for the whole season.', 'Our team built an MVP in just three months.', 'The startup tested its MVP with fifty users.']
+   note: 
+[top-10k] mass market = мас-маркет | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['business'] | hidden-by-slang-filter False
+   examples: ['The product is made for the mass market.', 'Mass market books are cheap and small.', 'They want to reach the mass market.', 'This brand moved from luxury to mass market.']
+   note: 
+[top-10k] bubble tea = бабл-ті | pos noun | rank ≈5822 | CEFR B2 | labels(EN) [] | topics ['drinks'] | hidden-by-slang-filter True
+   examples: ['I ordered a mango bubble tea.', 'Bubble tea has chewy tapioca balls.', 'There is a new bubble tea shop downtown.', 'My kids love strawberry bubble tea.']
+   note: 
+[top-10k] power metal = павер-метал | pos noun | rank ≈5001 | CEFR C1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter True
+   examples: ['He loves power metal with fast guitar solos.', 'Power metal songs are often about dragons.', 'The band plays power metal.', 'Power metal is popular in Europe.']
+   note: 
+[top-10k] ensemble = ансамбль | pos noun | rank #8305 | CEFR C1 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['The ensemble played music from the 1700s.', 'She sings in a small vocal ensemble.', 'The jazz ensemble performed at the park.', 'Our school has a great string ensemble.']
+   note: 
+[top-20k] are = ар | pos noun | rank ≈10001 | CEFR C2 | labels(EN) ['rare', 'technical'] | topics ['units'] | hidden-by-slang-filter False
+   examples: ['One are equals one hundred square meters.', 'The garden covers about five ares.', 'The are is rarely used today.', 'A hectare is one hundred ares.']
+   note: Rare unit; "hectare" is far more common.
+[top-20k] face control = фейсконтроль | pos noun | rank ≈10001 | CEFR C2 | labels(EN) [] | topics ['places'] | hidden-by-slang-filter True
+   examples: ['The club has strict face control.', "We didn't pass face control at the door.", 'Face control decides who gets in.', 'The bouncer did face control at the entrance.']
+   note: Not common in English; people say "dress code" or "door policy".
+[top-20k] land art = ленд-арт | pos noun | rank ≈10001 | CEFR C2 | labels(EN) [] | topics ['art'] | hidden-by-slang-filter False
+   examples: ['Land art is made outdoors with natural materials.', 'The artist creates land art in the desert.', 'We saw a land art piece made of stones.', 'Land art often disappears over time.']
+   note: 
+[top-20k] stop-loss = стоп-лос | pos noun | rank ≈10001 | CEFR C2 | labels(EN) [] | topics ['finance'] | hidden-by-slang-filter False
+   examples: ['Always set a stop-loss when you trade.', 'My stop-loss sold the stock automatically.', 'He placed a stop-loss below the price.', 'The stop-loss protected her from bigger losses.']
+   note: 
+[top-20k] post-rock = пост-рок | pos noun | rank ≈10001 | CEFR C2 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['He listens to post-rock while working.', 'The band plays slow, quiet post-rock.', 'Post-rock songs often have no vocals.', 'She discovered post-rock in college.']
+   note: 
+[top-20k] full contact = фул-контакт | pos noun | rank ≈10001 | CEFR C2 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['He trains in full contact karate.', 'Full contact is a tough fighting sport.', 'They compete in full contact tournaments.', 'Full contact fights can be dangerous.']
+   note: 
+[top-20k] dalton = дальтон | pos noun | rank #11562 | CEFR C2 | labels(EN) [] | topics ['physics', 'units'] | hidden-by-slang-filter False
+   examples: ['A dalton is a unit of atomic mass.', 'The protein weighs about fifty thousand daltons.', 'Scientists measure molecules in daltons.', 'One dalton is close to the mass of a proton.']
+   note: 
+[top-20k] gibbon = гібон | pos noun | rank #14228 | CEFR C1 | labels(EN) [] | topics ['nature'] | hidden-by-slang-filter False
+   examples: ['The gibbon swung from branch to branch.', 'Gibbons have very long arms.', 'We heard the gibbons singing at the zoo.', 'A gibbon is a small ape.']
+   note: 
+[top-20k] yin-yang = інь-ян | pos noun | rank ≈16619 | CEFR C1 | labels(EN) [] | topics ['religion'] | hidden-by-slang-filter False
+   examples: ['She has a yin-yang tattoo.', 'The yin-yang symbol shows balance.', 'He wears a yin-yang necklace.', 'Yin-yang means opposites work together.']
+   note: 
+[top-20k] recruiter = рекрутер | pos noun | rank #11698 | CEFR C1 | labels(EN) [] | topics ['business', 'people'] | hidden-by-slang-filter False
+   examples: ['A recruiter called me about a job.', 'The recruiter looked at my resume.', 'Recruiters visit the college every fall.', 'She works as a tech recruiter.']
+   note: 
+[top-20k] masquerade = маскарад | pos noun | rank #18970 | CEFR C1 | labels(EN) [] | topics ['art'] | hidden-by-slang-filter False
+   examples: ['We went to a masquerade in costume.', 'Everyone wore masks at the masquerade.', 'The masquerade ball was at the palace.', 'She dressed as a cat for the masquerade.']
+   note: 
+[top-20k] raft = рафт | pos noun | rank #11296 | CEFR C1 | labels(EN) [] | topics ['sport', 'transport'] | hidden-by-slang-filter False
+   examples: ['We floated down the river on a raft.', 'The raft hit a rock in the rapids.', 'They built a raft from logs.', 'Ten people can fit in this raft.']
+   note: 
+[top-50k] facilitator = фасилітатор | pos noun | rank #20048 | CEFR C1 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] fact-checker = фактчекер | pos noun | rank ≈20053 | CEFR C1 | labels(EN) [] | topics ['media'] | hidden-by-slang-filter True
+   examples: ['(none yet)']
+   note: 
+[top-50k] sous-chef = су-шеф | pos noun | rank ≈20053 | CEFR C1 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] beret = берет | pos noun | rank #20067 | CEFR B2 | labels(EN) [] | topics ['clothing'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] repellent = репелент | pos noun | rank #20069 | CEFR C1 | labels(EN) [] | topics ['chemistry'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] archangel = архангел | pos noun | rank #20078 | CEFR C1 | labels(EN) [] | topics ['religion'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] chatbot = чатбот | pos noun | rank #33811 | CEFR C2 | labels(EN) [] | topics ['tech'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] operon = оперон | pos noun | rank #49942 | CEFR C2 | labels(EN) ['technical'] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] liquidator = ліквідатор | pos noun | rank #27236 | CEFR C1 | labels(EN) [] | topics ['business', 'law'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] guacamole = гуакамоле | pos noun | rank #24122 | CEFR B2 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] lemma = лема | pos noun | rank #27529 | CEFR C2 | labels(EN) [] | topics ['language', 'math'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-50k] windsurfing = віндсерфінг | pos noun | rank #37679 | CEFR B1 | labels(EN) [] | topics ['sport'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] contralto = контральто | pos noun | rank #50003 | CEFR C2 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] globulin = глобулін | pos noun | rank #50005 | CEFR C2 | labels(EN) [] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] doner = донер | pos noun | rank #50007 | CEFR C1 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] ableism = ейблізм | pos noun | rank #50014 | CEFR C2 | labels(EN) [] | topics ['people'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] abracadabra = абракадабра | pos noun | rank #50015 | CEFR C2 | labels(EN) [] | topics ['other'] | hidden-by-slang-filter True
+   examples: ['(none yet)']
+   note: 
+[top-100k] carpaccio = карпачо | pos noun | rank #50064 | CEFR C1 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] piña colada = піна колада | pos noun | rank ≈53221 | CEFR B2 | labels(EN) [] | topics ['drinks'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] scudo = скудо | pos noun | rank #74823 | CEFR C2 | labels(EN) [] | topics ['finance'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] inosine = інозин | pos noun | rank #85405 | CEFR C2 | labels(EN) [] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] copra = копра | pos noun | rank #52257 | CEFR C2 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] croque monsieur = крок-месьє | pos noun | rank ≈75648 | CEFR C2 | labels(EN) [] | topics ['food'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[top-100k] osteoblast = остеобласт | pos noun | rank #52126 | CEFR C2 | labels(EN) ['technical'] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] acetazolamide = ацетазоламід | pos noun | rank ≈100001 | CEFR C2 | labels(EN) [] | topics ['medicine'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] antithrombin = антитромбін | pos noun | rank ≈100001 | CEFR C2 | labels(EN) [] | topics ['medicine'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] arietta = арієта | pos noun | rank ≈100001 | CEFR C2 | labels(EN) [] | topics ['music'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] basenji = басенджі | pos noun | rank ≈100001 | CEFR C2 | labels(EN) [] | topics ['nature'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] bioprocess = біопроцес | pos noun | rank ≈100001 | CEFR C2 | labels(EN) ['technical'] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] cyclorama = циклорама | pos noun | rank ≈100001 | CEFR C2 | labels(EN) [] | topics ['art'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] intersexualism = інтерсексуалізм | pos noun | rank ≈None | CEFR C2 | labels(EN) ['technical'] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] rheometer = реометр | pos noun | rank ≈100001 | CEFR C2 | labels(EN) ['technical'] | topics ['science'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] dynamometamorphism = динамометаморфізм | pos noun | rank ≈None | CEFR C2 | labels(EN) ['technical'] | topics ['science'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] memorate = меморат | pos noun | rank ≈None | CEFR C2 | labels(EN) [] | topics ['art'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] falsificationism = фальсифікаціонізм | pos noun | rank ≈None | CEFR C2 | labels(EN) [] | topics ['science'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 
+[rare] chemoautotroph = хемоавтотроф | pos noun | rank ≈None | CEFR C2 | labels(EN) [] | topics ['biology'] | hidden-by-slang-filter False
+   examples: ['(none yet)']
+   note: 

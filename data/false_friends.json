@@ -73,7 +73,7 @@
   "lvl": null,
   "labels": [],
   "note": "English: skilled / an expert; Ukrainian адепт = follower, adherent.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-050.json"
  },
  {
@@ -325,7 +325,7 @@
   "lvl": null,
   "labels": [],
   "note": "батон = long loaf of bread; baton = stick (conductor's, police, relay) = паличка/кийок.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-011.json"
  },
  {
@@ -485,6 +485,17 @@
   "src": "scan-017.json"
  },
  {
+  "en": "bur",
+  "uk": "бур",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "button",
   "uk": "бутон",
   "pos": "noun",
@@ -505,17 +516,6 @@
   "note": "",
   "checked": 1,
   "src": "rscan-008.json"
- },
- {
-  "en": "bye-bye",
-  "uk": "бай-бай",
-  "pos": "interj",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "Ukrainian бай-бай is baby talk for 'sleep' (from the lullaby баю-бай); 'bye-bye' is бувай/па-па.",
-  "checked": 1,
-  "src": "scan-012.json"
  },
  {
   "en": "calcinate",
@@ -685,6 +685,17 @@
   "note": "",
   "checked": 1,
   "src": "rscan-004.json"
+ },
+ {
+  "en": "cirque",
+  "uk": "цирк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "en cirque = mountain basin (geology); uk цирк mainly = circus",
+  "checked": 2,
+  "src": "verify-073.json"
  },
  {
   "en": "clay",
@@ -946,6 +957,17 @@
   "src": "rscan-000.json"
  },
  {
+  "en": "conspiracy",
+  "uk": "конспірація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "contractee",
   "uk": "контракте",
   "pos": "",
@@ -1067,17 +1089,6 @@
   "note": "",
   "checked": 1,
   "src": "rscan-003.json"
- },
- {
-  "en": "cross",
-  "uk": "крос",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "крос = cross-country race (also a boxing cross); a cross is хрест",
-  "checked": 2,
-  "src": "verify-002.json"
  },
  {
   "en": "crossing",
@@ -1541,17 +1552,6 @@
   "src": "rscan-015.json"
  },
  {
-  "en": "frank",
-  "uk": "франк",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "frank = honest (відвертий); франк = franc (currency) or a Frank (tribe).",
-  "checked": 2,
-  "src": "verify-005.json"
- },
- {
   "en": "French",
   "uk": "френч",
   "pos": "",
@@ -1605,17 +1605,6 @@
   "note": "",
   "checked": 1,
   "src": "rscan-008.json"
- },
- {
-  "en": "gamma",
-  "uk": "гама",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "гама = musical scale or range (of colours); the Greek letter is гамма.",
-  "checked": 1,
-  "src": "verify-032.json"
  },
  {
   "en": "gas",
@@ -2230,6 +2219,17 @@
   "src": "rscan-004.json"
  },
  {
+  "en": "lustre",
+  "uk": "люстра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "magazine",
   "uk": "магазин",
   "pos": "noun",
@@ -2314,7 +2314,7 @@
   "lvl": null,
   "labels": [],
   "note": "марина = seascape painting (and a girl's name); a boat harbour is яхтова гавань.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-026.json"
  },
  {
@@ -2572,7 +2572,7 @@
   "lvl": null,
   "labels": [],
   "note": "нова = 'new' (feminine adjective); an astronomical nova is нова зоря.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-023.json"
  },
  {
@@ -2980,6 +2980,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "puff",
+  "uk": "пуф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "pulpit",
   "uk": "пульпіт",
   "pos": "",
@@ -3068,6 +3079,17 @@
   "src": "verify-060.json"
  },
  {
+  "en": "ratio",
+  "uk": "раціо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
+ },
+ {
   "en": "referent",
   "uk": "референт",
   "pos": "",
@@ -3075,7 +3097,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-000.json"
  },
  {
@@ -3128,12 +3150,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "business"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1.json"
+  "src": "gap-audit.json"
  },
  {
   "en": "ridicule",
@@ -3432,9 +3452,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian сквер = small public garden; English square = квадрат or a town square (площа).",
-  "checked": 1,
-  "src": "scan-009.json"
+  "note": "сквер = small public garden; square = площа (also квадрат).",
+  "checked": 2,
+  "src": "scan-005.json"
  },
  {
   "en": "stage",
@@ -3468,6 +3488,17 @@
   "note": "Ukrainian статистик = statistician; a statistic = статистичний показник.",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "stein",
+  "uk": "штейн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit.json"
  },
  {
   "en": "step",
@@ -3598,7 +3629,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian талон = coupon, voucher, ticket; English talon = claw",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-072.json"
  },
  {
@@ -3754,7 +3785,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian трап = gangway, boarding stairs; a trap = пастка.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-019.json"
  },
  {

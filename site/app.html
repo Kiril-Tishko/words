@@ -64,9 +64,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
 @media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 640px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } }
-@media (max-width: 480px) { .grid { grid-template-columns: minmax(0, 1fr); } .grid .card { aspect-ratio: 5 / 4; } }
+@media (max-width: 480px) { .grid { grid-template-columns: minmax(0, 1fr); } .grid .card { aspect-ratio: 1 / 1.05; } }
 
-.card { position: relative; perspective: 1000px; aspect-ratio: 1 / 1; cursor: pointer; border-radius: 14px; max-width: 100%; }
+.card { position: relative; perspective: 1000px; aspect-ratio: 4 / 5; cursor: pointer; border-radius: 14px; max-width: 100%; }
 .inner { position: absolute; inset: 0; transition: transform .45s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
 .card.flipped .inner { transform: rotateY(180deg); }
 .face {
@@ -77,20 +77,29 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 }
 .back { transform: rotateY(180deg); justify-content: flex-start; align-items: stretch; text-align: left; gap: 8px; overflow-y: auto; scrollbar-width: thin; }
 .en, .uk { font-family: var(--word); line-height: 1.15; overflow-wrap: anywhere; hyphens: auto; max-width: 100%; }
-.en { font-size: clamp(19px, 2.2vw, 26px); font-weight: 600; }
-.eq { color: var(--muted); font-size: 16px; line-height: 1; }
-.uk { font-size: clamp(17px, 1.9vw, 22px); font-weight: 500; color: var(--muted); }
+.en { font-size: clamp(24px, 2.9vw, 34px); font-weight: 600; }
+.eq { color: var(--muted); font-size: 18px; line-height: 1.1; }
+.uk { font-size: clamp(21px, 2.5vw, 29px); font-weight: 500; color: var(--muted); }
 .more { display: flex; justify-content: center; padding-top: 8px; }
 .flag { position: absolute; top: 10px; left: 10px; width: 20px; height: 13px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 .icon {
   position: absolute; width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; color: var(--muted);
 }
 .icon:hover { background: var(--accent-soft); color: var(--accent); }
+.icon.busy { color: var(--accent); }
+.icon.busy svg { animation: pulse 1s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: .35; } }
 .icon svg { width: 17px; height: 17px; }
 .say { bottom: 6px; left: 6px; }
 .add { top: 6px; right: 6px; }
 .add.on { color: var(--accent); }
-.back .head { font-family: var(--word); font-weight: 600; font-size: 17px; padding-right: 30px; }
+.back .pic { flex: 0 0 auto; height: 32%; border-radius: 10px; background: var(--bg); border: 1px dashed var(--line); display: grid; place-items: center; overflow: hidden; color: var(--line); }
+.back .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.back .pic svg { width: 34px; height: 34px; }
+.back .pic.has { border: 0; }
+.back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; }
+.back ol b { font-weight: 600; color: var(--fg); }
+.back .head { font-family: var(--word); font-weight: 600; font-size: 18px; }
 .back ol { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 4px; font-size: 13px; line-height: 1.32; }
 .back .note { margin-top: auto; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -100,9 +109,13 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 
 /* single view */
 .single { display: flex; flex-direction: column; align-items: center; gap: 16px; }
-.single .card { width: min(520px, 100%); aspect-ratio: 3 / 2; }
-.single .en { font-size: clamp(28px, 6vw, 40px); }
-.single .uk { font-size: clamp(24px, 5vw, 32px); }
+.single .card { width: min(620px, 100%); aspect-ratio: 3 / 2; }
+.single .back { flex-direction: row; gap: 16px; }
+.single .back .pic { flex: 0 0 40%; height: auto; }
+.single .back .txt { flex: 1; }
+@media (max-width: 560px) { .single .card { aspect-ratio: 4 / 5; } .single .back { flex-direction: column; } .single .back .pic { flex: 0 0 auto; height: 34%; } }
+.single .en { font-size: clamp(36px, 7vw, 54px); }
+.single .uk { font-size: clamp(30px, 6vw, 44px); }
 .single .back ol { font-size: 15px; gap: 6px; }
 .nav { display: flex; gap: 10px; align-items: center; }
 .nav .chip { min-width: 44px; text-align: center; }
@@ -171,6 +184,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   const FLAG = '<svg class="flag" viewBox="0 0 60 30" aria-label="British English" role="img"><clipPath id="fc"><path d="M0,0 v30 h60 v-30 z"/></clipPath><clipPath id="ft"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><g clip-path="url(#fc)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#ft)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>';
   const SAY = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9.5h3.5L12 5.5v13l-4.5-4H4z"/><path d="M15.5 9a4 4 0 0 1 0 6M18 6.5a7.5 7.5 0 0 1 0 11"/></svg>';
   const PLUS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>';
+  const PIC = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M5 17l4.5-4.5 3 3 2.5-2.5L19 17"/></svg>';
   const CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
   const canSpeak = 'speechSynthesis' in window;
 
@@ -203,18 +217,21 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     }
     return bundles[i];
   }
-  function playWord(w) {
+  function playWord(w, btn) {
     if (!w) return;
     const c = AUDIO && w.au ? audioCtx() : null;
     if (!c) { speak(w.en); return; }
     if (c.state === 'suspended') c.resume();
+    if (btn) btn.classList.add('busy');
+    const done = () => { if (btn) btn.classList.remove('busy'); };
     loadBundle(w.au[0]).then(buf => {
+      done();
       if (playing) { try { playing.stop(); } catch (e) {} }
       const src = c.createBufferSource();
       src.buffer = buf; src.connect(c.destination);
       src.start(0, Math.max(0, w.au[1] - 0.02), w.au[2] + 0.06);
       playing = src;
-    }).catch(() => speak(w.en));
+    }).catch(() => { done(); speak(w.en); });
   }
   const canPlay = w => (AUDIO && w.au) || canSpeak;
 
@@ -237,6 +254,17 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     $('#topic').hidden = !keys.length;
   }
 
+  // bold the card's word (and its simple forms) inside an example sentence
+  function mark(html, word) {
+    const words = word.replace(/[.]/g, '').split(/[\s-]+/).filter(Boolean)
+      .map(p => esc(p).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    if (!words.length) return html;
+    const last = words.pop();
+    const stem = last.length > 3 && /e$/i.test(last) ? last.slice(0, -1) + 'e?' : last;
+    const re = new RegExp('(^|[^\\p{L}])(' + words.map(x => x + '[\\s-]+').join('') + stem + "(?:s|es|ed|d|ing|'s|ies)?)(?![\\p{L}])", 'giu');
+    return html.replace(re, '$1<b>$2</b>');
+  }
+
   function rankText(w) {
     if (!w.rank) return 'Rare in English';
     if (w.approx) return 'About ' + LEVEL_NAMES[w.band].replace('Top', 'top') + ' in English';
@@ -248,7 +276,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     const ex = (w.examples || []).filter(Boolean);
     const tags = (w.tags || []).filter(t => t !== 'british' && t !== 'international');
     const back = ex.length
-      ? '<ol>' + ex.map(e => '<li>' + esc(e) + '</li>').join('') + '</ol>'
+      ? '<ol>' + ex.map(e => '<li>' + mark(esc(e), w.en) + '</li>').join('') + '</ol>'
       : '<div class="empty-ex">Examples coming soon.</div>';
     return '<div class="card" tabindex="0" role="button" aria-label="' + esc(w.en) + ' equals ' + esc(w.uk) + '. Flip card" data-id="' + esc(w.id) + '">' +
       '<div class="inner">' +
@@ -259,11 +287,14 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
           (opts.noAdd ? '' : '<button class="icon add' + (mine.has(w.id) ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (mine.has(w.id) ? 'Remove from my words' : 'Add to my words') + '">' + (mine.has(w.id) ? CHECK : PLUS) + '</button>') +
         '</div>' +
         '<div class="face back">' +
-          '<div class="head">' + esc(w.en) + (w.pos ? ' <span class="tag">' + esc(w.pos) + '</span>' : '') + '</div>' +
-          '<div class="rank">' + rankText(w) + '</div>' +
-          back +
-          (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +
-          (w.note ? '<div class="note">' + esc(w.note) + '</div>' : '') +
+          (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy"></div>' : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
+          '<div class="txt">' +
+            '<div class="head">' + esc(w.en) + (w.pos ? ' <span class="tag">' + esc(w.pos) + '</span>' : '') + '</div>' +
+            '<div class="rank">' + rankText(w) + '</div>' +
+            back +
+            (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +
+            (w.note ? '<div class="note">' + esc(w.note) + '</div>' : '') +
+          '</div>' +
         '</div>' +
       '</div></div>';
   }
@@ -369,7 +400,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   document.addEventListener('click', e => {
     const t = e.target.closest('button, .card');
     if (!t) return;
-    if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid)); return; }
+    if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid), t); return; }
     if (t.id === 'show-more') { appendCards(); return; }
     if (t.id === 'f-ns') { state.hideNs = !state.hideNs; store.set('sw.hideNs', state.hideNs); state.order = null; state.idx = 0; render(); return; }
     if (t.dataset.add) {

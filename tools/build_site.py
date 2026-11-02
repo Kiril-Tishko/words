@@ -44,7 +44,28 @@ def load_ranks():
         if f <= 0:
             return None, True
         return bisect.bisect_left(neg, -f) + 1, True
-    return rank_of
+
+    def rank_from_freq(f):
+        return bisect.bisect_left(neg, -f) + 1 if f > 0 else None
+
+    def freq_of(word):
+        e = word.lower()
+        return -neg[rank[e] - 1] if e in rank else wordfreq.word_frequency(e, 'en', wordlist='large')
+    return rank_of, rank_from_freq, freq_of
+
+
+def load_sense():
+    """Linguists' estimates (tools/workflows/sense-share.js): {"word": {"s": % of uses in the card's meaning}}
+    or {"phrase": {"pm": occurrences per million words}}."""
+    out = {}
+    for f in sorted(glob.glob(f'{D}/sense/*.json')):
+        try:
+            for k, v in json.load(open(f, encoding='utf-8')).items():
+                if isinstance(v, dict) and ('s' in v or 'pm' in v):
+                    out[k] = v
+        except Exception as e:
+            print('skip broken', f, e, file=sys.stderr)
+    return out
 
 
 FLOOR_SLACK = {'A0': 1, 'A1': 1, 'A2': 401, 'B1': 1001, 'B2': 2001, 'C1': 3001, 'C2': 5001}
@@ -164,7 +185,8 @@ def verdict(r):
 def main():
     starters = json.load(open(f'{D}/levels/pre-a1-starters.json', encoding='utf-8'))
     cefr = json.load(open(f'{D}/levels/cefr.json', encoding='utf-8'))
-    rank_of = load_ranks()
+    rank_of, rank_from_freq, freq_of = load_ranks()
+    sense = load_sense()
     first, cross, gap = load_checked()
 
     buckets = defaultdict(dict)  # verdict -> key -> record
@@ -251,7 +273,18 @@ def main():
         # common than that level allows. Phrases, abbreviations and big gaps get the stricter floor.
         raw = w['rank']
         w['rank_raw'] = raw
-        if raw:
+        sh = sense.get(w['en'])
+        if sh and 'pm' in sh:
+            # phrase: its own frequency (per million words) as estimated by the linguists
+            w['rank'] = rank_from_freq(max(0.0, float(sh['pm'])) / 1e6)
+            w['rank_est'] = True
+        elif sh and 's' in sh:
+            # frequency of the word in the meaning on the card = word frequency x share of that meaning
+            share = max(0.0, min(100.0, float(sh['s'])))
+            w['share'] = share
+            w['rank'] = rank_from_freq(freq_of(w['en']) * share / 100)
+            w['rank_est'] = w['rank_est'] or share < 90
+        elif raw:
             lv = w['level']
             strict = w['rank_est'] or raw * 5 < FLOOR_SLACK.get(lv, 1)
             floor = (FLOOR_STRICT if strict else FLOOR_SLACK).get(lv, 1)
@@ -276,7 +309,8 @@ def main():
     # "ns" marks pairs whose Ukrainian word is slang/colloquial/rare/archaic, used only by the site filter
     reg = json.load(open(f'{D}/levels/register.json', encoding='utf-8')) if os.path.exists(f'{D}/levels/register.json') else {}
     examples = {}
-    for f in sorted(glob.glob(f'{D}/examples/*.json')):
+    # data/examples2 (level-graded by frequency band) overrides the first examples in data/examples
+    for f in sorted(glob.glob(f'{D}/examples/*.json')) + sorted(glob.glob(f'{D}/examples2/*.json')):
         try:
             examples.update(json.load(open(f, encoding='utf-8')))
         except Exception as e:
