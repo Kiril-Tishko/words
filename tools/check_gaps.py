@@ -108,7 +108,13 @@ def main():
     p = f'{D}/checked/sweep-rejected.json'
     if os.path.exists(p):
         old = json.load(open(p, encoding='utf-8'))
-    json.dump(old + rejected, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    seen_rej, merged = set(), []
+    for r in old + rejected:  # re-runs re-read every sweep file, so keep each rejected pair once
+        k = (r['en'].lower(), r['uk'].lower())
+        if k not in seen_rej:
+            seen_rej.add(k)
+            merged.append(r)
+    json.dump(merged, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
     n = len(glob.glob(f'{D}/candidates/gapverify-*.txt'))
     items = sorted(accepted.items())
     made = []
