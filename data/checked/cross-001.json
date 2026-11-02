@@ -1,0 +1,1882 @@
+[
+ {
+  "en": "hall",
+  "uk": "хол",
+  "v": "identical",
+  "ce": "hall",
+  "cu": "хол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "home",
+   "places"
+  ],
+  "lvl": "A0",
+  "note": "хол = lobby, entrance hall; a concert hall = зала"
+ },
+ {
+  "en": "pop",
+  "uk": "поп",
+  "v": "partial_false_friend",
+  "ce": "pop",
+  "cu": "поп"
+ },
+ {
+  "en": "status",
+  "uk": "статус",
+  "v": "identical",
+  "ce": "status",
+  "cu": "статус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "activity",
+  "uk": "активність",
+  "v": "similar",
+  "ce": "activity",
+  "cu": "активність"
+ },
+ {
+  "en": "complex",
+  "uk": "комплекс",
+  "v": "identical",
+  "ce": "complex",
+  "cu": "комплекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B2",
+  "note": "only the noun (a building complex, an inferiority complex); the adjective complex = складний"
+ },
+ {
+  "en": "division",
+  "uk": "дивізіон",
+  "v": "partial_false_friend",
+  "ce": "division",
+  "cu": "дивізіон"
+ },
+ {
+  "en": "interview",
+  "uk": "інтерв'ю",
+  "v": "identical",
+  "ce": "interview",
+  "cu": "інтерв'ю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A1",
+  "note": "Mainly a press/TV interview; a job interview is usually співбесіда; 'to interview' = брати інтерв'ю."
+ },
+ {
+  "en": "prior",
+  "uk": "пріор",
+  "v": "partial_false_friend",
+  "ce": "prior",
+  "cu": "пріор",
+  "why": "пріор is only the rare monastic noun; English prior is mainly the adjective 'previous' (попередній)"
+ },
+ {
+  "en": "royal",
+  "uk": "рояль",
+  "v": "false_friend",
+  "ce": "royal",
+  "cu": "рояль"
+ },
+ {
+  "en": "speech",
+  "uk": "спіч",
+  "v": "identical",
+  "ce": "speech",
+  "cu": "спіч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "language"
+  ],
+  "lvl": "A1",
+  "note": "спіч = a short formal speech, often ironic; the usual word is промова; speech as an ability = мова."
+ },
+ {
+  "en": "traffic",
+  "uk": "трафік",
+  "v": "identical",
+  "ce": "traffic",
+  "cu": "трафік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B2",
+  "note": "трафік = internet/data traffic or a flow of visitors/customers; road traffic = (дорожній) рух."
+ },
+ {
+  "en": "airport",
+  "uk": "аеропорт",
+  "v": "similar",
+  "ce": "airport",
+  "cu": "аеропорт"
+ },
+ {
+  "en": "partner",
+  "uk": "партнер",
+  "v": "identical",
+  "ce": "partner",
+  "cu": "партнер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "brand",
+  "uk": "бренд",
+  "v": "identical",
+  "ce": "brand",
+  "cu": "бренд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "A2",
+  "note": "Only a brand (of a product); a burn mark on cattle = тавро."
+ },
+ {
+  "en": "bus",
+  "uk": "бус",
+  "v": "partial_false_friend",
+  "ce": "bus",
+  "cu": "бус"
+ },
+ {
+  "en": "cent",
+  "uk": "цент",
+  "v": "identical",
+  "ce": "cent",
+  "cu": "цент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "hot dog",
+  "uk": "хот-дог",
+  "v": "identical",
+  "ce": "hot dog",
+  "cu": "хот-дог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "photo",
+  "uk": "фото",
+  "v": "identical",
+  "ce": "photo",
+  "cu": "фото",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A0",
+  "note": "фото is indeclinable: the same form for singular and plural."
+ },
+ {
+  "en": "smart",
+  "uk": "смарт",
+  "v": "partial_false_friend",
+  "ce": "smart",
+  "cu": "смарт"
+ },
+ {
+  "en": "benefit",
+  "uk": "бенефіс",
+  "v": "partial_false_friend",
+  "ce": "benefit",
+  "cu": "бенефіс"
+ },
+ {
+  "en": "budget",
+  "uk": "бюджет",
+  "v": "identical",
+  "ce": "budget",
+  "cu": "бюджет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "click",
+  "uk": "клік",
+  "v": "identical",
+  "ce": "click",
+  "cu": "клік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "Mainly a mouse click; a clicking sound = клацання."
+ },
+ {
+  "en": "fashion",
+  "uk": "фасон",
+  "v": "false_friend",
+  "ce": "fashion",
+  "cu": "фасон"
+ },
+ {
+  "en": "fund",
+  "uk": "фонд",
+  "v": "similar",
+  "ce": "fund",
+  "cu": "фонд"
+ },
+ {
+  "en": "metal",
+  "uk": "метал",
+  "v": "identical",
+  "ce": "metal",
+  "cu": "метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "lvl": "A2",
+  "note": "Also the music genre (метал)."
+ },
+ {
+  "en": "profile",
+  "uk": "профіль",
+  "v": "identical",
+  "ce": "profile",
+  "cu": "профіль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "reality show",
+  "uk": "реаліті-шоу",
+  "v": "identical",
+  "ce": "reality show",
+  "cu": "реаліті-шоу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "agent",
+  "uk": "агент",
+  "v": "identical",
+  "ce": "agent",
+  "cu": "агент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "basis",
+  "uk": "базис",
+  "v": "identical",
+  "ce": "basis",
+  "cu": "базис",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "math"
+  ],
+  "lvl": "B1",
+  "note": "базис is formal or technical (math, economics); the everyday word is основа ('on a daily basis' = щодня)."
+ },
+ {
+  "en": "ex-",
+  "uk": "екс-",
+  "v": "identical",
+  "ce": "ex-",
+  "cu": "екс-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "lvl": "B2",
+  "note": "A prefix meaning 'former': екс-президент = ex-president."
+ },
+ {
+  "en": "ring",
+  "uk": "ринг",
+  "v": "identical",
+  "ce": "ring",
+  "cu": "ринг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B2",
+  "note": "Only a boxing or wrestling ring; a finger ring = каблучка, кільце; 'to ring' = дзвонити."
+ },
+ {
+  "en": "soul",
+  "uk": "соул",
+  "v": "identical",
+  "ce": "soul",
+  "cu": "соул",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": "Only soul music; the soul (spirit) = душа."
+ },
+ {
+  "en": "artist",
+  "uk": "артист",
+  "v": "partial_false_friend",
+  "ce": "artist",
+  "cu": "артист"
+ },
+ {
+  "en": "engineering",
+  "uk": "інжиніринг",
+  "v": "identical",
+  "ce": "engineering",
+  "cu": "інжиніринг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": "інжиніринг = engineering services or design work (business); engineering as a field = інженерія."
+ },
+ {
+  "en": "institute",
+  "uk": "інститут",
+  "v": "identical",
+  "ce": "institute",
+  "cu": "інститут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "method",
+  "uk": "метод",
+  "v": "identical",
+  "ce": "method",
+  "cu": "метод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "option",
+  "uk": "опціон",
+  "v": "partial_false_friend",
+  "ce": "option",
+  "cu": "опціон"
+ },
+ {
+  "en": "senate",
+  "uk": "сенат",
+  "v": "identical",
+  "ce": "senate",
+  "cu": "сенат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "stone",
+  "uk": "стоун",
+  "v": "partial_false_friend",
+  "ce": "stone",
+  "cu": "стоун",
+  "why": "стоун is only the rare British weight unit; the main meaning of stone is камінь"
+ },
+ {
+  "en": "master class",
+  "uk": "майстер-клас",
+  "v": "similar",
+  "ce": "master class",
+  "cu": "майстер-клас"
+ },
+ {
+  "en": "negative",
+  "uk": "негатив",
+  "v": "identical",
+  "ce": "negative",
+  "cu": "негатив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "B2",
+  "note": "Noun only: a photo negative, or negative things ('focus on the negative'); the adjective = негативний."
+ },
+ {
+  "en": "spirit",
+  "uk": "спирт",
+  "v": "partial_false_friend",
+  "ce": "spirit",
+  "cu": "спирт"
+ },
+ {
+  "en": "dollar",
+  "uk": "долар",
+  "v": "identical",
+  "ce": "dollar",
+  "cu": "долар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "foot job",
+  "uk": "футджоб",
+  "v": "unrelated",
+  "ce": "foot job",
+  "cu": "футджоб",
+  "why": "футджоб is not a standard Ukrainian word (vulgar porn-site transliteration); excluded"
+ },
+ {
+  "en": "marketing",
+  "uk": "маркетинг",
+  "v": "identical",
+  "ce": "marketing",
+  "cu": "маркетинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "progress",
+  "uk": "прогрес",
+  "v": "identical",
+  "ce": "progress",
+  "cu": "прогрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "bridge",
+  "uk": "бридж",
+  "v": "identical",
+  "ce": "bridge",
+  "cu": "бридж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "lvl": "C1",
+  "note": "Only the card game; a bridge over a river = міст."
+ },
+ {
+  "en": "concept",
+  "uk": "концепт",
+  "v": "identical",
+  "ce": "concept",
+  "cu": "концепт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "концепт is used in design and science (концепт-кар = concept car); everyday 'concept' is often поняття."
+ },
+ {
+  "en": "host",
+  "uk": "хост",
+  "v": "partial_false_friend",
+  "ce": "host",
+  "cu": "хост",
+  "why": "хост is only the technical networking sense; the main meaning of host (person hosting, TV host) differs"
+ },
+ {
+  "en": "journal",
+  "uk": "журнал",
+  "v": "partial_false_friend",
+  "ce": "journal",
+  "cu": "журнал"
+ },
+ {
+  "en": "balance",
+  "uk": "баланс",
+  "v": "identical",
+  "ce": "balance",
+  "cu": "баланс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "B1",
+  "note": "Also an account balance (bank, phone)."
+ },
+ {
+  "en": "boss",
+  "uk": "бос",
+  "v": "identical",
+  "ce": "boss",
+  "cu": "бос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "informal",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "driver",
+  "uk": "драйвер",
+  "v": "partial_false_friend",
+  "ce": "driver",
+  "cu": "драйвер"
+ },
+ {
+  "en": "file",
+  "uk": "файл",
+  "v": "identical",
+  "ce": "file",
+  "cu": "файл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A1",
+  "note": "A computer file (also a plastic sleeve for papers); a paper file/folder is папка, the tool is напилок."
+ },
+ {
+  "en": "frank",
+  "uk": "франк",
+  "v": "false_friend",
+  "ce": "frank",
+  "cu": "франк"
+ },
+ {
+  "en": "guide",
+  "uk": "гід",
+  "v": "identical",
+  "ce": "guide",
+  "cu": "гід",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "lvl": "B1",
+  "note": "Only a person (tour guide); a guidebook is путівник."
+ },
+ {
+  "en": "roll",
+  "uk": "рол",
+  "v": "identical",
+  "ce": "roll",
+  "cu": "рол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "lvl": "B2",
+  "note": "Only a sushi roll (usually plural роли); a bread roll is булочка, 'to roll' is котити."
+ },
+ {
+  "en": "surprise",
+  "uk": "сюрприз",
+  "v": "identical",
+  "ce": "surprise",
+  "cu": "сюрприз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "emotions"
+  ],
+  "lvl": "A1",
+  "note": "A surprise (unexpected event or gift); the feeling of surprise is здивування."
+ },
+ {
+  "en": "fan club",
+  "uk": "фан-клуб",
+  "v": "identical",
+  "ce": "fan club",
+  "cu": "фан-клуб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "henry",
+  "uk": "генрі",
+  "v": "identical",
+  "ce": "henry",
+  "cu": "генрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "lvl": "C2",
+  "note": "Unit of electrical inductance (symbol H)."
+ },
+ {
+  "en": "magazine",
+  "uk": "магазин",
+  "v": "false_friend",
+  "ce": "magazine",
+  "cu": "магазин"
+ },
+ {
+  "en": "martin",
+  "uk": "мартин",
+  "v": "false_friend",
+  "ce": "martin",
+  "cu": "мартин"
+ },
+ {
+  "en": "parliament",
+  "uk": "парламент",
+  "v": "identical",
+  "ce": "parliament",
+  "cu": "парламент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "web",
+  "uk": "веб",
+  "v": "identical",
+  "ce": "web",
+  "cu": "веб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A2",
+  "note": "The (World Wide) Web, web design (веб-дизайн); a spider's web is павутина."
+ },
+ {
+  "en": "blog",
+  "uk": "блог",
+  "v": "identical",
+  "ce": "blog",
+  "cu": "блог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "mass media",
+  "uk": "мас-медіа",
+  "v": "identical",
+  "ce": "mass media",
+  "cu": "мас-медіа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "pop art",
+  "uk": "поп-арт",
+  "v": "identical",
+  "ce": "pop art",
+  "cu": "поп-арт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "port",
+  "uk": "порт",
+  "v": "identical",
+  "ce": "port",
+  "cu": "порт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "B1",
+  "note": "A seaport, also a computer port; port wine is портвейн, the left side of a ship is лівий борт."
+ },
+ {
+  "en": "stress",
+  "uk": "стрес",
+  "v": "identical",
+  "ce": "stress",
+  "cu": "стрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions"
+  ],
+  "lvl": "B1",
+  "note": "Psychological/physical stress; stress on a syllable is наголос."
+ },
+ {
+  "en": "assistant",
+  "uk": "асистент",
+  "v": "identical",
+  "ce": "assistant",
+  "cu": "асистент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "B1",
+  "note": "Also a university teaching assistant; a shop assistant is продавець."
+ },
+ {
+  "en": "death metal",
+  "uk": "дет-метал",
+  "v": "identical",
+  "ce": "death metal",
+  "cu": "дет-метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "lvl": "C1",
+  "note": "Also spelled дез-метал."
+ },
+ {
+  "en": "festival",
+  "uk": "фестиваль",
+  "v": "identical",
+  "ce": "festival",
+  "cu": "фестиваль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "initial",
+  "uk": "ініціал",
+  "v": "identical",
+  "ce": "initial",
+  "cu": "ініціал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "lvl": "B1",
+  "note": "Usually plural ініціали (initials); the adjective 'initial' is початковий."
+ },
+ {
+  "en": "link",
+  "uk": "лінк",
+  "v": "identical",
+  "ce": "link",
+  "cu": "лінк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "лінк is informal; the standard word is посилання."
+ },
+ {
+  "en": "mail",
+  "uk": "мейл",
+  "v": "partial_false_friend",
+  "ce": "mail",
+  "cu": "мейл"
+ },
+ {
+  "en": "prince",
+  "uk": "принц",
+  "v": "identical",
+  "ce": "prince",
+  "cu": "принц",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A1",
+  "note": "A king's son; a ruling prince (e.g. of Kyivan Rus') is князь."
+ },
+ {
+  "en": "sex shop",
+  "uk": "секс-шоп",
+  "v": "identical",
+  "ce": "sex shop",
+  "cu": "секс-шоп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "transfer",
+  "uk": "трансфер",
+  "v": "identical",
+  "ce": "transfer",
+  "cu": "трансфер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "travel",
+   "sport"
+  ],
+  "lvl": "B2",
+  "note": "Noun only: airport transfer, a player's transfer; 'to transfer' is переводити/переказувати."
+ },
+ {
+  "en": "boat",
+  "uk": "бот",
+  "v": "partial_false_friend",
+  "ce": "boat",
+  "cu": "бот"
+ },
+ {
+  "en": "climate",
+  "uk": "клімат",
+  "v": "identical",
+  "ce": "climate",
+  "cu": "клімат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "lvl": "B1",
+  "note": "Also figurative (political climate)."
+ },
+ {
+  "en": "joint",
+  "uk": "джойнт",
+  "v": "identical",
+  "ce": "joint",
+  "cu": "джойнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "other"
+  ],
+  "lvl": "C1",
+  "note": "Only a marijuana cigarette; a body joint is суглоб, 'joint' (shared) is спільний."
+ },
+ {
+  "en": "mix",
+  "uk": "мікс",
+  "v": "identical",
+  "ce": "mix",
+  "cu": "мікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": "Noun only (a mix, e.g. a music mix); 'to mix' is змішувати."
+ },
+ {
+  "en": "element",
+  "uk": "елемент",
+  "v": "identical",
+  "ce": "element",
+  "cu": "елемент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "limit",
+  "uk": "ліміт",
+  "v": "identical",
+  "ce": "limit",
+  "cu": "ліміт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Also a quota; the mathematical limit is границя."
+ },
+ {
+  "en": "ocean",
+  "uk": "океан",
+  "v": "identical",
+  "ce": "ocean",
+  "cu": "океан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "proof",
+  "uk": "пруф",
+  "v": "identical",
+  "ce": "proof",
+  "cu": "пруф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": "Internet slang for evidence (usually plural пруфи); the normal word is доказ."
+ },
+ {
+  "en": "honor",
+  "uk": "гонор",
+  "v": "partial_false_friend",
+  "ce": "honor",
+  "cu": "гонор"
+ },
+ {
+  "en": "minimum",
+  "uk": "мінімум",
+  "v": "identical",
+  "ce": "minimum",
+  "cu": "мінімум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "photo album",
+  "uk": "фотоальбом",
+  "v": "identical",
+  "ce": "photo album",
+  "cu": "фотоальбом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "tech",
+  "uk": "тех",
+  "v": "similar",
+  "ce": "tech",
+  "cu": "тех"
+ },
+ {
+  "en": "email",
+  "uk": "мейл",
+  "v": "similar",
+  "ce": "email",
+  "cu": "мейл"
+ },
+ {
+  "en": "email",
+  "uk": "імейл",
+  "v": "identical",
+  "ce": "email",
+  "cu": "імейл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A1",
+  "note": "Also written е-мейл; colloquially мейл; formal term електронна пошта."
+ },
+ {
+  "en": "express",
+  "uk": "експрес",
+  "v": "identical",
+  "ce": "express",
+  "cu": "експрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "A2",
+  "note": "An express train/bus, also експрес-доставка (express delivery); 'to express' is висловлювати."
+ },
+ {
+  "en": "shopping",
+  "uk": "шопінг",
+  "v": "identical",
+  "ce": "shopping",
+  "cu": "шопінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": "Shopping as a leisure activity; buying things in general is покупки."
+ },
+ {
+  "en": "sugar",
+  "uk": "сахар",
+  "v": "similar",
+  "ce": "sugar",
+  "cu": "сахар"
+ },
+ {
+  "en": "transport",
+  "uk": "транспорт",
+  "v": "identical",
+  "ce": "transport",
+  "cu": "транспорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "B1",
+  "note": "Noun only; 'to transport' = перевозити"
+ },
+ {
+  "en": "drama",
+  "uk": "драма",
+  "v": "identical",
+  "ce": "drama",
+  "cu": "драма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "era",
+  "uk": "ера",
+  "v": "identical",
+  "ce": "era",
+  "cu": "ера",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "factor",
+  "uk": "фактор",
+  "v": "identical",
+  "ce": "factor",
+  "cu": "фактор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B2",
+  "note": "In maths a factor (of multiplication) is usually множник"
+ },
+ {
+  "en": "grant",
+  "uk": "грант",
+  "v": "identical",
+  "ce": "grant",
+  "cu": "грант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "B1",
+  "note": "Noun only (a grant of money); 'to grant' = надавати"
+ },
+ {
+  "en": "pool",
+  "uk": "пул",
+  "v": "partial_false_friend",
+  "ce": "pool",
+  "cu": "пул"
+ },
+ {
+  "en": "candidate",
+  "uk": "кандидат",
+  "v": "identical",
+  "ce": "candidate",
+  "cu": "кандидат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": "Also a degree: кандидат наук ≈ PhD"
+ },
+ {
+  "en": "concern",
+  "uk": "концерн",
+  "v": "partial_false_friend",
+  "ce": "concern",
+  "cu": "концерн"
+ },
+ {
+  "en": "jersey",
+  "uk": "джерсі",
+  "v": "identical",
+  "ce": "jersey",
+  "cu": "джерсі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing",
+   "sport"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian mainly the knit fabric or a sports team shirt; a sweater = светр"
+ },
+ {
+  "en": "liberal",
+  "uk": "ліберал",
+  "v": "identical",
+  "ce": "liberal",
+  "cu": "ліберал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "C1",
+  "note": "Noun (a liberal person); the adjective is ліберальний"
+ },
+ {
+  "en": "lunch",
+  "uk": "ланч",
+  "v": "identical",
+  "ce": "lunch",
+  "cu": "ланч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "food"
+  ],
+  "lvl": "A0",
+  "note": "The usual Ukrainian word is обід"
+ },
+ {
+  "en": "max",
+  "uk": "макс",
+  "v": "identical",
+  "ce": "max",
+  "cu": "макс",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "informal",
+   "abbreviation",
+   "math"
+  ],
+  "lvl": "A2",
+  "note": "Short for максимум/максимальний (written макс.)"
+ },
+ {
+  "en": "sector",
+  "uk": "сектор",
+  "v": "identical",
+  "ce": "sector",
+  "cu": "сектор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "storm",
+  "uk": "шторм",
+  "v": "similar",
+  "ce": "storm",
+  "cu": "шторм"
+ },
+ {
+  "en": "storm",
+  "uk": "штурм",
+  "v": "false_friend",
+  "ce": "storm",
+  "cu": "штурм"
+ },
+ {
+  "en": "strike",
+  "uk": "страйк",
+  "v": "identical",
+  "ce": "strike",
+  "cu": "страйк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "politics"
+  ],
+  "lvl": "A2",
+  "note": "Only a work stoppage (and a strike in bowling); a hit/attack = удар"
+ },
+ {
+  "en": "actor",
+  "uk": "актор",
+  "v": "identical",
+  "ce": "actor",
+  "cu": "актор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "apartment",
+  "uk": "апартамент",
+  "v": "partial_false_friend",
+  "ce": "apartment",
+  "cu": "апартамент"
+ },
+ {
+  "en": "fake",
+  "uk": "фейк",
+  "v": "identical",
+  "ce": "fake",
+  "cu": "фейк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": "Mostly fake news or content; the adjective is фейковий or підроблений"
+ },
+ {
+  "en": "argument",
+  "uk": "аргумент",
+  "v": "identical",
+  "ce": "argument",
+  "cu": "аргумент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "lvl": "B1",
+  "note": "Only a reason that supports a point; a quarrel = сварка"
+ },
+ {
+  "en": "conflict",
+  "uk": "конфлікт",
+  "v": "identical",
+  "ce": "conflict",
+  "cu": "конфлікт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "document",
+  "uk": "документ",
+  "v": "identical",
+  "ce": "document",
+  "cu": "документ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "talent",
+  "uk": "талант",
+  "v": "identical",
+  "ce": "talent",
+  "cu": "талант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "vice president",
+  "uk": "віце-президент",
+  "v": "identical",
+  "ce": "vice president",
+  "cu": "віце-президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "ah",
+  "uk": "ах",
+  "v": "identical",
+  "ce": "ah",
+  "cu": "ах",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "emotions"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "bob",
+  "uk": "боб",
+  "v": "partial_false_friend",
+  "ce": "bob",
+  "cu": "боб"
+ },
+ {
+  "en": "context",
+  "uk": "контекст",
+  "v": "identical",
+  "ce": "context",
+  "cu": "контекст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "display",
+  "uk": "дисплей",
+  "v": "identical",
+  "ce": "display",
+  "cu": "дисплей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "Only an electronic screen; a show or exhibition = показ, виставка"
+ },
+ {
+  "en": "friend zone",
+  "uk": "френдзона",
+  "v": "similar",
+  "ce": "friend zone",
+  "cu": "френдзона",
+  "why": "zone = зона adds the ending -а, so френдзона is not an identical form"
+ },
+ {
+  "en": "platformer",
+  "uk": "платформер",
+  "v": "identical",
+  "ce": "platformer",
+  "cu": "платформер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games",
+   "tech"
+  ],
+  "lvl": "C1",
+  "note": "English also says 'platform game'"
+ },
+ {
+  "en": "trading",
+  "uk": "трейдинг",
+  "v": "identical",
+  "ce": "trading",
+  "cu": "трейдинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": "Trading on markets or exchanges; trade in general = торгівля"
+ },
+ {
+  "en": "champion",
+  "uk": "чемпіон",
+  "v": "identical",
+  "ce": "champion",
+  "cu": "чемпіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "cream",
+  "uk": "крем",
+  "v": "identical",
+  "ce": "cream",
+  "cu": "крем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home",
+   "food"
+  ],
+  "lvl": "A2",
+  "note": "Cosmetic cream or pastry cream; dairy cream = вершки"
+ },
+ {
+  "en": "giant",
+  "uk": "гігант",
+  "v": "similar",
+  "ce": "giant",
+  "cu": "гігант"
+ },
+ {
+  "en": "mayor",
+  "uk": "майор",
+  "v": "false_friend",
+  "ce": "mayor",
+  "cu": "майор"
+ },
+ {
+  "en": "mayor",
+  "uk": "мер",
+  "v": "identical",
+  "ce": "mayor",
+  "cu": "мер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "minor",
+  "uk": "мінор",
+  "v": "partial_false_friend",
+  "ce": "minor",
+  "cu": "мінор"
+ },
+ {
+  "en": "signal",
+  "uk": "сигнал",
+  "v": "identical",
+  "ce": "signal",
+  "cu": "сигнал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "suicide",
+  "uk": "суїцид",
+  "v": "identical",
+  "ce": "suicide",
+  "cu": "суїцид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "lvl": "B1",
+  "note": "Formal or clinical; the everyday word is самогубство"
+ },
+ {
+  "en": "alcohol",
+  "uk": "алкоголь",
+  "v": "identical",
+  "ce": "alcohol",
+  "cu": "алкоголь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "familiar",
+  "uk": "фамільяр",
+  "v": "partial_false_friend",
+  "ce": "familiar",
+  "cu": "фамільяр",
+  "why": "фамільяр is a rare non-dictionary fantasy loan; English familiar is mainly the adjective знайомий"
+ },
+ {
+  "en": "medium",
+  "uk": "медіум",
+  "v": "partial_false_friend",
+  "ce": "medium",
+  "cu": "медіум"
+ },
+ {
+  "en": "paper",
+  "uk": "папір",
+  "v": "similar",
+  "ce": "paper",
+  "cu": "папір"
+ },
+ {
+  "en": "prime minister",
+  "uk": "прем'єр-міністр",
+  "v": "similar",
+  "ce": "prime minister",
+  "cu": "прем'єр-міністр"
+ },
+ {
+  "en": "solo",
+  "uk": "соло",
+  "v": "identical",
+  "ce": "solo",
+  "cu": "соло",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "ticket",
+  "uk": "тікет",
+  "v": "partial_false_friend",
+  "ce": "ticket",
+  "cu": "тікет"
+ },
+ {
+  "en": "cycle",
+  "uk": "цикл",
+  "v": "identical",
+  "ce": "cycle",
+  "cu": "цикл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B1",
+  "note": "In English cycle also means a bicycle (велосипед)."
+ },
+ {
+  "en": "don",
+  "uk": "дон",
+  "v": "identical",
+  "ce": "don",
+  "cu": "дон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "lvl": "C1",
+  "note": "A mafia boss or the Spanish title дон; British don = university teacher; 'to don' = надягати."
+ },
+ {
+  "en": "maximum",
+  "uk": "максимум",
+  "v": "identical",
+  "ce": "maximum",
+  "cu": "максимум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "reserve",
+  "uk": "резерв",
+  "v": "identical",
+  "ce": "reserve",
+  "cu": "резерв",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": "a nature reserve = заповідник"
+ },
+ {
+  "en": "bond",
+  "uk": "бонд",
+  "v": "partial_false_friend",
+  "ce": "bond",
+  "cu": "бонд",
+  "why": "бонд is finance jargon (standard term облігація); the main meaning of bond is a tie/connection"
+ },
+ {
+  "en": "cry",
+  "uk": "крик",
+  "v": "similar",
+  "ce": "cry",
+  "cu": "крик"
+ },
+ {
+  "en": "gender",
+  "uk": "гендер",
+  "v": "identical",
+  "ce": "gender",
+  "cu": "гендер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": "social gender only; grammatical gender = рід; also spelled ґендер"
+ },
+ {
+  "en": "nick",
+  "uk": "нік",
+  "v": "partial_false_friend",
+  "ce": "nick",
+  "cu": "нік"
+ },
+ {
+  "en": "prize",
+  "uk": "приз",
+  "v": "identical",
+  "ce": "prize",
+  "cu": "приз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "games"
+  ],
+  "lvl": "B1",
+  "note": ""
+ }
+]

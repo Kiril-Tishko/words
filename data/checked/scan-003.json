@@ -1,0 +1,985 @@
+[
+ {
+  "en": "formulae",
+  "uk": "формула",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "formula",
+  "cu": "формула",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math",
+   "science"
+  ],
+  "note": "formulae is the English plural of formula"
+ },
+ {
+  "en": "diplomate",
+  "uk": "дипломат",
+  "v": "identical",
+  "ce": "diplomat",
+  "cu": "дипломат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "people"
+  ],
+  "note": "Listed form 'diplomate' is a rare/old variant (today mostly 'holder of a diploma, board-certified doctor'); modern word: diplomat. Ukrainian дипломат informally also = briefcase."
+ },
+ {
+  "en": "lava",
+  "uk": "лав",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "lava",
+  "cu": "лава",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "лав is gen. pl. of лава; Ukrainian лава also means 'bench' (separate word)"
+ },
+ {
+  "en": "meeting",
+  "uk": "мітинг",
+  "v": "partial_false_friend",
+  "ce": "meeting",
+  "cu": "мітинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "мітинг = (political) rally; meeting = зустріч, збори"
+ },
+ {
+  "en": "prizes",
+  "uk": "приз",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "prize",
+  "cu": "приз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "propaganda",
+  "uk": "пропаганду",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "propaganda",
+  "cu": "пропаганда",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "theatre",
+  "uk": "театрі",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "theater",
+  "cu": "театр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tovarich",
+  "uk": "товариш",
+  "v": "identical",
+  "ce": "tovarich",
+  "cu": "товариш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics",
+   "people"
+  ],
+  "note": "English uses tovarich mainly for a Soviet/Russian 'comrade'; Ukrainian товариш is everyday 'friend, comrade'"
+ },
+ {
+  "en": "phon",
+  "uk": "фон",
+  "v": "identical",
+  "ce": "phon",
+  "cu": "фон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics",
+   "units"
+  ],
+  "note": "unit of loudness; Ukrainian фон usually means 'background' (separate word)"
+ },
+ {
+  "en": "mama",
+  "uk": "мам",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "mama",
+  "cu": "мама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rice",
+  "uk": "риси",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "rice",
+  "cu": "рис",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "риси is mostly the plural of риса 'feature'; рис = rice"
+ },
+ {
+  "en": "type",
+  "uk": "типи",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "type",
+  "cu": "тип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Ukrainian тип informally also = 'guy'"
+ },
+ {
+  "en": "delegacy",
+  "uk": "делегації",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "delegacy",
+  "cu": "делегація",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "usual English: delegation"
+ },
+ {
+  "en": "expertise",
+  "uk": "експертизи",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "expertise",
+  "cu": "експертиза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "експертиза = expert examination/assessment; expertise = expert skill (also 'expert opinion')"
+ },
+ {
+  "en": "cosmoses",
+  "uk": "космос",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "cosmos",
+  "cu": "космос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Ukrainian космос is everyday 'outer space'; English cosmos is more formal"
+ },
+ {
+  "en": "theme",
+  "uk": "темі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "theme",
+  "cu": "тема",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "titule",
+  "uk": "титул",
+  "v": "identical",
+  "ce": "titule",
+  "cu": "титул",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "other"
+  ],
+  "note": "modern English: title"
+ },
+ {
+  "en": "viruses",
+  "uk": "вірус",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "virus",
+  "cu": "вірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pretense",
+  "uk": "претензії",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "pretense",
+  "cu": "претензія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "претензія = claim, complaint/grievance; pretense = pretending, false show"
+ },
+ {
+  "en": "rocket",
+  "uk": "ракет",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "rocket",
+  "cu": "ракета",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "ceremony",
+  "uk": "церемонії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "ceremony",
+  "cu": "церемонія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "dialogue",
+  "uk": "діалогу",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "dialogue",
+  "cu": "діалог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "compositor",
+  "uk": "композитор",
+  "v": "false_friend",
+  "ce": "compositor",
+  "cu": "композитор",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "композитор = composer; compositor = typesetter"
+ },
+ {
+  "en": "psychology",
+  "uk": "психології",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "psychology",
+  "cu": "психологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "brava",
+  "uk": "браво",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "bravo",
+  "cu": "браво",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "brava is the form used for a woman"
+ },
+ {
+  "en": "geography",
+  "uk": "географії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "geography",
+  "cu": "географія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "expresses",
+  "uk": "експрес",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "express",
+  "cu": "експрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "noun: express train/bus"
+ },
+ {
+  "en": "subsidy",
+  "uk": "субсидії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "subsidy",
+  "cu": "субсидія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "surprises",
+  "uk": "сюрприз",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "surprise",
+  "cu": "сюрприз",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "borderline: only сюр- vs sur- differs (French-style vowel)"
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернативи",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "alternative",
+  "cu": "альтернатива",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "are",
+  "uk": "ар",
+  "v": "identical",
+  "ce": "are",
+  "cu": "ар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "note": "metric unit of area (100 m²), not the verb 'are'"
+ },
+ {
+  "en": "gazette",
+  "uk": "газеті",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "gazette",
+  "cu": "газета",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "English gazette is mainly an official journal or part of newspaper names; everyday word: newspaper"
+ },
+ {
+  "en": "magazine",
+  "uk": "магазини",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "magazine",
+  "cu": "магазин",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "магазин = shop; magazine = журнал (shared only: firearm magazine)"
+ },
+ {
+  "en": "minuses",
+  "uk": "мінус",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "minus",
+  "cu": "мінус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "scheme",
+  "uk": "схем",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "scheme",
+  "cu": "схема",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian схема often = diagram"
+ },
+ {
+  "en": "visa",
+  "uk": "віз",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "visa",
+  "cu": "віза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": "віз is gen. pl. of віза; віз is also a separate word 'cart'"
+ },
+ {
+  "en": "literature",
+  "uk": "літературі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "literature",
+  "cu": "література",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "vino",
+  "uk": "вину",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "vino",
+  "cu": "вино",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "drinks"
+  ],
+  "note": "English vino is informal for wine; вину is also a form of вина 'guilt'"
+ },
+ {
+  "en": "kalendar",
+  "uk": "календар",
+  "v": "identical",
+  "ce": "calendar",
+  "cu": "календар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "note": "listed 'kalendar' is an archaic/church spelling of calendar"
+ },
+ {
+  "en": "capitol",
+  "uk": "капітал",
+  "v": "false_friend",
+  "ce": "capitol",
+  "cu": "капітал",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "капітал = capital (money); capitol = legislative building (Капітолій)"
+ },
+ {
+  "en": "critique",
+  "uk": "критику",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "critique",
+  "cu": "критика",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "blockade",
+  "uk": "блокади",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "blockade",
+  "cu": "блокада",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "pistolet",
+  "uk": "пістолет",
+  "v": "identical",
+  "ce": "pistolet",
+  "cu": "пістолет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "military"
+  ],
+  "note": "modern English: pistol"
+ },
+ {
+  "en": "scenario",
+  "uk": "сценарію",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "scenario",
+  "cu": "сценарій",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "сценарій also = screenplay, script"
+ },
+ {
+  "en": "phrase",
+  "uk": "фрази",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "phrase",
+  "cu": "фраза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "physique",
+  "uk": "фізика",
+  "v": "false_friend",
+  "ce": "physique",
+  "cu": "фізика",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "фізика = physics; physique = body build"
+ },
+ {
+  "en": "mine",
+  "uk": "мін",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "mine",
+  "cu": "міна",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "explosive mine; Ukrainian міна also = facial expression"
+ },
+ {
+  "en": "minicomputer",
+  "uk": "міні-комп'ютер",
+  "v": "identical",
+  "ce": "minicomputer",
+  "cu": "міні-комп'ютер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "province",
+  "uk": "провінції",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "province",
+  "cu": "провінція",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "barcode",
+  "uk": "бар-код",
+  "v": "identical",
+  "ce": "barcode",
+  "cu": "бар-код",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "tech",
+   "business"
+  ],
+  "note": "usual Ukrainian: штрихкод"
+ },
+ {
+  "en": "branded",
+  "uk": "бренд",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "brand",
+  "cu": "бренд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "congresses",
+  "uk": "конгрес",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "congress",
+  "cu": "конгрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mass",
+  "uk": "мас",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "mass",
+  "cu": "маса",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "pore",
+  "uk": "пор",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "pore",
+  "cu": "пора",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian пора usually = time/season (separate word)"
+ },
+ {
+  "en": "line",
+  "uk": "ліній",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "line",
+  "cu": "лінія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "christian",
+  "uk": "християн",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "Christian",
+  "cu": "християнин",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "ecology",
+  "uk": "екології",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "ecology",
+  "cu": "екологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "camera",
+  "uk": "камер",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "camera",
+  "cu": "камера",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech",
+   "media"
+  ],
+  "note": "камера also = (prison) cell, chamber, inner tube"
+ },
+ {
+  "en": "culture",
+  "uk": "культурі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "culture",
+  "cu": "культура",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "paraded",
+  "uk": "парад",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "parade",
+  "cu": "парад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "scena",
+  "uk": "сцена",
+  "v": "identical",
+  "ce": "scena",
+  "cu": "сцена",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical",
+   "music"
+  ],
+  "note": "English scena = a scene/dramatic solo in opera; Ukrainian сцена also = stage; everyday English: scene, stage"
+ },
+ {
+  "en": "benzine",
+  "uk": "бензин",
+  "v": "partial_false_friend",
+  "ce": "benzine",
+  "cu": "бензин",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "бензин = gasoline/petrol; English benzine = petroleum solvent"
+ },
+ {
+  "en": "benzene",
+  "uk": "бензин",
+  "v": "false_friend",
+  "ce": "benzene",
+  "cu": "бензин",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "benzene = бензол"
+ },
+ {
+  "en": "motive",
+  "uk": "мотиви",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "motive",
+  "cu": "мотив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "мотив also = motif, tune"
+ },
+ {
+  "en": "info",
+  "uk": "інфу",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "info",
+  "cu": "інфа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang"
+  ],
+  "note": ""
+ },
+ {
+  "en": "base",
+  "uk": "баз",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "base",
+  "cu": "база",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "velocipede",
+  "uk": "велосипед",
+  "v": "identical",
+  "ce": "velocipede",
+  "cu": "велосипед",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "transport"
+  ],
+  "note": "English velocipede = early bicycle; modern English: bicycle, bike"
+ },
+ {
+  "en": "diagnoses",
+  "uk": "діагноз",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "diagnosis",
+  "cu": "діагноз",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "economy",
+  "uk": "економії",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "economy",
+  "cu": "економія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "економія = saving, thrift; economy (system) = економіка"
+ },
+ {
+  "en": "costume",
+  "uk": "костюми",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "costume",
+  "cu": "костюм",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "костюм mainly = suit; costume = карнавальний/сценічний костюм"
+ },
+ {
+  "en": "chinovnik",
+  "uk": "чиновник",
+  "v": "identical",
+  "ce": "chinovnik",
+  "cu": "чиновник",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics",
+   "people"
+  ],
+  "note": "English uses it for a Russian/Soviet bureaucrat"
+ },
+ {
+  "en": "swine",
+  "uk": "свині",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "swine",
+  "cu": "свиня",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "inherited cognate, not a borrowing"
+ },
+ {
+  "en": "businessmen",
+  "uk": "бізнесмен",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "businessman",
+  "cu": "бізнесмен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "concerto",
+  "uk": "концерту",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "concerto",
+  "cu": "концерт",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian концерт = concert and concerto"
+ }
+]

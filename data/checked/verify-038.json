@@ -1,0 +1,867 @@
+[
+ {
+  "en": "prostitute",
+  "uk": "проститутка",
+  "v": "similar",
+  "ce": "prostitute",
+  "cu": "проститутка",
+  "note": "Ukrainian adds -ка"
+ },
+ {
+  "en": "saxon",
+  "uk": "саксон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saxon",
+  "uk": "саксонка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saxon",
+  "uk": "сакс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "semitic",
+  "uk": "семітський",
+  "v": "similar",
+  "ce": "Semitic",
+  "cu": "семітський",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "shampoo",
+  "uk": "шампунь",
+  "v": "similar",
+  "ce": "shampoo",
+  "cu": "шампунь",
+  "note": "Ukrainian ending -нь"
+ },
+ {
+  "en": "shaun",
+  "uk": "шон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tang",
+  "uk": "тан",
+  "v": "unrelated"
+ },
+ {
+  "en": "tango",
+  "uk": "танго",
+  "v": "identical",
+  "ce": "tango",
+  "cu": "танго",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tolerant",
+  "uk": "толерантний",
+  "v": "similar",
+  "ce": "tolerant",
+  "cu": "толерантний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "tuberculosis",
+  "uk": "туберкульоз",
+  "v": "similar",
+  "ce": "tuberculosis",
+  "cu": "туберкульоз",
+  "note": "Ukrainian -оз for English -osis"
+ },
+ {
+  "en": "agnes",
+  "uk": "агнес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "agnes",
+  "uk": "агнеса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alma",
+  "uk": "альма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "archaeology",
+  "uk": "археологія",
+  "v": "similar",
+  "ce": "archaeology",
+  "cu": "археологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "autopsy",
+  "uk": "аутопсія",
+  "v": "similar",
+  "ce": "autopsy",
+  "cu": "аутопсія",
+  "note": "Ukrainian ending -ія; everyday word is розтин"
+ },
+ {
+  "en": "baltic",
+  "uk": "балтійське",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baltic",
+  "uk": "балтія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baltic",
+  "uk": "балтика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baltic",
+  "uk": "балтійський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blitz",
+  "uk": "бліц",
+  "v": "partial_false_friend",
+  "ce": "blitz",
+  "cu": "бліц",
+  "note": "бліц mainly = quick format (blitz chess, quick quiz), not an air raid"
+ },
+ {
+  "en": "blockade",
+  "uk": "блокаду",
+  "v": "not_lemma",
+  "ce": "blockade",
+  "cu": "блокада",
+  "lv": "similar",
+  "note": "accusative of блокада; Ukrainian adds -а"
+ },
+ {
+  "en": "blockade",
+  "uk": "блокада",
+  "v": "similar",
+  "ce": "blockade",
+  "cu": "блокада",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "bosnia",
+  "uk": "боснія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bosnia",
+  "uk": "боснії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bruins",
+  "uk": "брюїнс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burma",
+  "uk": "бірма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cartridge",
+  "uk": "картридж",
+  "v": "identical",
+  "ce": "cartridge",
+  "cu": "картридж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "military"
+  ],
+  "note": "for ammunition Ukrainian usually says патрон"
+ },
+ {
+  "en": "cashier",
+  "uk": "касир",
+  "v": "similar",
+  "ce": "cashier",
+  "cu": "касир",
+  "note": "Ukrainian с instead of sh sound (from German Kassierer)"
+ },
+ {
+  "en": "claudia",
+  "uk": "клаудія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "colt",
+  "uk": "кольт",
+  "v": "false_friend",
+  "ce": "colt",
+  "cu": "кольт",
+  "note": "кольт = Colt revolver; a young horse is лоша"
+ },
+ {
+  "en": "crises",
+  "uk": "криз",
+  "v": "not_lemma",
+  "ce": "crisis",
+  "cu": "криза",
+  "lv": "similar",
+  "note": "genitive plural of криза; Ukrainian криза ends in -а"
+ },
+ {
+  "en": "denise",
+  "uk": "деніз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deportation",
+  "uk": "депортація",
+  "v": "similar",
+  "ce": "deportation",
+  "cu": "депортація",
+  "note": "Ukrainian suffix -ація"
+ },
+ {
+  "en": "dover",
+  "uk": "довер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edison",
+  "uk": "едісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edith",
+  "uk": "едіт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edith",
+  "uk": "едіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "erie",
+  "uk": "ері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "georgetown",
+  "uk": "джорджтаун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hai",
+  "uk": "гаї",
+  "v": "unrelated"
+ },
+ {
+  "en": "hai",
+  "uk": "хай",
+  "v": "unrelated"
+ },
+ {
+  "en": "hancock",
+  "uk": "хенкок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hector",
+  "uk": "гектор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hector",
+  "uk": "ектор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hicks",
+  "uk": "хікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hobbies",
+  "uk": "хобі",
+  "v": "not_lemma",
+  "ce": "hobby",
+  "cu": "хобі",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ]
+ },
+ {
+  "en": "ibrahim",
+  "uk": "ібрагім",
+  "v": "proper_noun"
+ },
+ {
+  "en": "instructors",
+  "uk": "інструкторів",
+  "v": "not_lemma",
+  "ce": "instructor",
+  "cu": "інструктор",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "education"
+  ]
+ },
+ {
+  "en": "instructors",
+  "uk": "інструктори",
+  "v": "not_lemma",
+  "ce": "instructor",
+  "cu": "інструктор",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "education"
+  ]
+ },
+ {
+  "en": "intuitive",
+  "uk": "інтуїтивний",
+  "v": "similar",
+  "ce": "intuitive",
+  "cu": "інтуїтивний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "intuitive",
+  "uk": "інтуїтивно",
+  "v": "similar",
+  "ce": "intuitively",
+  "cu": "інтуїтивно",
+  "note": "adverb; Ukrainian ending -но"
+ },
+ {
+  "en": "irwin",
+  "uk": "ірвін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "isabel",
+  "uk": "ізабель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jorge",
+  "uk": "хорхе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kazakhstan",
+  "uk": "казахстан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kazakhstan",
+  "uk": "казахстану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kazakhstan",
+  "uk": "казахстані",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kenyan",
+  "uk": "кенійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lea",
+  "uk": "леа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luxembourg",
+  "uk": "люксембург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luxembourg",
+  "uk": "люксембурґ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luxembourg",
+  "uk": "люксембургу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mccoy",
+  "uk": "маккой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metropolis",
+  "uk": "метрополіс",
+  "v": "identical",
+  "ce": "metropolis",
+  "cu": "метрополіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "places"
+  ],
+  "note": "Ukrainian more often says мегаполіс; метрополія means a colonial mother country"
+ },
+ {
+  "en": "metropolis",
+  "uk": "метрополія",
+  "v": "partial_false_friend",
+  "ce": "metropolis",
+  "cu": "метрополія",
+  "note": "метрополія = mother country of colonies; a big city is мегаполіс"
+ },
+ {
+  "en": "metropolis",
+  "uk": "митрополія",
+  "v": "partial_false_friend",
+  "ce": "metropolis",
+  "cu": "митрополія",
+  "note": "митрополія = only the church sense (see of a metropolitan bishop)"
+ },
+ {
+  "en": "mohamed",
+  "uk": "мохамед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mummy",
+  "uk": "мумія",
+  "v": "similar",
+  "ce": "mummy",
+  "cu": "мумія",
+  "note": "Ukrainian ending -ія; British 'mummy' = mom is not in Ukrainian"
+ },
+ {
+  "en": "neville",
+  "uk": "невіл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "organizer",
+  "uk": "органайзер",
+  "v": "partial_false_friend",
+  "ce": "organizer",
+  "cu": "органайзер",
+  "note": "органайзер = planner/storage organizer only; a person is організатор"
+ },
+ {
+  "en": "organizer",
+  "uk": "організатор",
+  "v": "similar",
+  "ce": "organizer",
+  "cu": "організатор",
+  "note": "different suffix -атор"
+ },
+ {
+  "en": "pamela",
+  "uk": "памела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parallels",
+  "uk": "паралелі",
+  "v": "not_lemma",
+  "ce": "parallel",
+  "cu": "паралель",
+  "lv": "identical",
+  "note": "also a line of latitude",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math",
+   "nature"
+  ]
+ },
+ {
+  "en": "parameter",
+  "uk": "параметр",
+  "v": "identical",
+  "ce": "parameter",
+  "cu": "параметр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "science",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pathology",
+  "uk": "патології",
+  "v": "not_lemma",
+  "ce": "pathology",
+  "cu": "патологія",
+  "lv": "similar",
+  "note": "inflected form of патологія; Ukrainian ending -ія"
+ },
+ {
+  "en": "pathology",
+  "uk": "патологія",
+  "v": "similar",
+  "ce": "pathology",
+  "cu": "патологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "peggy",
+  "uk": "пеггі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "piercing",
+  "uk": "пірсинг",
+  "v": "identical",
+  "ce": "piercing",
+  "cu": "пірсинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": "Ukrainian only for body piercing, not 'sharp/penetrating'"
+ },
+ {
+  "en": "scooter",
+  "uk": "скутер",
+  "v": "identical",
+  "ce": "scooter",
+  "cu": "скутер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": "Ukrainian скутер = motor scooter; a kick scooter is самокат"
+ },
+ {
+  "en": "sculptures",
+  "uk": "скульптури",
+  "v": "not_lemma",
+  "ce": "sculpture",
+  "cu": "скульптура",
+  "lv": "similar",
+  "note": "plural of скульптура; Ukrainian ending -а"
+ },
+ {
+  "en": "sergio",
+  "uk": "серхіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sid",
+  "uk": "сід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "symphony orchestra",
+  "uk": "симфонічний оркестр",
+  "v": "similar",
+  "ce": "symphony orchestra",
+  "cu": "симфонічний оркестр",
+  "note": "Ukrainian uses adjective симфонічний"
+ },
+ {
+  "en": "tanzania",
+  "uk": "танзанія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tanzania",
+  "uk": "танзанії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tunisia",
+  "uk": "тунісі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tunisia",
+  "uk": "туніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "umm",
+  "uk": "ум",
+  "v": "unrelated"
+ },
+ {
+  "en": "abby",
+  "uk": "еббі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aha",
+  "uk": "ага",
+  "v": "identical",
+  "ce": "aha",
+  "cu": "ага",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "Ukrainian ага also means 'yeah'"
+ },
+ {
+  "en": "aha",
+  "uk": "аха",
+  "v": "identical",
+  "ce": "aha",
+  "cu": "аха",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "informal variant of ага"
+ },
+ {
+  "en": "aleppo",
+  "uk": "алеппо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antarctic",
+  "uk": "антарктика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antarctic",
+  "uk": "антарктична",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anti-semitic",
+  "uk": "антисемітський",
+  "v": "similar",
+  "ce": "anti-Semitic",
+  "cu": "антисемітський",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "aquarium",
+  "uk": "акваріум",
+  "v": "identical",
+  "ce": "aquarium",
+  "cu": "акваріум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "armenia",
+  "uk": "вірменія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asteroid",
+  "uk": "астероїд",
+  "v": "identical",
+  "ce": "asteroid",
+  "cu": "астероїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "asteroid",
+  "uk": "астероїди",
+  "v": "not_lemma",
+  "ce": "asteroid",
+  "cu": "астероїд",
+  "lv": "identical",
+  "note": "plural of астероїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ]
+ },
+ {
+  "en": "baltic sea",
+  "uk": "балтика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barbie",
+  "uk": "барбі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "businessmen",
+  "uk": "бізнесмени",
+  "v": "not_lemma",
+  "ce": "businessman",
+  "cu": "бізнесмен",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "people"
+  ]
+ },
+ {
+  "en": "calculator",
+  "uk": "калькулятор",
+  "v": "identical",
+  "ce": "calculator",
+  "cu": "калькулятор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "catastrophe",
+  "uk": "катастрофи",
+  "v": "not_lemma",
+  "ce": "catastrophe",
+  "cu": "катастрофа",
+  "lv": "similar",
+  "note": "inflected form of катастрофа; Ukrainian ending -а"
+ },
+ {
+  "en": "catastrophe",
+  "uk": "катастрофа",
+  "v": "similar",
+  "ce": "catastrophe",
+  "cu": "катастрофа",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "chemotherapy",
+  "uk": "хіміотерапія",
+  "v": "similar",
+  "ce": "chemotherapy",
+  "cu": "хіміотерапія",
+  "note": "Ukrainian хіміо- and ending -ія"
+ },
+ {
+  "en": "culinary",
+  "uk": "кулінарний",
+  "v": "similar",
+  "ce": "culinary",
+  "cu": "кулінарний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "discrete",
+  "uk": "дискретний",
+  "v": "similar",
+  "ce": "discrete",
+  "cu": "дискретний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "erica",
+  "uk": "еріка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fleming",
+  "uk": "флемінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "furry",
+  "uk": "фурі",
+  "v": "partial_false_friend",
+  "ce": "furry",
+  "cu": "фурі",
+  "note": "фурі = only a member of the furry fandom, not 'covered with fur'"
+ },
+ {
+  "en": "furry",
+  "uk": "фур",
+  "v": "unrelated"
+ },
+ {
+  "en": "harlem",
+  "uk": "гарлем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hoover",
+  "uk": "гувер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "implication",
+  "uk": "імплікація",
+  "v": "partial_false_friend",
+  "ce": "implication",
+  "cu": "імплікація",
+  "note": "імплікація is only a logic/linguistics term; everyday 'implication' = наслідок"
+ },
+ {
+  "en": "josé",
+  "uk": "жозе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "josé",
+  "uk": "хосе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lamar",
+  "uk": "ламар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leafs",
+  "uk": "ліфс",
+  "v": "proper_noun"
+ }
+]

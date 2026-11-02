@@ -11,6 +11,28 @@
   "src": "verify-008.json"
  },
  {
+  "en": "abstract",
+  "uk": "абстрактний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "absurd",
+  "uk": "абсурдний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
   "en": "academy",
   "uk": "академія",
   "pos": "",
@@ -20,6 +42,28 @@
   "note": "inflected form of академія",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "accreditation",
+  "uk": "акредитація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ація",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "acrylic",
+  "uk": "акриловий",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective (-овий); the material is акрил",
+  "checked": 1,
+  "src": "verify-045.json"
  },
  {
   "en": "activation",
@@ -51,8 +95,19 @@
   "lvl": null,
   "labels": [],
   "note": "suffix -ність",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-003.json"
+ },
+ {
+  "en": "adaptation",
+  "uk": "адаптація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ація instead of -ation.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "address",
@@ -64,6 +119,17 @@
   "note": "Ukrainian adds -а",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "adequate",
+  "uk": "адекватний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective adds -ний; also used for a sane, reasonable person",
+  "checked": 1,
+  "src": "verify-019.json"
  },
  {
   "en": "administration",
@@ -88,6 +154,39 @@
   "src": "verify-009.json"
  },
  {
+  "en": "aerodynamic",
+  "uk": "аеродинамічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "aggression",
+  "uk": "агресія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "aggressive",
+  "uk": "агресивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
   "en": "agriculture",
   "uk": "агрикультура",
   "pos": "",
@@ -99,15 +198,92 @@
   "src": "verify-011.json"
  },
  {
-  "en": "alternative",
-  "uk": "альтернатива",
+  "en": "airport",
+  "uk": "аеропорт",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Noun (an alternative); ending -а added. The adjective is альтернативний.",
+  "note": "Ukrainian uses аеро- instead of air-.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "alcoholic",
+  "uk": "алкоголічка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine form with -ічка.",
   "checked": 1,
-  "src": "verify-005.json"
+  "src": "verify-023.json"
+ },
+ {
+  "en": "algebraic",
+  "uk": "алгебраїчний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "allergic",
+  "uk": "алергік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian алергік is a noun (a person with an allergy); the adjective is алергічний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "allergic",
+  "uk": "алергійний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ійний; also алергічний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "allergy",
+  "uk": "алергія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "алергія = allergy (the noun); Ukrainian adds -ія",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "alpha and omega",
+  "uk": "альфа і омега",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "'and' is translated as і",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернатива",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "alternative",
@@ -132,6 +308,17 @@
   "src": "verify-010.json"
  },
  {
+  "en": "amateur",
+  "uk": "аматор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ор (from Latin amator) instead of -eur; also любитель.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
   "en": "amazon",
   "uk": "амазонка",
   "pos": "",
@@ -143,15 +330,158 @@
   "src": "verify-007.json"
  },
  {
-  "en": "analysis",
-  "uk": "аналіз",
+  "en": "ambition",
+  "uk": "амбіція",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "no final -is",
+  "note": "Plural of амбіція; ending -ія.",
   "checked": 1,
-  "src": "verify-003.json"
+  "src": "verify-023.json"
+ },
+ {
+  "en": "amen",
+  "uk": "амінь",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian has і (а-мінь, from Greek)",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "anal",
+  "uk": "анальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "anal sex",
+  "uk": "анальний секс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective анальний has its own ending.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "analogy",
+  "uk": "аналогія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "analysis",
+  "uk": "аналіз",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English plural; analysis vs аналіз (no -is)",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "analyst",
+  "uk": "аналітик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ик",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "analytics",
+  "uk": "аналітика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -а",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "analyze",
+  "uk": "аналізувати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "anatomy",
+  "uk": "анатомія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія instead of -y",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "anthropology",
+  "uk": "антропологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ія for English -y",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "anti",
+  "uk": "анти",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "in Ukrainian only the prefix анти- (антивірус); as a word, 'anti' = противник, проти",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "anti-Semitic",
+  "uk": "антисемітський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ський",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "apocalypse",
+  "uk": "апокаліпсис",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Greek ending -ис added.",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "apollo",
@@ -165,15 +495,81 @@
   "src": "verify-026.json"
  },
  {
-  "en": "architecture",
-  "uk": "архітектура",
+  "en": "apparatus",
+  "uk": "апарат",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian adds -а",
+  "note": "English Latin ending -us is dropped; Ukrainian апарат is an everyday word for a device/machine",
   "checked": 1,
-  "src": "verify-010.json"
+  "src": "verify-028.json"
+ },
+ {
+  "en": "archaeology",
+  "uk": "археологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "architect",
+  "uk": "архітектор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ор.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "architectural",
+  "uk": "архітектурний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective with Ukrainian ending -ний.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "architecture",
+  "uk": "архітектура",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "Arctic",
+  "uk": "Арктика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; the adjective arctic = арктичний",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "army",
+  "uk": "армія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of армія",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "arrest",
@@ -187,15 +583,59 @@
   "src": "verify-007.json"
  },
  {
+  "en": "artery",
+  "uk": "артерія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ія for English -y",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "artillery",
+  "uk": "артилерія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive/plural of артилерія; Ukrainian ending -ія.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "assertive",
+  "uk": "асертивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "athletics",
+  "uk": "атлетика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ics becomes -ика; легка атлетика = track and field",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
   "en": "atmosphere",
   "uk": "атмосфера",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -а",
+  "note": "",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "scan-004.json"
  },
  {
   "en": "atmospheric",
@@ -209,6 +649,17 @@
   "src": "verify-026.json"
  },
  {
+  "en": "atomic",
+  "uk": "атомний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective with Ukrainian ending -ний.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
   "en": "attack",
   "uk": "атака",
   "pos": "",
@@ -217,7 +668,54 @@
   "labels": [],
   "note": "",
   "checked": 1,
-  "src": "verify-005.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "auditorium",
+  "uk": "аудиторія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian аудиторія is also a lecture room and an audience.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "auditory",
+  "uk": "аудиторія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "archaic",
+   "education"
+  ],
+  "note": "Archaic English noun 'auditory' = audience; auditorium. Modern English auditory is an adjective (relating to hearing)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "autonomy",
+  "uk": "автономія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -y.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "autopsy",
+  "uk": "аутопсія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія; everyday word is розтин",
+  "checked": 1,
+  "src": "verify-038.json"
  },
  {
   "en": "avatar",
@@ -231,6 +729,193 @@
   "src": "verify-032.json"
  },
  {
+  "en": "aviation",
+  "uk": "авіація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive form; Ukrainian -ація for -ation",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "bacterium",
+  "uk": "бактерія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural; Ukrainian -ія instead of -ium",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "balcony",
+  "uk": "балкон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English final -y is dropped",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "ballad",
+  "uk": "балада",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "bamboo",
+  "uk": "бамбук",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ends in -к",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "banana",
+  "uk": "банан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Final -a dropped.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "banker",
+  "uk": "банкір",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -er → -ір",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "base",
+  "uk": "база",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "bass guitar",
+  "uk": "бас-гітара",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гітара adds -а.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "Bible",
+  "uk": "Біблія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "biblical",
+  "uk": "біблійний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine form of біблійний; adjective ending.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "bibliography",
+  "uk": "бібліографія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Accusative of бібліографія; ending -ія",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "binary",
+  "uk": "бінарний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний; also двійковий",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "biography",
+  "uk": "біографія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "biological",
+  "uk": "біологічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form of the adjective",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "biology",
+  "uk": "біологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "biotechnology",
+  "uk": "біотехнологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ія ending",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
   "en": "bisexual",
   "uk": "бісексуальний",
   "pos": "",
@@ -240,6 +925,28 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-032.json"
+ },
+ {
+  "en": "blockade",
+  "uk": "блокада",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "blond",
+  "uk": "блондин",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "блондин = a blond man (noun, -ин); the colour is блонд",
+  "checked": 1,
+  "src": "verify-039.json"
  },
  {
   "en": "bomb",
@@ -253,6 +960,50 @@
   "src": "verify-007.json"
  },
  {
+  "en": "brigade",
+  "uk": "бригада",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "bronze",
+  "uk": "бронза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "brutal",
+  "uk": "брутальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний; often means coarse, rude.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "bulletin",
+  "uk": "бюлетень",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "French-style form; Ukrainian also = ballot paper and sick-leave note",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
   "en": "calendar year",
   "uk": "календарний рік",
   "pos": "",
@@ -264,6 +1015,50 @@
   "src": "verify-013.json"
  },
  {
+  "en": "calorie",
+  "uk": "калорія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "campaign",
+  "uk": "кампанія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of кампанія",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "canon",
+  "uk": "канонік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "a church official (canon); Ukrainian adds -ік",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "capital",
+  "uk": "капітель",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "architecture: top of a column (also small caps); vowel а → е",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "capital investment",
   "uk": "капітальні інвестиції",
   "pos": "",
@@ -273,6 +1068,17 @@
   "note": "Ukrainian adjective + plural noun with endings",
   "checked": 1,
   "src": "verify-006.json"
+ },
+ {
+  "en": "capitol",
+  "uk": "капітолій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ій added; usually the US Capitol building.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "capsule",
@@ -297,15 +1103,114 @@
   "src": "verify-003.json"
  },
  {
-  "en": "category",
-  "uk": "категорія",
+  "en": "captain-lieutenant",
+  "uk": "капітан-лейтенант",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "-y → -ія",
+  "note": "капітан has an extra і (capitan) and лейтенант follows German Leutnant; a Ukrainian naval rank, in English mostly historical",
   "checked": 1,
-  "src": "verify-007.json"
+  "src": "verify-012.json"
+ },
+ {
+  "en": "career",
+  "uk": "кар'єра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "caricature",
+  "uk": "карикатура",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -а",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "cashier",
+  "uk": "касир",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian с instead of sh sound (from German Kassierer)",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "catastrophe",
+  "uk": "катастрофа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of катастрофа; Ukrainian ending -а",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "category",
+  "uk": "категорія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case form of категорія",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "cavalry",
+  "uk": "кавалерія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "ceremony",
+  "uk": "церемонія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "certification",
+  "uk": "сертифікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Form of сертифікація; -tion → -ція (-ія added).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "chance",
+  "uk": "шанс",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Very close: only ch read the French way (ш)",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "characteristic",
@@ -314,20 +1219,64 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "plural of характеристика; Ukrainian adds -ика",
+  "note": "Ukrainian характеристика also means a reference letter.",
   "checked": 1,
-  "src": "verify-013.json"
+  "src": "scan-004.json"
  },
  {
-  "en": "Christian",
-  "uk": "християнин",
+  "en": "chemotherapy",
+  "uk": "хіміотерапія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "plural of християнин",
+  "note": "Ukrainian хіміо- and ending -ія",
   "checked": 1,
-  "src": "verify-003.json"
+  "src": "verify-038.json"
+ },
+ {
+  "en": "chief",
+  "uk": "шеф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "From French chef, different vowel; шеф = boss (informal), also a chef (шеф-кухар).",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "chips",
+  "uk": "чипси",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "the usual Ukrainian word is plural чипси; singular чипс is rare",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "choir",
+  "uk": "хор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different form; хор is closer to 'chorus'.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "Christian",
+  "uk": "християнин",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "Christian",
@@ -352,6 +1301,17 @@
   "src": "verify-032.json"
  },
  {
+  "en": "cigarette",
+  "uk": "сигарета",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
   "en": "class",
   "uk": "кляса",
   "pos": "",
@@ -361,6 +1321,17 @@
   "note": "Old Galician/diaspora form of клас.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "class clown",
+  "uk": "класний клоун",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Not a set phrase; класний usually means 'cool'. Class clown ≈ клоун класу.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "classic",
@@ -374,6 +1345,39 @@
   "src": "verify-005.json"
  },
  {
+  "en": "classification",
+  "uk": "класифікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ація instead of -ation",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "clinic",
+  "uk": "клініка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -іка/-а",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "clinical psychology",
+  "uk": "клінічна психологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -на and -ія in психологія.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
   "en": "clip",
   "uk": "кліпс",
   "pos": "",
@@ -383,6 +1387,61 @@
   "note": "кліпс = a clip-on earring; extra -с from English plural clips",
   "checked": 1,
   "src": "verify-013.json"
+ },
+ {
+  "en": "coalition",
+  "uk": "коаліція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "cocoa",
+  "uk": "какао",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "какао matches English 'cacao'; used for both cocoa and cacao",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "code",
+  "uk": "кодекс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кодекс = code of law or conduct (from Latin codex); program code is код.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "cognitive",
+  "uk": "когнітивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "cognitive psychology",
+  "uk": "когнітивна психологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending and -ія.",
+  "checked": 1,
+  "src": "verify-024.json"
  },
  {
   "en": "collaboration",
@@ -396,6 +1455,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "colleague",
+  "uk": "колега",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
   "en": "collection",
   "uk": "колекція",
   "pos": "",
@@ -405,6 +1475,39 @@
   "note": "inflected form of колекція; Ukrainian adds -ія",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "collective",
+  "uk": "колективний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "colonial",
+  "uk": "колоніальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "colony",
+  "uk": "колонія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "color",
@@ -440,6 +1543,17 @@
   "src": "verify-008.json"
  },
  {
+  "en": "comet",
+  "uk": "комета",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "comfortable",
   "uk": "комфортабельний",
   "pos": "",
@@ -460,6 +1574,17 @@
   "note": "комікс = comic book; form comes from 'comics'",
   "checked": 1,
   "src": "verify-010.json"
+ },
+ {
+  "en": "command",
+  "uk": "команда",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of команда; Ukrainian adds -а; команда also means a team",
+  "checked": 1,
+  "src": "verify-022.json"
  },
  {
   "en": "commander",
@@ -484,6 +1609,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "commentary",
+  "uk": "коментар",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of коментар (comment, commentary)",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
   "en": "commission",
   "uk": "комісія",
   "pos": "",
@@ -506,15 +1642,26 @@
   "src": "verify-005.json"
  },
  {
+  "en": "compact",
+  "uk": "компактний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective adds -ний; an agreement (compact) is угода",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
   "en": "company",
   "uk": "компанія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ending -ія added.",
+  "note": "",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "scan-000.json"
  },
  {
   "en": "compensation",
@@ -528,6 +1675,28 @@
   "src": "verify-011.json"
  },
  {
+  "en": "competence",
+  "uk": "компетенція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian компетенція often means area of authority (jurisdiction).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "competent",
+  "uk": "компетентний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний added.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
   "en": "complex",
   "uk": "комплексний",
   "pos": "",
@@ -539,6 +1708,72 @@
   "src": "verify-003.json"
  },
  {
+  "en": "component",
+  "uk": "компонента",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "variant with -а, used e.g. for vector components; the usual form is компонент",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "concerto",
+  "uk": "концерт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian концерт = concert and concerto",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "conference",
+  "uk": "конференція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of конференція",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "confidential",
+  "uk": "конфіденційний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "configuration",
+  "uk": "конфігурація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція (Ukrainian adds -ія).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "confrontation",
+  "uk": "конфронтація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ація for -ation.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "conservative",
   "uk": "консервативний",
   "pos": "",
@@ -548,6 +1783,28 @@
   "note": "adjective ending -ний; the person is консерватор",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "conservative",
+  "uk": "консерватор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of консерватор; Ukrainian has -ор instead of -ive",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "consolidation",
+  "uk": "консолідація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive form of консолідація; ending -ація.",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "constant",
@@ -583,6 +1840,50 @@
   "src": "verify-011.json"
  },
  {
+  "en": "construction",
+  "uk": "конструкція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія; конструкція = a structure, design; building work is будівництво",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "constructive",
+  "uk": "конструктивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "consultation",
+  "uk": "консультація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Inflected form of консультація; -tion becomes -ція.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "contact",
+  "uk": "контактний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine adjective (контактна лінза = contact lens)",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "contamination",
   "uk": "контамінація",
   "pos": "",
@@ -592,6 +1893,28 @@
   "note": "Ending -ія; in Ukrainian mostly a technical or linguistics term (pollution = забруднення).",
   "checked": 1,
   "src": "verify-032.json"
+ },
+ {
+  "en": "continental",
+  "uk": "континентальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ьний added.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "continental shelf",
+  "uk": "континентальний шельф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective with -ний ending; шельф alone = shelf (geology).",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "control",
@@ -605,15 +1928,103 @@
   "src": "verify-000.json"
  },
  {
+  "en": "control group",
+  "uk": "контрольна група",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective контрольна + група (both with Ukrainian endings).",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "conversion",
+  "uk": "конверсія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія; used for currency, marketing and industry conversion; general 'conversion' is перетворення.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "cooperation",
+  "uk": "кооперація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція; mostly economic cooperation; working together = співпраця",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "cooperative",
+  "uk": "кооперативний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine of the adjective кооперативний (-ний added); the noun a cooperative = кооператив.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "coordinate",
+  "uk": "координата",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive plural of координата; Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "coordinate",
+  "uk": "координувати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian verb ending -увати",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "coordination",
+  "uk": "координація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
   "en": "copy",
   "uk": "копія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "genitive plural; Ukrainian adds -ія",
+  "note": "",
   "checked": 1,
-  "src": "verify-010.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "cork",
+  "uk": "корок",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "The standard word is корок (gen. корка).",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "corporation",
@@ -638,6 +2049,50 @@
   "src": "verify-013.json"
  },
  {
+  "en": "correct",
+  "uk": "коректний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний; also means tactful, polite; 'correct' is usually правильний.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "correlation",
+  "uk": "кореляція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Case form of кореляція; ending -ія instead of -ion.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "cosmetic",
+  "uk": "косметика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "косметика = cosmetics (makeup); the adjective is косметичний.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "cost",
+  "uk": "кошт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кошт = expense (за свій кошт = at one's own cost); кошти = funds; the price of something is вартість.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "counterattack",
   "uk": "контратака",
   "pos": "",
@@ -658,6 +2113,17 @@
   "note": "plural form; adjective ending -ний",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "credit",
+  "uk": "кредитний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний (кредитна картка = credit card)",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "credit card",
@@ -682,6 +2148,28 @@
   "src": "verify-005.json"
  },
  {
+  "en": "crisis",
+  "uk": "криза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of криза; Ukrainian криза ends in -а",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "criterion",
+  "uk": "критерій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English -ion vs Ukrainian -ій",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
   "en": "criticism",
   "uk": "критика",
   "pos": "",
@@ -695,13 +2183,13 @@
  {
   "en": "critique",
   "uk": "критика",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ending -а added; критика = criticism, critique (критик = critic).",
+  "note": "",
   "checked": 1,
-  "src": "verify-026.json"
+  "src": "scan-003.json"
  },
  {
   "en": "cry",
@@ -711,7 +2199,7 @@
   "lvl": null,
   "labels": [],
   "note": "крик = a cry, shout (noun); to cry (weep) = плакати",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-007.json"
  },
  {
@@ -726,6 +2214,39 @@
   "src": "verify-010.json"
  },
  {
+  "en": "culinary",
+  "uk": "кулінарний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "cultivate",
+  "uk": "культивувати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian verb ending -увати",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "culture",
+  "uk": "культура",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
   "en": "culture shock",
   "uk": "культурний шок",
   "pos": "",
@@ -735,6 +2256,39 @@
   "note": "Ukrainian uses the adjective культурний.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "custody",
+  "uk": "кустодія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Very rare; custody of a child is опіка, detention is утримання під вартою.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "cyber",
+  "uk": "кібер-",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "In Ukrainian only a prefix written together: кібератака, кібербезпека.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "dame",
+  "uk": "дама",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "дам is genitive plural of дама (lady), also 'I will give' (from дати); дама adds -а",
+  "checked": 1,
+  "src": "verify-022.json"
  },
  {
   "en": "dean",
@@ -759,6 +2313,39 @@
   "src": "verify-006.json"
  },
  {
+  "en": "declaration",
+  "uk": "декларація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ation → -ація.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "decoration",
+  "uk": "декорація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Form of декорація (ending -ія); often means stage scenery",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "decorative",
+  "uk": "декоративний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
   "en": "definition",
   "uk": "дефініція",
   "pos": "",
@@ -768,6 +2355,39 @@
   "note": "Ukrainian adds -ія; rare, usual word визначення",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "delegacy",
+  "uk": "делегація",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "usual English: delegation",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "delegation",
+  "uk": "делегація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -ion.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "dementia",
+  "uk": "деменція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія",
+  "checked": 1,
+  "src": "verify-029.json"
  },
  {
   "en": "democracy",
@@ -792,6 +2412,61 @@
   "src": "verify-005.json"
  },
  {
+  "en": "demographic",
+  "uk": "демографічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний added.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "demonstration",
+  "uk": "демонстрація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "dentist",
+  "uk": "дантист",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Letter а instead of е (from French dentiste); the usual word is стоматолог.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "department",
+  "uk": "департамент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Extra -а- (депарТАмент); mostly a government/company department; a university department is кафедра.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "deportation",
+  "uk": "депортація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian suffix -ація",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "depression",
   "uk": "депресія",
   "pos": "",
@@ -801,6 +2476,50 @@
   "note": "Ukrainian adds -ія",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "destructive",
+  "uk": "деструктивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "diabetes",
+  "uk": "діабет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops -es",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "diagnosis",
+  "uk": "діагноз",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "diagnosis",
+  "uk": "діагностика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "діагностика = diagnostics (the process); a diagnosis itself = діагноз",
+  "checked": 1,
+  "src": "verify-015.json"
  },
  {
   "en": "diagnostic",
@@ -836,6 +2555,39 @@
   "src": "verify-007.json"
  },
  {
+  "en": "diploma",
+  "uk": "диплом",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "final -a dropped",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "diplomacy",
+  "uk": "дипломатія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Extra -т- and ending -ія.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "diplomatic",
+  "uk": "дипломатичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ичний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
   "en": "diplomatic immunity",
   "uk": "дипломатичний імунітет",
   "pos": "",
@@ -845,6 +2597,61 @@
   "note": "Adjective дипломатичний has the ending -ний.",
   "checked": 1,
   "src": "verify-032.json"
+ },
+ {
+  "en": "directive",
+  "uk": "директива",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "directory",
+  "uk": "директорія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія instead of -y; директорія = a computer folder; a phone directory = довідник",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "discipline",
+  "uk": "дисципліна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "discrete",
+  "uk": "дискретний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "discrimination",
+  "uk": "дискримінація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція",
+  "checked": 1,
+  "src": "verify-012.json"
  },
  {
   "en": "discussion",
@@ -869,6 +2676,17 @@
   "src": "verify-032.json"
  },
  {
+  "en": "distance",
+  "uk": "дистанція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case form of дистанція; Ukrainian adds -ія",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "distribution",
   "uk": "дистрибуція",
   "pos": "",
@@ -880,6 +2698,83 @@
   "src": "verify-006.json"
  },
  {
+  "en": "doctrine",
+  "uk": "доктрина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "documentary",
+  "uk": "документальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний; a documentary (film) = документальний фільм",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "documentation",
+  "uk": "документація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "dominant",
+  "uk": "домінанта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian noun adds -а (music, biology); the adjective is домінантний.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "donor",
+  "uk": "донорка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine form with -ка.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "dose",
+  "uk": "доза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural forms; Ukrainian adds -а (доза)",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "double",
+  "uk": "дубль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "from French; дубль = a film take, two goals by one player, or a duplicate",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "dragon",
   "uk": "дракон",
   "pos": "",
@@ -889,6 +2784,61 @@
   "note": "g becomes к",
   "checked": 1,
   "src": "verify-010.json"
+ },
+ {
+  "en": "drainage",
+  "uk": "дренаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "French-style form: -age read as -аж, ai as е",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "dynamics",
+  "uk": "динаміка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "динаміка = dynamics (noun); -ics → -іка; the adjective is динамічний",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "dynasty",
+  "uk": "династія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -y.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "ecological",
+  "uk": "екологічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ічний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "ecology",
+  "uk": "екологія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "economics",
@@ -913,6 +2863,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "ecosystem",
+  "uk": "екосистема",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
   "en": "effective",
   "uk": "ефективний",
   "pos": "",
@@ -922,6 +2883,17 @@
   "note": "Ukrainian adjective ending -ний",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "effectiveness",
+  "uk": "ефективність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian suffix -ність for -ness",
+  "checked": 1,
+  "src": "verify-019.json"
  },
  {
   "en": "electric",
@@ -957,6 +2929,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "electric motor",
+  "uk": "електромотор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian uses the prefix електро- in one word",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
   "en": "electrical energy",
   "uk": "електроенергія",
   "pos": "",
@@ -990,6 +2973,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "electronic cigarette",
+  "uk": "електронна сигарета",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на; сигарета adds -а",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
   "en": "electronics",
   "uk": "електроніка",
   "pos": "",
@@ -1001,6 +2995,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "elegant",
+  "uk": "елегантний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "елегантно is the adverb (elegantly); the adjective is елегантний with ending -ний",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
   "en": "elementary",
   "uk": "елементарний",
   "pos": "",
@@ -1010,6 +3015,17 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "elementary function",
+  "uk": "елементарна функція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на and функція adds -ія",
+  "checked": 1,
+  "src": "verify-015.json"
  },
  {
   "en": "elite",
@@ -1030,8 +3046,76 @@
   "lvl": null,
   "labels": [],
   "note": "Colloquial short form (drops the і-); full form імейл.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
+ },
+ {
+  "en": "empathy",
+  "uk": "емпатія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "empery",
+  "uk": "імперія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "archaic"
+  ],
+  "note": "archaic/literary English empery = empire; modern English: empire",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "energetic",
+  "uk": "енергетичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "енергетичний = relating to energy/power industry; a lively person is енергійний; ending -ний.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "energy",
+  "uk": "енергія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case form of енергія",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "epidemic",
+  "uk": "епідемія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "epoch",
+  "uk": "епоха",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-058.json"
  },
  {
   "en": "equivalent",
@@ -1045,6 +3129,17 @@
   "src": "verify-008.json"
  },
  {
+  "en": "ethics",
+  "uk": "етика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ика instead of -ics",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
   "en": "expansion",
   "uk": "експансія",
   "pos": "",
@@ -1054,6 +3149,17 @@
   "note": "Ukrainian -ія for -ion; mostly political or economic expansion.",
   "checked": 1,
   "src": "verify-008.json"
+ },
+ {
+  "en": "expedition",
+  "uk": "експедиція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція (Ukrainian adds -ія).",
+  "checked": 1,
+  "src": "verify-021.json"
  },
  {
   "en": "experimental",
@@ -1089,6 +3195,17 @@
   "src": "verify-011.json"
  },
  {
+  "en": "faculty",
+  "uk": "факультет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "different suffix (-тет); only 'division of a university'; teaching staff = викладачі, ability = здібність",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
   "en": "fantastic",
   "uk": "фантастичний",
   "pos": "",
@@ -1106,9 +3223,31 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian -ія; imagination, daydream (not the genre).",
+  "note": "",
   "checked": 1,
-  "src": "verify-008.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "federal",
+  "uk": "федеральний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ний.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "federal state",
+  "uk": "федеральний штат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний; штат = state of a federation",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "federation",
@@ -1122,6 +3261,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "fibrosis",
+  "uk": "фіброз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops the ending -is",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
   "en": "field marshal",
   "uk": "фельдмаршал",
   "pos": "",
@@ -1131,6 +3281,39 @@
   "note": "Taken from German Feldmarschall (фельд-, not філд).",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "fig",
+  "uk": "фіга",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; the fruit is usually інжир; фіга also = a rude thumb gesture.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "figure",
+  "uk": "фігура",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "finale",
+  "uk": "фінал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фінал also = final (the final match), which is identical in form",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "finance",
@@ -1144,15 +3327,48 @@
   "src": "verify-006.json"
  },
  {
+  "en": "finances",
+  "uk": "фінанси",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian plural ending -и; plural-only noun.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "financial instrument",
+  "uk": "фінансовий інструмент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фінансовий has the adjective ending -ний",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "fine",
+  "uk": "файний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Colloquial (western Ukrainian) adjective 'nice, pretty'; adds -ний. A fine (penalty) is штраф.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "firm",
   "uk": "фірма",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "genitive plural; Ukrainian adds -а",
+  "note": "",
   "checked": 1,
-  "src": "verify-010.json"
+  "src": "scan-004.json"
  },
  {
   "en": "fiscal",
@@ -1166,15 +3382,26 @@
   "src": "verify-013.json"
  },
  {
+  "en": "flank",
+  "uk": "фланг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ends in -г; noun only (military, sport)",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "form",
   "uk": "форма",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
   "note": "",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "scan-002.json"
  },
  {
   "en": "formal",
@@ -1188,6 +3415,64 @@
   "src": "verify-009.json"
  },
  {
+  "en": "formally",
+  "uk": "формально",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adverb ending -но instead of -ly.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "fortune",
+  "uk": "фортуна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; luck/fate only; wealth = статок",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "fossil",
+  "uk": "фосилія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія; rare term, usual word скам'янілість.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "fountain",
+  "uk": "фонтан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different vowels (from Italian fontana).",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "friend zone",
+  "uk": "френдзона",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "verify-006.json"
+ },
+ {
   "en": "fruit",
   "uk": "фрукт",
   "pos": "",
@@ -1197,6 +3482,28 @@
   "note": "Ukrainian adds -т",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "frustration",
+  "uk": "фрустрація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція; mostly a psychology term.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "function",
+  "uk": "функція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case/plural form of функція; Ukrainian adds -ія",
+  "checked": 1,
+  "src": "verify-004.json"
  },
  {
   "en": "functionality",
@@ -1210,6 +3517,50 @@
   "src": "verify-032.json"
  },
  {
+  "en": "fund",
+  "uk": "фонд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different vowel: о instead of u.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "fundamental",
+  "uk": "фундаментальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural form of the adjective",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "fundamental group",
+  "uk": "фундаментальна група",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending and група (-а)",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "fury",
+  "uk": "фурія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія; фурія = a furious woman or the Furies, anger itself is лють.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
   "en": "gallery",
   "uk": "галерея",
   "pos": "",
@@ -1219,6 +3570,28 @@
   "note": "",
   "checked": 1,
   "src": "verify-008.json"
+ },
+ {
+  "en": "gas",
+  "uk": "газ",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian has з for s; in American English gas also means petrol (бензин).",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "gazette",
+  "uk": "газета",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English gazette is mainly an official journal or part of newspaper names; everyday word: newspaper",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "gender",
@@ -1254,6 +3627,28 @@
   "src": "verify-000.json"
  },
  {
+  "en": "general secretary",
+  "uk": "генеральний секретар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний (генеральний).",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "generation",
+  "uk": "генерація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія; a generation of people is usually покоління.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "genetic code",
   "uk": "генетичний код",
   "pos": "",
@@ -1276,6 +3671,72 @@
   "src": "verify-026.json"
  },
  {
+  "en": "genius",
+  "uk": "геній",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-us → -ій",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "geographic",
+  "uk": "географічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective with Ukrainian ending -ний.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "geography",
+  "uk": "географія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "geology",
+  "uk": "геологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "geometry",
+  "uk": "геометрія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "Germanic",
+  "uk": "германський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
   "en": "giant",
   "uk": "гігант",
   "pos": "",
@@ -1283,7 +3744,7 @@
   "lvl": null,
   "labels": [],
   "note": "Extra г (from Greek gigas); also велетень",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {
@@ -1298,15 +3759,92 @@
   "src": "verify-003.json"
  },
  {
-  "en": "group",
-  "uk": "група",
+  "en": "globally",
+  "uk": "глобально",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ending -а added.",
+  "note": "Ukrainian adverb ending -о (from глобальний)",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "verify-027.json"
+ },
+ {
+  "en": "glossary",
+  "uk": "глосарій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ій",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "graph",
+  "uk": "графік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ік; графік also means a schedule",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "graphics",
+  "uk": "графіка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian noun графіка = graphics / graphic art; the adjective graphic is графічний.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "griffin",
+  "uk": "грифон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different vowel; matches the English variant griffon.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "griffin",
+  "uk": "гриф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Shortened; гриф also means vulture, guitar fingerboard, secrecy stamp.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "group",
+  "uk": "група",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of група",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "group sex",
+  "uk": "груповий секс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ий (груповий)",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "guarantee",
@@ -1331,6 +3869,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "guild",
+  "uk": "гільдія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of гільдія; ending -ія added",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
   "en": "guitar",
   "uk": "гітара",
   "pos": "",
@@ -1340,6 +3889,28 @@
   "note": "accusative form; lemma adds ending -а",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "harmony",
+  "uk": "гармонія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "haven",
+  "uk": "гавань",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гавань = harbor; haven today mostly = a safe place",
+  "checked": 1,
+  "src": "verify-017.json"
  },
  {
   "en": "hero",
@@ -1364,15 +3935,59 @@
   "src": "verify-026.json"
  },
  {
+  "en": "hey",
+  "uk": "ей",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "No h sound; a common colloquial interjection.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "hierarchy",
+  "uk": "ієрархія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-y → -ія; no initial h-sound in Ukrainian",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "Hindu",
+  "uk": "індус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -с added; also loosely used for any Indian person (correctly індієць).",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
   "en": "history",
   "uk": "історія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "",
+  "note": "Ukrainian історія also means story.",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "homosexual",
+  "uk": "гомосексуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний; the noun is гомосексуал.",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "hook",
@@ -1397,6 +4012,116 @@
   "src": "verify-010.json"
  },
  {
+  "en": "horde",
+  "uk": "орда",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "horizon",
+  "uk": "горизонт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -т.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "horizontal",
+  "uk": "горизонтальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "hospital",
+  "uk": "шпиталь",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "different form (from German Spital); dated or military",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "humanitarian",
+  "uk": "гуманітарний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Inflected form of гуманітарний; adjective ending.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "humanity",
+  "uk": "гуманність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "suffix -ність; only 'humaneness'; humankind = людство",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "hybrid",
+  "uk": "гібридний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "hygiene",
+  "uk": "гігієна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гігієни is genitive of гігієна; Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "icon",
+  "uk": "іконка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "іконка = a computer icon (adds -ка); a religious icon = ікона",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "icon",
+  "uk": "ікона",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ікона = a religious icon (adds -а); a computer icon = іконка",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
   "en": "ideal",
   "uk": "ідеальний",
   "pos": "",
@@ -1406,6 +4131,50 @@
   "note": "adjective ending -ний",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "identification",
+  "uk": "ідентифікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ація for -ation",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "ideological",
+  "uk": "ідеологічний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ічний",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "ideology",
+  "uk": "ідеологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "illustration",
+  "uk": "ілюстрація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Inflected form of ілюстрація; ending -ія.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "immigration",
@@ -1419,6 +4188,50 @@
   "src": "verify-009.json"
  },
  {
+  "en": "immune",
+  "uk": "імунний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "immune system",
+  "uk": "імунна система",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на; система adds -а",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "immunity",
+  "uk": "імунітет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Suffix -ітет instead of -ity.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "incompetent",
+  "uk": "некомпетентний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with не- and -ний",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "incorporate",
   "uk": "інкорпорувати",
   "pos": "",
@@ -1428,6 +4241,50 @@
   "note": "Ukrainian verb ending -увати.",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "individual",
+  "uk": "індивідуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form of індивідуальний",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "individual",
+  "uk": "індивідуум",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Latin form with -ум; rare, everyday word is особа",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "individuality",
+  "uk": "індивідуальність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian suffix -ість instead of -ity",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "individually",
+  "uk": "індивідуально",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different adverb suffix.",
+  "checked": 1,
+  "src": "verify-024.json"
  },
  {
   "en": "industrial",
@@ -1458,9 +4315,22 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "plural form; Ukrainian adds -ія",
+  "note": "Ending -ія added.",
   "checked": 1,
-  "src": "verify-010.json"
+  "src": "verify-001.json"
+ },
+ {
+  "en": "info",
+  "uk": "інфа",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "slang"
+  ],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "information",
@@ -1472,6 +4342,28 @@
   "note": "Ending -ія instead of -ion.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "information age",
+  "uk": "інформаційна ера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "calque: adjective інформаційна + ера (era)",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "information system",
+  "uk": "інформаційна система",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective інформаційна + система (both with Ukrainian endings).",
+  "checked": 1,
+  "src": "verify-001.json"
  },
  {
   "en": "information technology",
@@ -1487,13 +4379,13 @@
  {
   "en": "infrastructure",
   "uk": "інфраструктура",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -а",
+  "note": "case form of інфраструктура",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "scan-001.json"
  },
  {
   "en": "initiative",
@@ -1507,6 +4399,39 @@
   "src": "verify-011.json"
  },
  {
+  "en": "innovation",
+  "uk": "інновація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural/genitive of інновація (-ція ending)",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "inspection",
+  "uk": "інспекція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "institute",
+  "uk": "інституція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "інституція = institution; an institute is інститут.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "institution",
   "uk": "інституція",
   "pos": "",
@@ -1516,6 +4441,17 @@
   "note": "plural of інституція; Ukrainian adds -ія",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "institutional",
+  "uk": "інституційний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ійний instead of -al.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "instruction",
@@ -1529,15 +4465,92 @@
   "src": "verify-011.json"
  },
  {
+  "en": "instrumental",
+  "uk": "інструментальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective with Ukrainian ending -ний.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "integrate",
+  "uk": "інтегрувати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Verb ending -увати.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "integration",
+  "uk": "інтеграція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "intellectual",
+  "uk": "інтелектуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form of the adjective",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "intensive",
+  "uk": "інтенсивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "interactive",
+  "uk": "інтерактивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective adds -ний",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
   "en": "interest",
   "uk": "інтерес",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Lemma інтерес has no final -t; financial interest = відсотки",
+  "note": "No final -t; interest on money is відсотки.",
   "checked": 1,
-  "src": "verify-006.json"
+  "src": "verify-001.json"
+ },
+ {
+  "en": "interpretation",
+  "uk": "інтерпретація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія.",
+  "checked": 1,
+  "src": "verify-014.json"
  },
  {
   "en": "intervention",
@@ -1551,6 +4564,61 @@
   "src": "verify-013.json"
  },
  {
+  "en": "intuitive",
+  "uk": "інтуїтивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "intuitively",
+  "uk": "інтуїтивно",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adverb; Ukrainian ending -но",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "inventory",
+  "uk": "інвентар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "no final -y; інвентар mostly = equipment, gear",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "investor",
+  "uk": "інвесторка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form (a female investor), suffix -ка",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "irony",
+  "uk": "іронія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -y.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
   "en": "Islamic",
   "uk": "ісламський",
   "pos": "",
@@ -1560,6 +4628,94 @@
   "note": "adjective ending -ський",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "jacket",
+  "uk": "жакет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "джекет is not really used; the borrowed word is жакет (ж instead of дж, from French); the usual word is куртка",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "jade",
+  "uk": "жад",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "French-style ж- instead of дж-; rare, the usual Ukrainian word is нефрит",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "jungle",
+  "uk": "джунглі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian is plural only, ending -і",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "justice",
+  "uk": "юстиція",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "юстиція = the justice system (Міністерство юстиції); justice as fairness = справедливість",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "kitty",
+  "uk": "киця",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Native Ukrainian pet word for a cat; ending -я, т → ц.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "laboratory",
+  "uk": "лабораторія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "lagoon",
+  "uk": "лагуна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "lamp",
+  "uk": "лампа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; лампа also means a light bulb",
+  "checked": 1,
+  "src": "verify-019.json"
  },
  {
   "en": "Latin",
@@ -1573,6 +4729,28 @@
   "src": "verify-009.json"
  },
  {
+  "en": "league",
+  "uk": "ліга",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "legal",
+  "uk": "легальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний; легальний = lawful (not illegal); 'relating to law' = юридичний, правовий",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "legend",
   "uk": "легенда",
   "pos": "",
@@ -1582,6 +4760,61 @@
   "note": "ending -а",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "legendary",
+  "uk": "легендарний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "lens",
+  "uk": "лінза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of лінза; ending -а",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "lesbian",
+  "uk": "лесбіянка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian noun adds -ка; the adjective is лесбійський",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "lesbian",
+  "uk": "лесбійка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian noun adds -ка; the adjective is лесбійський",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "lethal",
+  "uk": "летальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ьний; mostly medical (летальний випадок = a death); everyday word is смертельний.",
+  "checked": 1,
+  "src": "verify-025.json"
  },
  {
   "en": "liberal",
@@ -1606,6 +4839,50 @@
   "src": "verify-008.json"
  },
  {
+  "en": "lily",
+  "uk": "лілея",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "poetic/folk variant of лілія; ending -ея added",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "lily",
+  "uk": "лілія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія added",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "line",
+  "uk": "лінія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "linguistics",
+  "uk": "лінгвістика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ics → -іка",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
   "en": "literally",
   "uk": "літерально",
   "pos": "",
@@ -1623,9 +4900,31 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian adds -а",
+  "note": "",
   "checked": 1,
-  "src": "verify-006.json"
+  "src": "scan-000.json"
+ },
+ {
+  "en": "lithium",
+  "uk": "літій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ій for Latin -ium",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "liturgy",
+  "uk": "літургія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-058.json"
  },
  {
   "en": "local",
@@ -1650,6 +4949,50 @@
   "src": "verify-011.json"
  },
  {
+  "en": "logistics",
+  "uk": "логістика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ика instead of -ics.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "lottery",
+  "uk": "лотерея",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ея instead of -ery.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "loyal",
+  "uk": "лояльний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "lycée",
+  "uk": "ліцей",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English lycée/lyceum; Ukrainian ліцей is a specialized secondary school.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "machine",
   "uk": "машинний",
   "pos": "",
@@ -1659,6 +5002,50 @@
   "note": "Ukrainian adjective; the noun is машина (-а added)",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "macro",
+  "uk": "макрос",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Only the computing macro; ending -с added.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "magic",
+  "uk": "магія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ic → -ія.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "magnetic moment",
+  "uk": "магнітний момент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "manifesto",
+  "uk": "маніфест",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops the final -o",
+  "checked": 1,
+  "src": "verify-034.json"
  },
  {
   "en": "manipulate",
@@ -1716,6 +5103,28 @@
   "src": "verify-026.json"
  },
  {
+  "en": "map",
+  "uk": "мапа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; карта is also common.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "marathon",
+  "uk": "марафон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian writes th as ф (variant маратон is rare)",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
   "en": "margin",
   "uk": "маргінес",
   "pos": "",
@@ -1727,15 +5136,59 @@
   "src": "verify-013.json"
  },
  {
-  "en": "mass",
-  "uk": "маса",
+  "en": "marginal",
+  "uk": "маргінальний",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian adds -а",
+  "note": "Adjective ending -ний; mostly 'on the fringes of society'.",
   "checked": 1,
-  "src": "verify-003.json"
+  "src": "verify-031.json"
+ },
+ {
+  "en": "marque",
+  "uk": "марка",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Shared meaning: make/brand of a car; марка also = postage stamp, mark (currency)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "mask",
+  "uk": "маска",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "masque is an old spelling of mask (now a masked ball or court entertainment).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "mass",
+  "uk": "маса",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "massacre",
+  "uk": "масакра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а; rare slang, usually різанина.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "master",
@@ -1749,6 +5202,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "master class",
+  "uk": "майстер-клас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "майстер (from German Meister) instead of master.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
   "en": "material",
   "uk": "матеріальний",
   "pos": "",
@@ -1758,6 +5222,50 @@
   "note": "Ukrainian adjective ending -ний",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "maternal",
+  "uk": "матерній",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "rare/old; usual word is материнський (матерний = obscene)",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "mathematical",
+  "uk": "математичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "mathematics",
+  "uk": "математика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ика instead of -ics",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "matrix",
+  "uk": "матриця",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-018.json"
  },
  {
   "en": "matter",
@@ -1782,6 +5290,83 @@
   "src": "verify-013.json"
  },
  {
+  "en": "mechanics",
+  "uk": "механіка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -іка",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "median",
+  "uk": "медіанний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective adds -ний",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "median",
+  "uk": "медіана",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а (statistics/geometry median)",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "medicine",
+  "uk": "медицина",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "медицина = medicine as a field; medicine (drug) = ліки",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "meditation",
+  "uk": "медитація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "melody",
+  "uk": "мелодія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "membrane",
+  "uk": "мембрана",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
   "en": "memorial",
   "uk": "меморіальний",
   "pos": "",
@@ -1793,6 +5378,207 @@
   "src": "verify-010.json"
  },
  {
+  "en": "meningitis",
+  "uk": "менінгіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops the ending -is",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "mentality",
+  "uk": "ментальність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "suffix -ність instead of -ity",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "mentality",
+  "uk": "менталітет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "suffix -ітет instead of -ity",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "metallic",
+  "uk": "металевий",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -евий",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "methodology",
+  "uk": "методологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "metric",
+  "uk": "метрика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Noun with -ика added (a metric/measure; also a dated word for birth certificate); the adjective metric = метричний.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "metropolitan",
+  "uk": "митрополит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "drops -an; only the church title (archbishop); the adjective metropolitan = столичний, міський",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "metropolite",
+  "uk": "митрополит",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "obsolete",
+   "religion"
+  ],
+  "note": "Modern English: metropolitan (bishop)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "migration",
+  "uk": "міграція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "form of міграція; Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "mile",
+  "uk": "миля",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "mine",
+  "uk": "міна",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "explosive mine; Ukrainian міна also = facial expression",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "mine",
+  "uk": "мінний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective 'of explosive mines' (noun міна); mine (= my) is мій",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "mineral",
+  "uk": "мінеральний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine form of the adjective мінеральний (adds -ний), e.g. мінеральна вода.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "miniature",
+  "uk": "мініатюра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "minimal",
+  "uk": "мінімальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "ministerial",
+  "uk": "міністерський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ський",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "minute",
+  "uk": "мінута",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; rare/dialect, the usual word is хвилина",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "misogyny",
+  "uk": "мізогінія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
   "en": "missionary",
   "uk": "місіонер",
   "pos": "",
@@ -1802,6 +5588,39 @@
   "note": "Suffix -ер instead of -ary.",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "modification",
+  "uk": "модифікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ація",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "molecule",
+  "uk": "молекула",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive plural of молекула; ending -а.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "monastery",
+  "uk": "монастир",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
  },
  {
   "en": "monopoly",
@@ -1824,6 +5643,61 @@
   "note": "adjective ending -ний",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "mother",
+  "uk": "мати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "матір = accusative of мати (also used as nominative); related word, different form.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "motivation",
+  "uk": "мотивація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ія.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "motorcycle",
+  "uk": "мотоцикл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian uses мото- (no r): мото + цикл.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "multimedia",
+  "uk": "мультимедійний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ійний",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "mummy",
+  "uk": "мумія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія; British 'mummy' = mom is not in Ukrainian",
+  "checked": 1,
+  "src": "verify-038.json"
  },
  {
   "en": "muscle",
@@ -1870,6 +5744,61 @@
   "src": "verify-032.json"
  },
  {
+  "en": "myth",
+  "uk": "міф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Standard Ukrainian is міф (th → ф); міт is an old/diaspora spelling.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "national interest",
+  "uk": "національний інтерес",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "natural",
+  "uk": "натуральний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "navigation",
+  "uk": "навігація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Inflected form of навігація; -tion becomes -ція.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "negative",
+  "uk": "негативний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "nervous system",
   "uk": "нервова система",
   "pos": "",
@@ -1879,6 +5808,138 @@
   "note": "adjective ending and -а in система",
   "checked": 1,
   "src": "verify-010.json"
+ },
+ {
+  "en": "net",
+  "uk": "нетто",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "нетто = net (weight, amount), with ending -о; a net (mesh) = сітка.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "ninja",
+  "uk": "ніндзя",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Spelled with дз (from Japanese), not дж: ніндзя.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "nomination",
+  "uk": "номінація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ation → -ація.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "norm",
+  "uk": "норма",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "норм = genitive plural of норма; also slang 'OK, fine'.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "normal",
+  "uk": "нормальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of нормальний",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "northwest",
+  "uk": "норд-вест",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "nautical term from Dutch (д, not т); usual word: північний захід",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "oasis",
+  "uk": "оаза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of оаза (variant of оазис)",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "observatory",
+  "uk": "обсерваторія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "obsessive",
+  "uk": "обсесивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "обсесивно is the adverb; adjective обсесивний has the -ний ending",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "odyssey",
+  "uk": "одіссея",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ея",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "offshore",
+  "uk": "офшорний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний; the noun офшор = offshore company/zone.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "olive",
+  "uk": "олива",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; the fruit is often маслина; олива also = olive oil.",
+  "checked": 1,
+  "src": "verify-018.json"
  },
  {
   "en": "olympic",
@@ -1914,6 +5975,39 @@
   "src": "verify-005.json"
  },
  {
+  "en": "optimal",
+  "uk": "оптимальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "optimistic",
+  "uk": "оптимістичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ичний instead of -ic.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "optimization",
+  "uk": "оптимізація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ація for English -ation",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "oral",
   "uk": "оральний",
   "pos": "",
@@ -1923,6 +6017,39 @@
   "note": "adjective ending -ний; usual word for spoken = усний",
   "checked": 1,
   "src": "verify-013.json"
+ },
+ {
+  "en": "oral sex",
+  "uk": "оральний секс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "оральний has the adjective ending -ний",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "orbit",
+  "uk": "орбіта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "orchestra",
+  "uk": "оркестр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Final -a dropped.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "organization",
@@ -1947,6 +6074,39 @@
   "src": "verify-026.json"
  },
  {
+  "en": "organizer",
+  "uk": "організатор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "different suffix -атор",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "orientation",
+  "uk": "орієнтація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ація for -ation",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "original",
+  "uk": "оригінальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ний.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "pack",
   "uk": "пака",
   "pos": "",
@@ -1956,6 +6116,17 @@
   "note": "Ukrainian adds -а; пака = bale (rare); a pack = пачка, рюкзак",
   "checked": 1,
   "src": "verify-006.json"
+ },
+ {
+  "en": "palm",
+  "uk": "пальма",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of пальма; only the tree, palm of the hand = долоня",
+  "checked": 1,
+  "src": "verify-039.json"
  },
  {
   "en": "panic",
@@ -1969,15 +6140,48 @@
   "src": "verify-013.json"
  },
  {
+  "en": "panic attack",
+  "uk": "панічна атака",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на and атака adds -а",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "panther",
+  "uk": "пантера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "paper",
   "uk": "папір",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "папери = plural of папір; same 'documents' sense",
+  "note": "vowel e → і (папір, plural папери)",
+  "checked": 2,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "paper tiger",
+  "uk": "паперовий тигр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Calque: паперовий is the adjective 'paper'.",
   "checked": 1,
-  "src": "verify-007.json"
+  "src": "verify-014.json"
  },
  {
   "en": "parallel",
@@ -2002,6 +6206,50 @@
   "src": "verify-013.json"
  },
  {
+  "en": "parliamentary",
+  "uk": "парламентський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ський",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "parody",
+  "uk": "пародія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-y → -ія",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "paste",
+  "uk": "паста",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added; паста also means (Italian) pasta.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "pathology",
+  "uk": "патологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of патологія; Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "patient",
   "uk": "пацієнт",
   "pos": "",
@@ -2011,6 +6259,50 @@
   "note": "plural of пацієнт; t read as ц (па-ці-єнт)",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "patriotic",
+  "uk": "патріотичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ичний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "penguin",
+  "uk": "пінгвін",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "vowel e → і",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "pension fund",
+  "uk": "пенсійний фонд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ійний",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "pensioner",
+  "uk": "пенсіонер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "pensionary is an archaic word for pensioner.",
+  "checked": 1,
+  "src": "scan-004.json"
  },
  {
   "en": "person",
@@ -2035,6 +6327,17 @@
   "src": "verify-032.json"
  },
  {
+  "en": "personal",
+  "uk": "персональний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ний; also особистий.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "personnel",
   "uk": "персонал",
   "pos": "",
@@ -2052,9 +6355,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "inflected form of перспектива",
+  "note": "Ukrainian перспектива also often means prospects (future chances).",
   "checked": 1,
-  "src": "verify-007.json"
+  "src": "scan-004.json"
  },
  {
   "en": "phase",
@@ -2068,15 +6371,59 @@
   "src": "verify-006.json"
  },
  {
-  "en": "philosophy",
-  "uk": "філософія",
+  "en": "phenomenon",
+  "uk": "феномен",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -ія",
+  "note": "",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "philharmonic",
+  "uk": "філармонія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія; філармонія = concert society/hall",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "philosopher",
+  "uk": "філософ",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "No -er ending in Ukrainian.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "philosophical",
+  "uk": "філософський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form of філософський; adjective suffix -ський",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "philosophy",
+  "uk": "філософія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "photograph",
@@ -2101,15 +6448,70 @@
   "src": "verify-013.json"
  },
  {
-  "en": "photography",
-  "uk": "фотографія",
+  "en": "photographic",
+  "uk": "фотографічний",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -ія; фотографія also means a photo",
+  "note": "adjective ending -ічний",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "verify-029.json"
+ },
+ {
+  "en": "photography",
+  "uk": "фотографія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фотографія = both photography and a photograph",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "phrase",
+  "uk": "фраза",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "piano",
+  "uk": "піаніно",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "піаніно = upright piano (from Italian pianino); a grand piano = рояль",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "pint",
+  "uk": "пінта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "pistol",
+  "uk": "пістолет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Extra -ет (from French pistolet).",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "planet",
@@ -2123,6 +6525,28 @@
   "src": "verify-006.json"
  },
  {
+  "en": "planetary",
+  "uk": "планетарний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine of the adjective планетарний",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "plantation",
+  "uk": "плантація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ація for -ation.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "platform",
   "uk": "платформа",
   "pos": "",
@@ -2132,6 +6556,64 @@
   "note": "Ukrainian adds -а",
   "checked": 1,
   "src": "verify-006.json"
+ },
+ {
+  "en": "platinum",
+  "uk": "платина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а instead of -um.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "poesy",
+  "uk": "поезія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "archaic",
+   "art"
+  ],
+  "note": "Modern English: poetry",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "police",
+  "uk": "поліція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "policy",
+  "uk": "політика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "політика = politics and policy.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "political party",
+  "uk": "політична партія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на; партія adds -ія",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "politics",
@@ -2145,6 +6627,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "pop music",
+  "uk": "поп-музика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "музика adds -а (music → музика).",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "pope",
   "uk": "папа",
   "pos": "",
@@ -2154,6 +6647,28 @@
   "note": "Inflected form of папа; Ukrainian uses Папа Римський.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "popularity",
+  "uk": "популярність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian uses the suffix -ність instead of -ity.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "pore",
+  "uk": "пора",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian пора usually = time/season (separate word)",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "porn",
@@ -2167,6 +6682,17 @@
   "src": "verify-008.json"
  },
  {
+  "en": "pornography",
+  "uk": "порнографія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ія for English -y",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
   "en": "port wine",
   "uk": "портвейн",
   "pos": "",
@@ -2176,6 +6702,28 @@
   "note": "from German Portwein; 'wine' becomes -вейн",
   "checked": 1,
   "src": "verify-010.json"
+ },
+ {
+  "en": "porter",
+  "uk": "портьє",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "From French portier; a hotel doorman/receptionist.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "positive",
+  "uk": "позитивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "neuter form of the adjective позитивний",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "post",
@@ -2189,15 +6737,26 @@
   "src": "verify-000.json"
  },
  {
+  "en": "potential",
+  "uk": "потенціал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "t → ц (потенціал)",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "practice",
   "uk": "практика",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
   "note": "",
   "checked": 1,
-  "src": "verify-008.json"
+  "src": "scan-002.json"
  },
  {
   "en": "prairie",
@@ -2222,6 +6781,28 @@
   "src": "verify-008.json"
  },
  {
+  "en": "press",
+  "uk": "преса",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added; преса = the press (newspapers, journalists).",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "press conference",
+  "uk": "прес-конференція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ence → -енція.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "prime minister",
   "uk": "прем'єр-міністр",
   "pos": "",
@@ -2229,8 +6810,19 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian uses прем'єр (premier) instead of prime",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "primitive",
+  "uk": "примітивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "примітивні is the plural of the adjective примітивний (adjective ending -ний)",
+  "checked": 1,
+  "src": "verify-028.json"
  },
  {
   "en": "priority",
@@ -2244,15 +6836,48 @@
   "src": "verify-010.json"
  },
  {
+  "en": "private",
+  "uk": "приватний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "private detective",
+  "uk": "приватний детектив",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "приватний has the adjective ending -ний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "privilege",
+  "uk": "привілей",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ей instead of -ege",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
   "en": "problem",
   "uk": "проблема",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ending -а added.",
+  "note": "",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "scan-000.json"
  },
  {
   "en": "procedure",
@@ -2266,15 +6891,103 @@
   "src": "verify-009.json"
  },
  {
+  "en": "production",
+  "uk": "продукція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ція; продукція = products, output (goods); the act of producing is виробництво.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "productive",
+  "uk": "продуктивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "productivity",
+  "uk": "продуктивність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian suffix -ність",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "products",
+  "uk": "продукція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "collective noun 'output, goods'; ending -ія",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "profession",
+  "uk": "професія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "professional",
+  "uk": "професіональний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний; more common is професійний",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "professional",
+  "uk": "професійний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of the adjective професійний",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "prognosis",
+  "uk": "прогноз",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English side is a plural; прогноз also = forecast (прогноз погоди = weather forecast)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
   "en": "program",
   "uk": "програма",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ending -а added.",
+  "note": "",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "scan-000.json"
  },
  {
   "en": "progressive",
@@ -2288,6 +7001,94 @@
   "src": "verify-011.json"
  },
  {
+  "en": "proportion",
+  "uk": "пропорція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ion → -ія.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "prostitute",
+  "uk": "проститутка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -ка",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "prostitution",
+  "uk": "проституція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ція for -tion.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "province",
+  "uk": "провінція",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "provocation",
+  "uk": "провокація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ація instead of -ation",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "provocative",
+  "uk": "провокативний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний; more common: провокаційний",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "psalm",
+  "uk": "псалом",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of псалом",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "psychiatric",
+  "uk": "психіатричний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ичний instead of -ic.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
   "en": "psychiatrist",
   "uk": "психіатр",
   "pos": "",
@@ -2299,6 +7100,17 @@
   "src": "verify-032.json"
  },
  {
+  "en": "psychiatry",
+  "uk": "психіатрія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
   "en": "psychological",
   "uk": "психологічний",
   "pos": "",
@@ -2308,6 +7120,28 @@
   "note": "feminine form of психологічний; adjective ending -ний",
   "checked": 1,
   "src": "verify-013.json"
+ },
+ {
+  "en": "psychologist",
+  "uk": "психолог",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "психолога is genitive of психолог; Ukrainian has no -ist",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "psychology",
+  "uk": "психологія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "public",
@@ -2332,6 +7166,50 @@
   "src": "verify-009.json"
  },
  {
+  "en": "punch",
+  "uk": "пунш",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "only the drink; ч → ш (from German Punsch); a hit with the fist = удар",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "qualification",
+  "uk": "кваліфікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -ion.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "quantum",
+  "uk": "квант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops -um.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "queer",
+  "uk": "квірний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний; usual form is квір",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
   "en": "rabbi",
   "uk": "рабин",
   "pos": "",
@@ -2354,6 +7232,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "radical",
+  "uk": "радикальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form of the adjective",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
   "en": "radio station",
   "uk": "радіостанція",
   "pos": "",
@@ -2363,6 +7252,28 @@
   "note": "станція has ending -ія; written as one word.",
   "checked": 1,
   "src": "verify-005.json"
+ },
+ {
+  "en": "radioactive",
+  "uk": "радіоактивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive/locative plural of радіоактивний; adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "ranch",
+  "uk": "ранчо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -о added (from Spanish rancho).",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "real",
@@ -2376,6 +7287,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "realistic",
+  "uk": "реалістичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ичний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
   "en": "reality",
   "uk": "реальність",
   "pos": "",
@@ -2385,6 +7307,30 @@
   "note": "suffix -ність",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "reclame",
+  "uk": "реклама",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "rare"
+  ],
+  "note": "rare English réclame = publicity; реклама = advertising, an ad",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "recommend",
+  "uk": "рекомендувати",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "verb ending -увати",
+  "checked": 1,
+  "src": "verify-029.json"
  },
  {
   "en": "recommendation",
@@ -2398,15 +7344,26 @@
   "src": "verify-013.json"
  },
  {
-  "en": "reform",
-  "uk": "реформа",
+  "en": "reconstruction",
+  "uk": "реконструкція",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "",
+  "note": "-tion → -ція",
   "checked": 1,
-  "src": "verify-008.json"
+  "src": "verify-022.json"
+ },
+ {
+  "en": "reform",
+  "uk": "реформа",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of реформа",
+  "checked": 1,
+  "src": "scan-001.json"
  },
  {
   "en": "regional",
@@ -2431,6 +7388,50 @@
   "src": "verify-007.json"
  },
  {
+  "en": "registry",
+  "uk": "реєстр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -y dropped; closer to English register",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "regulatory",
+  "uk": "регуляторний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "rehabilitation",
+  "uk": "реабілітація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція (Ukrainian adds -ія).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "relaxation",
+  "uk": "релаксація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ація for -ation.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "religion",
   "uk": "релігія",
   "pos": "",
@@ -2442,6 +7443,17 @@
   "src": "verify-005.json"
  },
  {
+  "en": "remission",
+  "uk": "ремісія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ія",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
   "en": "report",
   "uk": "рапорт",
   "pos": "",
@@ -2451,6 +7463,39 @@
   "note": "рапорт = official/military report to a superior; the usual 'report' is звіт.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "reproduction",
+  "uk": "репродукція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-tion → -ція; Ukrainian mainly = a copy of an artwork; biological reproduction is usually розмноження",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "reproductive",
+  "uk": "репродуктивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ний",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "reproductive",
+  "uk": "репродукційний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective with suffix -ційний; mainly 'of (art/print) reproduction'",
+  "checked": 1,
+  "src": "verify-028.json"
  },
  {
   "en": "republic",
@@ -2475,6 +7520,83 @@
   "src": "verify-009.json"
  },
  {
+  "en": "respiratory",
+  "uk": "респіраторний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "rest",
+  "uk": "решта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Only 'the rest' (remainder) and change (money); rest/relaxation is відпочинок.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "revolutionary",
+  "uk": "революціонер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "-ер instead of -ary; only the noun (a revolutionary person)",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "revolutionary",
+  "uk": "революційний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ійний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "rhyme",
+  "uk": "рима",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "rhythm guitar",
+  "uk": "ритм-гітара",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гітара has ending -а.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "ritual",
+  "uk": "ритуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective; ending -ьний added.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
   "en": "rock group",
   "uk": "рок-група",
   "pos": "",
@@ -2497,6 +7619,50 @@
   "src": "verify-003.json"
  },
  {
+  "en": "rocket",
+  "uk": "ракета",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "Romance",
+  "uk": "романський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective: Romance (languages), Romanesque; ending -ський",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "romance",
+  "uk": "роман",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian drops the -s sound; роман = love affair and (mainly) a novel; a romance song = романс",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "rose",
+  "uk": "роза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case form of роза; Ukrainian adds -а, and the usual word for rose is троянда",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "routine",
   "uk": "рутинний",
   "pos": "",
@@ -2508,6 +7674,39 @@
   "src": "verify-011.json"
  },
  {
+  "en": "ruby",
+  "uk": "рубін",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Different ending -ін (from Latin rubinus).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "ruin",
+  "uk": "руїна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; ruins = руїни",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "salad",
+  "uk": "салат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ends in -т; салат also means lettuce",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
   "en": "same",
   "uk": "самий",
   "pos": "",
@@ -2517,6 +7716,50 @@
   "note": "Ukrainian adjective; 'the same' = той самий, самий alone = 'the very'.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "sapphire",
+  "uk": "сапфірний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective (-ний); the noun is сапфір",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "Satan",
+  "uk": "сатана",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "satire",
+  "uk": "сатира",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "scenario",
+  "uk": "сценарій",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "сценарій also = screenplay, script",
+  "checked": 1,
+  "src": "scan-003.json"
  },
  {
   "en": "scene",
@@ -2532,13 +7775,46 @@
  {
   "en": "scheme",
   "uk": "схема",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian схема often = diagram",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "schizophrenia",
+  "uk": "шизофренія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "inflected form of схема",
+  "note": "Ukrainian шизо- vs English skitso- (root sound differs)",
   "checked": 1,
-  "src": "verify-007.json"
+  "src": "verify-039.json"
+ },
+ {
+  "en": "sculpture",
+  "uk": "скульптура",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "second",
+  "uk": "секунда",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of секунда (unit of time only)",
+  "checked": 1,
+  "src": "scan-001.json"
  },
  {
   "en": "secret",
@@ -2574,6 +7850,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "Semitic",
+  "uk": "семітський",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ський",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "series",
   "uk": "серія",
   "pos": "",
@@ -2596,15 +7883,147 @@
   "src": "verify-005.json"
  },
  {
+  "en": "sexual",
+  "uk": "сексуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "sexual orientation",
+  "uk": "сексуальна орієнтація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -на; орієнтація adds -ія.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "sexuality",
+  "uk": "сексуальність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian suffix -ність.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "sexually",
+  "uk": "сексуально",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adverb ending -но",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "shampoo",
+  "uk": "шампунь",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -нь",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "shorts",
+  "uk": "шорти",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian plural ending -и instead of -s.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "sister",
+  "uk": "сестра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Old shared (cognate) word, not a borrowing.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "situation",
+  "uk": "ситуація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "skeleton",
+  "uk": "скелет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English ending -on is dropped",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "sociology",
+  "uk": "соціологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "solidarity",
+  "uk": "солідарність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
   "en": "spectrum",
   "uk": "спектр",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian drops -um",
+  "note": "",
   "checked": 1,
-  "src": "verify-013.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "speculation",
+  "uk": "спекуляція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Form of спекуляція (-ія added); often means profiteering/reselling.",
+  "checked": 1,
+  "src": "verify-021.json"
  },
  {
   "en": "sperm",
@@ -2618,6 +8037,17 @@
   "src": "verify-026.json"
  },
  {
+  "en": "sphere",
+  "uk": "сфера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
   "en": "spiral",
   "uk": "спіральний",
   "pos": "",
@@ -2627,6 +8057,17 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "sporting",
+  "uk": "спортивний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural form; adjective of спорт with -ивний",
+  "checked": 1,
+  "src": "verify-016.json"
  },
  {
   "en": "squadron",
@@ -2640,6 +8081,28 @@
   "src": "verify-032.json"
  },
  {
+  "en": "stability",
+  "uk": "стабільність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "suffix -ність instead of -ity",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "standard",
+  "uk": "стандарт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "final -d becomes -т",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
   "en": "statistics",
   "uk": "статистика",
   "pos": "",
@@ -2649,6 +8112,17 @@
   "note": "inflected form of статистика",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "sterile",
+  "uk": "стерильний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-045.json"
  },
  {
   "en": "stimulation",
@@ -2662,6 +8136,17 @@
   "src": "verify-032.json"
  },
  {
+  "en": "stole",
+  "uk": "стола",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "стола is only the ancient Roman garment (stola); a modern stole/shawl is палантин; Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
   "en": "storm",
   "uk": "шторм",
   "pos": "",
@@ -2669,7 +8154,7 @@
   "lvl": null,
   "labels": [],
   "note": "Pronounced with ш; mainly a storm at sea (a thunderstorm = гроза, буря)",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {
@@ -2706,15 +8191,26 @@
   "src": "verify-005.json"
  },
  {
-  "en": "structure",
-  "uk": "структура",
+  "en": "structural",
+  "uk": "структурний",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -а",
+  "note": "plural form; adjective ending -ний",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "verify-016.json"
+ },
+ {
+  "en": "structure",
+  "uk": "структура",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "studio",
@@ -2728,6 +8224,28 @@
   "src": "verify-006.json"
  },
  {
+  "en": "submarine",
+  "uk": "субмарина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; usual word: підводний човен",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "subsidy",
+  "uk": "субсидія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
   "en": "sugar",
   "uk": "сахар",
   "pos": "",
@@ -2735,7 +8253,7 @@
   "lvl": null,
   "labels": [],
   "note": "Colloquial Russianism; standard Ukrainian is цукор",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {
@@ -2761,6 +8279,50 @@
   "src": "verify-026.json"
  },
  {
+  "en": "swine",
+  "uk": "свиня",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inherited cognate, not a borrowing",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "symbol",
+  "uk": "символ",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "б → в (Greek-style reading)",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "symphony",
+  "uk": "симфонія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ending -ія",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "symphony orchestra",
+  "uk": "симфонічний оркестр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian uses adjective симфонічний",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "synthesis",
   "uk": "синтез",
   "pos": "",
@@ -2774,13 +8336,68 @@
  {
   "en": "system",
   "uk": "система",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of система",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "systematic",
+  "uk": "систематичний",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "",
+  "note": "Adjective ending -ичний instead of -ic.",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "verify-025.json"
+ },
+ {
+  "en": "tablet",
+  "uk": "таблетка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive plural of таблетка (pill); a tablet computer is планшет.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "tactic",
+  "uk": "тактика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -а added; тактика = tactics.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "tactics",
+  "uk": "тактика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ending -ика",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "tavern",
+  "uk": "таверна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "inflected form of таверна; Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-039.json"
  },
  {
   "en": "tech",
@@ -2790,8 +8407,30 @@
   "lvl": null,
   "labels": [],
   "note": "Only a prefix тех- (техпідтримка = tech support); 'tech' itself is технології.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
+ },
+ {
+  "en": "technology",
+  "uk": "технологія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of технологія",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "telegram",
+  "uk": "телеграма",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adds -а; the app is Телеграм",
+  "checked": 1,
+  "src": "verify-039.json"
  },
  {
   "en": "telephone",
@@ -2838,15 +8477,59 @@
   "src": "verify-006.json"
  },
  {
-  "en": "temperature",
-  "uk": "температура",
+  "en": "telly",
+  "uk": "телик",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian adds -а",
+  "note": "Ukrainian slang телик has a different suffix",
   "checked": 1,
-  "src": "verify-006.json"
+  "src": "verify-058.json"
+ },
+ {
+  "en": "temperature",
+  "uk": "температура",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "tennis court",
+  "uk": "тенісний корт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "тенісний is an adjective (-ний); корт alone = court",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "term",
+  "uk": "термін",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ін added; also means deadline or time period.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "territorial",
+  "uk": "територіальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Adjective ending -ний added.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "territory",
@@ -2855,20 +8538,42 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "-y → -ія",
+  "note": "",
   "checked": 1,
-  "src": "verify-007.json"
+  "src": "scan-000.json"
  },
  {
-  "en": "theme",
-  "uk": "тема",
+  "en": "texture",
+  "uk": "текстура",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "",
+  "note": "Plural/genitive of текстура; ending -а.",
   "checked": 1,
-  "src": "verify-006.json"
+  "src": "verify-023.json"
+ },
+ {
+  "en": "theme",
+  "uk": "тема",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of тема",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "theology",
+  "uk": "теологія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Inflected form of теологія; ending -ія.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "theorem",
@@ -2882,15 +8587,26 @@
   "src": "verify-032.json"
  },
  {
-  "en": "theory",
-  "uk": "теорія",
+  "en": "theoretical",
+  "uk": "теоретичний",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "-y → -ія",
+  "note": "Feminine form of the adjective теоретичний; ending -ний instead of -al.",
   "checked": 1,
-  "src": "verify-003.json"
+  "src": "verify-020.json"
+ },
+ {
+  "en": "theory",
+  "uk": "теорія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "case form of теорія",
+  "checked": 1,
+  "src": "scan-001.json"
  },
  {
   "en": "therapy",
@@ -2899,9 +8615,20 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian -ія ending.",
+  "note": "",
   "checked": 1,
-  "src": "verify-008.json"
+  "src": "scan-004.json"
+ },
+ {
+  "en": "thermal",
+  "uk": "термальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "verify-019.json"
  },
  {
   "en": "three",
@@ -2913,6 +8640,39 @@
   "note": "Related word, but pronounced 'try'.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "titanium",
+  "uk": "титан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive of титан; Ukrainian drops -ium",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "toilet",
+  "uk": "туалет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "French-style vowels (from toilette); dated Ukrainian meaning also 'outfit, dress'",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "tolerant",
+  "uk": "толерантний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-038.json"
  },
  {
   "en": "tomato",
@@ -2928,13 +8688,57 @@
  {
   "en": "ton",
   "uk": "тонна",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "genitive plural of тонна (metric ton, tonne)",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "topology",
+  "uk": "топологія",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "ending -а",
+  "note": "Ukrainian ending -ія",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "verify-058.json"
+ },
+ {
+  "en": "torpedo",
+  "uk": "торпеда",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ends in -а",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "torque",
+  "uk": "торквес",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Only the ancient neck ring (torc); the physics sense is крутний момент",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "torture",
+  "uk": "тортури",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian is plural-only with the ending -и",
+  "checked": 1,
+  "src": "verify-016.json"
  },
  {
   "en": "tradition",
@@ -2946,6 +8750,61 @@
   "note": "",
   "checked": 1,
   "src": "verify-008.json"
+ },
+ {
+  "en": "traditional",
+  "uk": "традиційний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ійний",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "tragedy",
+  "uk": "трагедія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "transatlantic",
+  "uk": "трансатлантичний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "transformation",
+  "uk": "трансформація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ація instead of -ation",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "transgender",
+  "uk": "трансгендерка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Feminine noun with suffix -ка.",
+  "checked": 1,
+  "src": "verify-024.json"
  },
  {
   "en": "tribune",
@@ -2968,6 +8827,72 @@
   "note": "different vowel; трюк = stunt, trick in a show (a deceiving trick is хитрість)",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "trilogy",
+  "uk": "трилогія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ending -ія instead of -y.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "trivial",
+  "uk": "тривіальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective with -ний",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "trophy",
+  "uk": "трофей",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian ends in -ей; a sports trophy (cup) is usually кубок",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "troupe",
+  "uk": "трупа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "труп is the genitive plural of трупа (troupe); the nominative труп means corpse.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "tuberculosis",
+  "uk": "туберкульоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -оз for English -osis",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "uniform",
+  "uk": "уніформа",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "noun only (clothing), Ukrainian adds -а; the adjective uniform = однорідний",
+  "checked": 1,
+  "src": "verify-012.json"
  },
  {
   "en": "universal",
@@ -3014,6 +8939,50 @@
   "src": "verify-013.json"
  },
  {
+  "en": "vacancy",
+  "uk": "вакансія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian -ія for English -y",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "vacant",
+  "uk": "вакантний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний; used mostly of jobs (вакантна посада)",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "vaccine",
+  "uk": "вакцина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Plural/genitive of вакцина; Ukrainian adds -а.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "vaginal",
+  "uk": "вагінальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
   "en": "vanilla",
   "uk": "ваніль",
   "pos": "",
@@ -3023,6 +8992,61 @@
   "note": "Ending -a dropped (ваніль).",
   "checked": 1,
   "src": "verify-026.json"
+ },
+ {
+  "en": "vase",
+  "uk": "ваза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "vector graphics",
+  "uk": "векторна графіка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -на and -а added (графіка)",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "vegan",
+  "uk": "веганка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form (a female vegan), suffix -ка",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "vegetarian",
+  "uk": "вегетаріанець",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "вегетаріанка = female form; Ukrainian adds suffix -ець/-ка",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "verbal",
+  "uk": "вербальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний.",
+  "checked": 1,
+  "src": "verify-024.json"
  },
  {
   "en": "verification",
@@ -3036,6 +9060,39 @@
   "src": "verify-032.json"
  },
  {
+  "en": "verse",
+  "uk": "вірш",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "different vowel and ш; вірш usually = a poem; a verse of a song = куплет",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "vertical",
+  "uk": "вертикальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine form; adjective ending -ний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "video camera",
+  "uk": "відеокамера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "камера adds -а; written as one word.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
   "en": "video conference",
   "uk": "відеоконференція",
   "pos": "",
@@ -3045,6 +9102,94 @@
   "note": "joined; -ence → -енція",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "video game",
+  "uk": "відеогра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Half-translated: відео + гра (game).",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "viral marketing",
+  "uk": "вірусний маркетинг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Half-translated: вірусний is a Ukrainian adjective (-ний).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "virtual",
+  "uk": "віртуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "adjective ending -ний",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "vocabulary",
+  "uk": "вокабуляр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Final -y dropped; rare in Ukrainian, usually словниковий запас or лексика",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "vocal",
+  "uk": "вокальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian adjective ending -ний",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "warranty",
+  "uk": "гарантія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Related to guarantee; гарантія covers both warranty and guarantee; ending -ія.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "whoops",
+  "uk": "упс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "упс comes from 'oops' (oops = упс); whoops would be вупс",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "widow",
+  "uk": "вдова",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Cognate; Ukrainian has no i and adds -а.",
+  "checked": 1,
+  "src": "verify-018.json"
  },
  {
   "en": "wine",
@@ -3058,6 +9203,17 @@
   "src": "verify-005.json"
  },
  {
+  "en": "won",
+  "uk": "вона",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Only the won (Korean currency), with ending -а; вона is also the pronoun 'she'.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "worthy",
   "uk": "вартий",
   "pos": "",
@@ -3069,6 +9225,28 @@
   "src": "verify-013.json"
  },
  {
+  "en": "yacht",
+  "uk": "яхта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Form of яхта; Ukrainian adds -а",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "yen",
+  "uk": "єна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "єн = genitive plural of єна.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "Zen",
   "uk": "дзен",
   "pos": "",
@@ -3078,5 +9256,16 @@
   "note": "Written with дз (from Japanese), not з.",
   "checked": 1,
   "src": "verify-032.json"
+ },
+ {
+  "en": "zone",
+  "uk": "зона",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "scan-000.json"
  }
 ]

@@ -1,0 +1,961 @@
+[
+ {
+  "en": "pablo",
+  "uk": "пабло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "picnic",
+  "uk": "пікнік",
+  "v": "identical",
+  "ce": "picnic",
+  "cu": "пікнік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "primitive",
+  "uk": "примітивні",
+  "v": "not_lemma",
+  "ce": "primitive",
+  "cu": "примітивний",
+  "lv": "similar",
+  "note": "примітивні is the plural of the adjective примітивний (adjective ending -ний)"
+ },
+ {
+  "en": "providence",
+  "uk": "провіденс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "psychologist",
+  "uk": "психолога",
+  "v": "not_lemma",
+  "ce": "psychologist",
+  "cu": "психолог",
+  "lv": "similar",
+  "note": "психолога is genitive of психолог; Ukrainian has no -ist"
+ },
+ {
+  "en": "reproductive",
+  "uk": "репродуктивна",
+  "v": "not_lemma",
+  "ce": "reproductive",
+  "cu": "репродуктивний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ний"
+ },
+ {
+  "en": "reproductive",
+  "uk": "репродукційний",
+  "v": "similar",
+  "ce": "reproductive",
+  "cu": "репродукційний",
+  "note": "adjective with suffix -ційний; mainly 'of (art/print) reproduction'"
+ },
+ {
+  "en": "reproductive",
+  "uk": "репродуктивний",
+  "v": "similar",
+  "ce": "reproductive",
+  "cu": "репродуктивний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "rosa",
+  "uk": "роза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosa",
+  "uk": "роса",
+  "v": "unrelated"
+ },
+ {
+  "en": "sandra",
+  "uk": "сандра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "skeleton",
+  "uk": "скелет",
+  "v": "similar",
+  "ce": "skeleton",
+  "cu": "скелет",
+  "note": "English ending -on is dropped"
+ },
+ {
+  "en": "tick",
+  "uk": "тік",
+  "v": "unrelated"
+ },
+ {
+  "en": "trent",
+  "uk": "трент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ussr",
+  "uk": "УСРР",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ussr",
+  "uk": "ссср",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ussr",
+  "uk": "усрр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ussr",
+  "uk": "урср",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vacant",
+  "uk": "вакантний",
+  "v": "similar",
+  "ce": "vacant",
+  "cu": "вакантний",
+  "note": "adjective ending -ний; used mostly of jobs (вакантна посада)"
+ },
+ {
+  "en": "wan",
+  "uk": "ван",
+  "v": "unrelated"
+ },
+ {
+  "en": "baldwin",
+  "uk": "болдвін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "belle",
+  "uk": "бель",
+  "v": "unrelated"
+ },
+ {
+  "en": "brexit",
+  "uk": "брексит",
+  "v": "identical",
+  "ce": "Brexit",
+  "cu": "Брексит",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "capitalized in both languages; also spelled Брекзит"
+ },
+ {
+  "en": "buddha",
+  "uk": "будда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bulletin",
+  "uk": "бюлетень",
+  "v": "similar",
+  "ce": "bulletin",
+  "cu": "бюлетень",
+  "note": "French-style form; Ukrainian also = ballot paper and sick-leave note"
+ },
+ {
+  "en": "capitalist",
+  "uk": "капіталіст",
+  "v": "identical",
+  "ce": "capitalist",
+  "cu": "капіталіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Noun; the adjective is капіталістичний."
+ },
+ {
+  "en": "compact disc",
+  "uk": "компакт-диск",
+  "v": "identical",
+  "ce": "compact disc",
+  "cu": "компакт-диск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "music"
+  ],
+  "note": "usually just CD / диск"
+ },
+ {
+  "en": "constable",
+  "uk": "констебль",
+  "v": "identical",
+  "ce": "constable",
+  "cu": "констебль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "law",
+   "people"
+  ],
+  "note": "mainly a British/Commonwealth police rank"
+ },
+ {
+  "en": "darren",
+  "uk": "даррен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edgar",
+  "uk": "едгар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elliott",
+  "uk": "еліот",
+  "v": "proper_noun"
+ },
+ {
+  "en": "evan",
+  "uk": "еван",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fascist",
+  "uk": "фашист",
+  "v": "identical",
+  "ce": "fascist",
+  "cu": "фашист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Noun; the adjective is фашистський. In Ukrainian also often used for the WWII German Nazis."
+ },
+ {
+  "en": "fuller",
+  "uk": "фуллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goalkeeper",
+  "uk": "голкіпер",
+  "v": "identical",
+  "ce": "goalkeeper",
+  "cu": "голкіпер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "the everyday Ukrainian word is воротар"
+ },
+ {
+  "en": "hygiene",
+  "uk": "гігієни",
+  "v": "not_lemma",
+  "ce": "hygiene",
+  "cu": "гігієна",
+  "lv": "similar",
+  "note": "гігієни is genitive of гігієна; Ukrainian adds -а"
+ },
+ {
+  "en": "hygiene",
+  "uk": "гігієна",
+  "v": "similar",
+  "ce": "hygiene",
+  "cu": "гігієна",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "jared",
+  "uk": "джаред",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johnston",
+  "uk": "джонстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "judy",
+  "uk": "джуді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lopez",
+  "uk": "лопес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mechanic",
+  "uk": "механік",
+  "v": "identical",
+  "ce": "mechanic",
+  "cu": "механік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "megan",
+  "uk": "меган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patriotic",
+  "uk": "патріотичний",
+  "v": "similar",
+  "ce": "patriotic",
+  "cu": "патріотичний",
+  "note": "adjective ending -ичний"
+ },
+ {
+  "en": "patriotic",
+  "uk": "патріотична",
+  "v": "not_lemma",
+  "ce": "patriotic",
+  "cu": "патріотичний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ичний"
+ },
+ {
+  "en": "phillip",
+  "uk": "філіп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "preston",
+  "uk": "престон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "receptor",
+  "uk": "рецептор",
+  "v": "identical",
+  "ce": "receptor",
+  "cu": "рецептор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "reproduction",
+  "uk": "репродукція",
+  "v": "similar",
+  "ce": "reproduction",
+  "cu": "репродукція",
+  "note": "-tion → -ція; Ukrainian mainly = a copy of an artwork; biological reproduction is usually розмноження"
+ },
+ {
+  "en": "res",
+  "uk": "рес",
+  "v": "unrelated"
+ },
+ {
+  "en": "rey",
+  "uk": "рей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trillion",
+  "uk": "трильйон",
+  "v": "identical",
+  "ce": "trillion",
+  "cu": "трильйон",
+  "pos": "num",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tucker",
+  "uk": "такер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vatican",
+  "uk": "ватикан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vatican",
+  "uk": "ватикані",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abbott",
+  "uk": "ебботт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allergic",
+  "uk": "алергік",
+  "v": "similar",
+  "ce": "allergic",
+  "cu": "алергік",
+  "note": "Ukrainian алергік is a noun (a person with an allergy); the adjective is алергічний"
+ },
+ {
+  "en": "allergic",
+  "uk": "алергійний",
+  "v": "similar",
+  "ce": "allergic",
+  "cu": "алергійний",
+  "note": "adjective ending -ійний; also алергічний"
+ },
+ {
+  "en": "allergic",
+  "uk": "алергія",
+  "v": "not_lemma",
+  "ce": "allergy",
+  "cu": "алергія",
+  "lv": "similar",
+  "note": "алергія = allergy (the noun); Ukrainian adds -ія"
+ },
+ {
+  "en": "allison",
+  "uk": "еллісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allison",
+  "uk": "елісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "apparatus",
+  "uk": "апарат",
+  "v": "similar",
+  "ce": "apparatus",
+  "cu": "апарат",
+  "note": "English Latin ending -us is dropped; Ukrainian апарат is an everyday word for a device/machine"
+ },
+ {
+  "en": "balcony",
+  "uk": "балкон",
+  "v": "similar",
+  "ce": "balcony",
+  "cu": "балкон",
+  "note": "English final -y is dropped"
+ },
+ {
+  "en": "balcony",
+  "uk": "балкону",
+  "v": "not_lemma",
+  "ce": "balcony",
+  "cu": "балкон",
+  "lv": "similar",
+  "note": "балкону is genitive/dative of балкон; English final -y is dropped"
+ },
+ {
+  "en": "banker",
+  "uk": "банкір",
+  "v": "similar",
+  "ce": "banker",
+  "cu": "банкір",
+  "note": "ending -er → -ір"
+ },
+ {
+  "en": "buffer",
+  "uk": "буфер",
+  "v": "identical",
+  "ce": "buffer",
+  "cu": "буфер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "computer, railway or political buffer (буферна зона = buffer zone)"
+ },
+ {
+  "en": "calgary",
+  "uk": "калґарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chapman",
+  "uk": "чепмен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "constructive",
+  "uk": "конструктивна",
+  "v": "not_lemma",
+  "ce": "constructive",
+  "cu": "конструктивний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ний"
+ },
+ {
+  "en": "constructive",
+  "uk": "конструктивний",
+  "v": "similar",
+  "ce": "constructive",
+  "cu": "конструктивний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "conventions",
+  "uk": "конвенції",
+  "v": "not_lemma",
+  "ce": "convention",
+  "cu": "конвенція",
+  "lv": "partial_false_friend",
+  "note": "Ukrainian конвенція = an (international) treaty only, not a custom or a conference; ending -ція"
+ },
+ {
+  "en": "crystals",
+  "uk": "кристали",
+  "v": "not_lemma",
+  "ce": "crystal",
+  "cu": "кристал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "daisy",
+  "uk": "дейзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "demonstrations",
+  "uk": "демонстрації",
+  "v": "not_lemma",
+  "ce": "demonstration",
+  "cu": "демонстрація",
+  "lv": "similar",
+  "note": "plural; -tion → -ція"
+ },
+ {
+  "en": "demonstrations",
+  "uk": "демонстрацій",
+  "v": "not_lemma",
+  "ce": "demonstration",
+  "cu": "демонстрація",
+  "lv": "similar",
+  "note": "genitive plural; -tion → -ція"
+ },
+ {
+  "en": "disco",
+  "uk": "диско",
+  "v": "identical",
+  "ce": "disco",
+  "cu": "диско",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "диско is the music style; a disco (dance party/club) is дискотека"
+ },
+ {
+  "en": "dom",
+  "uk": "дом",
+  "v": "unrelated"
+ },
+ {
+  "en": "dorothy",
+  "uk": "дороті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "doses",
+  "uk": "доз",
+  "v": "not_lemma",
+  "ce": "dose",
+  "cu": "доза",
+  "lv": "similar",
+  "note": "plural forms; Ukrainian adds -а (доза)"
+ },
+ {
+  "en": "durham",
+  "uk": "дарем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ecological",
+  "uk": "екологічна",
+  "v": "not_lemma",
+  "ce": "ecological",
+  "cu": "екологічний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ічний"
+ },
+ {
+  "en": "ecosystem",
+  "uk": "екосистема",
+  "v": "similar",
+  "ce": "ecosystem",
+  "cu": "екосистема",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "elvis",
+  "uk": "елвіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "finn",
+  "uk": "фін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "finn",
+  "uk": "фінн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flynn",
+  "uk": "флінн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hierarchy",
+  "uk": "ієрархія",
+  "v": "similar",
+  "ce": "hierarchy",
+  "cu": "ієрархія",
+  "note": "-y → -ія; no initial h-sound in Ukrainian"
+ },
+ {
+  "en": "ideals",
+  "uk": "ідеали",
+  "v": "not_lemma",
+  "ce": "ideal",
+  "cu": "ідеал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "invalid",
+  "uk": "інвалід",
+  "v": "partial_false_friend",
+  "ce": "invalid",
+  "cu": "інвалід",
+  "note": "English mainly 'not valid' (adj.); the noun 'invalid' (sick/disabled person) is dated; Ukrainian інвалід is also being replaced by 'людина з інвалідністю'"
+ },
+ {
+  "en": "invalid",
+  "uk": "інвалідка",
+  "v": "not_lemma",
+  "ce": "invalid",
+  "cu": "інвалід",
+  "lv": "partial_false_friend",
+  "note": "інвалідка = female form; English invalid mainly means 'not valid', the noun is dated"
+ },
+ {
+  "en": "jade",
+  "uk": "жад",
+  "v": "similar",
+  "ce": "jade",
+  "cu": "жад",
+  "note": "French-style ж- instead of дж-; rare, the usual Ukrainian word is нефрит"
+ },
+ {
+  "en": "lancaster",
+  "uk": "ланкастер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metabolism",
+  "uk": "метаболізм",
+  "v": "identical",
+  "ce": "metabolism",
+  "cu": "метаболізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "also обмін речовин"
+ },
+ {
+  "en": "newport",
+  "uk": "ньюпорт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "omega",
+  "uk": "омега",
+  "v": "identical",
+  "ce": "omega",
+  "cu": "омега",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "parody",
+  "uk": "пародія",
+  "v": "similar",
+  "ce": "parody",
+  "cu": "пародія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "penguin",
+  "uk": "пінгвін",
+  "v": "similar",
+  "ce": "penguin",
+  "cu": "пінгвін",
+  "note": "vowel e → і"
+ },
+ {
+  "en": "phantom",
+  "uk": "фантом",
+  "v": "identical",
+  "ce": "phantom",
+  "cu": "фантом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pitt",
+  "uk": "пітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "precedent",
+  "uk": "прецедент",
+  "v": "identical",
+  "ce": "precedent",
+  "cu": "прецедент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": ""
+ },
+ {
+  "en": "python",
+  "uk": "пітон",
+  "v": "identical",
+  "ce": "python",
+  "cu": "пітон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "the snake; the programming language Python is usually written Python (Пайтон)"
+ },
+ {
+  "en": "qatar",
+  "uk": "катар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "simmons",
+  "uk": "сіммонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sociology",
+  "uk": "соціологія",
+  "v": "similar",
+  "ce": "sociology",
+  "cu": "соціологія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "somerset",
+  "uk": "сомерсет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "soo",
+  "uk": "су",
+  "v": "unrelated"
+ },
+ {
+  "en": "stab",
+  "uk": "стаб",
+  "v": "unrelated"
+ },
+ {
+  "en": "supermarket",
+  "uk": "супермаркет",
+  "v": "identical",
+  "ce": "supermarket",
+  "cu": "супермаркет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "supermarket",
+  "uk": "супермаркетів",
+  "v": "not_lemma",
+  "ce": "supermarket",
+  "cu": "супермаркет",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "genitive plural form"
+ },
+ {
+  "en": "sweater",
+  "uk": "светр",
+  "v": "identical",
+  "ce": "sweater",
+  "cu": "светр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "thomson",
+  "uk": "томсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tractor",
+  "uk": "трактор",
+  "v": "identical",
+  "ce": "tractor",
+  "cu": "трактор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "uganda",
+  "uk": "уганда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "uganda",
+  "uk": "уґанда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "variant",
+  "uk": "варіант",
+  "v": "identical",
+  "ce": "variant",
+  "cu": "варіант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "a very common Ukrainian word, also = 'option, version'"
+ },
+ {
+  "en": "variant",
+  "uk": "варіянт",
+  "v": "not_lemma",
+  "ce": "variant",
+  "cu": "варіант",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "old 1928–1933 spelling of варіант"
+ },
+ {
+  "en": "vector graphics",
+  "uk": "векторна графіка",
+  "v": "similar",
+  "ce": "vector graphics",
+  "cu": "векторна графіка",
+  "note": "adjective ending -на and -а added (графіка)"
+ },
+ {
+  "en": "vegetarian",
+  "uk": "вегетаріанка",
+  "v": "not_lemma",
+  "ce": "vegetarian",
+  "cu": "вегетаріанець",
+  "lv": "similar",
+  "note": "вегетаріанка = female form; Ukrainian adds suffix -ець/-ка"
+ },
+ {
+  "en": "vernon",
+  "uk": "вернон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "whiskey",
+  "uk": "віскі",
+  "v": "identical",
+  "ce": "whiskey",
+  "cu": "віскі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "also spelled whisky"
+ }
+]

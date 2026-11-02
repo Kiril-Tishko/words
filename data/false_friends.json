@@ -1,5 +1,27 @@
 [
  {
+  "en": "academia",
+  "uk": "академія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "академія = an academy (institution); academia = academic world",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "accord",
+  "uk": "акорд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "акорд = musical chord; 'accord' (agreement) = згода, угода",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
   "en": "accurate",
   "uk": "акуратний",
   "pos": "",
@@ -9,6 +31,28 @@
   "note": "акуратний/акуратно = neat(ly), careful(ly); accurate = точний",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "actual",
+  "uk": "актуальний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "актуальний = topical, relevant right now; actual = справжній, фактичний.",
+  "checked": 1,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "aggregate",
+  "uk": "агрегат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "агрегат = a machine or unit (e.g. a power unit); an aggregate (total) = сукупність, сума",
+  "checked": 1,
+  "src": "verify-022.json"
  },
  {
   "en": "band",
@@ -22,6 +66,116 @@
   "src": "verify-003.json"
  },
  {
+  "en": "benzene",
+  "uk": "бензин",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "benzene = бензол",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "blank",
+  "uk": "бланк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бланк = a printed form to fill in; blank = порожній, чистий",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "box",
+  "uk": "бокс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бокс = boxing (the sport) or a cubicle/bay; a box (container) is коробка",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "brat",
+  "uk": "брат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "брат = brother; a brat is a badly behaved child.",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "capitol",
+  "uk": "капітал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "капітал = capital (money); capitol = legislative building (Капітолій)",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "career",
+  "uk": "кар'єр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кар'єр = quarry (also a horse's full gallop); a career = кар'єра",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "carton",
+  "uk": "картон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "картон = cardboard; a carton (box) is коробка/пакет",
+  "checked": 1,
+  "src": "verify-058.json"
+ },
+ {
+  "en": "cartoon",
+  "uk": "картон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "картон = cardboard; a cartoon is мультфільм or карикатура.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "cathedral",
+  "uk": "кафедра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кафедра = university department or lectern; a cathedral is собор (кафедральний собор).",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "cereal",
+  "uk": "серіал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "серіал = TV series (English 'serial'); cereal = пластівці, злаки",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
   "en": "clay",
   "uk": "клей",
   "pos": "",
@@ -33,6 +187,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "colt",
+  "uk": "кольт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кольт = Colt revolver; a young horse is лоша",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "combat",
   "uk": "комбат",
   "pos": "",
@@ -42,6 +207,83 @@
   "note": "комбат = battalion commander (short for командир батальйону); combat = бій",
   "checked": 1,
   "src": "verify-007.json"
+ },
+ {
+  "en": "combine",
+  "uk": "комбінат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "комбінат = a large industrial plant; to combine = поєднувати",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "commando",
+  "uk": "команда",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "команда = team or command (order); a commando is a soldier of a special raiding unit.",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "compositor",
+  "uk": "композитор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "композитор = composer; compositor = typesetter",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "cord",
+  "uk": "корд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "корд = tyre cord fabric or a lunge line for horses; a cord/string is шнур.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "cross",
+  "uk": "крос",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "крос = cross-country race (also a boxing cross); a cross is хрест",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "curtain",
+  "uk": "куртина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "куртина = a curtain wall of a fortress or a flower bed; a window curtain is штора, a stage curtain is завіса.",
+  "checked": 1,
+  "src": "verify-025.json"
+ },
+ {
+  "en": "data",
+  "uk": "дата",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "дата = date (calendar day); data = дані",
+  "checked": 1,
+  "src": "scan-001.json"
  },
  {
   "en": "down",
@@ -66,6 +308,17 @@
   "src": "verify-005.json"
  },
  {
+  "en": "fashion",
+  "uk": "фасон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фасон = cut or style of a garment; fashion = мода.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
   "en": "frank",
   "uk": "франк",
   "pos": "",
@@ -73,8 +326,19 @@
   "lvl": null,
   "labels": [],
   "note": "frank = honest (відвертий); франк = franc (currency) or a Frank (tribe).",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
+ },
+ {
+  "en": "French",
+  "uk": "френч",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "френч = a military-style jacket (named after Field Marshal John French); the French language is французька.",
+  "checked": 1,
+  "src": "verify-001.json"
  },
  {
   "en": "gamma",
@@ -99,6 +363,50 @@
   "src": "verify-003.json"
  },
  {
+  "en": "grande",
+  "uk": "гранд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гранд = grandee (Spanish noble) or a top sports club; grande is a coffee cup size.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "graphic",
+  "uk": "графік",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "графік = schedule, timetable; graph/chart of a function. English graphic = an image; adj. vivid, explicit (графіка = graphics)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "herb",
+  "uk": "герб",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "герб = coat of arms; herb = трава, зелень",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "historic",
+  "uk": "історик",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "історик = historian; English historic (adj.) = історичний",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
   "en": "international",
   "uk": "інтернаціонал",
   "pos": "",
@@ -110,15 +418,37 @@
   "src": "verify-000.json"
  },
  {
+  "en": "list",
+  "uk": "лист",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "лист = letter (also leaf, sheet); a list = список",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
   "en": "magazine",
   "uk": "магазин",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "магазин = shop, store (also a gun magazine); English magazine = журнал",
+  "checked": 2,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "magistrate",
+  "uk": "магістрат",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "магазин = shop; a magazine (publication) is журнал. Both can mean a gun magazine.",
+  "note": "магістрат = a (historical) town council; a magistrate (judge) is мировий суддя.",
   "checked": 1,
-  "src": "verify-005.json"
+  "src": "verify-031.json"
  },
  {
   "en": "marina",
@@ -139,7 +469,7 @@
   "lvl": null,
   "labels": [],
   "note": "martin = a swallow-like bird; мартин = gull.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
  },
  {
@@ -150,8 +480,19 @@
   "lvl": null,
   "labels": [],
   "note": "майор = major (army rank); a mayor = мер",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "mercury",
+  "uk": "меркурій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "The metal is ртуть; Меркурій is only the planet or the Roman god.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "mercy",
@@ -165,6 +506,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "morale",
+  "uk": "мораль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мораль = morals, moral of a story; morale is бойовий дух.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "national",
   "uk": "націонал",
   "pos": "",
@@ -174,6 +526,17 @@
   "note": "націонал = colloquial 'nationalist' or part of compounds; 'national' is національний.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "nova",
+  "uk": "нова",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "нова = 'new' (feminine adjective); an astronomical nova is нова зоря.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "novel",
@@ -209,6 +572,39 @@
   "src": "verify-013.json"
  },
  {
+  "en": "pension",
+  "uk": "пансіон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "пансіон = boarding house or boarding school; a retirement pension is пенсія.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "personal",
+  "uk": "персонал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "персонал = personnel, staff; personal is особистий.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "physique",
+  "uk": "фізика",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фізика = physics; physique = body build",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
   "en": "pope",
   "uk": "поп",
   "pos": "",
@@ -218,6 +614,39 @@
   "note": "поп = (colloquial) Orthodox priest, or pop music; the Pope is Папа Римський.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "premiere",
+  "uk": "прем'єр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "прем'єр = premier (prime minister); a premiere (first showing) is прем'єра.",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "pretense",
+  "uk": "претензія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "претензія = claim, complaint (pretension); pretense is удавання.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "prospect",
+  "uk": "проспект",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "проспект = avenue or prospectus (brochure); a prospect is перспектива.",
+  "checked": 1,
+  "src": "scan-004.json"
  },
  {
   "en": "public",
@@ -231,6 +660,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "review",
+  "uk": "ревю",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ревю = a revue (variety show); a review is огляд or рецензія.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "roman",
   "uk": "роман",
   "pos": "",
@@ -242,6 +682,50 @@
   "src": "verify-008.json"
  },
  {
+  "en": "royal",
+  "uk": "рояль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "рояль = grand piano; royal = королівський.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "saloon",
+  "uk": "салон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "салон = salon, car/plane interior, showroom; an Old West saloon is салун",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "shah",
+  "uk": "шаг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "шаг = old Ukrainian coin (half a kopeck); a shah (ruler) is шах",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "specter",
+  "uk": "спектр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "спектр = spectrum; a specter is привид.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "storm",
   "uk": "штурм",
   "pos": "",
@@ -249,8 +733,41 @@
   "lvl": null,
   "labels": [],
   "note": "штурм = military assault (storming); a weather storm = шторм, буря",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "straight",
+  "uk": "стріт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "стріт = a straight in poker, or 'street' in loans (стрітбол); straight (not bent) is прямий",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "study",
+  "uk": "студія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "студій = genitive plural of студія (studio); a study is кабінет, навчання",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "sympathy",
+  "uk": "симпатія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian симпатія = liking, attraction; sympathy (pity) is співчуття.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "time",
@@ -264,6 +781,28 @@
   "src": "verify-000.json"
  },
  {
+  "en": "torpedo",
+  "uk": "торпедо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "торпедо = car dashboard (colloquial) or a club name; the weapon is торпеда",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "trace",
+  "uk": "траса",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "траса = highway, route, track; a trace is слід.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "trans",
   "uk": "транс",
   "pos": "",
@@ -275,6 +814,17 @@
   "src": "verify-010.json"
  },
  {
+  "en": "trek",
+  "uk": "трек",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "трек = track (song, race track, GPS track); a trek is похід (trekking = трекінг).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "vice",
   "uk": "віце",
   "pos": "",
@@ -284,5 +834,16 @@
   "note": "vice = a bad habit (порок); віце- is only the prefix vice- (віце-президент).",
   "checked": 1,
   "src": "verify-005.json"
+ },
+ {
+  "en": "wall",
+  "uk": "вал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "вал = rampart, shaft or big wave; a wall is стіна",
+  "checked": 1,
+  "src": "verify-002.json"
  }
 ]

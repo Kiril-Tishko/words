@@ -1,0 +1,1016 @@
+[
+ {
+  "en": "mao",
+  "uk": "мао",
+  "v": "unrelated"
+ },
+ {
+  "en": "mare",
+  "uk": "море",
+  "v": "unrelated"
+ },
+ {
+  "en": "marxist",
+  "uk": "марксист",
+  "v": "identical",
+  "ce": "Marxist",
+  "cu": "марксист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mystic",
+  "uk": "містик",
+  "v": "identical",
+  "ce": "mystic",
+  "cu": "містик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mystic",
+  "uk": "містичка",
+  "v": "not_lemma",
+  "ce": "mystic",
+  "cu": "містик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": "містичка is the feminine form"
+ },
+ {
+  "en": "ness",
+  "uk": "несс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nominal",
+  "uk": "номінальна",
+  "v": "not_lemma",
+  "ce": "nominal",
+  "cu": "номінальний",
+  "lv": "similar",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "nominal",
+  "uk": "номінальний",
+  "v": "similar",
+  "ce": "nominal",
+  "cu": "номінальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "osborne",
+  "uk": "осборн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parsons",
+  "uk": "парсонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "portsmouth",
+  "uk": "портсмут",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sammy",
+  "uk": "семмі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sap",
+  "uk": "сап",
+  "v": "unrelated"
+ },
+ {
+  "en": "sarcastic",
+  "uk": "саркастичний",
+  "v": "similar",
+  "ce": "sarcastic",
+  "cu": "саркастичний",
+  "note": "adjective ending -ичний"
+ },
+ {
+  "en": "segregation",
+  "uk": "сегрегація",
+  "v": "similar",
+  "ce": "segregation",
+  "cu": "сегрегація",
+  "note": "ending -ація"
+ },
+ {
+  "en": "seymour",
+  "uk": "сеймур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sheikh",
+  "uk": "шейх",
+  "v": "identical",
+  "ce": "sheikh",
+  "cu": "шейх",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sinclair",
+  "uk": "сінклер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sylvia",
+  "uk": "сільвія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "testosterone",
+  "uk": "тестостерон",
+  "v": "identical",
+  "ce": "testosterone",
+  "cu": "тестостерон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "viking",
+  "uk": "вікінг",
+  "v": "identical",
+  "ce": "Viking",
+  "cu": "вікінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "viking",
+  "uk": "вікінгів",
+  "v": "not_lemma",
+  "ce": "Viking",
+  "cu": "вікінг",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "вікінгів is genitive plural"
+ },
+ {
+  "en": "weaver",
+  "uk": "вівер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "weber",
+  "uk": "вебер",
+  "v": "identical",
+  "ce": "weber",
+  "cu": "вебер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units",
+   "physics"
+  ],
+  "note": "unit of magnetic flux"
+ },
+ {
+  "en": "wes",
+  "uk": "вес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "williamson",
+  "uk": "вільямсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yankee",
+  "uk": "янки",
+  "v": "not_lemma",
+  "ce": "Yankee",
+  "cu": "янкі",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "Russian-style spelling; standard Ukrainian is янкі"
+ },
+ {
+  "en": "yankee",
+  "uk": "янкі",
+  "v": "identical",
+  "ce": "Yankee",
+  "cu": "янкі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "informal name for an American"
+ },
+ {
+  "en": "aesthetics",
+  "uk": "естетика",
+  "v": "similar",
+  "ce": "aesthetics",
+  "cu": "естетика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "anton",
+  "uk": "антон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "archie",
+  "uk": "арчі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "augusta",
+  "uk": "августа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aye-aye",
+  "uk": "ай-ай",
+  "v": "identical",
+  "ce": "aye-aye",
+  "cu": "ай-ай",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "nature"
+  ],
+  "note": "the Madagascar lemur (also руконіжка); in Ukrainian ай-ай is also an exclamation 'oh dear!'"
+ },
+ {
+  "en": "bahrain",
+  "uk": "бахрейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "banquet",
+  "uk": "банкет",
+  "v": "identical",
+  "ce": "banquet",
+  "cu": "банкет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "also бенкет"
+ },
+ {
+  "en": "banquet",
+  "uk": "бенкет",
+  "v": "identical",
+  "ce": "banquet",
+  "cu": "бенкет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "бенкет also means any lavish feast; also банкет"
+ },
+ {
+  "en": "barker",
+  "uk": "баркер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bengal tiger",
+  "uk": "бенгальський тигр",
+  "v": "similar",
+  "ce": "Bengal tiger",
+  "cu": "бенгальський тигр",
+  "note": "adjective бенгальський has an ending"
+ },
+ {
+  "en": "bentley",
+  "uk": "бентлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "calorie",
+  "uk": "калорія",
+  "v": "similar",
+  "ce": "calorie",
+  "cu": "калорія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "chamberlain",
+  "uk": "чемберлен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coordinating",
+  "uk": "координаційної",
+  "v": "not_lemma",
+  "ce": "coordinating",
+  "cu": "координаційний",
+  "lv": "similar",
+  "note": "adjective with ending -ний; uk is genitive feminine"
+ },
+ {
+  "en": "coordinating",
+  "uk": "координація",
+  "v": "not_lemma",
+  "ce": "coordination",
+  "cu": "координація",
+  "lv": "similar",
+  "note": "ending -ація"
+ },
+ {
+  "en": "damascus",
+  "uk": "дамаск",
+  "v": "proper_noun"
+ },
+ {
+  "en": "damascus",
+  "uk": "дамаску",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donovan",
+  "uk": "донован",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duplicate",
+  "uk": "дублікат",
+  "v": "similar",
+  "ce": "duplicate",
+  "cu": "дублікат",
+  "note": "п→б; noun only (a copy)"
+ },
+ {
+  "en": "dynamite",
+  "uk": "динаміт",
+  "v": "identical",
+  "ce": "dynamite",
+  "cu": "динаміт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fetish",
+  "uk": "фетиш",
+  "v": "identical",
+  "ce": "fetish",
+  "cu": "фетиш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "geometric",
+  "uk": "геометричний",
+  "v": "similar",
+  "ce": "geometric",
+  "cu": "геометричний",
+  "note": "adjective ending -ичний"
+ },
+ {
+  "en": "goldman",
+  "uk": "голдман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "halifax",
+  "uk": "галіфакс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hanna",
+  "uk": "ганна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hanna",
+  "uk": "ханна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "humanitarian corridor",
+  "uk": "гуманітарний коридор",
+  "v": "similar",
+  "ce": "humanitarian corridor",
+  "cu": "гуманітарний коридор",
+  "note": "adjective гуманітарний has an ending"
+ },
+ {
+  "en": "impeachment",
+  "uk": "імпічмент",
+  "v": "identical",
+  "ce": "impeachment",
+  "cu": "імпічмент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "law"
+  ],
+  "note": ""
+ },
+ {
+  "en": "isa",
+  "uk": "іса",
+  "v": "unrelated"
+ },
+ {
+  "en": "juliet",
+  "uk": "джульєтта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karachi",
+  "uk": "карачі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leopard",
+  "uk": "леопард",
+  "v": "identical",
+  "ce": "leopard",
+  "cu": "леопард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lydia",
+  "uk": "лідія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mackenzie",
+  "uk": "макензі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "madam",
+  "uk": "мадам",
+  "v": "identical",
+  "ce": "madam",
+  "cu": "мадам",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "in Ukrainian used mostly for foreign women or jokingly"
+ },
+ {
+  "en": "mayer",
+  "uk": "маєр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mma",
+  "uk": "мма",
+  "v": "identical",
+  "ce": "MMA",
+  "cu": "ММА",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "sport"
+  ],
+  "note": "mixed martial arts"
+ },
+ {
+  "en": "muse",
+  "uk": "музи",
+  "v": "not_lemma",
+  "ce": "muse",
+  "cu": "муза",
+  "lv": "similar",
+  "note": "lemma муза has ending -а"
+ },
+ {
+  "en": "nanny",
+  "uk": "няня",
+  "v": "similar",
+  "ce": "nanny",
+  "cu": "няня",
+  "note": "different ending -я"
+ },
+ {
+  "en": "nanny",
+  "uk": "няні",
+  "v": "not_lemma",
+  "ce": "nanny",
+  "cu": "няня",
+  "lv": "similar",
+  "note": "lemma няня has ending -я"
+ },
+ {
+  "en": "orbital",
+  "uk": "орбіталь",
+  "v": "identical",
+  "ce": "orbital",
+  "cu": "орбіталь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry",
+   "physics"
+  ],
+  "note": "only the noun (atomic orbital); the adjective is орбітальний"
+ },
+ {
+  "en": "organism",
+  "uk": "організм",
+  "v": "identical",
+  "ce": "organism",
+  "cu": "організм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "patriotism",
+  "uk": "патріотизм",
+  "v": "identical",
+  "ce": "patriotism",
+  "cu": "патріотизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pratt",
+  "uk": "пратт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roth",
+  "uk": "рот",
+  "v": "unrelated"
+ },
+ {
+  "en": "titanic",
+  "uk": "титанік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "typhoon",
+  "uk": "тайфун",
+  "v": "identical",
+  "ce": "typhoon",
+  "cu": "тайфун",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "valerie",
+  "uk": "валері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "valerie",
+  "uk": "валерія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vampires",
+  "uk": "вампіри",
+  "v": "not_lemma",
+  "ce": "vampire",
+  "cu": "вампір",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "plural forms"
+ },
+ {
+  "en": "vitamins",
+  "uk": "вітаміни",
+  "v": "not_lemma",
+  "ce": "vitamin",
+  "cu": "вітамін",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "plural forms"
+ },
+ {
+  "en": "winnipeg",
+  "uk": "вінніпег",
+  "v": "proper_noun"
+ },
+ {
+  "en": "winnipeg",
+  "uk": "вінніпеґ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "worcester",
+  "uk": "вустер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zurich",
+  "uk": "цюрих",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zurich",
+  "uk": "цюріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abdominal",
+  "uk": "абдомінальний",
+  "v": "similar",
+  "ce": "abdominal",
+  "cu": "абдомінальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "baba",
+  "uk": "баба",
+  "v": "identical",
+  "ce": "baba",
+  "cu": "баба",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people",
+   "food"
+  ],
+  "note": "in Ukrainian mainly 'grandma, old woman'; in English mainly the rum cake (ромова баба)"
+ },
+ {
+  "en": "blackout",
+  "uk": "блекаут",
+  "v": "identical",
+  "ce": "blackout",
+  "cu": "блекаут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "note": "in Ukrainian mainly a large power outage"
+ },
+ {
+  "en": "bluff",
+  "uk": "блеф",
+  "v": "identical",
+  "ce": "bluff",
+  "cu": "блеф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bollywood",
+  "uk": "боллівуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cartel",
+  "uk": "картель",
+  "v": "identical",
+  "ce": "cartel",
+  "cu": "картель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "catastrophic",
+  "uk": "катастрофічний",
+  "v": "similar",
+  "ce": "catastrophic",
+  "cu": "катастрофічний",
+  "note": "adjective ending -ічний"
+ },
+ {
+  "en": "cheryl",
+  "uk": "шеріл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "columnist",
+  "uk": "колумніст",
+  "v": "identical",
+  "ce": "columnist",
+  "cu": "колумніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "columnist",
+  "uk": "колумнист",
+  "v": "not_lemma",
+  "ce": "columnist",
+  "cu": "колумніст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "people"
+  ],
+  "note": "nonstandard spelling; standard is колумніст"
+ },
+ {
+  "en": "constitutional monarchy",
+  "uk": "конституційна монархія",
+  "v": "similar",
+  "ce": "constitutional monarchy",
+  "cu": "конституційна монархія",
+  "note": "adjective ending and -ія ending"
+ },
+ {
+  "en": "contexts",
+  "uk": "контекстів",
+  "v": "not_lemma",
+  "ce": "context",
+  "cu": "контекст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "контекстів is genitive plural"
+ },
+ {
+  "en": "diaz",
+  "uk": "діаз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dictate",
+  "uk": "диктат",
+  "v": "partial_false_friend",
+  "ce": "dictate",
+  "cu": "диктат",
+  "note": "диктат = imposed orders, diktat (noun); 'to dictate' is диктувати, dictation is диктант"
+ },
+ {
+  "en": "doris",
+  "uk": "доріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "electro",
+  "uk": "електро",
+  "v": "identical",
+  "ce": "electro",
+  "cu": "електро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "music"
+  ],
+  "note": "music style; in Ukrainian also common as the prefix електро-"
+ },
+ {
+  "en": "electromagnetic",
+  "uk": "електромагнітний",
+  "v": "similar",
+  "ce": "electromagnetic",
+  "cu": "електромагнітний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "emblem",
+  "uk": "емблема",
+  "v": "similar",
+  "ce": "emblem",
+  "cu": "емблема",
+  "note": "ending -а"
+ },
+ {
+  "en": "facto",
+  "uk": "факто",
+  "v": "not_lemma",
+  "ce": "de facto",
+  "cu": "де-факто",
+  "lv": "identical",
+  "pos": "adv",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": "only in the Latin phrase de facto"
+ },
+ {
+  "en": "fascism",
+  "uk": "фашизм",
+  "v": "identical",
+  "ce": "fascism",
+  "cu": "фашизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "flyer",
+  "uk": "флаєр",
+  "v": "identical",
+  "ce": "flyer",
+  "cu": "флаєр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "business"
+  ],
+  "note": "in Ukrainian only 'leaflet'"
+ },
+ {
+  "en": "foreman",
+  "uk": "форман",
+  "v": "unrelated"
+ },
+ {
+  "en": "gallagher",
+  "uk": "галлахер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gina",
+  "uk": "джина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gomez",
+  "uk": "гомес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jen",
+  "uk": "джен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "judaism",
+  "uk": "юдаїзм",
+  "v": "similar",
+  "ce": "Judaism",
+  "cu": "юдаїзм",
+  "note": "ю instead of дж"
+ },
+ {
+  "en": "judaism",
+  "uk": "іудаїзм",
+  "v": "similar",
+  "ce": "Judaism",
+  "cu": "іудаїзм",
+  "note": "іу instead of дж; variant of юдаїзм"
+ },
+ {
+  "en": "keller",
+  "uk": "келлер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kung",
+  "uk": "кунг",
+  "v": "unrelated"
+ },
+ {
+  "en": "lima",
+  "uk": "ліма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "miner",
+  "uk": "мінер",
+  "v": "partial_false_friend",
+  "ce": "miner",
+  "cu": "мінер",
+  "note": "мінер = military mine-layer/sapper; a coal miner is шахтар"
+ },
+ {
+  "en": "nichols",
+  "uk": "ніколс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "optics",
+  "uk": "оптика",
+  "v": "similar",
+  "ce": "optics",
+  "cu": "оптика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "patty",
+  "uk": "паті",
+  "v": "unrelated"
+ },
+ {
+  "en": "peyton",
+  "uk": "пейтон",
+  "v": "proper_noun"
+ }
+]

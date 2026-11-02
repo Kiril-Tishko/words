@@ -1,5 +1,38 @@
 [
  {
+  "en": "abstract",
+  "uk": "абстракт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "абстракт (rare) = an abstraction; a summary of a paper = анотація, реферат",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "advocate",
+  "uk": "адвокат",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "адвокат = a lawyer (defense attorney); in English 'advocate' mostly means a supporter of a cause (lawyer sense is formal / Scottish)",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "alley",
+  "uk": "алея",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "алея = tree-lined path in a park; English alley is mostly a narrow back street (провулок).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "apartment",
   "uk": "апартамент",
   "pos": "",
@@ -7,8 +40,96 @@
   "lvl": null,
   "labels": [],
   "note": "апартаменти (usually plural) = a luxury suite or grand rooms; an ordinary apartment = квартира",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "artist",
+  "uk": "артист",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "артист = a performer (actor, singer, circus artist); a painter or visual artist = художник, митець.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "attraction",
+  "uk": "атракціон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "атракціон = an amusement ride or show; attraction = притягання, a tourist attraction = пам'ятка",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "automat",
+  "uk": "автомат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian автомат = automatic machine, vending machine, but very often an assault rifle; English automat is mostly an old coin-operated cafeteria.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "ball",
+  "uk": "бал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бал = a formal dance (ball) or a point/grade score; a ball to play with is м'яч",
+  "checked": 1,
+  "src": "verify-002.json"
+ },
+ {
+  "en": "basin",
+  "uk": "басейн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "басейн = mainly a swimming pool (also a river basin); a washbasin is умивальник, миска.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "benefit",
+  "uk": "бенефіс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бенефіс = a benefit performance honoring an actor (also a star performance); benefit (advantage) = користь, вигода.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "benzine",
+  "uk": "бензин",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бензин = gasoline/petrol; English benzine = petroleum solvent",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "blitz",
+  "uk": "бліц",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бліц mainly = quick format (blitz chess, quick quiz), not an air raid",
+  "checked": 1,
+  "src": "verify-038.json"
  },
  {
   "en": "boat",
@@ -18,7 +139,7 @@
   "lvl": null,
   "labels": [],
   "note": "бот today mostly = bot (software); a boat is човен (бот as a ship type is dated).",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
  },
  {
@@ -29,8 +150,33 @@
   "lvl": null,
   "labels": [],
   "note": "боб = bean (also bobsleigh, a bob haircut); 'to bob' = гойдатися",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "bond",
+  "uk": "бонд",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance",
+   "technical"
+  ],
+  "note": "only the financial bond (usually облігація; бонд in finance jargon, e.g. євробонди); a bond between people = зв'язок",
+  "checked": 2,
+  "src": "verify-007.json"
+ },
+ {
+  "en": "box",
+  "uk": "бокс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian бокс mainly means boxing (the sport); only sometimes a compartment or container (ланч-бокс).",
+  "checked": 1,
+  "src": "scan-004.json"
  },
  {
   "en": "brilliant",
@@ -44,6 +190,28 @@
   "src": "verify-007.json"
  },
  {
+  "en": "buffet",
+  "uk": "буфет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "буфет = sideboard or snack bar; a buffet meal = шведський стіл / фуршет",
+  "checked": 1,
+  "src": "verify-039.json"
+ },
+ {
+  "en": "bus",
+  "uk": "бус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "бус = (colloquial) a minibus or van; a regular bus = автобус.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
   "en": "bush",
   "uk": "буш",
   "pos": "",
@@ -55,6 +223,17 @@
   "src": "verify-008.json"
  },
  {
+  "en": "cabin",
+  "uk": "кабіна",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кабіна = cab, cockpit, booth; a log cabin = хатина, a ship's cabin = каюта",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
   "en": "cabinet",
   "uk": "кабінет",
   "pos": "",
@@ -64,6 +243,17 @@
   "note": "кабінет = an office/study room or the government cabinet; a cupboard is шафа.",
   "checked": 1,
   "src": "verify-008.json"
+ },
+ {
+  "en": "camping",
+  "uk": "кемпінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian кемпінг is mainly a campsite (the place); the activity is відпочинок у наметах.",
+  "checked": 1,
+  "src": "verify-020.json"
  },
  {
   "en": "carbon",
@@ -88,6 +278,72 @@
   "src": "verify-000.json"
  },
  {
+  "en": "chef",
+  "uk": "шеф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "шеф mainly means boss/chief; a head cook is шеф-кухар.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "clearance",
+  "uk": "кліренс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кліренс = only ground clearance of a vehicle (and clearance in medicine); permission = дозвіл, a clearance sale = розпродаж",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "collective",
+  "uk": "колектив",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "колектив = staff, team of people working together; English collective is a cooperative group.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "collector",
+  "uk": "колектор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "колектор = debt collector or a technical collector (sewer, manifold); a stamp/art collector is колекціонер.",
+  "checked": 1,
+  "src": "verify-023.json"
+ },
+ {
+  "en": "college",
+  "uk": "колегія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "колегія = board, collegium (as in electoral college); a college (school) is коледж.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "comedian",
+  "uk": "комедіант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "комедіант = an old word for a (travelling) actor, figuratively a hypocrite; a comedian = комік",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
   "en": "comic",
   "uk": "комік",
   "pos": "",
@@ -101,13 +357,24 @@
  {
   "en": "command",
   "uk": "команда",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "команда mostly = team; also command, order",
+  "checked": 1,
+  "src": "scan-001.json"
+ },
+ {
+  "en": "companion",
+  "uk": "компаньйон",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "команда mostly = team; also a command/order. Ending -а added.",
+  "note": "компаньйон usually = business partner; a companion = супутник, товариш",
   "checked": 1,
-  "src": "verify-005.json"
+  "src": "verify-017.json"
  },
  {
   "en": "concern",
@@ -117,7 +384,7 @@
   "lvl": null,
   "labels": [],
   "note": "концерн = a large business group only; concern (worry) = занепокоєння",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {
@@ -130,6 +397,39 @@
   "note": "adjective ending -ний; concrete (building material) is бетон",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "conductor",
+  "uk": "кондуктор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кондуктор = ticket conductor on a bus/tram only; orchestra conductor = диригент, electrical conductor = провідник",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "confession",
+  "uk": "конфесія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian конфесія = religious denomination; an admission is зізнання, the sacrament is сповідь.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
+  "en": "confirmation",
+  "uk": "конфірмація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "конфірмація = only the church ceremony; confirmation (verification) is підтвердження.",
+  "checked": 1,
+  "src": "verify-018.json"
  },
  {
   "en": "conservation",
@@ -154,6 +454,50 @@
   "src": "verify-008.json"
  },
  {
+  "en": "cookie",
+  "uk": "куки",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "куки (also кукі) = only browser cookies; a sweet cookie is печиво.",
+  "checked": 1,
+  "src": "verify-018.json"
+ },
+ {
+  "en": "corona",
+  "uk": "корона",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "корона mainly means crown; shared only in solar corona",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "corpus",
+  "uk": "корпус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English corpus = a body of texts; Ukrainian корпус usually means a building (block), hull, casing or military corps.",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "costume",
+  "uk": "костюм",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "костюм mainly = suit; costume = карнавальний/сценічний костюм",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
   "en": "crack",
   "uk": "крек",
   "pos": "",
@@ -163,6 +507,17 @@
   "note": "крек = only crack cocaine (slang); a crack/split is тріщина",
   "checked": 1,
   "src": "verify-010.json"
+ },
+ {
+  "en": "crane",
+  "uk": "кран",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "кран is also (mainly) a tap/faucet; the bird crane is журавель.",
+  "checked": 1,
+  "src": "verify-023.json"
  },
  {
   "en": "crash",
@@ -187,6 +542,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "decoration",
+  "uk": "декорація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "декорація is mainly stage scenery; an ornament = прикраса",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
   "en": "dispute",
   "uk": "диспут",
   "pos": "",
@@ -198,6 +564,17 @@
   "src": "verify-013.json"
  },
  {
+  "en": "diva",
+  "uk": "діва",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "діва mainly means maiden/virgin and Virgo; the diva sense is in поп-діва, оперна діва",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
   "en": "division",
   "uk": "дивізіон",
   "pos": "",
@@ -205,8 +582,19 @@
   "lvl": null,
   "labels": [],
   "note": "дивізіон = a division of a sports league or an artillery battalion; dividing = ділення, an army division = дивізія",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-003.json"
+ },
+ {
+  "en": "double",
+  "uk": "дабл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "дабл = slang in sport/games or names (дабл-дабл, дабл чізбургер); the adjective double is подвійний",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "driver",
@@ -216,19 +604,74 @@
   "lvl": null,
   "labels": [],
   "note": "драйвер = only a device/software driver; a car driver = водій",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
  },
  {
-  "en": "economy",
-  "uk": "економія",
+  "en": "dump",
+  "uk": "дамп",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "економія = saving, thrift; a country's economy = економіка",
+  "note": "дамп = only a data/memory dump (IT); a garbage dump is звалище.",
   "checked": 1,
-  "src": "verify-003.json"
+  "src": "verify-018.json"
+ },
+ {
+  "en": "economy",
+  "uk": "економія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "економія = saving, thrift; economy (system) = економіка",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "engagement",
+  "uk": "ангажемент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ангажемент = only a performer's booking/contract (French form); betrothal = заручини",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "entrepreneur",
+  "uk": "антрепренер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "антрепренер = theatre/show impresario (an old English sense); a business entrepreneur is підприємець.",
+  "checked": 1,
+  "src": "verify-021.json"
+ },
+ {
+  "en": "expertise",
+  "uk": "експертиза",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "експертиза = expert examination/assessment; expertise = expert skill (also 'expert opinion')",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "extra",
+  "uk": "екстра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "екстра = top-grade, premium (сорт екстра); 'additional' is додатковий",
+  "checked": 1,
+  "src": "verify-002.json"
  },
  {
   "en": "familiar",
@@ -239,6 +682,20 @@
   "labels": [],
   "note": "фамільярний = overly familiar, too casual; 'known' = знайомий",
   "checked": 1,
+  "src": "verify-007.json"
+ },
+ {
+  "en": "familiar",
+  "uk": "фамільяр",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other",
+   "rare"
+  ],
+  "note": "only the noun 'familiar spirit' (a witch's helper, fantasy); the adjective familiar = знайомий",
+  "checked": 2,
   "src": "verify-007.json"
  },
  {
@@ -275,6 +732,39 @@
   "src": "verify-003.json"
  },
  {
+  "en": "furry",
+  "uk": "фурі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фурі = only a member of the furry fandom, not 'covered with fur'",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "graph",
+  "uk": "граф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "граф = a graph in graph theory or a count (nobleman); a chart is графік",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "gymnasium",
+  "uk": "гімназія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гімназія = a type of secondary school; English gymnasium is mostly a sports hall (спортзал).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "honor",
   "uk": "гонор",
   "pos": "",
@@ -282,8 +772,33 @@
   "lvl": null,
   "labels": [],
   "note": "гонор usually = arrogance, excessive pride; honor is честь.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
+ },
+ {
+  "en": "horn",
+  "uk": "горн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "горн = a forge, or a bugle; an animal's horn = ріг",
+  "checked": 1,
+  "src": "verify-017.json"
+ },
+ {
+  "en": "host",
+  "uk": "хост",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "Only a host computer in networking; a host of guests or a TV host = господар, ведучий.",
+  "checked": 2,
+  "src": "verify-004.json"
  },
  {
   "en": "image",
@@ -297,6 +812,61 @@
   "src": "verify-003.json"
  },
  {
+  "en": "implication",
+  "uk": "імплікація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "імплікація is only a logic/linguistics term; everyday 'implication' = наслідок",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "invalid",
+  "uk": "інвалід",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "English mainly 'not valid' (adj.); the noun 'invalid' (sick/disabled person) is dated; Ukrainian інвалід is also being replaced by 'людина з інвалідністю'",
+  "checked": 1,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "journal",
+  "uk": "журнал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "журнал = mainly a magazine; also a logbook or class register; a diary = щоденник.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "liver",
+  "uk": "лівер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "лівер = offal (heart, lungs, liver) as food; the organ liver = печінка",
+  "checked": 1,
+  "src": "verify-016.json"
+ },
+ {
+  "en": "machine",
+  "uk": "машина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "машина in everyday Ukrainian usually means car; English machine never means car.",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
   "en": "mail",
   "uk": "мейл",
   "pos": "",
@@ -304,7 +874,7 @@
   "lvl": null,
   "labels": [],
   "note": "мейл = email only; postal mail is пошта.",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-005.json"
  },
  {
@@ -319,6 +889,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "mat",
+  "uk": "мат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian мат is a thick gym mat, but mostly checkmate or swearing; a doormat or small mat is килимок.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
   "en": "mate",
   "uk": "мат",
   "pos": "",
@@ -330,6 +911,28 @@
   "src": "verify-008.json"
  },
  {
+  "en": "mead",
+  "uk": "мед",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мед mainly means honey; the drink is медовуха or питний мед",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "mead",
+  "uk": "мід",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мід is an old/dialect form of мед (mainly honey); the drink is медовуха",
+  "checked": 1,
+  "src": "verify-045.json"
+ },
+ {
   "en": "medium",
   "uk": "медіум",
   "pos": "",
@@ -337,8 +940,74 @@
   "lvl": null,
   "labels": [],
   "note": "медіум = only a spiritualist medium; a means/material = засіб, середовище",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "meeting",
+  "uk": "мітинг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мітинг = (political) rally; meeting = зустріч, збори",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "messenger",
+  "uk": "месенджер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "месенджер = only a messaging app; a person who brings messages = посланець, кур'єр",
+  "checked": 1,
+  "src": "verify-022.json"
+ },
+ {
+  "en": "methodist",
+  "uk": "методист",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian методист usually means a teaching-methods specialist (methodologist); also a Methodist church member.",
+  "checked": 1,
+  "src": "verify-034.json"
+ },
+ {
+  "en": "metropolis",
+  "uk": "метрополія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "метрополія = mother country of colonies; a big city is мегаполіс",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "metropolis",
+  "uk": "митрополія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "митрополія = only the church sense (see of a metropolitan bishop)",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
+  "en": "militia",
+  "uk": "міліція",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "міліція = (Soviet-style) police; a civilian volunteer army is ополчення.",
+  "checked": 1,
+  "src": "verify-025.json"
  },
  {
   "en": "minor",
@@ -348,8 +1017,41 @@
   "lvl": null,
   "labels": [],
   "note": "мінор = minor key in music (or a gloomy mood); minor (small, unimportant) = незначний",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "mode",
+  "uk": "мода",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мода = fashion (English mode only rarely); mode = спосіб, режим. Both are the 'mode' in statistics.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "naphtha",
+  "uk": "нафта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "нафта = crude oil (petroleum); English naphtha is a light distilled fuel (petroleum only in old use).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "nationality",
+  "uk": "національність",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "національність = ethnic origin; legal nationality (citizenship) is громадянство; suffix -ність.",
+  "checked": 1,
+  "src": "verify-031.json"
  },
  {
   "en": "nick",
@@ -359,8 +1061,52 @@
   "lvl": null,
   "labels": [],
   "note": "нік = online nickname (from English nick for nickname); the usual English nick = a small cut, notch",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "null",
+  "uk": "нуль",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "нуль = zero, the number 0 (everyday word); English null = invalid/void, an empty value (math, programming)",
+  "checked": 1,
+  "src": "scan-002.json"
+ },
+ {
+  "en": "occupation",
+  "uk": "окупація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "plural of the adjective окупаційний 'of (military) occupation'; окупація = only military occupation, a job = професія, заняття",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "operational",
+  "uk": "оперативний",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "feminine adjective form; оперативний mainly = prompt, quick (military 'operational' too); 'working, functioning' = робочий, діючий",
+  "checked": 1,
+  "src": "verify-015.json"
+ },
+ {
+  "en": "option",
+  "uk": "опціон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "опціон = only a financial option contract; a choice = опція, варіант.",
+  "checked": 2,
+  "src": "verify-004.json"
  },
  {
   "en": "order",
@@ -385,6 +1131,17 @@
   "src": "verify-000.json"
  },
  {
+  "en": "organizer",
+  "uk": "органайзер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "органайзер = planner/storage organizer only; a person is організатор",
+  "checked": 1,
+  "src": "verify-038.json"
+ },
+ {
   "en": "originally",
   "uk": "оригінально",
   "pos": "",
@@ -396,15 +1153,59 @@
   "src": "verify-005.json"
  },
  {
-  "en": "party",
-  "uk": "партія",
+  "en": "overtime",
+  "uk": "овертайм",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "",
+  "note": "овертайм = only extra time in a sports game; overtime at work = понаднормова робота",
   "checked": 1,
-  "src": "verify-000.json"
+  "src": "verify-022.json"
+ },
+ {
+  "en": "page",
+  "uk": "паж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "паж = page boy (historical servant) only; a book page is сторінка.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
+  "en": "paragraph",
+  "uk": "параграф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian параграф = a numbered section (§) of a textbook or law; a paragraph of text is абзац.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
+  "en": "partisan",
+  "uk": "партизан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "партизан = guerrilla fighter only; English 'partisan' usually means a biased party supporter",
+  "checked": 1,
+  "src": "verify-027.json"
+ },
+ {
+  "en": "party",
+  "uk": "партія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "партія = political party, batch, game (chess); a party (celebration) = вечірка",
+  "checked": 1,
+  "src": "scan-001.json"
  },
  {
   "en": "passage",
@@ -429,6 +1230,39 @@
   "src": "verify-032.json"
  },
  {
+  "en": "personage",
+  "uk": "персонаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "персонаж = character in a story or game; English personage mainly means an important person.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "photograph",
+  "uk": "фотограф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фотограф = photographer; a photograph is фотографія.",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "poem",
+  "uk": "поема",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "поема is a long narrative poem; an ordinary (short) poem is вірш.",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
   "en": "pool",
   "uk": "пул",
   "pos": "",
@@ -436,7 +1270,7 @@
   "lvl": null,
   "labels": [],
   "note": "пул = a shared pool (of resources, people) or the game pool; a swimming pool = басейн",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-006.json"
  },
  {
@@ -447,8 +1281,44 @@
   "lvl": null,
   "labels": [],
   "note": "поп alone usually = a priest (colloquial); pop music = поп-музика",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-003.json"
+ },
+ {
+  "en": "press",
+  "uk": "прес",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Shared: a pressing machine. Ukrainian прес also means the abs (качати прес); the news media is преса.",
+  "checked": 1,
+  "src": "scan-000.json"
+ },
+ {
+  "en": "pretense",
+  "uk": "претензія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "претензія = claim, complaint/grievance; pretense = pretending, false show",
+  "checked": 1,
+  "src": "scan-003.json"
+ },
+ {
+  "en": "prior",
+  "uk": "пріор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "religion"
+  ],
+  "note": "Only the noun: the head of a priory (monastery); the adjective prior = попередній.",
+  "checked": 2,
+  "src": "verify-004.json"
  },
  {
   "en": "pro-",
@@ -473,6 +1343,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "realization",
+  "uk": "реалізація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Genitive form of реалізація (= implementation, carrying out; also sale of goods); 'becoming aware' is усвідомлення.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
   "en": "record",
   "uk": "рекорд",
   "pos": "",
@@ -482,6 +1363,17 @@
   "note": "рекорд = only a record (best result); a written record = запис, a vinyl record = платівка",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "regime",
+  "uk": "режим",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Shared: political regime, a set routine (diet regime). Ukrainian режим also = mode/setting (режим польоту = airplane mode) and schedule (режим роботи = opening hours).",
+  "checked": 1,
+  "src": "scan-000.json"
  },
  {
   "en": "register",
@@ -517,6 +1409,17 @@
   "src": "verify-007.json"
  },
  {
+  "en": "reservoir",
+  "uk": "резервуар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian резервуар is a tank/container; a water-supply lake is водосховище.",
+  "checked": 1,
+  "src": "verify-024.json"
+ },
+ {
   "en": "resident",
   "uk": "резидент",
   "pos": "",
@@ -526,6 +1429,50 @@
   "note": "резидент = resident in a legal/tax sense (or a spy chief); a resident of a town is мешканець.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "rover",
+  "uk": "ровер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "ровер = bicycle (Western Ukrainian); rover = wanderer; a Mars rover is марсохід (sometimes ровер)",
+  "checked": 1,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "salute",
+  "uk": "салют",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "салют = fireworks or a gun salute; a hand salute is віддання честі.",
+  "checked": 1,
+  "src": "verify-031.json"
+ },
+ {
+  "en": "satellite",
+  "uk": "сателіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "сателіт = mainly a satellite state or follower; a space satellite or moon = супутник",
+  "checked": 1,
+  "src": "verify-012.json"
+ },
+ {
+  "en": "scene",
+  "uk": "сцена",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "сцена = stage (on stage = на сцені); shared meaning: a scene of a play or film",
+  "checked": 1,
+  "src": "scan-002.json"
  },
  {
   "en": "senior",
@@ -539,6 +1486,28 @@
   "src": "verify-003.json"
  },
  {
+  "en": "serial",
+  "uk": "серіал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "серіал = any TV series; in English a TV show is usually a 'series', and serial is mostly an adjective (serial number = серійний номер).",
+  "checked": 1,
+  "src": "verify-014.json"
+ },
+ {
+  "en": "shelf",
+  "uk": "шельф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian шельф is only the continental shelf (sea floor); a shelf for books is полиця.",
+  "checked": 1,
+  "src": "verify-020.json"
+ },
+ {
   "en": "skin",
   "uk": "скін",
   "pos": "",
@@ -550,6 +1519,28 @@
   "src": "verify-003.json"
  },
  {
+  "en": "smart",
+  "uk": "смарт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "смарт- is used mostly in compounds for smart devices (смарт-годинник) or as slang for a smartphone; clever = розумний.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "soda",
+  "uk": "сода",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "сода = baking soda (the chemical); a fizzy drink is газована вода",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
   "en": "speaker",
   "uk": "спікер",
   "pos": "",
@@ -559,6 +1550,39 @@
   "note": "спікер = speaker of parliament, spokesperson, speaker at an event; a loudspeaker is динамік/колонка",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "spirit",
+  "uk": "спирт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "спирт = (ethyl) alcohol only; spirit (soul) = дух.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
+  "en": "stack",
+  "uk": "стек",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "стек = a stack in computing (or a riding crop); a pile is купа or стос",
+  "checked": 1,
+  "src": "verify-019.json"
+ },
+ {
+  "en": "stamp",
+  "uk": "штамп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "штамп = rubber stamp, imprint, also a cliché; a postage stamp is марка.",
+  "checked": 1,
+  "src": "verify-018.json"
  },
  {
   "en": "state",
@@ -583,6 +1607,20 @@
   "src": "verify-026.json"
  },
  {
+  "en": "stone",
+  "uk": "стоун",
+  "pos": "noun",
+  "british": true,
+  "lvl": null,
+  "labels": [
+   "rare",
+   "units"
+  ],
+  "note": "Only the British unit of weight (14 pounds, 6.35 kg); a stone (rock) = камінь.",
+  "checked": 2,
+  "src": "verify-004.json"
+ },
+ {
   "en": "subject",
   "uk": "суб'єкт",
   "pos": "",
@@ -596,13 +1634,13 @@
  {
   "en": "technique",
   "uk": "техніка",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "техніка mainly means equipment, machinery, technology; also technique (skill)",
+  "note": "техніка also = machinery, equipment, technology",
   "checked": 1,
-  "src": "verify-009.json"
+  "src": "scan-001.json"
  },
  {
   "en": "terror",
@@ -623,8 +1661,19 @@
   "lvl": null,
   "labels": [],
   "note": "тікет = only an IT/support ticket (slang); a travel or admission ticket = квиток",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "title",
+  "uk": "титул",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "титул = title of nobility or a championship title; the title of a book or film is назва.",
+  "checked": 1,
+  "src": "verify-001.json"
  },
  {
   "en": "train",
@@ -638,6 +1687,17 @@
   "src": "verify-003.json"
  },
  {
+  "en": "trust",
+  "uk": "трест",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "трест = a business trust/conglomerate (dated, Soviet era); trust (confidence) is довіра.",
+  "checked": 1,
+  "src": "verify-001.json"
+ },
+ {
   "en": "unit",
   "uk": "юніт",
   "pos": "",
@@ -647,6 +1707,28 @@
   "note": "юніт = only a unit in computer games (slang); a unit of measure = одиниця, a military unit = підрозділ",
   "checked": 1,
   "src": "verify-003.json"
+ },
+ {
+  "en": "wagon",
+  "uk": "вагон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "вагон = railway car (passenger or freight); English wagon is mostly a cart (railway freight wagon only in British use).",
+  "checked": 1,
+  "src": "scan-004.json"
+ },
+ {
+  "en": "warrant",
+  "uk": "варант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "варант is only a financial/warehouse warrant (a security); an arrest or search warrant is ордер.",
+  "checked": 1,
+  "src": "verify-014.json"
  },
  {
   "en": "zero",
