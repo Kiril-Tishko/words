@@ -26,7 +26,13 @@ VOICE_US, VOICE_GB = 'af_heart', 'bf_emma'
 # respellings for words the pronunciation dictionary gets wrong
 OVERRIDES = {'déjà vu': 'deja vu', 'château': 'chateau', 'jalapeño': 'jalapeno', 'tête-à-tête': 'tet a tet',
              'prêt-à-porter': 'pret a porter', 'IT': 'I.T.', 'ID': 'I.D.', 'kHz': 'kilohertz', 'MHz': 'megahertz',
-             'GHz': 'gigahertz', 'CD': 'C. D.'}
+             'GHz': 'gigahertz', 'CD': 'C. D.',
+             # nouns the voice would read with verb stress or as another word (checked against "the <word>")
+             'defect': '[Defect](/dˈifɛkt/)', 'implant': '[Implant](/ˈɪmplˌænt/)',
+             'construct': '[Construct](/kˈɑnstɹˌʌkt/)', 'moped': '[Moped](/mˈOpˌɛd/)',
+             'redirect': '[Redirect](/ɹˈidəɹˌɛkt/)', 'respawn': '[Respawn](/ɹˈispɔn/)',
+             'aspirate': '[Aspirate](/ˈæspəɹət/)', 'canton': '[Canton](/kˈæntˌɑn/)',
+             'bass': '[Bass](/bˈAs/)', 'sol': '[Sol](/sˈOl/)'}
 # all-caps words that are said as words, not letter by letter
 WORDLIKE = {'COVID', 'BIOS', 'LAN', 'MILF', 'OLED', 'NATO', 'PIN', 'LOL', 'FAQ', 'OK', 'SaaS', 'DevOps', 'IMHO', 'WTF', 'OMG'}
 COMMON = set()
