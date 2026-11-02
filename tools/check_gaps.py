@@ -65,6 +65,20 @@ def main():
                             done.add((a.lower(), b.lower().replace('’', "'")))
         except Exception:
             pass
+    # pairs already queued in the automatic candidate batches are decided there
+    for f in glob.glob(f'{D}/candidates/verify-*.txt'):
+        cur = None
+        for line in open(f, encoding='utf-8'):
+            if line.startswith('## '):
+                cur = line[3:].split('   [')[0].strip().lower()
+            elif line.startswith('   - ') and cur:
+                done.add((cur, line[5:].split('   [')[0].strip().lower()))
+    for f in glob.glob(f'{D}/candidates/scan-*.txt'):
+        for line in open(f, encoding='utf-8'):
+            if ' :: ' in line:
+                u, ens = line.rstrip('\n').split(' :: ', 1)
+                for e in ens.split(', '):
+                    done.add((e.strip().lower(), u.strip().lower()))
     for f in glob.glob(f'{D}/candidates/gapverify-*.txt'):
         for line in open(f, encoding='utf-8'):
             if line.startswith('## '):

@@ -49,8 +49,9 @@ def load_checked():
             continue
         if name.startswith('cross-'):
             for r in data:
-                if isinstance(r, dict) and r.get('ce') and r.get('cu'):
-                    cross[(clean_en(r['ce']).lower(), clean_uk(r['cu']).lower())] = r
+                if isinstance(r, dict) and r.get('en') and r.get('uk'):
+                    # keyed by the pair as it was given to the second checker (= first check's ce/cu)
+                    cross[(clean_en(r['en']).lower(), clean_uk(r['uk']).lower())] = r
         else:
             for r in data:
                 if isinstance(r, dict):

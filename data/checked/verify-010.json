@@ -1,0 +1,1056 @@
+[
+ {
+  "en": "tag",
+  "uk": "тег",
+  "v": "identical",
+  "ce": "tag",
+  "cu": "тег",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "media"
+  ],
+  "note": "In Ukrainian mostly a digital tag (hashtag, HTML tag); a label on clothes/goods is бирка, ярлик."
+ },
+ {
+  "en": "victoria",
+  "uk": "вікторія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andy",
+  "uk": "енді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "avenue",
+  "uk": "авеню",
+  "v": "identical",
+  "ce": "avenue",
+  "cu": "авеню",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "blocks",
+  "uk": "блоки",
+  "v": "not_lemma",
+  "ce": "block",
+  "cu": "блок",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "plural form; a city block is квартал"
+ },
+ {
+  "en": "charlie",
+  "uk": "чарлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "copies",
+  "uk": "копій",
+  "v": "not_lemma",
+  "ce": "copy",
+  "cu": "копія",
+  "lv": "similar",
+  "note": "genitive plural; Ukrainian adds -ія"
+ },
+ {
+  "en": "copies",
+  "uk": "копії",
+  "v": "not_lemma",
+  "ce": "copy",
+  "cu": "копія",
+  "lv": "similar",
+  "note": "plural form; Ukrainian adds -ія"
+ },
+ {
+  "en": "electricity",
+  "uk": "електрику",
+  "v": "not_lemma",
+  "ce": "electricity",
+  "cu": "електрика",
+  "lv": "similar",
+  "note": "accusative form"
+ },
+ {
+  "en": "electricity",
+  "uk": "електрики",
+  "v": "not_lemma",
+  "ce": "electricity",
+  "cu": "електрика",
+  "lv": "similar",
+  "note": "genitive form"
+ },
+ {
+  "en": "electricity",
+  "uk": "електрика",
+  "v": "similar",
+  "ce": "electricity",
+  "cu": "електрика",
+  "note": "different suffix: -ity vs -ика"
+ },
+ {
+  "en": "iphone",
+  "uk": "айфон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iraq",
+  "uk": "ірак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liverpool",
+  "uk": "ліверпуль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pizza",
+  "uk": "піца",
+  "v": "identical",
+  "ce": "pizza",
+  "cu": "піца",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "port wine",
+  "uk": "портвейн",
+  "v": "similar",
+  "ce": "port wine",
+  "cu": "портвейн",
+  "note": "from German Portwein; 'wine' becomes -вейн"
+ },
+ {
+  "en": "romantic",
+  "uk": "романтик",
+  "v": "identical",
+  "ce": "romantic",
+  "cu": "романтик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Only the noun (a romantic person, a Romantic artist); the adjective is романтичний."
+ },
+ {
+  "en": "strategic",
+  "uk": "стратегічний",
+  "v": "similar",
+  "ce": "strategic",
+  "cu": "стратегічний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "strategic",
+  "uk": "стратегічна",
+  "v": "not_lemma",
+  "ce": "strategic",
+  "cu": "стратегічний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ний"
+ },
+ {
+  "en": "alternative medicine",
+  "uk": "альтернативна медицина",
+  "v": "similar",
+  "ce": "alternative medicine",
+  "cu": "альтернативна медицина",
+  "note": "adjective ending and -а in медицина"
+ },
+ {
+  "en": "android",
+  "uk": "андроїд",
+  "v": "identical",
+  "ce": "android",
+  "cu": "андроїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Also the Android operating system."
+ },
+ {
+  "en": "architecture",
+  "uk": "архітектура",
+  "v": "similar",
+  "ce": "architecture",
+  "cu": "архітектура",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "big mac",
+  "uk": "біґ мак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "big mac",
+  "uk": "біг мак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "comic",
+  "uk": "комік",
+  "v": "partial_false_friend",
+  "ce": "comic",
+  "cu": "комік",
+  "note": "комік = only a comedian; a comic book is комікс, the adjective is комічний"
+ },
+ {
+  "en": "comic",
+  "uk": "комікс",
+  "v": "similar",
+  "ce": "comic",
+  "cu": "комікс",
+  "note": "комікс = comic book; form comes from 'comics'"
+ },
+ {
+  "en": "dallas",
+  "uk": "даллас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "designer",
+  "uk": "дизайнер",
+  "v": "identical",
+  "ce": "designer",
+  "cu": "дизайнер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "economics",
+  "uk": "економіка",
+  "v": "similar",
+  "ce": "economics",
+  "cu": "економіка",
+  "note": "-ics vs -іка; економіка also means 'economy'"
+ },
+ {
+  "en": "establishment",
+  "uk": "істеблішмент",
+  "v": "identical",
+  "ce": "establishment",
+  "cu": "істеблішмент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "Ukrainian word means only 'the Establishment' (ruling elite); establishing = заснування, a business = заклад."
+ },
+ {
+  "en": "hockey",
+  "uk": "гокей",
+  "v": "not_lemma",
+  "ce": "hockey",
+  "cu": "хокей",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "obsolete 1928–1933 spelling; current spelling is хокей"
+ },
+ {
+  "en": "hockey",
+  "uk": "хокей",
+  "v": "identical",
+  "ce": "hockey",
+  "cu": "хокей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Usually ice hockey; field hockey is хокей на траві."
+ },
+ {
+  "en": "industries",
+  "uk": "індустрії",
+  "v": "not_lemma",
+  "ce": "industry",
+  "cu": "індустрія",
+  "lv": "similar",
+  "note": "plural form; Ukrainian adds -ія"
+ },
+ {
+  "en": "islam",
+  "uk": "іслам",
+  "v": "identical",
+  "ce": "Islam",
+  "cu": "іслам",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Lowercase in Ukrainian."
+ },
+ {
+  "en": "jane",
+  "uk": "джейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kit",
+  "uk": "кіт",
+  "v": "unrelated"
+ },
+ {
+  "en": "min",
+  "uk": "мін",
+  "v": "unrelated"
+ },
+ {
+  "en": "morgan",
+  "uk": "морган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moscow",
+  "uk": "москва",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odd",
+  "uk": "одд",
+  "v": "unrelated"
+ },
+ {
+  "en": "philadelphia",
+  "uk": "філадельфія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "racist",
+  "uk": "расист",
+  "v": "identical",
+  "ce": "racist",
+  "cu": "расист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "Noun only; the adjective is расистський."
+ },
+ {
+  "en": "sexy",
+  "uk": "сексі",
+  "v": "identical",
+  "ce": "sexy",
+  "cu": "сексі",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "people"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "vegas",
+  "uk": "вегас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vegas",
+  "uk": "вегасі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "virus",
+  "uk": "вірус",
+  "v": "identical",
+  "ce": "virus",
+  "cu": "вірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "tech"
+  ],
+  "note": "Also a computer virus, as in English."
+ },
+ {
+  "en": "walker",
+  "uk": "вокер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anthony",
+  "uk": "антоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anthony",
+  "uk": "ентоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arthur",
+  "uk": "артур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aspect",
+  "uk": "аспект",
+  "v": "identical",
+  "ce": "aspect",
+  "cu": "аспект",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bureau",
+  "uk": "бюро",
+  "v": "identical",
+  "ce": "bureau",
+  "cu": "бюро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Indeclinable in Ukrainian; also a writing desk."
+ },
+ {
+  "en": "comfort",
+  "uk": "комфорт",
+  "v": "identical",
+  "ce": "comfort",
+  "cu": "комфорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": "Physical comfort/ease; comfort as consolation is втіха, розрада."
+ },
+ {
+  "en": "cousin",
+  "uk": "кузен",
+  "v": "identical",
+  "ce": "cousin",
+  "cu": "кузен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "people"
+  ],
+  "note": "Male cousin only (female: кузина); the everyday word is двоюрідний брат."
+ },
+ {
+  "en": "crack",
+  "uk": "крек",
+  "v": "partial_false_friend",
+  "ce": "crack",
+  "cu": "крек",
+  "note": "крек = only crack cocaine (slang); a crack/split is тріщина"
+ },
+ {
+  "en": "dragon",
+  "uk": "дракон",
+  "v": "similar",
+  "ce": "dragon",
+  "cu": "дракон",
+  "note": "g becomes к"
+ },
+ {
+  "en": "institution",
+  "uk": "інституція",
+  "v": "similar",
+  "ce": "institution",
+  "cu": "інституція",
+  "note": "Ukrainian ending -ція (-ія)"
+ },
+ {
+  "en": "king kong",
+  "uk": "кінґ-конґ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "king kong",
+  "uk": "кінг-конг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "latin america",
+  "uk": "латинська америка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "memorial",
+  "uk": "меморіал",
+  "v": "identical",
+  "ce": "memorial",
+  "cu": "меморіал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "Also a memorial sports tournament."
+ },
+ {
+  "en": "memorial",
+  "uk": "меморіальний",
+  "v": "similar",
+  "ce": "memorial",
+  "cu": "меморіальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "mexican",
+  "uk": "мексиканка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "priority",
+  "uk": "пріоритет",
+  "v": "similar",
+  "ce": "priority",
+  "cu": "пріоритет",
+  "note": "-ity becomes -итет (via German Priorität)"
+ },
+ {
+  "en": "telephone",
+  "uk": "телефон",
+  "v": "identical",
+  "ce": "telephone",
+  "cu": "телефон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Also used for 'phone number'."
+ },
+ {
+  "en": "telephone",
+  "uk": "телефонний",
+  "v": "similar",
+  "ce": "telephone",
+  "cu": "телефонний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "telephone",
+  "uk": "телефоном",
+  "v": "not_lemma",
+  "ce": "telephone",
+  "cu": "телефон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "instrumental form"
+ },
+ {
+  "en": "trans",
+  "uk": "транс",
+  "v": "false_friend",
+  "ce": "trans",
+  "cu": "транс",
+  "note": "транс = trance; transgender is трансгендер"
+ },
+ {
+  "en": "actors",
+  "uk": "актори",
+  "v": "not_lemma",
+  "ce": "actor",
+  "cu": "актор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "alexander",
+  "uk": "александер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alexander",
+  "uk": "олександр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alliance",
+  "uk": "альянс",
+  "v": "identical",
+  "ce": "alliance",
+  "cu": "альянс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bro",
+  "uk": "бро",
+  "v": "identical",
+  "ce": "bro",
+  "cu": "бро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "columbia",
+  "uk": "колумбія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "contracts",
+  "uk": "контракти",
+  "v": "not_lemma",
+  "ce": "contract",
+  "cu": "контракт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "law"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "crystal",
+  "uk": "кристал",
+  "v": "identical",
+  "ce": "crystal",
+  "cu": "кристал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Crystal glassware is кришталь."
+ },
+ {
+  "en": "crystal",
+  "uk": "кришталь",
+  "v": "similar",
+  "ce": "crystal",
+  "cu": "кришталь",
+  "note": "кришталь = crystal glass, cut glass; с becomes ш"
+ },
+ {
+  "en": "dean",
+  "uk": "дін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dean",
+  "uk": "декан",
+  "v": "similar",
+  "ce": "dean",
+  "cu": "декан",
+  "note": "from Latin decanus; extra -к-"
+ },
+ {
+  "en": "elite",
+  "uk": "еліта",
+  "v": "similar",
+  "ce": "elite",
+  "cu": "еліта",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "hop",
+  "uk": "гоп",
+  "v": "similar",
+  "ce": "hop",
+  "cu": "гоп",
+  "note": "гоп is only an interjection ('hop!'); to hop = стрибати"
+ },
+ {
+  "en": "hop",
+  "uk": "хоп",
+  "v": "unrelated"
+ },
+ {
+  "en": "pennsylvania",
+  "uk": "пенсильванія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rugby",
+  "uk": "регбі",
+  "v": "identical",
+  "ce": "rugby",
+  "cu": "регбі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "sake",
+  "uk": "саке",
+  "v": "identical",
+  "ce": "sake",
+  "cu": "саке",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Japanese rice wine; 'for the sake of' (заради) is a different English word."
+ },
+ {
+  "en": "san francisco",
+  "uk": "сан-франциско",
+  "v": "proper_noun"
+ },
+ {
+  "en": "self-harm",
+  "uk": "селфхарм",
+  "v": "identical",
+  "ce": "self-harm",
+  "cu": "селфхарм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "informal",
+   "medicine"
+  ],
+  "note": "The standard Ukrainian word is самоушкодження."
+ },
+ {
+  "en": "syria",
+  "uk": "сирія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "syria",
+  "uk": "сирії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arab",
+  "uk": "араб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arab",
+  "uk": "арабка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cambridge",
+  "uk": "кембридж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cricket",
+  "uk": "крикет",
+  "v": "identical",
+  "ce": "cricket",
+  "cu": "крикет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Only the sport; the insect is цвіркун."
+ },
+ {
+  "en": "critics",
+  "uk": "критиків",
+  "v": "not_lemma",
+  "ce": "critic",
+  "cu": "критик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "art"
+  ],
+  "note": "genitive plural"
+ },
+ {
+  "en": "disney",
+  "uk": "дісней",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fitness",
+  "uk": "фітнес",
+  "v": "identical",
+  "ce": "fitness",
+  "cu": "фітнес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Only exercise/physical fitness; suitability is придатність."
+ },
+ {
+  "en": "francis",
+  "uk": "френсіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gary",
+  "uk": "гарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gary",
+  "uk": "гері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "idiot",
+  "uk": "ідіот",
+  "v": "identical",
+  "ce": "idiot",
+  "cu": "ідіот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "idiot",
+  "uk": "ідіотка",
+  "v": "not_lemma",
+  "ce": "idiot",
+  "cu": "ідіот",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "people"
+  ],
+  "note": "feminine form of ідіот"
+ },
+ {
+  "en": "medal",
+  "uk": "медаль",
+  "v": "identical",
+  "ce": "medal",
+  "cu": "медаль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "narrative",
+  "uk": "наратив",
+  "v": "identical",
+  "ce": "narrative",
+  "cu": "наратив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Noun only; the adjective is наративний/розповідний."
+ },
+ {
+  "en": "nba",
+  "uk": "нба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nervous system",
+  "uk": "нервова система",
+  "v": "similar",
+  "ce": "nervous system",
+  "cu": "нервова система",
+  "note": "adjective ending and -а in система"
+ },
+ {
+  "en": "pan",
+  "uk": "пан",
+  "v": "unrelated"
+ },
+ {
+  "en": "resource",
+  "uk": "ресурс",
+  "v": "identical",
+  "ce": "resource",
+  "cu": "ресурс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "resource",
+  "uk": "ресурси",
+  "v": "not_lemma",
+  "ce": "resource",
+  "cu": "ресурс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "roger",
+  "uk": "роджер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roger",
+  "uk": "роже",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ross",
+  "uk": "рос",
+  "v": "unrelated"
+ },
+ {
+  "en": "ross",
+  "uk": "росс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "seattle",
+  "uk": "сіетл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "seattle",
+  "uk": "сієтл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allen",
+  "uk": "аллен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arizona",
+  "uk": "аризона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "berlin",
+  "uk": "берлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clark",
+  "uk": "кларк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "experiment",
+  "uk": "експеримент",
+  "v": "identical",
+  "ce": "experiment",
+  "cu": "експеримент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "firms",
+  "uk": "фірм",
+  "v": "not_lemma",
+  "ce": "firm",
+  "cu": "фірма",
+  "lv": "similar",
+  "note": "genitive plural; Ukrainian adds -а"
+ }
+]

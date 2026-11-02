@@ -6,7 +6,7 @@ INTERVAL="${1:-240}"
 BRANCH="$(git rev-parse --abbrev-ref HEAD)"
 save() {
   flock /tmp/words-git.lock bash -c '
-    git add -A data tools index.html app.js style.css README.md 2>/dev/null
+    git add -A 2>/dev/null
     if ! git diff --cached --quiet; then
       n=$(git diff --cached --name-only | wc -l)
       git commit -q -m "Auto-save: $n changed data files

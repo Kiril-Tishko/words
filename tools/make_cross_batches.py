@@ -6,7 +6,10 @@ Borderline = first verdict 'similar' / 'partial_false_friend' / 'false_friend' w
 automatic matcher found a near-exact form (these are the likeliest wrong rejections).
 Pairs already cross-checked are skipped, so this can be re-run as new batches finish.
 """
-import glob, json, os, re
+import glob, json, os, re, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from build_site import list_level  # noqa: E402
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(REPO, 'data')
@@ -14,6 +17,8 @@ SIZE = 150
 
 
 def main():
+    starters = json.load(open(f'{D}/levels/pre-a1-starters.json', encoding='utf-8'))
+    cefr = json.load(open(f'{D}/levels/cefr.json', encoding='utf-8'))
     done = set()
     for f in glob.glob(f'{D}/checked/cross-*.json'):
         try:
@@ -54,7 +59,10 @@ def main():
                 continue
             queued.add(key)
             lab = ','.join(r.get('lab') or [])
-            rows.append(f"{ce} = {cu}   | first: {v}; pos {r.get('pos') or '-'}; british {bool(r.get('br'))}; labels {lab or '-'}"
+            ll = list_level(ce.lower(), r.get('pos') or '', starters, cefr) or '-'
+            anyl = cefr.get(ce.lower(), {})
+            lists = ', '.join(f'{p} {l}' for p, l in sorted(anyl.items())) or '-'
+            rows.append(f"{ce} = {cu}   | first: {v}; pos {r.get('pos') or '-'}; list level {ll} (lists: {lists}); british {bool(r.get('br'))}; labels {lab or '-'}"
                         + (f"; note: {r['note']}" if r.get('note') else ''))
     existing = sorted(glob.glob(f'{D}/candidates/cross-*.txt'))
     n = len(existing)

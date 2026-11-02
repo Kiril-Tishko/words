@@ -1,0 +1,1152 @@
+[
+ {
+  "en": "criminal",
+  "uk": "кримінальне",
+  "v": "not_lemma",
+  "ce": "criminal",
+  "cu": "кримінальний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "criminal",
+  "uk": "кримінальні",
+  "v": "not_lemma",
+  "ce": "criminal",
+  "cu": "кримінальний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "criminal",
+  "uk": "кримінальний",
+  "v": "similar",
+  "ce": "criminal",
+  "cu": "кримінальний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "driver",
+  "uk": "драйвер",
+  "v": "partial_false_friend",
+  "ce": "driver",
+  "cu": "драйвер",
+  "note": "драйвер = only a device/software driver; a car driver = водій"
+ },
+ {
+  "en": "farm",
+  "uk": "фарма",
+  "v": "unrelated"
+ },
+ {
+  "en": "file",
+  "uk": "файл",
+  "v": "identical",
+  "ce": "file",
+  "cu": "файл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "A computer file (also a plastic sleeve for papers); a paper file/folder is папка, the tool is напилок."
+ },
+ {
+  "en": "frank",
+  "uk": "франк",
+  "v": "false_friend",
+  "ce": "frank",
+  "cu": "франк",
+  "note": "frank = honest (відвертий); франк = franc (currency) or a Frank (tribe)."
+ },
+ {
+  "en": "frank",
+  "uk": "френк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guide",
+  "uk": "гід",
+  "v": "identical",
+  "ce": "guide",
+  "cu": "гід",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": "Only a person (tour guide); a guidebook is путівник."
+ },
+ {
+  "en": "mexico",
+  "uk": "мексика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mexico",
+  "uk": "мексики",
+  "v": "proper_noun"
+ },
+ {
+  "en": "operating",
+  "uk": "операційна",
+  "v": "not_lemma",
+  "ce": "operating",
+  "cu": "операційний",
+  "lv": "similar",
+  "note": "операційна as a noun = operating room."
+ },
+ {
+  "en": "operating",
+  "uk": "операційну",
+  "v": "not_lemma",
+  "ce": "operating",
+  "cu": "операційний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "roll",
+  "uk": "рол",
+  "v": "identical",
+  "ce": "roll",
+  "cu": "рол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Only a sushi roll (usually plural роли); a bread roll is булочка, 'to roll' is котити."
+ },
+ {
+  "en": "surprise",
+  "uk": "сюрприз",
+  "v": "identical",
+  "ce": "surprise",
+  "cu": "сюрприз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "emotions"
+  ],
+  "note": "A surprise (unexpected event or gift); the feeling of surprise is здивування."
+ },
+ {
+  "en": "fan club",
+  "uk": "фан-клуб",
+  "v": "identical",
+  "ce": "fan club",
+  "cu": "фан-клуб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fan club",
+  "uk": "фанклуб",
+  "v": "not_lemma",
+  "ce": "fan club",
+  "cu": "фан-клуб",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Less common spelling; usually фан-клуб."
+ },
+ {
+  "en": "henry",
+  "uk": "генрі",
+  "v": "identical",
+  "ce": "henry",
+  "cu": "генрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "note": "Unit of electrical inductance (symbol H)."
+ },
+ {
+  "en": "henry",
+  "uk": "генріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magazine",
+  "uk": "магазин",
+  "v": "false_friend",
+  "ce": "magazine",
+  "cu": "магазин",
+  "note": "магазин = shop; a magazine (publication) is журнал. Both can mean a gun magazine."
+ },
+ {
+  "en": "martin",
+  "uk": "мартин",
+  "v": "false_friend",
+  "ce": "martin",
+  "cu": "мартин",
+  "note": "martin = a swallow-like bird; мартин = gull."
+ },
+ {
+  "en": "martin",
+  "uk": "мартін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "models",
+  "uk": "моделі",
+  "v": "not_lemma",
+  "ce": "model",
+  "cu": "модель",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "new mexico",
+  "uk": "нью-мексико",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parliament",
+  "uk": "парламент",
+  "v": "identical",
+  "ce": "parliament",
+  "cu": "парламент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "religion",
+  "uk": "релігії",
+  "v": "not_lemma",
+  "ce": "religion",
+  "cu": "релігія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "religion",
+  "uk": "релігія",
+  "v": "similar",
+  "ce": "religion",
+  "cu": "релігія",
+  "note": "Ending -ія instead of -ion."
+ },
+ {
+  "en": "strategy",
+  "uk": "стратегії",
+  "v": "not_lemma",
+  "ce": "strategy",
+  "cu": "стратегія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "strategy",
+  "uk": "стратегія",
+  "v": "similar",
+  "ce": "strategy",
+  "cu": "стратегія",
+  "note": "Ending -ія instead of -y."
+ },
+ {
+  "en": "web",
+  "uk": "веб",
+  "v": "identical",
+  "ce": "web",
+  "cu": "веб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "The (World Wide) Web, web design (веб-дизайн); a spider's web is павутина."
+ },
+ {
+  "en": "wine",
+  "uk": "винний",
+  "v": "not_lemma",
+  "ce": "wine",
+  "cu": "вино",
+  "lv": "similar",
+  "note": "винний = of wine (adj.), but mostly means 'guilty'; wine is вино."
+ },
+ {
+  "en": "angeles",
+  "uk": "анджелес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blog",
+  "uk": "блог",
+  "v": "identical",
+  "ce": "blog",
+  "cu": "блог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "blog",
+  "uk": "блоґ",
+  "v": "not_lemma",
+  "ce": "blog",
+  "cu": "блог",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Variant spelling with ґ; standard is блог."
+ },
+ {
+  "en": "democratic",
+  "uk": "демократичний",
+  "v": "similar",
+  "ce": "democratic",
+  "cu": "демократичний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "democratic",
+  "uk": "демократичні",
+  "v": "not_lemma",
+  "ce": "democratic",
+  "cu": "демократичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "democratic",
+  "uk": "демократична",
+  "v": "not_lemma",
+  "ce": "democratic",
+  "cu": "демократичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "forms",
+  "uk": "форми",
+  "v": "not_lemma",
+  "ce": "form",
+  "cu": "форма",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "forms",
+  "uk": "форм",
+  "v": "not_lemma",
+  "ce": "form",
+  "cu": "форма",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "jones",
+  "uk": "джонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lee",
+  "uk": "лі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mass media",
+  "uk": "мас-медіа",
+  "v": "identical",
+  "ce": "mass media",
+  "cu": "мас-медіа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pop art",
+  "uk": "попарт",
+  "v": "not_lemma",
+  "ce": "pop art",
+  "cu": "поп-арт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Usually written поп-арт."
+ },
+ {
+  "en": "port",
+  "uk": "порт",
+  "v": "identical",
+  "ce": "port",
+  "cu": "порт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "A seaport, also a computer port; port wine is портвейн, the left side of a ship is лівий борт."
+ },
+ {
+  "en": "port",
+  "uk": "пор",
+  "v": "unrelated"
+ },
+ {
+  "en": "sport",
+  "uk": "спорт",
+  "v": "identical",
+  "ce": "sport",
+  "cu": "спорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stress",
+  "uk": "стрес",
+  "v": "identical",
+  "ce": "stress",
+  "cu": "стрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions"
+  ],
+  "note": "Psychological/physical stress; stress on a syllable is наголос."
+ },
+ {
+  "en": "assistant",
+  "uk": "асистент",
+  "v": "identical",
+  "ce": "assistant",
+  "cu": "асистент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Also a university teaching assistant; a shop assistant is продавець."
+ },
+ {
+  "en": "britain",
+  "uk": "британія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "classic",
+  "uk": "класика",
+  "v": "similar",
+  "ce": "classic",
+  "cu": "класика",
+  "note": "класика = the classics (noun); ending -а added. The adjective is класичний."
+ },
+ {
+  "en": "credit card",
+  "uk": "кредитка",
+  "v": "similar",
+  "ce": "credit card",
+  "cu": "кредитка",
+  "note": "Informal short form of кредитна картка."
+ },
+ {
+  "en": "death metal",
+  "uk": "дет-метал",
+  "v": "identical",
+  "ce": "death metal",
+  "cu": "дет-метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Also spelled дез-метал."
+ },
+ {
+  "en": "death metal",
+  "uk": "дез-метал",
+  "v": "not_lemma",
+  "ce": "death metal",
+  "cu": "дет-метал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Variant spelling; also дет-метал."
+ },
+ {
+  "en": "electric",
+  "uk": "електро-",
+  "v": "similar",
+  "ce": "electric",
+  "cu": "електро-",
+  "note": "Only a prefix (електромобіль = electric car); the adjective is електричний."
+ },
+ {
+  "en": "electric",
+  "uk": "електрика",
+  "v": "similar",
+  "ce": "electric",
+  "cu": "електрика",
+  "note": "електрика = electricity (noun); the adjective is електричний."
+ },
+ {
+  "en": "facts",
+  "uk": "факти",
+  "v": "not_lemma",
+  "ce": "fact",
+  "cu": "факт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "festival",
+  "uk": "фестиваль",
+  "v": "identical",
+  "ce": "festival",
+  "cu": "фестиваль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "harry",
+  "uk": "гаррі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "harry",
+  "uk": "гарі",
+  "v": "unrelated"
+ },
+ {
+  "en": "initial",
+  "uk": "ініціал",
+  "v": "identical",
+  "ce": "initial",
+  "cu": "ініціал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Usually plural ініціали (initials); the adjective 'initial' is початковий."
+ },
+ {
+  "en": "johnson",
+  "uk": "джонсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "links",
+  "uk": "лінки",
+  "v": "not_lemma",
+  "ce": "link",
+  "cu": "лінк",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "tech"
+  ],
+  "note": "Plural form; лінк is informal, the standard word is посилання."
+ },
+ {
+  "en": "mail",
+  "uk": "мейл",
+  "v": "partial_false_friend",
+  "ce": "mail",
+  "cu": "мейл",
+  "note": "мейл = email only; postal mail is пошта."
+ },
+ {
+  "en": "prince",
+  "uk": "принц",
+  "v": "identical",
+  "ce": "prince",
+  "cu": "принц",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "A king's son; a ruling prince (e.g. of Kyivan Rus') is князь."
+ },
+ {
+  "en": "regional",
+  "uk": "регіональний",
+  "v": "similar",
+  "ce": "regional",
+  "cu": "регіональний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "regional",
+  "uk": "регіональні",
+  "v": "not_lemma",
+  "ce": "regional",
+  "cu": "регіональний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "scott",
+  "uk": "скотт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "session",
+  "uk": "сесії",
+  "v": "not_lemma",
+  "ce": "session",
+  "cu": "сесія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "sex shop",
+  "uk": "секс-шоп",
+  "v": "identical",
+  "ce": "sex shop",
+  "cu": "секс-шоп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "transfer",
+  "uk": "трансфер",
+  "v": "identical",
+  "ce": "transfer",
+  "cu": "трансфер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "travel",
+   "sport"
+  ],
+  "note": "Noun only: airport transfer, a player's transfer; 'to transfer' is переводити/переказувати."
+ },
+ {
+  "en": "windows",
+  "uk": "віндовс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернатива",
+  "v": "similar",
+  "ce": "alternative",
+  "cu": "альтернатива",
+  "note": "Noun (an alternative); ending -а added. The adjective is альтернативний."
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернативне",
+  "v": "not_lemma",
+  "ce": "alternative",
+  "cu": "альтернативний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернативні",
+  "v": "not_lemma",
+  "ce": "alternative",
+  "cu": "альтернативний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернативна",
+  "v": "not_lemma",
+  "ce": "alternative",
+  "cu": "альтернативний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "alternative",
+  "uk": "альтернативний",
+  "v": "similar",
+  "ce": "alternative",
+  "cu": "альтернативний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "boat",
+  "uk": "бот",
+  "v": "partial_false_friend",
+  "ce": "boat",
+  "cu": "бот",
+  "note": "бот today mostly = bot (software); a boat is човен (бот as a ship type is dated)."
+ },
+ {
+  "en": "central africa",
+  "uk": "центральна африка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "climate",
+  "uk": "клімат",
+  "v": "identical",
+  "ce": "climate",
+  "cu": "клімат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also figurative (political climate)."
+ },
+ {
+  "en": "discussion",
+  "uk": "дискусії",
+  "v": "not_lemma",
+  "ce": "discussion",
+  "cu": "дискусія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "discussion",
+  "uk": "дискусія",
+  "v": "similar",
+  "ce": "discussion",
+  "cu": "дискусія",
+  "note": "Ending -ія instead of -ion."
+ },
+ {
+  "en": "fantastic",
+  "uk": "фантастичний",
+  "v": "similar",
+  "ce": "fantastic",
+  "cu": "фантастичний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "fantastic",
+  "uk": "фантастично",
+  "v": "not_lemma",
+  "ce": "fantastic",
+  "cu": "фантастичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "fantastic",
+  "uk": "фантастична",
+  "v": "not_lemma",
+  "ce": "fantastic",
+  "cu": "фантастичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "fantastic",
+  "uk": "фантастичні",
+  "v": "not_lemma",
+  "ce": "fantastic",
+  "cu": "фантастичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "fantastic",
+  "uk": "фантастика",
+  "v": "false_friend",
+  "ce": "fantastic",
+  "cu": "фантастика",
+  "note": "фантастика = science fiction/fantasy (genre); 'fantastic' is фантастичний or чудовий."
+ },
+ {
+  "en": "industrial",
+  "uk": "індустріальний",
+  "v": "similar",
+  "ce": "industrial",
+  "cu": "індустріальний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "joint",
+  "uk": "джойнт",
+  "v": "identical",
+  "ce": "joint",
+  "cu": "джойнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "other"
+  ],
+  "note": "Only a marijuana cigarette; a body joint is суглоб, 'joint' (shared) is спільний."
+ },
+ {
+  "en": "mix",
+  "uk": "мікс",
+  "v": "identical",
+  "ce": "mix",
+  "cu": "мікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "music"
+  ],
+  "note": "Noun only (a mix, e.g. a music mix); 'to mix' is змішувати."
+ },
+ {
+  "en": "radio station",
+  "uk": "радіостанція",
+  "v": "similar",
+  "ce": "radio station",
+  "cu": "радіостанція",
+  "note": "станція has ending -ія; written as one word."
+ },
+ {
+  "en": "steve",
+  "uk": "стів",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vice",
+  "uk": "віце",
+  "v": "false_friend",
+  "ce": "vice",
+  "cu": "віце",
+  "note": "vice = a bad habit (порок); віце- is only the prefix vice- (віце-президент)."
+ },
+ {
+  "en": "canadian",
+  "uk": "канадійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "canadian",
+  "uk": "канадка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "command",
+  "uk": "команда",
+  "v": "partial_false_friend",
+  "ce": "command",
+  "cu": "команда",
+  "note": "команда mostly = team; also a command/order. Ending -а added."
+ },
+ {
+  "en": "command",
+  "uk": "командний",
+  "v": "not_lemma",
+  "ce": "command",
+  "cu": "команда",
+  "lv": "partial_false_friend",
+  "note": ""
+ },
+ {
+  "en": "dick",
+  "uk": "дік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elements",
+  "uk": "елементи",
+  "v": "not_lemma",
+  "ce": "element",
+  "cu": "елемент",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "limit",
+  "uk": "ліміт",
+  "v": "identical",
+  "ce": "limit",
+  "cu": "ліміт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Also a quota; the mathematical limit is границя."
+ },
+ {
+  "en": "moon",
+  "uk": "мун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ocean",
+  "uk": "океан",
+  "v": "identical",
+  "ce": "ocean",
+  "cu": "океан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "proof",
+  "uk": "пруф",
+  "v": "identical",
+  "ce": "proof",
+  "cu": "пруф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "media"
+  ],
+  "note": "Internet slang for evidence (usually plural пруфи); the normal word is доказ."
+ },
+ {
+  "en": "banks",
+  "uk": "банки",
+  "v": "not_lemma",
+  "ce": "bank",
+  "cu": "банк",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "Plural form (банки is also the plural of банка = jar)."
+ },
+ {
+  "en": "ben",
+  "uk": "бен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ben",
+  "uk": "бене",
+  "v": "unrelated"
+ },
+ {
+  "en": "honor",
+  "uk": "гонор",
+  "v": "partial_false_friend",
+  "ce": "honor",
+  "cu": "гонор",
+  "note": "гонор usually = arrogance, excessive pride; honor is честь."
+ },
+ {
+  "en": "minimum",
+  "uk": "мінімум",
+  "v": "identical",
+  "ce": "minimum",
+  "cu": "мінімум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "operating system",
+  "uk": "операційна система",
+  "v": "similar",
+  "ce": "operating system",
+  "cu": "операційна система",
+  "note": "Both words have Ukrainian endings (-на, -а)."
+ },
+ {
+  "en": "originally",
+  "uk": "оригінально",
+  "v": "partial_false_friend",
+  "ce": "originally",
+  "cu": "оригінально",
+  "note": "оригінально = in an original/creative way; 'originally' (at first) is спочатку."
+ },
+ {
+  "en": "photo album",
+  "uk": "фотоальбом",
+  "v": "identical",
+  "ce": "photo album",
+  "cu": "фотоальбом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ray",
+  "uk": "рей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tech",
+  "uk": "тех",
+  "v": "similar",
+  "ce": "tech",
+  "cu": "тех",
+  "note": "Only a prefix тех- (техпідтримка = tech support); 'tech' itself is технології."
+ },
+ {
+  "en": "attacks",
+  "uk": "атаки",
+  "v": "not_lemma",
+  "ce": "attack",
+  "cu": "атака",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "communication",
+  "uk": "комунікації",
+  "v": "not_lemma",
+  "ce": "communication",
+  "cu": "комунікація",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "communication",
+  "uk": "комунікація",
+  "v": "similar",
+  "ce": "communication",
+  "cu": "комунікація",
+  "note": "Ending -ія instead of -ion."
+ },
+ {
+  "en": "email",
+  "uk": "мейл",
+  "v": "similar",
+  "ce": "email",
+  "cu": "мейл",
+  "note": "Colloquial short form (drops the і-); full form імейл."
+ },
+ {
+  "en": "email",
+  "uk": "імейл",
+  "v": "identical",
+  "ce": "email",
+  "cu": "імейл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Also written е-мейл; colloquially мейл; formal term електронна пошта."
+ },
+ {
+  "en": "express",
+  "uk": "експрес",
+  "v": "identical",
+  "ce": "express",
+  "cu": "експрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "An express train/bus, also експрес-доставка (express delivery); 'to express' is висловлювати."
+ },
+ {
+  "en": "hero",
+  "uk": "герой",
+  "v": "similar",
+  "ce": "hero",
+  "cu": "герой",
+  "note": "Extra -й at the end."
+ },
+ {
+  "en": "methods",
+  "uk": "методи",
+  "v": "not_lemma",
+  "ce": "method",
+  "cu": "метод",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Plural form."
+ }
+]

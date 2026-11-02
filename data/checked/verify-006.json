@@ -1,0 +1,1155 @@
+[
+ {
+  "en": "planet",
+  "uk": "планета",
+  "v": "similar",
+  "ce": "planet",
+  "cu": "планета",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "scotland",
+  "uk": "шотландії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shopping",
+  "uk": "шопінг",
+  "v": "identical",
+  "ce": "shopping",
+  "cu": "шопінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "business"
+  ],
+  "note": "Shopping as a leisure activity; buying things in general is покупки"
+ },
+ {
+  "en": "stuck",
+  "uk": "штук",
+  "v": "unrelated"
+ },
+ {
+  "en": "sugar",
+  "uk": "сахар",
+  "v": "similar",
+  "ce": "sugar",
+  "cu": "сахар",
+  "note": "Colloquial Russianism; standard Ukrainian is цукор"
+ },
+ {
+  "en": "transport",
+  "uk": "транспорт",
+  "v": "identical",
+  "ce": "transport",
+  "cu": "транспорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "Noun only; 'to transport' = перевозити"
+ },
+ {
+  "en": "boston",
+  "uk": "бостон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "drama",
+  "uk": "драма",
+  "v": "identical",
+  "ce": "drama",
+  "cu": "драма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "drama",
+  "uk": "драми",
+  "v": "not_lemma",
+  "ce": "drama",
+  "cu": "драма",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ]
+ },
+ {
+  "en": "era",
+  "uk": "ера",
+  "v": "identical",
+  "ce": "era",
+  "cu": "ера",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "note": ""
+ },
+ {
+  "en": "factor",
+  "uk": "фактор",
+  "v": "identical",
+  "ce": "factor",
+  "cu": "фактор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "In maths a factor (of multiplication) is usually множник"
+ },
+ {
+  "en": "factor",
+  "uk": "фактори",
+  "v": "not_lemma",
+  "ce": "factor",
+  "cu": "фактор",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ]
+ },
+ {
+  "en": "golden",
+  "uk": "голден",
+  "v": "unrelated"
+ },
+ {
+  "en": "grant",
+  "uk": "грант",
+  "v": "identical",
+  "ce": "grant",
+  "cu": "грант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "Noun only (a grant of money); 'to grant' = надавати"
+ },
+ {
+  "en": "organizations",
+  "uk": "організації",
+  "v": "not_lemma",
+  "ce": "organization",
+  "cu": "організація",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "organizations",
+  "uk": "організацій",
+  "v": "not_lemma",
+  "ce": "organization",
+  "cu": "організація",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "platform",
+  "uk": "платформа",
+  "v": "similar",
+  "ce": "platform",
+  "cu": "платформа",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "platform",
+  "uk": "платформу",
+  "v": "not_lemma",
+  "ce": "platform",
+  "cu": "платформа",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "platform",
+  "uk": "платформи",
+  "v": "not_lemma",
+  "ce": "platform",
+  "cu": "платформа",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "pool",
+  "uk": "пул",
+  "v": "partial_false_friend",
+  "ce": "pool",
+  "cu": "пул",
+  "note": "пул = a shared pool (of resources, people) or the game pool; a swimming pool = басейн"
+ },
+ {
+  "en": "television program",
+  "uk": "телевізійна програма",
+  "v": "similar",
+  "ce": "television program",
+  "cu": "телевізійна програма",
+  "note": "Ukrainian adjective + noun with endings; also телепрограма"
+ },
+ {
+  "en": "tests",
+  "uk": "тести",
+  "v": "not_lemma",
+  "ce": "test",
+  "cu": "тест",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ]
+ },
+ {
+  "en": "williams",
+  "uk": "вільямс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ya",
+  "uk": "я",
+  "v": "unrelated"
+ },
+ {
+  "en": "candidate",
+  "uk": "кандидат",
+  "v": "identical",
+  "ce": "candidate",
+  "cu": "кандидат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Also a degree: кандидат наук ≈ PhD"
+ },
+ {
+  "en": "candidate",
+  "uk": "кандидатка",
+  "v": "not_lemma",
+  "ce": "candidate",
+  "cu": "кандидат",
+  "lv": "identical",
+  "note": "кандидатка = female candidate",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "comfortable",
+  "uk": "комфортабельний",
+  "v": "similar",
+  "ce": "comfortable",
+  "cu": "комфортабельний",
+  "note": "Ukrainian adjective (-абельний); used for places and vehicles, not feelings (зручно)"
+ },
+ {
+  "en": "concern",
+  "uk": "концерн",
+  "v": "partial_false_friend",
+  "ce": "concern",
+  "cu": "концерн",
+  "note": "концерн = a large business group only; concern (worry) = занепокоєння"
+ },
+ {
+  "en": "fox",
+  "uk": "фокс",
+  "v": "unrelated"
+ },
+ {
+  "en": "interests",
+  "uk": "інтереси",
+  "v": "not_lemma",
+  "ce": "interest",
+  "cu": "інтерес",
+  "lv": "similar",
+  "note": "Lemma інтерес has no final -t; financial interest = відсотки"
+ },
+ {
+  "en": "ireland",
+  "uk": "ірландії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ireland",
+  "uk": "ірландія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italian",
+  "uk": "італійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italian",
+  "uk": "італійська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italy",
+  "uk": "італії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italy",
+  "uk": "італія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italy",
+  "uk": "італію",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jersey",
+  "uk": "джерсі",
+  "v": "identical",
+  "ce": "jersey",
+  "cu": "джерсі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing",
+   "sport"
+  ],
+  "note": "In Ukrainian mainly the knit fabric or a sports team shirt; a sweater = светр"
+ },
+ {
+  "en": "liberal",
+  "uk": "ліберал",
+  "v": "identical",
+  "ce": "liberal",
+  "cu": "ліберал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Noun (a liberal person); the adjective is ліберальний"
+ },
+ {
+  "en": "liberal",
+  "uk": "ліберальна",
+  "v": "not_lemma",
+  "ce": "liberal",
+  "cu": "ліберальний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "liberal",
+  "uk": "ліберальний",
+  "v": "similar",
+  "ce": "liberal",
+  "cu": "ліберальний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "lunch",
+  "uk": "ланч",
+  "v": "identical",
+  "ce": "lunch",
+  "cu": "ланч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "food"
+  ],
+  "note": "The usual Ukrainian word is обід"
+ },
+ {
+  "en": "max",
+  "uk": "макс",
+  "v": "identical",
+  "ce": "max",
+  "cu": "макс",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "informal",
+   "abbreviation",
+   "math"
+  ],
+  "note": "Short for максимум/максимальний (written макс.)"
+ },
+ {
+  "en": "pack",
+  "uk": "пака",
+  "v": "similar",
+  "ce": "pack",
+  "cu": "пака",
+  "note": "Ukrainian adds -а; пака = bale (rare); a pack = пачка, рюкзак"
+ },
+ {
+  "en": "sector",
+  "uk": "сектор",
+  "v": "identical",
+  "ce": "sector",
+  "cu": "сектор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "storm",
+  "uk": "шторм",
+  "v": "similar",
+  "ce": "storm",
+  "cu": "шторм",
+  "note": "Pronounced with ш; mainly a storm at sea (a thunderstorm = гроза, буря)"
+ },
+ {
+  "en": "storm",
+  "uk": "штурм",
+  "v": "false_friend",
+  "ce": "storm",
+  "cu": "штурм",
+  "note": "штурм = military assault (storming); a weather storm = шторм, буря"
+ },
+ {
+  "en": "strike",
+  "uk": "страйк",
+  "v": "identical",
+  "ce": "strike",
+  "cu": "страйк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "politics"
+  ],
+  "note": "Only a work stoppage (and a strike in bowling); a hit/attack = удар"
+ },
+ {
+  "en": "studio",
+  "uk": "студію",
+  "v": "not_lemma",
+  "ce": "studio",
+  "cu": "студія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "studio",
+  "uk": "студія",
+  "v": "similar",
+  "ce": "studio",
+  "cu": "студія",
+  "note": "Ending -ія instead of -io"
+ },
+ {
+  "en": "studio",
+  "uk": "студії",
+  "v": "not_lemma",
+  "ce": "studio",
+  "cu": "студія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "youtube",
+  "uk": "ютуб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "actor",
+  "uk": "актор",
+  "v": "identical",
+  "ce": "actor",
+  "cu": "актор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "actor",
+  "uk": "акторка",
+  "v": "not_lemma",
+  "ce": "actor",
+  "cu": "актор",
+  "lv": "identical",
+  "note": "акторка = female actor (actress)",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ]
+ },
+ {
+  "en": "apartment",
+  "uk": "апартамент",
+  "v": "partial_false_friend",
+  "ce": "apartment",
+  "cu": "апартамент",
+  "note": "апартаменти (usually plural) = a luxury suite or grand rooms; an ordinary apartment = квартира"
+ },
+ {
+  "en": "asia",
+  "uk": "азія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "big ben",
+  "uk": "біг-бен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cook",
+  "uk": "кук",
+  "v": "unrelated"
+ },
+ {
+  "en": "fake",
+  "uk": "фейк",
+  "v": "identical",
+  "ce": "fake",
+  "cu": "фейк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "note": "Mostly fake news or content; the adjective is фейковий or підроблений"
+ },
+ {
+  "en": "finance",
+  "uk": "фінанси",
+  "v": "similar",
+  "ce": "finance",
+  "cu": "фінанси",
+  "note": "Ukrainian is plural-only (like 'finances')"
+ },
+ {
+  "en": "korea",
+  "uk": "кореї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "korea",
+  "uk": "корея",
+  "v": "proper_noun"
+ },
+ {
+  "en": "posts",
+  "uk": "пости",
+  "v": "not_lemma",
+  "ce": "post",
+  "cu": "пост",
+  "lv": "identical",
+  "note": "Only an online post or a guard post; mail = пошта, a pole = стовп, a job = посада",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ]
+ },
+ {
+  "en": "taylor",
+  "uk": "тейлор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "urban",
+  "uk": "урбан",
+  "v": "unrelated"
+ },
+ {
+  "en": "argument",
+  "uk": "аргумент",
+  "v": "identical",
+  "ce": "argument",
+  "cu": "аргумент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "Only a reason that supports a point; a quarrel = сварка"
+ },
+ {
+  "en": "argument",
+  "uk": "аргументом",
+  "v": "not_lemma",
+  "ce": "argument",
+  "cu": "аргумент",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ]
+ },
+ {
+  "en": "conflict",
+  "uk": "конфлікт",
+  "v": "identical",
+  "ce": "conflict",
+  "cu": "конфлікт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "debate",
+  "uk": "дебати",
+  "v": "similar",
+  "ce": "debate",
+  "cu": "дебати",
+  "note": "Ukrainian is plural-only (like 'debates')"
+ },
+ {
+  "en": "distribution",
+  "uk": "дистрибуція",
+  "v": "similar",
+  "ce": "distribution",
+  "cu": "дистрибуція",
+  "note": "Ukrainian adds -ія; mainly distribution of goods; usual word розподіл"
+ },
+ {
+  "en": "documents",
+  "uk": "документи",
+  "v": "not_lemma",
+  "ce": "document",
+  "cu": "документ",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ]
+ },
+ {
+  "en": "factors",
+  "uk": "фактори",
+  "v": "not_lemma",
+  "ce": "factor",
+  "cu": "фактор",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ]
+ },
+ {
+  "en": "factors",
+  "uk": "факторів",
+  "v": "not_lemma",
+  "ce": "factor",
+  "cu": "фактор",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ]
+ },
+ {
+  "en": "films",
+  "uk": "фільми",
+  "v": "not_lemma",
+  "ce": "film",
+  "cu": "фільм",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ]
+ },
+ {
+  "en": "millions",
+  "uk": "мільйони",
+  "v": "not_lemma",
+  "ce": "million",
+  "cu": "мільйон",
+  "lv": "identical",
+  "note": "",
+  "pos": "num",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ]
+ },
+ {
+  "en": "phase",
+  "uk": "фази",
+  "v": "not_lemma",
+  "ce": "phase",
+  "cu": "фаза",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "sam",
+  "uk": "сем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "talent",
+  "uk": "талант",
+  "v": "identical",
+  "ce": "talent",
+  "cu": "талант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "temperature",
+  "uk": "температура",
+  "v": "similar",
+  "ce": "temperature",
+  "cu": "температура",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "tony",
+  "uk": "тоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "truck",
+  "uk": "трок",
+  "v": "unrelated"
+ },
+ {
+  "en": "vice president",
+  "uk": "віце-президент",
+  "v": "identical",
+  "ce": "vice president",
+  "cu": "віце-президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ah",
+  "uk": "ах",
+  "v": "identical",
+  "ce": "ah",
+  "cu": "ах",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bob",
+  "uk": "боб",
+  "v": "partial_false_friend",
+  "ce": "bob",
+  "cu": "боб",
+  "note": "боб = bean (also bobsleigh, a bob haircut); 'to bob' = гойдатися"
+ },
+ {
+  "en": "context",
+  "uk": "контекст",
+  "v": "identical",
+  "ce": "context",
+  "cu": "контекст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "context",
+  "uk": "контексту",
+  "v": "not_lemma",
+  "ce": "context",
+  "cu": "контекст",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ]
+ },
+ {
+  "en": "display",
+  "uk": "дисплей",
+  "v": "identical",
+  "ce": "display",
+  "cu": "дисплей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Only an electronic screen; a show or exhibition = показ, виставка"
+ },
+ {
+  "en": "friend zone",
+  "uk": "френдзона",
+  "v": "identical",
+  "ce": "friend zone",
+  "cu": "френдзона",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "novel",
+  "uk": "новела",
+  "v": "false_friend",
+  "ce": "novel",
+  "cu": "новела",
+  "note": "новела = a short story or novella; a novel = роман"
+ },
+ {
+  "en": "platform game",
+  "uk": "платформер",
+  "v": "identical",
+  "ce": "platformer",
+  "cu": "платформер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games",
+   "tech"
+  ],
+  "note": "English also says 'platform game'"
+ },
+ {
+  "en": "stadium",
+  "uk": "стедіум",
+  "v": "unrelated"
+ },
+ {
+  "en": "trading",
+  "uk": "трейдинг",
+  "v": "identical",
+  "ce": "trading",
+  "cu": "трейдинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance",
+   "business"
+  ],
+  "note": "Trading on markets or exchanges; trade in general = торгівля"
+ },
+ {
+  "en": "zero",
+  "uk": "зеро",
+  "v": "partial_false_friend",
+  "ce": "zero",
+  "cu": "зеро",
+  "note": "зеро = only the zero on a roulette wheel; the number zero = нуль"
+ },
+ {
+  "en": "alex",
+  "uk": "алекс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alex",
+  "uk": "алексе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "capital investment",
+  "uk": "капітальні інвестиції",
+  "v": "similar",
+  "ce": "capital investment",
+  "cu": "капітальні інвестиції",
+  "note": "Ukrainian adjective + plural noun with endings"
+ },
+ {
+  "en": "champion",
+  "uk": "чемпіон",
+  "v": "identical",
+  "ce": "champion",
+  "cu": "чемпіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cream",
+  "uk": "крем",
+  "v": "identical",
+  "ce": "cream",
+  "cu": "крем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": "Cosmetic cream or pastry cream; dairy cream = вершки"
+ },
+ {
+  "en": "daniel",
+  "uk": "даніел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "daniel",
+  "uk": "даніель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "daniel",
+  "uk": "деніел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "daniel",
+  "uk": "данило",
+  "v": "proper_noun"
+ },
+ {
+  "en": "giant",
+  "uk": "гігант",
+  "v": "similar",
+  "ce": "giant",
+  "cu": "гігант",
+  "note": "Extra г (from Greek gigas); also велетень"
+ },
+ {
+  "en": "iran",
+  "uk": "іран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iran",
+  "uk": "ірану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jim",
+  "uk": "джим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "literature",
+  "uk": "література",
+  "v": "similar",
+  "ce": "literature",
+  "cu": "література",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "mayor",
+  "uk": "майор",
+  "v": "false_friend",
+  "ce": "mayor",
+  "cu": "майор",
+  "note": "майор = major (army rank); a mayor = мер"
+ },
+ {
+  "en": "mayor",
+  "uk": "мер",
+  "v": "identical",
+  "ce": "mayor",
+  "cu": "мер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "minor",
+  "uk": "мінор",
+  "v": "partial_false_friend",
+  "ce": "minor",
+  "cu": "мінор",
+  "note": "мінор = minor key in music (or a gloomy mood); minor (small, unimportant) = незначний"
+ },
+ {
+  "en": "moments",
+  "uk": "моменти",
+  "v": "not_lemma",
+  "ce": "moment",
+  "cu": "момент",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ]
+ },
+ {
+  "en": "moments",
+  "uk": "моментів",
+  "v": "not_lemma",
+  "ce": "moment",
+  "cu": "момент",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ]
+ },
+ {
+  "en": "signal",
+  "uk": "сигнал",
+  "v": "identical",
+  "ce": "signal",
+  "cu": "сигнал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "suicide",
+  "uk": "суїцид",
+  "v": "identical",
+  "ce": "suicide",
+  "cu": "суїцид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Formal or clinical; the everyday word is самогубство"
+ },
+ {
+  "en": "theme",
+  "uk": "теми",
+  "v": "not_lemma",
+  "ce": "theme",
+  "cu": "тема",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "un",
+  "uk": "ООН",
+  "v": "proper_noun"
+ },
+ {
+  "en": "un",
+  "uk": "оон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "virginia",
+  "uk": "вірджинія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alcohol",
+  "uk": "алкоголь",
+  "v": "identical",
+  "ce": "alcohol",
+  "cu": "алкоголь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alcohol",
+  "uk": "алкоголю",
+  "v": "not_lemma",
+  "ce": "alcohol",
+  "cu": "алкоголь",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ]
+ }
+]

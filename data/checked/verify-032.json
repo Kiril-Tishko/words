@@ -1,0 +1,981 @@
+[
+ {
+  "en": "theorem",
+  "uk": "теорема",
+  "v": "similar",
+  "ce": "theorem",
+  "cu": "теорема",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "theresa",
+  "uk": "тереза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tract",
+  "uk": "тракт",
+  "v": "identical",
+  "ce": "tract",
+  "cu": "тракт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": "Mainly the body sense (травний тракт = digestive tract); a tract of land is ділянка, and Ukrainian тракт can also mean an old highway."
+ },
+ {
+  "en": "tribune",
+  "uk": "трибун",
+  "v": "identical",
+  "ce": "tribune",
+  "cu": "трибун",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "A Roman official or a people's champion (народний трибун); трибуна is a platform or stand."
+ },
+ {
+  "en": "tribune",
+  "uk": "трибуна",
+  "v": "similar",
+  "ce": "tribune",
+  "cu": "трибуна",
+  "note": "Ending -а added; трибуна = rostrum, platform, stadium stand."
+ },
+ {
+  "en": "val",
+  "uk": "вал",
+  "v": "unrelated"
+ },
+ {
+  "en": "val",
+  "uk": "валь",
+  "v": "unrelated"
+ },
+ {
+  "en": "vera",
+  "uk": "вера",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vera",
+  "uk": "віра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vera",
+  "uk": "вєра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wagner",
+  "uk": "вагнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wagner",
+  "uk": "ваґнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alphabet",
+  "uk": "альфабет",
+  "v": "identical",
+  "ce": "alphabet",
+  "cu": "альфабет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "language"
+  ],
+  "note": "Rare word; the usual Ukrainian words are алфавіт and абетка."
+ },
+ {
+  "en": "auckland",
+  "uk": "окленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benedict",
+  "uk": "бенедикт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bieber",
+  "uk": "бібер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bikini",
+  "uk": "бікіні",
+  "v": "identical",
+  "ce": "bikini",
+  "cu": "бікіні",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bisexual",
+  "uk": "бісексуал",
+  "v": "identical",
+  "ce": "bisexual",
+  "cu": "бісексуал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Ukrainian бісексуал is a noun (a bisexual person); the adjective is бісексуальний."
+ },
+ {
+  "en": "bisexual",
+  "uk": "бісексуалка",
+  "v": "not_lemma",
+  "ce": "bisexual",
+  "cu": "бісексуал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "бісексуалка = a bisexual woman."
+ },
+ {
+  "en": "bisexual",
+  "uk": "бісексуальний",
+  "v": "similar",
+  "ce": "bisexual",
+  "cu": "бісексуальний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "bracelet",
+  "uk": "браслет",
+  "v": "identical",
+  "ce": "bracelet",
+  "cu": "браслет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "capsule",
+  "uk": "капсули",
+  "v": "not_lemma",
+  "ce": "capsule",
+  "cu": "капсула",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "capsule",
+  "uk": "капсула",
+  "v": "similar",
+  "ce": "capsule",
+  "cu": "капсула",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "carr",
+  "uk": "карр",
+  "v": "unrelated"
+ },
+ {
+  "en": "cha",
+  "uk": "ча",
+  "v": "unrelated"
+ },
+ {
+  "en": "christie",
+  "uk": "крісті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chronicle",
+  "uk": "хроніка",
+  "v": "similar",
+  "ce": "chronicle",
+  "cu": "хроніка",
+  "note": "Ending -а added; хроніка also means newsreel or a news section."
+ },
+ {
+  "en": "cinnamon",
+  "uk": "цинамон",
+  "v": "identical",
+  "ce": "cinnamon",
+  "cu": "цинамон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "Rare/old word; the usual Ukrainian word is кориця."
+ },
+ {
+  "en": "contamination",
+  "uk": "контамінація",
+  "v": "similar",
+  "ce": "contamination",
+  "cu": "контамінація",
+  "note": "Ending -ія; in Ukrainian mostly a technical or linguistics term (pollution = забруднення)."
+ },
+ {
+  "en": "corey",
+  "uk": "корі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cutter",
+  "uk": "катер",
+  "v": "identical",
+  "ce": "cutter",
+  "cu": "катер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": "Only the boat; Ukrainian катер is any small motor boat (also motorboat, launch). A cutting tool is різак."
+ },
+ {
+  "en": "delegate",
+  "uk": "делегат",
+  "v": "identical",
+  "ce": "delegate",
+  "cu": "делегат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Only the noun; to delegate = делегувати."
+ },
+ {
+  "en": "delegate",
+  "uk": "делегатка",
+  "v": "not_lemma",
+  "ce": "delegate",
+  "cu": "делегат",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "делегатка = female delegate."
+ },
+ {
+  "en": "diplomatic immunity",
+  "uk": "дипломатичний імунітет",
+  "v": "similar",
+  "ce": "diplomatic immunity",
+  "cu": "дипломатичний імунітет",
+  "note": "Adjective дипломатичний has the ending -ний."
+ },
+ {
+  "en": "dissertation",
+  "uk": "дисертація",
+  "v": "similar",
+  "ce": "dissertation",
+  "cu": "дисертація",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "ethan",
+  "uk": "ітан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "everton",
+  "uk": "евертон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flora",
+  "uk": "флора",
+  "v": "identical",
+  "ce": "flora",
+  "cu": "флора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "frances",
+  "uk": "френсіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "functionality",
+  "uk": "функціональність",
+  "v": "similar",
+  "ce": "functionality",
+  "cu": "функціональність",
+  "note": "Different suffix -ність."
+ },
+ {
+  "en": "gamma",
+  "uk": "гама",
+  "v": "false_friend",
+  "ce": "gamma",
+  "cu": "гама",
+  "note": "гама = musical scale or range (of colours); the Greek letter is гамма."
+ },
+ {
+  "en": "gamma",
+  "uk": "гами",
+  "v": "not_lemma",
+  "ce": "gamma",
+  "cu": "гама",
+  "lv": "false_friend",
+  "note": "Form of гама (musical scale)."
+ },
+ {
+  "en": "gamma",
+  "uk": "гамма",
+  "v": "identical",
+  "ce": "gamma",
+  "cu": "гамма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter; also гамма-промені = gamma rays."
+ },
+ {
+  "en": "genome",
+  "uk": "геном",
+  "v": "identical",
+  "ce": "genome",
+  "cu": "геном",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hastings",
+  "uk": "гастінгс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hyde",
+  "uk": "гайд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jumper",
+  "uk": "джемпер",
+  "v": "identical",
+  "ce": "jumper",
+  "cu": "джемпер",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "clothing"
+  ],
+  "note": "Only the sweater; in American English a jumper is a pinafore dress (sweater is used instead)."
+ },
+ {
+  "en": "metro manila",
+  "uk": "метро маніла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moody",
+  "uk": "муді",
+  "v": "unrelated"
+ },
+ {
+  "en": "nam",
+  "uk": "нам",
+  "v": "unrelated"
+ },
+ {
+  "en": "panama canal",
+  "uk": "панамський канал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pentagon",
+  "uk": "пентагон",
+  "v": "identical",
+  "ce": "pentagon",
+  "cu": "пентагон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "math"
+  ],
+  "note": "Ukrainians usually say п'ятикутник; Пентагон is mostly the US defense headquarters."
+ },
+ {
+  "en": "peters",
+  "uk": "петерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petersburg",
+  "uk": "петербург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pokémon",
+  "uk": "покемон",
+  "v": "identical",
+  "ce": "Pokémon",
+  "cu": "покемон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games",
+   "media"
+  ],
+  "note": "Creature from the Japanese franchise; usually capitalized in English."
+ },
+ {
+  "en": "porsche",
+  "uk": "порше",
+  "v": "proper_noun"
+ },
+ {
+  "en": "prairie",
+  "uk": "прері",
+  "v": "not_lemma",
+  "ce": "prairie",
+  "cu": "прерія",
+  "lv": "similar",
+  "note": "Standard Ukrainian form is прерія (often plural прерії)."
+ },
+ {
+  "en": "prank",
+  "uk": "пранк",
+  "v": "identical",
+  "ce": "prank",
+  "cu": "пранк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "media"
+  ],
+  "note": "Mostly a staged or video/phone prank; a practical joke in general is розіграш."
+ },
+ {
+  "en": "psychiatrist",
+  "uk": "психіатра",
+  "v": "not_lemma",
+  "ce": "psychiatrist",
+  "cu": "психіатр",
+  "lv": "similar",
+  "note": "Genitive of психіатр; Ukrainian lacks the -ist ending."
+ },
+ {
+  "en": "puerto rico",
+  "uk": "пуерто-рико",
+  "v": "proper_noun"
+ },
+ {
+  "en": "quartz",
+  "uk": "кварц",
+  "v": "identical",
+  "ce": "quartz",
+  "cu": "кварц",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ronnie",
+  "uk": "ронні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rooney",
+  "uk": "руні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rot",
+  "uk": "рот",
+  "v": "unrelated"
+ },
+ {
+  "en": "salem",
+  "uk": "салем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "san salvador",
+  "uk": "сан-сальвадор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "santos",
+  "uk": "сантос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sidney",
+  "uk": "сідні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sophia",
+  "uk": "софія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stella",
+  "uk": "стела",
+  "v": "unrelated"
+ },
+ {
+  "en": "stella",
+  "uk": "стелла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stimulation",
+  "uk": "стимуляції",
+  "v": "not_lemma",
+  "ce": "stimulation",
+  "cu": "стимуляція",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "sur",
+  "uk": "сюр",
+  "v": "unrelated"
+ },
+ {
+  "en": "uruguay",
+  "uk": "уругвай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "variants",
+  "uk": "варіанти",
+  "v": "not_lemma",
+  "ce": "variant",
+  "cu": "варіант",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Ukrainian варіант is also used for \"option\" (є два варіанти = there are two options)."
+ },
+ {
+  "en": "verification",
+  "uk": "верифікація",
+  "v": "similar",
+  "ce": "verification",
+  "cu": "верифікація",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "wesley",
+  "uk": "веслі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yuan",
+  "uk": "юань",
+  "v": "identical",
+  "ce": "yuan",
+  "cu": "юань",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "zen",
+  "uk": "дзен",
+  "v": "similar",
+  "ce": "Zen",
+  "cu": "дзен",
+  "note": "Written with дз (from Japanese), not з."
+ },
+ {
+  "en": "avatar",
+  "uk": "аватар",
+  "v": "identical",
+  "ce": "avatar",
+  "cu": "аватар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "avatar",
+  "uk": "аватара",
+  "v": "similar",
+  "ce": "avatar",
+  "cu": "аватара",
+  "note": "Ending -а added; аватара is the Hindu term (incarnation of a deity)."
+ },
+ {
+  "en": "bali",
+  "uk": "балі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brendan",
+  "uk": "брендан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brent",
+  "uk": "брент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bumper",
+  "uk": "бампер",
+  "v": "identical",
+  "ce": "bumper",
+  "cu": "бампер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": "The car bumper."
+ },
+ {
+  "en": "carlo",
+  "uk": "карло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "contingent",
+  "uk": "контингент",
+  "v": "identical",
+  "ce": "contingent",
+  "cu": "контингент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "Only the noun (a group, e.g. of troops); contingent on = залежний від."
+ },
+ {
+  "en": "cornell",
+  "uk": "корнелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "daniels",
+  "uk": "деніелс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diplomat",
+  "uk": "дипломат",
+  "v": "identical",
+  "ce": "diplomat",
+  "cu": "дипломат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Ukrainian дипломат can also mean a briefcase (attaché case)."
+ },
+ {
+  "en": "diplomat",
+  "uk": "дипломатка",
+  "v": "not_lemma",
+  "ce": "diplomat",
+  "cu": "дипломат",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "дипломатка = female diplomat."
+ },
+ {
+  "en": "dos",
+  "uk": "дос",
+  "v": "unrelated"
+ },
+ {
+  "en": "eco-region",
+  "uk": "екорегіон",
+  "v": "identical",
+  "ce": "ecoregion",
+  "cu": "екорегіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "nature"
+  ],
+  "note": "Also written eco-region in English."
+ },
+ {
+  "en": "ghetto",
+  "uk": "гетто",
+  "v": "identical",
+  "ce": "ghetto",
+  "cu": "гетто",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "macdonald",
+  "uk": "макдональд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manipulate",
+  "uk": "маніпуляції",
+  "v": "not_lemma",
+  "ce": "manipulate",
+  "cu": "маніпулювати",
+  "lv": "similar",
+  "note": "маніпуляції = manipulations (noun, plural); the verb is маніпулювати."
+ },
+ {
+  "en": "martinez",
+  "uk": "мартінес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meyer",
+  "uk": "маєр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meyer",
+  "uk": "меєр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "midlands",
+  "uk": "мідленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "midway",
+  "uk": "мідвей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monarch",
+  "uk": "монарх",
+  "v": "identical",
+  "ce": "monarch",
+  "cu": "монарх",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "monte",
+  "uk": "монте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mu",
+  "uk": "мю",
+  "v": "identical",
+  "ce": "mu",
+  "cu": "мю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter (μ)."
+ },
+ {
+  "en": "mustard",
+  "uk": "муштарда",
+  "v": "similar",
+  "ce": "mustard",
+  "cu": "муштарда",
+  "note": "Dialect/old word with ending -а; the usual word is гірчиця."
+ },
+ {
+  "en": "norwich",
+  "uk": "норвіч",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patterson",
+  "uk": "паттерсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "persona",
+  "uk": "персона",
+  "v": "partial_false_friend",
+  "ce": "persona",
+  "cu": "персона",
+  "note": "Ukrainian персона = an (important) person; English persona = public image or role."
+ },
+ {
+  "en": "persona",
+  "uk": "персонаж",
+  "v": "similar",
+  "ce": "persona",
+  "cu": "персонаж",
+  "note": "Different suffix -аж; персонаж = a character in a story or film."
+ },
+ {
+  "en": "plymouth",
+  "uk": "плімут",
+  "v": "proper_noun"
+ },
+ {
+  "en": "punjab",
+  "uk": "пенджаб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rabbi",
+  "uk": "рабі",
+  "v": "identical",
+  "ce": "rabbi",
+  "cu": "рабі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Used mainly as a title before a name (рабі Аківа); the usual noun is рабин."
+ },
+ {
+  "en": "rabbi",
+  "uk": "рабин",
+  "v": "similar",
+  "ce": "rabbi",
+  "cu": "рабин",
+  "note": "Suffix -ин added."
+ },
+ {
+  "en": "ramsey",
+  "uk": "ремзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "realism",
+  "uk": "реалізм",
+  "v": "identical",
+  "ce": "realism",
+  "cu": "реалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "republic of the congo",
+  "uk": "республіка конго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shin",
+  "uk": "сін",
+  "v": "unrelated"
+ },
+ {
+  "en": "smartphones",
+  "uk": "смартфонів",
+  "v": "not_lemma",
+  "ce": "smartphone",
+  "cu": "смартфон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sol",
+  "uk": "соль",
+  "v": "identical",
+  "ce": "sol",
+  "cu": "соль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "The musical note G (do-re-mi-fa-sol); also spelled so in English."
+ },
+ {
+  "en": "squadron",
+  "uk": "ескадрон",
+  "v": "similar",
+  "ce": "squadron",
+  "cu": "ескадрон",
+  "note": "Initial е- added; ескадрон is only a cavalry unit (naval squadron = ескадра, air squadron = ескадрилья)."
+ }
+]

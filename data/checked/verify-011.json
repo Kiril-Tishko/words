@@ -1,0 +1,1058 @@
+[
+ {
+  "en": "forum",
+  "uk": "форум",
+  "v": "identical",
+  "ce": "forum",
+  "cu": "форум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "jay",
+  "uk": "джей",
+  "v": "unrelated"
+ },
+ {
+  "en": "journalist",
+  "uk": "журналіст",
+  "v": "identical",
+  "ce": "journalist",
+  "cu": "журналіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "journalist",
+  "uk": "журналістка",
+  "v": "not_lemma",
+  "ce": "journalist",
+  "cu": "журналіст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": "Feminine form (a female journalist)."
+ },
+ {
+  "en": "oxford",
+  "uk": "оксфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pace",
+  "uk": "пейс",
+  "v": "unrelated"
+ },
+ {
+  "en": "pope",
+  "uk": "папи",
+  "v": "not_lemma",
+  "ce": "pope",
+  "cu": "папа",
+  "lv": "similar",
+  "note": "Inflected form of папа; Ukrainian uses Папа Римський."
+ },
+ {
+  "en": "pope",
+  "uk": "поп",
+  "v": "false_friend",
+  "ce": "pope",
+  "cu": "поп",
+  "note": "поп = (colloquial) Orthodox priest, or pop music; the Pope is Папа Римський."
+ },
+ {
+  "en": "resident",
+  "uk": "резидент",
+  "v": "partial_false_friend",
+  "ce": "resident",
+  "cu": "резидент",
+  "note": "резидент = resident in a legal/tax sense (or a spy chief); a resident of a town is мешканець."
+ },
+ {
+  "en": "telephone number",
+  "uk": "телефонний номер",
+  "v": "similar",
+  "ce": "telephone number",
+  "cu": "телефонний номер",
+  "note": "Ukrainian uses an adjective (телефонний); also номер телефону."
+ },
+ {
+  "en": "agriculture",
+  "uk": "агрикультура",
+  "v": "similar",
+  "ce": "agriculture",
+  "cu": "агрикультура",
+  "note": "Adds -а; rare, the usual word is сільське господарство."
+ },
+ {
+  "en": "anna",
+  "uk": "анна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anna",
+  "uk": "ганна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "atlanta",
+  "uk": "атланти",
+  "v": "proper_noun"
+ },
+ {
+  "en": "christians",
+  "uk": "християни",
+  "v": "not_lemma",
+  "ce": "Christian",
+  "cu": "християнин",
+  "lv": "similar",
+  "note": "Plural; Ukrainian adds the suffix -ин."
+ },
+ {
+  "en": "cop",
+  "uk": "коп",
+  "v": "identical",
+  "ce": "cop",
+  "cu": "коп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people",
+   "law"
+  ],
+  "note": "Mostly about American/foreign police; a Ukrainian police officer is поліцейський."
+ },
+ {
+  "en": "creek",
+  "uk": "крік",
+  "v": "unrelated"
+ },
+ {
+  "en": "gordon",
+  "uk": "гордон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hook",
+  "uk": "гак",
+  "v": "similar",
+  "ce": "hook",
+  "cu": "гак",
+  "note": "Different vowel (from German Haken); a small hook is гачок."
+ },
+ {
+  "en": "hook",
+  "uk": "гук",
+  "v": "unrelated"
+ },
+ {
+  "en": "hook",
+  "uk": "хук",
+  "v": "identical",
+  "ce": "hook",
+  "cu": "хук",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Only the punch in boxing (a left hook); a hook for hanging things is гачок."
+ },
+ {
+  "en": "immigrants",
+  "uk": "іммігранти",
+  "v": "not_lemma",
+  "ce": "immigrant",
+  "cu": "іммігрант",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "instructions",
+  "uk": "інструкції",
+  "v": "not_lemma",
+  "ce": "instruction",
+  "cu": "інструкція",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "kansas",
+  "uk": "канзас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "log",
+  "uk": "лог",
+  "v": "identical",
+  "ce": "log",
+  "cu": "лог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "informal",
+   "tech"
+  ],
+  "note": "Only a log file/record in IT jargon (often plural логи); a tree log is колода."
+ },
+ {
+  "en": "matthew",
+  "uk": "метью",
+  "v": "proper_noun"
+ },
+ {
+  "en": "matthew",
+  "uk": "матвій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monitor",
+  "uk": "монітор",
+  "v": "identical",
+  "ce": "monitor",
+  "cu": "монітор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Mainly a screen/display."
+ },
+ {
+  "en": "op art",
+  "uk": "оп-арт",
+  "v": "identical",
+  "ce": "op art",
+  "cu": "оп-арт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "patrick",
+  "uk": "патрик",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patrick",
+  "uk": "патрік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patrick",
+  "uk": "патрикій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "phil",
+  "uk": "філ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "routine",
+  "uk": "рутинний",
+  "v": "similar",
+  "ce": "routine",
+  "cu": "рутинний",
+  "note": "Ukrainian adjective; the noun is рутина."
+ },
+ {
+  "en": "telephone line",
+  "uk": "телефонна лінія",
+  "v": "similar",
+  "ce": "telephone line",
+  "cu": "телефонна лінія",
+  "note": "Adjective + noun with Ukrainian endings."
+ },
+ {
+  "en": "wayne",
+  "uk": "вейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anderson",
+  "uk": "андерсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "austin",
+  "uk": "остін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "culture shock",
+  "uk": "культурний шок",
+  "v": "similar",
+  "ce": "culture shock",
+  "cu": "культурний шок",
+  "note": "Ukrainian uses the adjective культурний."
+ },
+ {
+  "en": "diego",
+  "uk": "дієго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "doc",
+  "uk": "док",
+  "v": "unrelated"
+ },
+ {
+  "en": "electrical energy",
+  "uk": "електроенергія",
+  "v": "similar",
+  "ce": "electrical energy",
+  "cu": "електроенергія",
+  "note": "One word in Ukrainian (електро- + енергія)."
+ },
+ {
+  "en": "extraordinary",
+  "uk": "екстраординарний",
+  "v": "similar",
+  "ce": "extraordinary",
+  "cu": "екстраординарний",
+  "note": "Ukrainian adjective, bookish; the usual word is надзвичайний."
+ },
+ {
+  "en": "gene",
+  "uk": "ген",
+  "v": "identical",
+  "ce": "gene",
+  "cu": "ген",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gene",
+  "uk": "джин",
+  "v": "unrelated"
+ },
+ {
+  "en": "initiative",
+  "uk": "ініціатива",
+  "v": "similar",
+  "ce": "initiative",
+  "cu": "ініціатива",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "jean",
+  "uk": "джин",
+  "v": "unrelated"
+ },
+ {
+  "en": "jean",
+  "uk": "жан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "logic",
+  "uk": "логіка",
+  "v": "similar",
+  "ce": "logic",
+  "cu": "логіка",
+  "note": "Ukrainian adds -ка."
+ },
+ {
+  "en": "melbourne",
+  "uk": "мельбурн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "microsoft",
+  "uk": "майкрософт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "objective",
+  "uk": "об'єктив",
+  "v": "false_friend",
+  "ce": "objective",
+  "cu": "об'єктив",
+  "note": "об'єктив = camera lens; a goal is мета, the adjective is об'єктивний."
+ },
+ {
+  "en": "script",
+  "uk": "скрипт",
+  "v": "identical",
+  "ce": "script",
+  "cu": "скрипт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Mainly a computer script (or a sales/call script); a film script is сценарій."
+ },
+ {
+  "en": "universities",
+  "uk": "університети",
+  "v": "not_lemma",
+  "ce": "university",
+  "cu": "університет",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "walter",
+  "uk": "вальтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "walter",
+  "uk": "волтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wisconsin",
+  "uk": "вісконсин",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ambassador",
+  "uk": "амбасадор",
+  "v": "identical",
+  "ce": "ambassador",
+  "cu": "амбасадор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "people"
+  ],
+  "note": "Mainly a brand ambassador; a diplomatic ambassador is посол."
+ },
+ {
+  "en": "ann",
+  "uk": "енн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carter",
+  "uk": "картер",
+  "v": "unrelated"
+ },
+ {
+  "en": "chelsea",
+  "uk": "челсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cotton",
+  "uk": "коттон",
+  "v": "identical",
+  "ce": "cotton",
+  "cu": "коттон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "clothing"
+  ],
+  "note": "Textile/trade term for cotton fabric (also spelled котон); the everyday word is бавовна."
+ },
+ {
+  "en": "detroit",
+  "uk": "детройт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "discount",
+  "uk": "дисконт",
+  "v": "identical",
+  "ce": "discount",
+  "cu": "дисконт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "finance"
+  ],
+  "note": "Business/finance term; the everyday word for a price reduction is знижка."
+ },
+ {
+  "en": "johnny",
+  "uk": "джонні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johnny",
+  "uk": "джоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "josh",
+  "uk": "джош",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rep",
+  "uk": "реп",
+  "v": "unrelated"
+ },
+ {
+  "en": "reporter",
+  "uk": "репортер",
+  "v": "identical",
+  "ce": "reporter",
+  "cu": "репортер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "reporter",
+  "uk": "репортерка",
+  "v": "not_lemma",
+  "ce": "reporter",
+  "cu": "репортер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": "Feminine form (a female reporter)."
+ },
+ {
+  "en": "rio",
+  "uk": "ріо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rob",
+  "uk": "роб",
+  "v": "unrelated"
+ },
+ {
+  "en": "sept",
+  "uk": "сет",
+  "v": "unrelated"
+ },
+ {
+  "en": "singapore",
+  "uk": "сингапур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "singapore",
+  "uk": "сінгапур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "singapore",
+  "uk": "сінгапурі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "singapore",
+  "uk": "сінґапур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "singapore",
+  "uk": "синґапур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tennis",
+  "uk": "теніс",
+  "v": "identical",
+  "ce": "tennis",
+  "cu": "теніс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "terrorist",
+  "uk": "терорист",
+  "v": "identical",
+  "ce": "terrorist",
+  "cu": "терорист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "terrorist",
+  "uk": "терориста",
+  "v": "not_lemma",
+  "ce": "terrorist",
+  "cu": "терорист",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Genitive form."
+ },
+ {
+  "en": "theater",
+  "uk": "театр",
+  "v": "identical",
+  "ce": "theater",
+  "cu": "театр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "theater",
+  "uk": "театрі",
+  "v": "not_lemma",
+  "ce": "theater",
+  "cu": "театр",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "places"
+  ],
+  "note": "Locative form (в театрі = in the theater)."
+ },
+ {
+  "en": "blues",
+  "uk": "блюз",
+  "v": "identical",
+  "ce": "blues",
+  "cu": "блюз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Only the music genre; 'the blues' (sadness) is смуток."
+ },
+ {
+  "en": "bruce",
+  "uk": "брюс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bull",
+  "uk": "бул",
+  "v": "unrelated"
+ },
+ {
+  "en": "bull",
+  "uk": "булл",
+  "v": "unrelated"
+ },
+ {
+  "en": "cameras",
+  "uk": "камер",
+  "v": "not_lemma",
+  "ce": "camera",
+  "cu": "камера",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Genitive plural form. камера also means a (prison) cell or chamber."
+ },
+ {
+  "en": "investors",
+  "uk": "інвесторів",
+  "v": "not_lemma",
+  "ce": "investor",
+  "cu": "інвестор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "Genitive plural form."
+ },
+ {
+  "en": "investors",
+  "uk": "інвестори",
+  "v": "not_lemma",
+  "ce": "investor",
+  "cu": "інвестор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "kate",
+  "uk": "кейт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maria",
+  "uk": "марія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ministers",
+  "uk": "міністри",
+  "v": "not_lemma",
+  "ce": "minister",
+  "cu": "міністр",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Plural form. Only a government minister; a church minister is священник or пастор."
+ },
+ {
+  "en": "monitoring",
+  "uk": "моніторинг",
+  "v": "identical",
+  "ce": "monitoring",
+  "cu": "моніторинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "photographs",
+  "uk": "фотографій",
+  "v": "not_lemma",
+  "ce": "photograph",
+  "cu": "фотографія",
+  "lv": "similar",
+  "note": "Genitive plural; Ukrainian adds -ія (фотограф = photographer)."
+ },
+ {
+  "en": "progressive",
+  "uk": "прогресивні",
+  "v": "not_lemma",
+  "ce": "progressive",
+  "cu": "прогресивний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "progressive",
+  "uk": "прогресивний",
+  "v": "similar",
+  "ce": "progressive",
+  "cu": "прогресивний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "progressive",
+  "uk": "прогресивна",
+  "v": "not_lemma",
+  "ce": "progressive",
+  "cu": "прогресивний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "rally",
+  "uk": "раллі",
+  "v": "not_lemma",
+  "ce": "rally",
+  "cu": "ралі",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Older spelling; current spelling is ралі. Only a motor rally; a political rally is мітинг."
+ },
+ {
+  "en": "rally",
+  "uk": "ралі",
+  "v": "identical",
+  "ce": "rally",
+  "cu": "ралі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Only a motor rally (car race); a political rally is мітинг."
+ },
+ {
+  "en": "sum",
+  "uk": "сом",
+  "v": "unrelated"
+ },
+ {
+  "en": "sum",
+  "uk": "сум",
+  "v": "unrelated"
+ },
+ {
+  "en": "sum",
+  "uk": "суму",
+  "v": "not_lemma",
+  "ce": "sum",
+  "cu": "сума",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "sum",
+  "uk": "сума",
+  "v": "similar",
+  "ce": "sum",
+  "cu": "сума",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "texts",
+  "uk": "тексти",
+  "v": "not_lemma",
+  "ce": "text",
+  "cu": "текст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "veterans",
+  "uk": "ветерани",
+  "v": "not_lemma",
+  "ce": "veteran",
+  "cu": "ветеран",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "veterans",
+  "uk": "ветеранам",
+  "v": "not_lemma",
+  "ce": "veteran",
+  "cu": "ветеран",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Dative plural form."
+ },
+ {
+  "en": "veterans",
+  "uk": "ветеранів",
+  "v": "not_lemma",
+  "ce": "veteran",
+  "cu": "ветеран",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Genitive plural form."
+ },
+ {
+  "en": "arena",
+  "uk": "арена",
+  "v": "identical",
+  "ce": "arena",
+  "cu": "арена",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "arguments",
+  "uk": "аргументи",
+  "v": "not_lemma",
+  "ce": "argument",
+  "cu": "аргумент",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Plural form. Only a reason/point in a debate; a quarrel is сварка."
+ },
+ {
+  "en": "arguments",
+  "uk": "аргументів",
+  "v": "not_lemma",
+  "ce": "argument",
+  "cu": "аргумент",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Genitive plural form. Only a reason/point in a debate; a quarrel is сварка."
+ },
+ {
+  "en": "billy",
+  "uk": "біллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boom",
+  "uk": "бум",
+  "v": "identical",
+  "ce": "boom",
+  "cu": "бум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "A sudden boom (economic, popularity); also the sound бум!"
+ },
+ {
+  "en": "british columbia",
+  "uk": "британська колумбія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "compensation",
+  "uk": "компенсація",
+  "v": "similar",
+  "ce": "compensation",
+  "cu": "компенсація",
+  "note": "Ukrainian ending -ація."
+ },
+ {
+  "en": "conservation",
+  "uk": "консервація",
+  "v": "partial_false_friend",
+  "ce": "conservation",
+  "cu": "консервація",
+  "note": "консервація = canning food or mothballing; nature conservation is охорона природи."
+ },
+ {
+  "en": "constitutional",
+  "uk": "конституційний",
+  "v": "similar",
+  "ce": "constitutional",
+  "cu": "конституційний",
+  "note": "Ukrainian adjective ending -ійний."
+ },
+ {
+  "en": "elementary",
+  "uk": "елементарний",
+  "v": "similar",
+  "ce": "elementary",
+  "cu": "елементарний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "elementary",
+  "uk": "елементарні",
+  "v": "not_lemma",
+  "ce": "elementary",
+  "cu": "елементарний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "foster",
+  "uk": "фостер",
+  "v": "unrelated"
+ }
+]
