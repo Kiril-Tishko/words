@@ -1,0 +1,618 @@
+{
+ "chick lit": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "chick lit · uncountable",
+  "say": "",
+  "note": "Informal; some people find it dismissive."
+ },
+ "lawn tennis": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "lawn tennis · uncountable",
+  "say": "",
+  "note": "Old-fashioned; people usually just say tennis."
+ },
+ "self-promo": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "self-promo · uncountable",
+  "say": "",
+  "note": "Informal short form of self-promotion."
+ },
+ "DAISY player": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a DAISY player · DAISY players",
+  "say": "",
+  "note": ""
+ },
+ "stereo effect": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a stereo effect · stereo effects",
+  "say": "",
+  "note": ""
+ },
+ "blocking generator": {
+  "v": "not_english",
+  "pm": 0.01,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a blocking generator · blocking generators",
+  "say": "",
+  "note": "The usual English term is \"blocking oscillator.\""
+ },
+ "gram equivalent": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a gram equivalent · gram equivalents",
+  "say": "",
+  "note": ""
+ },
+ "mass detector": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a mass detector · mass detectors",
+  "say": "",
+  "note": ""
+ },
+ "gala match": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a gala match · gala matches",
+  "say": "",
+  "note": ""
+ },
+ "delta electron": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a delta electron · delta electrons",
+  "say": "",
+  "note": ""
+ },
+ "neo-Renaissance": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "neo-Renaissance · uncountable",
+  "say": "",
+  "note": "Often used before a noun: \"a neo-Renaissance building.\""
+ },
+ "radius vector": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a radius vector · radius vectors",
+  "say": "",
+  "note": ""
+ },
+ "graffiti writer": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a graffiti writer · graffiti writers",
+  "say": "",
+  "note": ""
+ },
+ "bug bounty": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a bug bounty · bug bounties",
+  "say": "",
+  "note": ""
+ },
+ "Thai boxer": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a Thai boxer · Thai boxers",
+  "say": "",
+  "note": ""
+ },
+ "gamma laser": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a gamma laser · gamma lasers",
+  "say": "",
+  "note": ""
+ },
+ "pi electron": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a pi electron · pi electrons",
+  "say": "",
+  "note": ""
+ },
+ "jockey club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a jockey club · jockey clubs",
+  "say": "",
+  "note": ""
+ },
+ "karate-do": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "karate-do · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "pre-flop": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "the pre-flop",
+  "say": "",
+  "ex": [
+   "In poker, the pre-flop is the first round of betting.",
+   "He raised the bet in the pre-flop with two aces.",
+   "Many players fold their weak cards in the pre-flop.",
+   "What do you usually do in the pre-flop with bad cards?"
+  ],
+  "note": "Poker word: the betting before the first three shared cards. Also: \"raise pre-flop.\""
+ },
+ "glitch": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a glitch · glitches",
+  "say": "",
+  "note": ""
+ },
+ "cameraman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a cameraman · cameramen",
+  "say": "",
+  "note": "Plural: cameramen. Camera operator is a neutral term."
+ },
+ "techno club": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a techno club · techno clubs",
+  "say": "",
+  "note": ""
+ },
+ "webcam model": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a webcam model · webcam models",
+  "say": "",
+  "note": ""
+ },
+ "techno rock": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "techno rock · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "placebo effect": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "the placebo effect",
+  "say": "",
+  "note": ""
+ },
+ "milestone": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a milestone · milestones",
+  "say": "",
+  "note": ""
+ },
+ "doping officer": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a doping officer · doping officers",
+  "say": "",
+  "note": "The official title is \"doping control officer.\""
+ },
+ "techno concert": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a techno concert · techno concerts",
+  "say": "",
+  "note": ""
+ },
+ "marshmallow": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a marshmallow · marshmallows",
+  "say": "",
+  "note": ""
+ },
+ "glitch art": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "glitch art · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "street racer": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a street racer · street racers",
+  "say": "",
+  "note": ""
+ },
+ "techno producer": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a techno producer · techno producers",
+  "say": "",
+  "note": ""
+ },
+ "glitch effect": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a glitch effect · glitch effects",
+  "say": "",
+  "note": ""
+ },
+ "gram-atom": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a gram-atom · gram-atoms",
+  "say": "",
+  "note": ""
+ },
+ "hip-hopper": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a hip-hopper · hip-hoppers",
+  "say": "",
+  "note": ""
+ },
+ "amigo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "an amigo · amigos",
+  "say": "",
+  "note": "Informal Spanish word, used jokingly in English for a friend."
+ },
+ "SUP": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a SUP · SUPs",
+  "say": "",
+  "note": "Short for \"stand-up paddleboard\" or \"stand-up paddleboarding.\""
+ },
+ "Afro-rock": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "gram": "Afro-rock · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "cosplay show": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a cosplay show · cosplay shows",
+  "say": "",
+  "note": ""
+ },
+ "Afro dance": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "Afro dance · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "techno DJ": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a techno DJ · techno DJs",
+  "say": "",
+  "note": ""
+ },
+ "bowler": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a bowler · bowlers",
+  "say": "",
+  "note": "Also a person who plays bowling, and a round hard hat: \"a bowler hat.\""
+ },
+ "sitcom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sitcom · sitcoms",
+  "say": "",
+  "note": ""
+ },
+ "redirect": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a redirect · redirects",
+  "say": "",
+  "note": "Most often \"redirect\" is a verb: \"Please redirect your questions to the manager.\""
+ },
+ "biker style": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "biker style · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "MIDI file": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a MIDI file · MIDI files",
+  "say": "",
+  "note": ""
+ },
+ "Zen Buddhism": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "Zen Buddhism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "fat shaming": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "fat shaming · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "puja": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a puja · pujas",
+  "say": "",
+  "note": ""
+ },
+ "phosphate ion": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a phosphate ion · phosphate ions",
+  "say": "",
+  "ex": [
+   "A phosphate ion has one phosphorus atom and four oxygen atoms.",
+   "Plants need phosphate ions to grow well.",
+   "The water test found too many phosphate ions in the lake.",
+   "Write the charge of the phosphate ion on the board."
+  ],
+  "note": ""
+ },
+ "droid": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a droid · droids",
+  "say": "",
+  "note": "Informal word for a robot, mostly in science fiction."
+ },
+ "retainer": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a retainer · retainers",
+  "say": "",
+  "note": "Also money paid in advance to a lawyer: \"The lawyer asked for a retainer.\""
+ },
+ "oppa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "an oppa · oppas",
+  "say": "",
+  "note": "Korean word used by fans of Korean pop culture; informal."
+ },
+ "pairing": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a pairing · pairings",
+  "say": "",
+  "ex": [
+   "My favorite pairing in this show is the two detectives.",
+   "Fans argued online about the best pairing in the series.",
+   "She writes fan fiction about her favorite pairing.",
+   "Which pairing do you like most in this book?"
+  ],
+  "note": "Most often \"pairing\" means two things that go well together: \"a wine and cheese pairing.\""
+ },
+ "headset": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a headset · headsets",
+  "say": "",
+  "note": ""
+ },
+ "wannabe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a wannabe · wannabes",
+  "say": "",
+  "note": "Informal and a bit negative."
+ },
+ "alpha inhibitor": {
+  "v": "not_english",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "an alpha inhibitor · alpha inhibitors",
+  "say": "",
+  "note": "For blood pressure drugs, English usually says \"alpha blocker.\""
+ },
+ "chloride ion": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a chloride ion · chloride ions",
+  "say": "",
+  "note": ""
+ },
+ "compact cassette": {
+  "v": "similar",
+  "pm": 0.1,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a compact cassette · compact cassettes",
+  "say": "",
+  "note": ""
+ }
+}

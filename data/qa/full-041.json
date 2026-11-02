@@ -1,0 +1,639 @@
+{
+ "kick light": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a kick light · kick lights",
+  "say": "",
+  "note": "Also called a \"kicker\" or \"kicker light\"."
+ },
+ "farm club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a farm club · farm clubs",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The club sends its young players to a farm club.",
+   "He spent two seasons playing for a farm club.",
+   "Our town's hockey team is a farm club for a big team.",
+   "Good players from the farm club can move up to the main team."
+  ]
+ },
+ "mail art": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "mail art · uncountable",
+  "say": "",
+  "note": "Uncountable: some mail art (not \"a mail art\").",
+  "ex": [
+   "She sends mail art to friends around the world.",
+   "Mail art means decorated envelopes and postcards sent by mail.",
+   "The library has a small exhibit of mail art.",
+   "The kids made mail art for a class project."
+  ]
+ },
+ "brand leader": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a brand leader · brand leaders",
+  "say": "",
+  "note": ""
+ },
+ "form factor": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a form factor · form factors",
+  "say": "",
+  "note": ""
+ },
+ "concept store": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a concept store · concept stores",
+  "say": "",
+  "note": ""
+ },
+ "lady boss": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a lady boss · lady bosses",
+  "say": "",
+  "note": "This is informal and can sound playful or mocking."
+ },
+ "deep strike": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a deep strike · deep strikes",
+  "say": "",
+  "note": ""
+ },
+ "lord mayor": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [],
+  "ns": false,
+  "gram": "a lord mayor · lord mayors",
+  "say": "",
+  "note": "British title, often written \"Lord Mayor\". In the US, people simply say \"mayor\"."
+ },
+ "impact factor": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an impact factor · impact factors",
+  "say": "",
+  "note": ""
+ },
+ "street retail": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "street retail · uncountable",
+  "say": "",
+  "note": "Uncountable: street retail (not \"a street retail\")."
+ },
+ "block signal": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a block signal · block signals",
+  "say": "",
+  "note": ""
+ },
+ "contemporary art": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": true,
+  "gram": "contemporary art · uncountable",
+  "say": "",
+  "note": "Uncountable: some contemporary art (not \"a contemporary art\")."
+ },
+ "post-processing": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "post-processing · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of post-processing (not \"a post-processing\")."
+ },
+ "color index": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a color index · color indexes",
+  "say": "",
+  "note": ""
+ },
+ "stress factor": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a stress factor · stress factors",
+  "say": "",
+  "note": ""
+ },
+ "semi-contact": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "semi-contact · uncountable",
+  "say": "",
+  "note": "Often used before a noun: \"semi-contact karate\"."
+ },
+ "gas lift": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a gas lift · gas lifts",
+  "say": "",
+  "note": ""
+ },
+ "premier division": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "the premier division",
+  "say": "",
+  "note": "Used mostly in British and Irish leagues, often written \"Premier Division\"."
+ },
+ "super soldier": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a super soldier · super soldiers",
+  "say": "",
+  "note": ""
+ },
+ "acid rock": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "acid rock · uncountable",
+  "say": "",
+  "note": "Uncountable: some acid rock (not \"an acid rock\")."
+ },
+ "crossing over": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "crossing over · uncountable",
+  "say": "",
+  "note": "Also called \"crossover\" in biology."
+ },
+ "book trailer": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a book trailer · book trailers",
+  "say": "",
+  "note": ""
+ },
+ "file server": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a file server · file servers",
+  "say": "",
+  "note": ""
+ },
+ "hot jazz": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "hot jazz · uncountable",
+  "say": "",
+  "note": "Uncountable: some hot jazz (not \"a hot jazz\")."
+ },
+ "side quest": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [],
+  "ns": true,
+  "gram": "a side quest · side quests",
+  "say": "",
+  "note": "Also used jokingly for a small extra task: \"Buying milk was a side quest.\""
+ },
+ "jazz rock": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "jazz rock · uncountable",
+  "say": "",
+  "note": "Also written \"jazz-rock\". Uncountable: not \"a jazz rock\".",
+  "ex": [
+   "The band plays jazz rock with long guitar solos.",
+   "Jazz rock was very popular in the 1970s.",
+   "Do you like jazz rock more than classic rock?",
+   "This jazz rock album is still a classic."
+  ]
+ },
+ "filter press": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a filter press · filter presses",
+  "say": "",
+  "note": ""
+ },
+ "time charter": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a time charter · time charters",
+  "say": "",
+  "note": ""
+ },
+ "soul blues": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "soul blues · uncountable",
+  "say": "",
+  "note": "Uncountable: soul blues (not \"a soul blues\")."
+ },
+ "grand opera": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a grand opera · grand operas",
+  "say": "",
+  "note": ""
+ },
+ "urban blues": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "urban blues · uncountable",
+  "say": "",
+  "note": "Uncountable: urban blues (not \"an urban blues\")."
+ },
+ "sex tourist": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a sex tourist · sex tourists",
+  "say": "",
+  "note": ""
+ },
+ "grid service": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a grid service · grid services",
+  "say": "",
+  "note": "Also often means a service that helps the power grid, like battery storage."
+ },
+ "grid site": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a grid site · grid sites",
+  "say": "",
+  "note": ""
+ },
+ "brand maker": {
+  "v": "not_english",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a brand maker · brand makers",
+  "say": "",
+  "note": "Rare in English. People usually say \"brand strategist\" or \"brand designer\"."
+ },
+ "Internet Protocol": {
+  "v": "keep",
+  "pm": 2.0,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the Internet Protocol",
+  "say": "",
+  "note": "Usually shortened to \"IP\": an IP address."
+ },
+ "dick pic": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "vulgar",
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a dick pic · dick pics",
+  "say": "",
+  "note": "Vulgar slang. Avoid in polite conversation."
+ },
+ "forum theater": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "forum theater · uncountable",
+  "say": "",
+  "note": "Uncountable: forum theater (not \"a forum theater\")."
+ },
+ "vacuum press": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a vacuum press · vacuum presses",
+  "say": "",
+  "note": ""
+ },
+ "delta metal": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "delta metal · uncountable",
+  "say": "",
+  "note": "Uncountable: delta metal (not \"a delta metal\")."
+ },
+ "delta spread": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a delta spread · delta spreads",
+  "say": "",
+  "note": ""
+ },
+ "hard fork": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a hard fork · hard forks",
+  "say": "",
+  "note": ""
+ },
+ "sandwich panel": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a sandwich panel · sandwich panels",
+  "say": "",
+  "note": ""
+ },
+ "short seller": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a short seller · short sellers",
+  "say": "",
+  "note": ""
+ },
+ "bug hunter": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a bug hunter · bug hunters",
+  "say": "",
+  "note": ""
+ },
+ "radical socialist": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a radical socialist · radical socialists",
+  "say": "",
+  "note": ""
+ },
+ "smart mob": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a smart mob · smart mobs",
+  "say": "",
+  "note": ""
+ },
+ "beta reader": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a beta reader · beta readers",
+  "say": "",
+  "note": ""
+ },
+ "echo signal": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an echo signal · echo signals",
+  "say": "",
+  "note": ""
+ },
+ "diesel motor": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a diesel motor · diesel motors",
+  "say": "",
+  "note": "More often called a \"diesel engine\"."
+ },
+ "short squeeze": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a short squeeze · short squeezes",
+  "say": "",
+  "note": ""
+ },
+ "grammar Nazi": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "slang",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a grammar Nazi · grammar Nazis",
+  "say": "",
+  "note": "Informal and can be offensive. \"Grammar police\" is a softer term."
+ },
+ "gas generator": {
+  "v": "partial_false_friend",
+  "pm": 1.0,
+  "reg": [],
+  "ns": false,
+  "gram": "a gas generator · gas generators",
+  "say": "",
+  "note": "In the US, \"gas\" here usually means gasoline, so it is a gasoline generator."
+ },
+ "cracking process": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a cracking process · cracking processes",
+  "say": "",
+  "note": ""
+ },
+ "blame shifting": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "blame shifting · uncountable",
+  "say": "",
+  "note": "Uncountable: blame shifting (not \"a blame shifting\")."
+ },
+ "dock panel": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a dock panel · dock panels",
+  "say": "",
+  "note": "Often just called \"the dock\"."
+ },
+ "vacuum filter": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a vacuum filter · vacuum filters",
+  "say": "",
+  "note": ""
+ },
+ "bill broker": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a bill broker · bill brokers",
+  "say": "",
+  "note": ""
+ },
+ "alpha rhythm": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "alpha rhythm · uncountable",
+  "say": "",
+  "note": "Also called \"alpha waves\".",
+  "ex": [
+   "Alpha rhythm appears when you relax with your eyes closed.",
+   "The doctor checked her alpha rhythm on the EEG.",
+   "Meditation can make your alpha rhythm stronger.",
+   "Alpha rhythm usually disappears when you open your eyes."
+  ]
+ }
+}

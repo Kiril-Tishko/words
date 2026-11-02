@@ -1,0 +1,1575 @@
+{
+ "mixdown": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "multiprocessing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Multiprocessing lets one program use several processors at once.",
+   "Turn on multiprocessing to make the video export faster.",
+   "Our app uses multiprocessing to handle many photos together.",
+   "Multiprocessing can use more memory than a single process."
+  ],
+  "note": ""
+ },
+ "oxalis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "placemaking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "prepress": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "subpixel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Each pixel on your screen has a red, green, and blue subpixel.",
+   "A broken subpixel can look like a tiny colored dot.",
+   "With a magnifying glass, you can see every subpixel on the display.",
+   "Subpixel rendering makes small text look sharper on screens."
+  ],
+  "note": ""
+ },
+ "touchpoint": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "vitex": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "panettone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "seiyuu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal fan word; \"voice actor\" is the common English term."
+ },
+ "zebu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "medaka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The medaka is a small fish from Japan that lives in rice fields.",
+   "Scientists often use the medaka in genetic research.",
+   "I keep three medaka in a bowl on my balcony.",
+   "A medaka can live happily in an outdoor pond all year."
+  ],
+  "note": ""
+ },
+ "erythropoietin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Often shortened to EPO."
+ },
+ "dhampir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In old Balkan stories, a dhampir is the child of a vampire and a human.",
+   "The hero of the novel is a dhampir who hunts vampires.",
+   "A dhampir can walk in the sun, unlike a real vampire.",
+   "She dressed as a dhampir for the fantasy convention."
+  ],
+  "note": ""
+ },
+ "renderer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dramedy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "The new series is a dramedy about a family restaurant.",
+   "I like a good dramedy because it makes me laugh and cry.",
+   "Critics called the film a smart, warm dramedy.",
+   "Can you recommend a short dramedy to watch tonight?"
+  ],
+  "note": "Informal word for a mix of drama and comedy."
+ },
+ "ashtanga": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "photomontage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kratom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "orgone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "malathion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Malathion is a chemical used to kill insects on crops.",
+   "The city sprayed malathion to control mosquitoes.",
+   "Wear gloves when you work with malathion.",
+   "Some lice shampoos contain malathion."
+  ],
+  "note": ""
+ },
+ "balas": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually said as \"balas ruby\"."
+ },
+ "bisphosphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A bisphosphate is a molecule with two phosphate groups.",
+   "Fructose bisphosphate is an important step in breaking down sugar.",
+   "The cell uses this bisphosphate to make energy.",
+   "Our biology textbook explains how a bisphosphate forms in the cell."
+  ],
+  "note": ""
+ },
+ "dapsone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Dapsone is a medicine used to treat leprosy.",
+   "The doctor prescribed dapsone gel for her acne.",
+   "Dapsone can cause anemia, so you need regular blood tests.",
+   "Take dapsone every day until your doctor tells you to stop."
+  ],
+  "note": ""
+ },
+ "domperidone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Domperidone helps with nausea and vomiting.",
+   "The doctor prescribed domperidone for his slow stomach.",
+   "Take domperidone before meals, not after.",
+   "Domperidone is not sold in every country."
+  ],
+  "note": ""
+ },
+ "forskolin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Forskolin is a substance taken from the root of an Indian plant.",
+   "Many weight loss pills contain forskolin.",
+   "There is little proof that forskolin helps you lose fat.",
+   "Scientists use forskolin in the lab to study cells."
+  ],
+  "note": ""
+ },
+ "glutamyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A glutamyl group comes from the amino acid glutamic acid.",
+   "The enzyme moves a glutamyl group from one molecule to another.",
+   "The blood test measures gamma-glutamyl transferase, a liver enzyme.",
+   "Our chemistry teacher drew a glutamyl group on the board."
+  ],
+  "note": ""
+ },
+ "nibbana": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In Buddhism, nibbana is the end of suffering.",
+   "Monks meditate for years to reach nibbana.",
+   "Nibbana is the Pali word for nirvana.",
+   "The teacher explained nibbana in simple words."
+  ],
+  "note": ""
+ },
+ "pinene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Pinene gives pine trees their fresh smell.",
+   "Some cleaning products contain pinene for a forest scent.",
+   "Rosemary and basil also contain pinene.",
+   "The lab measured the amount of pinene in the oil."
+  ],
+  "note": ""
+ },
+ "sulfamethoxazole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Sulfamethoxazole is an antibiotic for bladder infections.",
+   "Sulfamethoxazole is usually combined with another drug, trimethoprim.",
+   "Drink plenty of water while you take sulfamethoxazole.",
+   "Tell your doctor if sulfamethoxazole gives you a rash."
+  ],
+  "note": ""
+ },
+ "traceroute": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Run a traceroute to see where the connection slows down.",
+   "The traceroute showed that the problem was at our provider.",
+   "Traceroute lists every server between your computer and the website.",
+   "Can you send me the results of the traceroute?"
+  ],
+  "note": ""
+ },
+ "takbir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "naginata": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "temazepam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kiddush": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "networker": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "kedgeree": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Kedgeree is a dish of rice, smoked fish, and eggs.",
+   "We had kedgeree for a late Sunday breakfast.",
+   "Add a little curry powder to the kedgeree.",
+   "My grandmother makes kedgeree with leftover rice."
+  ],
+  "note": ""
+ },
+ "levodopa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "perlite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "krautrock": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gobo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "koine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acetylcysteine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Acetylcysteine helps thin mucus when you have a bad cough.",
+   "Doctors use acetylcysteine to treat an acetaminophen overdose.",
+   "Dissolve the acetylcysteine tablet in a glass of water.",
+   "The pharmacist recommended acetylcysteine for my chest cold."
+  ],
+  "note": "Often shortened to NAC."
+ },
+ "afrofuturism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Afrofuturism mixes African culture with science fiction.",
+   "The museum has a new exhibition on Afrofuturism.",
+   "Many music videos use ideas from Afrofuturism.",
+   "Our book club is reading a novel full of Afrofuturism."
+  ],
+  "note": ""
+ },
+ "avidya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In Hindu and Buddhist thought, avidya means ignorance.",
+   "The teacher said avidya is the root of suffering.",
+   "Meditation helps people free themselves from avidya.",
+   "The book explains avidya in simple language."
+  ],
+  "note": ""
+ },
+ "camarilla": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "The king listened only to a small camarilla of advisers.",
+   "Critics said the president was controlled by a camarilla.",
+   "A camarilla of rich friends made all the big decisions.",
+   "The new leader promised to break up the old camarilla."
+  ],
+  "note": ""
+ },
+ "fastboot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "halakhah": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"halakha\" or \"halacha\"."
+ },
+ "ipilimumab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "irinotecan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "karambit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kompromat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nopal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"nopales\" in recipes."
+ },
+ "oxaloacetate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "paideia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sclerotinia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "streptavidin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "takaful": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "thioredoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vimentin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Donatist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A Donatist belonged to a strict Christian group in North Africa.",
+   "Each Donatist refused to accept priests who had betrayed the faith.",
+   "Our history class discussed the Donatist split in the early church.",
+   "The Donatist movement lasted for more than a hundred years."
+  ],
+  "note": ""
+ },
+ "xylitol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "vetiver": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nuclide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "misoprostol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "camerlengo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cinquecento": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The cinquecento is the 1500s in Italian art and culture.",
+   "This museum room shows paintings from the cinquecento.",
+   "Many famous Italian palaces were built in the cinquecento.",
+   "Our art history course ends with the cinquecento."
+  ],
+  "note": ""
+ },
+ "carcinoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "paracord": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arene": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "calcitriol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "exegete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gallate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "heparan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Almost always used as \"heparan sulfate\"."
+ },
+ "linalool": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Linalool gives lavender its sweet, floral smell.",
+   "Many soaps and perfumes contain linalool.",
+   "Some people are allergic to linalool in cosmetics.",
+   "Check the label for linalool if your skin is sensitive."
+  ],
+  "note": ""
+ },
+ "mosaicism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Mosaicism means a person has cells with different genes.",
+   "The genetic test showed mosaicism in the baby.",
+   "Mosaicism can make a genetic disease milder.",
+   "The doctor explained mosaicism to the worried parents."
+  ],
+  "note": ""
+ },
+ "papain": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Papain is an enzyme that comes from papaya.",
+   "Papain is used in powders that make meat tender.",
+   "Some toothpastes contain papain to remove stains.",
+   "People with a latex allergy may also react to papain."
+  ],
+  "note": ""
+ },
+ "paraquat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Paraquat is a strong chemical that kills weeds.",
+   "Paraquat is very dangerous if someone swallows it.",
+   "Many countries have banned paraquat.",
+   "Farmers must wear protective clothes when they spray paraquat."
+  ],
+  "note": ""
+ },
+ "phosphoinositide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A phosphoinositide is a fat molecule found in cell membranes.",
+   "Each phosphoinositide helps send signals inside the cell.",
+   "The study looked at phosphoinositide changes in cancer cells.",
+   "Our lecture today was about phosphoinositide signaling."
+  ],
+  "note": ""
+ },
+ "probenecid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Probenecid helps the body remove uric acid in people with gout.",
+   "The doctor gave probenecid together with the antibiotic.",
+   "Drink a lot of water while you take probenecid.",
+   "Probenecid can change how other medicines work."
+  ],
+  "note": ""
+ },
+ "rabona": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "He crossed the ball with a rabona behind his standing leg.",
+   "The fans cheered when she scored with a rabona.",
+   "A rabona looks great but is hard to do well.",
+   "Our coach showed us how to kick a rabona."
+  ],
+  "note": ""
+ },
+ "redpoint": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A redpoint means climbing a route without falling after practicing it.",
+   "She finally got the redpoint on her hardest route.",
+   "It took him ten tries to make a redpoint of this climb.",
+   "After a few practice climbs, try for the redpoint."
+  ],
+  "note": ""
+ },
+ "sapele": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Sapele is a reddish-brown hardwood from Africa.",
+   "The guitar has a back made of sapele.",
+   "We chose sapele for the new front door.",
+   "Sapele looks a lot like mahogany but costs less."
+  ],
+  "note": ""
+ },
+ "Shiism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Thomist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A Thomist follows the philosophy of Thomas Aquinas.",
+   "The professor is a Thomist who writes about ethics.",
+   "This course gives a Thomist view of human nature.",
+   "Every Thomist believes that faith and reason can work together."
+  ],
+  "note": ""
+ },
+ "xenomorph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "areca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cattleya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "planche": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "santal": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "\"Sandalwood\" is the more common English word."
+ },
+ "muhajir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tooltip": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "malate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lutefisk": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Lutefisk is dried fish soaked in lye, a Scandinavian dish.",
+   "Many families eat lutefisk at Christmas in Norway.",
+   "Lutefisk has a soft, jelly-like texture.",
+   "Would you like to try lutefisk with butter and potatoes?"
+  ],
+  "note": ""
+ },
+ "free-diving": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Free-diving means diving deep on just one breath.",
+   "I took a free-diving course during my summer vacation.",
+   "Never go free-diving alone; always have a partner with you.",
+   "Free-diving teaches you to stay calm underwater."
+  ],
+  "note": ""
+ },
+ "arancino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An arancino is a fried rice ball from Sicily.",
+   "I ordered an arancino filled with cheese and peas.",
+   "An arancino makes a great street food snack.",
+   "The arancino was crispy outside and soft inside."
+  ],
+  "note": "Plural is \"arancini\"."
+ },
+ "lantana": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "glabella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anemometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "accessor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "An accessor is a method that returns the value of a field.",
+   "Write an accessor so other classes can read the name.",
+   "The accessor only reads the data and does not change it.",
+   "In this code, every private field has an accessor."
+  ],
+  "note": ""
+ },
+ "allene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "An allene has two double bonds next to the same carbon atom.",
+   "The simplest allene is a gas called propadiene.",
+   "The chemist made a new allene in the lab.",
+   "Our exam asked us to draw the shape of an allene."
+  ],
+  "note": ""
+ },
+ "antitrypsin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Antitrypsin is a protein that protects the lungs.",
+   "People with low antitrypsin can get lung disease early.",
+   "The doctor ordered a blood test for antitrypsin.",
+   "Smoking is very harmful if your antitrypsin level is low."
+  ],
+  "note": ""
+ },
+ "azolla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Azolla is a tiny floating fern that grows on ponds.",
+   "Farmers grow azolla in rice fields as a natural fertilizer.",
+   "Azolla can cover a pond in just a few weeks.",
+   "Ducks and chickens can eat azolla as cheap food."
+  ],
+  "note": ""
+ },
+ "disaccharide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dodecyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Sodium dodecyl sulfate is used in many shampoos.",
+   "A dodecyl group has a chain of twelve carbon atoms.",
+   "The label lists a dodecyl compound as the main cleaner.",
+   "In the lab, we used dodecyl sulfate to break open cells."
+  ],
+  "note": ""
+ },
+ "duloxetine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Duloxetine is a medicine for depression and anxiety.",
+   "The doctor prescribed duloxetine for her nerve pain.",
+   "Do not stop taking duloxetine suddenly.",
+   "Duloxetine can make you feel sick for the first few days."
+  ],
+  "note": ""
+ },
+ "galectin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A galectin is a protein that binds to sugars on cells.",
+   "High galectin levels may be a sign of heart problems.",
+   "The study tested a drug that blocks galectin in tumors.",
+   "Scientists think each galectin plays a role in inflammation."
+  ],
+  "note": ""
+ },
+ "hyperuricemia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Hyperuricemia means there is too much uric acid in the blood.",
+   "Hyperuricemia can lead to gout and kidney stones.",
+   "Eating less red meat may help with hyperuricemia.",
+   "The blood test showed mild hyperuricemia."
+  ],
+  "note": ""
+ },
+ "lectotype": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A lectotype is a specimen chosen later as the standard for a species.",
+   "The scientist selected a lectotype from the old museum collection.",
+   "The lectotype is kept safe in a museum drawer.",
+   "The paper describes the lectotype of this rare beetle."
+  ],
+  "note": ""
+ },
+ "mineralocorticoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "psilocybe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "subforum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Post your question in the beginner subforum.",
+   "Each subforum covers one topic, like news or help.",
+   "The moderator moved my thread to another subforum.",
+   "Is there a subforum for selling used gear?"
+  ],
+  "note": ""
+ },
+ "trimethylsilyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "limonene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Limonene gives oranges and lemons their fresh smell.",
+   "Many cleaning sprays use limonene from citrus peel.",
+   "Limonene can irritate sensitive skin.",
+   "The perfume label lists limonene as an ingredient."
+  ],
+  "note": ""
+ },
+ "machinima": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "async": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "technical"
+  ],
+  "ns": true,
+  "note": "Informal short form of \"asynchronous\"."
+ },
+ "maknae": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "The maknae is the youngest member of a K-pop group.",
+   "Fans love the maknae because she is so funny.",
+   "As the maknae, he often gets teased by older members.",
+   "Who is the maknae in this band?"
+  ],
+  "note": ""
+ },
+ "asado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "visualizer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "phalangist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A Phalangist was a member of a right-wing party in Lebanon or Spain.",
+   "The Phalangist militia fought in the civil war.",
+   "His father was a Phalangist in the 1970s.",
+   "The documentary interviews a former Phalangist fighter."
+  ],
+  "note": ""
+ },
+ "botrytis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "texel": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also the name of a Dutch island and a breed of sheep."
+ },
+ "osmanthus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Osmanthus is a shrub with small flowers that smell like apricots.",
+   "We drank osmanthus tea at a Chinese restaurant.",
+   "The park smells sweet when the osmanthus blooms in the fall.",
+   "This perfume has a light note of osmanthus."
+  ],
+  "note": ""
+ },
+ "collaborationist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "enterovirus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "campylobacter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kepi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "telson": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The telson is the last part of the body of a shrimp or lobster.",
+   "A scorpion's sting is on its telson.",
+   "The shrimp uses its telson to swim backward quickly.",
+   "Our biology teacher pointed to the telson on the crayfish."
+  ],
+  "note": ""
+ },
+ "kwanza": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Not the same as \"Kwanzaa\", a holiday in the US."
+ },
+ "anticyclone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tandoor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A tandoor is a clay oven used in Indian and Central Asian cooking.",
+   "The bread is baked on the hot wall of the tandoor.",
+   "The restaurant cooks chicken in a real tandoor.",
+   "Can we see the tandoor in the kitchen?"
+  ],
+  "note": ""
+ },
+ "shearling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "carnet": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "duckface": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal."
+ },
+ "diptych": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sambal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hospitaller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "adipocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "buspirone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fancam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "fluticasone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hybridoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A hybridoma is a cell made by joining an immune cell and a cancer cell.",
+   "Scientists use hybridoma cells to make antibodies.",
+   "The lab grows each hybridoma in a special liquid.",
+   "Hybridoma technology helped create many modern medicines."
+  ],
+  "note": ""
+ },
+ "kalanchoe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ketoglutarate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "netiquette": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "subalgebra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A subalgebra is a smaller algebra inside a larger one.",
+   "Prove that this set is a subalgebra.",
+   "The professor gave an example of a subalgebra in class.",
+   "Every subalgebra must be closed under the same operations."
+  ],
+  "note": ""
+ },
+ "websocket": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A websocket keeps an open connection between the browser and the server.",
+   "The chat app uses a websocket to send messages instantly.",
+   "Our websocket closes if the user is offline for too long.",
+   "Can you check why the websocket connection keeps failing?"
+  ],
+  "note": ""
+ },
+ "scramjet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "phentermine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "varroa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "plexi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "The store put a plexi shield in front of the cash register.",
+   "Cut the plexi carefully so it does not crack.",
+   "We covered the photo with a sheet of clear plexi.",
+   "Is this window glass or plexi?"
+  ],
+  "note": ""
+ },
+ "ganoderma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Ganoderma is a shiny mushroom used in Asian medicine.",
+   "My aunt drinks ganoderma tea every morning.",
+   "Ganoderma grows on old trees in wet forests.",
+   "Some coffee drinks are sold with ganoderma powder."
+  ],
+  "note": ""
+ },
+ "okapi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "logout": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Log out\" (two words) is the verb."
+ },
+ "aerostat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "scolex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "structuralism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "paraclete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "literalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "thoron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ }
+}

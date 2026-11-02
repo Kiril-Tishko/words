@@ -1,0 +1,608 @@
+{
+ "crash test": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a crash test · crash tests",
+  "say": "pass a crash test · crash test results",
+  "note": ""
+ },
+ "auto service": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "an auto service · auto services",
+  "say": "at the auto service · an auto service center",
+  "note": "Americans usually say \"auto repair shop\" or \"garage\"."
+ },
+ "audio player": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "an audio player · audio players",
+  "say": "download an audio player · a built-in audio player",
+  "note": ""
+ },
+ "print screen": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a print screen · print screens",
+  "say": "press print screen · take a print screen",
+  "note": "Usually the name of the key; the picture itself is usually called a \"screenshot\"."
+ },
+ "gay pride": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "gay pride · uncountable",
+  "say": "at gay pride · a gay pride march",
+  "note": "Today people often just say \"Pride\"."
+ },
+ "fan fiction": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "fan fiction · uncountable",
+  "say": "write fan fiction · read fan fiction",
+  "ex": [
+   "She writes fan fiction about her favorite TV show.",
+   "I read fan fiction online almost every night.",
+   "Where can I post my fan fiction for free?",
+   "Many popular writers started with fan fiction as teenagers."
+  ],
+  "note": "Also written as one word: \"fanfiction\". Uncountable: some fan fiction."
+ },
+ "internet forum": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet forum · internet forums",
+  "say": "on an internet forum · post on a forum",
+  "note": "People usually just say \"forum\" or \"online forum\"."
+ },
+ "audio file": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "an audio file · audio files",
+  "say": "send an audio file · play an audio file",
+  "note": ""
+ },
+ "audio guide": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "an audio guide · audio guides",
+  "say": "rent an audio guide · listen to the audio guide",
+  "note": ""
+ },
+ "IT specialist": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an IT specialist · IT specialists",
+  "say": "work as an IT specialist · call the IT specialist",
+  "note": ""
+ },
+ "footage": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "footage · uncountable",
+  "say": "security camera footage · footage of the storm",
+  "note": "Uncountable: some footage, a lot of footage (not \"a footage\")."
+ },
+ "invite code": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an invite code · invite codes",
+  "say": "enter an invite code · send an invite code",
+  "note": ""
+ },
+ "streaming service": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a streaming service · streaming services",
+  "say": "on a streaming service · subscribe to a streaming service",
+  "note": ""
+ },
+ "paradise": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a paradise · paradises",
+  "say": "a paradise for surfers · in paradise",
+  "ex": [
+   "This small island is a paradise for divers.",
+   "For little kids, this toy store is paradise.",
+   "Many religions describe paradise as a beautiful garden.",
+   "Is this beach really a paradise, or just good photos?"
+  ],
+  "note": "Also any very beautiful, happy place: \"a paradise for surfers\"."
+ },
+ "nail art": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "nail art · uncountable",
+  "say": "get nail art · do nail art",
+  "note": ""
+ },
+ "dressing": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a dressing · dressings",
+  "say": "salad dressing · dressing on the side",
+  "note": "Most often salad sauce; also a bandage on a wound, and part of \"dressing room\"."
+ },
+ "jazz festival": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a jazz festival · jazz festivals",
+  "say": "at the jazz festival · go to a jazz festival",
+  "note": ""
+ },
+ "photo portrait": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo portrait · photo portraits",
+  "say": "have a photo portrait taken · a family photo portrait",
+  "note": "People usually say \"portrait\" or \"portrait photo\"."
+ },
+ "blonde": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "blonde hair · go blonde",
+  "note": "\"Blond\" is also used, especially for men. \"A blonde\" is a woman with blonde hair."
+ },
+ "creepy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "a creepy guy · look creepy",
+  "note": ""
+ },
+ "versus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "A versus B · price versus quality",
+  "note": "Often written as \"vs.\" in sports."
+ },
+ "internet provider": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet provider · internet providers",
+  "say": "call your internet provider · switch internet providers",
+  "note": "Also called \"internet service provider\" or \"ISP\"."
+ },
+ "life hack": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a life hack · life hacks",
+  "say": "a simple life hack · share a life hack",
+  "ex": [
+   "Here's a simple life hack for packing a small suitcase.",
+   "This life hack saves me time every morning.",
+   "Do you know a good life hack for cleaning windows?",
+   "My favorite kitchen life hack is freezing herbs in oil."
+  ],
+  "note": ""
+ },
+ "sketch show": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a sketch show · sketch shows",
+  "say": "watch a sketch show · on a sketch show",
+  "note": ""
+ },
+ "cheat code": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a cheat code · cheat codes",
+  "say": "use a cheat code · enter a cheat code",
+  "note": ""
+ },
+ "back end": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the back end",
+  "say": "",
+  "ex": [
+   "He works on the back end of our website.",
+   "The back end stores all the user data.",
+   "We need a developer for the back end of the app.",
+   "The app is slow because of back end problems."
+  ],
+  "note": "Also written \"backend\". It can also mean the rear part of something, like a car."
+ },
+ "high life": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "the high life",
+  "say": "",
+  "note": "Usually used with \"the\": \"live the high life\"."
+ },
+ "business case": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a business case · business cases",
+  "say": "",
+  "note": ""
+ },
+ "food show": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a food show · food shows",
+  "say": "",
+  "ex": [
+   "I learned this recipe from a TV food show.",
+   "The food show visits a different restaurant every week.",
+   "He's a judge on a popular food show.",
+   "Is there a good food show on TV tonight?"
+  ],
+  "note": "Americans often say \"cooking show\" for a TV show about making food."
+ },
+ "big data": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "big data · uncountable",
+  "say": "",
+  "note": "Uncountable: \"big data is\", not \"big datas\"."
+ },
+ "center back": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a center back · center backs",
+  "say": "",
+  "note": "British spelling is \"centre back\"; also written \"center-back\"."
+ },
+ "public art": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "public art · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "road show": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a road show · road shows",
+  "say": "",
+  "ex": [
+   "The company is on a road show to meet investors.",
+   "The band's road show comes to our city in June.",
+   "We visited five cities during the road show.",
+   "When does the road show stop in our city?"
+  ],
+  "note": "Also written \"roadshow\"."
+ },
+ "case study": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a case study · case studies",
+  "say": "",
+  "note": ""
+ },
+ "game design": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "game design · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "a la": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "She wore a red dress a la old movie stars.",
+   "We had a picnic a la France, with bread and cheese.",
+   "He decorated his apartment a la the 1970s.",
+   "The café serves breakfast a la Paris, with croissants and coffee."
+  ],
+  "note": "Often written \"à la\"; means \"in the style of\"."
+ },
+ "business club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a business club · business clubs",
+  "say": "",
+  "note": ""
+ },
+ "business interest": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a business interest · business interests",
+  "say": "",
+  "note": "Often plural: \"business interests\"."
+ },
+ "dog show": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a dog show · dog shows",
+  "say": "",
+  "note": ""
+ },
+ "super show": {
+  "v": "not_english",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a super show · super shows",
+  "say": "",
+  "note": "Not a set phrase in English; say \"a big show\" or \"a spectacular show\"."
+ },
+ "community center": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a community center · community centers",
+  "say": "",
+  "note": ""
+ },
+ "data center": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a data center · data centers",
+  "say": "",
+  "note": ""
+ },
+ "self-management": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "self-management · uncountable",
+  "say": "",
+  "ex": [
+   "Good self-management is important when you work from home.",
+   "The training covers time management and self-management skills.",
+   "Self-management helps you meet deadlines without stress.",
+   "How can I improve my self-management at work?"
+  ],
+  "note": ""
+ },
+ "let's player": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a let's player · let's players",
+  "say": "",
+  "note": "Rare; \"gaming YouTuber\" or \"streamer\" is more common."
+ },
+ "light box": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a light box · light boxes",
+  "say": "",
+  "ex": [
+   "She traced the drawing on a light box.",
+   "Our store has a bright light box sign above the door.",
+   "The designer checked the old film on a light box.",
+   "Can we put our menu in a light box?"
+  ],
+  "note": "Also written \"lightbox\"."
+ },
+ "set-top box": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a set-top box · set-top boxes",
+  "say": "",
+  "note": ""
+ },
+ "internet site": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet site · internet sites",
+  "say": "",
+  "note": "\"Website\" is the usual everyday word."
+ },
+ "radio center": {
+  "v": "not_english",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a radio center · radio centers",
+  "say": "",
+  "note": "Not a set phrase in English; say \"radio station\" or \"broadcasting center\"."
+ },
+ "risk management": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "risk management · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "contact center": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a contact center · contact centers",
+  "say": "",
+  "note": "\"Call center\" is also very common."
+ },
+ "smart house": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a smart house · smart houses",
+  "say": "",
+  "note": "\"Smart home\" is the more common phrase."
+ },
+ "body camera": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a body camera · body cameras",
+  "say": "",
+  "note": "Often shortened to \"body cam\"."
+ },
+ "grand final": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a grand final · grand finals",
+  "say": "",
+  "note": "Mostly used in Australia and Europe; Americans often say \"championship game\"."
+ },
+ "photo bank": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo bank · photo banks",
+  "say": "",
+  "note": "\"Stock photo site\" is more common in American English."
+ },
+ "plus-size": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "product management": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "product management · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "gay club": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "a gay club · gay clubs",
+  "say": "",
+  "note": ""
+ },
+ "risk manager": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a risk manager · risk managers",
+  "say": "",
+  "note": ""
+ },
+ "digital art": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "digital art · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "hate speech": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "hate speech · uncountable",
+  "say": "",
+  "note": "Uncountable: \"hate speech is\", not \"a hate speech\"."
+ }
+}

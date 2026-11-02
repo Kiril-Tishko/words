@@ -1,0 +1,1262 @@
+{
+ "marauder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gonzo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal."
+ },
+ "lettering": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: some lettering (not \"a lettering\")."
+ },
+ "sidebar": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "scammer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "remover": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "signora": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Italian word; used for or to an Italian woman."
+ },
+ "greenfield": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": "Often used before a noun: a greenfield site, a greenfield project."
+ },
+ "satoshi": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "The smallest unit of bitcoin. Plural: satoshis."
+ },
+ "decaf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Short for decaffeinated coffee."
+ },
+ "fullback": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The fullback stopped the attack near our goal.",
+   "He plays fullback for the school soccer team.",
+   "Our fullback kicked the ball to the other end.",
+   "The coach moved her from fullback to midfield."
+  ],
+  "note": ""
+ },
+ "blacklist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "facelift": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "note": "Also used for making a building or car look new: \"The old hotel got a facelift.\""
+ },
+ "mimosa": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "note": "Also a drink of orange juice and sparkling wine: \"We had mimosas at brunch.\""
+ },
+ "alpha spectrometer": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "beta spectrometer": {
+  "v": "keep",
+  "pm": 0.03,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pandit": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "magenta": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "billiard club": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cicada": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "extravaganza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "septum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "shimmy": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "note": "Also a verb: \"He shimmied up the tree\" (climbed using quick small moves)."
+ },
+ "sherpa": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Sherpa (capital S) is also the name of a people living in Nepal."
+ },
+ "fandom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "emcee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Same as MC, the person who hosts an event."
+ },
+ "gendarme": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Used for police officers in France and some other countries."
+ },
+ "bestie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; \"best friend\" is more neutral."
+ },
+ "ethylene oxide": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "plug-in": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"plugin\".",
+  "ex": [
+   "Install this plug-in to block ads in your browser.",
+   "The plug-in adds new features to the app.",
+   "My website uses a free plug-in for contact forms.",
+   "Please update the plug-in to fix the problem."
+  ]
+ },
+ "fairway": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "deejay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "note": "Also spelled \"DJ\", which is more common."
+ },
+ "gamma spectrometer": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "steakhouse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "gumbo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "uplink": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "kraken": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bubblegum pop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "tael": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "copier": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "toggle": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "note": "Also a verb: \"toggle between two windows\" means switch between them."
+ },
+ "foxtrot": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": "Also the word for the letter F in the radio alphabet."
+ },
+ "paisa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Plural is \"paise\".",
+  "ex": [
+   "A paisa is one hundredth of an Indian rupee.",
+   "My uncle keeps an old paisa coin from India.",
+   "You cannot buy anything with one paisa today.",
+   "The museum shows a paisa coin from the 1960s."
+  ]
+ },
+ "enchilada": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "downgrade": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": "Also a verb: \"The bank downgraded the company.\""
+ },
+ "multitasking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: a lot of multitasking (not \"a multitasking\")."
+ },
+ "peseta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "layup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "He scored an easy layup in the last second.",
+   "She missed the layup, but her team still won.",
+   "Practice your layups before the basketball game starts.",
+   "The coach taught us how to do a layup."
+  ],
+  "note": ""
+ },
+ "brainstorming": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable; say \"a brainstorming session\"."
+ },
+ "chipotle": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": "A smoked hot pepper; Chipotle is also the name of a restaurant chain."
+ },
+ "americano": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "backpacking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "real-time": {
+  "v": "keep",
+  "pm": 40,
+  "reg": [],
+  "ns": true,
+  "note": "Use the hyphen before a noun (real-time data); say \"in real time\" without it.",
+  "ex": [
+   "The app shows real-time traffic updates for your route.",
+   "You can follow real-time tracking of your order online.",
+   "We need real-time data for this project.",
+   "The game has real-time chat with other players."
+  ]
+ },
+ "teepee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"tepee\" or \"tipi\"."
+ },
+ "fuckup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "vulgar",
+   "slang"
+  ],
+  "ns": true,
+  "note": "Very rude slang; say \"mistake\" or \"mess\" instead."
+ },
+ "biryani": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cation radical": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "jain": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital letter: Jain. Jain is also a common Indian family name."
+ },
+ "polyp": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aftershave": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: some aftershave (not \"an aftershave\")."
+ },
+ "purist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "trachea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Windpipe\" is the everyday word."
+ },
+ "ascendant": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Also \"in the ascendant\" means becoming more powerful."
+ },
+ "coolie": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "offensive",
+   "dated"
+  ],
+  "ns": false,
+  "note": "Now considered offensive; avoid using it about people today."
+ },
+ "paella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "symbiote": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "claret": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "note": "Mainly British; Americans usually say \"red Bordeaux\". Also a dark red color."
+ },
+ "takhi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Also called \"Przewalski's horse\"."
+ },
+ "crepe satin": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "shekel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "forceps": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Used with a plural verb; say \"a pair of forceps\"."
+ },
+ "multiverse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "redox potential": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pas de trois": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nawab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "fuchsia": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"fuchsia\" is a bright pink-purple color: \"a fuchsia dress\"."
+ },
+ "bandy": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Also an adjective: \"bandy legs\" are legs that curve out at the knees."
+ },
+ "aficionado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sniffer": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Often \"sniffer dog\": a dog that finds drugs or bombs by smell."
+ },
+ "shapeshifter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "roleplay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Also spelled \"role-play\"."
+ },
+ "preorder": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": "Also a verb: \"I preordered the game.\""
+ },
+ "hetero": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; \"straight\" or \"heterosexual\" is more common."
+ },
+ "downsizing": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Downsizing led to fifty people losing their jobs.",
+   "The company announced more downsizing this year.",
+   "Many workers are worried about the planned downsizing.",
+   "She lost her job during the downsizing last spring."
+  ],
+  "note": ""
+ },
+ "legionnaire": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dreads": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Short for \"dreadlocks\". \"Dreads\" is also a verb form: \"She dreads Mondays.\""
+ },
+ "shiite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Written with a capital letter: Shiite."
+ },
+ "soiree": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Sounds fancy; \"party\" is the everyday word."
+ },
+ "vermouth": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "crit": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Gaming slang for \"critical hit\"."
+ },
+ "orbiter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "despot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "reservist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "eggnog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sayonara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Japanese for \"goodbye\"; used in English in a playful way.",
+  "ex": [
+   "Sayonara, everyone, and see you next week!",
+   "He smiled and said sayonara at the door.",
+   "Sayonara, I am leaving the office now.",
+   "She waved and called out sayonara from the bus."
+  ]
+ },
+ "osmunda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "stalag": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "greenback": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal word for the US dollar."
+ },
+ "butterscotch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "coleslaw": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: some coleslaw (not \"a coleslaw\")."
+ },
+ "mock-up": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "note": "Also spelled \"mockup\".",
+  "ex": [
+   "Can you send me a mock-up of the website?",
+   "The designer made a mock-up of the new app.",
+   "We showed the mock-up to the client yesterday.",
+   "This is just a mock-up, not the final design."
+  ]
+ },
+ "mashup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sketchbook": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "workbook": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "speakeasy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "YOLO": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Short for \"you only live once\"; very informal."
+ },
+ "ultras": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "macaroon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Different from \"macaron\", the colorful French cookie."
+ },
+ "audio codec": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rasta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; the full word is \"Rastafarian\"."
+ },
+ "wombat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "retest": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "fanboy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal and often slightly negative."
+ },
+ "workspace": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "logbook": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "gamma pulsar": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "backflip": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "trawl": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Also a verb: \"trawl through\" means search through a lot of things."
+ },
+ "pastrami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "splitter": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "normie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Internet slang; often slightly mocking."
+ },
+ "rummy": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "off-road": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "kajal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "dominatrix": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Adult term; not for polite conversation."
+ },
+ "photoshoot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "otaku": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Plural is usually \"otaku\"."
+ },
+ "DJing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "transvestite show": {
+  "v": "keep",
+  "pm": 0.01,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "\"Drag show\" is the common and polite term."
+ },
+ "hussar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chinchilla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "backgammon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: play backgammon (not \"a backgammon\")."
+ },
+ "flan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ghee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable: some ghee (not \"a ghee\")."
+ },
+ "jetpack": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "dimmer": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "\"Dimmer\" is also the comparative of \"dim\": \"The light got dimmer.\""
+ },
+ "crouton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "multimillionaire": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tempura": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "linoleum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: some linoleum (not \"a linoleum\")."
+ },
+ "cornflakes": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Always plural."
+ },
+ "erectus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Usually \"Homo erectus\"."
+ },
+ "reverb": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "jpeg": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Usually written JPEG."
+ },
+ "roadmap": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ethernet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually written Ethernet."
+ },
+ "plexus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "georgette": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "whiteboard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "desperado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "webcast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "privateer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "subprime": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "schnitzel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "toolkit": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "note": "Also a set of real tools in a box: \"a bike toolkit\"."
+ },
+ "tallit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "nerf": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Gaming slang. Nerf is also a brand of foam toy guns."
+ },
+ "macaque": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cellophane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable; \"plastic wrap\" is common in the US."
+ },
+ "apropos": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "note": "Formal; usually \"apropos of\". \"About\" is more common.",
+  "ex": [
+   "Apropos of your question, the meeting is on Friday.",
+   "Apropos of the trip, have you booked the hotel?",
+   "Apropos of money, can you pay me back tomorrow?",
+   "Apropos of dinner, I made a table reservation."
+  ]
+ }
+}

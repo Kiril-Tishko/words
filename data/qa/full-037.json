@@ -1,0 +1,649 @@
+{
+ "good": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a good idea · be good at · have a good day",
+  "ex": [
+   "Is this cafe good?",
+   "Have a good day!",
+   "That is a good idea.",
+   "Anna is a good teacher."
+  ],
+  "note": ""
+ },
+ "please": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "Yes, please · please + verb: Please sit down",
+  "note": ""
+ },
+ "nice": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "Nice to meet you · have a nice day",
+  "ex": [
+   "Nice to meet you.",
+   "Have a nice day!",
+   "Is the weather nice today?",
+   "Anna is very nice."
+  ],
+  "note": ""
+ },
+ "fight": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a fight · fights",
+  "say": "watch a fight · win a fight · have a fight",
+  "ex": [
+   "Is the fight on TV today?",
+   "Can we watch the fight?",
+   "Anna wins the fight.",
+   "The big fight is at nine."
+  ],
+  "note": "Often a verb: \"Please don't fight!\""
+ },
+ "stuff": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "stuff · uncountable",
+  "say": "my stuff · a lot of stuff",
+  "note": "Informal and uncountable: say \"a lot of stuff\", not \"stuffs\"."
+ },
+ "cool": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "really cool · That's cool!",
+  "ex": [
+   "Your new phone is cool!",
+   "Is this jacket cool?",
+   "Cool! See you at six.",
+   "Look at this cool car!"
+  ],
+  "note": "Informal word for \"very good\". It can also mean a little cold."
+ },
+ "hair": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "hair · uncountable",
+  "say": "long/short hair · cut your hair · wash your hair",
+  "ex": [
+   "Anna has long hair.",
+   "Can you cut my hair?",
+   "Is my hair OK?",
+   "I wash my hair every day."
+  ],
+  "note": "Uncountable: say \"her hair is long\", not \"her hairs are long\"."
+ },
+ "support": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "support · uncountable",
+  "say": "customer support · contact support",
+  "note": "Most often \"support\" means help: \"Thank you for your support.\""
+ },
+ "request": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "a request · requests",
+  "say": "make a request · send a request · a friend request",
+  "note": ""
+ },
+ "forever": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "last forever · take forever",
+  "ex": [
+   "I will remember this day forever.",
+   "We can't stay here forever.",
+   "Do you want to live here forever?",
+   "Will you love me forever?"
+  ],
+  "note": ""
+ },
+ "bye": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "say bye · bye for now",
+  "note": "Informal. In formal situations, say \"goodbye.\""
+ },
+ "sale": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a sale · sales",
+  "say": "on sale · a big sale · for sale",
+  "note": "Also means selling: \"for sale\" = you can buy it. \"On sale\" = at a lower price."
+ },
+ "item": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an item · items",
+  "say": "an item on the list · items in your cart",
+  "ex": [
+   "How much is this item?",
+   "Each item costs five dollars.",
+   "I have ten items in my cart.",
+   "You can buy new items in the game."
+  ],
+  "note": ""
+ },
+ "dating": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "dating · uncountable",
+  "say": "online dating · a dating app",
+  "ex": [
+   "Online dating is very popular now.",
+   "Do you use a dating app?",
+   "Dating can be hard in a new city.",
+   "He made a profile on a dating site."
+  ],
+  "note": ""
+ },
+ "video player": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a video player · video players",
+  "say": "in the video player",
+  "note": ""
+ },
+ "radio show": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a radio show · radio shows",
+  "say": "listen to a radio show · on a radio show",
+  "ex": [
+   "I listen to a radio show every morning.",
+   "She hosts a music radio show on Fridays.",
+   "What time does the radio show start?",
+   "Can we call the radio show?"
+  ],
+  "note": ""
+ },
+ "fix": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a fix · fixes",
+  "say": "a quick fix · a bug fix",
+  "note": "Most often \"fix\" is a verb, to repair: \"Can you fix my bike?\""
+ },
+ "video file": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a video file · video files",
+  "say": "open a video file · send a video file",
+  "ex": [
+   "The video file is too big to email.",
+   "Save the video file on your computer.",
+   "I can't open this video file on my phone.",
+   "Can you send me the video file?"
+  ],
+  "note": ""
+ },
+ "fail": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "informal",
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a fail · fails",
+  "say": "an epic fail · a total fail",
+  "note": "Most often \"fail\" is a verb: \"I failed the test.\" The noun \"fail\" is internet slang."
+ },
+ "setting": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a setting · settings",
+  "say": "the setting of a story/movie",
+  "ex": [
+   "The setting of the movie is a small town.",
+   "The story has a beautiful village setting.",
+   "What is the setting of this book?",
+   "The game has a dark fantasy setting."
+  ],
+  "note": "Often \"settings\" on a phone: \"Open the settings.\" Also the place where something happens."
+ },
+ "sport club": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a sport club · sport clubs",
+  "say": "join a sport club · go to a sport club",
+  "ex": [
+   "My son goes to a sport club after school.",
+   "Our town has a new sport club.",
+   "Is there a sport club near here?",
+   "The sport club has a big swimming pool."
+  ],
+  "note": "Americans usually say \"sports club.\""
+ },
+ "coffee shop": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": true,
+  "gram": "a coffee shop · coffee shops",
+  "say": "at a coffee shop · meet at the coffee shop",
+  "note": ""
+ },
+ "shopping center": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a shopping center · shopping centers",
+  "say": "at the shopping center · go to the shopping center",
+  "ex": [
+   "We went to the shopping center on Saturday.",
+   "The shopping center opens at nine.",
+   "There is a movie theater in the shopping center.",
+   "Is the shopping center far from here?"
+  ],
+  "note": "Americans often say \"mall.\""
+ },
+ "squad": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a squad · squads",
+  "say": "join a squad · in our squad",
+  "note": "Also a group of soldiers or police: \"a police squad.\" Informally, your group of friends."
+ },
+ "video chat": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a video chat · video chats",
+  "say": "have a video chat · video chat with",
+  "note": ""
+ },
+ "mood": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a mood · moods",
+  "say": "in a good/bad mood · in the mood for",
+  "ex": [
+   "I'm in a good mood today.",
+   "He is in a bad mood this morning.",
+   "Music always changes my mood.",
+   "Are you in the mood for pizza?"
+  ],
+  "note": ""
+ },
+ "invite": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "an invite · invites",
+  "say": "get an invite · send an invite",
+  "note": "Most often \"invite\" is a verb: \"Can I invite Anna to the party?\" The noun is informal."
+ },
+ "fighter": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a fighter · fighters",
+  "say": "a professional fighter · a fighter jet",
+  "ex": [
+   "He is a professional fighter.",
+   "The two fighters shook hands before the match.",
+   "Is your brother a good fighter?",
+   "The young fighter won his first fight."
+  ],
+  "note": "Can also mean a military plane, \"a fighter jet,\" or a soldier."
+ },
+ "alert": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "an alert · alerts",
+  "say": "get an alert · a weather alert",
+  "note": "Often an adjective: \"Stay alert\" means watch carefully."
+ },
+ "love story": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a love story · love stories",
+  "say": "a love story about",
+  "note": ""
+ },
+ "fire show": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a fire show · fire shows",
+  "say": "watch a fire show",
+  "note": ""
+ },
+ "fact-check": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a fact-check · fact-checks",
+  "say": "do a fact-check · run a fact-check",
+  "note": ""
+ },
+ "R&B": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "R&B · uncountable",
+  "say": "listen to R&B · an R&B singer",
+  "note": ""
+ },
+ "food market": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a food market · food markets",
+  "say": "at the food market",
+  "note": ""
+ },
+ "side project": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a side project · side projects",
+  "say": "work on a side project",
+  "note": ""
+ },
+ "service center": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a service center · service centers",
+  "say": "take it to a service center",
+  "note": ""
+ },
+ "extra time": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "extra time · uncountable",
+  "say": "go into extra time · in extra time",
+  "note": "In soccer, mostly British; Americans say \"overtime\". Also just \"more time\": \"I need extra time.\""
+ },
+ "sold out": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "be sold out · a sold-out show",
+  "note": "Before a noun, use a hyphen: \"a sold-out show\"."
+ },
+ "travel show": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a travel show · travel shows",
+  "say": "watch a travel show · host a travel show",
+  "note": ""
+ },
+ "life coach": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a life coach · life coaches",
+  "say": "see a life coach · work with a life coach",
+  "note": ""
+ },
+ "street style": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "street style · uncountable",
+  "say": "street style photos",
+  "note": ""
+ },
+ "video content": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "video content · uncountable",
+  "say": "create video content",
+  "note": "Usually uncountable: \"more video content\", not \"video contents\"."
+ },
+ "green card": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a green card · green cards",
+  "say": "get a green card · apply for a green card",
+  "note": ""
+ },
+ "high score": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a high score · high scores",
+  "say": "beat your high score · get a high score",
+  "note": ""
+ },
+ "street dance": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "street dance · uncountable",
+  "say": "take street dance classes",
+  "note": ""
+ },
+ "photo club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo club · photo clubs",
+  "say": "join a photo club",
+  "note": ""
+ },
+ "business partner": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": false,
+  "gram": "a business partner · business partners",
+  "say": "find a business partner",
+  "ex": [
+   "My business partner and I opened a cafe together.",
+   "Choose your business partner very carefully.",
+   "I'm meeting a new business partner for lunch today.",
+   "Is your business partner also your friend?"
+  ],
+  "note": ""
+ },
+ "video interview": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a video interview · video interviews",
+  "say": "have a video interview",
+  "note": ""
+ },
+ "boy band": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a boy band · boy bands",
+  "say": "be in a boy band",
+  "note": ""
+ },
+ "food blog": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a food blog · food blogs",
+  "say": "write a food blog · on a food blog",
+  "note": ""
+ },
+ "radio interview": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a radio interview · radio interviews",
+  "say": "give a radio interview",
+  "note": ""
+ },
+ "talent show": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a talent show · talent shows",
+  "say": "at the talent show · win a talent show",
+  "note": ""
+ },
+ "tour agent": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a tour agent · tour agents",
+  "say": "ask a tour agent",
+  "note": "\"Travel agent\" is the more common word."
+ },
+ "fake news": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "fake news · uncountable",
+  "say": "spread fake news · spot fake news",
+  "note": "Uncountable: \"a piece of fake news\", not \"a fake news\"."
+ },
+ "travel blog": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a travel blog · travel blogs",
+  "say": "write a travel blog · read a travel blog",
+  "note": ""
+ },
+ "live chat": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a live chat · live chats",
+  "say": "use live chat · on live chat",
+  "note": ""
+ },
+ "red flag": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "a red flag · red flags",
+  "say": "a big red flag · ignore the red flags",
+  "note": ""
+ },
+ "info center": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an info center · info centers",
+  "say": "at the info center",
+  "note": "\"Information center\" is the full and more formal form."
+ },
+ "radio signal": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a radio signal · radio signals",
+  "say": "send a radio signal · lose the radio signal",
+  "note": ""
+ },
+ "golf club": {
+  "v": "keep",
+  "pm": 2.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a golf club · golf clubs",
+  "say": "join a golf club",
+  "note": "Can also mean the stick used to hit the ball."
+ }
+}

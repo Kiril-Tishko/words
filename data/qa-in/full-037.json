@@ -1,0 +1,962 @@
+[
+{
+"en": "good",
+"uk": "гуд",
+"pos": "adj",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 73,
+"meaning_hint": "",
+"examples": [
+"This is a good restaurant.",
+"Have a good day!",
+"The food here is good.",
+"She is a good teacher."
+],
+"note": ""
+},
+{
+"en": "please",
+"uk": "пліз",
+"pos": "adv",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 139,
+"meaning_hint": "",
+"examples": [
+"Call a taxi, please.",
+"A cup of coffee, please.",
+"Please close the door.",
+"Can you help me, please?"
+],
+"note": ""
+},
+{
+"en": "nice",
+"uk": "найс",
+"pos": "adj",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 257,
+"meaning_hint": "",
+"examples": [
+"Nice to meet you.",
+"You have a nice home.",
+"The weather is nice today.",
+"He is a nice man."
+],
+"note": ""
+},
+{
+"en": "fight",
+"uk": "файт",
+"pos": "noun",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 384,
+"meaning_hint": "",
+"examples": [
+"The fight is on TV tonight.",
+"We can watch the fight at home.",
+"He wins the fight.",
+"The big fight starts at nine."
+],
+"note": ""
+},
+{
+"en": "stuff",
+"uk": "стаф",
+"pos": "noun",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 457,
+"meaning_hint": "",
+"examples": [
+"Put your stuff in the car.",
+"I have a lot of stuff.",
+"Where is my stuff?",
+"This stuff is very good."
+],
+"note": "Informal and uncountable: say \"a lot of stuff\", not \"stuffs\"."
+},
+{
+"en": "cool",
+"uk": "кул",
+"pos": "adj",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 501,
+"meaning_hint": "",
+"examples": [
+"Your new phone is cool.",
+"That is a cool jacket.",
+"Cool, see you at six!",
+"My brother is really cool."
+],
+"note": "Informal word for \"very good\". It can also mean a little cold."
+},
+{
+"en": "hair",
+"uk": "хаєр",
+"pos": "noun",
+"band": "top-1000",
+"share": 100.0,
+"raw_rank": 601,
+"meaning_hint": "",
+"examples": [
+"She has long hair.",
+"I wash my hair every day.",
+"His hair is black.",
+"My hair is too short."
+],
+"note": "Uncountable: say \"her hair is long\", not \"her hairs are long\"."
+},
+{
+"en": "support",
+"uk": "саппорт",
+"pos": "noun",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 531,
+"meaning_hint": "",
+"examples": [
+"I called customer support about my phone.",
+"Please contact our support team by email.",
+"Technical support is open from nine to five.",
+"The support staff helped me fix my account."
+],
+"note": ""
+},
+{
+"en": "request",
+"uk": "реквест",
+"pos": "noun",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1123,
+"meaning_hint": "",
+"examples": [
+"I sent a friend request to my classmate.",
+"The server did not answer my request.",
+"Please send your request by email.",
+"We got many requests for help today."
+],
+"note": ""
+},
+{
+"en": "forever",
+"uk": "форева",
+"pos": "adv",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1129,
+"meaning_hint": "",
+"examples": [
+"I will remember this day forever.",
+"The line at the bank took forever.",
+"We can't stay here forever.",
+"This page takes forever to load."
+],
+"note": ""
+},
+{
+"en": "bye",
+"uk": "бай",
+"pos": "interj",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1180,
+"meaning_hint": "",
+"examples": [
+"Bye, see you tomorrow!",
+"She said bye and closed the door.",
+"Bye for now, talk to you later.",
+"Say bye to your grandma, kids."
+],
+"note": "Informal. In formal situations, say \"goodbye.\""
+},
+{
+"en": "sale",
+"uk": "сейл",
+"pos": "noun",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1589,
+"meaning_hint": "",
+"examples": [
+"These shoes were on sale for half price.",
+"The store has a big sale this weekend.",
+"I bought this jacket at a sale.",
+"Is this TV still on sale?"
+],
+"note": ""
+},
+{
+"en": "item",
+"uk": "айтем",
+"pos": "noun",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1664,
+"meaning_hint": "",
+"examples": [
+"You can buy new items in the game shop.",
+"I found a rare item in the cave.",
+"Drop the old items to free up space.",
+"This item makes your character stronger."
+],
+"note": ""
+},
+{
+"en": "dating",
+"uk": "дейтинг",
+"pos": "noun",
+"band": "top-2000",
+"share": 100.0,
+"raw_rank": 1825,
+"meaning_hint": "",
+"examples": [
+"Online dating is very popular now.",
+"She deleted her dating app last week.",
+"Dating can be hard in a new city.",
+"He wrote a short profile for a dating site."
+],
+"note": ""
+},
+{
+"en": "video player",
+"uk": "відеоплеєр",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 830,
+"meaning_hint": "",
+"examples": [
+"The video player on this site is slow.",
+"Click the play button on the video player.",
+"My video player can't open this file.",
+"Download a free video player for your laptop."
+],
+"note": ""
+},
+{
+"en": "radio show",
+"uk": "радіошоу",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 952,
+"meaning_hint": "",
+"examples": [
+"I listen to a radio show every morning.",
+"She hosts a music radio show on Fridays.",
+"We called the radio show to ask a question.",
+"The radio show starts at eight o'clock."
+],
+"note": ""
+},
+{
+"en": "fix",
+"uk": "фікс",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1144,
+"meaning_hint": "",
+"examples": [
+"The developers released a quick fix for the bug.",
+"This update has many small fixes.",
+"Is there an easy fix for this error?",
+"The fix will be ready next week."
+],
+"note": ""
+},
+{
+"en": "video file",
+"uk": "відеофайл",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1655,
+"meaning_hint": "",
+"examples": [
+"The video file is too big to email.",
+"Save the video file on your computer.",
+"I can't open this video file on my phone.",
+"Please send me the video file by link."
+],
+"note": ""
+},
+{
+"en": "fail",
+"uk": "фейл",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1726,
+"meaning_hint": "",
+"examples": [
+"That joke was a total fail.",
+"My cake was an epic fail today.",
+"Watch this funny video of fails.",
+"The new update is a big fail."
+],
+"note": "Informal noun, mostly online. In normal speech, say \"failure\" or \"mistake.\""
+},
+{
+"en": "setting",
+"uk": "сетинг",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1788,
+"meaning_hint": "",
+"examples": [
+"The setting of the movie is New York.",
+"The story has a beautiful village setting.",
+"I love the setting of this book.",
+"The play has a simple setting in a kitchen."
+],
+"note": ""
+},
+{
+"en": "sport club",
+"uk": "спортклуб",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1853,
+"meaning_hint": "",
+"examples": [
+"My son goes to a sport club after school.",
+"Our town has a new sport club.",
+"I joined a sport club near my house.",
+"The sport club has a big swimming pool."
+],
+"note": "Americans usually say \"sports club.\""
+},
+{
+"en": "coffee shop",
+"uk": "кофі-шоп",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1978,
+"meaning_hint": "",
+"examples": [
+"Let's meet at the coffee shop at ten.",
+"I work at a small coffee shop downtown.",
+"The coffee shop has free Wi-Fi.",
+"Is there a coffee shop near here?"
+],
+"note": ""
+},
+{
+"en": "shopping center",
+"uk": "шопінг-центр",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 1997,
+"meaning_hint": "",
+"examples": [
+"We went to the shopping center on Saturday.",
+"The shopping center opens at nine.",
+"There is a cinema in the shopping center.",
+"Park the car near the shopping center."
+],
+"note": "Americans often say \"mall.\""
+},
+{
+"en": "squad",
+"uk": "сквад",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2050,
+"meaning_hint": "",
+"examples": [
+"Join my squad for the next game.",
+"Our squad won three matches today.",
+"The whole squad needs to work together.",
+"We need one more player in our squad."
+],
+"note": ""
+},
+{
+"en": "video chat",
+"uk": "відеочат",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2175,
+"meaning_hint": "",
+"examples": [
+"I have a video chat with my parents tonight.",
+"Let's have a quick video chat at noon.",
+"The video chat stopped because of bad internet.",
+"We use video chat for work meetings."
+],
+"note": ""
+},
+{
+"en": "mood",
+"uk": "муд",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2178,
+"meaning_hint": "",
+"examples": [
+"I'm in a good mood today.",
+"He is in a bad mood this morning.",
+"Music always changes my mood.",
+"I'm not in the mood for pizza."
+],
+"note": ""
+},
+{
+"en": "invite",
+"uk": "інвайт",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2366,
+"meaning_hint": "",
+"examples": [
+"Thanks for the invite to your party!",
+"Did you get my invite by email?",
+"I sent her an invite to the game.",
+"We got an invite to their wedding."
+],
+"note": "Informal noun. In formal writing, use \"invitation.\""
+},
+{
+"en": "fighter",
+"uk": "файтер",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2416,
+"meaning_hint": "",
+"examples": [
+"He is a professional fighter.",
+"The two fighters shook hands before the match.",
+"She trains every day to be a fighter.",
+"The young fighter won his first fight."
+],
+"note": ""
+},
+{
+"en": "alert",
+"uk": "алерт",
+"pos": "noun",
+"band": "top-3000",
+"share": 100.0,
+"raw_rank": 2747,
+"meaning_hint": "",
+"examples": [
+"My phone shows an alert for every email.",
+"I got a weather alert this morning.",
+"Turn off the alerts in the settings.",
+"The bank sent me a security alert."
+],
+"note": ""
+},
+{
+"en": "love story",
+"uk": "лав-сторі",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 446,
+"meaning_hint": "",
+"examples": [
+"Their love story started at a small coffee shop.",
+"I don't usually watch movies with a love story.",
+"My grandparents have a beautiful love story from college.",
+"The book is a sad love story set in Paris."
+],
+"note": ""
+},
+{
+"en": "fire show",
+"uk": "фаєр-шоу",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 579,
+"meaning_hint": "",
+"examples": [
+"We watched an amazing fire show on the beach.",
+"The fire show starts at nine near the stage.",
+"Kids must stand behind the line during the fire show.",
+"They hired a fire show for their wedding party."
+],
+"note": ""
+},
+{
+"en": "fact-check",
+"uk": "фактчек",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 711,
+"meaning_hint": "",
+"examples": [
+"Our editor does a fact-check on every article.",
+"The fact-check showed the numbers in the post were wrong.",
+"Please run a quick fact-check before we publish this.",
+"A good fact-check can take a few hours."
+],
+"note": ""
+},
+{
+"en": "R&B",
+"uk": "ар-н-бі",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 723,
+"meaning_hint": "",
+"examples": [
+"She listens to R&B on her way to work.",
+"This radio station plays R&B all night long.",
+"His new album mixes pop and R&B.",
+"I grew up listening to classic R&B songs."
+],
+"note": ""
+},
+{
+"en": "food market",
+"uk": "фудмаркет",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 733,
+"meaning_hint": "",
+"examples": [
+"Let's grab lunch at the food market downtown.",
+"The food market is open every Saturday morning.",
+"You can try dishes from ten countries at this food market.",
+"I bought fresh bread and cheese at the food market."
+],
+"note": ""
+},
+{
+"en": "side project",
+"uk": "сайд-проєкт",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 739,
+"meaning_hint": "",
+"examples": [
+"I'm building a small app as a side project.",
+"Her side project slowly turned into a real business.",
+"Do you have time for a side project this month?",
+"Many developers work on side projects on weekends."
+],
+"note": ""
+},
+{
+"en": "service center",
+"uk": "сервіс-центр",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 793,
+"meaning_hint": "",
+"examples": [
+"Take your phone to the nearest service center.",
+"The service center said the repair takes three days.",
+"Call the service center to book an appointment.",
+"Our laptop is still at the service center."
+],
+"note": ""
+},
+{
+"en": "extra time",
+"uk": "екстра-тайм",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 893,
+"meaning_hint": "",
+"examples": [
+"The game went into extra time after a 1-1 draw.",
+"They scored the winning goal in extra time.",
+"Both teams looked tired during extra time.",
+"If it's still tied, they'll play thirty minutes of extra time."
+],
+"note": "Mostly British, for soccer; Americans usually say \"overtime\"."
+},
+{
+"en": "sold out",
+"uk": "солдаут",
+"pos": "adj",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 903,
+"meaning_hint": "",
+"examples": [
+"Sorry, tonight's concert is completely sold out.",
+"The tickets were sold out in ten minutes.",
+"We played to a sold-out crowd last night.",
+"Check online first, because the show may be sold out."
+],
+"note": "Before a noun, use a hyphen: \"a sold-out show\"."
+},
+{
+"en": "travel show",
+"uk": "тревел-шоу",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 964,
+"meaning_hint": "",
+"examples": [
+"My parents watch a travel show every Sunday evening.",
+"She hosts a travel show about cheap trips in Asia.",
+"I found this hotel on a travel show.",
+"The travel show visited our town last summer."
+],
+"note": ""
+},
+{
+"en": "life coach",
+"uk": "лайф-коуч",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 978,
+"meaning_hint": "",
+"examples": [
+"She works as a life coach for young professionals.",
+"My life coach helped me set clear goals.",
+"How much does a life coach usually charge per session?",
+"He decided to see a life coach after losing his job."
+],
+"note": ""
+},
+{
+"en": "street style",
+"uk": "стріт-стайл",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1038,
+"meaning_hint": "",
+"examples": [
+"I love taking photos of street style in big cities.",
+"Her blog is all about street style and cheap outfits.",
+"Street style in New York is very bold.",
+"This jacket is perfect for a casual street style look."
+],
+"note": ""
+},
+{
+"en": "video content",
+"uk": "відеоконтент",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1110,
+"meaning_hint": "",
+"examples": [
+"Our company needs more video content for social media.",
+"Short video content gets the most views online.",
+"He creates video content for small businesses.",
+"We're planning video content for the next three months."
+],
+"note": "Usually uncountable: \"more video content\", not \"video contents\"."
+},
+{
+"en": "green card",
+"uk": "грін-кард",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1305,
+"meaning_hint": "",
+"examples": [
+"She finally got her green card after five years.",
+"You need a green card to work here legally.",
+"How long does it take to get a green card?",
+"He applied for a green card through his employer."
+],
+"note": ""
+},
+{
+"en": "high score",
+"uk": "хайскор",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1308,
+"meaning_hint": "",
+"examples": [
+"I finally beat my own high score last night.",
+"My son keeps trying to get a new high score.",
+"Your name will appear on the high score list.",
+"Who has the high score in this game?"
+],
+"note": ""
+},
+{
+"en": "street dance",
+"uk": "стріт-денс",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1347,
+"meaning_hint": "",
+"examples": [
+"My daughter takes street dance classes after school.",
+"The street dance group performed in the city square.",
+"Street dance is great exercise and lots of fun.",
+"There's a street dance competition at the mall on Saturday."
+],
+"note": ""
+},
+{
+"en": "photo club",
+"uk": "фотоклуб",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1349,
+"meaning_hint": "",
+"examples": [
+"I joined a photo club to improve my pictures.",
+"Our photo club meets every Tuesday evening.",
+"The photo club is organizing a walk around the old town.",
+"She showed her best photos at the photo club."
+],
+"note": ""
+},
+{
+"en": "business partner",
+"uk": "бізнес-партнер",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1362,
+"meaning_hint": "",
+"examples": [
+"My business partner and I opened a cafe together.",
+"Choose your business partner very carefully.",
+"I'm meeting a new business partner for lunch today.",
+"He bought out his business partner last year."
+],
+"note": ""
+},
+{
+"en": "video interview",
+"uk": "відеоінтерв'ю",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1386,
+"meaning_hint": "",
+"examples": [
+"My first job interview was a video interview.",
+"Please test your camera before the video interview.",
+"The video interview is scheduled for 10 a.m. tomorrow.",
+"Dress professionally, even for a video interview at home."
+],
+"note": ""
+},
+{
+"en": "boy band",
+"uk": "бой-бенд",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1478,
+"meaning_hint": "",
+"examples": [
+"My sister was crazy about a boy band in high school.",
+"The boy band is going on a world tour.",
+"Every member of the boy band can sing and dance.",
+"That song sounds like an old boy band hit."
+],
+"note": ""
+},
+{
+"en": "food blog",
+"uk": "фуд-блог",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1713,
+"meaning_hint": "",
+"examples": [
+"I found this pasta recipe on a food blog.",
+"She started a food blog about cheap family meals.",
+"His food blog has thousands of readers.",
+"I write a food blog about local restaurants."
+],
+"note": ""
+},
+{
+"en": "radio interview",
+"uk": "радіоінтерв'ю",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1771,
+"meaning_hint": "",
+"examples": [
+"The mayor gave a radio interview this morning.",
+"I was nervous before my first radio interview.",
+"You can listen to the full radio interview online.",
+"The author talked about her book in a radio interview."
+],
+"note": ""
+},
+{
+"en": "talent show",
+"uk": "талант-шоу",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1855,
+"meaning_hint": "",
+"examples": [
+"Our school talent show is next Friday.",
+"She sang a song at the talent show.",
+"He won first place in a TV talent show.",
+"Are you going to sign up for the talent show?"
+],
+"note": ""
+},
+{
+"en": "tour agent",
+"uk": "турагент",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1910,
+"meaning_hint": "",
+"examples": [
+"Our tour agent booked the hotel and flights.",
+"Ask the tour agent about cheaper dates.",
+"The tour agent met us at the airport.",
+"I called a tour agent to plan our honeymoon."
+],
+"note": "\"Travel agent\" is the more common word."
+},
+{
+"en": "fake news",
+"uk": "фейк-ньюс",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 1932,
+"meaning_hint": "",
+"examples": [
+"Don't share fake news without checking the source.",
+"That story about the bank is fake news.",
+"Fake news spreads very quickly on social media.",
+"Teachers show students how to spot fake news."
+],
+"note": "Uncountable: \"a piece of fake news\", not \"a fake news\"."
+},
+{
+"en": "travel blog",
+"uk": "тревел-блог",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2063,
+"meaning_hint": "",
+"examples": [
+"I read a travel blog before every trip.",
+"She writes a travel blog about Europe on a budget.",
+"This travel blog has great tips for packing light.",
+"He started a travel blog during his year abroad."
+],
+"note": ""
+},
+{
+"en": "live chat",
+"uk": "лайв-чат",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2126,
+"meaning_hint": "",
+"examples": [
+"Click the live chat button for quick help.",
+"I fixed the problem through the bank's live chat.",
+"Our live chat is open from 9 to 5.",
+"The live chat agent answered in two minutes."
+],
+"note": ""
+},
+{
+"en": "red flag",
+"uk": "редфлег",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2197,
+"meaning_hint": "",
+"examples": [
+"Asking for money right away is a big red flag.",
+"Being late to every meeting is a red flag.",
+"I ignored the red flags in that relationship.",
+"Low prices can be a red flag for scams."
+],
+"note": ""
+},
+{
+"en": "info center",
+"uk": "інфоцентр",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2224,
+"meaning_hint": "",
+"examples": [
+"You can get a free map at the info center.",
+"The info center is next to the train station.",
+"Ask at the info center about bus times.",
+"The info center closes at six on weekends."
+],
+"note": "\"Information center\" is the full and more formal form."
+},
+{
+"en": "radio signal",
+"uk": "радіосигнал",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2349,
+"meaning_hint": "",
+"examples": [
+"The radio signal is weak in the mountains.",
+"We lost the radio signal inside the tunnel.",
+"This antenna gives a stronger radio signal.",
+"The ship sent a radio signal for help."
+],
+"note": ""
+},
+{
+"en": "golf club",
+"uk": "гольф-клуб",
+"pos": "noun",
+"band": "top-5000",
+"share": 100.0,
+"raw_rank": 2357,
+"meaning_hint": "",
+"examples": [
+"He joined a golf club near his office.",
+"The golf club has a nice restaurant for members.",
+"Membership at this golf club is very expensive.",
+"We had our company dinner at the golf club."
+],
+"note": "Can also mean the stick used to hit the ball."
+}
+]
