@@ -5,7 +5,7 @@ Flip cards of English words that are the same in Ukrainian (taxi = таксі, c
 Open `index.html` in a browser. It works offline, and it also works on GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-- Choose a level (A0 … C2) to get its cards. **Grid** shows 4 cards per row; **One by one** shows a single card (← → keys, Space flips it).
+- Choose a frequency band (Top 400 … Rare) to get its cards. **Grid** shows 4 cards per row; **One by one** shows a single card (← → keys, Space flips it).
 - Card front: the English word, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 reads the word aloud in the browser's English voice.
 - Click a card to flip it. The back has room for 4 examples and a usage note (to be added later) and shows the word's labels.
 - **+** adds a word to **My words**. These are saved in this browser only.
@@ -36,11 +36,18 @@ No word list comes from memory. Each step is a script or a recorded check.
 ## Status
 10,812 identical words, all checked twice. See `PROGRESS.md`.
 
-## Levels
-- **A0**: Cambridge English Pre A1 Starters word list (`data/levels/pre-a1-starters.json`).
-- **A1–B2**: CEFR-J Vocabulary Profile. **C1–C2**: Octanove Vocabulary Profile (`data/levels/cefr.json`, CC BY-SA 4.0).
-- Levels are matched by part of speech. The second check raises the level when the shared meaning is a narrower sense (e.g. *front* = фронт, the military front).
-- Words in no list get a level from the second check: everyday B1–B2, specialised C1, technical/rare/archaic C2. Rare words in no list go to C2 and are labelled `rare`.
+## Frequency bands (site categories)
+- Each word is labelled by how often it is used in English: its rank among the most used English words. The categories are Top 400, Top 1000, Top 2000, Top 3000, Top 5000, Top 10K, Top 20K, Top 50K, Top 100K and Rare. Cards are sorted from most to least used.
+- Ranks come from `data/levels/en-rank.tsv`, built by `tools/compute_ranks.py`:
+  - source: the wordfreq English frequency list
+  - inflected forms are folded into their base word (computers → computer, went → go)
+  - words Wiktionary knows only as names are removed
+- A word form's frequency counts all its meanings, so a rank may not be more common than the level of the *shared* meaning allows (take = тейк, a film take, is not a top-100 word). Such ranks, and the ranks of phrases and abbreviations, are estimates and are shown as "About top N".
+- The CEFR levels are still kept in `data/words.json` (`level`):
+  - A0: Cambridge Pre A1 Starters
+  - A1–B2: CEFR-J
+  - C1–C2: Octanove
+  - for the shared meaning, set by the second check
 
 ## Labels
 - Usage: `international`, `archaic`, `obsolete`, `dated`, `literary`, `informal`, `slang`, `abbreviation`, `technical`, `rare`.

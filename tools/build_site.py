@@ -19,6 +19,45 @@ import wordfreq
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(REPO, 'data')
 LEVELS = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+# frequency bands shown on the site: rank among the most used English words (data/levels/en-rank.tsv)
+BANDS = [(400, 'top-400'), (1000, 'top-1000'), (2000, 'top-2000'), (3000, 'top-3000'),
+         (5000, 'top-5000'), (10000, 'top-10k'), (20000, 'top-20k'), (50000, 'top-50k'), (100000, 'top-100k')]
+BAND_KEYS = [k for _, k in BANDS] + ['rare']
+
+
+def load_ranks():
+    import bisect
+    rank, neg = {}, []
+    for line in open(f'{D}/levels/en-rank.tsv', encoding='utf-8'):
+        if line.startswith('#'):
+            continue
+        w, f = line.rstrip('\n').split('\t')
+        rank[w] = len(neg) + 1
+        neg.append(-float(f))
+
+    def rank_of(word):
+        """(rank, estimated?) — words outside the list (phrases, rare words) are placed by their own frequency"""
+        e = word.lower()
+        if e in rank:
+            return rank[e], False
+        f = wordfreq.word_frequency(e, 'en', wordlist='large')
+        if f <= 0:
+            return None, True
+        return bisect.bisect_left(neg, -f) + 1, True
+    return rank_of
+
+
+FLOOR_SLACK = {'A0': 1, 'A1': 1, 'A2': 401, 'B1': 1001, 'B2': 2001, 'C1': 3001, 'C2': 5001}
+FLOOR_STRICT = {'A0': 1, 'A1': 1, 'A2': 1001, 'B1': 2001, 'B2': 3001, 'C1': 5001, 'C2': 10001}
+
+
+def band_of(r):
+    if r is None:
+        return 'rare'
+    for edge, key in BANDS:
+        if r <= edge:
+            return key
+    return 'rare'
 OTHER_LANGS = ['de', 'fr', 'es', 'it', 'pt', 'nl', 'sv', 'pl', 'cs']
 USAGE = {'archaic', 'obsolete', 'dated', 'literary', 'informal', 'slang', 'abbreviation', 'technical', 'rare', 'international'}
 
@@ -125,6 +164,7 @@ def verdict(r):
 def main():
     starters = json.load(open(f'{D}/levels/pre-a1-starters.json', encoding='utf-8'))
     cefr = json.load(open(f'{D}/levels/cefr.json', encoding='utf-8'))
+    rank_of = load_ranks()
     first, cross, gap = load_checked()
 
     buckets = defaultdict(dict)  # verdict -> key -> record
@@ -187,7 +227,10 @@ def main():
         w['list_level'] = None if w['en'].isupper() else list_level(e, w['pos'], starters, cefr)
         lv = w.pop('lvl', None)
         w['level'] = lv if lv in LEVELS else (w['list_level'] or 'C2')
-        if not w['list_level'] and z < 3.0:
+        w['rank'], w['rank_est'] = rank_of(w['en'])
+        if w['en'].isupper() and len(w['en']) > 1:
+            w['rank_est'] = True   # abbreviations collide with lowercase words (IT vs it)
+        if w['rank'] is None or w['rank'] > 50000:
             w['labels'] = sorted(set(w['labels']) | {'rare'})
         # international: same spelling exists in most major European languages
         base = strip_accents(e)
@@ -203,10 +246,24 @@ def main():
 
     for w in final:
         w['labels'] = norm_labels(w['labels'])
+        # A word form's frequency counts all its meanings (take = тейк is not a top-100 word, "are" the unit
+        # is not the verb). The second check set a level for the SHARED meaning, so the rank may not be more
+        # common than that level allows. Phrases, abbreviations and big gaps get the stricter floor.
+        raw = w['rank']
+        w['rank_raw'] = raw
+        if raw:
+            lv = w['level']
+            strict = w['rank_est'] or raw * 5 < FLOOR_SLACK.get(lv, 1)
+            floor = (FLOOR_STRICT if strict else FLOOR_SLACK).get(lv, 1)
+            if raw < floor:
+                w['rank'] = floor
+                w['rank_est'] = True
+        w['band'] = band_of(w['rank'])
     # within a level: standard words first, then slang/archaic/rare-in-Ukrainian ones; then most common first
     def odd(w):
         return bool(set(w['labels']) & NONSTANDARD) or ('rare' in w['labels'] and w['level'] != 'C2')
-    final.sort(key=lambda w: (LEVELS.index(w['level']) if w['level'] in LEVELS else 9, odd(w), -w['zipf'], w['en'].lower()))
+    # sorted by how often the English word is used (most used first)
+    final.sort(key=lambda w: (w['rank'] is None, w['rank'] or 0, w['rank_raw'] or 0, -w['zipf'], w['en'].lower()))
     json.dump(final, open(f'{D}/words.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     for name, v in (('similar', 'similar'), ('false_friends', 'false_friend'), ('partial_false_friends', 'partial_false_friend')):
         rows = sorted(buckets[v].values(), key=lambda w: w['en'].lower())
@@ -219,7 +276,11 @@ def main():
     for w in final:
         tags = [l for l in w['labels'] if l in USAGE]
         topics = [l for l in w['labels'] if l not in USAGE]
-        rec = {'en': w['en'], 'uk': w['uk'], 'level': w['level']}
+        rec = {'en': w['en'], 'uk': w['uk'], 'band': w['band']}
+        if w['rank']:
+            rec['rank'] = w['rank']
+            if w['rank_est']:
+                rec['approx'] = True
         if w['pos']:
             rec['pos'] = w['pos']
         if tags:
@@ -244,7 +305,8 @@ def main():
 
     counts = defaultdict(int)
     for w in final:
-        counts[w['level']] += 1
+        counts[w['band']] += 1
+    counts = {k: counts[k] for k in BAND_KEYS}
     print('identical', len(final), dict(sorted(counts.items())), '| similar', len(buckets['similar']),
           '| false friends', len(buckets['false_friend']), '| partial', len(buckets['partial_false_friend']))
 

@@ -2,7 +2,8 @@
 
 ## Done: identical words (first set)
 - **10,812 identical words**, every one checked twice. Saved in `data/words.json` and shown on the site via `words.js`.
-- By level: A0 43 · A1 88 · A2 137 · B1 380 · B2 1,073 · C1 1,568 · C2 7,523. Most C2 words are rare or technical, labelled `rare`/`technical`.
+- By frequency band: Top 400 15 · Top 1000 75 · Top 2000 115 · Top 3000 186 · Top 5000 355 · Top 10K 785 · Top 20K 1,225 · Top 50K 2,305 · Top 100K 1,817 · Rare 3,934.
+- The site uses frequency bands instead of A0–C2 (see README). CEFR levels are still kept in `data/words.json`.
 - Saved for later sets: `data/similar.json` (2,946), `data/false_friends.json` (350), `data/partial_false_friends.json` (842).
 
 ## How it was checked

@@ -40,7 +40,8 @@ def main():
             m = FORM.search((g or '').lower())
             if m and m.group(1) != w:
                 targets.append(m.group(1))
-            elif not set(tags) & {'obsolete', 'archaic', 'rare', 'dated', 'historical'}:
+            elif d.get('w') == w and not set(tags) & {'obsolete', 'archaic', 'rare', 'dated', 'historical'}:
+                # only lowercase entries count (capitalized ones like "Went" are names/titles)
                 has_lemma_sense.add(w)   # a living sense of its own: keep the word as a separate lemma
         if targets and w not in lemma_of:
             lemma_of[w] = targets[0]
