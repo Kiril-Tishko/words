@@ -1,0 +1,931 @@
+[
+ {
+  "en": "seamus",
+  "uk": "шеймус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "secularism",
+  "uk": "секуляризм",
+  "v": "identical",
+  "ce": "secularism",
+  "cu": "секуляризм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "separatists",
+  "uk": "сепаратисти",
+  "v": "not_lemma",
+  "ce": "separatist",
+  "cu": "сепаратист",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "сепаратисти is the plural"
+ },
+ {
+  "en": "siegfried",
+  "uk": "зігфрід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "simeon",
+  "uk": "симеон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "snooker",
+  "uk": "снукер",
+  "v": "identical",
+  "ce": "snooker",
+  "cu": "снукер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sui",
+  "uk": "суй",
+  "v": "unrelated"
+ },
+ {
+  "en": "sumatra",
+  "uk": "суматра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tas",
+  "uk": "тас",
+  "v": "unrelated"
+ },
+ {
+  "en": "tensor",
+  "uk": "тензор",
+  "v": "identical",
+  "ce": "tensor",
+  "cu": "тензор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "math"
+  ],
+  "note": "Mainly the math/physics term; the muscle is called м'яз-натягувач."
+ },
+ {
+  "en": "tian",
+  "uk": "тянь",
+  "v": "unrelated"
+ },
+ {
+  "en": "tijuana",
+  "uk": "тіхуана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tomography",
+  "uk": "томографія",
+  "v": "similar",
+  "ce": "tomography",
+  "cu": "томографія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "toulon",
+  "uk": "тулон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yangon",
+  "uk": "янгон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yanks",
+  "uk": "янки",
+  "v": "not_lemma",
+  "ce": "Yank",
+  "cu": "янкі",
+  "lv": "similar",
+  "note": "Yank is short for Yankee (= янкі); янки is the Russian-style spelling"
+ },
+ {
+  "en": "yanks",
+  "uk": "янкі",
+  "v": "not_lemma",
+  "ce": "Yank",
+  "cu": "янкі",
+  "lv": "similar",
+  "note": "Yank is short for Yankee (= янкі)"
+ },
+ {
+  "en": "yugoslav",
+  "uk": "югослав",
+  "v": "proper_noun"
+ },
+ {
+  "en": "agnostic",
+  "uk": "агностик",
+  "v": "identical",
+  "ce": "agnostic",
+  "cu": "агностик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": "Ukrainian агностик is only the noun (a person); the adjective is агностичний."
+ },
+ {
+  "en": "alameda",
+  "uk": "аламеда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amputation",
+  "uk": "ампутація",
+  "v": "similar",
+  "ce": "amputation",
+  "cu": "ампутація",
+  "note": "ending -ція"
+ },
+ {
+  "en": "anarchism",
+  "uk": "анархізм",
+  "v": "identical",
+  "ce": "anarchism",
+  "cu": "анархізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anya",
+  "uk": "аня",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aquinas",
+  "uk": "аквінський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "architectures",
+  "uk": "архітектури",
+  "v": "not_lemma",
+  "ce": "architecture",
+  "cu": "архітектура",
+  "lv": "similar",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "axiom",
+  "uk": "аксіома",
+  "v": "similar",
+  "ce": "axiom",
+  "cu": "аксіома",
+  "note": "ending -а"
+ },
+ {
+  "en": "basalt",
+  "uk": "базальт",
+  "v": "identical",
+  "ce": "basalt",
+  "cu": "базальт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bashir",
+  "uk": "башир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bello",
+  "uk": "белло",
+  "v": "unrelated"
+ },
+ {
+  "en": "bor",
+  "uk": "бор",
+  "v": "unrelated"
+ },
+ {
+  "en": "buffers",
+  "uk": "буфери",
+  "v": "not_lemma",
+  "ce": "buffer",
+  "cu": "буфер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "буфери is the plural"
+ },
+ {
+  "en": "carleton",
+  "uk": "карлтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chechen",
+  "uk": "чеченка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cree",
+  "uk": "крі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dieter",
+  "uk": "дітер",
+  "v": "unrelated"
+ },
+ {
+  "en": "dissonance",
+  "uk": "дисонанс",
+  "v": "identical",
+  "ce": "dissonance",
+  "cu": "дисонанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Also figurative: a clash (когнітивний дисонанс = cognitive dissonance)."
+ },
+ {
+  "en": "dyslexia",
+  "uk": "дислексія",
+  "v": "identical",
+  "ce": "dyslexia",
+  "cu": "дислексія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "el dorado",
+  "uk": "ельдорадо",
+  "v": "identical",
+  "ce": "El Dorado",
+  "cu": "ельдорадо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "Legendary city of gold; figuratively any place of great wealth or opportunity. Written as one word in Ukrainian."
+ },
+ {
+  "en": "elmo",
+  "uk": "ельма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emigrants",
+  "uk": "емігранти",
+  "v": "not_lemma",
+  "ce": "emigrant",
+  "cu": "емігрант",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "емігранти is the plural"
+ },
+ {
+  "en": "ephraim",
+  "uk": "ефраїм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "erotica",
+  "uk": "еротика",
+  "v": "identical",
+  "ce": "erotica",
+  "cu": "еротика",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Ukrainian еротика also means eroticism in general."
+ },
+ {
+  "en": "escalator",
+  "uk": "ескалатор",
+  "v": "identical",
+  "ce": "escalator",
+  "cu": "ескалатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "flinders",
+  "uk": "фліндерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gambia",
+  "uk": "гамбія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaul",
+  "uk": "гал",
+  "v": "unrelated"
+ },
+ {
+  "en": "gaulle",
+  "uk": "голль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "geophysical",
+  "uk": "геофізика",
+  "v": "not_lemma",
+  "ce": "geophysics",
+  "cu": "геофізика",
+  "lv": "similar",
+  "note": "English side is the adjective; геофізика = geophysics (ending -ика)"
+ },
+ {
+  "en": "gladiators",
+  "uk": "гладіатори",
+  "v": "not_lemma",
+  "ce": "gladiator",
+  "cu": "гладіатор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "гладіатори is the plural"
+ },
+ {
+  "en": "godwin",
+  "uk": "годвін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gomes",
+  "uk": "гомеш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "graphene",
+  "uk": "графен",
+  "v": "identical",
+  "ce": "graphene",
+  "cu": "графен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "grenada",
+  "uk": "гренада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grossman",
+  "uk": "гроссман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grunge",
+  "uk": "грандж",
+  "v": "identical",
+  "ce": "grunge",
+  "cu": "грандж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "In Ukrainian only the music/fashion style, not 'dirt'."
+ },
+ {
+  "en": "hagen",
+  "uk": "гаген",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hennessy",
+  "uk": "геннессі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "irma",
+  "uk": "ірма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jakob",
+  "uk": "якоб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "janus",
+  "uk": "янус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jens",
+  "uk": "єнс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kato",
+  "uk": "като",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kerosene",
+  "uk": "керосин",
+  "v": "identical",
+  "ce": "kerosene",
+  "cu": "керосин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry",
+   "home"
+  ],
+  "note": "British English often says paraffin."
+ },
+ {
+  "en": "keto",
+  "uk": "кето",
+  "v": "identical",
+  "ce": "keto",
+  "cu": "кето",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "abbreviation",
+   "food"
+  ],
+  "note": "Usually in кето-дієта (keto diet)."
+ },
+ {
+  "en": "markov",
+  "uk": "марков",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mccormack",
+  "uk": "маккормак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "merton",
+  "uk": "мертон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "miniatures",
+  "uk": "мініатюри",
+  "v": "not_lemma",
+  "ce": "miniature",
+  "cu": "мініатюра",
+  "lv": "similar",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "molotov",
+  "uk": "молотова",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monogram",
+  "uk": "монограма",
+  "v": "similar",
+  "ce": "monogram",
+  "cu": "монограма",
+  "note": "ending -а"
+ },
+ {
+  "en": "mus",
+  "uk": "мус",
+  "v": "unrelated"
+ },
+ {
+  "en": "nacho",
+  "uk": "начо",
+  "v": "not_lemma",
+  "ce": "nachos",
+  "cu": "начос",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian uses the form начос for the dish."
+ },
+ {
+  "en": "nanotechnology",
+  "uk": "нанотехнології",
+  "v": "not_lemma",
+  "ce": "nanotechnology",
+  "cu": "нанотехнологія",
+  "lv": "similar",
+  "note": "Ukrainian plural; lemma has ending -ія"
+ },
+ {
+  "en": "nanotechnology",
+  "uk": "нанотехнологія",
+  "v": "similar",
+  "ce": "nanotechnology",
+  "cu": "нанотехнологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "niko",
+  "uk": "ніко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "optimist",
+  "uk": "оптиміст",
+  "v": "identical",
+  "ce": "optimist",
+  "cu": "оптиміст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "osiris",
+  "uk": "осіріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "planck",
+  "uk": "планка",
+  "v": "unrelated"
+ },
+ {
+  "en": "poodle",
+  "uk": "пудель",
+  "v": "identical",
+  "ce": "poodle",
+  "cu": "пудель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "populism",
+  "uk": "популізм",
+  "v": "identical",
+  "ce": "populism",
+  "cu": "популізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "saleh",
+  "uk": "салех",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sato",
+  "uk": "сато",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sheryl",
+  "uk": "шеріл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sichuan",
+  "uk": "сичуань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sion",
+  "uk": "сьйон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "soto",
+  "uk": "сото",
+  "v": "proper_noun"
+ },
+ {
+  "en": "streep",
+  "uk": "стріп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stylus",
+  "uk": "стилус",
+  "v": "identical",
+  "ce": "stylus",
+  "cu": "стилус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": "Today mainly a pen for touchscreens; the ancient writing stick is also called стилос."
+ },
+ {
+  "en": "stylus",
+  "uk": "стиль",
+  "v": "unrelated"
+ },
+ {
+  "en": "stylus",
+  "uk": "стилос",
+  "v": "similar",
+  "ce": "stylus",
+  "cu": "стилос",
+  "note": "стилос is only the ancient writing stick; ending -ос"
+ },
+ {
+  "en": "suk",
+  "uk": "сук",
+  "v": "unrelated"
+ },
+ {
+  "en": "tobin",
+  "uk": "тобін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "topographic",
+  "uk": "топографічна",
+  "v": "not_lemma",
+  "ce": "topographic",
+  "cu": "топографічний",
+  "lv": "similar",
+  "note": "feminine form; Ukrainian adjective ending -ічний"
+ },
+ {
+  "en": "topographic",
+  "uk": "топографічний",
+  "v": "similar",
+  "ce": "topographic",
+  "cu": "топографічний",
+  "note": "Ukrainian adjective ending -ічний"
+ },
+ {
+  "en": "tutu",
+  "uk": "туту",
+  "v": "unrelated"
+ },
+ {
+  "en": "vas",
+  "uk": "вас",
+  "v": "unrelated"
+ },
+ {
+  "en": "weller",
+  "uk": "веллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "winfrey",
+  "uk": "вінфрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zed",
+  "uk": "зед",
+  "v": "unrelated"
+ },
+ {
+  "en": "acacia",
+  "uk": "акація",
+  "v": "identical",
+  "ce": "acacia",
+  "cu": "акація",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aggressor",
+  "uk": "агресор",
+  "v": "identical",
+  "ce": "aggressor",
+  "cu": "агресор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aggressor",
+  "uk": "агресорка",
+  "v": "not_lemma",
+  "ce": "aggressor",
+  "cu": "агресор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military",
+   "politics"
+  ],
+  "note": "агресорка is the feminine form"
+ },
+ {
+  "en": "amethyst",
+  "uk": "аметист",
+  "v": "identical",
+  "ce": "amethyst",
+  "cu": "аметист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "baines",
+  "uk": "бейнс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beasley",
+  "uk": "бізлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "berserk",
+  "uk": "берсерк",
+  "v": "partial_false_friend",
+  "ce": "berserk",
+  "cu": "берсерк",
+  "note": "English mostly 'go berserk' (wild with rage); Ukrainian берсерк = a Norse berserker warrior"
+ },
+ {
+  "en": "berwick",
+  "uk": "бервік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bobo",
+  "uk": "бобо",
+  "v": "unrelated"
+ },
+ {
+  "en": "cabot",
+  "uk": "кабот",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cannibalism",
+  "uk": "канібалізм",
+  "v": "identical",
+  "ce": "cannibalism",
+  "cu": "канібалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "catapult",
+  "uk": "катапульта",
+  "v": "similar",
+  "ce": "catapult",
+  "cu": "катапульта",
+  "note": "ending -а; катапульта also = ejection seat"
+ },
+ {
+  "en": "chomsky",
+  "uk": "хомський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chomsky",
+  "uk": "хомська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chomsky",
+  "uk": "чомскі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clements",
+  "uk": "клементс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cleo",
+  "uk": "клео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cumin",
+  "uk": "кмин",
+  "v": "similar",
+  "ce": "cumin",
+  "cu": "кмин",
+  "note": "root shape differs; кмин usually = caraway, cumin is зіра / римський кмин"
+ },
+ {
+  "en": "dawes",
+  "uk": "доз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diplomas",
+  "uk": "дипломами",
+  "v": "not_lemma",
+  "ce": "diploma",
+  "cu": "диплом",
+  "lv": "similar",
+  "note": "Ukrainian has no final -а"
+ },
+ {
+  "en": "dumfries",
+  "uk": "дамфріс",
+  "v": "proper_noun"
+ }
+]

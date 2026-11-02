@@ -1,0 +1,883 @@
+[
+ {
+  "en": "gorman",
+  "uk": "горман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grapefruit",
+  "uk": "грейпфрут",
+  "v": "identical",
+  "ce": "grapefruit",
+  "cu": "грейпфрут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "guido",
+  "uk": "гвідо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hahn",
+  "uk": "ган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haryana",
+  "uk": "хар'яна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hendricks",
+  "uk": "гендрікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "inertia",
+  "uk": "інерція",
+  "v": "similar",
+  "ce": "inertia",
+  "cu": "інерція",
+  "note": "Ukrainian ending -ія."
+ },
+ {
+  "en": "isla",
+  "uk": "ісла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lamont",
+  "uk": "ламонт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "larkin",
+  "uk": "ларкін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lei",
+  "uk": "лей",
+  "v": "not_lemma",
+  "ce": "leu",
+  "cu": "лей",
+  "lv": "similar",
+  "note": "English lei is the plural of leu (also a Hawaiian flower garland); Ukrainian лей is the singular."
+ },
+ {
+  "en": "milano",
+  "uk": "мілан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moldova",
+  "uk": "молдова",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moldova",
+  "uk": "молдови",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moldova",
+  "uk": "молдові",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moldova",
+  "uk": "молдавія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nemo",
+  "uk": "немо",
+  "v": "unrelated"
+ },
+ {
+  "en": "nikita",
+  "uk": "нікіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nikita",
+  "uk": "микита",
+  "v": "proper_noun"
+ },
+ {
+  "en": "palladium",
+  "uk": "паладій",
+  "v": "similar",
+  "ce": "palladium",
+  "cu": "паладій",
+  "note": "-ium → -ій."
+ },
+ {
+  "en": "pathogen",
+  "uk": "патоген",
+  "v": "identical",
+  "ce": "pathogen",
+  "cu": "патоген",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pensioners",
+  "uk": "пенсіонерів",
+  "v": "not_lemma",
+  "ce": "pensioner",
+  "cu": "пенсіонер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Genitive plural form. In US English 'retiree' is more common."
+ },
+ {
+  "en": "pensioners",
+  "uk": "пенсіонери",
+  "v": "not_lemma",
+  "ce": "pensioner",
+  "cu": "пенсіонер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Plural form. In US English 'retiree' is more common."
+ },
+ {
+  "en": "prefecture",
+  "uk": "префектура",
+  "v": "similar",
+  "ce": "prefecture",
+  "cu": "префектура",
+  "note": "Ukrainian ending -а."
+ },
+ {
+  "en": "pritchard",
+  "uk": "прітчард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rapport",
+  "uk": "рапорт",
+  "v": "false_friend",
+  "ce": "rapport",
+  "cu": "рапорт",
+  "note": "рапорт = official (military) report; rapport = взаєморозуміння."
+ },
+ {
+  "en": "ration",
+  "uk": "раціон",
+  "v": "partial_false_friend",
+  "ce": "ration",
+  "cu": "раціон",
+  "note": "раціон = diet, daily food intake; an allotted ration is пайок."
+ },
+ {
+  "en": "reginald",
+  "uk": "реджинальд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salle",
+  "uk": "саль",
+  "v": "unrelated"
+ },
+ {
+  "en": "schumer",
+  "uk": "шумер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "seine",
+  "uk": "сен",
+  "v": "unrelated"
+ },
+ {
+  "en": "shawl",
+  "uk": "шаль",
+  "v": "identical",
+  "ce": "shawl",
+  "cu": "шаль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "shenzhen",
+  "uk": "шеньчжень",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shilling",
+  "uk": "шилінг",
+  "v": "identical",
+  "ce": "shilling",
+  "cu": "шилінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "Former British coin; today the currency of Kenya, Uganda, Tanzania and Somalia."
+ },
+ {
+  "en": "slovak",
+  "uk": "словак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "slovak",
+  "uk": "словачка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tarzan",
+  "uk": "тарзан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "telugu",
+  "uk": "телугу",
+  "v": "identical",
+  "ce": "Telugu",
+  "cu": "телугу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "The language; capitalized in English."
+ },
+ {
+  "en": "telugu",
+  "uk": "телунгу",
+  "v": "similar",
+  "ce": "Telugu",
+  "cu": "телунгу",
+  "note": "Rare variant spelling; the usual form is телугу."
+ },
+ {
+  "en": "tyne",
+  "uk": "тайн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vendetta",
+  "uk": "вендета",
+  "v": "identical",
+  "ce": "vendetta",
+  "cu": "вендета",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "wiener",
+  "uk": "вінер",
+  "v": "unrelated"
+ },
+ {
+  "en": "agatha",
+  "uk": "агата",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aladdin",
+  "uk": "аладдін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alderman",
+  "uk": "олдермен",
+  "v": "identical",
+  "ce": "alderman",
+  "cu": "олдермен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "In Ukrainian used only about English-speaking countries."
+ },
+ {
+  "en": "astronomer",
+  "uk": "астроном",
+  "v": "similar",
+  "ce": "astronomer",
+  "cu": "астроном",
+  "note": "Ukrainian астроном has no -er ending."
+ },
+ {
+  "en": "autopilot",
+  "uk": "автопілот",
+  "v": "identical",
+  "ce": "autopilot",
+  "cu": "автопілот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ballast",
+  "uk": "баласт",
+  "v": "identical",
+  "ce": "ballast",
+  "cu": "баласт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "berman",
+  "uk": "берман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blackjack",
+  "uk": "блекджек",
+  "v": "identical",
+  "ce": "blackjack",
+  "cu": "блекджек",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cavendish",
+  "uk": "кавендіш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "celine",
+  "uk": "селін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "collaborator",
+  "uk": "колаборант",
+  "v": "partial_false_friend",
+  "ce": "collaborator",
+  "cu": "колаборант",
+  "note": "колаборант = only a traitor who works with the enemy; a co-worker is співробітник."
+ },
+ {
+  "en": "colton",
+  "uk": "колтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "curt",
+  "uk": "курт",
+  "v": "unrelated"
+ },
+ {
+  "en": "dicaprio",
+  "uk": "капріо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dynamo",
+  "uk": "динамо",
+  "v": "identical",
+  "ce": "dynamo",
+  "cu": "динамо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "physics",
+   "tech"
+  ],
+  "note": "In Ukrainian also the name of sports clubs (Динамо Київ)."
+ },
+ {
+  "en": "eastman",
+  "uk": "істмен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elixir",
+  "uk": "еліксир",
+  "v": "identical",
+  "ce": "elixir",
+  "cu": "еліксир",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "emile",
+  "uk": "еміль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emmett",
+  "uk": "емметт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "escobar",
+  "uk": "ескобар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "farah",
+  "uk": "фарах",
+  "v": "proper_noun"
+ },
+ {
+  "en": "forsyth",
+  "uk": "форсайт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaddafi",
+  "uk": "каддафі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "greensboro",
+  "uk": "ґрінсборо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heidelberg",
+  "uk": "гайдельберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heidelberg",
+  "uk": "гайдельберґ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ithaca",
+  "uk": "ітака",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ito",
+  "uk": "іто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kano",
+  "uk": "кано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kuala lumpur",
+  "uk": "куала-лумпур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lager",
+  "uk": "лагер",
+  "v": "identical",
+  "ce": "lager",
+  "cu": "лагер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": "лагер is also an outdated (Russian-influenced) word for 'camp'; the correct Ukrainian for camp is табір."
+ },
+ {
+  "en": "mahmoud",
+  "uk": "махмуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meryl",
+  "uk": "меріл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "michelangelo",
+  "uk": "мікеланджело",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mol",
+  "uk": "мол",
+  "v": "unrelated"
+ },
+ {
+  "en": "mol",
+  "uk": "моль",
+  "v": "partial_false_friend",
+  "ce": "mole",
+  "cu": "моль",
+  "note": "Shared only as the chemistry unit (mole); моль usually means clothes moth, and the animal mole is кріт."
+ },
+ {
+  "en": "mussolini",
+  "uk": "муссоліні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nelly",
+  "uk": "неллі",
+  "v": "unrelated"
+ },
+ {
+  "en": "ono",
+  "uk": "оно",
+  "v": "unrelated"
+ },
+ {
+  "en": "paxton",
+  "uk": "пакстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pryor",
+  "uk": "прайор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "punjabi",
+  "uk": "панджабі",
+  "v": "identical",
+  "ce": "Punjabi",
+  "cu": "панджабі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "The language; capitalized in English."
+ },
+ {
+  "en": "ringo",
+  "uk": "рінго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roberta",
+  "uk": "роберта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosary",
+  "uk": "розарій",
+  "v": "partial_false_friend",
+  "ce": "rosary",
+  "cu": "розарій",
+  "note": "розарій mainly means a rose garden; prayer beads are вервиця."
+ },
+ {
+  "en": "salvatore",
+  "uk": "сальваторе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sar",
+  "uk": "сар",
+  "v": "unrelated"
+ },
+ {
+  "en": "singularity",
+  "uk": "сингулярність",
+  "v": "similar",
+  "ce": "singularity",
+  "cu": "сингулярність",
+  "note": "Ukrainian suffix -ність."
+ },
+ {
+  "en": "sparta",
+  "uk": "спарта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sportsman",
+  "uk": "спортсмен",
+  "v": "identical",
+  "ce": "sportsman",
+  "cu": "спортсмен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "people"
+  ],
+  "note": "English more often says athlete."
+ },
+ {
+  "en": "telecommunication",
+  "uk": "телекомунікаційний",
+  "v": "not_lemma",
+  "ce": "telecommunication",
+  "cu": "телекомунікація",
+  "lv": "similar",
+  "note": "Adjective; the noun is телекомунікація (ending -ія)."
+ },
+ {
+  "en": "telecommunication",
+  "uk": "телекомунікації",
+  "v": "not_lemma",
+  "ce": "telecommunication",
+  "cu": "телекомунікація",
+  "lv": "similar",
+  "note": "Plural/genitive of телекомунікація (ending -ія)."
+ },
+ {
+  "en": "theta",
+  "uk": "тета",
+  "v": "identical",
+  "ce": "theta",
+  "cu": "тета",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter Θ, θ; тета is also a dialect word for aunt."
+ },
+ {
+  "en": "tod",
+  "uk": "тод",
+  "v": "unrelated"
+ },
+ {
+  "en": "tot",
+  "uk": "тот",
+  "v": "unrelated"
+ },
+ {
+  "en": "tropics",
+  "uk": "тропіках",
+  "v": "not_lemma",
+  "ce": "tropic",
+  "cu": "тропік",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Locative plural form; the tropics = тропіки."
+ },
+ {
+  "en": "tsar",
+  "uk": "цар",
+  "v": "identical",
+  "ce": "tsar",
+  "cu": "цар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "Also spelled czar."
+ },
+ {
+  "en": "viscount",
+  "uk": "віконт",
+  "v": "similar",
+  "ce": "viscount",
+  "cu": "віконт",
+  "note": "Ukrainian віконт follows French vicomte; English is pronounced 'vaikaunt'."
+ },
+ {
+  "en": "whistler",
+  "uk": "вістлер",
+  "v": "unrelated"
+ },
+ {
+  "en": "worthington",
+  "uk": "вортінгтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yogi",
+  "uk": "йог",
+  "v": "similar",
+  "ce": "yogi",
+  "cu": "йог",
+  "note": "Ukrainian drops -i."
+ },
+ {
+  "en": "abuja",
+  "uk": "абуджа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acetate",
+  "uk": "ацетат",
+  "v": "identical",
+  "ce": "acetate",
+  "cu": "ацетат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "antisemitism",
+  "uk": "антисемітизм",
+  "v": "identical",
+  "ce": "antisemitism",
+  "cu": "антисемітизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Also spelled anti-Semitism."
+ },
+ {
+  "en": "anwar",
+  "uk": "анвар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barnard",
+  "uk": "барнард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barron",
+  "uk": "баррон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bertha",
+  "uk": "берта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bette",
+  "uk": "бетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burkina",
+  "uk": "буркіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "byte",
+  "uk": "байт",
+  "v": "identical",
+  "ce": "byte",
+  "cu": "байт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "carat",
+  "uk": "карат",
+  "v": "identical",
+  "ce": "carat",
+  "cu": "карат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": "Also spelled karat (gold purity)."
+ },
+ {
+  "en": "carcinoma",
+  "uk": "карцинома",
+  "v": "identical",
+  "ce": "carcinoma",
+  "cu": "карцинома",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "carrick",
+  "uk": "каррік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caviar",
+  "uk": "кав'яр",
+  "v": "identical",
+  "ce": "caviar",
+  "cu": "кав'яр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "The everyday Ukrainian word is ікра; кав'яр is rare."
+ },
+ {
+  "en": "chong",
+  "uk": "чун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clique",
+  "uk": "кліка",
+  "v": "similar",
+  "ce": "clique",
+  "cu": "кліка",
+  "note": "Ukrainian adds -а; кліка is pejorative."
+ },
+ {
+  "en": "coe",
+  "uk": "коу",
+  "v": "unrelated"
+ }
+]

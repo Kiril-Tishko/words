@@ -1,0 +1,896 @@
+[
+ {
+  "en": "anomaly",
+  "uk": "аномалії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "anomaly",
+  "cu": "аномалія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "out",
+  "uk": "аут",
+  "v": "identical",
+  "ce": "out",
+  "cu": "аут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Only in sports: the ball going out of play (м'яч в аут, вкидання з ауту); 'out' meaning outside is назовні."
+ },
+ {
+  "en": "genre",
+  "uk": "жанрі",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "genre",
+  "cu": "жанр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "collective",
+  "uk": "колективі",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "collective",
+  "cu": "колектив",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "колектив = staff, team of people working together; English collective is a cooperative group."
+ },
+ {
+  "en": "commentary",
+  "uk": "комментарии",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "commentary",
+  "cu": "коментар",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Russian spelling; Ukrainian коментарі (sing. коментар)."
+ },
+ {
+  "en": "compromise",
+  "uk": "компроміси",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "compromise",
+  "cu": "компроміс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "conference",
+  "uk": "конференц",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "conference",
+  "cu": "конференція",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Combining form, as in конференц-зал."
+ },
+ {
+  "en": "minicar",
+  "uk": "міні-кар",
+  "v": "identical",
+  "ce": "minicar",
+  "cu": "мінікар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "transport"
+  ],
+  "note": "A very small city car; also spelled міні-кар."
+ },
+ {
+  "en": "papa",
+  "uk": "папу",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "papa",
+  "cu": "папа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "Accusative of папа; informal for dad (usual word: тато); Папа also = the Pope."
+ },
+ {
+  "en": "party",
+  "uk": "партии",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "party",
+  "cu": "партія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Russian spelling (Ukrainian партії); партія = political party, batch, game (chess); a party (celebration) = вечірка."
+ },
+ {
+  "en": "scotch",
+  "uk": "скотч",
+  "v": "partial_false_friend",
+  "ce": "scotch",
+  "cu": "скотч",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "скотч mainly = sticky tape (Scotch tape); it can also mean Scotch whisky."
+ },
+ {
+  "en": "haha",
+  "uk": "хаха",
+  "v": "identical",
+  "ce": "ha-ha",
+  "cu": "ха-ха",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aspirant",
+  "uk": "аспірант",
+  "v": "false_friend",
+  "ce": "aspirant",
+  "cu": "аспірант",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "аспірант = postgraduate (PhD) student; an aspirant = someone aspiring to a position (претендент)."
+ },
+ {
+  "en": "velocipede",
+  "uk": "велосипеди",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "velocipede",
+  "cu": "велосипед",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic",
+   "transport"
+  ],
+  "note": "English velocipede is the historical word for an early bicycle; everyday English: bicycle, bike."
+ },
+ {
+  "en": "gene",
+  "uk": "гени",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "gene",
+  "cu": "ген",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "emeer",
+  "uk": "емір",
+  "v": "identical",
+  "ce": "emir",
+  "cu": "емір",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Usual English spelling: emir (also amir)."
+ },
+ {
+  "en": "cadre",
+  "uk": "кадрі",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "cadre",
+  "cu": "кадр",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "кадр mainly = film/photo frame, shot; кадри (pl.) = staff, personnel; a cadre = a core group of trained people."
+ },
+ {
+  "en": "cupola",
+  "uk": "купола",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "cupola",
+  "cu": "купол",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "купол = dome; English cupola is a small dome on a roof; Ukrainian drops -a."
+ },
+ {
+  "en": "note",
+  "uk": "нот",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "note",
+  "cu": "нота",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "нота = musical note or diplomatic note; a written note is записка, a banknote is банкнота."
+ },
+ {
+  "en": "hotel",
+  "uk": "отель",
+  "v": "similar",
+  "ce": "hotel",
+  "cu": "отель",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Variant of готель (h dropped); the usual word is готель."
+ },
+ {
+  "en": "spectra",
+  "uk": "спектра",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "spectrum",
+  "cu": "спектр",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "spectra",
+  "uk": "спектру",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "spectrum",
+  "cu": "спектр",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "spore",
+  "uk": "спори",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "spore",
+  "cu": "спора",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian adds -а; спори is also the plural of спір (argument)."
+ },
+ {
+  "en": "sympathy",
+  "uk": "симпатій",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "sympathy",
+  "cu": "симпатія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian симпатія = liking, attraction; sympathy (pity) is співчуття."
+ },
+ {
+  "en": "azote",
+  "uk": "азот",
+  "v": "identical",
+  "ce": "azote",
+  "cu": "азот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic",
+   "chemistry"
+  ],
+  "note": "Old name for nitrogen; modern English says nitrogen."
+ },
+ {
+  "en": "it",
+  "uk": "айті",
+  "v": "identical",
+  "ce": "IT",
+  "cu": "айті",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "informal",
+   "tech"
+  ],
+  "note": "The IT industry; also written ІТ; an IT worker is айтішник."
+ },
+ {
+  "en": "barbeque",
+  "uk": "барбекю",
+  "v": "identical",
+  "ce": "barbecue",
+  "cu": "барбекю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "barbeque is a variant spelling of barbecue."
+ },
+ {
+  "en": "villa",
+  "uk": "вілли",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "villa",
+  "cu": "вілла",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": ""
+ },
+ {
+  "en": "yogi",
+  "uk": "йоги",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "yogi",
+  "cu": "йог",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Plural of йог (Ukrainian drops -i); йоги is also the genitive of йога (yoga)."
+ },
+ {
+  "en": "collapses",
+  "uk": "колапс",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "collapse",
+  "cu": "колапс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Noun only (breakdown of a system, medical collapse); to collapse = обвалитися, впасти."
+ },
+ {
+  "en": "megapolis",
+  "uk": "мегаполіс",
+  "v": "identical",
+  "ce": "megapolis",
+  "cu": "мегаполіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "places"
+  ],
+  "note": "Usual English: megacity or megalopolis."
+ },
+ {
+  "en": "synonyme",
+  "uk": "синоніми",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "synonym",
+  "cu": "синонім",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "synonyme is an archaic English spelling; синоніми is the plural."
+ },
+ {
+  "en": "insult",
+  "uk": "інсульт",
+  "v": "false_friend",
+  "ce": "insult",
+  "cu": "інсульт",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "інсульт = stroke (medical); an insult = образа."
+ },
+ {
+  "en": "alleluia",
+  "uk": "алілуя",
+  "v": "identical",
+  "ce": "alleluia",
+  "cu": "алілуя",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Also hallelujah."
+ },
+ {
+  "en": "backend",
+  "uk": "бек-енд",
+  "v": "identical",
+  "ce": "backend",
+  "cu": "бекенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "Server side of software; also spelled бек-енд."
+ },
+ {
+  "en": "latte",
+  "uk": "латте",
+  "v": "identical",
+  "ce": "latte",
+  "cu": "лате",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Standard spelling лате; латте is also common."
+ },
+ {
+  "en": "license",
+  "uk": "ліцензій",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "license",
+  "cu": "ліцензія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "metallurgy",
+  "uk": "металургії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "metallurgy",
+  "cu": "металургія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "process",
+  "uk": "процесс",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "process",
+  "cu": "процес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Russian spelling; Ukrainian процес."
+ },
+ {
+  "en": "rota",
+  "uk": "роту",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "rota",
+  "cu": "рота",
+  "pos": "noun",
+  "br": true,
+  "lab": [],
+  "note": "рота = company (military unit); a rota (British) = duty schedule (графік чергувань)."
+ },
+ {
+  "en": "stela",
+  "uk": "стела",
+  "v": "identical",
+  "ce": "stela",
+  "cu": "стела",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also spelled stele in English."
+ },
+ {
+  "en": "thane",
+  "uk": "тан",
+  "v": "identical",
+  "ce": "thane",
+  "cu": "тан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic",
+   "people"
+  ],
+  "note": "Historical Anglo-Saxon/Scottish noble title (Macbeth, Thane of Cawdor = тан Кавдорський)."
+ },
+ {
+  "en": "cartography",
+  "uk": "картографії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "cartography",
+  "cu": "картографія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "colony",
+  "uk": "колоній",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "colony",
+  "cu": "колонія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "prorector",
+  "uk": "проректор",
+  "v": "identical",
+  "ce": "prorector",
+  "cu": "проректор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "education"
+  ],
+  "note": "Usual English: vice-rector, deputy vice-chancellor."
+ },
+ {
+  "en": "reflexes",
+  "uk": "рефлекс",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "reflex",
+  "cu": "рефлекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "technique",
+  "uk": "техника",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "technique",
+  "cu": "техніка",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Russian spelling (Ukrainian техніка); техніка mainly = equipment, machinery, technology; also technique (skill)."
+ },
+ {
+  "en": "ferment",
+  "uk": "фермент",
+  "v": "partial_false_friend",
+  "ce": "ferment",
+  "cu": "фермент",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "фермент = enzyme; English ferment = agitation, unrest, (dated) a fermenting agent such as yeast."
+ },
+ {
+  "en": "florae",
+  "uk": "флора",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "flora",
+  "cu": "флора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "florae is a Latin-style English plural of flora."
+ },
+ {
+  "en": "cycle",
+  "uk": "циклі",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "cycle",
+  "cu": "цикл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "In English cycle also means a bicycle (велосипед)."
+ },
+ {
+  "en": "account",
+  "uk": "аккаунт",
+  "v": "identical",
+  "ce": "account",
+  "cu": "акаунт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": "Standard spelling акаунт; only a user account (social media, email); a bank account is рахунок."
+ },
+ {
+  "en": "weekend",
+  "uk": "вікенд",
+  "v": "identical",
+  "ce": "weekend",
+  "cu": "вікенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "time"
+  ],
+  "note": ""
+ },
+ {
+  "en": "personae",
+  "uk": "персона",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "persona",
+  "cu": "персона",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian персона = an (important) person; English persona = public image or role; shared: persona non grata."
+ },
+ {
+  "en": "flora",
+  "uk": "флори",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "flora",
+  "cu": "флора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "philosophe",
+  "uk": "філософи",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "philosopher",
+  "cu": "філософ",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "English philosophe = 18th-century French Enlightenment thinker; general word is philosopher."
+ },
+ {
+  "en": "analogy",
+  "uk": "аналогії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "analogy",
+  "cu": "аналогія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "kilogramme",
+  "uk": "кілограми",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "kilogram",
+  "cu": "кілограм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ltd",
+  "uk": "лтд",
+  "v": "identical",
+  "ce": "Ltd",
+  "cu": "ЛТД",
+  "pos": "abbr",
+  "br": true,
+  "lab": [
+   "abbreviation",
+   "business"
+  ],
+  "note": "Only in company names (limited company); the Ukrainian equivalent is ТОВ."
+ },
+ {
+  "en": "non-stop",
+  "uk": "нон-стоп",
+  "v": "identical",
+  "ce": "nonstop",
+  "cu": "нон-стоп",
+  "pos": "adv",
+  "br": false,
+  "lab": [
+   "informal",
+   "time"
+  ],
+  "note": ""
+ },
+ {
+  "en": "skybox",
+  "uk": "скай-бокс",
+  "v": "identical",
+  "ce": "skybox",
+  "cu": "скайбокс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "sport"
+  ],
+  "note": "Luxury box at a stadium; also spelled скай-бокс."
+ },
+ {
+  "en": "time",
+  "uk": "таймі",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "time",
+  "cu": "тайм",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "тайм = half/period of a sports match; 'time' is час."
+ },
+ {
+  "en": "trace",
+  "uk": "трас",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "trace",
+  "cu": "траса",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "траса = highway, route, track; a trace is слід."
+ },
+ {
+  "en": "fabric",
+  "uk": "фабрик",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "fabric",
+  "cu": "фабрика",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "фабрика = factory; fabric = тканина."
+ },
+ {
+  "en": "hmmm",
+  "uk": "хммм",
+  "v": "identical",
+  "ce": "hmm",
+  "cu": "хм",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hip hop",
+  "uk": "хіп-хоп",
+  "v": "identical",
+  "ce": "hip-hop",
+  "cu": "хіп-хоп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "apocalypses",
+  "uk": "апокаліпсис",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "apocalypse",
+  "cu": "апокаліпсис",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Greek ending -ис added."
+ },
+ {
+  "en": "pirogi",
+  "uk": "пироги",
+  "v": "partial_false_friend",
+  "ce": "pirogi",
+  "cu": "пиріг",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian пироги (sing. пиріг) = baked pies; English pirogi/pierogi usually = boiled dumplings (вареники)."
+ },
+ {
+  "en": "case",
+  "uk": "кейсі",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "case",
+  "cu": "кейс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": "Locative of кейс; кейс mainly = briefcase/hard case or case study; 'case' as an instance is випадок."
+ }
+]

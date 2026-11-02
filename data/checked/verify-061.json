@@ -1,0 +1,886 @@
+[
+ {
+  "en": "cults",
+  "uk": "культи",
+  "v": "not_lemma",
+  "ce": "cult",
+  "cu": "культ",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "depp",
+  "uk": "депп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dior",
+  "uk": "діор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emilia",
+  "uk": "емілія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emilio",
+  "uk": "еміліо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eun",
+  "uk": "ин",
+  "v": "unrelated"
+ },
+ {
+  "en": "fenton",
+  "uk": "фентон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "formality",
+  "uk": "формальність",
+  "v": "similar",
+  "ce": "formality",
+  "cu": "формальність",
+  "note": "Ukrainian suffix -ність"
+ },
+ {
+  "en": "goethe",
+  "uk": "гете",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goethe",
+  "uk": "ґете",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goliath",
+  "uk": "голіаф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grunt",
+  "uk": "ґрунт",
+  "v": "unrelated"
+ },
+ {
+  "en": "hijab",
+  "uk": "хіджаб",
+  "v": "identical",
+  "ce": "hijab",
+  "cu": "хіджаб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "humboldt",
+  "uk": "гумбольдт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hyperbolic",
+  "uk": "гіперболічний",
+  "v": "similar",
+  "ce": "hyperbolic",
+  "cu": "гіперболічний",
+  "note": "Ukrainian adjective ending -ічний"
+ },
+ {
+  "en": "impedance",
+  "uk": "імпеданс",
+  "v": "identical",
+  "ce": "impedance",
+  "cu": "імпеданс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "interpol",
+  "uk": "інтерпол",
+  "v": "proper_noun"
+ },
+ {
+  "en": "isotope",
+  "uk": "ізотоп",
+  "v": "identical",
+  "ce": "isotope",
+  "cu": "ізотоп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "jehovah",
+  "uk": "єгова",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keaton",
+  "uk": "кітон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kessler",
+  "uk": "кесслер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lander",
+  "uk": "ландер",
+  "v": "identical",
+  "ce": "lander",
+  "cu": "ландер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "rare",
+   "science"
+  ],
+  "note": "a spacecraft that lands on a planet or moon; in Ukrainian also посадковий модуль"
+ },
+ {
+  "en": "larsen",
+  "uk": "ларсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lev",
+  "uk": "лев",
+  "v": "identical",
+  "ce": "lev",
+  "cu": "лев",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "the Bulgarian currency; Ukrainian лев mainly means 'lion'"
+ },
+ {
+  "en": "lilies",
+  "uk": "лілії",
+  "v": "not_lemma",
+  "ce": "lily",
+  "cu": "лілія",
+  "lv": "similar",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "lon",
+  "uk": "лон",
+  "v": "unrelated"
+ },
+ {
+  "en": "machete",
+  "uk": "мачете",
+  "v": "identical",
+  "ce": "machete",
+  "cu": "мачете",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mallory",
+  "uk": "меллорі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "matteo",
+  "uk": "маттео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mcleod",
+  "uk": "маклеод",
+  "v": "proper_noun"
+ },
+ {
+  "en": "microphones",
+  "uk": "мікрофони",
+  "v": "not_lemma",
+  "ce": "microphone",
+  "cu": "мікрофон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mika",
+  "uk": "міка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monograph",
+  "uk": "монографія",
+  "v": "similar",
+  "ce": "monograph",
+  "cu": "монографія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "montenegro",
+  "uk": "монтенегро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "montenegro",
+  "uk": "монтенеґро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moo",
+  "uk": "му",
+  "v": "identical",
+  "ce": "moo",
+  "cu": "му",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "the cow's sound; the verb 'to moo' is мукати"
+ },
+ {
+  "en": "munro",
+  "uk": "манро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "natalia",
+  "uk": "наталя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "natalia",
+  "uk": "наталія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "naturalist",
+  "uk": "натураліст",
+  "v": "identical",
+  "ce": "naturalist",
+  "cu": "натураліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "science",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "opec",
+  "uk": "ОПЕК",
+  "v": "proper_noun"
+ },
+ {
+  "en": "opec",
+  "uk": "опек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orwell",
+  "uk": "орвелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pegasus",
+  "uk": "пегас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petersen",
+  "uk": "петерсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pharmacology",
+  "uk": "фармакологія",
+  "v": "similar",
+  "ce": "pharmacology",
+  "cu": "фармакологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "rachael",
+  "uk": "рейчел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reincarnation",
+  "uk": "реінкарнація",
+  "v": "similar",
+  "ce": "reincarnation",
+  "cu": "реінкарнація",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "rotherham",
+  "uk": "ротергем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ruben",
+  "uk": "рубен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saxophone",
+  "uk": "саксофон",
+  "v": "identical",
+  "ce": "saxophone",
+  "cu": "саксофон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "schuster",
+  "uk": "шустер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "scorpio",
+  "uk": "скорпіон",
+  "v": "similar",
+  "ce": "Scorpio",
+  "cu": "Скорпіон",
+  "note": "zodiac sign; Ukrainian uses the animal word скорпіон (scorpion)"
+ },
+ {
+  "en": "selma",
+  "uk": "сельма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sever",
+  "uk": "севе",
+  "v": "unrelated"
+ },
+ {
+  "en": "shrapnel",
+  "uk": "шрапнель",
+  "v": "identical",
+  "ce": "shrapnel",
+  "cu": "шрапнель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "in Ukrainian mainly the shell type and its balls; bomb fragments are usually уламки, осколки"
+ },
+ {
+  "en": "snowboarding",
+  "uk": "сноубординг",
+  "v": "identical",
+  "ce": "snowboarding",
+  "cu": "сноубординг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stoic",
+  "uk": "стоїк",
+  "v": "identical",
+  "ce": "stoic",
+  "cu": "стоїк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "as an adjective: стоїчний"
+ },
+ {
+  "en": "suzy",
+  "uk": "сюзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "terrence",
+  "uk": "терренс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thierry",
+  "uk": "тьєррі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thrash",
+  "uk": "треш",
+  "v": "false_friend",
+  "ce": "thrash",
+  "cu": "треш",
+  "note": "треш (slang) = trash, something awful; thrash = to beat; but thrash metal = треш-метал"
+ },
+ {
+  "en": "toto",
+  "uk": "тото",
+  "v": "unrelated"
+ },
+ {
+  "en": "walcott",
+  "uk": "волкотт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yao",
+  "uk": "яо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zane",
+  "uk": "зейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zenith",
+  "uk": "зеніт",
+  "v": "identical",
+  "ce": "zenith",
+  "cu": "зеніт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "also figurative: highest point, peak"
+ },
+ {
+  "en": "abd",
+  "uk": "абд",
+  "v": "unrelated"
+ },
+ {
+  "en": "actin",
+  "uk": "актин",
+  "v": "identical",
+  "ce": "actin",
+  "cu": "актин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "adnan",
+  "uk": "аднан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allie",
+  "uk": "еллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andres",
+  "uk": "андрес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "artie",
+  "uk": "арті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asymmetric",
+  "uk": "асиметрична",
+  "v": "not_lemma",
+  "ce": "asymmetric",
+  "cu": "асиметричний",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "bern",
+  "uk": "берн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "branson",
+  "uk": "бренсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carney",
+  "uk": "карні",
+  "v": "unrelated"
+ },
+ {
+  "en": "castillo",
+  "uk": "кастільйо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cordon",
+  "uk": "кордон",
+  "v": "partial_false_friend",
+  "ce": "cordon",
+  "cu": "кордон",
+  "note": "кордон mainly = state border; cordon = a line of police or guards"
+ },
+ {
+  "en": "crawley",
+  "uk": "кроулі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crossword",
+  "uk": "кросворд",
+  "v": "identical",
+  "ce": "crossword",
+  "cu": "кросворд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dak",
+  "uk": "дак",
+  "v": "unrelated"
+ },
+ {
+  "en": "dawkins",
+  "uk": "докінз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dps",
+  "uk": "дпс",
+  "v": "unrelated"
+ },
+ {
+  "en": "dunkirk",
+  "uk": "дюнкерк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "georg",
+  "uk": "георг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "giuseppe",
+  "uk": "джузеппе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grady",
+  "uk": "граді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grating",
+  "uk": "ґрати",
+  "v": "similar",
+  "ce": "grating",
+  "cu": "ґрати",
+  "note": "ґрати = bars, grating (noun only); English grating is also an adjective 'harsh'"
+ },
+ {
+  "en": "hammock",
+  "uk": "гамак",
+  "v": "identical",
+  "ce": "hammock",
+  "cu": "гамак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "home",
+   "travel"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hater",
+  "uk": "хейтер",
+  "v": "identical",
+  "ce": "hater",
+  "cu": "хейтер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "het",
+  "uk": "гет",
+  "v": "unrelated"
+ },
+ {
+  "en": "himalayan",
+  "uk": "гімалайська",
+  "v": "not_lemma",
+  "ce": "Himalayan",
+  "cu": "гімалайський",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "idealistic",
+  "uk": "ідеаліст",
+  "v": "not_lemma",
+  "ce": "idealist",
+  "cu": "ідеаліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "idealistic (adj) = ідеалістичний"
+ },
+ {
+  "en": "idealistic",
+  "uk": "ідеалістичний",
+  "v": "similar",
+  "ce": "idealistic",
+  "cu": "ідеалістичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "imperialist",
+  "uk": "імперіаліст",
+  "v": "identical",
+  "ce": "imperialist",
+  "cu": "імперіаліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "imperialist",
+  "uk": "імперіалістка",
+  "v": "not_lemma",
+  "ce": "imperialist",
+  "cu": "імперіаліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "імперіалістка is the feminine form"
+ },
+ {
+  "en": "jodie",
+  "uk": "джоді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyzstan",
+  "uk": "киргизстан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyzstan",
+  "uk": "кирґизстан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyrgyzstan",
+  "uk": "киргизстану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "louvre",
+  "uk": "лувр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lucille",
+  "uk": "люсіль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mardi",
+  "uk": "марді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "masonic",
+  "uk": "масонська",
+  "v": "not_lemma",
+  "ce": "masonic",
+  "cu": "масонський",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "mathieu",
+  "uk": "матьє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meng",
+  "uk": "мен",
+  "v": "unrelated"
+ },
+ {
+  "en": "meps",
+  "uk": "мепс",
+  "v": "unrelated"
+ },
+ {
+  "en": "merritt",
+  "uk": "меррітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nada",
+  "uk": "нада",
+  "v": "unrelated"
+ },
+ {
+  "en": "nell",
+  "uk": "нелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "olaf",
+  "uk": "олаф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oleg",
+  "uk": "олег",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ombudsman",
+  "uk": "омбудсман",
+  "v": "identical",
+  "ce": "ombudsman",
+  "cu": "омбудсмен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "law"
+  ],
+  "note": "омбудсман is a less common spelling of омбудсмен"
+ },
+ {
+  "en": "ombudsman",
+  "uk": "омбудсмен",
+  "v": "identical",
+  "ce": "ombudsman",
+  "cu": "омбудсмен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "law"
+  ],
+  "note": "also spelled омбудсман"
+ },
+ {
+  "en": "pasha",
+  "uk": "паша",
+  "v": "identical",
+  "ce": "pasha",
+  "cu": "паша",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "historical Ottoman title; Ukrainian паша also means 'fodder, pasture', and Паша is a short name for Pavlo"
+ },
+ {
+  "en": "phew",
+  "uk": "фу",
+  "v": "identical",
+  "ce": "phew",
+  "cu": "фу",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "Ukrainian фу is used more for disgust (like 'ugh'), but also for relief"
+ },
+ {
+  "en": "pickering",
+  "uk": "пікерінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "plating",
+  "uk": "пластини",
+  "v": "unrelated"
+ },
+ {
+  "en": "pont",
+  "uk": "пон",
+  "v": "unrelated"
+ }
+]

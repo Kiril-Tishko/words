@@ -1,0 +1,862 @@
+[
+ {
+  "en": "ritz",
+  "uk": "рітц",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rolf",
+  "uk": "рольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "soros",
+  "uk": "сорос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "susie",
+  "uk": "сюзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sven",
+  "uk": "свен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "toro",
+  "uk": "торо",
+  "v": "unrelated"
+ },
+ {
+  "en": "tpp",
+  "uk": "тпп",
+  "v": "unrelated"
+ },
+ {
+  "en": "urn",
+  "uk": "урн",
+  "v": "not_lemma",
+  "ce": "urn",
+  "cu": "урна",
+  "lv": "similar",
+  "note": "урн is genitive plural; Ukrainian adds -а"
+ },
+ {
+  "en": "wendell",
+  "uk": "венделл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "whitaker",
+  "uk": "вітакер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "affleck",
+  "uk": "аффлек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alain",
+  "uk": "ален",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andrei",
+  "uk": "андрей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andrei",
+  "uk": "андрій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aristocratic",
+  "uk": "аристократичний",
+  "v": "similar",
+  "ce": "aristocratic",
+  "cu": "аристократичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "aristocratic",
+  "uk": "аристократичній",
+  "v": "not_lemma",
+  "ce": "aristocratic",
+  "cu": "аристократичний",
+  "lv": "similar",
+  "note": "inflected form; Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "arsenic",
+  "uk": "арсен",
+  "v": "similar",
+  "ce": "arsenic",
+  "cu": "арсен",
+  "note": "Ukrainian drops -ic; everyday word is миш'як"
+ },
+ {
+  "en": "aziz",
+  "uk": "азіз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bain",
+  "uk": "бейн",
+  "v": "unrelated"
+ },
+ {
+  "en": "chaplin",
+  "uk": "чаплін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clegg",
+  "uk": "клегг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "corny",
+  "uk": "корні",
+  "v": "unrelated"
+ },
+ {
+  "en": "darth",
+  "uk": "дарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "domino",
+  "uk": "доміно",
+  "v": "identical",
+  "ce": "domino",
+  "cu": "доміно",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": "Ukrainian доміно usually means the game (English: dominoes); indeclinable"
+ },
+ {
+  "en": "donnelly",
+  "uk": "доннеллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dunbar",
+  "uk": "данбар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dyson",
+  "uk": "дайсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "embryonic",
+  "uk": "ембріональний",
+  "v": "similar",
+  "ce": "embryonic",
+  "cu": "ембріональний",
+  "note": "Ukrainian adjective with -альний"
+ },
+ {
+  "en": "emoji",
+  "uk": "емодзі",
+  "v": "similar",
+  "ce": "emoji",
+  "cu": "емодзі",
+  "note": "Ukrainian follows Japanese pronunciation (дз); also емоджі"
+ },
+ {
+  "en": "eos",
+  "uk": "еос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fanatic",
+  "uk": "фанатик",
+  "v": "identical",
+  "ce": "fanatic",
+  "cu": "фанатик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fanatic",
+  "uk": "фанатичка",
+  "v": "not_lemma",
+  "ce": "fanatic",
+  "cu": "фанатик",
+  "lv": "identical",
+  "note": "фанатичка is the feminine form",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ]
+ },
+ {
+  "en": "fragmentation",
+  "uk": "фрагментація",
+  "v": "similar",
+  "ce": "fragmentation",
+  "cu": "фрагментація",
+  "note": "-ation becomes -ація"
+ },
+ {
+  "en": "franks",
+  "uk": "франки",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goth",
+  "uk": "гот",
+  "v": "identical",
+  "ce": "goth",
+  "cu": "гот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": "Ukrainian гот also means a member of the ancient Goths"
+ },
+ {
+  "en": "hermann",
+  "uk": "герман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herr",
+  "uk": "герр",
+  "v": "identical",
+  "ce": "Herr",
+  "cu": "гер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "German title for a man (like Mr.); also spelled герр"
+ },
+ {
+  "en": "lotto",
+  "uk": "лото",
+  "v": "identical",
+  "ce": "lotto",
+  "cu": "лото",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lotto",
+  "uk": "лотто",
+  "v": "identical",
+  "ce": "lotto",
+  "cu": "лото",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": "standard Ukrainian spelling is лото"
+ },
+ {
+  "en": "luka",
+  "uk": "лука",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lukas",
+  "uk": "лукас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lyndon",
+  "uk": "ліндон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macarthur",
+  "uk": "макартур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mari",
+  "uk": "марі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marino",
+  "uk": "марино",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mateo",
+  "uk": "матео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neurology",
+  "uk": "неврологія",
+  "v": "similar",
+  "ce": "neurology",
+  "cu": "неврологія",
+  "note": "-ology becomes -ологія; eu read as ев"
+ },
+ {
+  "en": "nguyen",
+  "uk": "нгуєн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nietzsche",
+  "uk": "ніцше",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odin",
+  "uk": "одін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ost",
+  "uk": "ост",
+  "v": "unrelated"
+ },
+ {
+  "en": "paraguay",
+  "uk": "парагвай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parchment",
+  "uk": "пергамент",
+  "v": "similar",
+  "ce": "parchment",
+  "cu": "пергамент",
+  "note": "different shape: Ukrainian from Latin pergamentum"
+ },
+ {
+  "en": "pesos",
+  "uk": "песо",
+  "v": "not_lemma",
+  "ce": "peso",
+  "cu": "песо",
+  "lv": "identical",
+  "note": "Ukrainian песо is indeclinable",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ]
+ },
+ {
+  "en": "peterborough",
+  "uk": "пітерборо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "polk",
+  "uk": "полк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pollock",
+  "uk": "поллок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "prefix",
+  "uk": "префікс",
+  "v": "identical",
+  "ce": "prefix",
+  "cu": "префікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "proctor",
+  "uk": "проктор",
+  "v": "identical",
+  "ce": "proctor",
+  "cu": "проктор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "education"
+  ],
+  "note": "Ukrainian word is rare, mostly about British/US universities"
+ },
+ {
+  "en": "prologue",
+  "uk": "пролог",
+  "v": "identical",
+  "ce": "prologue",
+  "cu": "пролог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "relational",
+  "uk": "реляційна",
+  "v": "not_lemma",
+  "ce": "relational",
+  "cu": "реляційний",
+  "lv": "similar",
+  "note": "feminine form; Ukrainian adjective ending -ійний"
+ },
+ {
+  "en": "relational model",
+  "uk": "реляційна модель",
+  "v": "similar",
+  "ce": "relational model",
+  "cu": "реляційна модель",
+  "note": "Ukrainian adjective ending; модель adds soft sign"
+ },
+ {
+  "en": "robson",
+  "uk": "робсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rudd",
+  "uk": "радд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ryu",
+  "uk": "рю",
+  "v": "unrelated"
+ },
+ {
+  "en": "scully",
+  "uk": "скаллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "segmentation",
+  "uk": "сегментація",
+  "v": "similar",
+  "ce": "segmentation",
+  "cu": "сегментація",
+  "note": "-ation becomes -ація"
+ },
+ {
+  "en": "sergey",
+  "uk": "сергій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sloane",
+  "uk": "слоун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "speedway",
+  "uk": "спідвей",
+  "v": "identical",
+  "ce": "speedway",
+  "cu": "спідвей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Ukrainian спідвей is the motorcycle sport; in US English also a racetrack"
+ },
+ {
+  "en": "stiles",
+  "uk": "стайлз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "telescopes",
+  "uk": "телескопів",
+  "v": "not_lemma",
+  "ce": "telescope",
+  "cu": "телескоп",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ]
+ },
+ {
+  "en": "tong",
+  "uk": "тун",
+  "v": "unrelated"
+ },
+ {
+  "en": "transplantation",
+  "uk": "трансплантація",
+  "v": "similar",
+  "ce": "transplantation",
+  "cu": "трансплантація",
+  "note": "-ation becomes -ація"
+ },
+ {
+  "en": "triad",
+  "uk": "тріада",
+  "v": "similar",
+  "ce": "triad",
+  "cu": "тріада",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "unicef",
+  "uk": "ЮНІСЕФ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "unicef",
+  "uk": "юнісеф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "uzbekistan",
+  "uk": "узбекистан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "uzbekistan",
+  "uk": "узбекистану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "van gogh",
+  "uk": "ван гог",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wolff",
+  "uk": "вольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abrasive",
+  "uk": "абразив",
+  "v": "identical",
+  "ce": "abrasive",
+  "cu": "абразив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": "English is also an adjective (also 'harsh, rude'); Ukrainian абразив is only the material"
+ },
+ {
+  "en": "accompaniment",
+  "uk": "акомпанемент",
+  "v": "similar",
+  "ce": "accompaniment",
+  "cu": "акомпанемент",
+  "note": "Ukrainian from French accompagnement"
+ },
+ {
+  "en": "ars",
+  "uk": "арс",
+  "v": "unrelated"
+ },
+ {
+  "en": "bas-relief",
+  "uk": "барельєф",
+  "v": "identical",
+  "ce": "bas-relief",
+  "cu": "барельєф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bellevue",
+  "uk": "бельвю",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bloomington",
+  "uk": "блумінгтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brodie",
+  "uk": "броді",
+  "v": "unrelated"
+ },
+ {
+  "en": "carbonate",
+  "uk": "карбонат",
+  "v": "identical",
+  "ce": "carbonate",
+  "cu": "карбонат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry"
+  ],
+  "note": "Ukrainian карбонат also means cured pork loin"
+ },
+ {
+  "en": "carlyle",
+  "uk": "карлайл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catalytic",
+  "uk": "каталітичний",
+  "v": "similar",
+  "ce": "catalytic",
+  "cu": "каталітичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "ceylon",
+  "uk": "цейлон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cheesecake",
+  "uk": "чизкейк",
+  "v": "identical",
+  "ce": "cheesecake",
+  "cu": "чизкейк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chronology",
+  "uk": "хронологія",
+  "v": "similar",
+  "ce": "chronology",
+  "cu": "хронологія",
+  "note": "-ology becomes -ологія"
+ },
+ {
+  "en": "convection",
+  "uk": "конвекція",
+  "v": "similar",
+  "ce": "convection",
+  "cu": "конвекція",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "coronavirus",
+  "uk": "коронавірус",
+  "v": "identical",
+  "ce": "coronavirus",
+  "cu": "коронавірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cosby",
+  "uk": "косбі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cyborg",
+  "uk": "кіборг",
+  "v": "identical",
+  "ce": "cyborg",
+  "cu": "кіборг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "diversification",
+  "uk": "диверсифікація",
+  "v": "similar",
+  "ce": "diversification",
+  "cu": "диверсифікація",
+  "note": "-ation becomes -ація"
+ },
+ {
+  "en": "diversification",
+  "uk": "диверсифікації",
+  "v": "not_lemma",
+  "ce": "diversification",
+  "cu": "диверсифікація",
+  "lv": "similar",
+  "note": "inflected form; -ation becomes -ація"
+ },
+ {
+  "en": "djokovic",
+  "uk": "джокович",
+  "v": "proper_noun"
+ },
+ {
+  "en": "drummond",
+  "uk": "драммонд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "federer",
+  "uk": "федерер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "frazier",
+  "uk": "фрейзер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fuji",
+  "uk": "фудзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gage",
+  "uk": "гейдж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "galway",
+  "uk": "голуей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "granada",
+  "uk": "ґранада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grover",
+  "uk": "гровер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hamid",
+  "uk": "хамід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hanks",
+  "uk": "генкс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heinz",
+  "uk": "гайнц",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hentai",
+  "uk": "хентай",
+  "v": "identical",
+  "ce": "hentai",
+  "cu": "хентай",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hodgson",
+  "uk": "годжсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ina",
+  "uk": "іна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jesuit",
+  "uk": "єзуїт",
+  "v": "similar",
+  "ce": "Jesuit",
+  "cu": "єзуїт",
+  "note": "Ukrainian reads J as Й (Latin style), not дж"
+ },
+ {
+  "en": "kimmel",
+  "uk": "кіммел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "laureate",
+  "uk": "лауреат",
+  "v": "identical",
+  "ce": "laureate",
+  "cu": "лауреат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "laureate",
+  "uk": "лауреатка",
+  "v": "not_lemma",
+  "ce": "laureate",
+  "cu": "лауреат",
+  "lv": "identical",
+  "note": "лауреатка is the feminine form",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ]
+ },
+ {
+  "en": "lear",
+  "uk": "лір",
+  "v": "unrelated"
+ }
+]

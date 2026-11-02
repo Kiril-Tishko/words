@@ -1,0 +1,909 @@
+[
+ {
+  "en": "soprano",
+  "uk": "сопрано",
+  "v": "identical",
+  "ce": "soprano",
+  "cu": "сопрано",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "spectroscopy",
+  "uk": "спектроскопія",
+  "v": "similar",
+  "ce": "spectroscopy",
+  "cu": "спектроскопія",
+  "note": "Ending -ія added."
+ },
+ {
+  "en": "stephenson",
+  "uk": "стефенсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "timmy",
+  "uk": "тіммі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tnt",
+  "uk": "тнт",
+  "v": "identical",
+  "ce": "TNT",
+  "cu": "ТНТ",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "technical",
+   "military"
+  ],
+  "note": "The everyday Ukrainian word is тротил."
+ },
+ {
+  "en": "tracey",
+  "uk": "трейсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tractors",
+  "uk": "трактори",
+  "v": "not_lemma",
+  "ce": "tractor",
+  "cu": "трактор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "Plural form; lemma трактор."
+ },
+ {
+  "en": "unix",
+  "uk": "юнікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "westwood",
+  "uk": "вествуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wilhelm",
+  "uk": "вільгельм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "willard",
+  "uk": "віллард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abstraction",
+  "uk": "абстракція",
+  "v": "similar",
+  "ce": "abstraction",
+  "cu": "абстракція",
+  "note": "Ending -ія added."
+ },
+ {
+  "en": "aspiration",
+  "uk": "аспірація",
+  "v": "partial_false_friend",
+  "ce": "aspiration",
+  "cu": "аспірація",
+  "note": "аспірація = only phonetic/medical aspiration; 'ambition, wish' is прагнення."
+ },
+ {
+  "en": "atkins",
+  "uk": "аткінс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "austen",
+  "uk": "остін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beige",
+  "uk": "беж",
+  "v": "identical",
+  "ce": "beige",
+  "cu": "беж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "The usual adjective is бежевий; беж is the colour name (колір беж), indeclinable."
+ },
+ {
+  "en": "bellamy",
+  "uk": "белламі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bran",
+  "uk": "бран",
+  "v": "unrelated"
+ },
+ {
+  "en": "brigadier",
+  "uk": "бригадир",
+  "v": "false_friend",
+  "ce": "brigadier",
+  "cu": "бригадир",
+  "note": "бригадир = foreman, team leader; the army rank is бригадний генерал."
+ },
+ {
+  "en": "brigadier general",
+  "uk": "бригадний генерал",
+  "v": "similar",
+  "ce": "brigadier general",
+  "cu": "бригадний генерал",
+  "note": "Ukrainian uses the adjective бригадний."
+ },
+ {
+  "en": "calendars",
+  "uk": "календарі",
+  "v": "not_lemma",
+  "ce": "calendar",
+  "cu": "календар",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "note": "Plural form; lemma календар."
+ },
+ {
+  "en": "colleen",
+  "uk": "колін",
+  "v": "unrelated"
+ },
+ {
+  "en": "commune",
+  "uk": "комуни",
+  "v": "not_lemma",
+  "ce": "commune",
+  "cu": "комуна",
+  "lv": "similar",
+  "note": "Plural/genitive form; lemma комуна adds -а."
+ },
+ {
+  "en": "conservatory",
+  "uk": "консерваторія",
+  "v": "partial_false_friend",
+  "ce": "conservatory",
+  "cu": "консерваторія",
+  "note": "консерваторія = music academy only; a glass garden room is оранжерея / зимовий сад."
+ },
+ {
+  "en": "constructions",
+  "uk": "конструкцій",
+  "v": "not_lemma",
+  "ce": "construction",
+  "cu": "конструкція",
+  "lv": "partial_false_friend",
+  "note": "конструкція = a structure, design; 'construction' as building work is будівництво."
+ },
+ {
+  "en": "dans",
+  "uk": "данс",
+  "v": "unrelated"
+ },
+ {
+  "en": "debra",
+  "uk": "дебра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "depressive",
+  "uk": "депресивний",
+  "v": "similar",
+  "ce": "depressive",
+  "cu": "депресивний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "emery",
+  "uk": "емері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epidemiology",
+  "uk": "епідеміологія",
+  "v": "similar",
+  "ce": "epidemiology",
+  "cu": "епідеміологія",
+  "note": "Ending -ія added."
+ },
+ {
+  "en": "exporters",
+  "uk": "експортерів",
+  "v": "not_lemma",
+  "ce": "exporter",
+  "cu": "експортер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Genitive plural form; lemma експортер."
+ },
+ {
+  "en": "fiasco",
+  "uk": "фіаско",
+  "v": "identical",
+  "ce": "fiasco",
+  "cu": "фіаско",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Indeclinable in Ukrainian; usually in зазнати фіаско (to suffer a fiasco)."
+ },
+ {
+  "en": "fiasco",
+  "uk": "фиаско",
+  "v": "not_lemma",
+  "ce": "fiasco",
+  "cu": "фіаско",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "фиаско is the Russian spelling; Ukrainian is фіаско."
+ },
+ {
+  "en": "flo",
+  "uk": "фло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flores",
+  "uk": "флорес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gall",
+  "uk": "гал",
+  "v": "partial_false_friend",
+  "ce": "gall",
+  "cu": "гал",
+  "note": "гал = only the plant growth (biology); gall = cheek/nerve is нахабство, bile is жовч."
+ },
+ {
+  "en": "hallelujah",
+  "uk": "алилуя",
+  "v": "similar",
+  "ce": "hallelujah",
+  "cu": "алілуя",
+  "note": "No h in Ukrainian; алилуя is a variant (church) spelling of алілуя."
+ },
+ {
+  "en": "hallelujah",
+  "uk": "алілуя",
+  "v": "similar",
+  "ce": "hallelujah",
+  "cu": "алілуя",
+  "note": "No h in Ukrainian; matches the spelling alleluia."
+ },
+ {
+  "en": "heinrich",
+  "uk": "генріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hemingway",
+  "uk": "хемінгуей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "horizontally",
+  "uk": "горизонтально",
+  "v": "similar",
+  "ce": "horizontally",
+  "cu": "горизонтально",
+  "note": "Ukrainian adverb ending -но."
+ },
+ {
+  "en": "inverness",
+  "uk": "інвернесс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "isabelle",
+  "uk": "ізабель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jim thorpe",
+  "uk": "джим-торп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jug",
+  "uk": "юг",
+  "v": "unrelated"
+ },
+ {
+  "en": "labrador",
+  "uk": "лабрадор",
+  "v": "identical",
+  "ce": "labrador",
+  "cu": "лабрадор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "The dog breed (Labrador retriever); also the mineral labradorite in Ukrainian. The region Labrador is a place name."
+ },
+ {
+  "en": "latte",
+  "uk": "лате",
+  "v": "identical",
+  "ce": "latte",
+  "cu": "лате",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "lyle",
+  "uk": "лайл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maga",
+  "uk": "мага",
+  "v": "unrelated"
+ },
+ {
+  "en": "margarita",
+  "uk": "маргарита",
+  "v": "identical",
+  "ce": "margarita",
+  "cu": "маргарита",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "The cocktail; also a female name in both languages (маргаритка is a daisy)."
+ },
+ {
+  "en": "masturbating",
+  "uk": "мастурбації",
+  "v": "not_lemma",
+  "ce": "masturbation",
+  "cu": "мастурбація",
+  "lv": "similar",
+  "note": "Inflected form; lemma мастурбація adds -ія."
+ },
+ {
+  "en": "mcbride",
+  "uk": "макбрайд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nadia",
+  "uk": "надя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nadia",
+  "uk": "надія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ollie",
+  "uk": "оллі",
+  "v": "identical",
+  "ce": "ollie",
+  "cu": "оллі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "sport"
+  ],
+  "note": "The skateboard jump; also spelled олі. Also a given name."
+ },
+ {
+  "en": "ollie",
+  "uk": "олі",
+  "v": "unrelated"
+ },
+ {
+  "en": "pedophile",
+  "uk": "педофіл",
+  "v": "identical",
+  "ce": "pedophile",
+  "cu": "педофіл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "law"
+  ],
+  "note": "British spelling: paedophile."
+ },
+ {
+  "en": "pedophile",
+  "uk": "педофілка",
+  "v": "not_lemma",
+  "ce": "pedophile",
+  "cu": "педофіл",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "law"
+  ],
+  "note": "Feminine form (a female pedophile)."
+ },
+ {
+  "en": "peptide",
+  "uk": "пептиди",
+  "v": "not_lemma",
+  "ce": "peptide",
+  "cu": "пептид",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": "Plural form; lemma пептид."
+ },
+ {
+  "en": "periphery",
+  "uk": "периферія",
+  "v": "similar",
+  "ce": "periphery",
+  "cu": "периферія",
+  "note": "Ending -ія added."
+ },
+ {
+  "en": "portals",
+  "uk": "портала",
+  "v": "not_lemma",
+  "ce": "portal",
+  "cu": "портал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Genitive form; lemma портал (web portal or grand entrance)."
+ },
+ {
+  "en": "rahman",
+  "uk": "рахман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rao",
+  "uk": "рао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ravi",
+  "uk": "раві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rhys",
+  "uk": "ріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosenberg",
+  "uk": "розенберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sanford",
+  "uk": "сенфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sclerosis",
+  "uk": "склероз",
+  "v": "similar",
+  "ce": "sclerosis",
+  "cu": "склероз",
+  "note": "Ukrainian -оз for English -osis; склероз also colloquially = forgetfulness."
+ },
+ {
+  "en": "siri",
+  "uk": "сірі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "taj",
+  "uk": "тадж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thorne",
+  "uk": "торн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "toxin",
+  "uk": "токсин",
+  "v": "identical",
+  "ce": "toxin",
+  "cu": "токсин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tudor",
+  "uk": "тудор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "turk",
+  "uk": "турка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "turk",
+  "uk": "турок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "waffle",
+  "uk": "вафлі",
+  "v": "not_lemma",
+  "ce": "waffle",
+  "cu": "вафля",
+  "lv": "similar",
+  "note": "Plural form; lemma вафля adds -я."
+ },
+ {
+  "en": "wanda",
+  "uk": "ванда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "xiao",
+  "uk": "сяо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zara",
+  "uk": "зара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "akbar",
+  "uk": "акбар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "assam",
+  "uk": "ассам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boko",
+  "uk": "боко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brigades",
+  "uk": "бригади",
+  "v": "not_lemma",
+  "ce": "brigade",
+  "cu": "бригада",
+  "lv": "similar",
+  "note": "Plural form; lemma бригада adds -а."
+ },
+ {
+  "en": "brigades",
+  "uk": "бригад",
+  "v": "not_lemma",
+  "ce": "brigade",
+  "cu": "бригада",
+  "lv": "similar",
+  "note": "Genitive plural form; lemma бригада adds -а."
+ },
+ {
+  "en": "cairns",
+  "uk": "кернс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caracas",
+  "uk": "каракас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cassie",
+  "uk": "кессі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cesar",
+  "uk": "сезар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cholera",
+  "uk": "холера",
+  "v": "identical",
+  "ce": "cholera",
+  "cu": "холера",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "In Ukrainian also a mild curse word (Холера!)."
+ },
+ {
+  "en": "clinch",
+  "uk": "клінч",
+  "v": "identical",
+  "ce": "clinch",
+  "cu": "клінч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Only the noun (a hold in boxing/wrestling; also a deadlock); the verb 'to clinch a deal' is not клінч."
+ },
+ {
+  "en": "compulsive",
+  "uk": "компульсивний",
+  "v": "similar",
+  "ce": "compulsive",
+  "cu": "компульсивний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "corrective",
+  "uk": "коректив",
+  "v": "partial_false_friend",
+  "ce": "corrective",
+  "cu": "коректив",
+  "note": "коректив = an adjustment (внести корективи); English corrective is mostly an adjective (виправний)."
+ },
+ {
+  "en": "costello",
+  "uk": "костелло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donaldson",
+  "uk": "дональдсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dossier",
+  "uk": "досьє",
+  "v": "identical",
+  "ce": "dossier",
+  "cu": "досьє",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "draper",
+  "uk": "дрейпер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eastwood",
+  "uk": "іствуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "edna",
+  "uk": "една",
+  "v": "proper_noun"
+ },
+ {
+  "en": "electrodes",
+  "uk": "електроди",
+  "v": "not_lemma",
+  "ce": "electrode",
+  "cu": "електрод",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": "Plural form; lemma електрод."
+ },
+ {
+  "en": "exporter",
+  "uk": "експортер",
+  "v": "identical",
+  "ce": "exporter",
+  "cu": "експортер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fay",
+  "uk": "фе",
+  "v": "unrelated"
+ },
+ {
+  "en": "fay",
+  "uk": "фей",
+  "v": "not_lemma",
+  "ce": "fay",
+  "cu": "фея",
+  "lv": "similar",
+  "note": "Genitive plural of фея; fay (literary) = fairy, Ukrainian фея adds -я."
+ },
+ {
+  "en": "forster",
+  "uk": "форстер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "godfrey",
+  "uk": "годфрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grange",
+  "uk": "гранж",
+  "v": "unrelated"
+ },
+ {
+  "en": "hangar",
+  "uk": "ангар",
+  "v": "similar",
+  "ce": "hangar",
+  "cu": "ангар",
+  "note": "No h in Ukrainian."
+ },
+ {
+  "en": "hathaway",
+  "uk": "гетевей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hermes",
+  "uk": "гермес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "husky",
+  "uk": "хаскі",
+  "v": "identical",
+  "ce": "husky",
+  "cu": "хаскі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Only the dog; a husky voice is хрипкий голос."
+ },
+ {
+  "en": "iggy",
+  "uk": "іггі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jeb",
+  "uk": "джеб",
+  "v": "unrelated"
+ },
+ {
+  "en": "journalistic",
+  "uk": "журналістський",
+  "v": "similar",
+  "ce": "journalistic",
+  "cu": "журналістський",
+  "note": "Ukrainian adjective ending -ський."
+ },
+ {
+  "en": "julien",
+  "uk": "жульєн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kelvin",
+  "uk": "келвін",
+  "v": "not_lemma",
+  "ce": "kelvin",
+  "cu": "кельвін",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units",
+   "physics"
+  ],
+  "note": "келвін is a nonstandard spelling; Ukrainian is кельвін."
+ },
+ {
+  "en": "lai",
+  "uk": "лай",
+  "v": "unrelated"
+ },
+ {
+  "en": "lincolnshire",
+  "uk": "лінкольншир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "louisa",
+  "uk": "луїза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manson",
+  "uk": "менсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marin",
+  "uk": "марін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marta",
+  "uk": "марта",
+  "v": "proper_noun"
+ }
+]

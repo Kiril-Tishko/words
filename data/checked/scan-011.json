@@ -1,0 +1,788 @@
+[
+ {
+  "en": "sol",
+  "uk": "соль",
+  "v": "identical",
+  "ce": "sol",
+  "cu": "соль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Musical note G (do-re-mi-fa-sol); English also so/soh. Both also name the Peruvian currency."
+ },
+ {
+  "en": "fedora",
+  "uk": "федора",
+  "v": "identical",
+  "ce": "fedora",
+  "cu": "федора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": "Soft felt hat."
+ },
+ {
+  "en": "hormone",
+  "uk": "гормони",
+  "v": "not_lemma",
+  "ce": "hormone",
+  "cu": "гормон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology",
+   "medicine"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "dacha",
+  "uk": "дачу",
+  "v": "not_lemma",
+  "ce": "dacha",
+  "cu": "дача",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places",
+   "home"
+  ],
+  "note": "Country house / summer cottage.",
+  "lv": "identical"
+ },
+ {
+  "en": "longlist",
+  "uk": "лонг-лист",
+  "v": "identical",
+  "ce": "longlist",
+  "cu": "лонг-лист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "First list of candidates (e.g. for a prize)."
+ },
+ {
+  "en": "mass-market",
+  "uk": "мас-маркет",
+  "v": "identical",
+  "ce": "mass market",
+  "cu": "мас-маркет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "offshore",
+  "uk": "офшор",
+  "v": "identical",
+  "ce": "offshore",
+  "cu": "офшор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance",
+   "business"
+  ],
+  "note": "Ukrainian is a noun (offshore company/zone); English is mostly an adjective (offshore account), sometimes a noun."
+ },
+ {
+  "en": "parade",
+  "uk": "паради",
+  "v": "not_lemma",
+  "ce": "parade",
+  "cu": "парад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "pardon",
+  "uk": "пардон",
+  "v": "identical",
+  "ce": "pardon",
+  "cu": "пардон",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "note": "Ukrainian: colloquial 'sorry/excuse me'; English pardon also means forgiveness and an official (legal) pardon."
+ },
+ {
+  "en": "style",
+  "uk": "стайл",
+  "v": "identical",
+  "ce": "style",
+  "cu": "стайл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "clothing"
+  ],
+  "note": "Ukrainian стайл is slang (also in фристайл, лайфстайл); the standard word is стиль."
+ },
+ {
+  "en": "trade",
+  "uk": "трейд",
+  "v": "identical",
+  "ce": "trade",
+  "cu": "трейд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "sport"
+  ],
+  "note": "In Ukrainian mostly sports jargon (a player trade) and трейд-ін; general trade = торгівля."
+ },
+ {
+  "en": "sherriff",
+  "uk": "шериф",
+  "v": "identical",
+  "ce": "sheriff",
+  "cu": "шериф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law",
+   "people"
+  ],
+  "note": "Listed spelling 'sherriff' is a variant/misspelling of sheriff."
+ },
+ {
+  "en": "antenna",
+  "uk": "антену",
+  "v": "not_lemma",
+  "ce": "antenna",
+  "cu": "антена",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "farces",
+  "uk": "фарс",
+  "v": "not_lemma",
+  "ce": "farce",
+  "cu": "фарс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also figurative: a sham.",
+  "lv": "identical"
+ },
+ {
+  "en": "comix",
+  "uk": "комікс",
+  "v": "identical",
+  "ce": "comics",
+  "cu": "комікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "art"
+  ],
+  "note": "Listed 'comix' is an informal spelling of comics (esp. underground comics); a comic book = комікс."
+ },
+ {
+  "en": "manna",
+  "uk": "манна",
+  "v": "identical",
+  "ce": "manna",
+  "cu": "манна",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "food"
+  ],
+  "note": "манна крупа = semolina."
+ },
+ {
+  "en": "oxid",
+  "uk": "оксид",
+  "v": "identical",
+  "ce": "oxide",
+  "cu": "оксид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "Listed 'oxid' is an old variant spelling of oxide."
+ },
+ {
+  "en": "fah",
+  "uk": "фа",
+  "v": "identical",
+  "ce": "fa",
+  "cu": "фа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Musical note F (solfège); fah is the British spelling."
+ },
+ {
+  "en": "hosting",
+  "uk": "хостинг",
+  "v": "identical",
+  "ce": "hosting",
+  "cu": "хостинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": "Web hosting."
+ },
+ {
+  "en": "hydrae",
+  "uk": "гідра",
+  "v": "not_lemma",
+  "ce": "hydra",
+  "cu": "гідра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "biology"
+  ],
+  "note": "Also the many-headed monster of Greek myth.",
+  "lv": "identical"
+ },
+ {
+  "en": "drama",
+  "uk": "драму",
+  "v": "not_lemma",
+  "ce": "drama",
+  "cu": "драма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "media"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "lira",
+  "uk": "лір",
+  "v": "not_lemma",
+  "ce": "lira",
+  "cu": "ліра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "Currency (Italian/Turkish lira); Ukrainian ліра also means lyre.",
+  "lv": "identical"
+ },
+ {
+  "en": "service",
+  "uk": "сервісі",
+  "v": "not_lemma",
+  "ce": "service",
+  "cu": "сервіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Both also mean a set of dishes (dinner/tea service).",
+  "lv": "identical"
+ },
+ {
+  "en": "smartphone",
+  "uk": "смартфоні",
+  "v": "not_lemma",
+  "ce": "smartphone",
+  "cu": "смартфон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "fuhrer",
+  "uk": "фюрер",
+  "v": "identical",
+  "ce": "fuhrer",
+  "cu": "фюрер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Hitler's title; figuratively a tyrannical leader."
+ },
+ {
+  "en": "ignore",
+  "uk": "ігнор",
+  "v": "identical",
+  "ce": "ignore",
+  "cu": "ігнор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "media"
+  ],
+  "note": "Ukrainian ігнор is a slang noun (кинути в ігнор = put on ignore); the verb is ігнорувати."
+ },
+ {
+  "en": "cooperative",
+  "uk": "кооператив",
+  "v": "identical",
+  "ce": "cooperative",
+  "cu": "кооператив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": "The adjective is кооперативний."
+ },
+ {
+  "en": "crane",
+  "uk": "крани",
+  "v": "not_lemma",
+  "ce": "crane",
+  "cu": "кран",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "Shared meaning: lifting machine. Ukrainian кран also = water tap; the bird crane = журавель.",
+  "lv": "identical"
+ },
+ {
+  "en": "pasha",
+  "uk": "паші",
+  "v": "not_lemma",
+  "ce": "pasha",
+  "cu": "паша",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Ottoman title. Ukrainian паша also means fodder/pasture; Паша is also a nickname for Павло.",
+  "lv": "identical"
+ },
+ {
+  "en": "rapper",
+  "uk": "репер",
+  "v": "identical",
+  "ce": "rapper",
+  "cu": "репер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": "Ukrainian репер also = survey benchmark (from French repère)."
+ },
+ {
+  "en": "indie",
+  "uk": "інді",
+  "v": "identical",
+  "ce": "indie",
+  "cu": "інді",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "music",
+   "media"
+  ],
+  "note": "Indie music/games; used in compounds like інді-рок."
+ },
+ {
+  "en": "baton",
+  "uk": "батон",
+  "v": "false_friend",
+  "ce": "baton",
+  "cu": "батон",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "батон = long loaf of bread; baton = stick (conductor's, police, relay) = паличка/кийок."
+ },
+ {
+  "en": "electric",
+  "uk": "електрик",
+  "v": "false_friend",
+  "ce": "electric",
+  "cu": "електрик",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "електрик = electrician; electric (adj) = електричний."
+ },
+ {
+  "en": "duma",
+  "uk": "думу",
+  "v": "not_lemma",
+  "ce": "duma",
+  "cu": "дума",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian дума: thought; Ukrainian epic song; also council/Duma. English duma: mainly the Russian parliament.",
+  "lv": "partial_false_friend"
+ },
+ {
+  "en": "ragu",
+  "uk": "рагу",
+  "v": "partial_false_friend",
+  "ce": "ragu",
+  "cu": "рагу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "рагу = stew (English ragout); English ragu = Italian meat sauce for pasta."
+ },
+ {
+  "en": "theory",
+  "uk": "теории",
+  "v": "not_lemma",
+  "ce": "theory",
+  "cu": "теорія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Listed form is Russian spelling; Ukrainian теорія/теорії.",
+  "lv": "similar"
+ },
+ {
+  "en": "physiology",
+  "uk": "фізіології",
+  "v": "not_lemma",
+  "ce": "physiology",
+  "cu": "фізіологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "lily",
+  "uk": "лілії",
+  "v": "not_lemma",
+  "ce": "lily",
+  "cu": "лілія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "medico",
+  "uk": "медика",
+  "v": "not_lemma",
+  "ce": "medico",
+  "cu": "медик",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "medic = медик would be identical.",
+  "lv": "similar"
+ },
+ {
+  "en": "methodology",
+  "uk": "методології",
+  "v": "not_lemma",
+  "ce": "methodology",
+  "cu": "методологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "turbine",
+  "uk": "турбіни",
+  "v": "not_lemma",
+  "ce": "turbine",
+  "cu": "турбіна",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "colleague",
+  "uk": "колегу",
+  "v": "not_lemma",
+  "ce": "colleague",
+  "cu": "колега",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "geology",
+  "uk": "геології",
+  "v": "not_lemma",
+  "ce": "geology",
+  "cu": "геологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "dose",
+  "uk": "доз",
+  "v": "not_lemma",
+  "ce": "dose",
+  "cu": "доза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "catastrophe",
+  "uk": "катастрофі",
+  "v": "not_lemma",
+  "ce": "catastrophe",
+  "cu": "катастрофа",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "monarchy",
+  "uk": "монархії",
+  "v": "not_lemma",
+  "ce": "monarchy",
+  "cu": "монархія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "observatory",
+  "uk": "обсерваторії",
+  "v": "not_lemma",
+  "ce": "observatory",
+  "cu": "обсерваторія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "presidia",
+  "uk": "президія",
+  "v": "not_lemma",
+  "ce": "presidium",
+  "cu": "президія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "presidia is the English plural of presidium.",
+  "lv": "similar"
+ },
+ {
+  "en": "ukase",
+  "uk": "укази",
+  "v": "not_lemma",
+  "ce": "ukase",
+  "cu": "указ",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "ukase: (historical) Russian tsar's edict; arbitrary decree.",
+  "lv": "similar"
+ },
+ {
+  "en": "banknote",
+  "uk": "банкнот",
+  "v": "not_lemma",
+  "ce": "banknote",
+  "cu": "банкнота",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "банкнот is gen. pl. of банкнота (a dated masculine банкнот also exists).",
+  "lv": "similar"
+ },
+ {
+  "en": "vase",
+  "uk": "вази",
+  "v": "not_lemma",
+  "ce": "vase",
+  "cu": "ваза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "heroine",
+  "uk": "героїнь",
+  "v": "not_lemma",
+  "ce": "heroine",
+  "cu": "героїня",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "heroin (drug) = героїн.",
+  "lv": "similar"
+ },
+ {
+  "en": "confederacy",
+  "uk": "конфедерації",
+  "v": "not_lemma",
+  "ce": "confederacy",
+  "cu": "конфедерація",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "platform",
+  "uk": "платформ",
+  "v": "not_lemma",
+  "ce": "platform",
+  "cu": "платформа",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "balcony",
+  "uk": "балкони",
+  "v": "not_lemma",
+  "ce": "balcony",
+  "cu": "балкон",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "doctrine",
+  "uk": "доктрини",
+  "v": "not_lemma",
+  "ce": "doctrine",
+  "cu": "доктрина",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "ecstasy",
+  "uk": "екстазі",
+  "v": "not_lemma",
+  "ce": "ecstasy",
+  "cu": "екстаз",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "екстазі is also the drug name (indeclinable).",
+  "lv": "similar"
+ },
+ {
+  "en": "commerce",
+  "uk": "комерції",
+  "v": "not_lemma",
+  "ce": "commerce",
+  "cu": "комерція",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "conference",
+  "uk": "конференции",
+  "v": "not_lemma",
+  "ce": "conference",
+  "cu": "конференція",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Listed form is Russian spelling; Ukrainian конференція.",
+  "lv": "similar"
+ },
+ {
+  "en": "historiography",
+  "uk": "історіографії",
+  "v": "not_lemma",
+  "ce": "historiography",
+  "cu": "історіографія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "",
+  "lv": "similar"
+ }
+]

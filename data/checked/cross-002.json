@@ -1,0 +1,1941 @@
+[
+ {
+  "en": "register",
+  "uk": "регістр",
+  "v": "partial_false_friend",
+  "ce": "register",
+  "cu": "регістр"
+ },
+ {
+  "en": "register",
+  "uk": "реєстр",
+  "v": "similar",
+  "ce": "register",
+  "cu": "реєстр"
+ },
+ {
+  "en": "flag",
+  "uk": "флаг",
+  "v": "identical",
+  "ce": "flag",
+  "cu": "флаг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "lvl": "B2",
+  "note": "Mostly a ship's flag or a flag in computing; the usual Ukrainian word for a flag is прапор."
+ },
+ {
+  "en": "guest",
+  "uk": "гість",
+  "v": "similar",
+  "ce": "guest",
+  "cu": "гість"
+ },
+ {
+  "en": "heavy metal",
+  "uk": "хеві-метал",
+  "v": "identical",
+  "ce": "heavy metal",
+  "cu": "хеві-метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": "The music genre; heavy metals in chemistry are важкі метали."
+ },
+ {
+  "en": "random",
+  "uk": "рандом",
+  "v": "partial_false_friend",
+  "ce": "random",
+  "cu": "рандом",
+  "why": "English random is mainly an adjective (випадковий); the slang noun рандом ('chance, random pick') has no English noun match."
+ },
+ {
+  "en": "senator",
+  "uk": "сенатор",
+  "v": "identical",
+  "ce": "senator",
+  "cu": "сенатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "chat",
+  "uk": "чат",
+  "v": "identical",
+  "ce": "chat",
+  "cu": "чат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "In Ukrainian mainly an online chat; a face-to-face chat is розмова, балачка."
+ },
+ {
+  "en": "detail",
+  "uk": "деталь",
+  "v": "identical",
+  "ce": "detail",
+  "cu": "деталь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "In Ukrainian also a machine part or component."
+ },
+ {
+  "en": "em",
+  "uk": "ем",
+  "v": "identical",
+  "ce": "em",
+  "cu": "ем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "language"
+  ],
+  "lvl": "C2",
+  "note": "The name of the letter M; in English also a typographic unit (em dash)."
+ },
+ {
+  "en": "favorite",
+  "uk": "фаворит",
+  "v": "partial_false_friend",
+  "ce": "favorite",
+  "cu": "фаворит"
+ },
+ {
+  "en": "food truck",
+  "uk": "фудтрак",
+  "v": "identical",
+  "ce": "food truck",
+  "cu": "фудтрак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "transport"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "fruit",
+  "uk": "фрукт",
+  "v": "similar",
+  "ce": "fruit",
+  "cu": "фрукт"
+ },
+ {
+  "en": "index",
+  "uk": "індекс",
+  "v": "identical",
+  "ce": "index",
+  "cu": "індекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B2",
+  "note": "In Ukrainian also a postal code (поштовий індекс); a book index is usually покажчик."
+ },
+ {
+  "en": "rock and roll",
+  "uk": "рок-н-рол",
+  "v": "identical",
+  "ce": "rock and roll",
+  "cu": "рок-н-рол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "tank",
+  "uk": "танк",
+  "v": "identical",
+  "ce": "tank",
+  "cu": "танк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B1",
+  "note": "In Ukrainian only the military vehicle; a fuel or water tank is бак, резервуар."
+ },
+ {
+  "en": "yard",
+  "uk": "ярд",
+  "v": "identical",
+  "ce": "yard",
+  "cu": "ярд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units"
+  ],
+  "lvl": "B1",
+  "note": "Only the unit of length (0.91 m); a yard around a house is двір."
+ },
+ {
+  "en": "basketball",
+  "uk": "баскетбол",
+  "v": "identical",
+  "ce": "basketball",
+  "cu": "баскетбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "combat",
+  "uk": "комбат",
+  "v": "false_friend",
+  "ce": "combat",
+  "cu": "комбат"
+ },
+ {
+  "en": "exclusive",
+  "uk": "ексклюзив",
+  "v": "identical",
+  "ce": "exclusive",
+  "cu": "ексклюзив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "lvl": "C1",
+  "note": "The noun (an exclusive story or item); the adjective is ексклюзивний."
+ },
+ {
+  "en": "expert",
+  "uk": "експерт",
+  "v": "identical",
+  "ce": "expert",
+  "cu": "експерт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "golf",
+  "uk": "гольф",
+  "v": "identical",
+  "ce": "golf",
+  "cu": "гольф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": "In Ukrainian гольф also means a turtleneck sweater; гольфи = knee socks."
+ },
+ {
+  "en": "object",
+  "uk": "об'єкт",
+  "v": "identical",
+  "ce": "object",
+  "cu": "об'єкт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B1",
+  "note": "In Ukrainian also a site or facility (будівельний об'єкт)."
+ },
+ {
+  "en": "personnel",
+  "uk": "персонал",
+  "v": "similar",
+  "ce": "personnel",
+  "cu": "персонал"
+ },
+ {
+  "en": "premier",
+  "uk": "прем'єр",
+  "v": "identical",
+  "ce": "premier",
+  "cu": "прем'єр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "lvl": "C1",
+  "note": "Head of government; in Ukrainian also a lead actor. A premiere is прем'єра."
+ },
+ {
+  "en": "arrest",
+  "uk": "арешт",
+  "v": "similar",
+  "ce": "arrest",
+  "cu": "арешт"
+ },
+ {
+  "en": "ban",
+  "uk": "бан",
+  "v": "identical",
+  "ce": "ban",
+  "cu": "бан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "tech"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian mostly an online or game ban; a general ban is заборона."
+ },
+ {
+  "en": "brilliant",
+  "uk": "брильянт",
+  "v": "partial_false_friend",
+  "ce": "brilliant",
+  "cu": "брильянт"
+ },
+ {
+  "en": "carbon",
+  "uk": "карбон",
+  "v": "partial_false_friend",
+  "ce": "carbon",
+  "cu": "карбон"
+ },
+ {
+  "en": "Catholic",
+  "uk": "католик",
+  "v": "identical",
+  "ce": "Catholic",
+  "cu": "католик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "lvl": "B2",
+  "note": "Capitalized in English; lowercase catholic also means 'universal, wide-ranging'."
+ },
+ {
+  "en": "concert",
+  "uk": "концерт",
+  "v": "identical",
+  "ce": "concert",
+  "cu": "концерт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "A1",
+  "note": "In Ukrainian also a concerto."
+ },
+ {
+  "en": "crash",
+  "uk": "крах",
+  "v": "partial_false_friend",
+  "ce": "crash",
+  "cu": "крах"
+ },
+ {
+  "en": "interior",
+  "uk": "інтер'єр",
+  "v": "identical",
+  "ce": "interior",
+  "cu": "інтер'єр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "lvl": "B2",
+  "note": "Only the noun (inside of a building, interior design); the adjective is внутрішній."
+ },
+ {
+  "en": "manner",
+  "uk": "манір",
+  "v": "similar",
+  "ce": "manner",
+  "cu": "манір"
+ },
+ {
+  "en": "mate",
+  "uk": "мат",
+  "v": "partial_false_friend",
+  "ce": "mate",
+  "cu": "мат"
+ },
+ {
+  "en": "mate",
+  "uk": "мате",
+  "v": "identical",
+  "ce": "mate",
+  "cu": "мате",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "lvl": "C1",
+  "note": "Only the South American herbal drink (yerba mate); mate meaning 'friend' is друг."
+ },
+ {
+  "en": "panel",
+  "uk": "панель",
+  "v": "identical",
+  "ce": "panel",
+  "cu": "панель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "lvl": "B2",
+  "note": "A wall, control or solar panel; a panel of judges is журі or комісія."
+ },
+ {
+  "en": "relief",
+  "uk": "рельєф",
+  "v": "partial_false_friend",
+  "ce": "relief",
+  "cu": "рельєф"
+ },
+ {
+  "en": "bas-relief",
+  "uk": "барельєф",
+  "v": "identical",
+  "ce": "bas-relief",
+  "cu": "барельєф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art"
+  ],
+  "lvl": "C1",
+  "note": ""
+ },
+ {
+  "en": "rice",
+  "uk": "рис",
+  "v": "identical",
+  "ce": "rice",
+  "cu": "рис",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "absolute",
+  "uk": "абсолют",
+  "v": "identical",
+  "ce": "absolute",
+  "cu": "абсолют",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "lvl": "C1",
+  "note": "Noun only (the Absolute; something perfect); the adjective is абсолютний."
+ },
+ {
+  "en": "baseball",
+  "uk": "бейсбол",
+  "v": "identical",
+  "ce": "baseball",
+  "cu": "бейсбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "cable",
+  "uk": "кабель",
+  "v": "identical",
+  "ce": "cable",
+  "cu": "кабель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "client",
+  "uk": "клієнт",
+  "v": "identical",
+  "ce": "client",
+  "cu": "клієнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "democrat",
+  "uk": "демократ",
+  "v": "identical",
+  "ce": "democrat",
+  "cu": "демократ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "incident",
+  "uk": "інцидент",
+  "v": "identical",
+  "ce": "incident",
+  "cu": "інцидент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "soviet",
+  "uk": "совєт",
+  "v": "partial_false_friend",
+  "ce": "soviet",
+  "cu": "совєт",
+  "why": "совєт is a colloquial, derogatory Russianism, not standard Ukrainian; standard words are рада (council) and радянський."
+ },
+ {
+  "en": "tight end",
+  "uk": "тайт-енд",
+  "v": "identical",
+  "ce": "tight end",
+  "cu": "тайт-енд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "sport"
+  ],
+  "lvl": "C2",
+  "note": "A position in American football."
+ },
+ {
+  "en": "motor",
+  "uk": "мотор",
+  "v": "identical",
+  "ce": "motor",
+  "cu": "мотор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "PC",
+  "uk": "ПК",
+  "v": "identical",
+  "ce": "PC",
+  "cu": "ПК",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "tech"
+  ],
+  "lvl": "A2",
+  "note": "Personal computer; ПК is read 'пе-ка'. PC meaning 'politically correct' is not ПК."
+ },
+ {
+  "en": "peak",
+  "uk": "пік",
+  "v": "identical",
+  "ce": "peak",
+  "cu": "пік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "lvl": "B2",
+  "note": "Mountain peak or highest point; час пік = rush hour."
+ },
+ {
+  "en": "protein",
+  "uk": "протеїн",
+  "v": "identical",
+  "ce": "protein",
+  "cu": "протеїн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "science",
+   "food"
+  ],
+  "lvl": "B2",
+  "note": "In biology білок is more usual; протеїн is common for protein powder and sports nutrition."
+ },
+ {
+  "en": "region",
+  "uk": "регіон",
+  "v": "identical",
+  "ce": "region",
+  "cu": "регіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "debut",
+  "uk": "дебют",
+  "v": "identical",
+  "ce": "debut",
+  "cu": "дебют",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian also a chess opening."
+ },
+ {
+  "en": "fantasy",
+  "uk": "фентезі",
+  "v": "identical",
+  "ce": "fantasy",
+  "cu": "фентезі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "lvl": "B1",
+  "note": "Only the genre (books, films, games); imagination or a daydream is фантазія."
+ },
+ {
+  "en": "pilot",
+  "uk": "пілот",
+  "v": "identical",
+  "ce": "pilot",
+  "cu": "пілот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "A2",
+  "note": "Aircraft pilot (also racing driver); a ship's pilot is лоцман."
+ },
+ {
+  "en": "theater",
+  "uk": "театр",
+  "v": "identical",
+  "ce": "theater",
+  "cu": "театр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": "British spelling: theatre."
+ },
+ {
+  "en": "campus",
+  "uk": "кампус",
+  "v": "identical",
+  "ce": "campus",
+  "cu": "кампус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education",
+   "places"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "commander",
+  "uk": "командер",
+  "v": "partial_false_friend",
+  "ce": "commander",
+  "cu": "командер",
+  "why": "командер is a rare form used only for a foreign naval rank; the main meaning of commander is командир."
+ },
+ {
+  "en": "commander",
+  "uk": "командир",
+  "v": "similar",
+  "ce": "commander",
+  "cu": "командир"
+ },
+ {
+  "en": "dan",
+  "uk": "дан",
+  "v": "identical",
+  "ce": "dan",
+  "cu": "дан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "lvl": "C2",
+  "note": "Only a black-belt rank in martial arts."
+ },
+ {
+  "en": "musical",
+  "uk": "мюзикл",
+  "v": "identical",
+  "ce": "musical",
+  "cu": "мюзикл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": "Only the noun (a musical show); the adjective is музичний."
+ },
+ {
+  "en": "plastic",
+  "uk": "пластик",
+  "v": "identical",
+  "ce": "plastic",
+  "cu": "пластик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Also colloquially a bank card, like English."
+ },
+ {
+  "en": "trend",
+  "uk": "тренд",
+  "v": "identical",
+  "ce": "trend",
+  "cu": "тренд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "aspect",
+  "uk": "аспект",
+  "v": "identical",
+  "ce": "aspect",
+  "cu": "аспект",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Grammatical aspect is вид."
+ },
+ {
+  "en": "equivalent",
+  "uk": "еквівалент",
+  "v": "identical",
+  "ce": "equivalent",
+  "cu": "еквівалент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B2",
+  "note": "Noun only (an equivalent); the adjective is еквівалентний."
+ },
+ {
+  "en": "lift",
+  "uk": "ліфт",
+  "v": "identical",
+  "ce": "lift",
+  "cu": "ліфт",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "home"
+  ],
+  "lvl": "B1",
+  "note": "British word; American English says elevator. The verb 'to lift' is піднімати."
+ },
+ {
+  "en": "roman",
+  "uk": "роман",
+  "v": "false_friend",
+  "ce": "roman",
+  "cu": "роман"
+ },
+ {
+  "en": "bush",
+  "uk": "буш",
+  "v": "partial_false_friend",
+  "ce": "bush",
+  "cu": "буш"
+ },
+ {
+  "en": "cabinet",
+  "uk": "кабінет",
+  "v": "partial_false_friend",
+  "ce": "cabinet",
+  "cu": "кабінет"
+ },
+ {
+  "en": "gender role",
+  "uk": "гендерна роль",
+  "v": "similar",
+  "ce": "gender role",
+  "cu": "гендерна роль"
+ },
+ {
+  "en": "junior",
+  "uk": "джуніор",
+  "v": "identical",
+  "ce": "junior",
+  "cu": "джуніор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "tech"
+  ],
+  "lvl": "B2",
+  "note": "IT slang for a junior developer (also джун); a junior athlete is юніор."
+ },
+ {
+  "en": "junior",
+  "uk": "юніор",
+  "v": "identical",
+  "ce": "junior",
+  "cu": "юніор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "lvl": "B2",
+  "note": "A junior athlete (youth category); in IT a junior is джуніор or джун."
+ },
+ {
+  "en": "jury",
+  "uk": "журі",
+  "v": "identical",
+  "ce": "jury",
+  "cu": "журі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian mostly a panel of judges at a competition; a court jury is usually присяжні."
+ },
+ {
+  "en": "monster",
+  "uk": "монстр",
+  "v": "identical",
+  "ce": "monster",
+  "cu": "монстр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "speaker",
+  "uk": "спікер",
+  "v": "partial_false_friend",
+  "ce": "speaker",
+  "cu": "спікер"
+ },
+ {
+  "en": "tone",
+  "uk": "тон",
+  "v": "identical",
+  "ce": "tone",
+  "cu": "тон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "auto",
+  "uk": "авто",
+  "v": "identical",
+  "ce": "auto",
+  "cu": "авто",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "transport"
+  ],
+  "lvl": "B2",
+  "note": "Means 'car'. In English mostly in compounds (auto industry, auto parts)."
+ },
+ {
+  "en": "Latin",
+  "uk": "латинь",
+  "v": "identical",
+  "ce": "Latin",
+  "cu": "латинь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "language"
+  ],
+  "lvl": "B2",
+  "note": "The Latin language. More usual Ukrainian: латина or латинська мова."
+ },
+ {
+  "en": "symptom",
+  "uk": "симптом",
+  "v": "identical",
+  "ce": "symptom",
+  "cu": "симптом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "trick",
+  "uk": "трюк",
+  "v": "similar",
+  "ce": "trick",
+  "cu": "трюк"
+ },
+ {
+  "en": "audio",
+  "uk": "аудіо",
+  "v": "identical",
+  "ce": "audio",
+  "cu": "аудіо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A2",
+  "note": "In Ukrainian also a prefix: аудіокнига = audiobook."
+ },
+ {
+  "en": "format",
+  "uk": "формат",
+  "v": "identical",
+  "ce": "format",
+  "cu": "формат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "killer",
+  "uk": "кілер",
+  "v": "identical",
+  "ce": "killer",
+  "cu": "кілер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "lvl": "B1",
+  "note": "кілер usually means a hired killer (hitman); a killer in general is вбивця."
+ },
+ {
+  "en": "parking",
+  "uk": "паркінг",
+  "v": "partial_false_friend",
+  "ce": "parking",
+  "cu": "паркінг",
+  "why": "паркінг is a countable car park; English parking is mainly the act of parking, and 'a parking' is wrong (car park, parking lot)."
+ },
+ {
+  "en": "contrast",
+  "uk": "контраст",
+  "v": "identical",
+  "ce": "contrast",
+  "cu": "контраст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "moral",
+  "uk": "мораль",
+  "v": "identical",
+  "ce": "moral",
+  "cu": "мораль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "мораль also means morality (English: morals); the adjective is моральний."
+ },
+ {
+  "en": "server",
+  "uk": "сервер",
+  "v": "identical",
+  "ce": "server",
+  "cu": "сервер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "In Ukrainian only the computer sense; a waiter (US server) is офіціант."
+ },
+ {
+  "en": "shock",
+  "uk": "шок",
+  "v": "identical",
+  "ce": "shock",
+  "cu": "шок",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions",
+   "medicine"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "angel",
+  "uk": "ангел",
+  "v": "identical",
+  "ce": "angel",
+  "cu": "ангел",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "bonus",
+  "uk": "бонус",
+  "v": "identical",
+  "ce": "bonus",
+  "cu": "бонус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "duke",
+  "uk": "дюк",
+  "v": "identical",
+  "ce": "duke",
+  "cu": "дюк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people"
+  ],
+  "lvl": "C1",
+  "note": "The usual Ukrainian word is герцог; дюк is used mainly for French dukes."
+ },
+ {
+  "en": "flash",
+  "uk": "флеш",
+  "v": "partial_false_friend",
+  "ce": "flash",
+  "cu": "флеш"
+ },
+ {
+  "en": "formula",
+  "uk": "формула",
+  "v": "identical",
+  "ce": "formula",
+  "cu": "формула",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math",
+   "chemistry"
+  ],
+  "lvl": "B1",
+  "note": "Baby formula is дитяча суміш."
+ },
+ {
+  "en": "fort",
+  "uk": "форт",
+  "v": "identical",
+  "ce": "fort",
+  "cu": "форт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "palace",
+  "uk": "палац",
+  "v": "identical",
+  "ce": "palace",
+  "cu": "палац",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "penalty",
+  "uk": "пенальті",
+  "v": "identical",
+  "ce": "penalty",
+  "cu": "пенальті",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "lvl": "B2",
+  "note": "Only a penalty kick in football; other penalties are штраф or покарання."
+ },
+ {
+  "en": "protest",
+  "uk": "протест",
+  "v": "identical",
+  "ce": "protest",
+  "cu": "протест",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "rating",
+  "uk": "рейтинг",
+  "v": "identical",
+  "ce": "rating",
+  "cu": "рейтинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "component",
+  "uk": "компонент",
+  "v": "identical",
+  "ce": "component",
+  "cu": "компонент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "ideal",
+  "uk": "ідеал",
+  "v": "identical",
+  "ce": "ideal",
+  "cu": "ідеал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B2",
+  "note": "Noun only; the adjective ideal is ідеальний."
+ },
+ {
+  "en": "lieutenant",
+  "uk": "лейтенант",
+  "v": "identical",
+  "ce": "lieutenant",
+  "cu": "лейтенант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "mini",
+  "uk": "міні",
+  "v": "identical",
+  "ce": "mini",
+  "cu": "міні",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Often a prefix (міні-спідниця); also short for miniskirt."
+ },
+ {
+  "en": "muscle",
+  "uk": "мускул",
+  "v": "similar",
+  "ce": "muscle",
+  "cu": "мускул"
+ },
+ {
+  "en": "producer",
+  "uk": "продюсер",
+  "v": "identical",
+  "ce": "producer",
+  "cu": "продюсер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media",
+   "music"
+  ],
+  "lvl": "B1",
+  "note": "Film or music producer only; a producer of goods is виробник."
+ },
+ {
+  "en": "tag",
+  "uk": "тег",
+  "v": "identical",
+  "ce": "tag",
+  "cu": "тег",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "media"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian mostly a digital tag (hashtag, HTML tag); a label on goods is бирка, ярлик."
+ },
+ {
+  "en": "avenue",
+  "uk": "авеню",
+  "v": "identical",
+  "ce": "avenue",
+  "cu": "авеню",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "B1",
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "pizza",
+  "uk": "піца",
+  "v": "identical",
+  "ce": "pizza",
+  "cu": "піца",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "port wine",
+  "uk": "портвейн",
+  "v": "similar",
+  "ce": "port wine",
+  "cu": "портвейн"
+ },
+ {
+  "en": "romantic",
+  "uk": "романтик",
+  "v": "identical",
+  "ce": "romantic",
+  "cu": "романтик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "lvl": "B2",
+  "note": "Only the noun (a romantic person, a Romantic artist); the adjective is романтичний."
+ },
+ {
+  "en": "android",
+  "uk": "андроїд",
+  "v": "identical",
+  "ce": "android",
+  "cu": "андроїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "C1",
+  "note": "A humanoid robot; also the Android operating system (a brand name)."
+ },
+ {
+  "en": "comic",
+  "uk": "комік",
+  "v": "partial_false_friend",
+  "ce": "comic",
+  "cu": "комік"
+ },
+ {
+  "en": "comic",
+  "uk": "комікс",
+  "v": "similar",
+  "ce": "comic",
+  "cu": "комікс"
+ },
+ {
+  "en": "designer",
+  "uk": "дизайнер",
+  "v": "identical",
+  "ce": "designer",
+  "cu": "дизайнер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "art"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "establishment",
+  "uk": "істеблішмент",
+  "v": "identical",
+  "ce": "establishment",
+  "cu": "істеблішмент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "lvl": "C1",
+  "note": "Only 'the Establishment' (ruling elite); founding is заснування, a business is заклад."
+ },
+ {
+  "en": "hockey",
+  "uk": "хокей",
+  "v": "identical",
+  "ce": "hockey",
+  "cu": "хокей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A0",
+  "note": "Usually ice hockey; field hockey is хокей на траві."
+ },
+ {
+  "en": "Islam",
+  "uk": "іслам",
+  "v": "identical",
+  "ce": "Islam",
+  "cu": "іслам",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "lvl": "B2",
+  "note": "Lowercase in Ukrainian."
+ },
+ {
+  "en": "racist",
+  "uk": "расист",
+  "v": "identical",
+  "ce": "racist",
+  "cu": "расист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "lvl": "B2",
+  "note": "Noun only; the adjective is расистський."
+ },
+ {
+  "en": "sexy",
+  "uk": "сексі",
+  "v": "identical",
+  "ce": "sexy",
+  "cu": "сексі",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "people"
+  ],
+  "lvl": "B2",
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "virus",
+  "uk": "вірус",
+  "v": "identical",
+  "ce": "virus",
+  "cu": "вірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "Also a computer virus, as in English."
+ },
+ {
+  "en": "bureau",
+  "uk": "бюро",
+  "v": "identical",
+  "ce": "bureau",
+  "cu": "бюро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": "Indeclinable in Ukrainian; also a writing desk."
+ },
+ {
+  "en": "comfort",
+  "uk": "комфорт",
+  "v": "identical",
+  "ce": "comfort",
+  "cu": "комфорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "lvl": "B1",
+  "note": "Physical comfort or ease; comfort as consolation is втіха, розрада."
+ },
+ {
+  "en": "cousin",
+  "uk": "кузен",
+  "v": "identical",
+  "ce": "cousin",
+  "cu": "кузен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "people"
+  ],
+  "lvl": "A0",
+  "note": "Male cousin only (female: кузина); the everyday word is двоюрідний брат."
+ },
+ {
+  "en": "crack",
+  "uk": "крек",
+  "v": "partial_false_friend",
+  "ce": "crack",
+  "cu": "крек"
+ },
+ {
+  "en": "dragon",
+  "uk": "дракон",
+  "v": "similar",
+  "ce": "dragon",
+  "cu": "дракон"
+ },
+ {
+  "en": "memorial",
+  "uk": "меморіал",
+  "v": "identical",
+  "ce": "memorial",
+  "cu": "меморіал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "B2",
+  "note": "Also a memorial sports tournament."
+ },
+ {
+  "en": "priority",
+  "uk": "пріоритет",
+  "v": "similar",
+  "ce": "priority",
+  "cu": "пріоритет"
+ },
+ {
+  "en": "telephone",
+  "uk": "телефон",
+  "v": "identical",
+  "ce": "telephone",
+  "cu": "телефон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A1",
+  "note": "Also used for 'phone number'."
+ },
+ {
+  "en": "trans",
+  "uk": "транс",
+  "v": "false_friend",
+  "ce": "trans",
+  "cu": "транс"
+ },
+ {
+  "en": "alliance",
+  "uk": "альянс",
+  "v": "identical",
+  "ce": "alliance",
+  "cu": "альянс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "bro",
+  "uk": "бро",
+  "v": "identical",
+  "ce": "bro",
+  "cu": "бро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "people"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "crystal",
+  "uk": "кристал",
+  "v": "identical",
+  "ce": "crystal",
+  "cu": "кристал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B2",
+  "note": "Crystal glassware is кришталь."
+ },
+ {
+  "en": "crystal",
+  "uk": "кришталь",
+  "v": "similar",
+  "ce": "crystal",
+  "cu": "кришталь"
+ },
+ {
+  "en": "dean",
+  "uk": "декан",
+  "v": "similar",
+  "ce": "dean",
+  "cu": "декан"
+ },
+ {
+  "en": "hop",
+  "uk": "гоп",
+  "v": "false_friend",
+  "ce": "hop",
+  "cu": "гоп",
+  "why": "Same form, different meanings: hop = a small jump, to jump (стрибок, стрибати); гоп = an interjection or slang for a thug."
+ },
+ {
+  "en": "rugby",
+  "uk": "регбі",
+  "v": "identical",
+  "ce": "rugby",
+  "cu": "регбі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "sake",
+  "uk": "саке",
+  "v": "identical",
+  "ce": "sake",
+  "cu": "саке",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "lvl": "C1",
+  "note": "Japanese rice wine; 'for the sake of' (заради) is a different English word."
+ },
+ {
+  "en": "self-harm",
+  "uk": "селфхарм",
+  "v": "identical",
+  "ce": "self-harm",
+  "cu": "селфхарм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "informal",
+   "medicine"
+  ],
+  "lvl": "C1",
+  "note": "The standard Ukrainian word is самоушкодження."
+ },
+ {
+  "en": "cricket",
+  "uk": "крикет",
+  "v": "identical",
+  "ce": "cricket",
+  "cu": "крикет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": "Only the sport; the insect is цвіркун."
+ },
+ {
+  "en": "critic",
+  "uk": "критик",
+  "v": "identical",
+  "ce": "critic",
+  "cu": "критик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "art"
+  ],
+  "lvl": "B1",
+  "note": "Criticism is критика."
+ },
+ {
+  "en": "fitness",
+  "uk": "фітнес",
+  "v": "identical",
+  "ce": "fitness",
+  "cu": "фітнес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B1",
+  "note": "Only exercise and physical fitness; suitability is придатність."
+ },
+ {
+  "en": "idiot",
+  "uk": "ідіот",
+  "v": "identical",
+  "ce": "idiot",
+  "cu": "ідіот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "international",
+   "people"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "medal",
+  "uk": "медаль",
+  "v": "identical",
+  "ce": "medal",
+  "cu": "медаль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "narrative",
+  "uk": "наратив",
+  "v": "identical",
+  "ce": "narrative",
+  "cu": "наратив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "C1",
+  "note": "Noun only; the adjective is наративний or розповідний."
+ },
+ {
+  "en": "resource",
+  "uk": "ресурс",
+  "v": "identical",
+  "ce": "resource",
+  "cu": "ресурс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "experiment",
+  "uk": "експеримент",
+  "v": "identical",
+  "ce": "experiment",
+  "cu": "експеримент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "forum",
+  "uk": "форум",
+  "v": "identical",
+  "ce": "forum",
+  "cu": "форум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "journalist",
+  "uk": "журналіст",
+  "v": "identical",
+  "ce": "journalist",
+  "cu": "журналіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "pope",
+  "uk": "поп",
+  "v": "false_friend",
+  "ce": "pope",
+  "cu": "поп"
+ },
+ {
+  "en": "resident",
+  "uk": "резидент",
+  "v": "partial_false_friend",
+  "ce": "resident",
+  "cu": "резидент"
+ }
+]

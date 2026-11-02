@@ -1,0 +1,932 @@
+[
+ {
+  "en": "guantanamo",
+  "uk": "гуантанамо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hadley",
+  "uk": "хедлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hypnosis",
+  "uk": "гіпноз",
+  "v": "similar",
+  "ce": "hypnosis",
+  "cu": "гіпноз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "iain",
+  "uk": "ієн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ingrid",
+  "uk": "інгрід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "instinctively",
+  "uk": "інстинктивно",
+  "v": "similar",
+  "ce": "instinctively",
+  "cu": "інстинктивно",
+  "note": "Ukrainian adverb ending -о"
+ },
+ {
+  "en": "jimi",
+  "uk": "джимі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "judo",
+  "uk": "дзюдо",
+  "v": "similar",
+  "ce": "judo",
+  "cu": "дзюдо",
+  "note": "Ukrainian follows Japanese: дзю- instead of джу-"
+ },
+ {
+  "en": "karnataka",
+  "uk": "карнатака",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keane",
+  "uk": "кін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keating",
+  "uk": "кітінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kev",
+  "uk": "кев",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kurdistan",
+  "uk": "курдистан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lsd",
+  "uk": "лсд",
+  "v": "identical",
+  "ce": "LSD",
+  "cu": "ЛСД",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "international",
+   "chemistry"
+  ],
+  "note": "The drug; read 'ел-ес-де'."
+ },
+ {
+  "en": "luigi",
+  "uk": "луїджі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mabel",
+  "uk": "мейбл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maddie",
+  "uk": "медді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maxine",
+  "uk": "максін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "melinda",
+  "uk": "мелінда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "microbiology",
+  "uk": "мікробіологія",
+  "v": "similar",
+  "ce": "microbiology",
+  "cu": "мікробіологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "namibia",
+  "uk": "намібія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "navajo",
+  "uk": "навахо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nectar",
+  "uk": "нектар",
+  "v": "identical",
+  "ce": "nectar",
+  "cu": "нектар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nitrate",
+  "uk": "нітрат",
+  "v": "identical",
+  "ce": "nitrate",
+  "cu": "нітрат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "olympus",
+  "uk": "олімп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pastel",
+  "uk": "пастель",
+  "v": "identical",
+  "ce": "pastel",
+  "cu": "пастель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Pastel colors = пастельні кольори (adjective)."
+ },
+ {
+  "en": "pessimistic",
+  "uk": "песимістичний",
+  "v": "similar",
+  "ce": "pessimistic",
+  "cu": "песимістичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "pesticide",
+  "uk": "пестицид",
+  "v": "identical",
+  "ce": "pesticide",
+  "cu": "пестицид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pesticide",
+  "uk": "пестициди",
+  "v": "not_lemma",
+  "ce": "pesticide",
+  "cu": "пестицид",
+  "lv": "identical",
+  "note": "plural of пестицид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ]
+ },
+ {
+  "en": "phosphorus",
+  "uk": "фосфор",
+  "v": "similar",
+  "ce": "phosphorus",
+  "cu": "фосфор",
+  "note": "Ukrainian drops the ending -us"
+ },
+ {
+  "en": "prototypes",
+  "uk": "прототипи",
+  "v": "not_lemma",
+  "ce": "prototype",
+  "cu": "прототип",
+  "lv": "identical",
+  "note": "plural of прототип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ]
+ },
+ {
+  "en": "psychotherapy",
+  "uk": "психотерапії",
+  "v": "not_lemma",
+  "ce": "psychotherapy",
+  "cu": "психотерапія",
+  "lv": "similar",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "psychotherapy",
+  "uk": "психотерапія",
+  "v": "similar",
+  "ce": "psychotherapy",
+  "cu": "психотерапія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "radcliffe",
+  "uk": "редкліфф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rama",
+  "uk": "рама",
+  "v": "proper_noun"
+ },
+ {
+  "en": "realtor",
+  "uk": "рієлтор",
+  "v": "identical",
+  "ce": "realtor",
+  "cu": "рієлтор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "people"
+  ],
+  "note": "Also spelled ріелтор."
+ },
+ {
+  "en": "rees",
+  "uk": "ріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reptile",
+  "uk": "рептилія",
+  "v": "similar",
+  "ce": "reptile",
+  "cu": "рептилія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "robyn",
+  "uk": "робін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rowling",
+  "uk": "роулінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sauna",
+  "uk": "сауна",
+  "v": "identical",
+  "ce": "sauna",
+  "cu": "сауна",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sem",
+  "uk": "сем",
+  "v": "unrelated"
+ },
+ {
+  "en": "shen",
+  "uk": "шен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "slade",
+  "uk": "слейд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "smoothie",
+  "uk": "смузі",
+  "v": "identical",
+  "ce": "smoothie",
+  "cu": "смузі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Indeclinable; Ukrainian writes з for the English 'th' sound."
+ },
+ {
+  "en": "sundance",
+  "uk": "санденс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sylvester",
+  "uk": "сильвестр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tabloid",
+  "uk": "таблоїд",
+  "v": "identical",
+  "ce": "tabloid",
+  "cu": "таблоїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "taft",
+  "uk": "тафт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "triathlon",
+  "uk": "тріатлон",
+  "v": "identical",
+  "ce": "triathlon",
+  "cu": "тріатлон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tweed",
+  "uk": "твід",
+  "v": "identical",
+  "ce": "tweed",
+  "cu": "твід",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ultimatum",
+  "uk": "ультиматум",
+  "v": "identical",
+  "ce": "ultimatum",
+  "cu": "ультиматум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "vettel",
+  "uk": "феттель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "weinstein",
+  "uk": "вайнштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yin-yang",
+  "uk": "їнь-ян",
+  "v": "identical",
+  "ce": "yin-yang",
+  "cu": "інь-ян",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Usual spelling інь-ян (also інь і ян); їнь-ян is a rare variant."
+ },
+ {
+  "en": "yoon",
+  "uk": "юн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "annette",
+  "uk": "аннетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "archibald",
+  "uk": "арчибальд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bandage",
+  "uk": "бандаж",
+  "v": "partial_false_friend",
+  "ce": "bandage",
+  "cu": "бандаж",
+  "note": "бандаж = a support belt/brace; a wound bandage is бинт or пов'язка"
+ },
+ {
+  "en": "belize",
+  "uk": "беліз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "belize",
+  "uk": "белізу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "botswana",
+  "uk": "ботсвана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "botswana",
+  "uk": "ботсвани",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brewster",
+  "uk": "брюстер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "byrd",
+  "uk": "берд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cabaret",
+  "uk": "кабаре",
+  "v": "identical",
+  "ce": "cabaret",
+  "cu": "кабаре",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "camilla",
+  "uk": "каміла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "camilla",
+  "uk": "камілла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carmichael",
+  "uk": "кармайкл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catheter",
+  "uk": "катетер",
+  "v": "identical",
+  "ce": "catheter",
+  "cu": "катетер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cinematography",
+  "uk": "кінематограф",
+  "v": "partial_false_friend",
+  "ce": "cinematography",
+  "cu": "кінематограф",
+  "note": "no -y; кінематограф means cinema (film art/industry) in general, not camera work"
+ },
+ {
+  "en": "cinematography",
+  "uk": "кінематографія",
+  "v": "similar",
+  "ce": "cinematography",
+  "cu": "кінематографія",
+  "note": "Ukrainian ending -ія; mostly means film art in general"
+ },
+ {
+  "en": "commandant",
+  "uk": "комендант",
+  "v": "identical",
+  "ce": "commandant",
+  "cu": "комендант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "people"
+  ],
+  "note": "In Ukrainian also the manager of a dormitory or building (комендант гуртожитку)."
+ },
+ {
+  "en": "crystalline",
+  "uk": "кристалічних",
+  "v": "not_lemma",
+  "ce": "crystalline",
+  "cu": "кристалічний",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ічний"
+ },
+ {
+  "en": "cyanide",
+  "uk": "ціанід",
+  "v": "identical",
+  "ce": "cyanide",
+  "cu": "ціанід",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "deadpool",
+  "uk": "дедпул",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emanuel",
+  "uk": "емануель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emo",
+  "uk": "емо",
+  "v": "identical",
+  "ce": "emo",
+  "cu": "емо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "equivalents",
+  "uk": "еквівалентів",
+  "v": "not_lemma",
+  "ce": "equivalent",
+  "cu": "еквівалент",
+  "lv": "identical",
+  "note": "genitive plural of еквівалент; noun only, the adjective is еквівалентний",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ]
+ },
+ {
+  "en": "erdogan",
+  "uk": "ердоган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "euphoria",
+  "uk": "ейфорія",
+  "v": "identical",
+  "ce": "euphoria",
+  "cu": "ейфорія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fahrenheit",
+  "uk": "фаренгейт",
+  "v": "identical",
+  "ce": "Fahrenheit",
+  "cu": "Фаренгейт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units",
+   "science"
+  ],
+  "note": "Used as градус Фаренгейта / за Фаренгейтом."
+ },
+ {
+  "en": "gardiner",
+  "uk": "гардінер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gibbons",
+  "uk": "гіббонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gladstone",
+  "uk": "гладстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gladys",
+  "uk": "гледіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gogh",
+  "uk": "гог",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gogh",
+  "uk": "гога",
+  "v": "proper_noun"
+ },
+ {
+  "en": "greer",
+  "uk": "грір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "greta",
+  "uk": "грета",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hawking",
+  "uk": "гокінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hua",
+  "uk": "хуа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "infiltration",
+  "uk": "інфільтрація",
+  "v": "similar",
+  "ce": "infiltration",
+  "cu": "інфільтрація",
+  "note": "Ukrainian ending -ція"
+ },
+ {
+  "en": "issa",
+  "uk": "ісса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jargon",
+  "uk": "жаргон",
+  "v": "identical",
+  "ce": "jargon",
+  "cu": "жаргон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Ukrainian жаргон also often means slang of a social group."
+ },
+ {
+  "en": "joon",
+  "uk": "джун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "khaled",
+  "uk": "халед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kilograms",
+  "uk": "кілограмів",
+  "v": "not_lemma",
+  "ce": "kilogram",
+  "cu": "кілограм",
+  "lv": "identical",
+  "note": "genitive plural of кілограм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ]
+ },
+ {
+  "en": "kilograms",
+  "uk": "кілограми",
+  "v": "not_lemma",
+  "ce": "kilogram",
+  "cu": "кілограм",
+  "lv": "identical",
+  "note": "plural of кілограм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ]
+ },
+ {
+  "en": "loc",
+  "uk": "лок",
+  "v": "unrelated"
+ },
+ {
+  "en": "maori",
+  "uk": "маорі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marseille",
+  "uk": "марсель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marshals",
+  "uk": "маршалів",
+  "v": "not_lemma",
+  "ce": "marshal",
+  "cu": "маршал",
+  "lv": "identical",
+  "note": "In Ukrainian only the top military rank; a US marshal (law officer) is not маршал.",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "people"
+  ]
+ },
+ {
+  "en": "mayonnaise",
+  "uk": "майонез",
+  "v": "identical",
+  "ce": "mayonnaise",
+  "cu": "майонез",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mccall",
+  "uk": "макколл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meghan",
+  "uk": "меган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "melodic",
+  "uk": "мелодійний",
+  "v": "similar",
+  "ce": "melodic",
+  "cu": "мелодійний",
+  "note": "Ukrainian adjective ending -ійний"
+ },
+ {
+  "en": "mendoza",
+  "uk": "мендоса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mubarak",
+  "uk": "мубарак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "naw",
+  "uk": "нау",
+  "v": "unrelated"
+ },
+ {
+  "en": "orgy",
+  "uk": "оргія",
+  "v": "similar",
+  "ce": "orgy",
+  "cu": "оргія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "orton",
+  "uk": "ортон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paralympic",
+  "uk": "паралімпійські",
+  "v": "not_lemma",
+  "ce": "paralympic",
+  "cu": "паралімпійський",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ійський"
+ },
+ {
+  "en": "patriarchal",
+  "uk": "патріарший",
+  "v": "similar",
+  "ce": "patriarchal",
+  "cu": "патріарший",
+  "note": "different suffix; патріарший = of the Patriarch (church); a patriarchal society = патріархальний"
+ },
+ {
+  "en": "plutonium",
+  "uk": "плутоній",
+  "v": "similar",
+  "ce": "plutonium",
+  "cu": "плутоній",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "psychosis",
+  "uk": "психоз",
+  "v": "similar",
+  "ce": "psychosis",
+  "cu": "психоз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "raul",
+  "uk": "рауль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reflexes",
+  "uk": "рефлекси",
+  "v": "not_lemma",
+  "ce": "reflex",
+  "cu": "рефлекс",
+  "lv": "identical",
+  "note": "plural of рефлекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ]
+ },
+ {
+  "en": "reuben",
+  "uk": "рубен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ripley",
+  "uk": "ріплі",
+  "v": "proper_noun"
+ }
+]

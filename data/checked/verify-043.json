@@ -1,0 +1,945 @@
+[
+ {
+  "en": "documentaries",
+  "uk": "документальні",
+  "v": "not_lemma",
+  "ce": "documentary",
+  "cu": "документальний",
+  "lv": "similar",
+  "note": "Plural adjective; a documentary (film) is документальний фільм."
+ },
+ {
+  "en": "eliza",
+  "uk": "еліза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "enrique",
+  "uk": "енріке",
+  "v": "proper_noun"
+ },
+ {
+  "en": "estonia",
+  "uk": "естонія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "estonia",
+  "uk": "естонії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gradient",
+  "uk": "градієнт",
+  "v": "identical",
+  "ce": "gradient",
+  "cu": "градієнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "math"
+  ],
+  "note": "Math/physics and color gradient; the slope of a road is ухил."
+ },
+ {
+  "en": "gwen",
+  "uk": "гвен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haley",
+  "uk": "хейлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "implant",
+  "uk": "імплантат",
+  "v": "similar",
+  "ce": "implant",
+  "cu": "імплантат",
+  "note": "Adds -ат (colloquially also імплант); the verb is імплантувати."
+ },
+ {
+  "en": "jeremiah",
+  "uk": "єремія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jude",
+  "uk": "джуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kathryn",
+  "uk": "кетрін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kiev",
+  "uk": "київ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "krishna",
+  "uk": "крішна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lama",
+  "uk": "лама",
+  "v": "identical",
+  "ce": "lama",
+  "cu": "лама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "A Tibetan Buddhist teacher; Ukrainian лама also means the animal llama."
+ },
+ {
+  "en": "libertarian socialist",
+  "uk": "лібертарний соціаліст",
+  "v": "similar",
+  "ce": "libertarian socialist",
+  "cu": "лібертарний соціаліст",
+  "note": "Adjective ending -ний."
+ },
+ {
+  "en": "mclean",
+  "uk": "маклін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "michele",
+  "uk": "мікеле",
+  "v": "proper_noun"
+ },
+ {
+  "en": "naruto",
+  "uk": "наруто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "natasha",
+  "uk": "наташа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "noir",
+  "uk": "нуар",
+  "v": "identical",
+  "ce": "noir",
+  "cu": "нуар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "art"
+  ],
+  "note": "Film noir = фільм-нуар."
+ },
+ {
+  "en": "normandy",
+  "uk": "нормандія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pauline",
+  "uk": "полін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pianist",
+  "uk": "піаніст",
+  "v": "identical",
+  "ce": "pianist",
+  "cu": "піаніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pianist",
+  "uk": "піаністка",
+  "v": "not_lemma",
+  "ce": "pianist",
+  "cu": "піаніст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music",
+   "people"
+  ],
+  "note": "Feminine form (a female pianist)."
+ },
+ {
+  "en": "placebo",
+  "uk": "плацебо",
+  "v": "identical",
+  "ce": "placebo",
+  "cu": "плацебо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rae",
+  "uk": "ре",
+  "v": "unrelated"
+ },
+ {
+  "en": "retrospective",
+  "uk": "ретроспектива",
+  "v": "similar",
+  "ce": "retrospective",
+  "cu": "ретроспектива",
+  "note": "Ukrainian noun with -а (a retrospective show); the adjective is ретроспективний."
+ },
+ {
+  "en": "robbins",
+  "uk": "роббінс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sal",
+  "uk": "сел",
+  "v": "unrelated"
+ },
+ {
+  "en": "schultz",
+  "uk": "шульц",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sharma",
+  "uk": "шарма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stirling",
+  "uk": "стерлінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "strauss",
+  "uk": "штраус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sunni",
+  "uk": "суніт",
+  "v": "similar",
+  "ce": "Sunni",
+  "cu": "суніт",
+  "note": "Ukrainian adds -іт (суніт = a Sunni Muslim); the adjective is сунітський."
+ },
+ {
+  "en": "tequila",
+  "uk": "текіла",
+  "v": "identical",
+  "ce": "tequila",
+  "cu": "текіла",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "textures",
+  "uk": "текстур",
+  "v": "not_lemma",
+  "ce": "texture",
+  "cu": "текстура",
+  "lv": "similar",
+  "note": "Genitive plural of текстура; Ukrainian adds -а."
+ },
+ {
+  "en": "textures",
+  "uk": "текстури",
+  "v": "not_lemma",
+  "ce": "texture",
+  "cu": "текстура",
+  "lv": "similar",
+  "note": "Plural of текстура; Ukrainian adds -а."
+ },
+ {
+  "en": "thorn",
+  "uk": "торн",
+  "v": "partial_false_friend",
+  "ce": "thorn",
+  "cu": "торн",
+  "note": "торн is only the old letter Þ; a plant thorn is колючка or шип."
+ },
+ {
+  "en": "yates",
+  "uk": "єйтс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "achilles",
+  "uk": "ахіллес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "achilles",
+  "uk": "ахілл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alberto",
+  "uk": "альберто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alto",
+  "uk": "альто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alto",
+  "uk": "альт",
+  "v": "similar",
+  "ce": "alto",
+  "cu": "альт",
+  "note": "Ukrainian drops -o; альт also means viola."
+ },
+ {
+  "en": "ambrose",
+  "uk": "амброз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anglo-egyptian sudan",
+  "uk": "англо-єгипетський судан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anomaly",
+  "uk": "аномалія",
+  "v": "similar",
+  "ce": "anomaly",
+  "cu": "аномалія",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "aperture",
+  "uk": "апертура",
+  "v": "similar",
+  "ce": "aperture",
+  "cu": "апертура",
+  "note": "Adds -а; technical word; a camera aperture is usually діафрагма."
+ },
+ {
+  "en": "buster",
+  "uk": "бастер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cascade",
+  "uk": "каскад",
+  "v": "identical",
+  "ce": "cascade",
+  "cu": "каскад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also a cascade of events or stages (каскад подій)."
+ },
+ {
+  "en": "char",
+  "uk": "гар",
+  "v": "unrelated"
+ },
+ {
+  "en": "connector",
+  "uk": "конектор",
+  "v": "identical",
+  "ce": "connector",
+  "cu": "конектор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "A device or plug only (also called з'єднувач), not a person."
+ },
+ {
+  "en": "connie",
+  "uk": "конні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "consolidate",
+  "uk": "консолідувати",
+  "v": "similar",
+  "ce": "consolidate",
+  "cu": "консолідувати",
+  "note": "Verb ending -увати."
+ },
+ {
+  "en": "dane",
+  "uk": "дане",
+  "v": "unrelated"
+ },
+ {
+  "en": "dane",
+  "uk": "данець",
+  "v": "proper_noun"
+ },
+ {
+  "en": "doping",
+  "uk": "допінг",
+  "v": "identical",
+  "ce": "doping",
+  "cu": "допінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Sports sense; doping a semiconductor is легування."
+ },
+ {
+  "en": "eddy",
+  "uk": "едді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fanny",
+  "uk": "фанні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "freud",
+  "uk": "фройд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "freud",
+  "uk": "фрейд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "friedman",
+  "uk": "фрідман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gail",
+  "uk": "гейл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gloss",
+  "uk": "глоса",
+  "v": "similar",
+  "ce": "gloss",
+  "cu": "глоса",
+  "note": "Adds -а; глоса = an explanatory note only; shine is блиск or глянець."
+ },
+ {
+  "en": "guise",
+  "uk": "гіз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "horizons",
+  "uk": "горизонти",
+  "v": "not_lemma",
+  "ce": "horizon",
+  "cu": "горизонт",
+  "lv": "similar",
+  "note": "Plural of горизонт; Ukrainian adds -т."
+ },
+ {
+  "en": "ibn",
+  "uk": "ібн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "interfaces",
+  "uk": "інтерфейси",
+  "v": "not_lemma",
+  "ce": "interface",
+  "cu": "інтерфейс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "marcos",
+  "uk": "маркос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mater",
+  "uk": "матер",
+  "v": "not_lemma",
+  "ce": "mater",
+  "cu": "мати",
+  "lv": "similar",
+  "note": "матер is a colloquial form of мати (mother), also in альма-матер; English mater is dated British slang."
+ },
+ {
+  "en": "maureen",
+  "uk": "морін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "memorandum",
+  "uk": "меморандум",
+  "v": "identical",
+  "ce": "memorandum",
+  "cu": "меморандум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "business"
+  ],
+  "note": "Mostly a formal or diplomatic document; an office memo is службова записка."
+ },
+ {
+  "en": "mercer",
+  "uk": "мерсер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "miriam",
+  "uk": "міріам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mona lisa",
+  "uk": "мона ліза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nano",
+  "uk": "нано",
+  "v": "identical",
+  "ce": "nano-",
+  "cu": "нано-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Used mainly as a prefix meaning 'very small; one billionth' (нанотехнології = nanotechnology)."
+ },
+ {
+  "en": "nano-",
+  "uk": "нано-",
+  "v": "identical",
+  "ce": "nano-",
+  "cu": "нано-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Prefix meaning 'very small; one billionth' (нанометр = nanometer)."
+ },
+ {
+  "en": "neymar",
+  "uk": "неймар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paso",
+  "uk": "пасо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ramos",
+  "uk": "рамос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reggae",
+  "uk": "реггі",
+  "v": "identical",
+  "ce": "reggae",
+  "cu": "реггі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Also spelled реґі or реґей."
+ },
+ {
+  "en": "rodeo",
+  "uk": "родео",
+  "v": "identical",
+  "ce": "rodeo",
+  "cu": "родео",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sas",
+  "uk": "сас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sheridan",
+  "uk": "шерідан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shire",
+  "uk": "шир",
+  "v": "unrelated"
+ },
+ {
+  "en": "sutherland",
+  "uk": "сазерленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "taboo",
+  "uk": "табу",
+  "v": "identical",
+  "ce": "taboo",
+  "cu": "табу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Indeclinable; це табу = it's taboo."
+ },
+ {
+  "en": "thatcher",
+  "uk": "тетчер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "turbulent",
+  "uk": "турбулентний",
+  "v": "similar",
+  "ce": "turbulent",
+  "cu": "турбулентний",
+  "note": "Adjective ending -ний."
+ },
+ {
+  "en": "voucher",
+  "uk": "ваучер",
+  "v": "identical",
+  "ce": "voucher",
+  "cu": "ваучер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "finance"
+  ],
+  "note": "A gift voucher is often подарунковий сертифікат."
+ },
+ {
+  "en": "ain",
+  "uk": "айн",
+  "v": "unrelated"
+ },
+ {
+  "en": "ain",
+  "uk": "ен",
+  "v": "unrelated"
+ },
+ {
+  "en": "anaheim",
+  "uk": "анагайм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "apostle",
+  "uk": "апостол",
+  "v": "similar",
+  "ce": "apostle",
+  "cu": "апостол",
+  "note": "Different ending (-ол instead of -le)."
+ },
+ {
+  "en": "apostle",
+  "uk": "апостола",
+  "v": "not_lemma",
+  "ce": "apostle",
+  "cu": "апостол",
+  "lv": "similar",
+  "note": "Genitive/accusative form of апостол."
+ },
+ {
+  "en": "astronauts",
+  "uk": "астронавти",
+  "v": "not_lemma",
+  "ce": "astronaut",
+  "cu": "астронавт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "people"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "belarus",
+  "uk": "білорусь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "belarus",
+  "uk": "бєларусь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "billie",
+  "uk": "біллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buckley",
+  "uk": "баклі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burgundy",
+  "uk": "бургундія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carlisle",
+  "uk": "карлайл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carolyn",
+  "uk": "керолін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "che",
+  "uk": "че",
+  "v": "identical",
+  "ce": "che",
+  "cu": "че",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "language"
+  ],
+  "note": "The name of the Cyrillic letter Ч."
+ },
+ {
+  "en": "contrasting",
+  "uk": "контрастні",
+  "v": "not_lemma",
+  "ce": "contrasting",
+  "cu": "контрастний",
+  "lv": "similar",
+  "note": "Plural of the adjective контрастний; the noun contrast = контраст."
+ },
+ {
+  "en": "criterion",
+  "uk": "критерій",
+  "v": "similar",
+  "ce": "criterion",
+  "cu": "критерій",
+  "note": "Ending -ій instead of -ion."
+ },
+ {
+  "en": "crowns",
+  "uk": "крон",
+  "v": "not_lemma",
+  "ce": "crown",
+  "cu": "крона",
+  "lv": "partial_false_friend",
+  "note": "Genitive plural of крона = treetop or krone (currency); a king's crown is корона."
+ },
+ {
+  "en": "cummings",
+  "uk": "каммінгс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deduction",
+  "uk": "дедукції",
+  "v": "not_lemma",
+  "ce": "deduction",
+  "cu": "дедукція",
+  "lv": "similar",
+  "note": "Form of дедукція (logical deduction only); a subtracted amount is відрахування."
+ },
+ {
+  "en": "dialog",
+  "uk": "діалог",
+  "v": "identical",
+  "ce": "dialogue",
+  "cu": "діалог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "Usually spelled dialogue; dialog is US and computing."
+ },
+ {
+  "en": "disc jockey",
+  "uk": "диск-жокей",
+  "v": "identical",
+  "ce": "disc jockey",
+  "cu": "диск-жокей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "music",
+   "media"
+  ],
+  "note": "Today usually DJ = діджей."
+ },
+ {
+  "en": "discriminatory",
+  "uk": "дискримінаційний",
+  "v": "similar",
+  "ce": "discriminatory",
+  "cu": "дискримінаційний",
+  "note": "Adjective suffix -ійний."
+ },
+ {
+  "en": "dorset",
+  "uk": "дорсет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "electromagnetic pulse",
+  "uk": "електромагнітний імпульс",
+  "v": "similar",
+  "ce": "electromagnetic pulse",
+  "cu": "електромагнітний імпульс",
+  "note": "Adjective ending -ний; імпульс also means impulse."
+ },
+ {
+  "en": "enthusiast",
+  "uk": "ентузіаст",
+  "v": "identical",
+  "ce": "enthusiast",
+  "cu": "ентузіаст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "enthusiast",
+  "uk": "ентузіастка",
+  "v": "not_lemma",
+  "ce": "enthusiast",
+  "cu": "ентузіаст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Feminine form (a female enthusiast)."
+ },
+ {
+  "en": "epilepsy",
+  "uk": "епілепсія",
+  "v": "similar",
+  "ce": "epilepsy",
+  "cu": "епілепсія",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "ethanol",
+  "uk": "етанол",
+  "v": "identical",
+  "ce": "ethanol",
+  "cu": "етанол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "extremist",
+  "uk": "екстреміст",
+  "v": "identical",
+  "ce": "extremist",
+  "cu": "екстреміст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Noun; the adjective is екстремістський."
+ },
+ {
+  "en": "extremist",
+  "uk": "екстремістка",
+  "v": "not_lemma",
+  "ce": "extremist",
+  "cu": "екстреміст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Feminine form (a female extremist)."
+ }
+]

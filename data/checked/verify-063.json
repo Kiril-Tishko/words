@@ -1,0 +1,943 @@
+[
+ {
+  "en": "spielberg",
+  "uk": "спілберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ssh",
+  "uk": "сш",
+  "v": "unrelated"
+ },
+ {
+  "en": "tarot",
+  "uk": "таро",
+  "v": "identical",
+  "ce": "tarot",
+  "cu": "таро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": "In Ukrainian mostly the fortune-telling cards."
+ },
+ {
+  "en": "uhm",
+  "uk": "гм",
+  "v": "similar",
+  "ce": "uhm",
+  "cu": "гм",
+  "note": "гм matches English hm/hmm; um/uhm is closer to ем"
+ },
+ {
+  "en": "ust",
+  "uk": "усть",
+  "v": "unrelated"
+ },
+ {
+  "en": "uva",
+  "uk": "ува",
+  "v": "unrelated"
+ },
+ {
+  "en": "vida",
+  "uk": "віда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "woodrow",
+  "uk": "вудро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yak",
+  "uk": "як",
+  "v": "identical",
+  "ce": "yak",
+  "cu": "як",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Ukrainian як also means 'how / as'."
+ },
+ {
+  "en": "zhu",
+  "uk": "чжу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abdel",
+  "uk": "абдель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "armageddon",
+  "uk": "армагеддон",
+  "v": "identical",
+  "ce": "armageddon",
+  "cu": "армагеддон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Often capitalized (Armageddon) in both languages."
+ },
+ {
+  "en": "armageddon",
+  "uk": "армаґеддон",
+  "v": "identical",
+  "ce": "armageddon",
+  "cu": "армагеддон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Spelling with ґ is a rare variant."
+ },
+ {
+  "en": "bathurst",
+  "uk": "батерст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "belinda",
+  "uk": "белінда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bonn",
+  "uk": "бонн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bora",
+  "uk": "бора",
+  "v": "identical",
+  "ce": "bora",
+  "cu": "бора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bowers",
+  "uk": "бауерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bree",
+  "uk": "брі",
+  "v": "unrelated"
+ },
+ {
+  "en": "chernobyl",
+  "uk": "чорнобиль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cochrane",
+  "uk": "кокрейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "contraceptive",
+  "uk": "контрацептив",
+  "v": "identical",
+  "ce": "contraceptive",
+  "cu": "контрацептив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dahl",
+  "uk": "даль",
+  "v": "unrelated"
+ },
+ {
+  "en": "dimitri",
+  "uk": "дмитрій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dio",
+  "uk": "діо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "disqualification",
+  "uk": "дискваліфікація",
+  "v": "similar",
+  "ce": "disqualification",
+  "cu": "дискваліфікація",
+  "note": "-tion → -ція ending"
+ },
+ {
+  "en": "ennis",
+  "uk": "енніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epl",
+  "uk": "епл",
+  "v": "unrelated"
+ },
+ {
+  "en": "fanning",
+  "uk": "феннінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fergus",
+  "uk": "фергус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "folio",
+  "uk": "фоліо",
+  "v": "identical",
+  "ce": "folio",
+  "cu": "фоліо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "franc",
+  "uk": "франк",
+  "v": "identical",
+  "ce": "franc",
+  "cu": "франк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gestapo",
+  "uk": "гестапо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "handball",
+  "uk": "гандбол",
+  "v": "identical",
+  "ce": "handball",
+  "cu": "гандбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "handball",
+  "uk": "гандболу",
+  "v": "not_lemma",
+  "ce": "handball",
+  "cu": "гандбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "hectare",
+  "uk": "гектар",
+  "v": "identical",
+  "ce": "hectare",
+  "cu": "гектар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hereford",
+  "uk": "герефорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hologram",
+  "uk": "голограма",
+  "v": "similar",
+  "ce": "hologram",
+  "cu": "голограма",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "hologram",
+  "uk": "голограми",
+  "v": "not_lemma",
+  "ce": "hologram",
+  "cu": "голограма",
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "horatio",
+  "uk": "гораціо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hydroelectric",
+  "uk": "гідроелектричний",
+  "v": "similar",
+  "ce": "hydroelectric",
+  "cu": "гідроелектричний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "immunology",
+  "uk": "імунологія",
+  "v": "similar",
+  "ce": "immunology",
+  "cu": "імунологія",
+  "note": "-y → -ія ending"
+ },
+ {
+  "en": "ita",
+  "uk": "іта",
+  "v": "unrelated"
+ },
+ {
+  "en": "izzy",
+  "uk": "іззі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kayla",
+  "uk": "кайла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "la paz",
+  "uk": "ла-пас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "latvian",
+  "uk": "латвійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "latvian",
+  "uk": "латвійська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lok",
+  "uk": "лок",
+  "v": "unrelated"
+ },
+ {
+  "en": "macaroni",
+  "uk": "макарони",
+  "v": "identical",
+  "ce": "macaroni",
+  "cu": "макарони",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "In Ukrainian макарони means pasta in general and is plural."
+ },
+ {
+  "en": "marr",
+  "uk": "марр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "milligrams",
+  "uk": "міліграм",
+  "v": "not_lemma",
+  "ce": "milligram",
+  "cu": "міліграм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "minsk",
+  "uk": "мінськ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minsk",
+  "uk": "мінська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minsk",
+  "uk": "мінську",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minsk",
+  "uk": "менськ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mora",
+  "uk": "мора",
+  "v": "identical",
+  "ce": "mora",
+  "cu": "мора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nasser",
+  "uk": "насер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "notary",
+  "uk": "нотаріус",
+  "v": "similar",
+  "ce": "notary",
+  "cu": "нотаріус",
+  "note": "Ukrainian form from Latin notarius (-аріус)"
+ },
+ {
+  "en": "occupant",
+  "uk": "окупант",
+  "v": "false_friend",
+  "ce": "occupant",
+  "cu": "окупант",
+  "note": "occupant = resident/person in a place; окупант = invader, occupier"
+ },
+ {
+  "en": "occupant",
+  "uk": "окупантка",
+  "v": "not_lemma",
+  "ce": "occupant",
+  "cu": "окупант",
+  "note": "",
+  "lv": "false_friend"
+ },
+ {
+  "en": "ott",
+  "uk": "отт",
+  "v": "unrelated"
+ },
+ {
+  "en": "padre",
+  "uk": "падре",
+  "v": "identical",
+  "ce": "padre",
+  "cu": "падре",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pang",
+  "uk": "пан",
+  "v": "unrelated"
+ },
+ {
+  "en": "parliaments",
+  "uk": "парламенти",
+  "v": "not_lemma",
+  "ce": "parliament",
+  "cu": "парламент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "pavel",
+  "uk": "павел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pavel",
+  "uk": "павло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pia",
+  "uk": "пія",
+  "v": "unrelated"
+ },
+ {
+  "en": "polyester",
+  "uk": "поліестер",
+  "v": "identical",
+  "ce": "polyester",
+  "cu": "поліестер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "revel",
+  "uk": "ревель",
+  "v": "unrelated"
+ },
+ {
+  "en": "rocco",
+  "uk": "рокко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rochelle",
+  "uk": "рошель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salaam",
+  "uk": "салам",
+  "v": "identical",
+  "ce": "salaam",
+  "cu": "салам",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "slalom",
+  "uk": "слалом",
+  "v": "identical",
+  "ce": "slalom",
+  "cu": "слалом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sparring",
+  "uk": "спаринг",
+  "v": "identical",
+  "ce": "sparring",
+  "cu": "спаринг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "spectacles",
+  "uk": "спектаклі",
+  "v": "not_lemma",
+  "ce": "spectacle",
+  "cu": "спектакль",
+  "note": "спектакль = theater performance; spectacles also = glasses",
+  "lv": "partial_false_friend"
+ },
+ {
+  "en": "sully",
+  "uk": "сюллі",
+  "v": "unrelated"
+ },
+ {
+  "en": "synchronization",
+  "uk": "синхронізацію",
+  "v": "not_lemma",
+  "ce": "synchronization",
+  "cu": "синхронізація",
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "synchronization",
+  "uk": "синхронізація",
+  "v": "similar",
+  "ce": "synchronization",
+  "cu": "синхронізація",
+  "note": "-tion → -ція ending"
+ },
+ {
+  "en": "synchronization",
+  "uk": "синхронізації",
+  "v": "not_lemma",
+  "ce": "synchronization",
+  "cu": "синхронізація",
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "tajikistan",
+  "uk": "таджикистан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tajikistan",
+  "uk": "таджикистану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tamil nadu",
+  "uk": "тамілнаду",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tamil nadu",
+  "uk": "таміл-наду",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tre",
+  "uk": "тре",
+  "v": "unrelated"
+ },
+ {
+  "en": "vases",
+  "uk": "ваз",
+  "v": "not_lemma",
+  "ce": "vase",
+  "cu": "ваза",
+  "note": "",
+  "lv": "similar"
+ },
+ {
+  "en": "vibrator",
+  "uk": "вібратор",
+  "v": "identical",
+  "ce": "vibrator",
+  "cu": "вібратор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "warwickshire",
+  "uk": "ворікшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yoda",
+  "uk": "йода",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yoruba",
+  "uk": "йоруба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acoustics",
+  "uk": "акустика",
+  "v": "similar",
+  "ce": "acoustics",
+  "cu": "акустика",
+  "note": "Ukrainian -ика ending"
+ },
+ {
+  "en": "aden",
+  "uk": "аден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alam",
+  "uk": "алам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alf",
+  "uk": "альф",
+  "v": "unrelated"
+ },
+ {
+  "en": "alibi",
+  "uk": "алібі",
+  "v": "identical",
+  "ce": "alibi",
+  "cu": "алібі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anand",
+  "uk": "ананд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "argentinian",
+  "uk": "аргентинський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arias",
+  "uk": "аріас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arkham",
+  "uk": "аркхем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arturo",
+  "uk": "артуро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aztec",
+  "uk": "ацтек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bac",
+  "uk": "бак",
+  "v": "identical",
+  "ce": "bac",
+  "cu": "бак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical",
+   "other"
+  ],
+  "note": "English bac (vat, cistern) is rare; Ukrainian бак is the everyday word for a tank."
+ },
+ {
+  "en": "baja",
+  "uk": "баха",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ballerina",
+  "uk": "балерина",
+  "v": "identical",
+  "ce": "ballerina",
+  "cu": "балерина",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ballerina",
+  "uk": "балерини",
+  "v": "not_lemma",
+  "ce": "ballerina",
+  "cu": "балерина",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "bennet",
+  "uk": "беннет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burlesque",
+  "uk": "бурлеск",
+  "v": "identical",
+  "ce": "burlesque",
+  "cu": "бурлеск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "calder",
+  "uk": "колдер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "calvert",
+  "uk": "калверт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caster",
+  "uk": "кастер",
+  "v": "identical",
+  "ce": "caster",
+  "cu": "кастер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "games"
+  ],
+  "note": "In Ukrainian only gaming slang: esports commentator or spellcaster."
+ },
+ {
+  "en": "chameleon",
+  "uk": "хамелеон",
+  "v": "identical",
+  "ce": "chameleon",
+  "cu": "хамелеон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "clancy",
+  "uk": "кленсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clooney",
+  "uk": "клуні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "creditor",
+  "uk": "кредитор",
+  "v": "identical",
+  "ce": "creditor",
+  "cu": "кредитор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "creditor",
+  "uk": "кредиторка",
+  "v": "not_lemma",
+  "ce": "creditor",
+  "cu": "кредитор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "dissident",
+  "uk": "дисидент",
+  "v": "identical",
+  "ce": "dissident",
+  "cu": "дисидент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dissident",
+  "uk": "дисидентка",
+  "v": "not_lemma",
+  "ce": "dissident",
+  "cu": "дисидент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "django",
+  "uk": "джанго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donetsk",
+  "uk": "донецьк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donetsk",
+  "uk": "донецька",
+  "v": "proper_noun"
+ }
+]

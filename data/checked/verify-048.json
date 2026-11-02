@@ -1,0 +1,962 @@
+[
+ {
+  "en": "contrasts",
+  "uk": "контрастів",
+  "v": "not_lemma",
+  "ce": "contrast",
+  "cu": "контраст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "контрастів is genitive plural of контраст"
+ },
+ {
+  "en": "cooke",
+  "uk": "кук",
+  "v": "proper_noun"
+ },
+ {
+  "en": "denny",
+  "uk": "денні",
+  "v": "unrelated"
+ },
+ {
+  "en": "doctorate",
+  "uk": "докторат",
+  "v": "identical",
+  "ce": "doctorate",
+  "cu": "докторат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education"
+  ],
+  "note": "in Ukraine usually called докторський ступінь"
+ },
+ {
+  "en": "doncaster",
+  "uk": "донкастер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donnie",
+  "uk": "донні",
+  "v": "unrelated"
+ },
+ {
+  "en": "donnie",
+  "uk": "доні",
+  "v": "unrelated"
+ },
+ {
+  "en": "electrode",
+  "uk": "електрод",
+  "v": "identical",
+  "ce": "electrode",
+  "cu": "електрод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fife",
+  "uk": "файф",
+  "v": "unrelated"
+ },
+ {
+  "en": "guerrilla",
+  "uk": "герилья",
+  "v": "partial_false_friend",
+  "ce": "guerrilla",
+  "cu": "герилья",
+  "note": "герилья (rare) = guerrilla war; a guerrilla fighter = партизан"
+ },
+ {
+  "en": "hysteria",
+  "uk": "гістерія",
+  "v": "not_lemma",
+  "ce": "hysteria",
+  "cu": "істерія",
+  "lv": "similar",
+  "note": "гістерія is the obsolete 1928–1933 spelling; current spelling істерія"
+ },
+ {
+  "en": "hysteria",
+  "uk": "істерія",
+  "v": "similar",
+  "ce": "hysteria",
+  "cu": "істерія",
+  "note": "no h sound in Ukrainian"
+ },
+ {
+  "en": "imperialism",
+  "uk": "імперіалізм",
+  "v": "identical",
+  "ce": "imperialism",
+  "cu": "імперіалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "incremental",
+  "uk": "інкрементний",
+  "v": "similar",
+  "ce": "incremental",
+  "cu": "інкрементний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "jogging",
+  "uk": "джоґінґ",
+  "v": "identical",
+  "ce": "jogging",
+  "cu": "джогінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "also spelled джоґінґ"
+ },
+ {
+  "en": "kale",
+  "uk": "кале",
+  "v": "identical",
+  "ce": "kale",
+  "cu": "кале",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "usually капуста кале; also called кейл"
+ },
+ {
+  "en": "kale",
+  "uk": "кейл",
+  "v": "identical",
+  "ce": "kale",
+  "cu": "кейл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "also капуста кале"
+ },
+ {
+  "en": "latina",
+  "uk": "латина",
+  "v": "false_friend",
+  "ce": "latina",
+  "cu": "латина",
+  "note": "латина = Latin (the language)"
+ },
+ {
+  "en": "louie",
+  "uk": "луї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luca",
+  "uk": "лука",
+  "v": "unrelated"
+ },
+ {
+  "en": "marianne",
+  "uk": "маріанна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mecca",
+  "uk": "мекка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meridian",
+  "uk": "меридіан",
+  "v": "identical",
+  "ce": "meridian",
+  "cu": "меридіан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mikhail",
+  "uk": "михайло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mir",
+  "uk": "мир",
+  "v": "partial_false_friend",
+  "ce": "mir",
+  "cu": "мир",
+  "note": "мир = peace, world; the Russian peasant commune sense is historical"
+ },
+ {
+  "en": "mir",
+  "uk": "мір",
+  "v": "unrelated"
+ },
+ {
+  "en": "newfoundland",
+  "uk": "ньюфаундленд",
+  "v": "identical",
+  "ce": "Newfoundland",
+  "cu": "ньюфаундленд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "the dog breed; the Canadian island Ньюфаундленд is a place name"
+ },
+ {
+  "en": "olsen",
+  "uk": "олсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "phoebe",
+  "uk": "фібі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pilgrim",
+  "uk": "пілігрим",
+  "v": "similar",
+  "ce": "pilgrim",
+  "cu": "пілігрим",
+  "note": "extra -і- (пі-лі-грим); also паломник"
+ },
+ {
+  "en": "republic of slovenia",
+  "uk": "республіка словенія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "royale",
+  "uk": "рояль",
+  "v": "false_friend",
+  "ce": "royale",
+  "cu": "рояль",
+  "note": "рояль = grand piano"
+ },
+ {
+  "en": "semen",
+  "uk": "семен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "senegal",
+  "uk": "сенегал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "senegal",
+  "uk": "сенегалу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shapiro",
+  "uk": "шапіро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shea",
+  "uk": "ші",
+  "v": "identical",
+  "ce": "shea",
+  "cu": "ші",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "mostly in масло ші (shea butter); indeclinable"
+ },
+ {
+  "en": "sow",
+  "uk": "соу",
+  "v": "unrelated"
+ },
+ {
+  "en": "surrogate",
+  "uk": "сурогат",
+  "v": "partial_false_friend",
+  "ce": "surrogate",
+  "cu": "сурогат",
+  "note": "сурогат = cheap substitute, ersatz (a thing); a surrogate mother = сурогатна мати"
+ },
+ {
+  "en": "synopsis",
+  "uk": "синопсис",
+  "v": "identical",
+  "ce": "synopsis",
+  "cu": "синопсис",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tanya",
+  "uk": "таню",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tanya",
+  "uk": "таня",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tel aviv",
+  "uk": "тель-авів",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tomas",
+  "uk": "томас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tristan",
+  "uk": "трістан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "upton",
+  "uk": "аптон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "waltz",
+  "uk": "вальс",
+  "v": "identical",
+  "ce": "waltz",
+  "cu": "вальс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "zac",
+  "uk": "зак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zhou",
+  "uk": "чжоу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adolf",
+  "uk": "адольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "annals",
+  "uk": "аннали",
+  "v": "similar",
+  "ce": "annals",
+  "cu": "анали",
+  "note": "Ukrainian plural ending -и; current spelling анали"
+ },
+ {
+  "en": "bandit",
+  "uk": "бандит",
+  "v": "identical",
+  "ce": "bandit",
+  "cu": "бандит",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "law",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bandit",
+  "uk": "бандитка",
+  "v": "not_lemma",
+  "ce": "bandit",
+  "cu": "бандит",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "law",
+   "people"
+  ],
+  "note": "feminine form (a female bandit)"
+ },
+ {
+  "en": "barrister",
+  "uk": "баристер",
+  "v": "identical",
+  "ce": "barrister",
+  "cu": "баристер",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "law",
+   "people"
+  ],
+  "note": "also spelled барістер"
+ },
+ {
+  "en": "bazaar",
+  "uk": "базар",
+  "v": "identical",
+  "ce": "bazaar",
+  "cu": "базар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "базар is an everyday word for any open-air market; also slang for noisy talk"
+ },
+ {
+  "en": "beneficiary",
+  "uk": "бенефіціар",
+  "v": "similar",
+  "ce": "beneficiary",
+  "cu": "бенефіціар",
+  "note": "no final -y"
+ },
+ {
+  "en": "biker",
+  "uk": "байкер",
+  "v": "identical",
+  "ce": "biker",
+  "cu": "байкер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport",
+   "people"
+  ],
+  "note": "only the motorcyclist; a cyclist = велосипедист"
+ },
+ {
+  "en": "bono",
+  "uk": "боно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brochure",
+  "uk": "брошура",
+  "v": "similar",
+  "ce": "brochure",
+  "cu": "брошура",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "canucks",
+  "uk": "канакс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carly",
+  "uk": "карлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catholicism",
+  "uk": "католицизм",
+  "v": "identical",
+  "ce": "Catholicism",
+  "cu": "католицизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cheng",
+  "uk": "чен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cobalt",
+  "uk": "кобальт",
+  "v": "identical",
+  "ce": "cobalt",
+  "cu": "кобальт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "colossal",
+  "uk": "колосальний",
+  "v": "similar",
+  "ce": "colossal",
+  "cu": "колосальний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "commodore",
+  "uk": "комодор",
+  "v": "identical",
+  "ce": "commodore",
+  "cu": "комодор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "contour",
+  "uk": "контур",
+  "v": "identical",
+  "ce": "contour",
+  "cu": "контур",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "контур also = electric circuit"
+ },
+ {
+  "en": "crowley",
+  "uk": "кроулі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dopamine",
+  "uk": "дофамін",
+  "v": "similar",
+  "ce": "dopamine",
+  "cu": "дофамін",
+  "note": "ф instead of п; also spelled допамін"
+ },
+ {
+  "en": "douche",
+  "uk": "душ",
+  "v": "partial_false_friend",
+  "ce": "douche",
+  "cu": "душ",
+  "note": "душ = shower; a medical douche only in special contexts"
+ },
+ {
+  "en": "endemic",
+  "uk": "ендемік",
+  "v": "identical",
+  "ce": "endemic",
+  "cu": "ендемік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": "ендемік is only a noun (an endemic species); the adjective endemic = ендемічний"
+ },
+ {
+  "en": "eta",
+  "uk": "ета",
+  "v": "identical",
+  "ce": "eta",
+  "cu": "ета",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "the Greek letter Η"
+ },
+ {
+  "en": "hanover",
+  "uk": "ганновер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hybrids",
+  "uk": "гібридів",
+  "v": "not_lemma",
+  "ce": "hybrid",
+  "cu": "гібрид",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "гібридів is genitive plural of гібрид"
+ },
+ {
+  "en": "igor",
+  "uk": "ігор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "igor",
+  "uk": "ігоре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jai",
+  "uk": "джай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jenner",
+  "uk": "дженнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johann",
+  "uk": "йоган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johann",
+  "uk": "йоганн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jolie",
+  "uk": "джолі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "judd",
+  "uk": "джад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kan",
+  "uk": "кан",
+  "v": "unrelated"
+ },
+ {
+  "en": "kaplan",
+  "uk": "каплан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "legality",
+  "uk": "легальність",
+  "v": "similar",
+  "ce": "legality",
+  "cu": "легальність",
+  "note": "Ukrainian suffix -ність"
+ },
+ {
+  "en": "lenny",
+  "uk": "ленні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macedonia",
+  "uk": "македонія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macedonia",
+  "uk": "македонії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mandy",
+  "uk": "менді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "microscopic",
+  "uk": "мікроскопічний",
+  "v": "similar",
+  "ce": "microscopic",
+  "cu": "мікроскопічний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "nirvana",
+  "uk": "нірвана",
+  "v": "identical",
+  "ce": "nirvana",
+  "cu": "нірвана",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pigment",
+  "uk": "пігмент",
+  "v": "identical",
+  "ce": "pigment",
+  "cu": "пігмент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "plato",
+  "uk": "платон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "populist",
+  "uk": "популіст",
+  "v": "identical",
+  "ce": "populist",
+  "cu": "популіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "populist",
+  "uk": "популістка",
+  "v": "not_lemma",
+  "ce": "populist",
+  "cu": "популіст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "feminine form (a female populist)"
+ },
+ {
+  "en": "retard",
+  "uk": "ретард",
+  "v": "identical",
+  "ce": "retard",
+  "cu": "ретард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "people"
+  ],
+  "note": "offensive insult in both languages"
+ },
+ {
+  "en": "reyes",
+  "uk": "рейс",
+  "v": "unrelated"
+ },
+ {
+  "en": "ritchie",
+  "uk": "річі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rollins",
+  "uk": "роллінс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rutherford",
+  "uk": "резерфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sanitary",
+  "uk": "санітарний",
+  "v": "similar",
+  "ce": "sanitary",
+  "cu": "санітарний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "scorpion",
+  "uk": "скорпіон",
+  "v": "identical",
+  "ce": "scorpion",
+  "cu": "скорпіон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "also the zodiac sign Скорпіон"
+ },
+ {
+  "en": "spartan",
+  "uk": "спартанка",
+  "v": "similar",
+  "ce": "spartan",
+  "cu": "спартанський",
+  "note": "спартанка = a Spartan woman; the adjective spartan = спартанський"
+ },
+ {
+  "en": "tart",
+  "uk": "тар",
+  "v": "unrelated"
+ },
+ {
+  "en": "transformer",
+  "uk": "трансформатор",
+  "v": "similar",
+  "ce": "transformer",
+  "cu": "трансформатор",
+  "note": "suffix -атор for the electric device; a Transformer robot/toy = трансформер"
+ },
+ {
+  "en": "vicar",
+  "uk": "вікарій",
+  "v": "similar",
+  "ce": "vicar",
+  "cu": "вікарій",
+  "note": "Ukrainian ending -ій"
+ },
+ {
+  "en": "welch",
+  "uk": "велч",
+  "v": "unrelated"
+ },
+ {
+  "en": "adler",
+  "uk": "адлер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ammonia",
+  "uk": "амоніак",
+  "v": "similar",
+  "ce": "ammonia",
+  "cu": "амоніак",
+  "note": "Ukrainian ending -к; the usual word is аміак"
+ },
+ {
+  "en": "anarchist",
+  "uk": "анархіст",
+  "v": "identical",
+  "ce": "anarchist",
+  "cu": "анархіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anarchist",
+  "uk": "анархістка",
+  "v": "not_lemma",
+  "ce": "anarchist",
+  "cu": "анархіст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "feminine form (a female anarchist)"
+ },
+ {
+  "en": "ankara",
+  "uk": "анкара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "assange",
+  "uk": "ассанж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "avant",
+  "uk": "аван",
+  "v": "unrelated"
+ },
+ {
+  "en": "baird",
+  "uk": "берд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barlow",
+  "uk": "барлоу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benton",
+  "uk": "бентон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bordeaux",
+  "uk": "бордо",
+  "v": "identical",
+  "ce": "Bordeaux",
+  "cu": "бордо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": "the wine; in Ukrainian бордо is also the colour maroon/burgundy; indeclinable"
+ },
+ {
+  "en": "burr",
+  "uk": "бурр",
+  "v": "unrelated"
+ },
+ {
+  "en": "cavaliers",
+  "uk": "кавальєрс",
+  "v": "proper_noun"
+ }
+]

@@ -1,0 +1,989 @@
+[
+ {
+  "en": "frau",
+  "uk": "фрау",
+  "v": "identical",
+  "ce": "Frau",
+  "cu": "фрау",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "German title for a woman (like Mrs.); also a German woman."
+ },
+ {
+  "en": "gonzalo",
+  "uk": "гонсало",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gretchen",
+  "uk": "гретхен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gymnast",
+  "uk": "гімнастка",
+  "v": "not_lemma",
+  "ce": "gymnast",
+  "cu": "гімнаст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "people"
+  ],
+  "note": "гімнастка is the female form; the base word is гімнаст."
+ },
+ {
+  "en": "herzegovina",
+  "uk": "герцеговина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herzegovina",
+  "uk": "герцеґовина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hola",
+  "uk": "гола",
+  "v": "unrelated"
+ },
+ {
+  "en": "humanist",
+  "uk": "гуманіст",
+  "v": "identical",
+  "ce": "humanist",
+  "cu": "гуманіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "industrialization",
+  "uk": "індустріалізація",
+  "v": "similar",
+  "ce": "industrialization",
+  "cu": "індустріалізація",
+  "note": "-ization becomes -ізація"
+ },
+ {
+  "en": "infographic",
+  "uk": "інфографічний",
+  "v": "similar",
+  "ce": "infographic",
+  "cu": "інфографічний",
+  "note": "adjective ending -ічний"
+ },
+ {
+  "en": "infographic",
+  "uk": "інфографіка",
+  "v": "similar",
+  "ce": "infographic",
+  "cu": "інфографіка",
+  "note": "ending -іка added"
+ },
+ {
+  "en": "kissinger",
+  "uk": "кіссінджер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kissinger",
+  "uk": "кіссінґер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kissinger",
+  "uk": "кіссінгер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kwon",
+  "uk": "квон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lancet",
+  "uk": "ланцет",
+  "v": "identical",
+  "ce": "lancet",
+  "cu": "ланцет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": "A surgical knife or a needle for blood tests."
+ },
+ {
+  "en": "leningrad",
+  "uk": "ленінград",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lerner",
+  "uk": "лернер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "limerick",
+  "uk": "лімерик",
+  "v": "identical",
+  "ce": "limerick",
+  "cu": "лімерик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art",
+   "language"
+  ],
+  "note": "A funny five-line poem."
+ },
+ {
+  "en": "lolita",
+  "uk": "лоліта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "loyola",
+  "uk": "лойола",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mau",
+  "uk": "мау",
+  "v": "unrelated"
+ },
+ {
+  "en": "monet",
+  "uk": "моне",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muriel",
+  "uk": "мюріел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "musa",
+  "uk": "муза",
+  "v": "unrelated"
+ },
+ {
+  "en": "mysticism",
+  "uk": "містицизм",
+  "v": "identical",
+  "ce": "mysticism",
+  "cu": "містицизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nagar",
+  "uk": "нагар",
+  "v": "unrelated"
+ },
+ {
+  "en": "nouveau",
+  "uk": "нуво",
+  "v": "unrelated"
+ },
+ {
+  "en": "orson",
+  "uk": "орсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pacifist",
+  "uk": "пацифіст",
+  "v": "identical",
+  "ce": "pacifist",
+  "cu": "пацифіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pelican",
+  "uk": "пелікан",
+  "v": "identical",
+  "ce": "pelican",
+  "cu": "пелікан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "polygamy",
+  "uk": "полігамія",
+  "v": "similar",
+  "ce": "polygamy",
+  "cu": "полігамія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "publicist",
+  "uk": "публіцист",
+  "v": "partial_false_friend",
+  "ce": "publicist",
+  "cu": "публіцист",
+  "note": "en mainly a PR/publicity agent; uk публіцист = opinion journalist, essayist"
+ },
+ {
+  "en": "quorum",
+  "uk": "кворум",
+  "v": "identical",
+  "ce": "quorum",
+  "cu": "кворум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "raman",
+  "uk": "раман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "revue",
+  "uk": "ревю",
+  "v": "identical",
+  "ce": "revue",
+  "cu": "ревю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art"
+  ],
+  "note": "A theater show of songs, dances and sketches."
+ },
+ {
+  "en": "reza",
+  "uk": "реза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rizzo",
+  "uk": "ріццо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "romano",
+  "uk": "романо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "scripting",
+  "uk": "скрипти",
+  "v": "not_lemma",
+  "ce": "script",
+  "cu": "скрипт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Plural form; скрипт is mainly a computer script (or a sales/call script); a film script is сценарій."
+ },
+ {
+  "en": "scripting",
+  "uk": "скриптів",
+  "v": "not_lemma",
+  "ce": "script",
+  "cu": "скрипт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Genitive plural; скрипт is mainly a computer script (or a sales/call script); a film script is сценарій."
+ },
+ {
+  "en": "skeptics",
+  "uk": "скептиків",
+  "v": "not_lemma",
+  "ce": "skeptic",
+  "cu": "скептик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "British spelling: sceptic."
+ },
+ {
+  "en": "sledge",
+  "uk": "следж",
+  "v": "identical",
+  "ce": "sledge",
+  "cu": "следж",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "rare",
+   "sport"
+  ],
+  "note": "In Ukrainian only the sledge used in para ice hockey (следж-хокей); an ordinary sled is санки."
+ },
+ {
+  "en": "sociopath",
+  "uk": "соціопат",
+  "v": "identical",
+  "ce": "sociopath",
+  "cu": "соціопат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sonya",
+  "uk": "соня",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spock",
+  "uk": "спок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tatiana",
+  "uk": "тетяна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "terre",
+  "uk": "терр",
+  "v": "unrelated"
+ },
+ {
+  "en": "toner",
+  "uk": "тонера",
+  "v": "not_lemma",
+  "ce": "toner",
+  "cu": "тонер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": "Genitive form. Printer toner; also a cosmetic toner (тонер для обличчя)."
+ },
+ {
+  "en": "travers",
+  "uk": "траверс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trimester",
+  "uk": "триместр",
+  "v": "identical",
+  "ce": "trimester",
+  "cu": "триместр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education",
+   "medicine"
+  ],
+  "note": "A pregnancy trimester or a three-month school term."
+ },
+ {
+  "en": "tully",
+  "uk": "таллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "villiers",
+  "uk": "вільє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yiddish",
+  "uk": "ідиш",
+  "v": "identical",
+  "ce": "Yiddish",
+  "cu": "їдиш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Capitalized in English. Usual Ukrainian spelling їдиш, also ідиш."
+ },
+ {
+  "en": "yiddish",
+  "uk": "їдиш",
+  "v": "identical",
+  "ce": "Yiddish",
+  "cu": "їдиш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Capitalized in English. Also spelled ідиш."
+ },
+ {
+  "en": "almanac",
+  "uk": "альманах",
+  "v": "similar",
+  "ce": "almanac",
+  "cu": "альманах",
+  "note": "Ukrainian ends in -ах (c becomes х)"
+ },
+ {
+  "en": "aloe",
+  "uk": "алое",
+  "v": "identical",
+  "ce": "aloe",
+  "cu": "алое",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "antioch",
+  "uk": "антіохії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bess",
+  "uk": "бесс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blanco",
+  "uk": "бланко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boomerang",
+  "uk": "бумеранг",
+  "v": "identical",
+  "ce": "boomerang",
+  "cu": "бумеранг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "borussia",
+  "uk": "боруссія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "calligraphy",
+  "uk": "каліграфія",
+  "v": "similar",
+  "ce": "calligraphy",
+  "cu": "каліграфія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "capri",
+  "uk": "капрі",
+  "v": "similar",
+  "ce": "capri pants",
+  "cu": "капрі",
+  "note": "Ukrainian капрі = capri pants (English 'capris'); English Capri alone is the island"
+ },
+ {
+  "en": "carthage",
+  "uk": "карфаген",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chao",
+  "uk": "чао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clemens",
+  "uk": "клеменс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clipper",
+  "uk": "кліпер",
+  "v": "identical",
+  "ce": "clipper",
+  "cu": "кліпер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": "In Ukrainian only the fast sailing ship; English clippers are also a tool for cutting hair or nails."
+ },
+ {
+  "en": "colossus",
+  "uk": "колос",
+  "v": "partial_false_friend",
+  "ce": "colossus",
+  "cu": "колос",
+  "note": "uk колос usually means 'ear of grain'; 'colossus' sense mainly in idioms; -us dropped"
+ },
+ {
+  "en": "corals",
+  "uk": "корали",
+  "v": "not_lemma",
+  "ce": "coral",
+  "cu": "корал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "cremation",
+  "uk": "кремації",
+  "v": "not_lemma",
+  "ce": "cremation",
+  "cu": "кремація",
+  "lv": "similar",
+  "note": "Inflected form; lemma кремація has ending -ація."
+ },
+ {
+  "en": "detonation",
+  "uk": "детонація",
+  "v": "similar",
+  "ce": "detonation",
+  "cu": "детонація",
+  "note": "-ation becomes -ація"
+ },
+ {
+  "en": "diode",
+  "uk": "діод",
+  "v": "identical",
+  "ce": "diode",
+  "cu": "діод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dix",
+  "uk": "дікс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dreyfus",
+  "uk": "дрейфус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duval",
+  "uk": "дюваль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "egalitarian",
+  "uk": "егалітарист",
+  "v": "similar",
+  "ce": "egalitarian",
+  "cu": "егалітарист",
+  "note": "different suffix -ист"
+ },
+ {
+  "en": "egalitarian",
+  "uk": "егалітарний",
+  "v": "similar",
+  "ce": "egalitarian",
+  "cu": "егалітарний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "endocrine",
+  "uk": "ендокринний",
+  "v": "similar",
+  "ce": "endocrine",
+  "cu": "ендокринний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "endocrine",
+  "uk": "ендокринна",
+  "v": "not_lemma",
+  "ce": "endocrine",
+  "cu": "ендокринний",
+  "lv": "similar",
+  "note": "Feminine form; lemma ендокринний has adjective ending -ний."
+ },
+ {
+  "en": "ernesto",
+  "uk": "ернесто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ester",
+  "uk": "естер",
+  "v": "identical",
+  "ce": "ester",
+  "cu": "естер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": "Also called складний ефір in Ukrainian."
+ },
+ {
+  "en": "fer",
+  "uk": "фер",
+  "v": "unrelated"
+ },
+ {
+  "en": "flamingo",
+  "uk": "фламінго",
+  "v": "identical",
+  "ce": "flamingo",
+  "cu": "фламінго",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "flamingo",
+  "uk": "фламінґо",
+  "v": "identical",
+  "ce": "flamingo",
+  "cu": "фламінго",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Rare spelling фламінґо; usual фламінго."
+ },
+ {
+  "en": "frey",
+  "uk": "фрей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guillermo",
+  "uk": "гільєрмо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hailey",
+  "uk": "гейлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "harlow",
+  "uk": "харлоу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hertz",
+  "uk": "герц",
+  "v": "identical",
+  "ce": "hertz",
+  "cu": "герц",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": "Unit of frequency (Hz)."
+ },
+ {
+  "en": "hirsch",
+  "uk": "гірш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hwang",
+  "uk": "хван",
+  "v": "proper_noun"
+ },
+ {
+  "en": "idris",
+  "uk": "ідріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "institut",
+  "uk": "інститут",
+  "v": "not_lemma",
+  "ce": "institute",
+  "cu": "інститут",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "note": "English spelling is 'institute'. Ukrainian інститут also means a social institution (інститут шлюбу)."
+ },
+ {
+  "en": "ismail",
+  "uk": "ісмаїл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jana",
+  "uk": "яна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jana",
+  "uk": "яно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "janis",
+  "uk": "дженіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kal",
+  "uk": "кал",
+  "v": "unrelated"
+ },
+ {
+  "en": "kee",
+  "uk": "кі",
+  "v": "unrelated"
+ },
+ {
+  "en": "khalil",
+  "uk": "халіл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lambda",
+  "uk": "лямбда",
+  "v": "identical",
+  "ce": "lambda",
+  "cu": "лямбда",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter Λ, λ."
+ },
+ {
+  "en": "leicestershire",
+  "uk": "лестершир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leto",
+  "uk": "лето",
+  "v": "proper_noun"
+ },
+ {
+  "en": "libido",
+  "uk": "лібідо",
+  "v": "identical",
+  "ce": "libido",
+  "cu": "лібідо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lina",
+  "uk": "ліна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lizzy",
+  "uk": "ліззі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mage",
+  "uk": "мАг",
+  "v": "identical",
+  "ce": "mage",
+  "cu": "маг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "people"
+  ],
+  "note": "English 'mage' is mostly used in fantasy; Ukrainian маг also means a stage magician."
+ },
+ {
+  "en": "mage",
+  "uk": "маг",
+  "v": "identical",
+  "ce": "mage",
+  "cu": "маг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "people"
+  ],
+  "note": "English 'mage' is mostly used in fantasy; Ukrainian маг also means a stage magician."
+ },
+ {
+  "en": "mannequin",
+  "uk": "манекен",
+  "v": "identical",
+  "ce": "mannequin",
+  "cu": "манекен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "marlborough",
+  "uk": "мальборо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maximal",
+  "uk": "максимальне",
+  "v": "not_lemma",
+  "ce": "maximal",
+  "cu": "максимальний",
+  "lv": "similar",
+  "note": "Neuter form; lemma максимальний has adjective ending -ний."
+ },
+ {
+  "en": "maximal",
+  "uk": "максимальний",
+  "v": "similar",
+  "ce": "maximal",
+  "cu": "максимальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "maximal",
+  "uk": "максимальна",
+  "v": "not_lemma",
+  "ce": "maximal",
+  "cu": "максимальний",
+  "lv": "similar",
+  "note": "Feminine form; lemma максимальний has adjective ending -ний."
+ },
+ {
+  "en": "mime",
+  "uk": "мім",
+  "v": "identical",
+  "ce": "mime",
+  "cu": "мім",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art",
+   "people"
+  ],
+  "note": "Ukrainian мім is the performer; the art form is пантоміма."
+ },
+ {
+  "en": "minivan",
+  "uk": "мінівен",
+  "v": "identical",
+  "ce": "minivan",
+  "cu": "мінівен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "morrissey",
+  "uk": "морріссі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neuro-",
+  "uk": "нейро-",
+  "v": "identical",
+  "ce": "neuro-",
+  "cu": "нейро-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Prefix meaning 'nerve' (нейрохірург = neurosurgeon)."
+ },
+ {
+  "en": "pau",
+  "uk": "пау",
+  "v": "unrelated"
+ },
+ {
+  "en": "platt",
+  "uk": "платт",
+  "v": "proper_noun"
+ }
+]
