@@ -5,11 +5,19 @@ Flip cards of English words that are the same in Ukrainian (taxi = таксі, c
 Open `index.html` in a browser. It works offline, and it also works on GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-- Choose a frequency band (Top 400 … Rare) to get its cards. **Grid** shows 4 cards per row; **One by one** shows a single card (← → keys, Space flips it).
-- Card front: the English word, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 reads the word aloud in the browser's English voice.
-- Click a card to flip it. The back has room for 4 examples and a usage note (to be added later) and shows the word's labels.
-- **+** adds a word to **My words**. These are saved in this browser only.
-- **Train** (basic): shows the Ukrainian word; you recall the English word, then mark "I knew it" or "Again".
+- Choose a frequency band (Top 400 … Rare) to get its cards, most used English words first. **Grid** shows 4 cards per row (1 on phones) and loads more as you scroll; **One by one** shows a single card (← → keys, Space flips it).
+- Card front: the English word, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 plays a recorded pronunciation (see Audio).
+- Click a card to flip it. The back shows the word's rank in English, 4 example sentences, labels that describe the English word, and a usage note when needed. Notes and labels are about the English word only.
+- **Hide slang** hides cards whose Ukrainian word is slang, colloquial, rare or archaic (people = піпл). The flag comes from the Ukrainian dictionaries (`tools/compute_register.py`) and is not shown on cards.
+- **Topics** dropdown filters a band by topic. **+** adds a word to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one.
+
+## Audio
+- Every word is recorded with the open neural voice model Kokoro-82M (`tools/make_audio.py`): an American voice, and a British voice for British-only words.
+- Clips are packed into bundles of 250 (`audio/chunk-NNN.mp3`, positions in `audio/manifest.json`). The page loads a bundle the first time a word from it is played.
+- `tools/check_audio.py` runs a speech recognizer over the clips of common words to flag words that don't come out clearly.
+
+## Examples
+- 4 example sentences in the card's meaning, plus an English-only usage note where a learner might misuse the word (`data/examples/*.json`, `tools/workflows/examples.js`). Done for the 2,756 most used words (Top 400 … Top 20K).
 
 ## How the word list is built
 No word list comes from memory. Each step is a script or a recorded check.

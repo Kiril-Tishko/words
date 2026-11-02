@@ -16,9 +16,12 @@
    - Common words: full skeptical re-check that also sets the level of the shared meaning (`tools/workflows/cross-check(-lite).js`).
    - Rare words: flag-only re-check (`tools/workflows/rare-flag.js` + `tools/expand_flags.py`).
 
+## Also done
+- Frequency bands instead of A0–C2. Labels on cards describe only the English word. "Hide slang" filter.
+- Examples + English notes: 2,756 most used words (Top 400 … Top 20K).
+- Recorded pronunciations for all words (Kokoro neural voice), checked with a speech recognizer.
+
 ## Next
-- English-only usage notes for the card backs (the checkers' draft notes describe the Ukrainian side and are not shown).
-- 4 examples per card.
+- Examples for the remaining 8,000 less common words (Top 50K, Top 100K, Rare).
 - Training mode (basic version is in place).
-- "Similar words" and "false friends" sets.
-- Possibly paging for the very large C2 level.
+- "Similar words" and "false friends" sets (`data/similar.json`, `data/false_friends.json`).
