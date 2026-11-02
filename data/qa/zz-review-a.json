@@ -1,0 +1,242 @@
+{
+ "easy": {
+  "ex": [
+   "This test is easy.",
+   "Is the hotel easy to find?",
+   "Is English easy for you?",
+   "This game is too easy for me."
+  ],
+  "say": "easy to find · easy for me · too easy",
+  "why": "examples B1: past tense, 8-10 words, one question; no Say line"
+ },
+ "face": {
+  "ex": [
+   "Wash your face and hands.",
+   "Is there something on my face?",
+   "Your face is red. Are you OK?",
+   "She has a kind face."
+  ],
+  "why": "past tense, future 'will', 8-9 words; only one question"
+ },
+ "trouble": {
+  "ex": [
+   "Are you in trouble?",
+   "I have trouble with my phone.",
+   "Sorry for the trouble.",
+   "Call me if you have trouble."
+  ],
+  "say": "be in trouble · have trouble with",
+  "why": "past tense, 8-9 words, one question; no Say line"
+ },
+ "chance": {
+  "ex": [
+   "Give me a chance.",
+   "Is there a chance of rain today?",
+   "Do I have a chance?",
+   "I want another chance."
+  ],
+  "why": "calques: 'This is a good chance.', 'Do you have a chance to call?'"
+ },
+ "video": {
+  "ex": [
+   "I watch videos on my phone.",
+   "Send me the video, please.",
+   "This video is very funny.",
+   "Can you make a video?"
+  ],
+  "why": "habit needs plural: 'I watch videos', not 'a video'"
+ },
+ "partner": {
+  "ex": [
+   "I live with my partner.",
+   "Find a partner and practice the dialog.",
+   "He is my business partner.",
+   "Can my partner come too?"
+  ],
+  "why": "two sentences have 8 words (top-1000 max is 7)"
+ },
+ "model": {
+  "ex": [
+   "Do you have this model in blue?",
+   "What model is your phone?",
+   "I like this car model.",
+   "She is a fashion model."
+  ],
+  "why": "only one question or request; top-1000 needs two"
+ },
+ "season": {
+  "say": "favorite season · high season · this season",
+  "why": "'in this season' is a calque; English says 'this season'"
+ },
+ "class": {
+  "note": "Often a lesson: \"I have a class at nine.\" A school year is a grade: \"in fifth grade\".",
+  "why": "add the typical error 'in fifth class' (= fifth grade)"
+ },
+ "start": {
+  "s": 10,
+  "why": "lemma includes 'started'; the noun is only ~10% of uses"
+ },
+ "fight": {
+  "s": 20,
+  "ex": [
+   "Is the fight on TV today?",
+   "Can we watch the fight?",
+   "I have tickets for the fight.",
+   "The big fight is at nine."
+  ],
+  "note": "Most often a verb: \"Don't fight!\" A fight can also be a quarrel: \"a fight with my brother\".",
+  "why": "a bout/brawl is ~20% of uses; 'Anna wins the fight' unnatural; quarrel sense"
+ },
+ "file": {
+  "s": 40,
+  "note": "Also papers about a person or a case: \"The doctor has your file.\" Also a verb: \"file a report\".",
+  "why": "only the computer file is shared; case files and the verb are common"
+ },
+ "cent": {
+  "s": 65,
+  "note": "In British English \"per cent\" means % (\"ten per cent\"); it is not the coin.",
+  "why": "many uses of 'cent' are British 'per cent'"
+ },
+ "vice president": {
+  "pm": 18,
+  "why": "pm 40 exceeds 'vice' itself (32 pm); about 18"
+ },
+ "real-time": {
+  "pm": 6,
+  "why": "40 pm would beat 'software' and 'update'; about 6 (like 'streaming')"
+ },
+ "follow-up": {
+  "pm": 7,
+  "why": "30 pm equals 'pizza'; about 7 (below 'feedback', 9 pm)"
+ },
+ "gay": {
+  "ex": [
+   "My brother is gay and lives with his partner.",
+   "Are there any gay bars near here?",
+   "Many gay couples live in this part of town.",
+   "She told her parents that she is gay."
+  ],
+  "why": "no question or request (band needs one)"
+ },
+ "task": {
+  "ex": [
+   "My first task today is to answer emails.",
+   "Cleaning the garage is a big task.",
+   "Can you give me a new task?",
+   "She finished the task in ten minutes."
+  ],
+  "say": "do a task · finish a task",
+  "why": "no question or request; no Say line"
+ },
+ "impact": {
+  "ex": [
+   "The new law had a big impact on business.",
+   "Social media has a huge impact on kids.",
+   "Does coffee have an impact on your sleep?",
+   "Her work made a real impact."
+  ],
+  "say": "have an impact on · a big impact",
+  "why": "no question or request; no Say line"
+ },
+ "port": {
+  "ex": [
+   "The ship is leaving the port.",
+   "We arrived at the port in the morning.",
+   "This city has a big port.",
+   "How do I get to the port?"
+  ],
+  "why": "no question or request (band needs one)"
+ },
+ "camp": {
+  "ex": [
+   "The kids are going to summer camp in July.",
+   "How much does summer camp cost?",
+   "The camp has tents, a kitchen, and showers.",
+   "My son loved his first week at camp."
+  ],
+  "why": "no question; 'set up camp' is a phrasal idiom"
+ },
+ "character": {
+  "ex": [
+   "My sister has a strong character.",
+   "Describe your character in three words.",
+   "Sport can help to build character.",
+   "He has a calm, friendly character."
+  ],
+  "why": "two 10-word sentences, no question, stiff wording"
+ },
+ "friendly": {
+  "ex": [
+   "The people at this hotel are very friendly.",
+   "She always has a friendly smile.",
+   "Is your dog friendly with small children?",
+   "Our new neighbors seem friendly and helpful."
+  ],
+  "say": "friendly to · user-friendly · pet-friendly",
+  "why": "one 10-word sentence; add the -friendly compounds"
+ },
+ "focus": {
+  "ex": [
+   "The photo is out of focus.",
+   "How do I change the focus on this camera?",
+   "Our main focus is the customer.",
+   "What is the focus of this lesson?"
+  ],
+  "note": "Most often a verb: \"I can't focus.\" A magic trick is a \"trick\", not a \"focus\".",
+  "say": "in focus · out of focus · the main focus",
+  "why": "share 40 is all noun uses; examples were camera-only B1, no question"
+ },
+ "service": {
+  "ex": [
+   "The service here is very good.",
+   "Is service included in the bill?",
+   "Where is customer service, please?",
+   "This hotel has great service."
+  ],
+  "why": "a 3-word sentence (band needs 4-9 words)"
+ },
+ "football": {
+  "ex": [
+   "I play football on Saturdays.",
+   "We watch football on TV.",
+   "Football is my favorite sport.",
+   "Do you like football?"
+  ],
+  "why": "a 3-word sentence (band needs 4-9 words)"
+ },
+ "cash": {
+  "gram": "cash · uncountable",
+  "say": "pay in cash · Cash or card?",
+  "why": "no grammar line; add the key shop phrases"
+ },
+ "proof": {
+  "gram": "proof · uncountable",
+  "say": "proof of address · proof of age",
+  "why": "no grammar line; learners say 'a proof'"
+ },
+ "profit": {
+  "gram": "a profit · profits",
+  "say": "make a profit · at a profit",
+  "why": "no grammar line; 'make a profit', not 'get a profit'"
+ },
+ "sense": {
+  "say": "make sense · no sense in · in a sense",
+  "why": "add 'make sense', the phrase used in the examples"
+ },
+ "internet": {
+  "note": "With \"the\": \"on the internet\". For a home connection, no \"the\": \"Do you have internet?\"",
+  "why": "note said always 'the', but two examples have no 'the'"
+ },
+ "mama": {
+  "note": "Childish or informal. Adults usually say \"mom\" (US) or \"mum\" (UK).",
+  "why": "add British 'mum', which Ukrainian schools teach"
+ },
+ "lunch": {
+  "ns": false,
+  "why": "ланч is the usual menu word (бізнес-ланч), not slang"
+ },
+ "ID": {
+  "ns": false,
+  "why": "айді is the normal reading of ID, like айті for IT"
+ }
+}
