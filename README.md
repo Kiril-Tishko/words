@@ -68,7 +68,7 @@ No word comes from memory. Each step is a script or a recorded check.
 9. **Second sweep round**: 14 domains of modern loanwords (воркаут, смолток, плот-твіст, хепі-ауер). Each suggestion went through the same dictionary check, second check and expert pass (`tools/workflows/sweep2.js`).
 10. **Precision sweep**: two independent judges re-checked every card in Top 20K and rarer, about 12,000 cards. The pairs both judges rejected were removed (`tools/workflows/precision-sweep.js`, `tools/apply_prec_sweep.py`).
 
-In total, about 61,000 recorded verdicts on 35,000 distinct pairs, plus the full scans and audits.
+In total, about 62,000 recorded verdicts on 35,000 distinct pairs, plus about 24,000 pair judgments in the precision sweep, the full scans and the audits.
 
 ## Quality: how complete and how correct
 Measured on random samples by independent agents who never saw the list (`data/audit/`):
