@@ -1,0 +1,965 @@
+[
+ {
+  "en": "bongo",
+  "uk": "бонго",
+  "v": "identical",
+  "ce": "bongo",
+  "cu": "бонго",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Usually the drums (often plural bongos); also an African antelope in both languages."
+ },
+ {
+  "en": "buckeye",
+  "uk": "бакай",
+  "v": "unrelated"
+ },
+ {
+  "en": "cappuccino",
+  "uk": "капучино",
+  "v": "identical",
+  "ce": "cappuccino",
+  "cu": "капучино",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Also spelled капучіно."
+ },
+ {
+  "en": "château",
+  "uk": "шато",
+  "v": "identical",
+  "ce": "château",
+  "cu": "шато",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places",
+   "drinks"
+  ],
+  "note": "Also written chateau. In Ukrainian mostly a French castle or a wine estate (in wine names)."
+ },
+ {
+  "en": "constructors",
+  "uk": "конструктори",
+  "v": "not_lemma",
+  "ce": "constructor",
+  "cu": "конструктор",
+  "lv": "partial_false_friend",
+  "note": "Ukrainian конструктор is mainly a design engineer or a construction toy set; English constructor = builder / programming term."
+ },
+ {
+  "en": "cornelia",
+  "uk": "корнелія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "decorum",
+  "uk": "декорум",
+  "v": "identical",
+  "ce": "decorum",
+  "cu": "декорум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "other"
+  ],
+  "note": "Bookish in Ukrainian (outward propriety)."
+ },
+ {
+  "en": "duels",
+  "uk": "дуелі",
+  "v": "not_lemma",
+  "ce": "duel",
+  "cu": "дуель",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "ecg",
+  "uk": "екг",
+  "v": "identical",
+  "ce": "ECG",
+  "cu": "ЕКГ",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "medicine"
+  ],
+  "note": "Electrocardiogram; also EKG in US English. ЕКГ is read 'е-ка-ге'."
+ },
+ {
+  "en": "emblematic",
+  "uk": "емблематичний",
+  "v": "similar",
+  "ce": "emblematic",
+  "cu": "емблематичний",
+  "note": "Ukrainian adjective suffix -ичний."
+ },
+ {
+  "en": "epidemiological",
+  "uk": "епідеміологічний",
+  "v": "similar",
+  "ce": "epidemiological",
+  "cu": "епідеміологічний",
+  "note": "Ukrainian adjective suffix -ічний."
+ },
+ {
+  "en": "epithet",
+  "uk": "епітет",
+  "v": "identical",
+  "ce": "epithet",
+  "cu": "епітет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "In English also often an insulting name (a slur); епітет is mainly the literary term."
+ },
+ {
+  "en": "fleury",
+  "uk": "флері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flotilla",
+  "uk": "флотилія",
+  "v": "similar",
+  "ce": "flotilla",
+  "cu": "флотилія",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "gash",
+  "uk": "гаш",
+  "v": "unrelated"
+ },
+ {
+  "en": "gazelle",
+  "uk": "газель",
+  "v": "identical",
+  "ce": "gazelle",
+  "cu": "газель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Ukrainian газель also means a ghazal (poem) and a GAZelle minibus."
+ },
+ {
+  "en": "genotype",
+  "uk": "генотип",
+  "v": "identical",
+  "ce": "genotype",
+  "cu": "генотип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "geronimo",
+  "uk": "джеронімо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "girard",
+  "uk": "жирар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gregorio",
+  "uk": "грегоріо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haifa",
+  "uk": "хайфа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hattie",
+  "uk": "гетті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "helmut",
+  "uk": "гельмут",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hesse",
+  "uk": "гессе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hesse",
+  "uk": "гессен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jaeger",
+  "uk": "єгер",
+  "v": "partial_false_friend",
+  "ce": "jaeger",
+  "cu": "єгер",
+  "note": "English jaeger is mainly a seabird (skua); Ukrainian єгер = gamekeeper/huntsman or light-infantry rifleman."
+ },
+ {
+  "en": "joystick",
+  "uk": "джойстик",
+  "v": "identical",
+  "ce": "joystick",
+  "cu": "джойстик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "joystick",
+  "uk": "джойстика",
+  "v": "not_lemma",
+  "ce": "joystick",
+  "cu": "джойстик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "games"
+  ],
+  "note": "Genitive form."
+ },
+ {
+  "en": "kamikaze",
+  "uk": "камікадзе",
+  "v": "similar",
+  "ce": "kamikaze",
+  "cu": "камікадзе",
+  "note": "Written with -дзе (from Japanese), not -зе."
+ },
+ {
+  "en": "karina",
+  "uk": "каріна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karlsson",
+  "uk": "карлссон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kidman",
+  "uk": "кідман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lackey",
+  "uk": "лакей",
+  "v": "identical",
+  "ce": "lackey",
+  "cu": "лакей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Footman; figuratively a servile follower in both languages."
+ },
+ {
+  "en": "lackey",
+  "uk": "льокай",
+  "v": "similar",
+  "ce": "lackey",
+  "cu": "льокай",
+  "note": "Dialectal (Western Ukrainian) form of лакей; vowel differs."
+ },
+ {
+  "en": "leek",
+  "uk": "лік",
+  "v": "unrelated"
+ },
+ {
+  "en": "levitt",
+  "uk": "левітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "linguist",
+  "uk": "лінгвіст",
+  "v": "identical",
+  "ce": "linguist",
+  "cu": "лінгвіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language",
+   "people"
+  ],
+  "note": "Mainly a scholar of linguistics; a person who speaks many languages is usually поліглот."
+ },
+ {
+  "en": "lorne",
+  "uk": "лорн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macros",
+  "uk": "макросів",
+  "v": "not_lemma",
+  "ce": "macro",
+  "cu": "макрос",
+  "lv": "similar",
+  "note": "Genitive plural; lemma макрос adds -с."
+ },
+ {
+  "en": "makoto",
+  "uk": "макото",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mala",
+  "uk": "мала",
+  "v": "unrelated"
+ },
+ {
+  "en": "mauritania",
+  "uk": "мавританія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mauritania",
+  "uk": "мавританії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mikel",
+  "uk": "мікель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mordor",
+  "uk": "мордор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mordor",
+  "uk": "мордору",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nautilus",
+  "uk": "навтилус",
+  "v": "identical",
+  "ce": "nautilus",
+  "cu": "наутилус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "навтилус is a variant spelling; usual spelling наутилус."
+ },
+ {
+  "en": "nautilus",
+  "uk": "наутилус",
+  "v": "identical",
+  "ce": "nautilus",
+  "cu": "наутилус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Also spelled навтилус."
+ },
+ {
+  "en": "nieto",
+  "uk": "ньєто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nymph",
+  "uk": "німфа",
+  "v": "similar",
+  "ce": "nymph",
+  "cu": "німфа",
+  "note": "Ending -а added."
+ },
+ {
+  "en": "oceanography",
+  "uk": "океанографія",
+  "v": "similar",
+  "ce": "oceanography",
+  "cu": "океанографія",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "omer",
+  "uk": "омер",
+  "v": "identical",
+  "ce": "omer",
+  "cu": "омер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion",
+   "units"
+  ],
+  "note": "Ancient Hebrew measure of grain; also in the Counting of the Omer."
+ },
+ {
+  "en": "papaya",
+  "uk": "папайя",
+  "v": "identical",
+  "ce": "papaya",
+  "cu": "папая",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "папайя is a variant spelling; dictionary spelling папая."
+ },
+ {
+  "en": "papaya",
+  "uk": "папая",
+  "v": "identical",
+  "ce": "papaya",
+  "cu": "папая",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Also spelled папайя."
+ },
+ {
+  "en": "pensioner",
+  "uk": "пенсіонер",
+  "v": "identical",
+  "ce": "pensioner",
+  "cu": "пенсіонер",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "people"
+  ],
+  "note": "Chiefly British; US English usually says retiree."
+ },
+ {
+  "en": "pensioner",
+  "uk": "пенсіонерка",
+  "v": "not_lemma",
+  "ce": "pensioner",
+  "cu": "пенсіонер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "people"
+  ],
+  "note": "Feminine form (a female pensioner)."
+ },
+ {
+  "en": "physiotherapy",
+  "uk": "фізіотерапія",
+  "v": "similar",
+  "ce": "physiotherapy",
+  "cu": "фізіотерапія",
+  "note": "Ending -ія."
+ },
+ {
+  "en": "pizzeria",
+  "uk": "піцерія",
+  "v": "identical",
+  "ce": "pizzeria",
+  "cu": "піцерія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "preamble",
+  "uk": "преамбула",
+  "v": "similar",
+  "ce": "preamble",
+  "cu": "преамбула",
+  "note": "Ending -ула (from Latin preambulum)."
+ },
+ {
+  "en": "prim",
+  "uk": "прим",
+  "v": "unrelated"
+ },
+ {
+  "en": "ptolemy",
+  "uk": "птолемей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "puree",
+  "uk": "пюре",
+  "v": "identical",
+  "ce": "puree",
+  "cu": "пюре",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian пюре on its own usually means mashed potatoes."
+ },
+ {
+  "en": "pyrenees",
+  "uk": "піренеї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "regatta",
+  "uk": "регата",
+  "v": "identical",
+  "ce": "regatta",
+  "cu": "регата",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "remo",
+  "uk": "ремо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sadiq",
+  "uk": "садик",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sauvignon",
+  "uk": "совіньйон",
+  "v": "identical",
+  "ce": "sauvignon",
+  "cu": "совіньйон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": "Grape/wine, e.g. совіньйон блан."
+ },
+ {
+  "en": "siva",
+  "uk": "сива",
+  "v": "unrelated"
+ },
+ {
+  "en": "sps",
+  "uk": "спс",
+  "v": "unrelated"
+ },
+ {
+  "en": "stroud",
+  "uk": "страуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "swahili",
+  "uk": "суахілі",
+  "v": "identical",
+  "ce": "Swahili",
+  "cu": "суахілі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Capitalized in English. Also spelled свахілі."
+ },
+ {
+  "en": "talia",
+  "uk": "талія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tompkins",
+  "uk": "томпкінс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "topaz",
+  "uk": "топаз",
+  "v": "identical",
+  "ce": "topaz",
+  "cu": "топаз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "trotsky",
+  "uk": "троцький",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wordsworth",
+  "uk": "вордсворт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aggressiveness",
+  "uk": "агресивність",
+  "v": "similar",
+  "ce": "aggressiveness",
+  "cu": "агресивність",
+  "note": "Ukrainian suffix -ність."
+ },
+ {
+  "en": "ales",
+  "uk": "олесь",
+  "v": "unrelated"
+ },
+ {
+  "en": "anode",
+  "uk": "анод",
+  "v": "identical",
+  "ce": "anode",
+  "cu": "анод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "arafat",
+  "uk": "арафат",
+  "v": "proper_noun"
+ },
+ {
+  "en": "argon",
+  "uk": "аргон",
+  "v": "identical",
+  "ce": "argon",
+  "cu": "аргон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "argon",
+  "uk": "арґон",
+  "v": "identical",
+  "ce": "argon",
+  "cu": "аргон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "арґон is a variant spelling; usual spelling аргон."
+ },
+ {
+  "en": "backhand",
+  "uk": "бекхенд",
+  "v": "identical",
+  "ce": "backhand",
+  "cu": "бекхенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "barbra",
+  "uk": "барбра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barnet",
+  "uk": "барнет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beryllium",
+  "uk": "берилій",
+  "v": "similar",
+  "ce": "beryllium",
+  "cu": "берилій",
+  "note": "-ium → -ій."
+ },
+ {
+  "en": "broderick",
+  "uk": "бродерік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "broughton",
+  "uk": "бротон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cacao",
+  "uk": "какао",
+  "v": "identical",
+  "ce": "cacao",
+  "cu": "какао",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "drinks"
+  ],
+  "note": "Ukrainian какао also means cocoa powder and the hot drink."
+ },
+ {
+  "en": "cale",
+  "uk": "кейл",
+  "v": "unrelated"
+ },
+ {
+  "en": "calypso",
+  "uk": "каліпсо",
+  "v": "identical",
+  "ce": "calypso",
+  "cu": "каліпсо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "caper",
+  "uk": "каперс",
+  "v": "similar",
+  "ce": "caper",
+  "cu": "каперс",
+  "note": "Ending -с (from plural capers); Ukrainian каперс is only the pickled bud/plant, not a leap or prank."
+ },
+ {
+  "en": "carlsbad",
+  "uk": "карлсбад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caspar",
+  "uk": "каспар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coffey",
+  "uk": "коффі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "decadence",
+  "uk": "декаданс",
+  "v": "identical",
+  "ce": "decadence",
+  "cu": "декаданс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art"
+  ],
+  "note": "In Ukrainian mostly cultural decline or the Decadent art movement; not the English 'luxurious indulgence' sense."
+ },
+ {
+  "en": "ese",
+  "uk": "есе",
+  "v": "unrelated"
+ },
+ {
+  "en": "euclid",
+  "uk": "евклід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "feng shui",
+  "uk": "феншуй",
+  "v": "identical",
+  "ce": "feng shui",
+  "cu": "феншуй",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "home"
+  ],
+  "note": "Also spelled фен-шуй."
+ },
+ {
+  "en": "fentanyl",
+  "uk": "фентаніл",
+  "v": "identical",
+  "ce": "fentanyl",
+  "cu": "фентаніл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ferrara",
+  "uk": "феррара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "finlay",
+  "uk": "фінлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaby",
+  "uk": "габі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "garibaldi",
+  "uk": "гарібальді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ghent",
+  "uk": "гент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "giggs",
+  "uk": "гіггз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gilmour",
+  "uk": "гілмор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gleason",
+  "uk": "глісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gottlieb",
+  "uk": "готліб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "harlequin",
+  "uk": "арлекін",
+  "v": "similar",
+  "ce": "harlequin",
+  "cu": "арлекін",
+  "note": "No initial h in Ukrainian (from French arlequin)."
+ },
+ {
+  "en": "hokkaido",
+  "uk": "хоккайдо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hydraulics",
+  "uk": "гідравліка",
+  "v": "similar",
+  "ce": "hydraulics",
+  "cu": "гідравліка",
+  "note": "Ending -ка."
+ },
+ {
+  "en": "hydrolysis",
+  "uk": "гідроліз",
+  "v": "similar",
+  "ce": "hydrolysis",
+  "cu": "гідроліз",
+  "note": "Ending -is dropped."
+ },
+ {
+  "en": "hyperactivity",
+  "uk": "гіперактивність",
+  "v": "similar",
+  "ce": "hyperactivity",
+  "cu": "гіперактивність",
+  "note": "Ukrainian suffix -ність."
+ },
+ {
+  "en": "innes",
+  "uk": "іннес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "julianne",
+  "uk": "джуліанн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "koko",
+  "uk": "коко",
+  "v": "unrelated"
+ },
+ {
+  "en": "leary",
+  "uk": "лірі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lesotho",
+  "uk": "лесото",
+  "v": "proper_noun"
+ },
+ {
+  "en": "levinson",
+  "uk": "левінсон",
+  "v": "proper_noun"
+ }
+]

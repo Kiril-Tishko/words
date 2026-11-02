@@ -1,0 +1,852 @@
+[
+ {
+  "en": "septic shock",
+  "uk": "септичний шок",
+  "v": "similar",
+  "ce": "septic shock",
+  "cu": "септичний шок",
+  "note": "Ukrainian uses an adjective with its own ending (септичний)."
+ },
+ {
+  "en": "seville",
+  "uk": "севільї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shopper",
+  "uk": "шопер",
+  "v": "partial_false_friend",
+  "ce": "shopper",
+  "cu": "шопер",
+  "note": "Ukrainian шопер mainly means a tote/shopping bag (also a personal shopper); English shopper = a person who shops."
+ },
+ {
+  "en": "shu",
+  "uk": "шу",
+  "v": "unrelated"
+ },
+ {
+  "en": "som",
+  "uk": "сом",
+  "v": "identical",
+  "ce": "som",
+  "cu": "сом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "Currency of Kyrgyzstan. Ukrainian сом also (and mainly) means 'catfish'."
+ },
+ {
+  "en": "som",
+  "uk": "сум",
+  "v": "similar",
+  "ce": "som",
+  "cu": "сум",
+  "note": "Different vowel; сум is the Uzbek currency in Ukrainian, and also means 'sadness'."
+ },
+ {
+  "en": "sprite",
+  "uk": "спрайт",
+  "v": "identical",
+  "ce": "sprite",
+  "cu": "спрайт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "Shared meaning: a 2D image in computer graphics/games. In English sprite also (originally) means a fairy or elf."
+ },
+ {
+  "en": "stagnation",
+  "uk": "стагнація",
+  "v": "similar",
+  "ce": "stagnation",
+  "cu": "стагнація",
+  "note": "Ukrainian ending -ація instead of -ation."
+ },
+ {
+  "en": "sulfate",
+  "uk": "сульфат",
+  "v": "identical",
+  "ce": "sulfate",
+  "cu": "сульфат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "chemistry"
+  ],
+  "note": "British spelling: sulphate."
+ },
+ {
+  "en": "sumner",
+  "uk": "самнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tangent",
+  "uk": "тангенс",
+  "v": "similar",
+  "ce": "tangent",
+  "cu": "тангенс",
+  "note": "Different ending; тангенс is only the trig function (a tangent line is дотична)."
+ },
+ {
+  "en": "tori",
+  "uk": "торі",
+  "v": "unrelated"
+ },
+ {
+  "en": "transporter",
+  "uk": "транспортер",
+  "v": "identical",
+  "ce": "transporter",
+  "cu": "транспортер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "note": "In Ukrainian транспортер also often means a conveyor belt (English: conveyor)."
+ },
+ {
+  "en": "turing",
+  "uk": "тюрінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "veterinarian",
+  "uk": "ветеринарка",
+  "v": "not_lemma",
+  "ce": "veterinarian",
+  "cu": "ветеринар",
+  "lv": "similar",
+  "note": "ветеринарка is a colloquial derived word (vet clinic / female vet); the base word ветеринар lacks the -ian ending."
+ },
+ {
+  "en": "vidal",
+  "uk": "відаль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yukon",
+  "uk": "юкон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zoology",
+  "uk": "зоологія",
+  "v": "similar",
+  "ce": "zoology",
+  "cu": "зоологія",
+  "note": "Ukrainian ending -ія instead of -y."
+ },
+ {
+  "en": "adm",
+  "uk": "адм",
+  "v": "partial_false_friend",
+  "ce": "Adm.",
+  "cu": "адм.",
+  "note": "English Adm. mostly = Admiral; Ukrainian адм. = адміністрація/адміністративний."
+ },
+ {
+  "en": "aeroplane",
+  "uk": "аероплан",
+  "v": "identical",
+  "ce": "aeroplane",
+  "cu": "аероплан",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "dated",
+   "transport"
+  ],
+  "note": "In Ukrainian аероплан is dated; the everyday word is літак. American English: airplane."
+ },
+ {
+  "en": "andromeda",
+  "uk": "андромеда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asher",
+  "uk": "ашер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "avi",
+  "uk": "аві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bagel",
+  "uk": "байґель",
+  "v": "similar",
+  "ce": "bagel",
+  "cu": "байґель",
+  "note": "Different vowel (Yiddish-based form); the more common Ukrainian word is бейгл."
+ },
+ {
+  "en": "bai",
+  "uk": "бай",
+  "v": "unrelated"
+ },
+ {
+  "en": "barometer",
+  "uk": "барометр",
+  "v": "identical",
+  "ce": "barometer",
+  "cu": "барометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bavaria",
+  "uk": "баварія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boa",
+  "uk": "боа",
+  "v": "identical",
+  "ce": "boa",
+  "cu": "боа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature",
+   "clothing"
+  ],
+  "note": "Both the snake and a feather/fur scarf in both languages."
+ },
+ {
+  "en": "britt",
+  "uk": "брітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bucharest",
+  "uk": "бухарест",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cahill",
+  "uk": "кегілл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carp",
+  "uk": "карп",
+  "v": "identical",
+  "ce": "carp",
+  "cu": "карп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature",
+   "food"
+  ],
+  "note": "English also has the verb 'to carp' = to complain about small things."
+ },
+ {
+  "en": "castor",
+  "uk": "кастор",
+  "v": "partial_false_friend",
+  "ce": "castor",
+  "cu": "кастор",
+  "note": "Shared only as a heavy wool cloth; English castor usually means castor oil or a small wheel (caster)."
+ },
+ {
+  "en": "cleopatra",
+  "uk": "клеопатра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "codex",
+  "uk": "кодекс",
+  "v": "partial_false_friend",
+  "ce": "codex",
+  "cu": "кодекс",
+  "note": "Ukrainian кодекс mainly means a legal code (Criminal Code = Кримінальний кодекс); English codex = an ancient manuscript book."
+ },
+ {
+  "en": "conte",
+  "uk": "конте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crowe",
+  "uk": "кроу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "davy",
+  "uk": "деві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dempsey",
+  "uk": "демпсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dialect continuum",
+  "uk": "діалектний континуум",
+  "v": "similar",
+  "ce": "dialect continuum",
+  "cu": "діалектний континуум",
+  "note": "Ukrainian uses an adjective with its own ending (діалектний)."
+ },
+ {
+  "en": "dispersion",
+  "uk": "дисперсія",
+  "v": "similar",
+  "ce": "dispersion",
+  "cu": "дисперсія",
+  "note": "Ukrainian ending -сія instead of -sion."
+ },
+ {
+  "en": "doha",
+  "uk": "доха",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emil",
+  "uk": "еміль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "enzo",
+  "uk": "енцо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fei",
+  "uk": "фей",
+  "v": "unrelated"
+ },
+ {
+  "en": "firth",
+  "uk": "ферт",
+  "v": "unrelated"
+ },
+ {
+  "en": "flannel",
+  "uk": "фланель",
+  "v": "identical",
+  "ce": "flannel",
+  "cu": "фланель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": "In British English a flannel is also a washcloth."
+ },
+ {
+  "en": "gaston",
+  "uk": "гастон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "geothermal",
+  "uk": "геотермальний",
+  "v": "similar",
+  "ce": "geothermal",
+  "cu": "геотермальний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "geothermal",
+  "uk": "геотермальна",
+  "v": "not_lemma",
+  "ce": "geothermal",
+  "cu": "геотермальний",
+  "lv": "similar",
+  "note": "Feminine form of геотермальний."
+ },
+ {
+  "en": "gustav",
+  "uk": "густав",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hari",
+  "uk": "харі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hepburn",
+  "uk": "хепберн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hogwarts",
+  "uk": "гоґвортс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "huddersfield",
+  "uk": "гаддерсфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ibiza",
+  "uk": "ібіца",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ibiza",
+  "uk": "ібіса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "informational",
+  "uk": "інформаційний",
+  "v": "similar",
+  "ce": "informational",
+  "cu": "інформаційний",
+  "note": "Ukrainian adjective ending -ійний."
+ },
+ {
+  "en": "informational",
+  "uk": "інформаційні",
+  "v": "not_lemma",
+  "ce": "informational",
+  "cu": "інформаційний",
+  "lv": "similar",
+  "note": "Plural form of інформаційний."
+ },
+ {
+  "en": "jody",
+  "uk": "джоді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karim",
+  "uk": "карім",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kristina",
+  "uk": "крістіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lennox",
+  "uk": "леннокс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lund",
+  "uk": "лунд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "massey",
+  "uk": "мессі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "masturbate",
+  "uk": "мастурбувати",
+  "v": "similar",
+  "ce": "masturbate",
+  "cu": "мастурбувати",
+  "note": "Ukrainian verb ending -увати."
+ },
+ {
+  "en": "meade",
+  "uk": "мід",
+  "v": "unrelated"
+ },
+ {
+  "en": "morley",
+  "uk": "морлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "novo",
+  "uk": "ново",
+  "v": "unrelated"
+ },
+ {
+  "en": "penitentiary",
+  "uk": "пенітенціарний",
+  "v": "similar",
+  "ce": "penitentiary",
+  "cu": "пенітенціарний",
+  "note": "Ukrainian is only an adjective (пенітенціарна система = prison system); a prison is в'язниця."
+ },
+ {
+  "en": "picard",
+  "uk": "пікар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pikachu",
+  "uk": "пікачу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "polytechnic",
+  "uk": "політехнічний",
+  "v": "similar",
+  "ce": "polytechnic",
+  "cu": "політехнічний",
+  "note": "Ukrainian adjective ending; the noun is політехніка."
+ },
+ {
+  "en": "pornographic",
+  "uk": "порнографічний",
+  "v": "similar",
+  "ce": "pornographic",
+  "cu": "порнографічний",
+  "note": "Ukrainian adjective ending -ічний."
+ },
+ {
+  "en": "sadistic",
+  "uk": "садистський",
+  "v": "similar",
+  "ce": "sadistic",
+  "cu": "садистський",
+  "note": "Ukrainian adjective ending -ський."
+ },
+ {
+  "en": "slur",
+  "uk": "слюр",
+  "v": "identical",
+  "ce": "slur",
+  "cu": "слюр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "rare",
+   "language"
+  ],
+  "note": "In Ukrainian a rare internet neologism; the usual word is образливе слово."
+ },
+ {
+  "en": "souvenirs",
+  "uk": "сувеніри",
+  "v": "not_lemma",
+  "ce": "souvenir",
+  "cu": "сувенір",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": ""
+ },
+ {
+  "en": "spelt",
+  "uk": "спельта",
+  "v": "similar",
+  "ce": "spelt",
+  "cu": "спельта",
+  "note": "Ukrainian adds the ending -а. English spelt is also the British past tense of spell."
+ },
+ {
+  "en": "steiner",
+  "uk": "штайнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "strasbourg",
+  "uk": "страсбург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "strasbourg",
+  "uk": "страсбурзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tamara",
+  "uk": "тамара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tamara",
+  "uk": "тамари",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tessa",
+  "uk": "тесса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tolkien",
+  "uk": "толкін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ulysses",
+  "uk": "улісс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ursula",
+  "uk": "урсула",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yves",
+  "uk": "ів",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aldo",
+  "uk": "альдо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alyssa",
+  "uk": "алісса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amin",
+  "uk": "амін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amin",
+  "uk": "аміна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anemia",
+  "uk": "анемія",
+  "v": "identical",
+  "ce": "anemia",
+  "cu": "анемія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "British spelling: anaemia."
+ },
+ {
+  "en": "barons",
+  "uk": "барони",
+  "v": "not_lemma",
+  "ce": "baron",
+  "cu": "барон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "battalions",
+  "uk": "батальйони",
+  "v": "not_lemma",
+  "ce": "battalion",
+  "cu": "батальйон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bertrand",
+  "uk": "бертран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bismarck",
+  "uk": "бісмарк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burbank",
+  "uk": "бербанк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chakra",
+  "uk": "чакра",
+  "v": "identical",
+  "ce": "chakra",
+  "cu": "чакра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chauffeur",
+  "uk": "шофер",
+  "v": "identical",
+  "ce": "chauffeur",
+  "cu": "шофер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport",
+   "people"
+  ],
+  "note": "Ukrainian шофер means any professional driver; English chauffeur is a hired driver of a private car (a truck or bus driver is just 'driver')."
+ },
+ {
+  "en": "combs",
+  "uk": "комбс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "concordia",
+  "uk": "конкордія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conner",
+  "uk": "коннер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cosmo",
+  "uk": "космо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cosmo-",
+  "uk": "космо-",
+  "v": "identical",
+  "ce": "cosmo-",
+  "cu": "космо-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Prefix meaning 'universe, space' (космонавт = cosmonaut, космополіт = cosmopolitan)."
+ },
+ {
+  "en": "croft",
+  "uk": "крофт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darby",
+  "uk": "дербі",
+  "v": "unrelated"
+ },
+ {
+  "en": "deregulation",
+  "uk": "дерегуляція",
+  "v": "similar",
+  "ce": "deregulation",
+  "cu": "дерегуляція",
+  "note": "Ukrainian ending -яція instead of -ation."
+ },
+ {
+  "en": "dmitry",
+  "uk": "дмитро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dorian",
+  "uk": "доріан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "douglass",
+  "uk": "дуглас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dubois",
+  "uk": "дюбуа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elgin",
+  "uk": "елгін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "erika",
+  "uk": "еріка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ers",
+  "uk": "ерс",
+  "v": "unrelated"
+ },
+ {
+  "en": "euthanasia",
+  "uk": "евтаназія",
+  "v": "identical",
+  "ce": "euthanasia",
+  "cu": "евтаназія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Also spelled ейтаназія."
+ },
+ {
+  "en": "euthanasia",
+  "uk": "евтаназії",
+  "v": "not_lemma",
+  "ce": "euthanasia",
+  "cu": "евтаназія",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Genitive/plural form of евтаназія."
+ },
+ {
+  "en": "fabian",
+  "uk": "фабіан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "faye",
+  "uk": "фе",
+  "v": "unrelated"
+ },
+ {
+  "en": "faye",
+  "uk": "фей",
+  "v": "proper_noun"
+ }
+]

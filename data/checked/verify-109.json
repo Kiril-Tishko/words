@@ -1,0 +1,843 @@
+[
+ {
+  "en": "shogunate",
+  "uk": "сьогунат",
+  "v": "identical",
+  "ce": "shogunate",
+  "cu": "сьогунат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "Also spelled шогунат."
+ },
+ {
+  "en": "sidon",
+  "uk": "сідон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "speechwriter",
+  "uk": "спічрайтер",
+  "v": "identical",
+  "ce": "speechwriter",
+  "cu": "спічрайтер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "spo",
+  "uk": "спо",
+  "v": "unrelated"
+ },
+ {
+  "en": "srebrenica",
+  "uk": "сребрениця",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stalinism",
+  "uk": "сталінізм",
+  "v": "identical",
+  "ce": "Stalinism",
+  "cu": "сталінізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stalinism",
+  "uk": "сталінізму",
+  "v": "not_lemma",
+  "ce": "Stalinism",
+  "cu": "сталінізм",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "strasser",
+  "uk": "штрассер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sultanate",
+  "uk": "султанат",
+  "v": "identical",
+  "ce": "sultanate",
+  "cu": "султанат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "suva",
+  "uk": "сува",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thalamus",
+  "uk": "таламус",
+  "v": "identical",
+  "ce": "thalamus",
+  "cu": "таламус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "thibault",
+  "uk": "тібо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "touré",
+  "uk": "туре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wozniacki",
+  "uk": "возняцкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zakaria",
+  "uk": "закарія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zoltan",
+  "uk": "золтан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abramovich",
+  "uk": "абрамович",
+  "v": "proper_noun"
+ },
+ {
+  "en": "affine",
+  "uk": "афінна",
+  "v": "not_lemma",
+  "ce": "affine",
+  "cu": "афінний",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "agronomy",
+  "uk": "агрономія",
+  "v": "similar",
+  "ce": "agronomy",
+  "cu": "агрономія",
+  "note": "Ukrainian adds -ія."
+ },
+ {
+  "en": "alexandrian",
+  "uk": "александрійський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alexandrian",
+  "uk": "александрієць",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alexandrian",
+  "uk": "александрійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andriy",
+  "uk": "андрій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aurelio",
+  "uk": "ауреліо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barty",
+  "uk": "барті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benzodiazepine",
+  "uk": "бензодіазепіни",
+  "v": "not_lemma",
+  "ce": "benzodiazepine",
+  "cu": "бензодіазепін",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ]
+ },
+ {
+  "en": "botticelli",
+  "uk": "боттічеллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brenna",
+  "uk": "бренна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bullitt",
+  "uk": "булліт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buscemi",
+  "uk": "бушемі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cardozo",
+  "uk": "кардосо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cori",
+  "uk": "корі",
+  "v": "unrelated"
+ },
+ {
+  "en": "coster",
+  "uk": "костер",
+  "v": "unrelated"
+ },
+ {
+  "en": "cotto",
+  "uk": "котто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "creosote",
+  "uk": "креозот",
+  "v": "identical",
+  "ce": "creosote",
+  "cu": "креозот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cuzco",
+  "uk": "куско",
+  "v": "proper_noun"
+ },
+ {
+  "en": "decolonization",
+  "uk": "деколонізація",
+  "v": "similar",
+  "ce": "decolonization",
+  "cu": "деколонізація",
+  "note": "Ukrainian ending -ація."
+ },
+ {
+  "en": "deville",
+  "uk": "девіль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dili",
+  "uk": "ділі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ellipsis",
+  "uk": "еліпс",
+  "v": "false_friend",
+  "ce": "ellipsis",
+  "cu": "еліпсис",
+  "note": "еліпс = ellipse (curve); ellipsis is еліпсис, the mark is три крапки."
+ },
+ {
+  "en": "encyclical",
+  "uk": "енцикліка",
+  "v": "similar",
+  "ce": "encyclical",
+  "cu": "енцикліка",
+  "note": "Ukrainian adds -ка."
+ },
+ {
+  "en": "eschatology",
+  "uk": "есхатологія",
+  "v": "similar",
+  "ce": "eschatology",
+  "cu": "есхатологія",
+  "note": "Ukrainian adds -ія."
+ },
+ {
+  "en": "fontainebleau",
+  "uk": "фонтенбло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fosse",
+  "uk": "фосс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gazetteer",
+  "uk": "газетир",
+  "v": "identical",
+  "ce": "gazetteer",
+  "cu": "газетир",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical",
+   "education"
+  ],
+  "note": "Main modern meaning: a dictionary/index of place names."
+ },
+ {
+  "en": "germanium",
+  "uk": "германій",
+  "v": "similar",
+  "ce": "germanium",
+  "cu": "германій",
+  "note": "Ukrainian -ій instead of -ium."
+ },
+ {
+  "en": "germanium",
+  "uk": "ґерманій",
+  "v": "similar",
+  "ce": "germanium",
+  "cu": "германій",
+  "note": "Variant spelling of германій; -ій instead of -ium."
+ },
+ {
+  "en": "gluck",
+  "uk": "глюк",
+  "v": "unrelated"
+ },
+ {
+  "en": "guangxi",
+  "uk": "гуансі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hensley",
+  "uk": "хенслі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ikeda",
+  "uk": "ікеда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "isidore",
+  "uk": "ісидор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "italo",
+  "uk": "італо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jarl",
+  "uk": "ярл",
+  "v": "identical",
+  "ce": "jarl",
+  "cu": "ярл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people"
+  ],
+  "note": "Historical Scandinavian nobleman."
+ },
+ {
+  "en": "kanata",
+  "uk": "каната",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keno",
+  "uk": "кено",
+  "v": "identical",
+  "ce": "keno",
+  "cu": "кено",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "games"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kostas",
+  "uk": "костас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "krone",
+  "uk": "крона",
+  "v": "identical",
+  "ce": "krone",
+  "cu": "крона",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "Ukrainian крона also means a tree crown."
+ },
+ {
+  "en": "lanzarote",
+  "uk": "лансароте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lidia",
+  "uk": "лідія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lundgren",
+  "uk": "лундгрен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "léon",
+  "uk": "леон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maar",
+  "uk": "маар",
+  "v": "identical",
+  "ce": "maar",
+  "cu": "маар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "macaque",
+  "uk": "макака",
+  "v": "similar",
+  "ce": "macaque",
+  "cu": "макака",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "maeda",
+  "uk": "маеда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meso",
+  "uk": "мезо",
+  "v": "similar",
+  "ce": "meso",
+  "cu": "мезо",
+  "note": "In Ukrainian only a prefix мезо- (e.g. мезорівень)."
+ },
+ {
+  "en": "micrometers",
+  "uk": "мікрометрів",
+  "v": "not_lemma",
+  "ce": "micrometer",
+  "cu": "мікрометр",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ]
+ },
+ {
+  "en": "museveni",
+  "uk": "мусевені",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nour",
+  "uk": "нур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ntv",
+  "uk": "нтв",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pana",
+  "uk": "пана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "panna",
+  "uk": "пана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patchouli",
+  "uk": "пачулі",
+  "v": "identical",
+  "ce": "patchouli",
+  "cu": "пачулі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pericles",
+  "uk": "перикл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "polymorphic",
+  "uk": "поліморфний",
+  "v": "similar",
+  "ce": "polymorphic",
+  "cu": "поліморфний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "professorial",
+  "uk": "професорський",
+  "v": "similar",
+  "ce": "professorial",
+  "cu": "професорський",
+  "note": "Ukrainian adjective suffix -ський."
+ },
+ {
+  "en": "psalter",
+  "uk": "псалтир",
+  "v": "identical",
+  "ce": "psalter",
+  "cu": "псалтир",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "quasar",
+  "uk": "квазар",
+  "v": "identical",
+  "ce": "quasar",
+  "cu": "квазар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "repos",
+  "uk": "репо",
+  "v": "not_lemma",
+  "ce": "repo",
+  "cu": "репо",
+  "lv": "identical",
+  "note": "In Ukrainian mainly the finance term (repurchase agreement, also РЕПО).",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "informal",
+   "finance"
+  ]
+ },
+ {
+  "en": "romy",
+  "uk": "ромі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "scania",
+  "uk": "сконе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schaumburg",
+  "uk": "шаумбург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schleswig",
+  "uk": "шлезвіг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sigrid",
+  "uk": "сігрід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tir",
+  "uk": "тір",
+  "v": "unrelated"
+ },
+ {
+  "en": "tomasz",
+  "uk": "томаш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "toyo",
+  "uk": "тойо",
+  "v": "unrelated"
+ },
+ {
+  "en": "transliteration",
+  "uk": "транслітерація",
+  "v": "similar",
+  "ce": "transliteration",
+  "cu": "транслітерація",
+  "note": "Ukrainian ending -ація."
+ },
+ {
+  "en": "twi",
+  "uk": "тві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "udo",
+  "uk": "удо",
+  "v": "unrelated"
+ },
+ {
+  "en": "varela",
+  "uk": "варела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vostok",
+  "uk": "восток",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wacker",
+  "uk": "ваккер",
+  "v": "unrelated"
+ },
+ {
+  "en": "yurt",
+  "uk": "юрт",
+  "v": "partial_false_friend",
+  "ce": "yurt",
+  "cu": "юрт",
+  "note": "юрт = historical nomad/Cossack territory; the tent is юрта."
+ },
+ {
+  "en": "yurt",
+  "uk": "юрта",
+  "v": "similar",
+  "ce": "yurt",
+  "cu": "юрта",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "zweig",
+  "uk": "цвейг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adolphe",
+  "uk": "адольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alena",
+  "uk": "альона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aliyev",
+  "uk": "алієв",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amf",
+  "uk": "амф",
+  "v": "unrelated"
+ },
+ {
+  "en": "anticoagulant",
+  "uk": "антикоагулянт",
+  "v": "identical",
+  "ce": "anticoagulant",
+  "cu": "антикоагулянт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "antonov",
+  "uk": "антонов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aubry",
+  "uk": "обрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baikal",
+  "uk": "байкал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bakker",
+  "uk": "баккер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barbarossa",
+  "uk": "барбаросса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "basilisk",
+  "uk": "василіск",
+  "v": "similar",
+  "ce": "basilisk",
+  "cu": "василіск",
+  "note": "Ukrainian в instead of b (Greek tradition)."
+ },
+ {
+  "en": "benue",
+  "uk": "бенуе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bint",
+  "uk": "бінт",
+  "v": "unrelated"
+ },
+ {
+  "en": "blas",
+  "uk": "блас",
+  "v": "unrelated"
+ },
+ {
+  "en": "bracknell",
+  "uk": "брекнелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brescia",
+  "uk": "брешія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "castello",
+  "uk": "кастелло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chamonix",
+  "uk": "шамоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "claymore",
+  "uk": "клеймор",
+  "v": "identical",
+  "ce": "claymore",
+  "cu": "клеймор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "commissariat",
+  "uk": "комісаріат",
+  "v": "identical",
+  "ce": "commissariat",
+  "cu": "комісаріат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "military"
+  ],
+  "note": "In Ukrainian mainly an office headed by a commissar (e.g. військовий комісаріат); English also = army supply department."
+ },
+ {
+  "en": "demeter",
+  "uk": "деметра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duk",
+  "uk": "дук",
+  "v": "unrelated"
+ },
+ {
+  "en": "eberhard",
+  "uk": "еберхард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emmanuelle",
+  "uk": "еммануель",
+  "v": "proper_noun"
+ }
+]

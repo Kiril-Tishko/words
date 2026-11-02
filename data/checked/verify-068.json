@@ -1,0 +1,919 @@
+[
+ {
+  "en": "kip",
+  "uk": "кіп",
+  "v": "unrelated"
+ },
+ {
+  "en": "koala",
+  "uk": "коала",
+  "v": "identical",
+  "ce": "koala",
+  "cu": "коала",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lexi",
+  "uk": "лексі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lieberman",
+  "uk": "ліберман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lombardi",
+  "uk": "ломбарді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "loren",
+  "uk": "лорен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lucien",
+  "uk": "люсьєн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magnate",
+  "uk": "магнат",
+  "v": "identical",
+  "ce": "magnate",
+  "cu": "магнат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "magnate",
+  "uk": "магната",
+  "v": "not_lemma",
+  "ce": "magnate",
+  "cu": "магнат",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "magneto",
+  "uk": "магнето",
+  "v": "identical",
+  "ce": "magneto",
+  "cu": "магнето",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "maine coon",
+  "uk": "мейн-кун",
+  "v": "identical",
+  "ce": "Maine coon",
+  "cu": "мейн-кун",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "cat breed"
+ },
+ {
+  "en": "marietta",
+  "uk": "марієтта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maud",
+  "uk": "мод",
+  "v": "unrelated"
+ },
+ {
+  "en": "merle",
+  "uk": "мерль",
+  "v": "identical",
+  "ce": "merle",
+  "cu": "мерль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "rare",
+   "nature"
+  ],
+  "note": "in Ukrainian only the marbled dog coat colour; English also (literary) blackbird"
+ },
+ {
+  "en": "millimeters",
+  "uk": "міліметрах",
+  "v": "not_lemma",
+  "ce": "millimeter",
+  "cu": "міліметр",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "molina",
+  "uk": "моліна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monochrome",
+  "uk": "монохромний",
+  "v": "similar",
+  "ce": "monochrome",
+  "cu": "монохромний",
+  "note": "Ukrainian is an adjective with -ний"
+ },
+ {
+  "en": "mugabe",
+  "uk": "мугабе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nacional",
+  "uk": "насьйональ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neumann",
+  "uk": "нейман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nik",
+  "uk": "нік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "penicillin",
+  "uk": "пеніцилін",
+  "v": "identical",
+  "ce": "penicillin",
+  "cu": "пеніцилін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "polygon",
+  "uk": "полігон",
+  "v": "partial_false_friend",
+  "ce": "polygon",
+  "cu": "полігон",
+  "note": "uk mainly proving ground / firing range; geometric polygon is usually багатокутник (полігон in 3D graphics)"
+ },
+ {
+  "en": "provence",
+  "uk": "прованс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "purcell",
+  "uk": "перселл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rambo",
+  "uk": "рембо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "raoul",
+  "uk": "рауль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roscoe",
+  "uk": "роско",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosetta",
+  "uk": "розетта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rupee",
+  "uk": "рупія",
+  "v": "similar",
+  "ce": "rupee",
+  "cu": "рупія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "saeed",
+  "uk": "саїд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sochi",
+  "uk": "сочі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stephan",
+  "uk": "стефан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stephan",
+  "uk": "штефан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sus",
+  "uk": "сус",
+  "v": "unrelated"
+ },
+ {
+  "en": "swami",
+  "uk": "свамі",
+  "v": "identical",
+  "ce": "swami",
+  "cu": "свамі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tahiti",
+  "uk": "таїті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tarantino",
+  "uk": "тарантіно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "urbanization",
+  "uk": "урбанізація",
+  "v": "similar",
+  "ce": "urbanization",
+  "cu": "урбанізація",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "wilfred",
+  "uk": "вілфред",
+  "v": "proper_noun"
+ },
+ {
+  "en": "winthrop",
+  "uk": "вінтроп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aerosol",
+  "uk": "аерозоль",
+  "v": "identical",
+  "ce": "aerosol",
+  "cu": "аерозоль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aerosol",
+  "uk": "аерозолі",
+  "v": "not_lemma",
+  "ce": "aerosol",
+  "cu": "аерозоль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "amer",
+  "uk": "амер",
+  "v": "unrelated"
+ },
+ {
+  "en": "amour",
+  "uk": "амур",
+  "v": "partial_false_friend",
+  "ce": "amour",
+  "cu": "амур",
+  "note": "uk амур is mainly Cupid (god of love); 'амури' (pl., informal) = love affairs"
+ },
+ {
+  "en": "aquino",
+  "uk": "акіно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benin",
+  "uk": "бенін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benn",
+  "uk": "бенн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bode",
+  "uk": "боде",
+  "v": "unrelated"
+ },
+ {
+  "en": "boer",
+  "uk": "бур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bryson",
+  "uk": "брайсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buckinghamshire",
+  "uk": "бакінгемшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caspian",
+  "uk": "каспій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cathode",
+  "uk": "катод",
+  "v": "identical",
+  "ce": "cathode",
+  "cu": "катод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cohn",
+  "uk": "кон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "collin",
+  "uk": "коллін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "commandos",
+  "uk": "командос",
+  "v": "not_lemma",
+  "ce": "commando",
+  "cu": "командос",
+  "lv": "similar",
+  "note": "Ukrainian form comes from the English plural (-с)"
+ },
+ {
+  "en": "confetti",
+  "uk": "конфеті",
+  "v": "identical",
+  "ce": "confetti",
+  "cu": "конфеті",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "conley",
+  "uk": "конлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "connors",
+  "uk": "коннорс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "convoys",
+  "uk": "конвої",
+  "v": "not_lemma",
+  "ce": "convoy",
+  "cu": "конвой",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "transport"
+  ],
+  "note": "uk конвой also = armed guard escorting prisoners"
+ },
+ {
+  "en": "corset",
+  "uk": "корсет",
+  "v": "identical",
+  "ce": "corset",
+  "cu": "корсет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "craters",
+  "uk": "кратери",
+  "v": "not_lemma",
+  "ce": "crater",
+  "cu": "кратер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "davos",
+  "uk": "давос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deviant",
+  "uk": "девіантний",
+  "v": "similar",
+  "ce": "deviant",
+  "cu": "девіантний",
+  "note": "Ukrainian adjective with -ний (noun: девіант)"
+ },
+ {
+  "en": "didier",
+  "uk": "дідьє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "discography",
+  "uk": "дискографія",
+  "v": "similar",
+  "ce": "discography",
+  "cu": "дискографія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "dorado",
+  "uk": "дорадо",
+  "v": "false_friend",
+  "ce": "dorado",
+  "cu": "дорадо",
+  "note": "uk дорадо = gilt-head bream; en dorado = mahi-mahi (dolphinfish)"
+ },
+ {
+  "en": "dubstep",
+  "uk": "дабстеп",
+  "v": "identical",
+  "ce": "dubstep",
+  "cu": "дабстеп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "edelman",
+  "uk": "едельман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "federico",
+  "uk": "федеріко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaia",
+  "uk": "гайя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaia",
+  "uk": "гая",
+  "v": "unrelated"
+ },
+ {
+  "en": "gaia",
+  "uk": "гея",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaia",
+  "uk": "геї",
+  "v": "unrelated"
+ },
+ {
+  "en": "gentile",
+  "uk": "джентіле",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gino",
+  "uk": "джино",
+  "v": "proper_noun"
+ },
+ {
+  "en": "giro",
+  "uk": "джиро",
+  "v": "unrelated"
+ },
+ {
+  "en": "gosling",
+  "uk": "гослінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guardiola",
+  "uk": "гвардіола",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guildford",
+  "uk": "гілфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hebron",
+  "uk": "хеврон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heywood",
+  "uk": "хейвуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hove",
+  "uk": "гоув",
+  "v": "unrelated"
+ },
+ {
+  "en": "hydrate",
+  "uk": "гідрат",
+  "v": "identical",
+  "ce": "hydrate",
+  "cu": "гідрат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hydrate",
+  "uk": "гідрати",
+  "v": "not_lemma",
+  "ce": "hydrate",
+  "cu": "гідрат",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "informatics",
+  "uk": "інформатики",
+  "v": "not_lemma",
+  "ce": "informatics",
+  "cu": "інформатика",
+  "lv": "similar",
+  "note": "Ukrainian ending -ика; also the school subject 'computer science'"
+ },
+ {
+  "en": "informatics",
+  "uk": "інформатика",
+  "v": "similar",
+  "ce": "informatics",
+  "cu": "інформатика",
+  "note": "Ukrainian ending -ика; also the school subject 'computer science'"
+ },
+ {
+  "en": "invariant",
+  "uk": "інваріант",
+  "v": "identical",
+  "ce": "invariant",
+  "cu": "інваріант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "math"
+  ],
+  "note": "as a noun (math); the English adjective is інваріантний"
+ },
+ {
+  "en": "ionization",
+  "uk": "іонізація",
+  "v": "similar",
+  "ce": "ionization",
+  "cu": "іонізація",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "kebab",
+  "uk": "кебаб",
+  "v": "identical",
+  "ce": "kebab",
+  "cu": "кебаб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lago",
+  "uk": "лаго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lampard",
+  "uk": "лемпард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "larsson",
+  "uk": "ларссон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leanne",
+  "uk": "ліан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leinster",
+  "uk": "ленстер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "loyalist",
+  "uk": "лояліст",
+  "v": "identical",
+  "ce": "loyalist",
+  "cu": "лояліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "loyalist",
+  "uk": "льоялістка",
+  "v": "not_lemma",
+  "ce": "loyalist",
+  "cu": "лояліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "feminine form, older spelling"
+ },
+ {
+  "en": "loyalist",
+  "uk": "лоялістка",
+  "v": "not_lemma",
+  "ce": "loyalist",
+  "cu": "лояліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "feminine form"
+ },
+ {
+  "en": "loyalist",
+  "uk": "льояліст",
+  "v": "not_lemma",
+  "ce": "loyalist",
+  "cu": "лояліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": "older spelling"
+ },
+ {
+  "en": "luz",
+  "uk": "луз",
+  "v": "unrelated"
+ },
+ {
+  "en": "macpherson",
+  "uk": "макферсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magnetism",
+  "uk": "магнетизм",
+  "v": "identical",
+  "ce": "magnetism",
+  "cu": "магнетизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": "also personal charm in both languages"
+ },
+ {
+  "en": "maltese",
+  "uk": "мальтієць",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manoeuvre",
+  "uk": "маневр",
+  "v": "identical",
+  "ce": "maneuver",
+  "cu": "маневр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "British spelling: manoeuvre"
+ },
+ {
+  "en": "margo",
+  "uk": "марго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "matthias",
+  "uk": "маттіас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maximus",
+  "uk": "максим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metamorphosis",
+  "uk": "метаморфоз",
+  "v": "similar",
+  "ce": "metamorphosis",
+  "cu": "метаморфоз",
+  "note": "Ukrainian drops -is (also метаморфоза)"
+ },
+ {
+  "en": "mila",
+  "uk": "міла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "niki",
+  "uk": "нікі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ortega",
+  "uk": "ортега",
+  "v": "proper_noun"
+ },
+ {
+  "en": "osbourne",
+  "uk": "осборн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parton",
+  "uk": "партон",
+  "v": "identical",
+  "ce": "parton",
+  "cu": "партон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "dated",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "photosynthesis",
+  "uk": "фотосинтез",
+  "v": "similar",
+  "ce": "photosynthesis",
+  "cu": "фотосинтез",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "piccolo",
+  "uk": "пікколо",
+  "v": "identical",
+  "ce": "piccolo",
+  "cu": "пікколо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pornhub",
+  "uk": "порнхаб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "redding",
+  "uk": "реддінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rowley",
+  "uk": "роулі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salazar",
+  "uk": "салазар",
+  "v": "proper_noun"
+ }
+]

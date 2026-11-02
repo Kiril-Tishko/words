@@ -1,0 +1,881 @@
+[
+ {
+  "en": "lug",
+  "uk": "луг",
+  "v": "unrelated"
+ },
+ {
+  "en": "luv",
+  "uk": "лув",
+  "v": "unrelated"
+ },
+ {
+  "en": "lyman",
+  "uk": "лиман",
+  "v": "unrelated"
+ },
+ {
+  "en": "maison",
+  "uk": "мезон",
+  "v": "unrelated"
+ },
+ {
+  "en": "mariano",
+  "uk": "маріано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "miniseries",
+  "uk": "мінісеріал",
+  "v": "similar",
+  "ce": "miniseries",
+  "cu": "мінісеріал",
+  "note": "Ukrainian uses серіал (serial) instead of series"
+ },
+ {
+  "en": "moffat",
+  "uk": "моффат",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mongolian",
+  "uk": "монголка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "msp",
+  "uk": "мсп",
+  "v": "unrelated"
+ },
+ {
+  "en": "multiculturalism",
+  "uk": "мультикультуралізм",
+  "v": "identical",
+  "ce": "multiculturalism",
+  "cu": "мультикультуралізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "netball",
+  "uk": "нетбол",
+  "v": "identical",
+  "ce": "netball",
+  "cu": "нетбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nottinghamshire",
+  "uk": "ноттінгемшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nuance",
+  "uk": "нюанс",
+  "v": "identical",
+  "ce": "nuance",
+  "cu": "нюанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "orthopedic",
+  "uk": "ортопедичний",
+  "v": "similar",
+  "ce": "orthopedic",
+  "cu": "ортопедичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "pinot",
+  "uk": "піно",
+  "v": "identical",
+  "ce": "pinot",
+  "cu": "піно",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "usually in wine names: pinot noir = піно нуар"
+ },
+ {
+  "en": "placenta",
+  "uk": "плацента",
+  "v": "identical",
+  "ce": "placenta",
+  "cu": "плацента",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "plough",
+  "uk": "плуг",
+  "v": "similar",
+  "ce": "plow",
+  "cu": "плуг",
+  "note": "related word, different form (British spelling plough)"
+ },
+ {
+  "en": "pogba",
+  "uk": "погба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "prefect",
+  "uk": "префекта",
+  "v": "not_lemma",
+  "ce": "prefect",
+  "cu": "префект",
+  "lv": "identical",
+  "note": "in British schools also a senior pupil with duties; Ukrainian префект is only the official",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ]
+ },
+ {
+  "en": "pri",
+  "uk": "при",
+  "v": "unrelated"
+ },
+ {
+  "en": "rosario",
+  "uk": "росаріо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sargent",
+  "uk": "сарджент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "simons",
+  "uk": "сімонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "standardization",
+  "uk": "стандартизація",
+  "v": "similar",
+  "ce": "standardization",
+  "cu": "стандартизація",
+  "note": "Ukrainian ending -изація"
+ },
+ {
+  "en": "swindon",
+  "uk": "свіндон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "symptomatic",
+  "uk": "симптоматичний",
+  "v": "similar",
+  "ce": "symptomatic",
+  "cu": "симптоматичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "tennant",
+  "uk": "теннант",
+  "v": "proper_noun"
+ },
+ {
+  "en": "totem",
+  "uk": "тотем",
+  "v": "identical",
+  "ce": "totem",
+  "cu": "тотем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "valentina",
+  "uk": "валентина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vaping",
+  "uk": "вейпінг",
+  "v": "identical",
+  "ce": "vaping",
+  "cu": "вейпінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "waterford",
+  "uk": "вотерфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zuma",
+  "uk": "зума",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aga",
+  "uk": "ага",
+  "v": "identical",
+  "ce": "agha",
+  "cu": "ага",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "Ottoman title (also spelled aga); Ukrainian ага is much more often the interjection 'aha, yeah'"
+ },
+ {
+  "en": "aiken",
+  "uk": "айкен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alamo",
+  "uk": "аламо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amman",
+  "uk": "амман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antigua",
+  "uk": "антигуа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arcadia",
+  "uk": "аркадія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ast",
+  "uk": "аст",
+  "v": "unrelated"
+ },
+ {
+  "en": "barre",
+  "uk": "барр",
+  "v": "unrelated"
+ },
+ {
+  "en": "basilica",
+  "uk": "базиліка",
+  "v": "identical",
+  "ce": "basilica",
+  "cu": "базиліка",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bertie",
+  "uk": "берті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boyce",
+  "uk": "бойс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brie",
+  "uk": "брі",
+  "v": "identical",
+  "ce": "brie",
+  "cu": "брі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "burroughs",
+  "uk": "берроуз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cartier",
+  "uk": "картьє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catalogs",
+  "uk": "каталоги",
+  "v": "not_lemma",
+  "ce": "catalog",
+  "cu": "каталог",
+  "lv": "identical",
+  "note": "British spelling: catalogue",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ]
+ },
+ {
+  "en": "cedric",
+  "uk": "седрік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cocoon",
+  "uk": "кокон",
+  "v": "identical",
+  "ce": "cocoon",
+  "cu": "кокон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "desi",
+  "uk": "десі",
+  "v": "unrelated"
+ },
+ {
+  "en": "dispatcher",
+  "uk": "диспетчер",
+  "v": "identical",
+  "ce": "dispatcher",
+  "cu": "диспетчер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dobbs",
+  "uk": "доббс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "erwin",
+  "uk": "ервін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fairbanks",
+  "uk": "фербенкс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "felicia",
+  "uk": "фелікса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gandalf",
+  "uk": "гендальф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gorbachev",
+  "uk": "горбачов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guernsey",
+  "uk": "гернсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guernsey",
+  "uk": "ґернсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haiku",
+  "uk": "хайку",
+  "v": "identical",
+  "ce": "haiku",
+  "cu": "хайку",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hoy",
+  "uk": "гой",
+  "v": "unrelated"
+ },
+ {
+  "en": "importer",
+  "uk": "імпортер",
+  "v": "identical",
+  "ce": "importer",
+  "cu": "імпортер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kimberley",
+  "uk": "кімберлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyiv",
+  "uk": "київ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lockwood",
+  "uk": "локвуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macedonian",
+  "uk": "македонська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macedonian",
+  "uk": "македонка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macedonian",
+  "uk": "македонський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mackerel",
+  "uk": "макрель",
+  "v": "identical",
+  "ce": "mackerel",
+  "cu": "макрель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "nature"
+  ],
+  "note": "the more common Ukrainian word is скумбрія"
+ },
+ {
+  "en": "marge",
+  "uk": "мардж",
+  "v": "unrelated"
+ },
+ {
+  "en": "marquette",
+  "uk": "маркетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "martina",
+  "uk": "мартіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mathias",
+  "uk": "матіас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metaphysics",
+  "uk": "метафізика",
+  "v": "similar",
+  "ce": "metaphysics",
+  "cu": "метафізика",
+  "note": "-ics → -ика"
+ },
+ {
+  "en": "moratorium",
+  "uk": "мораторій",
+  "v": "similar",
+  "ce": "moratorium",
+  "cu": "мораторій",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "morgue",
+  "uk": "морг",
+  "v": "identical",
+  "ce": "morgue",
+  "cu": "морг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mullen",
+  "uk": "маллен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "munch",
+  "uk": "мунк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neurotic",
+  "uk": "невротик",
+  "v": "similar",
+  "ce": "neurotic",
+  "cu": "невротик",
+  "note": "eu → ев; Ukrainian word is a noun (a neurotic person), the adjective is невротичний"
+ },
+ {
+  "en": "novella",
+  "uk": "новела",
+  "v": "identical",
+  "ce": "novella",
+  "cu": "новела",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art"
+  ],
+  "note": "Ukrainian новела often means a short story"
+ },
+ {
+  "en": "octave",
+  "uk": "октав",
+  "v": "not_lemma",
+  "ce": "octave",
+  "cu": "октава",
+  "lv": "similar",
+  "note": "Ukrainian lemma октава adds -а; октав is genitive plural"
+ },
+ {
+  "en": "oda",
+  "uk": "ода",
+  "v": "unrelated"
+ },
+ {
+  "en": "prerogative",
+  "uk": "прерогатива",
+  "v": "similar",
+  "ce": "prerogative",
+  "cu": "прерогатива",
+  "note": "Ukrainian ending -ива"
+ },
+ {
+  "en": "proxies",
+  "uk": "проксі",
+  "v": "not_lemma",
+  "ce": "proxy",
+  "cu": "проксі",
+  "lv": "identical",
+  "note": "in Ukrainian mainly a proxy server; a person acting for someone is довірена особа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ]
+ },
+ {
+  "en": "psychoanalysis",
+  "uk": "психоаналіз",
+  "v": "similar",
+  "ce": "psychoanalysis",
+  "cu": "психоаналіз",
+  "note": "Ukrainian drops the -is ending"
+ },
+ {
+  "en": "rationally",
+  "uk": "раціонально",
+  "v": "similar",
+  "ce": "rationally",
+  "cu": "раціонально",
+  "note": "Ukrainian adverb ending -но"
+ },
+ {
+  "en": "reddy",
+  "uk": "редді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rembrandt",
+  "uk": "рембрандт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosenthal",
+  "uk": "розенталь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rus",
+  "uk": "русь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sexton",
+  "uk": "секстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sutter",
+  "uk": "саттер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tact",
+  "uk": "такт",
+  "v": "identical",
+  "ce": "tact",
+  "cu": "такт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Ukrainian такт also means a musical bar or beat"
+ },
+ {
+  "en": "taxonomy",
+  "uk": "таксономія",
+  "v": "similar",
+  "ce": "taxonomy",
+  "cu": "таксономія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "toms",
+  "uk": "томс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tundra",
+  "uk": "тундра",
+  "v": "identical",
+  "ce": "tundra",
+  "cu": "тундра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "woodley",
+  "uk": "вудлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adriana",
+  "uk": "адріана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ahn",
+  "uk": "ан",
+  "v": "unrelated"
+ },
+ {
+  "en": "alexandre",
+  "uk": "александр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allegory",
+  "uk": "алегорія",
+  "v": "similar",
+  "ce": "allegory",
+  "cu": "алегорія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "bohemia",
+  "uk": "богема",
+  "v": "similar",
+  "ce": "bohemia",
+  "cu": "богема",
+  "note": "Ukrainian богема = bohemian circles/lifestyle (from French bohème), no -ia"
+ },
+ {
+  "en": "bohemia",
+  "uk": "богемія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bonaparte",
+  "uk": "бонапарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bos",
+  "uk": "бос",
+  "v": "unrelated"
+ },
+ {
+  "en": "canadiens",
+  "uk": "канадієнс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cardiology",
+  "uk": "кардіологія",
+  "v": "similar",
+  "ce": "cardiology",
+  "cu": "кардіологія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "carlin",
+  "uk": "карлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "casablanca",
+  "uk": "касабланка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catalina",
+  "uk": "каталіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coon",
+  "uk": "кун",
+  "v": "unrelated"
+ },
+ {
+  "en": "creole",
+  "uk": "креол",
+  "v": "partial_false_friend",
+  "ce": "creole",
+  "cu": "креол",
+  "note": "Ukrainian креол is only a Creole person; a creole language is креольська мова"
+ },
+ {
+  "en": "dalai lama",
+  "uk": "далай-лама",
+  "v": "identical",
+  "ce": "dalai lama",
+  "cu": "далай-лама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "davison",
+  "uk": "девісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "devi",
+  "uk": "деві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dietrich",
+  "uk": "дітріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eczema",
+  "uk": "екзема",
+  "v": "identical",
+  "ce": "eczema",
+  "cu": "екзема",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "electrolyte",
+  "uk": "електроліти",
+  "v": "not_lemma",
+  "ce": "electrolyte",
+  "cu": "електроліт",
+  "lv": "identical",
+  "note": "електроліти is the plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ]
+ },
+ {
+  "en": "faust",
+  "uk": "фауст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fink",
+  "uk": "фінк",
+  "v": "proper_noun"
+ }
+]

@@ -1,0 +1,850 @@
+[
+ {
+  "en": "nou",
+  "uk": "ноу",
+  "v": "unrelated"
+ },
+ {
+  "en": "paradigms",
+  "uk": "парадигм",
+  "v": "not_lemma",
+  "ce": "paradigm",
+  "cu": "парадигма",
+  "lv": "similar",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "peralta",
+  "uk": "перальта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "porta",
+  "uk": "порта",
+  "v": "unrelated"
+ },
+ {
+  "en": "revisionist",
+  "uk": "ревізіоніст",
+  "v": "identical",
+  "ce": "revisionist",
+  "cu": "ревізіоніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "revisionist",
+  "uk": "ревізіоністка",
+  "v": "similar",
+  "ce": "revisionist",
+  "cu": "ревізіоністка",
+  "note": "feminine form with -ка"
+ },
+ {
+  "en": "rodman",
+  "uk": "родман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sandoval",
+  "uk": "сандовал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saskatoon",
+  "uk": "саскатун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "satoshi",
+  "uk": "сатосі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "silverstone",
+  "uk": "сільверстоун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stowe",
+  "uk": "стоу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tableau",
+  "uk": "табло",
+  "v": "false_friend",
+  "ce": "tableau",
+  "cu": "табло",
+  "note": "табло = scoreboard, display board"
+ },
+ {
+  "en": "transylvania",
+  "uk": "трансильванія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "transylvania",
+  "uk": "трансільванія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trotter",
+  "uk": "троттер",
+  "v": "unrelated"
+ },
+ {
+  "en": "vassal",
+  "uk": "васал",
+  "v": "identical",
+  "ce": "vassal",
+  "cu": "васал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "vegetative",
+  "uk": "вегетативне",
+  "v": "not_lemma",
+  "ce": "vegetative",
+  "cu": "вегетативний",
+  "lv": "similar",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "verne",
+  "uk": "верн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "weimar",
+  "uk": "веймар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yeats",
+  "uk": "єйтс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yonkers",
+  "uk": "йонкерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yunnan",
+  "uk": "юньнань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zidane",
+  "uk": "зідан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aberdeenshire",
+  "uk": "абердиншир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "allele",
+  "uk": "алель",
+  "v": "identical",
+  "ce": "allele",
+  "cu": "алель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "allele",
+  "uk": "алелі",
+  "v": "not_lemma",
+  "ce": "allele",
+  "cu": "алель",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aphrodite",
+  "uk": "афродіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aragon",
+  "uk": "арагон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "armagh",
+  "uk": "арма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asexual",
+  "uk": "асексуал",
+  "v": "identical",
+  "ce": "asexual",
+  "cu": "асексуал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "асексуал is only a noun (an asexual person); the adjective is асексуальний"
+ },
+ {
+  "en": "atlético",
+  "uk": "атлетіко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beryl",
+  "uk": "берил",
+  "v": "identical",
+  "ce": "beryl",
+  "cu": "берил",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "science",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "caliph",
+  "uk": "халіф",
+  "v": "similar",
+  "ce": "caliph",
+  "cu": "халіф",
+  "note": "Ukrainian starts with х-"
+ },
+ {
+  "en": "chiu",
+  "uk": "чі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "creighton",
+  "uk": "крейтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cryptography",
+  "uk": "криптографія",
+  "v": "similar",
+  "ce": "cryptography",
+  "cu": "криптографія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "dermatitis",
+  "uk": "дерматит",
+  "v": "similar",
+  "ce": "dermatitis",
+  "cu": "дерматит",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "dictatorial",
+  "uk": "диктаторський",
+  "v": "similar",
+  "ce": "dictatorial",
+  "cu": "диктаторський",
+  "note": "adjective suffix -ський"
+ },
+ {
+  "en": "diwali",
+  "uk": "дівалі",
+  "v": "identical",
+  "ce": "Diwali",
+  "cu": "Дівалі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "diwali",
+  "uk": "діпавалі",
+  "v": "similar",
+  "ce": "Diwali",
+  "cu": "Діпавалі",
+  "note": "other form of the name (Deepavali)"
+ },
+ {
+  "en": "edi",
+  "uk": "еді",
+  "v": "unrelated"
+ },
+ {
+  "en": "electra",
+  "uk": "електра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ema",
+  "uk": "ема",
+  "v": "unrelated"
+ },
+ {
+  "en": "eno",
+  "uk": "ено",
+  "v": "proper_noun"
+ },
+ {
+  "en": "estelle",
+  "uk": "естель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ethylene",
+  "uk": "етилен",
+  "v": "identical",
+  "ce": "ethylene",
+  "cu": "етилен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "eunice",
+  "uk": "юніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fai",
+  "uk": "фай",
+  "v": "unrelated"
+ },
+ {
+  "en": "figaro",
+  "uk": "фігаро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "finney",
+  "uk": "фінні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gasol",
+  "uk": "газоль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gecko",
+  "uk": "гекон",
+  "v": "similar",
+  "ce": "gecko",
+  "cu": "гекон",
+  "note": "Ukrainian adds -н"
+ },
+ {
+  "en": "gervais",
+  "uk": "жерве",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gianni",
+  "uk": "джанні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gila",
+  "uk": "гіла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gondola",
+  "uk": "гондола",
+  "v": "identical",
+  "ce": "gondola",
+  "cu": "гондола",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "grenoble",
+  "uk": "гренобль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guacamole",
+  "uk": "гуакамоле",
+  "v": "identical",
+  "ce": "guacamole",
+  "cu": "гуакамоле",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "guacamole",
+  "uk": "ґуакамоле",
+  "v": "identical",
+  "ce": "guacamole",
+  "cu": "гуакамоле",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "also spelled ґуакамоле"
+ },
+ {
+  "en": "hammersmith",
+  "uk": "гаммерсміт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hoffmann",
+  "uk": "гофман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hydroxide",
+  "uk": "гідроксид",
+  "v": "identical",
+  "ce": "hydroxide",
+  "cu": "гідроксид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "iliad",
+  "uk": "іліада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "inertial",
+  "uk": "інерційна",
+  "v": "not_lemma",
+  "ce": "inertial",
+  "cu": "інерційний",
+  "lv": "similar",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "introvert",
+  "uk": "інтроверт",
+  "v": "identical",
+  "ce": "introvert",
+  "cu": "інтроверт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ivanka",
+  "uk": "іванка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kandahar",
+  "uk": "кандагар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kobayashi",
+  "uk": "кобаясі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kpa",
+  "uk": "кпа",
+  "v": "unrelated"
+ },
+ {
+  "en": "kwan",
+  "uk": "кван",
+  "v": "unrelated"
+ },
+ {
+  "en": "lanarkshire",
+  "uk": "ланаркшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leonid",
+  "uk": "леонід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leopards",
+  "uk": "леопарди",
+  "v": "not_lemma",
+  "ce": "leopard",
+  "cu": "леопард",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "magi",
+  "uk": "маг",
+  "v": "not_lemma",
+  "ce": "mage",
+  "cu": "маг",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "people"
+  ],
+  "note": "magi is the plural of mage/magus; the biblical Magi are волхви"
+ },
+ {
+  "en": "malia",
+  "uk": "маля",
+  "v": "unrelated"
+ },
+ {
+  "en": "mancini",
+  "uk": "манчіні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marcello",
+  "uk": "марчелло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nie",
+  "uk": "нє",
+  "v": "unrelated"
+ },
+ {
+  "en": "oligarchs",
+  "uk": "олігархи",
+  "v": "not_lemma",
+  "ce": "oligarch",
+  "cu": "олігарх",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "organist",
+  "uk": "органіст",
+  "v": "identical",
+  "ce": "organist",
+  "cu": "органіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "organist",
+  "uk": "органістка",
+  "v": "similar",
+  "ce": "organist",
+  "cu": "органістка",
+  "note": "feminine form with -ка"
+ },
+ {
+  "en": "oro",
+  "uk": "оро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pectoral",
+  "uk": "пектораль",
+  "v": "partial_false_friend",
+  "ce": "pectoral",
+  "cu": "пектораль",
+  "note": "English mainly 'of the chest' / chest muscle; пектораль = only a chest ornament"
+ },
+ {
+  "en": "percival",
+  "uk": "персіваль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petr",
+  "uk": "петр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petr",
+  "uk": "петре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petr",
+  "uk": "петро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "radioactivity",
+  "uk": "радіоактивність",
+  "v": "similar",
+  "ce": "radioactivity",
+  "cu": "радіоактивність",
+  "note": "Ukrainian suffix -ність"
+ },
+ {
+  "en": "raquel",
+  "uk": "ракель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "redford",
+  "uk": "редфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reeve",
+  "uk": "рів",
+  "v": "unrelated"
+ },
+ {
+  "en": "sabah",
+  "uk": "сабах",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salinas",
+  "uk": "салінас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salomon",
+  "uk": "саломон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sandal",
+  "uk": "сандаль",
+  "v": "similar",
+  "ce": "sandal",
+  "cu": "сандалія",
+  "note": "standard Ukrainian is сандалія (pl. сандалі); сандаль is nonstandard"
+ },
+ {
+  "en": "sandal",
+  "uk": "сандалі",
+  "v": "not_lemma",
+  "ce": "sandal",
+  "cu": "сандалія",
+  "lv": "similar",
+  "note": "plural form; lemma сандалія"
+ },
+ {
+  "en": "sandal",
+  "uk": "сандалія",
+  "v": "similar",
+  "ce": "sandal",
+  "cu": "сандалія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "sandro",
+  "uk": "сандро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "santi",
+  "uk": "санті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "serra",
+  "uk": "серра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spirals",
+  "uk": "спіралі",
+  "v": "not_lemma",
+  "ce": "spiral",
+  "cu": "спіраль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "streisand",
+  "uk": "стрейзанд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sutra",
+  "uk": "сутра",
+  "v": "identical",
+  "ce": "sutra",
+  "cu": "сутра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tartan",
+  "uk": "тартан",
+  "v": "identical",
+  "ce": "tartan",
+  "cu": "тартан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": "in Ukrainian also the rubber surface of running tracks"
+ },
+ {
+  "en": "vern",
+  "uk": "верн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "weinberg",
+  "uk": "вайнберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zola",
+  "uk": "золя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abram",
+  "uk": "абрам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adonis",
+  "uk": "адоніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "albatross",
+  "uk": "альбатрос",
+  "v": "identical",
+  "ce": "albatross",
+  "cu": "альбатрос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alina",
+  "uk": "аліна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antivirus",
+  "uk": "антивірус",
+  "v": "identical",
+  "ce": "antivirus",
+  "cu": "антивірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "armando",
+  "uk": "армандо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baez",
+  "uk": "баез",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bak",
+  "uk": "бак",
+  "v": "unrelated"
+ },
+ {
+  "en": "bakr",
+  "uk": "бакр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bene",
+  "uk": "бене",
+  "v": "unrelated"
+ },
+ {
+  "en": "bes",
+  "uk": "бес",
+  "v": "unrelated"
+ },
+ {
+  "en": "bigelow",
+  "uk": "бігелоу",
+  "v": "proper_noun"
+ }
+]

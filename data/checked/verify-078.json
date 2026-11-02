@@ -1,0 +1,910 @@
+[
+ {
+  "en": "marmalade",
+  "uk": "мармелад",
+  "v": "partial_false_friend",
+  "ce": "marmalade",
+  "cu": "мармелад",
+  "note": "uk мармелад is mostly fruit jelly candy; citrus jam is джем/конфітюр"
+ },
+ {
+  "en": "marys",
+  "uk": "марії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maura",
+  "uk": "маура",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mecha",
+  "uk": "меха",
+  "v": "identical",
+  "ce": "mecha",
+  "cu": "меха",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": "Anime genre with giant piloted robots."
+ },
+ {
+  "en": "miocene",
+  "uk": "міоцен",
+  "v": "identical",
+  "ce": "Miocene",
+  "cu": "міоцен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mirren",
+  "uk": "міррен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mirza",
+  "uk": "мірза",
+  "v": "identical",
+  "ce": "mirza",
+  "cu": "мірза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people"
+  ],
+  "note": "Historical Persian/Tatar title."
+ },
+ {
+  "en": "naturalization",
+  "uk": "натуралізація",
+  "v": "similar",
+  "ce": "naturalization",
+  "cu": "натуралізація",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "nene",
+  "uk": "нене",
+  "v": "unrelated"
+ },
+ {
+  "en": "occidental",
+  "uk": "оксиденталь",
+  "v": "unrelated"
+ },
+ {
+  "en": "opiate",
+  "uk": "опіат",
+  "v": "identical",
+  "ce": "opiate",
+  "cu": "опіат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "perfectionist",
+  "uk": "перфекціоніст",
+  "v": "identical",
+  "ce": "perfectionist",
+  "cu": "перфекціоніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "poirot",
+  "uk": "пуаро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pomona",
+  "uk": "помона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ponce",
+  "uk": "понсе",
+  "v": "unrelated"
+ },
+ {
+  "en": "powys",
+  "uk": "повіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "psoriasis",
+  "uk": "псоріаз",
+  "v": "similar",
+  "ce": "psoriasis",
+  "cu": "псоріаз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "radicalism",
+  "uk": "радикалізм",
+  "v": "identical",
+  "ce": "radicalism",
+  "cu": "радикалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "radon",
+  "uk": "радон",
+  "v": "identical",
+  "ce": "radon",
+  "cu": "радон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rennie",
+  "uk": "ренні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "retort",
+  "uk": "реторта",
+  "v": "partial_false_friend",
+  "ce": "retort",
+  "cu": "реторта",
+  "note": "uk реторта is only the lab vessel; en retort is mainly a sharp reply"
+ },
+ {
+  "en": "revitalization",
+  "uk": "ревіталізація",
+  "v": "similar",
+  "ce": "revitalization",
+  "cu": "ревіталізація",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "shogun",
+  "uk": "сьоґун",
+  "v": "similar",
+  "ce": "shogun",
+  "cu": "сьоґун",
+  "note": "Spelled from Japanese with сьо-; also шогун"
+ },
+ {
+  "en": "skeptic",
+  "uk": "скептик",
+  "v": "identical",
+  "ce": "skeptic",
+  "cu": "скептик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "British spelling: sceptic."
+ },
+ {
+  "en": "snell",
+  "uk": "снелл",
+  "v": "unrelated"
+ },
+ {
+  "en": "somme",
+  "uk": "сомм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spectrometer",
+  "uk": "спектрометр",
+  "v": "identical",
+  "ce": "spectrometer",
+  "cu": "спектрометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tampon",
+  "uk": "тампон",
+  "v": "identical",
+  "ce": "tampon",
+  "cu": "тампон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tenerife",
+  "uk": "тенеріфе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tomahawk",
+  "uk": "томагавк",
+  "v": "identical",
+  "ce": "tomahawk",
+  "cu": "томагавк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "torre",
+  "uk": "торре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "veranda",
+  "uk": "веранда",
+  "v": "identical",
+  "ce": "veranda",
+  "cu": "веранда",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": ""
+ },
+ {
+  "en": "whitley",
+  "uk": "вітлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yamamoto",
+  "uk": "ямамото",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zaire",
+  "uk": "заїр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zheng",
+  "uk": "чжен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adamson",
+  "uk": "адамсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aida",
+  "uk": "гайда",
+  "v": "unrelated"
+ },
+ {
+  "en": "annan",
+  "uk": "аннан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asymmetry",
+  "uk": "асиметрія",
+  "v": "similar",
+  "ce": "asymmetry",
+  "cu": "асиметрія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "asynchronous",
+  "uk": "асинхронний",
+  "v": "similar",
+  "ce": "asynchronous",
+  "cu": "асинхронний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "bahia",
+  "uk": "баїя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "balotelli",
+  "uk": "балотеллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "banal",
+  "uk": "банальний",
+  "v": "similar",
+  "ce": "banal",
+  "cu": "банальний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "baz",
+  "uk": "баз",
+  "v": "unrelated"
+ },
+ {
+  "en": "beattie",
+  "uk": "бітті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boba",
+  "uk": "боба",
+  "v": "unrelated"
+ },
+ {
+  "en": "bombardier",
+  "uk": "бомбардир",
+  "v": "partial_false_friend",
+  "ce": "bombardier",
+  "cu": "бомбардир",
+  "note": "uk бомбардир mostly = top goal scorer in football; also an old artillery rank"
+ },
+ {
+  "en": "bulldozer",
+  "uk": "бульдозер",
+  "v": "identical",
+  "ce": "bulldozer",
+  "cu": "бульдозер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cabernet",
+  "uk": "каберне",
+  "v": "identical",
+  "ce": "cabernet",
+  "cu": "каберне",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "calico",
+  "uk": "каліко",
+  "v": "identical",
+  "ce": "calico",
+  "cu": "каліко",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "clothing"
+  ],
+  "note": "Rare in Ukrainian; a cotton fabric."
+ },
+ {
+  "en": "camus",
+  "uk": "камю",
+  "v": "proper_noun"
+ },
+ {
+  "en": "capillary",
+  "uk": "капілярний",
+  "v": "similar",
+  "ce": "capillary",
+  "cu": "капілярний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "capillary",
+  "uk": "капіляр",
+  "v": "similar",
+  "ce": "capillary",
+  "cu": "капіляр",
+  "note": "Ukrainian drops the final -y"
+ },
+ {
+  "en": "casanova",
+  "uk": "казанова",
+  "v": "identical",
+  "ce": "casanova",
+  "cu": "казанова",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "A womanizer."
+ },
+ {
+  "en": "chisholm",
+  "uk": "чісхолм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cinematographer",
+  "uk": "кінематографіст",
+  "v": "similar",
+  "ce": "cinematographer",
+  "cu": "кінематографіст",
+  "note": "Different suffix; uk = any film professional"
+ },
+ {
+  "en": "clemente",
+  "uk": "клементе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coburn",
+  "uk": "коберн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "colitis",
+  "uk": "коліт",
+  "v": "similar",
+  "ce": "colitis",
+  "cu": "коліт",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "connery",
+  "uk": "коннері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "correa",
+  "uk": "корреа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "counterattack",
+  "uk": "контратака",
+  "v": "similar",
+  "ce": "counterattack",
+  "cu": "контратака",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "curie",
+  "uk": "кюрі",
+  "v": "identical",
+  "ce": "curie",
+  "cu": "кюрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "note": "Unit of radioactivity; indeclinable."
+ },
+ {
+  "en": "deir",
+  "uk": "дейр",
+  "v": "unrelated"
+ },
+ {
+  "en": "dodo",
+  "uk": "додо",
+  "v": "identical",
+  "ce": "dodo",
+  "cu": "додо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "engels",
+  "uk": "енгельс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epsilon",
+  "uk": "епсилон",
+  "v": "identical",
+  "ce": "epsilon",
+  "cu": "епсилон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math",
+   "language"
+  ],
+  "note": "The Greek letter Ε, ε."
+ },
+ {
+  "en": "falk",
+  "uk": "фальк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gai",
+  "uk": "гаї",
+  "v": "unrelated"
+ },
+ {
+  "en": "glutamate",
+  "uk": "глутамат",
+  "v": "identical",
+  "ce": "glutamate",
+  "cu": "глутамат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "grimsby",
+  "uk": "грімсбі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "habib",
+  "uk": "хабіб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hidalgo",
+  "uk": "ідальго",
+  "v": "similar",
+  "ce": "hidalgo",
+  "cu": "ідальго",
+  "note": "No h in Ukrainian (Spanish pronunciation)"
+ },
+ {
+  "en": "humanistic",
+  "uk": "гуманістичний",
+  "v": "similar",
+  "ce": "humanistic",
+  "cu": "гуманістичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "iconography",
+  "uk": "іконографія",
+  "v": "similar",
+  "ce": "iconography",
+  "cu": "іконографія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "igbo",
+  "uk": "ігбо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "katya",
+  "uk": "катя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kauai",
+  "uk": "кауаї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kickboxing",
+  "uk": "кікбоксинг",
+  "v": "identical",
+  "ce": "kickboxing",
+  "cu": "кікбоксинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kilt",
+  "uk": "кілт",
+  "v": "identical",
+  "ce": "kilt",
+  "cu": "кілт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kirkpatrick",
+  "uk": "кіркпатрік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leverkusen",
+  "uk": "леверкузен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "linton",
+  "uk": "лінтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maru",
+  "uk": "мару",
+  "v": "unrelated"
+ },
+ {
+  "en": "mathis",
+  "uk": "матіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "matisse",
+  "uk": "матісс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mikael",
+  "uk": "мікаель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minimizes",
+  "uk": "мінімізує",
+  "v": "not_lemma",
+  "ce": "minimize",
+  "cu": "мінімізувати",
+  "lv": "similar",
+  "note": "Ukrainian verb ending -увати"
+ },
+ {
+  "en": "montoya",
+  "uk": "монтойя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mossad",
+  "uk": "моссад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "myron",
+  "uk": "мирон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nagoya",
+  "uk": "нагоя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nagoya",
+  "uk": "наґоя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ophelia",
+  "uk": "офелія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pesto",
+  "uk": "песто",
+  "v": "identical",
+  "ce": "pesto",
+  "cu": "песто",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "plata",
+  "uk": "плата",
+  "v": "unrelated"
+ },
+ {
+  "en": "plata",
+  "uk": "плати",
+  "v": "unrelated"
+ },
+ {
+  "en": "portia",
+  "uk": "порція",
+  "v": "unrelated"
+ },
+ {
+  "en": "pps",
+  "uk": "ппс",
+  "v": "unrelated"
+ },
+ {
+  "en": "quantum cryptography",
+  "uk": "квантова криптографія",
+  "v": "similar",
+  "ce": "quantum cryptography",
+  "cu": "квантова криптографія",
+  "note": "Ukrainian endings -а and -ія"
+ },
+ {
+  "en": "rebranding",
+  "uk": "ребрендинг",
+  "v": "identical",
+  "ce": "rebranding",
+  "cu": "ребрендинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "referendums",
+  "uk": "референдуми",
+  "v": "not_lemma",
+  "ce": "referendum",
+  "cu": "референдум",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "ricci",
+  "uk": "річчі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salami",
+  "uk": "салямі",
+  "v": "identical",
+  "ce": "salami",
+  "cu": "салямі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "sasuke",
+  "uk": "саске",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schmitt",
+  "uk": "шмітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "telepathy",
+  "uk": "телепатія",
+  "v": "similar",
+  "ce": "telepathy",
+  "cu": "телепатія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "thesaurus",
+  "uk": "тезаурус",
+  "v": "identical",
+  "ce": "thesaurus",
+  "cu": "тезаурус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "thorax",
+  "uk": "торакс",
+  "v": "identical",
+  "ce": "thorax",
+  "cu": "торакс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": "Everyday Ukrainian: грудна клітка."
+ },
+ {
+  "en": "ubs",
+  "uk": "убс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "valentin",
+  "uk": "валентин",
+  "v": "proper_noun"
+ },
+ {
+  "en": "veda",
+  "uk": "веда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yorke",
+  "uk": "йорк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aitken",
+  "uk": "ейткен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "attenborough",
+  "uk": "аттенборо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barth",
+  "uk": "барт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bashar",
+  "uk": "башар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bedfordshire",
+  "uk": "бедфордшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beecher",
+  "uk": "бічер",
+  "v": "proper_noun"
+ }
+]

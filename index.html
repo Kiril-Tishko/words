@@ -61,6 +61,9 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
 .sep { width: 1px; height: 22px; background: var(--line); margin: 0 4px; }
 .tools { display: flex; gap: 6px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
 .count { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; cursor: pointer; font: inherit; font-size: 14px; color: var(--fg);
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 15px) 52%, calc(100% - 10px) 52%; background-size: 5px 5px; background-repeat: no-repeat; max-width: 60vw; }
 
 /* cards */
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
@@ -132,6 +135,7 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
       <button class="chip" id="v-grid" data-view="grid">Grid</button>
       <button class="chip" id="v-single" data-view="single">One by one</button>
       <button class="chip" id="v-shuffle" title="Shuffle">Shuffle</button>
+      <select class="chip" id="topic" aria-label="Topic"></select>
     </div>
     <div class="count" id="count"></div>
   </div>
@@ -148,7 +152,12 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   };
   let mine = new Set(store.get('sw.mine', []));
-  let state = { level: 'A1', view: store.get('sw.view', 'grid'), order: null, idx: 0 };
+  let state = { level: 'A1', view: store.get('sw.view', 'grid'), order: null, idx: 0, topic: '' };
+  const TOPIC_NAMES = { food: 'Food', drinks: 'Drinks', sport: 'Sport', music: 'Music', art: 'Art', media: 'Media', tech: 'Tech',
+    science: 'Science', medicine: 'Medicine', chemistry: 'Chemistry', physics: 'Physics', biology: 'Biology', math: 'Math',
+    transport: 'Transport', clothing: 'Clothing', home: 'Home', business: 'Business', finance: 'Finance', politics: 'Politics',
+    law: 'Law', military: 'Military', religion: 'Religion', education: 'Education', people: 'People', nature: 'Nature',
+    places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions', other: 'Other' };
   const byLevel = {};
   LEVELS.forEach(l => byLevel[l] = []);
   WORDS.forEach(w => { (byLevel[w.level] || (byLevel[w.level] = [])).push(w); });
@@ -173,15 +182,28 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
     } catch (e) {}
   }
 
-  function listFor(level) {
+  function baseList(level) {
     if (level === 'mine') return WORDS.filter(w => mine.has(w.id));
     return byLevel[level] || [];
+  }
+  function listFor(level) {
+    const l = baseList(level);
+    return state.topic ? l.filter(w => (w.topics || []).indexOf(state.topic) >= 0) : l;
+  }
+  function renderTopics() {
+    const counts = {};
+    baseList(state.level).forEach(w => (w.topics || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
+    if (state.topic && !counts[state.topic]) state.topic = '';
+    const keys = Object.keys(counts).sort((a, b) => (a === 'other') - (b === 'other') || counts[b] - counts[a]);
+    $('#topic').innerHTML = '<option value="">All topics</option>' + keys.map(k =>
+      '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' + (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
+    $('#topic').hidden = !keys.length;
   }
 
   function cardHTML(w, opts) {
     opts = opts || {};
     const ex = (w.examples || []).filter(Boolean);
-    const tags = (w.tags || []).filter(t => t !== 'british');
+    const tags = (w.tags || []).filter(t => t !== 'british' && t !== 'international');
     const back = ex.length
       ? '<ol>' + ex.map(e => '<li>' + esc(e) + '</li>').join('') + '</ol>'
       : '<div class="empty-ex">Examples coming soon.</div>';
@@ -219,6 +241,7 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
 
   function render() {
     renderLevels();
+    if (state.level !== 'train') renderTopics();
     $('#views').hidden = state.level === 'train';
     ['grid', 'single'].forEach(v => $('#v-' + v).setAttribute('aria-pressed', state.view === v));
     if (state.level === 'train') return renderTrain();
@@ -306,8 +329,9 @@ header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; ju
     if (t.id === 't-restart') { tr.queue.forEach(w => delete w._missed); tr = null; renderTrain(); return; }
     if (t.classList.contains('card') && !t.closest('.train')) t.classList.toggle('flipped');
   });
+  $('#topic').addEventListener('change', e => { state.topic = e.target.value; state.order = null; state.idx = 0; render(); });
   document.addEventListener('keydown', e => {
-    if (e.target.closest && e.target.closest('input, textarea')) return;
+    if (e.target.closest && e.target.closest('input, textarea, select')) return;
     if (state.level === 'train') return;
     if (e.key === 'ArrowRight' && state.view === 'single') move(1);
     else if (e.key === 'ArrowLeft' && state.view === 'single') move(-1);

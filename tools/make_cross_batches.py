@@ -59,7 +59,7 @@ def main():
                 continue
             queued.add(key)
             lab = ','.join(r.get('lab') or [])
-            ll = list_level(ce.lower(), r.get('pos') or '', starters, cefr) or '-'
+            ll = ('-' if ce.isupper() else list_level(ce.lower(), r.get('pos') or '', starters, cefr)) or '-'
             anyl = cefr.get(ce.lower(), {})
             lists = ', '.join(f'{p} {l}' for p, l in sorted(anyl.items())) or '-'
             rows.append(f"{ce} = {cu}   | first: {v}; pos {r.get('pos') or '-'}; list level {ll} (lists: {lists}); british {bool(r.get('br'))}; labels {lab or '-'}"

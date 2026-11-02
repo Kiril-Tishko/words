@@ -1,0 +1,856 @@
+[
+ {
+  "en": "kimono",
+  "uk": "кімоно",
+  "v": "identical",
+  "ce": "kimono",
+  "cu": "кімоно",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kuhn",
+  "uk": "кун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leiden",
+  "uk": "лейден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "llama",
+  "uk": "лама",
+  "v": "identical",
+  "ce": "llama",
+  "cu": "лама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "лама also means a Buddhist lama"
+ },
+ {
+  "en": "marisa",
+  "uk": "марися",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marko",
+  "uk": "марко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muscat",
+  "uk": "маскат",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muscat",
+  "uk": "мускат",
+  "v": "identical",
+  "ce": "muscat",
+  "cu": "мускат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "drinks"
+  ],
+  "note": "in Ukrainian мускат can also mean nutmeg"
+ },
+ {
+  "en": "neanderthal",
+  "uk": "неандерталка",
+  "v": "not_lemma",
+  "ce": "Neanderthal",
+  "cu": "неандерталець",
+  "lv": "similar",
+  "note": "неандерталка is the feminine form"
+ },
+ {
+  "en": "new caledonia",
+  "uk": "нова каледонія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "obsidian",
+  "uk": "обсидіан",
+  "v": "identical",
+  "ce": "obsidian",
+  "cu": "обсидіан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "penang",
+  "uk": "пенанг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pocahontas",
+  "uk": "покахонтас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "popper",
+  "uk": "поппер",
+  "v": "identical",
+  "ce": "popper",
+  "cu": "поппер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "sport"
+  ],
+  "note": "in Ukrainian mainly the fishing lure (also the drug 'poppers')"
+ },
+ {
+  "en": "rami",
+  "uk": "рамі",
+  "v": "unrelated"
+ },
+ {
+  "en": "rios",
+  "uk": "ріос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saba",
+  "uk": "саба",
+  "v": "unrelated"
+ },
+ {
+  "en": "sancho",
+  "uk": "санчо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sansa",
+  "uk": "санса",
+  "v": "unrelated"
+ },
+ {
+  "en": "saxony",
+  "uk": "саксонія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schubert",
+  "uk": "шуберт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "siena",
+  "uk": "сієна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sosa",
+  "uk": "соса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "steampunk",
+  "uk": "стімпанк",
+  "v": "identical",
+  "ce": "steampunk",
+  "cu": "стімпанк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "termites",
+  "uk": "терміти",
+  "v": "not_lemma",
+  "ce": "termite",
+  "cu": "терміт",
+  "lv": "identical",
+  "note": "терміт also means thermite (incendiary mixture)",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ]
+ },
+ {
+  "en": "trapper",
+  "uk": "трапер",
+  "v": "identical",
+  "ce": "trapper",
+  "cu": "трапер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "used mostly for North American fur trappers"
+ },
+ {
+  "en": "triton",
+  "uk": "тритон",
+  "v": "partial_false_friend",
+  "ce": "triton",
+  "cu": "тритон",
+  "note": "тритон usually means a newt; shared only in physics (tritium nucleus) and mythology"
+ },
+ {
+  "en": "turban",
+  "uk": "тюрбан",
+  "v": "identical",
+  "ce": "turban",
+  "cu": "тюрбан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tusk",
+  "uk": "туск",
+  "v": "unrelated"
+ },
+ {
+  "en": "usain",
+  "uk": "усейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "willem",
+  "uk": "віллем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zagreb",
+  "uk": "загреб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zagreb",
+  "uk": "заґреб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zlatan",
+  "uk": "златан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aguilar",
+  "uk": "агілар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "albright",
+  "uk": "олбрайт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "almeida",
+  "uk": "алмейда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "altruism",
+  "uk": "альтруїзм",
+  "v": "identical",
+  "ce": "altruism",
+  "cu": "альтруїзм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "annabelle",
+  "uk": "анабель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antioxidant",
+  "uk": "антиоксидант",
+  "v": "identical",
+  "ce": "antioxidant",
+  "cu": "антиоксидант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "antioxidant",
+  "uk": "антиоксиданти",
+  "v": "not_lemma",
+  "ce": "antioxidant",
+  "cu": "антиоксидант",
+  "lv": "identical",
+  "note": "антиоксиданти is the plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "chemistry",
+   "medicine"
+  ]
+ },
+ {
+  "en": "astor",
+  "uk": "астор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "auld",
+  "uk": "олд",
+  "v": "unrelated"
+ },
+ {
+  "en": "baht",
+  "uk": "бат",
+  "v": "identical",
+  "ce": "baht",
+  "cu": "бат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "the currency of Thailand"
+ },
+ {
+  "en": "benito",
+  "uk": "беніто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brandenburg",
+  "uk": "бранденбург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brandenburg",
+  "uk": "бранденбурзькі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "campos",
+  "uk": "кампос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "charlene",
+  "uk": "шарлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chopin",
+  "uk": "шопен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "communicative",
+  "uk": "комунікативна",
+  "v": "not_lemma",
+  "ce": "communicative",
+  "cu": "комунікативний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ний"
+ },
+ {
+  "en": "connotation",
+  "uk": "конотація",
+  "v": "similar",
+  "ce": "connotation",
+  "cu": "конотація",
+  "note": "ending -ація"
+ },
+ {
+  "en": "dep",
+  "uk": "деп",
+  "v": "unrelated"
+ },
+ {
+  "en": "diagonally",
+  "uk": "діагонально",
+  "v": "similar",
+  "ce": "diagonally",
+  "cu": "діагонально",
+  "note": "adverb ending -о"
+ },
+ {
+  "en": "dickie",
+  "uk": "дікі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "donegal",
+  "uk": "донегол",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dram",
+  "uk": "драм",
+  "v": "partial_false_friend",
+  "ce": "dram",
+  "cu": "драм",
+  "note": "shared only as the Armenian currency; English dram usually = small drink of whisky or unit of weight"
+ },
+ {
+  "en": "dsp",
+  "uk": "дсп",
+  "v": "unrelated"
+ },
+ {
+  "en": "electrostatic",
+  "uk": "електростатичний",
+  "v": "similar",
+  "ce": "electrostatic",
+  "cu": "електростатичний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "emulator",
+  "uk": "емулятор",
+  "v": "identical",
+  "ce": "emulator",
+  "cu": "емулятор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "etymology",
+  "uk": "етимологія",
+  "v": "similar",
+  "ce": "etymology",
+  "cu": "етимологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "fayette",
+  "uk": "фаєтт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaussian",
+  "uk": "гауса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herod",
+  "uk": "ірод",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hubris",
+  "uk": "гібрис",
+  "v": "similar",
+  "ce": "hubris",
+  "cu": "гібрис",
+  "note": "Ukrainian follows Greek hybris; rare word"
+ },
+ {
+  "en": "ignatius",
+  "uk": "ігнатій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jitsu",
+  "uk": "джитсу",
+  "v": "not_lemma",
+  "ce": "jiu-jitsu",
+  "cu": "джиу-джитсу",
+  "lv": "identical",
+  "note": "jitsu is only part of jiu-jitsu",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ]
+ },
+ {
+  "en": "juliana",
+  "uk": "юліана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "katniss",
+  "uk": "катніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kelso",
+  "uk": "келсо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lia",
+  "uk": "лія",
+  "v": "unrelated"
+ },
+ {
+  "en": "lili",
+  "uk": "лілі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lilith",
+  "uk": "ліліт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manfred",
+  "uk": "манфред",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mesopotamia",
+  "uk": "месопотамія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metallurgy",
+  "uk": "металургія",
+  "v": "similar",
+  "ce": "metallurgy",
+  "cu": "металургія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "nauru",
+  "uk": "науру",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ontology",
+  "uk": "онтологій",
+  "v": "not_lemma",
+  "ce": "ontology",
+  "cu": "онтологія",
+  "lv": "similar",
+  "note": "genitive plural; lemma has ending -ія"
+ },
+ {
+  "en": "ontology",
+  "uk": "онтологія",
+  "v": "similar",
+  "ce": "ontology",
+  "cu": "онтологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "origami",
+  "uk": "оригамі",
+  "v": "identical",
+  "ce": "origami",
+  "cu": "оригамі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "also spelled орігамі"
+ },
+ {
+  "en": "origami",
+  "uk": "орігамі",
+  "v": "identical",
+  "ce": "origami",
+  "cu": "оригамі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "variant spelling; standard is оригамі"
+ },
+ {
+  "en": "origami",
+  "uk": "оріґамі",
+  "v": "identical",
+  "ce": "origami",
+  "cu": "оригамі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "variant spelling; standard is оригамі"
+ },
+ {
+  "en": "oust",
+  "uk": "уст",
+  "v": "unrelated"
+ },
+ {
+  "en": "palma",
+  "uk": "пальма",
+  "v": "unrelated"
+ },
+ {
+  "en": "paradoxically",
+  "uk": "парадоксально",
+  "v": "similar",
+  "ce": "paradoxically",
+  "cu": "парадоксально",
+  "note": "adverb ending -о"
+ },
+ {
+  "en": "petro",
+  "uk": "петро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rbc",
+  "uk": "рбк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ronda",
+  "uk": "ронда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosberg",
+  "uk": "росберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ruskin",
+  "uk": "раскін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saad",
+  "uk": "саад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sander",
+  "uk": "сандер",
+  "v": "unrelated"
+ },
+ {
+  "en": "senna",
+  "uk": "сенна",
+  "v": "identical",
+  "ce": "senna",
+  "cu": "сена",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature",
+   "medicine"
+  ],
+  "note": "usually spelled сена in Ukrainian"
+ },
+ {
+  "en": "serenade",
+  "uk": "серенада",
+  "v": "similar",
+  "ce": "serenade",
+  "cu": "серенада",
+  "note": "ending -а"
+ },
+ {
+  "en": "simba",
+  "uk": "сімба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sonja",
+  "uk": "соня",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stabilizer",
+  "uk": "стабілізатор",
+  "v": "similar",
+  "ce": "stabilizer",
+  "cu": "стабілізатор",
+  "note": "suffix -атор instead of -er"
+ },
+ {
+  "en": "taro",
+  "uk": "таро",
+  "v": "partial_false_friend",
+  "ce": "taro",
+  "cu": "таро",
+  "note": "таро usually means tarot cards; the plant is also таро"
+ },
+ {
+  "en": "tonnage",
+  "uk": "тоннаж",
+  "v": "similar",
+  "ce": "tonnage",
+  "cu": "тоннаж",
+  "note": "-age read as -аж (French style)"
+ },
+ {
+  "en": "valle",
+  "uk": "валле",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wank",
+  "uk": "ванк",
+  "v": "unrelated"
+ },
+ {
+  "en": "yap",
+  "uk": "яп",
+  "v": "unrelated"
+ },
+ {
+  "en": "aerodynamics",
+  "uk": "аеродинаміка",
+  "v": "similar",
+  "ce": "aerodynamics",
+  "cu": "аеродинаміка",
+  "note": "ending -іка"
+ },
+ {
+  "en": "amr",
+  "uk": "амр",
+  "v": "unrelated"
+ },
+ {
+  "en": "animator",
+  "uk": "аніматор",
+  "v": "identical",
+  "ce": "animator",
+  "cu": "аніматор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "media"
+  ],
+  "note": "in Ukrainian also an entertainer at hotels or kids' parties"
+ },
+ {
+  "en": "anno",
+  "uk": "анно",
+  "v": "unrelated"
+ },
+ {
+  "en": "antidepressant",
+  "uk": "антидепресант",
+  "v": "identical",
+  "ce": "antidepressant",
+  "cu": "антидепресант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aqueduct",
+  "uk": "акведук",
+  "v": "similar",
+  "ce": "aqueduct",
+  "cu": "акведук",
+  "note": "no final -т"
+ },
+ {
+  "en": "aruba",
+  "uk": "аруби",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barrymore",
+  "uk": "беррімор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "belo",
+  "uk": "белу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bilbao",
+  "uk": "більбао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bobbi",
+  "uk": "боббі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "breen",
+  "uk": "брін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "broome",
+  "uk": "брум",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bueno",
+  "uk": "буено",
+  "v": "unrelated"
+ },
+ {
+  "en": "caustic soda",
+  "uk": "каустична сода",
+  "v": "similar",
+  "ce": "caustic soda",
+  "cu": "каустична сода",
+  "note": "adjective ending -на"
+ },
+ {
+  "en": "confiscate",
+  "uk": "конфіскувати",
+  "v": "similar",
+  "ce": "confiscate",
+  "cu": "конфіскувати",
+  "note": "verb ending -увати"
+ },
+ {
+  "en": "coolidge",
+  "uk": "кулідж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crichton",
+  "uk": "крайтон",
+  "v": "proper_noun"
+ }
+]

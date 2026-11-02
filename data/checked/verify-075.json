@@ -1,0 +1,863 @@
+[
+ {
+  "en": "dermatology",
+  "uk": "дерматологія",
+  "v": "similar",
+  "ce": "dermatology",
+  "cu": "дерматологія",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "dominica",
+  "uk": "домініка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "echelon",
+  "uk": "ешелон",
+  "v": "partial_false_friend",
+  "ce": "echelon",
+  "cu": "ешелон",
+  "note": "ешелон usually means a (troop or freight) train; shares 'level' (вищі ешелони влади) and 'formation'"
+ },
+ {
+  "en": "ela",
+  "uk": "ела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "enid",
+  "uk": "енід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "everglades",
+  "uk": "еверглейдс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fao",
+  "uk": "фао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "farrow",
+  "uk": "ферроу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fitzroy",
+  "uk": "фіцрой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "flamenco",
+  "uk": "фламенко",
+  "v": "identical",
+  "ce": "flamenco",
+  "cu": "фламенко",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "geller",
+  "uk": "геллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gita",
+  "uk": "ґіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goulding",
+  "uk": "голдінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gradients",
+  "uk": "градієнти",
+  "v": "not_lemma",
+  "ce": "gradient",
+  "cu": "градієнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "lv": "identical",
+  "note": ""
+ },
+ {
+  "en": "grads",
+  "uk": "гради",
+  "v": "not_lemma",
+  "ce": "grad",
+  "cu": "град",
+  "lv": "unrelated",
+  "note": "grad = graduate; град = hail"
+ },
+ {
+  "en": "gypsum",
+  "uk": "гіпс",
+  "v": "similar",
+  "ce": "gypsum",
+  "cu": "гіпс",
+  "note": "Ukrainian drops -um; гіпс also = plaster cast"
+ },
+ {
+  "en": "hao",
+  "uk": "хао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herbie",
+  "uk": "герби",
+  "v": "unrelated"
+ },
+ {
+  "en": "hiroshi",
+  "uk": "хіросі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hyperbole",
+  "uk": "гіпербола",
+  "v": "similar",
+  "ce": "hyperbole",
+  "cu": "гіпербола",
+  "note": "ending differs; гіпербола also = hyperbola (math)"
+ },
+ {
+  "en": "ibuprofen",
+  "uk": "ібупрофен",
+  "v": "identical",
+  "ce": "ibuprofen",
+  "cu": "ібупрофен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "imho",
+  "uk": "імхо",
+  "v": "identical",
+  "ce": "IMHO",
+  "cu": "імхо",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "slang",
+   "media"
+  ],
+  "note": "Internet slang; also written ІМХО"
+ },
+ {
+  "en": "karla",
+  "uk": "карла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kharkiv",
+  "uk": "харків",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kinetics",
+  "uk": "кінетика",
+  "v": "similar",
+  "ce": "kinetics",
+  "cu": "кінетика",
+  "note": "Ukrainian -ика instead of -ics"
+ },
+ {
+  "en": "knapp",
+  "uk": "кнапп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leona",
+  "uk": "леона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macaulay",
+  "uk": "маколей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mackie",
+  "uk": "макі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magdalene",
+  "uk": "магдалена",
+  "v": "proper_noun"
+ },
+ {
+  "en": "narnia",
+  "uk": "нарнія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nepotism",
+  "uk": "непотизм",
+  "v": "identical",
+  "ce": "nepotism",
+  "cu": "непотизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "normality",
+  "uk": "нормальність",
+  "v": "similar",
+  "ce": "normality",
+  "cu": "нормальність",
+  "note": "different suffix (-ність)"
+ },
+ {
+  "en": "olly",
+  "uk": "оллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ophthalmology",
+  "uk": "офтальмологія",
+  "v": "similar",
+  "ce": "ophthalmology",
+  "cu": "офтальмологія",
+  "note": "Ukrainian adds -ія"
+ },
+ {
+  "en": "oppenheimer",
+  "uk": "оппенгеймер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "osman",
+  "uk": "осман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pecan",
+  "uk": "пекан",
+  "v": "identical",
+  "ce": "pecan",
+  "cu": "пекан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pereira",
+  "uk": "перейра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pinocchio",
+  "uk": "піноккіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pique",
+  "uk": "піке",
+  "v": "false_friend",
+  "ce": "pique",
+  "cu": "піке",
+  "note": "піке = an aircraft's nosedive; pique = irritation, to arouse (interest)"
+ },
+ {
+  "en": "punta",
+  "uk": "пунта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rangoon",
+  "uk": "рангун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "raza",
+  "uk": "раза",
+  "v": "unrelated"
+ },
+ {
+  "en": "rosalind",
+  "uk": "розалінд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sant",
+  "uk": "сант",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sardinia",
+  "uk": "сардинія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schaefer",
+  "uk": "шефер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "selby",
+  "uk": "селбі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sigmund",
+  "uk": "зигмунд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stearns",
+  "uk": "стернс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stonehenge",
+  "uk": "стоунхендж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "subcontinent",
+  "uk": "субконтинент",
+  "v": "identical",
+  "ce": "subcontinent",
+  "cu": "субконтинент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "symbiotic",
+  "uk": "симбіотичний",
+  "v": "similar",
+  "ce": "symbiotic",
+  "cu": "симбіотичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "tetris",
+  "uk": "тетріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thermodynamic",
+  "uk": "термодинамічний",
+  "v": "similar",
+  "ce": "thermodynamic",
+  "cu": "термодинамічний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "thermodynamic",
+  "uk": "термодинамічна",
+  "v": "not_lemma",
+  "ce": "thermodynamic",
+  "cu": "термодинамічний",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "thurman",
+  "uk": "турман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "twink",
+  "uk": "твінк",
+  "v": "identical",
+  "ce": "twink",
+  "cu": "твінк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "rare",
+   "people",
+   "games"
+  ],
+  "note": "Slang: a young slim man (LGBT slang, can be offensive); in games, a low-level character with top gear"
+ },
+ {
+  "en": "vincenzo",
+  "uk": "вінченцо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vinnie",
+  "uk": "вінні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vishnu",
+  "uk": "вішну",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aman",
+  "uk": "аман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aorta",
+  "uk": "аорта",
+  "v": "identical",
+  "ce": "aorta",
+  "cu": "аорта",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aram",
+  "uk": "арам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ashram",
+  "uk": "ашрам",
+  "v": "identical",
+  "ce": "ashram",
+  "cu": "ашрам",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ayatollah",
+  "uk": "аятола",
+  "v": "identical",
+  "ce": "ayatollah",
+  "cu": "аятола",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "batista",
+  "uk": "батисти",
+  "v": "unrelated"
+ },
+ {
+  "en": "beret",
+  "uk": "берет",
+  "v": "identical",
+  "ce": "beret",
+  "cu": "берет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bol",
+  "uk": "боль",
+  "v": "unrelated"
+ },
+ {
+  "en": "bronchitis",
+  "uk": "бронхіт",
+  "v": "similar",
+  "ce": "bronchitis",
+  "cu": "бронхіт",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "caf",
+  "uk": "каф",
+  "v": "unrelated"
+ },
+ {
+  "en": "callaghan",
+  "uk": "каллаган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "capone",
+  "uk": "капоне",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catechism",
+  "uk": "катехізис",
+  "v": "similar",
+  "ce": "catechism",
+  "cu": "катехізис",
+  "note": "different ending (-ізис vs -ism)"
+ },
+ {
+  "en": "cesare",
+  "uk": "чезаре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cognac",
+  "uk": "коньяк",
+  "v": "identical",
+  "ce": "cognac",
+  "cu": "коньяк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "In Ukrainian коньяк is often used for any brandy"
+ },
+ {
+  "en": "colette",
+  "uk": "колетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "combatant",
+  "uk": "комбатант",
+  "v": "identical",
+  "ce": "combatant",
+  "cu": "комбатант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "combatant",
+  "uk": "комбатантка",
+  "v": "not_lemma",
+  "ce": "combatant",
+  "cu": "комбатант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "lv": "identical",
+  "note": "комбатантка is the feminine form"
+ },
+ {
+  "en": "constructor",
+  "uk": "конструктор",
+  "v": "partial_false_friend",
+  "ce": "constructor",
+  "cu": "конструктор",
+  "note": "конструктор usually = design engineer or a toy construction set"
+ },
+ {
+  "en": "curd",
+  "uk": "курд",
+  "v": "unrelated"
+ },
+ {
+  "en": "daniela",
+  "uk": "даніела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dario",
+  "uk": "даріо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dost",
+  "uk": "дост",
+  "v": "unrelated"
+ },
+ {
+  "en": "edie",
+  "uk": "еді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epileptic",
+  "uk": "епілептик",
+  "v": "identical",
+  "ce": "epileptic",
+  "cu": "епілептик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": "Noun only (a person with epilepsy); the adjective is епілептичний. Can sound offensive in both languages"
+ },
+ {
+  "en": "epileptic",
+  "uk": "епілептичка",
+  "v": "not_lemma",
+  "ce": "epileptic",
+  "cu": "епілептик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "lv": "identical",
+  "note": "епілептичка is the feminine form"
+ },
+ {
+  "en": "epileptic",
+  "uk": "епілептичний",
+  "v": "similar",
+  "ce": "epileptic",
+  "cu": "епілептичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "errol",
+  "uk": "еррол",
+  "v": "proper_noun"
+ },
+ {
+  "en": "euphemism",
+  "uk": "евфемізм",
+  "v": "identical",
+  "ce": "euphemism",
+  "cu": "евфемізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fantasia",
+  "uk": "фантазія",
+  "v": "partial_false_friend",
+  "ce": "fantasia",
+  "cu": "фантазія",
+  "note": "фантазія mainly = imagination, fantasy; fantasia = a free-form piece of music"
+ },
+ {
+  "en": "fantasia",
+  "uk": "фантазії",
+  "v": "not_lemma",
+  "ce": "fantasia",
+  "cu": "фантазія",
+  "lv": "partial_false_friend",
+  "note": "plural/genitive form"
+ },
+ {
+  "en": "florentine",
+  "uk": "флорентійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "florentine",
+  "uk": "флорентієць",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fontana",
+  "uk": "фонтан",
+  "v": "unrelated"
+ },
+ {
+  "en": "fontana",
+  "uk": "фонтана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fundamentalism",
+  "uk": "фундаменталізм",
+  "v": "identical",
+  "ce": "fundamentalism",
+  "cu": "фундаменталізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gabon",
+  "uk": "габон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gabon",
+  "uk": "габону",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gad",
+  "uk": "гад",
+  "v": "unrelated"
+ },
+ {
+  "en": "ganges",
+  "uk": "ганг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gaz",
+  "uk": "газ",
+  "v": "unrelated"
+ },
+ {
+  "en": "graf",
+  "uk": "граф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hemoglobin",
+  "uk": "гемоглобін",
+  "v": "identical",
+  "ce": "hemoglobin",
+  "cu": "гемоглобін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine",
+   "biology"
+  ],
+  "note": "British spelling: haemoglobin"
+ },
+ {
+  "en": "jacuzzi",
+  "uk": "джакузі",
+  "v": "identical",
+  "ce": "jacuzzi",
+  "cu": "джакузі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kohler",
+  "uk": "колер",
+  "v": "unrelated"
+ },
+ {
+  "en": "manchuria",
+  "uk": "маньчжурія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mary magdalene",
+  "uk": "марія магдалина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "microprocessor",
+  "uk": "мікропроцесор",
+  "v": "identical",
+  "ce": "microprocessor",
+  "cu": "мікропроцесор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "minogue",
+  "uk": "міноуг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "misha",
+  "uk": "міша",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mogadishu",
+  "uk": "могадішо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mogadishu",
+  "uk": "могадишо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mogadishu",
+  "uk": "моґадішо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mombasa",
+  "uk": "момбаса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "monika",
+  "uk": "моніка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "necrosis",
+  "uk": "некроз",
+  "v": "similar",
+  "ce": "necrosis",
+  "cu": "некроз",
+  "note": "Ukrainian drops -is"
+ },
+ {
+  "en": "ning",
+  "uk": "нін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "niro",
+  "uk": "ніро",
+  "v": "proper_noun"
+ }
+]

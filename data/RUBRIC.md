@@ -36,6 +36,7 @@ NOT identical (→ `similar`): any added or removed ending or suffix (-а, -я, 
 - `canon_en`: dictionary headword in **American / international spelling** (center, color, theater, meter, humor). Use British spelling ONLY if the word itself exists only in British English. Abbreviations in their usual capitals (DJ, PR, OK, IT, VIP).
 - `canon_uk`: Ukrainian dictionary headword (nominative singular, current spelling, apostrophe ' as in комп'ютер).
 - `british`: true only if this word (or this meaning) is used just in British English (e.g. lift = elevator).
+- `note`: written for a Ukrainian learning English, so it talks ONLY about the English word — how it is used in English (e.g. "Usually 'cell phone' in American English", "Plural: data"). Never describe the Ukrainian word's other meanings. Leave empty if nothing is needed.
 
 ## Labels (array, use only these)
 Usage: `archaic`, `obsolete`, `dated`, `literary`, `informal`, `slang`, `abbreviation`, `technical`, `rare`, `international` (the same word exists in most major European languages, e.g. taxi, radio, hotel).

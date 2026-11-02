@@ -1,0 +1,861 @@
+[
+ {
+  "en": "termite",
+  "uk": "терміт",
+  "v": "identical",
+  "ce": "termite",
+  "cu": "терміт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "termite",
+  "uk": "терміти",
+  "v": "not_lemma",
+  "ce": "termite",
+  "cu": "терміт",
+  "lv": "identical",
+  "note": "терміти is the plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ]
+ },
+ {
+  "en": "theron",
+  "uk": "терон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "theron",
+  "uk": "ферон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trudy",
+  "uk": "труды",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vanuatu",
+  "uk": "вануату",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vaseline",
+  "uk": "вазелін",
+  "v": "identical",
+  "ce": "vaseline",
+  "cu": "вазелін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "In English often written Vaseline (a brand name)."
+ },
+ {
+  "en": "virtualization",
+  "uk": "віртуалізація",
+  "v": "similar",
+  "ce": "virtualization",
+  "cu": "віртуалізація",
+  "note": "Ukrainian adds the ending -ія."
+ },
+ {
+  "en": "wien",
+  "uk": "він",
+  "v": "unrelated"
+ },
+ {
+  "en": "wook",
+  "uk": "ук",
+  "v": "unrelated"
+ },
+ {
+  "en": "wuhan",
+  "uk": "ухань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adrenalin",
+  "uk": "адреналін",
+  "v": "identical",
+  "ce": "adrenaline",
+  "cu": "адреналін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Also spelled adrenalin."
+ },
+ {
+  "en": "aguirre",
+  "uk": "агірре",
+  "v": "proper_noun"
+ },
+ {
+  "en": "algorithmic",
+  "uk": "алгоритмічний",
+  "v": "similar",
+  "ce": "algorithmic",
+  "cu": "алгоритмічний",
+  "note": "Ukrainian adjective ending -ічний."
+ },
+ {
+  "en": "alsace",
+  "uk": "ельзас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anatolia",
+  "uk": "анатолія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "angina",
+  "uk": "ангіна",
+  "v": "false_friend",
+  "ce": "angina",
+  "cu": "ангіна",
+  "note": "English: chest pain (angina pectoris); Ukrainian: tonsillitis, sore throat."
+ },
+ {
+  "en": "apologist",
+  "uk": "апологет",
+  "v": "similar",
+  "ce": "apologist",
+  "cu": "апологет",
+  "note": "Different suffix (-ist vs -ет)."
+ },
+ {
+  "en": "attaché",
+  "uk": "аташе",
+  "v": "identical",
+  "ce": "attaché",
+  "cu": "аташе",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Also written attache. Ukrainian word does not change its form."
+ },
+ {
+  "en": "ayala",
+  "uk": "аяла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barman",
+  "uk": "бармен",
+  "v": "identical",
+  "ce": "barman",
+  "cu": "бармен",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "people"
+  ],
+  "note": "American English usually says bartender."
+ },
+ {
+  "en": "baruch",
+  "uk": "барух",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beatrix",
+  "uk": "беатріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "berlusconi",
+  "uk": "берлусконі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "botha",
+  "uk": "бота",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carrera",
+  "uk": "каррера",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chantal",
+  "uk": "шанталь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chorizo",
+  "uk": "чорісо",
+  "v": "identical",
+  "ce": "chorizo",
+  "cu": "чорізо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Also spelled чорісо."
+ },
+ {
+  "en": "conde",
+  "uk": "конде",
+  "v": "unrelated"
+ },
+ {
+  "en": "credo",
+  "uk": "кредо",
+  "v": "identical",
+  "ce": "credo",
+  "cu": "кредо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Ukrainian word does not change its form."
+ },
+ {
+  "en": "da nang",
+  "uk": "дананг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dap",
+  "uk": "дап",
+  "v": "unrelated"
+ },
+ {
+  "en": "democratization",
+  "uk": "демократизація",
+  "v": "similar",
+  "ce": "democratization",
+  "cu": "демократизація",
+  "note": "Ukrainian adds the ending -ія."
+ },
+ {
+  "en": "djibouti",
+  "uk": "джибуті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "domenico",
+  "uk": "доменіко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elinor",
+  "uk": "елінор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elo",
+  "uk": "ело",
+  "v": "proper_noun"
+ },
+ {
+  "en": "essen",
+  "uk": "ессен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "euston",
+  "uk": "юстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "figueroa",
+  "uk": "фігероа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "formulae",
+  "uk": "формули",
+  "v": "not_lemma",
+  "ce": "formula",
+  "cu": "формула",
+  "lv": "identical",
+  "note": "formulae is a plural of formula; формули is the Ukrainian plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ]
+ },
+ {
+  "en": "futurama",
+  "uk": "футурама",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guadalajara",
+  "uk": "гвадалахара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guadalajara",
+  "uk": "ґвадалахара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hollande",
+  "uk": "олланд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hyperion",
+  "uk": "гіперіон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ivanov",
+  "uk": "іванов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "juba",
+  "uk": "джуба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kama",
+  "uk": "кама",
+  "v": "proper_noun"
+ },
+ {
+  "en": "knesset",
+  "uk": "кнесет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "krypton",
+  "uk": "криптон",
+  "v": "identical",
+  "ce": "krypton",
+  "cu": "криптон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kuan",
+  "uk": "куан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lagrange",
+  "uk": "лагранж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liao",
+  "uk": "ляо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liechtenstein",
+  "uk": "ліхтенштайн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liechtenstein",
+  "uk": "ліхтенштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lindbergh",
+  "uk": "ліндберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lino",
+  "uk": "ліно",
+  "v": "unrelated"
+ },
+ {
+  "en": "magellan",
+  "uk": "магеллан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marques",
+  "uk": "маркес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "masha",
+  "uk": "маша",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mcdougall",
+  "uk": "макдугалл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "megatron",
+  "uk": "меґатрон",
+  "v": "identical",
+  "ce": "megatron",
+  "cu": "мегатрон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "rare",
+   "tech"
+  ],
+  "note": "Also spelled меґатрон."
+ },
+ {
+  "en": "mehmet",
+  "uk": "мехмет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meniscus",
+  "uk": "меніск",
+  "v": "similar",
+  "ce": "meniscus",
+  "cu": "меніск",
+  "note": "Ukrainian drops the Latin ending -us."
+ },
+ {
+  "en": "miso",
+  "uk": "місо",
+  "v": "identical",
+  "ce": "miso",
+  "cu": "місо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian word does not change its form."
+ },
+ {
+  "en": "naismith",
+  "uk": "нейсміт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odo",
+  "uk": "одо",
+  "v": "unrelated"
+ },
+ {
+  "en": "omb",
+  "uk": "омб",
+  "v": "unrelated"
+ },
+ {
+  "en": "opportunist",
+  "uk": "опортуніст",
+  "v": "identical",
+  "ce": "opportunist",
+  "cu": "опортуніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "opportunist",
+  "uk": "опортуністка",
+  "v": "not_lemma",
+  "ce": "opportunist",
+  "cu": "опортуніст",
+  "lv": "identical",
+  "note": "опортуністка is the feminine form",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "people"
+  ]
+ },
+ {
+  "en": "pag",
+  "uk": "паг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "peloton",
+  "uk": "пелотон",
+  "v": "identical",
+  "ce": "peloton",
+  "cu": "пелотон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "puritans",
+  "uk": "пуритани",
+  "v": "not_lemma",
+  "ce": "puritan",
+  "cu": "пуританин",
+  "lv": "similar",
+  "note": "Ukrainian singular adds -ин"
+ },
+ {
+  "en": "ragnar",
+  "uk": "рагнар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rog",
+  "uk": "рог",
+  "v": "unrelated"
+ },
+ {
+  "en": "rouen",
+  "uk": "руан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rourke",
+  "uk": "рурк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sab",
+  "uk": "саб",
+  "v": "unrelated"
+ },
+ {
+  "en": "salma",
+  "uk": "сальма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sarkozy",
+  "uk": "саркозі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sevastopol",
+  "uk": "севастополь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "showman",
+  "uk": "шоумен",
+  "v": "identical",
+  "ce": "showman",
+  "cu": "шоумен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sousa",
+  "uk": "соуза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spitzer",
+  "uk": "спітцер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sputnik",
+  "uk": "спутнік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sputnik",
+  "uk": "супутник",
+  "v": "similar",
+  "ce": "sputnik",
+  "cu": "супутник",
+  "note": "Different form; Ukrainian супутник also means any satellite or a companion."
+ },
+ {
+  "en": "sumter",
+  "uk": "самтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "talib",
+  "uk": "таліб",
+  "v": "identical",
+  "ce": "talib",
+  "cu": "таліб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tigris",
+  "uk": "тигр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "twerking",
+  "uk": "тверкінг",
+  "v": "identical",
+  "ce": "twerking",
+  "cu": "тверкінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "uppsala",
+  "uk": "уппсала",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vallejo",
+  "uk": "вальєхо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "viaduct",
+  "uk": "віадук",
+  "v": "similar",
+  "ce": "viaduct",
+  "cu": "віадук",
+  "note": "Ukrainian drops the final -t."
+ },
+ {
+  "en": "wasabi",
+  "uk": "васабі",
+  "v": "identical",
+  "ce": "wasabi",
+  "cu": "васабі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian word does not change its form."
+ },
+ {
+  "en": "wittgenstein",
+  "uk": "вітгенштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "xia",
+  "uk": "ся",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abb",
+  "uk": "абб",
+  "v": "unrelated"
+ },
+ {
+  "en": "alvarado",
+  "uk": "альварадо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andersson",
+  "uk": "андерссон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "apostrophe",
+  "uk": "апостроф",
+  "v": "identical",
+  "ce": "apostrophe",
+  "cu": "апостроф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "apostrophe",
+  "uk": "апострофом",
+  "v": "not_lemma",
+  "ce": "apostrophe",
+  "cu": "апостроф",
+  "lv": "identical",
+  "note": "апострофом is the instrumental case",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ]
+ },
+ {
+  "en": "aquariums",
+  "uk": "акваріуми",
+  "v": "not_lemma",
+  "ce": "aquarium",
+  "cu": "акваріум",
+  "lv": "identical",
+  "note": "plural forms",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ]
+ },
+ {
+  "en": "artur",
+  "uk": "артур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "basra",
+  "uk": "басра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "becket",
+  "uk": "бекет",
+  "v": "unrelated"
+ },
+ {
+  "en": "boson",
+  "uk": "бозон",
+  "v": "identical",
+  "ce": "boson",
+  "cu": "бозон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "buh",
+  "uk": "буг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cappella",
+  "uk": "капела",
+  "v": "unrelated"
+ },
+ {
+  "en": "cartman",
+  "uk": "картман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "christa",
+  "uk": "кріста",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ciudad",
+  "uk": "сьюдад",
+  "v": "proper_noun"
+ },
+ {
+  "en": "condensate",
+  "uk": "конденсат",
+  "v": "identical",
+  "ce": "condensate",
+  "cu": "конденсат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "crusoe",
+  "uk": "крузо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cyberpunk",
+  "uk": "кіберпанк",
+  "v": "identical",
+  "ce": "cyberpunk",
+  "cu": "кіберпанк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dijon",
+  "uk": "діжон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "discus",
+  "uk": "диск",
+  "v": "similar",
+  "ce": "discus",
+  "cu": "диск",
+  "note": "Ukrainian drops -us; диск also means any disk."
+ },
+ {
+  "en": "eduard",
+  "uk": "едуард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "endocrinology",
+  "uk": "ендокринологія",
+  "v": "similar",
+  "ce": "endocrinology",
+  "cu": "ендокринологія",
+  "note": "Ukrainian adds the ending -ія."
+ },
+ {
+  "en": "erectile dysfunction",
+  "uk": "еректильна дисфункція",
+  "v": "similar",
+  "ce": "erectile dysfunction",
+  "cu": "еректильна дисфункція",
+  "note": "Ukrainian adjective and noun endings (-на, -ія)."
+ }
+]

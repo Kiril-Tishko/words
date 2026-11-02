@@ -1,0 +1,891 @@
+[
+ {
+  "en": "katana",
+  "uk": "катана",
+  "v": "identical",
+  "ce": "katana",
+  "cu": "катана",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kessel",
+  "uk": "кессель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kota",
+  "uk": "кота",
+  "v": "unrelated"
+ },
+ {
+  "en": "laredo",
+  "uk": "ларедо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lem",
+  "uk": "лем",
+  "v": "unrelated"
+ },
+ {
+  "en": "magda",
+  "uk": "магда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mahdi",
+  "uk": "махді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "margarine",
+  "uk": "маргарин",
+  "v": "identical",
+  "ce": "margarine",
+  "cu": "маргарин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "melania",
+  "uk": "меланія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "messina",
+  "uk": "мессіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "millard",
+  "uk": "міллард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "montevideo",
+  "uk": "монтевідео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neurotransmitter",
+  "uk": "нейротрансмітер",
+  "v": "identical",
+  "ce": "neurotransmitter",
+  "cu": "нейротрансмітер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nevis",
+  "uk": "невіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "noam",
+  "uk": "ноам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "notts",
+  "uk": "ноттс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "okada",
+  "uk": "окада",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ormond",
+  "uk": "ормонд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oxytocin",
+  "uk": "окситоцин",
+  "v": "identical",
+  "ce": "oxytocin",
+  "cu": "окситоцин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pathos",
+  "uk": "пафос",
+  "v": "partial_false_friend",
+  "ce": "pathos",
+  "cu": "пафос",
+  "note": "uk пафос = fervor, high emotion, also pomposity; en pathos = quality evoking pity; th→ф"
+ },
+ {
+  "en": "perrin",
+  "uk": "перрен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "potsdam",
+  "uk": "потсдам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "psychoactive",
+  "uk": "психоактивний",
+  "v": "similar",
+  "ce": "psychoactive",
+  "cu": "психоактивний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "punctual",
+  "uk": "пунктуальний",
+  "v": "similar",
+  "ce": "punctual",
+  "cu": "пунктуальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "quezon",
+  "uk": "кезон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "quito",
+  "uk": "кіто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rafting",
+  "uk": "рафтинг",
+  "v": "identical",
+  "ce": "rafting",
+  "cu": "рафтинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rainer",
+  "uk": "райнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rogan",
+  "uk": "роган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "résumé",
+  "uk": "резюме",
+  "v": "identical",
+  "ce": "résumé",
+  "cu": "резюме",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": "also a summary in general; also spelled resume (US)"
+ },
+ {
+  "en": "sade",
+  "uk": "сад",
+  "v": "unrelated"
+ },
+ {
+  "en": "savanna",
+  "uk": "савана",
+  "v": "identical",
+  "ce": "savanna",
+  "cu": "савана",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also spelled savannah."
+ },
+ {
+  "en": "shandong",
+  "uk": "шаньдун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sona",
+  "uk": "сона",
+  "v": "unrelated"
+ },
+ {
+  "en": "souza",
+  "uk": "соуза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spartacus",
+  "uk": "спартак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "steppe",
+  "uk": "степ",
+  "v": "identical",
+  "ce": "steppe",
+  "cu": "степ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "Ukrainian степ also means tap dance."
+ },
+ {
+  "en": "terracotta",
+  "uk": "теракота",
+  "v": "identical",
+  "ce": "terracotta",
+  "cu": "теракота",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also spelled terra cotta."
+ },
+ {
+  "en": "tian shan",
+  "uk": "тянь-шань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tinnitus",
+  "uk": "тинітус",
+  "v": "identical",
+  "ce": "tinnitus",
+  "cu": "тинітус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": "Everyday Ukrainian: шум у вухах."
+ },
+ {
+  "en": "tropic",
+  "uk": "тропік",
+  "v": "identical",
+  "ce": "tropic",
+  "cu": "тропік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "the tropics = тропіки"
+ },
+ {
+  "en": "villarreal",
+  "uk": "вільярреал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vilnius",
+  "uk": "вільнюс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "willian",
+  "uk": "вілліан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yamato",
+  "uk": "ямато",
+  "v": "proper_noun"
+ },
+ {
+  "en": "accolade",
+  "uk": "аколада",
+  "v": "partial_false_friend",
+  "ce": "accolade",
+  "cu": "аколада",
+  "note": "uk: knighting ceremony (historical) or a music brace, not 'praise/award'; ending -а"
+ },
+ {
+  "en": "aime",
+  "uk": "ем",
+  "v": "unrelated"
+ },
+ {
+  "en": "andrey",
+  "uk": "андрій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ashanti",
+  "uk": "ашанті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "atelier",
+  "uk": "ательє",
+  "v": "identical",
+  "ce": "atelier",
+  "cu": "ательє",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "clothing"
+  ],
+  "note": "In Ukrainian usually a tailor's/dressmaking shop or photo studio."
+ },
+ {
+  "en": "australasia",
+  "uk": "австралазія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baguette",
+  "uk": "багет",
+  "v": "identical",
+  "ce": "baguette",
+  "cu": "багет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "Ukrainian багет also means a picture-frame molding."
+ },
+ {
+  "en": "bioinformatics",
+  "uk": "біоінформатика",
+  "v": "similar",
+  "ce": "bioinformatics",
+  "cu": "біоінформатика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "buhari",
+  "uk": "бухарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burkina faso",
+  "uk": "буркіна-фасо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carburetor",
+  "uk": "карбюратор",
+  "v": "similar",
+  "ce": "carburetor",
+  "cu": "карбюратор",
+  "note": "Ukrainian -бю- and -атор (from French carburateur)"
+ },
+ {
+  "en": "caruso",
+  "uk": "карузо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catacombs",
+  "uk": "катакомби",
+  "v": "not_lemma",
+  "ce": "catacomb",
+  "cu": "катакомба",
+  "lv": "similar",
+  "note": "Plural forms; Ukrainian lemma ends in -а."
+ },
+ {
+  "en": "celts",
+  "uk": "кельти",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dolph",
+  "uk": "дольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "entre",
+  "uk": "ентре",
+  "v": "unrelated"
+ },
+ {
+  "en": "eocene",
+  "uk": "еоцен",
+  "v": "identical",
+  "ce": "Eocene",
+  "cu": "еоцен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": "Capitalized in English; lowercase in Ukrainian."
+ },
+ {
+  "en": "epigenetic",
+  "uk": "епігенетичний",
+  "v": "similar",
+  "ce": "epigenetic",
+  "cu": "епігенетичний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "eriksson",
+  "uk": "ерікссон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ethnography",
+  "uk": "етнографія",
+  "v": "similar",
+  "ce": "ethnography",
+  "cu": "етнографія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "genghis khan",
+  "uk": "чингісхан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "geopolitics",
+  "uk": "геополітика",
+  "v": "similar",
+  "ce": "geopolitics",
+  "cu": "геополітика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "hadi",
+  "uk": "хаді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haider",
+  "uk": "гайдер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "historiography",
+  "uk": "історіографія",
+  "v": "similar",
+  "ce": "historiography",
+  "cu": "історіографія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "hogarth",
+  "uk": "хогарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "infantile",
+  "uk": "інфантильний",
+  "v": "similar",
+  "ce": "infantile",
+  "cu": "інфантильний",
+  "note": "adjective ending -ний; uk mainly 'childish, immature'"
+ },
+ {
+  "en": "iniesta",
+  "uk": "іньєста",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jeddah",
+  "uk": "джидда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kana",
+  "uk": "кана",
+  "v": "identical",
+  "ce": "kana",
+  "cu": "кана",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "language"
+  ],
+  "note": "Japanese syllabic script."
+ },
+ {
+  "en": "katarina",
+  "uk": "катарина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kincaid",
+  "uk": "кінкейд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lakshmi",
+  "uk": "лакшмі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lazio",
+  "uk": "лаціо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lind",
+  "uk": "лінд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lorenz",
+  "uk": "лоренц",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luftwaffe",
+  "uk": "люфтваффе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magdalena",
+  "uk": "магдалена",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mahler",
+  "uk": "малер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marek",
+  "uk": "марек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marquess",
+  "uk": "маркіз",
+  "v": "similar",
+  "ce": "marquis",
+  "cu": "маркіз",
+  "note": "Ukrainian follows marquis, ends in -з; marquess is the British spelling"
+ },
+ {
+  "en": "millionth",
+  "uk": "мільйонний",
+  "v": "similar",
+  "ce": "millionth",
+  "cu": "мільйонний",
+  "note": "ordinal adjective ending -ний"
+ },
+ {
+  "en": "oni",
+  "uk": "он",
+  "v": "unrelated"
+ },
+ {
+  "en": "pele",
+  "uk": "пеле",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pers",
+  "uk": "пер",
+  "v": "unrelated"
+ },
+ {
+  "en": "personification",
+  "uk": "персоніфікація",
+  "v": "similar",
+  "ce": "personification",
+  "cu": "персоніфікація",
+  "note": "ending -ація"
+ },
+ {
+  "en": "pilar",
+  "uk": "пілар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pliny",
+  "uk": "пліній",
+  "v": "proper_noun"
+ },
+ {
+  "en": "poetics",
+  "uk": "поетика",
+  "v": "similar",
+  "ce": "poetics",
+  "cu": "поетика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "prefrontal",
+  "uk": "префронтальний",
+  "v": "similar",
+  "ce": "prefrontal",
+  "cu": "префронтальний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "pto",
+  "uk": "пто",
+  "v": "unrelated"
+ },
+ {
+  "en": "puri",
+  "uk": "пурі",
+  "v": "identical",
+  "ce": "puri",
+  "cu": "пурі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "Indian deep-fried flatbread."
+ },
+ {
+  "en": "radha",
+  "uk": "радга",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rostov",
+  "uk": "ростов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sequoia",
+  "uk": "секвойя",
+  "v": "identical",
+  "ce": "sequoia",
+  "cu": "секвойя",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "serrano",
+  "uk": "серрано",
+  "v": "identical",
+  "ce": "serrano",
+  "cu": "серрано",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Usually in хамон серрано (serrano ham) or перець серрано."
+ },
+ {
+  "en": "solis",
+  "uk": "соліс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stalingrad",
+  "uk": "сталінград",
+  "v": "proper_noun"
+ },
+ {
+  "en": "statuses",
+  "uk": "статуси",
+  "v": "not_lemma",
+  "ce": "status",
+  "cu": "статус",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Plural forms."
+ },
+ {
+  "en": "summa",
+  "uk": "сумма",
+  "v": "unrelated"
+ },
+ {
+  "en": "swaziland",
+  "uk": "свазіленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sylvie",
+  "uk": "сільві",
+  "v": "proper_noun"
+ },
+ {
+  "en": "takahashi",
+  "uk": "такахасі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tana",
+  "uk": "тана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "torquay",
+  "uk": "торкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "verdi",
+  "uk": "верді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zigzag",
+  "uk": "зигзаг",
+  "v": "identical",
+  "ce": "zigzag",
+  "cu": "зигзаг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "zigzag",
+  "uk": "зиґзаґ",
+  "v": "identical",
+  "ce": "zigzag",
+  "cu": "зигзаг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Alternative spelling of зигзаг."
+ },
+ {
+  "en": "zigzag",
+  "uk": "зигзагом",
+  "v": "not_lemma",
+  "ce": "zigzag",
+  "cu": "зигзаг",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Instrumental case / adverb 'in a zigzag'."
+ },
+ {
+  "en": "zigzag",
+  "uk": "зиґзаґом",
+  "v": "not_lemma",
+  "ce": "zigzag",
+  "cu": "зигзаг",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Instrumental of the alternative spelling зиґзаґ."
+ },
+ {
+  "en": "abscess",
+  "uk": "абсцес",
+  "v": "identical",
+  "ce": "abscess",
+  "cu": "абсцес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "absorbent",
+  "uk": "абсорбент",
+  "v": "identical",
+  "ce": "absorbent",
+  "cu": "абсорбент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": "In Ukrainian only a noun (absorbing substance)."
+ },
+ {
+  "en": "acrobatic",
+  "uk": "акробатичний",
+  "v": "similar",
+  "ce": "acrobatic",
+  "cu": "акробатичний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "adrien",
+  "uk": "адрієн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "afrikaans",
+  "uk": "африкаанс",
+  "v": "identical",
+  "ce": "Afrikaans",
+  "cu": "африкаанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "The language; capitalized in English, lowercase in Ukrainian."
+ }
+]

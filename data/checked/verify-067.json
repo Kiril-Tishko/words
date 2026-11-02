@@ -1,0 +1,996 @@
+[
+ {
+  "en": "portman",
+  "uk": "портман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "puig",
+  "uk": "пуч",
+  "v": "proper_noun"
+ },
+ {
+  "en": "repatriation",
+  "uk": "репатріація",
+  "v": "similar",
+  "ce": "repatriation",
+  "cu": "репатріація",
+  "note": "Ending -ation becomes -ація."
+ },
+ {
+  "en": "requiem",
+  "uk": "реквієм",
+  "v": "identical",
+  "ce": "requiem",
+  "cu": "реквієм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ronan",
+  "uk": "ронан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rudolf",
+  "uk": "рудольф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sari",
+  "uk": "сарі",
+  "v": "identical",
+  "ce": "sari",
+  "cu": "сарі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "serpentine",
+  "uk": "серпентин",
+  "v": "identical",
+  "ce": "serpentine",
+  "cu": "серпентин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": "In Ukrainian only the mineral; English serpentine is also an adjective 'snake-like, winding' (a winding mountain road is серпантин)."
+ },
+ {
+  "en": "shinji",
+  "uk": "сіндзі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "strickland",
+  "uk": "стрікленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sumo",
+  "uk": "сумо",
+  "v": "identical",
+  "ce": "sumo",
+  "cu": "сумо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "susanna",
+  "uk": "сюзанна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "talisman",
+  "uk": "талісман",
+  "v": "identical",
+  "ce": "talisman",
+  "cu": "талісман",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "In Ukrainian also a team or event mascot."
+ },
+ {
+  "en": "tariq",
+  "uk": "тарік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tris",
+  "uk": "тріс",
+  "v": "unrelated"
+ },
+ {
+  "en": "trish",
+  "uk": "тріш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "unitary",
+  "uk": "унітарна",
+  "v": "not_lemma",
+  "ce": "unitary",
+  "cu": "унітарний",
+  "lv": "similar",
+  "note": "Feminine form; the adjective унітарний has its own ending."
+ },
+ {
+  "en": "vail",
+  "uk": "вейл",
+  "v": "unrelated"
+ },
+ {
+  "en": "valkyrie",
+  "uk": "валькірія",
+  "v": "similar",
+  "ce": "valkyrie",
+  "cu": "валькірія",
+  "note": "Ukrainian adds the ending -ія."
+ },
+ {
+  "en": "valkyrie",
+  "uk": "валькирія",
+  "v": "similar",
+  "ce": "valkyrie",
+  "cu": "валькірія",
+  "note": "Nonstandard spelling of валькірія; Ukrainian adds the ending -ія."
+ },
+ {
+  "en": "vicente",
+  "uk": "вісенте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wad",
+  "uk": "вад",
+  "v": "unrelated"
+ },
+ {
+  "en": "xenophobia",
+  "uk": "ксенофобія",
+  "v": "identical",
+  "ce": "xenophobia",
+  "cu": "ксенофобія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "xenophobic",
+  "uk": "ксенофобський",
+  "v": "similar",
+  "ce": "xenophobic",
+  "cu": "ксенофобський",
+  "note": "Ukrainian adjective ending -ський."
+ },
+ {
+  "en": "yakuza",
+  "uk": "якудза",
+  "v": "identical",
+  "ce": "yakuza",
+  "cu": "якудза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": "Ukrainian writes дз (from Japanese pronunciation)."
+ },
+ {
+  "en": "albino",
+  "uk": "альбіно",
+  "v": "identical",
+  "ce": "albino",
+  "cu": "альбіно",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "Indeclinable in Ukrainian; also used like an adjective."
+ },
+ {
+  "en": "antichrist",
+  "uk": "антихрист",
+  "v": "identical",
+  "ce": "antichrist",
+  "cu": "антихрист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aquaculture",
+  "uk": "аквакультура",
+  "v": "similar",
+  "ce": "aquaculture",
+  "cu": "аквакультура",
+  "note": "Ukrainian adds the ending -а."
+ },
+ {
+  "en": "artemis",
+  "uk": "артеміда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asterisk",
+  "uk": "астериск",
+  "v": "identical",
+  "ce": "asterisk",
+  "cu": "астериск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical",
+   "language"
+  ],
+  "note": "In everyday Ukrainian the symbol * is usually called зірочка."
+ },
+ {
+  "en": "avant-garde",
+  "uk": "авангард",
+  "v": "identical",
+  "ce": "avant-garde",
+  "cu": "авангард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Ukrainian авангард also means a military vanguard."
+ },
+ {
+  "en": "azalea",
+  "uk": "азалія",
+  "v": "identical",
+  "ce": "azalea",
+  "cu": "азалія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bacterium",
+  "uk": "бактерія",
+  "v": "similar",
+  "ce": "bacterium",
+  "cu": "бактерія",
+  "note": "Different ending: Ukrainian бактерія comes from the Latin plural bacteria."
+ },
+ {
+  "en": "bessie",
+  "uk": "бессі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bistro",
+  "uk": "бістро",
+  "v": "identical",
+  "ce": "bistro",
+  "cu": "бістро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food",
+   "places"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "bonanza",
+  "uk": "бонанца",
+  "v": "identical",
+  "ce": "bonanza",
+  "cu": "бонанца",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical",
+   "business"
+  ],
+  "note": "In Ukrainian only a rare mining term (rich ore vein); English also uses it for any sudden source of great wealth."
+ },
+ {
+  "en": "busan",
+  "uk": "пусан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "callum",
+  "uk": "каллам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cannibal",
+  "uk": "канібал",
+  "v": "identical",
+  "ce": "cannibal",
+  "cu": "канібал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cato",
+  "uk": "катон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "centurion",
+  "uk": "центуріон",
+  "v": "identical",
+  "ce": "centurion",
+  "cu": "центуріон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "counterproductive",
+  "uk": "контрпродуктивний",
+  "v": "similar",
+  "ce": "counterproductive",
+  "cu": "контрпродуктивний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "delia",
+  "uk": "делія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dulles",
+  "uk": "даллес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emir",
+  "uk": "емір",
+  "v": "identical",
+  "ce": "emir",
+  "cu": "емір",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "emu",
+  "uk": "ему",
+  "v": "identical",
+  "ce": "emu",
+  "cu": "ему",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "eritrea",
+  "uk": "еритрея",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eritrea",
+  "uk": "еритреї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gallo",
+  "uk": "галло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "genevieve",
+  "uk": "женев'єва",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gunnar",
+  "uk": "гуннар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guo",
+  "uk": "го",
+  "v": "proper_noun"
+ },
+ {
+  "en": "henrietta",
+  "uk": "генрієтта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kamal",
+  "uk": "камаль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ligand",
+  "uk": "ліганд",
+  "v": "identical",
+  "ce": "ligand",
+  "cu": "ліганд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lila",
+  "uk": "ліля",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lothian",
+  "uk": "лотіан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macroeconomic",
+  "uk": "макроекономічний",
+  "v": "similar",
+  "ce": "macroeconomic",
+  "cu": "макроекономічний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "masquerade",
+  "uk": "маскарад",
+  "v": "identical",
+  "ce": "masquerade",
+  "cu": "маскарад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "materialism",
+  "uk": "матеріалізм",
+  "v": "identical",
+  "ce": "materialism",
+  "cu": "матеріалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "melodrama",
+  "uk": "мелодрама",
+  "v": "identical",
+  "ce": "melodrama",
+  "cu": "мелодрама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "milly",
+  "uk": "міллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "müller",
+  "uk": "мюллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nakamura",
+  "uk": "накамура",
+  "v": "proper_noun"
+ },
+ {
+  "en": "narcissism",
+  "uk": "нарцисизм",
+  "v": "identical",
+  "ce": "narcissism",
+  "cu": "нарцисизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "navarro",
+  "uk": "наварро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "phenotype",
+  "uk": "фенотип",
+  "v": "identical",
+  "ce": "phenotype",
+  "cu": "фенотип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pico",
+  "uk": "піко",
+  "v": "unrelated"
+ },
+ {
+  "en": "plankton",
+  "uk": "планктон",
+  "v": "identical",
+  "ce": "plankton",
+  "cu": "планктон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "prasad",
+  "uk": "прасад",
+  "v": "identical",
+  "ce": "prasad",
+  "cu": "прасад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "quark",
+  "uk": "кварк",
+  "v": "identical",
+  "ce": "quark",
+  "cu": "кварк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": "English quark is also a soft fresh cheese (Ukrainian сир)."
+ },
+ {
+  "en": "samir",
+  "uk": "самір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schiff",
+  "uk": "шифф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "schiller",
+  "uk": "шиллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ska",
+  "uk": "ска",
+  "v": "identical",
+  "ce": "ska",
+  "cu": "ска",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "smog",
+  "uk": "смог",
+  "v": "identical",
+  "ce": "smog",
+  "cu": "смог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stefano",
+  "uk": "стефано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stubbs",
+  "uk": "стаббс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "suffix",
+  "uk": "суфікс",
+  "v": "identical",
+  "ce": "suffix",
+  "cu": "суфікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "swede",
+  "uk": "швед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tremor",
+  "uk": "тремор",
+  "v": "identical",
+  "ce": "tremor",
+  "cu": "тремор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "In Ukrainian a medical term (shaking of hands, body); a small earthquake is поштовх."
+ },
+ {
+  "en": "ulrich",
+  "uk": "ульріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "voltaire",
+  "uk": "вольтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "whyte",
+  "uk": "вайт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wolverhampton",
+  "uk": "вулвергемптон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yokohama",
+  "uk": "йокогама",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yuki",
+  "uk": "юкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "accra",
+  "uk": "аккра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acosta",
+  "uk": "акоста",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acupuncture",
+  "uk": "акупунктура",
+  "v": "similar",
+  "ce": "acupuncture",
+  "cu": "акупунктура",
+  "note": "Ukrainian adds the ending -а."
+ },
+ {
+  "en": "adi",
+  "uk": "аді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "argos",
+  "uk": "аргос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aron",
+  "uk": "аарон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aron",
+  "uk": "арон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "asu",
+  "uk": "асу",
+  "v": "unrelated"
+ },
+ {
+  "en": "barbour",
+  "uk": "барбур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bastille",
+  "uk": "бастилія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bloomfield",
+  "uk": "блумфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bowles",
+  "uk": "боулз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cabrera",
+  "uk": "кабрера",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cadre",
+  "uk": "кадр",
+  "v": "partial_false_friend",
+  "ce": "cadre",
+  "cu": "кадр",
+  "note": "Ukr. кадр mainly = film/photo frame, shot; only the plural кадри = staff, personnel."
+ },
+ {
+  "en": "cadre",
+  "uk": "кадри",
+  "v": "not_lemma",
+  "ce": "cadre",
+  "cu": "кадр",
+  "lv": "partial_false_friend",
+  "note": "Plural form; кадри = staff, personnel, but singular кадр mainly = film/photo frame."
+ },
+ {
+  "en": "canaan",
+  "uk": "ханаан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "canyons",
+  "uk": "каньйони",
+  "v": "not_lemma",
+  "ce": "canyon",
+  "cu": "каньйон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "cleaver",
+  "uk": "клівер",
+  "v": "unrelated"
+ },
+ {
+  "en": "cob",
+  "uk": "коб",
+  "v": "unrelated"
+ },
+ {
+  "en": "connelly",
+  "uk": "коннеллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "covent",
+  "uk": "ковент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "decadent",
+  "uk": "декадент",
+  "v": "identical",
+  "ce": "decadent",
+  "cu": "декадент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art",
+   "people"
+  ],
+  "note": "In Ukrainian only a noun (a decadent person or artist); the adjective is декадентський."
+ },
+ {
+  "en": "gnu",
+  "uk": "гну",
+  "v": "identical",
+  "ce": "gnu",
+  "cu": "гну",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "hajj",
+  "uk": "хадж",
+  "v": "identical",
+  "ce": "hajj",
+  "cu": "хадж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hatfield",
+  "uk": "гетфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hippies",
+  "uk": "хіппі",
+  "v": "not_lemma",
+  "ce": "hippie",
+  "cu": "хіппі",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "Plural form; Ukrainian хіппі is indeclinable (same for one and many)."
+ },
+ {
+  "en": "hobbes",
+  "uk": "гоббс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "impotent",
+  "uk": "імпотентний",
+  "v": "similar",
+  "ce": "impotent",
+  "cu": "імпотентний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "instinctive",
+  "uk": "інстинктивний",
+  "v": "similar",
+  "ce": "instinctive",
+  "cu": "інстинктивний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "instinctive",
+  "uk": "інстинкту",
+  "v": "not_lemma",
+  "ce": "instinct",
+  "cu": "інстинкт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "Genitive of інстинкт; the English is the derived adjective."
+ },
+ {
+  "en": "jimmie",
+  "uk": "джиммі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kabir",
+  "uk": "кабір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "khaki",
+  "uk": "хакі",
+  "v": "identical",
+  "ce": "khaki",
+  "cu": "хакі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": "Indeclinable in Ukrainian; also the colour."
+ }
+]

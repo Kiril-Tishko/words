@@ -1,0 +1,873 @@
+[
+ {
+  "en": "autofocus",
+  "uk": "автофокус",
+  "v": "identical",
+  "ce": "autofocus",
+  "cu": "автофокус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "baghdadi",
+  "uk": "багдаді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baghdadi",
+  "uk": "багдадський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beatriz",
+  "uk": "беатріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boaz",
+  "uk": "боаз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bobbin",
+  "uk": "бобина",
+  "v": "similar",
+  "ce": "bobbin",
+  "cu": "бобіна",
+  "note": "-а added; Ukrainian spelling бобіна"
+ },
+ {
+  "en": "boll",
+  "uk": "болл",
+  "v": "unrelated"
+ },
+ {
+  "en": "boyne",
+  "uk": "бойн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "camacho",
+  "uk": "камачо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "camellia",
+  "uk": "камелія",
+  "v": "identical",
+  "ce": "camellia",
+  "cu": "камелія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "copolymer",
+  "uk": "кополімер",
+  "v": "identical",
+  "ce": "copolymer",
+  "cu": "кополімер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "datum",
+  "uk": "датум",
+  "v": "partial_false_friend",
+  "ce": "datum",
+  "cu": "датум",
+  "note": "uk датум = only a geodetic reference system; 'a piece of data' = дане"
+ },
+ {
+  "en": "delos",
+  "uk": "делос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ekaterina",
+  "uk": "катерина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epr",
+  "uk": "епр",
+  "v": "unrelated"
+ },
+ {
+  "en": "factorial",
+  "uk": "факторіал",
+  "v": "identical",
+  "ce": "factorial",
+  "cu": "факторіал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fanta",
+  "uk": "фанта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "furor",
+  "uk": "фурор",
+  "v": "partial_false_friend",
+  "ce": "furor",
+  "cu": "фурор",
+  "note": "uk фурор = sensational success; en furor = mostly an angry uproar"
+ },
+ {
+  "en": "gaslighting",
+  "uk": "газлайтинг",
+  "v": "identical",
+  "ce": "gaslighting",
+  "cu": "газлайтинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gaspar",
+  "uk": "гаспар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gillan",
+  "uk": "гіллан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goswami",
+  "uk": "госвамі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grinnell",
+  "uk": "ґріннел",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hercule",
+  "uk": "еркюль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hydride",
+  "uk": "гідрид",
+  "v": "identical",
+  "ce": "hydride",
+  "cu": "гідрид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "idi",
+  "uk": "іді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kalahari",
+  "uk": "калахарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karst",
+  "uk": "карст",
+  "v": "identical",
+  "ce": "karst",
+  "cu": "карст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kenan",
+  "uk": "кенан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "legolas",
+  "uk": "леголас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "linder",
+  "uk": "ліндер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "logarithm",
+  "uk": "логаритм",
+  "v": "similar",
+  "ce": "logarithm",
+  "cu": "логарифм",
+  "note": "standard Ukrainian spelling is логарифм (th→ф); логаритм is an old variant"
+ },
+ {
+  "en": "logarithm",
+  "uk": "логарифм",
+  "v": "similar",
+  "ce": "logarithm",
+  "cu": "логарифм",
+  "note": "th→ф"
+ },
+ {
+  "en": "lugano",
+  "uk": "лугано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marrakesh",
+  "uk": "марракеш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mykonos",
+  "uk": "міконос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nasri",
+  "uk": "насрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nevin",
+  "uk": "невін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nicolai",
+  "uk": "ніколай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nuri",
+  "uk": "нурі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ornithology",
+  "uk": "орнітологія",
+  "v": "similar",
+  "ce": "ornithology",
+  "cu": "орнітологія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "paleontologist",
+  "uk": "палеонтологиня",
+  "v": "not_lemma",
+  "ce": "paleontologist",
+  "cu": "палеонтолог",
+  "lv": "similar",
+  "note": "feminine form; lemma drops -ist"
+ },
+ {
+  "en": "paredes",
+  "uk": "паредес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pettit",
+  "uk": "петтіт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "phenomenological",
+  "uk": "феноменологічна",
+  "v": "not_lemma",
+  "ce": "phenomenological",
+  "cu": "феноменологічний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ічний"
+ },
+ {
+  "en": "prion",
+  "uk": "пріон",
+  "v": "identical",
+  "ce": "prion",
+  "cu": "пріон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "qasim",
+  "uk": "касим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ratatouille",
+  "uk": "рататуй",
+  "v": "identical",
+  "ce": "ratatouille",
+  "cu": "рататуй",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rhododendron",
+  "uk": "рододендрон",
+  "v": "identical",
+  "ce": "rhododendron",
+  "cu": "рододендрон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rino",
+  "uk": "ріно",
+  "v": "unrelated"
+ },
+ {
+  "en": "sacral",
+  "uk": "сакральний",
+  "v": "similar",
+  "ce": "sacral",
+  "cu": "сакральний",
+  "note": "adjective ending -ний; uk mainly 'sacred' (of the sacrum = крижовий)"
+ },
+ {
+  "en": "samuelson",
+  "uk": "самуельсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "septuagint",
+  "uk": "септуаґінта",
+  "v": "similar",
+  "ce": "Septuagint",
+  "cu": "Септуагінта",
+  "note": "-а added"
+ },
+ {
+  "en": "shulman",
+  "uk": "шульман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stanislaus",
+  "uk": "станіслав",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stanislaus",
+  "uk": "станіслава",
+  "v": "proper_noun"
+ },
+ {
+  "en": "strabo",
+  "uk": "страбон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stéphane",
+  "uk": "стефан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "talc",
+  "uk": "тальк",
+  "v": "identical",
+  "ce": "talc",
+  "cu": "тальк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "titania",
+  "uk": "титанія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tripura",
+  "uk": "тріпура",
+  "v": "proper_noun"
+ },
+ {
+  "en": "troika",
+  "uk": "тройка",
+  "v": "identical",
+  "ce": "troika",
+  "cu": "тройка",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "transport"
+  ],
+  "note": "The usual Ukrainian word is трійка; тройка is a Russian-style variant."
+ },
+ {
+  "en": "troika",
+  "uk": "трійка",
+  "v": "similar",
+  "ce": "troika",
+  "cu": "трійка",
+  "note": "native Ukrainian form (і for о); also means 'three', grade 3"
+ },
+ {
+  "en": "tula",
+  "uk": "тула",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vasily",
+  "uk": "василь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vitali",
+  "uk": "віталій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wallach",
+  "uk": "валах",
+  "v": "proper_noun"
+ },
+ {
+  "en": "xuan",
+  "uk": "сюань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yaoi",
+  "uk": "яой",
+  "v": "identical",
+  "ce": "yaoi",
+  "cu": "яой",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "yitzhak",
+  "uk": "іцхак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "younis",
+  "uk": "юніс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zaza",
+  "uk": "заза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alanine",
+  "uk": "аланін",
+  "v": "identical",
+  "ce": "alanine",
+  "cu": "аланін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "amalia",
+  "uk": "амалія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anaemia",
+  "uk": "анемія",
+  "v": "identical",
+  "ce": "anemia",
+  "cu": "анемія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "British spelling: anaemia."
+ },
+ {
+  "en": "andrus",
+  "uk": "андрус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anesthesiology",
+  "uk": "анестезіологія",
+  "v": "similar",
+  "ce": "anesthesiology",
+  "cu": "анестезіологія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "antigone",
+  "uk": "антігона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aquamarine",
+  "uk": "аквамарин",
+  "v": "identical",
+  "ce": "aquamarine",
+  "cu": "аквамарин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "As a colour adjective Ukrainian uses аквамариновий."
+ },
+ {
+  "en": "aquamarine",
+  "uk": "аквамаринний",
+  "v": "similar",
+  "ce": "aquamarine",
+  "cu": "аквамаринний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "aquamarine",
+  "uk": "аквамариновий",
+  "v": "similar",
+  "ce": "aquamarine",
+  "cu": "аквамариновий",
+  "note": "adjective ending -овий"
+ },
+ {
+  "en": "atalanta",
+  "uk": "аталанта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "atropine",
+  "uk": "атропін",
+  "v": "identical",
+  "ce": "atropine",
+  "cu": "атропін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "azimuth",
+  "uk": "азимут",
+  "v": "identical",
+  "ce": "azimuth",
+  "cu": "азимут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "balaclava",
+  "uk": "балаклава",
+  "v": "identical",
+  "ce": "balaclava",
+  "cu": "балаклава",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bandicoot",
+  "uk": "бандикут",
+  "v": "identical",
+  "ce": "bandicoot",
+  "cu": "бандикут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "brosnan",
+  "uk": "броснан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buk",
+  "uk": "бук",
+  "v": "unrelated"
+ },
+ {
+  "en": "bukowski",
+  "uk": "буковскі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catapults",
+  "uk": "катапульти",
+  "v": "not_lemma",
+  "ce": "catapult",
+  "cu": "катапульта",
+  "lv": "similar",
+  "note": "plural; lemma adds -а"
+ },
+ {
+  "en": "chorale",
+  "uk": "хорал",
+  "v": "identical",
+  "ce": "chorale",
+  "cu": "хорал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chowdhury",
+  "uk": "чоудхурі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ciro",
+  "uk": "сіро",
+  "v": "unrelated"
+ },
+ {
+  "en": "coburg",
+  "uk": "кобург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cochise",
+  "uk": "кочіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "commutative",
+  "uk": "комутативна",
+  "v": "not_lemma",
+  "ce": "commutative",
+  "cu": "комутативний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ний"
+ },
+ {
+  "en": "copywriter",
+  "uk": "копірайтер",
+  "v": "identical",
+  "ce": "copywriter",
+  "cu": "копірайтер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cosimo",
+  "uk": "козімо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cosmonaut",
+  "uk": "космонавт",
+  "v": "identical",
+  "ce": "cosmonaut",
+  "cu": "космонавт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "science"
+  ],
+  "note": "In Ukrainian the usual word for any space traveller; астронавт is used mainly for US astronauts."
+ },
+ {
+  "en": "costner",
+  "uk": "костнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "couplet",
+  "uk": "куплет",
+  "v": "false_friend",
+  "ce": "couplet",
+  "cu": "куплет",
+  "note": "uk куплет = verse (stanza) of a song; couplet = двовірш"
+ },
+ {
+  "en": "curitiba",
+  "uk": "куритиба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dari",
+  "uk": "дарі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dern",
+  "uk": "дерн",
+  "v": "unrelated"
+ },
+ {
+  "en": "destabilization",
+  "uk": "дестабілізація",
+  "v": "similar",
+  "ce": "destabilization",
+  "cu": "дестабілізація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "diogenes",
+  "uk": "діоген",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dori",
+  "uk": "дорі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dostoevsky",
+  "uk": "достоєвський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duce",
+  "uk": "дуче",
+  "v": "identical",
+  "ce": "duce",
+  "cu": "дуче",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "Mostly the title of Mussolini (Il Duce)."
+ },
+ {
+  "en": "dyck",
+  "uk": "дейк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eko",
+  "uk": "еко",
+  "v": "unrelated"
+ },
+ {
+  "en": "eugenio",
+  "uk": "еудженіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fabrice",
+  "uk": "фабріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "falsification",
+  "uk": "фальсифікація",
+  "v": "similar",
+  "ce": "falsification",
+  "cu": "фальсифікація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "finkelstein",
+  "uk": "фінкельштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "georgy",
+  "uk": "георгій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "giga",
+  "uk": "гіга",
+  "v": "unrelated"
+ },
+ {
+  "en": "hoffa",
+  "uk": "гоффа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "huda",
+  "uk": "худа",
+  "v": "unrelated"
+ },
+ {
+  "en": "hydrophilic",
+  "uk": "гідрофільний",
+  "v": "similar",
+  "ce": "hydrophilic",
+  "cu": "гідрофільний",
+  "note": "adjective ending -ний"
+ }
+]
