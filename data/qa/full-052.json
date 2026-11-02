@@ -1,0 +1,456 @@
+{
+ "delivery": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "a delivery · deliveries",
+  "say": "free delivery · food delivery · pay for delivery",
+  "ex": [
+   "Is delivery free for this order?",
+   "The delivery comes tomorrow morning.",
+   "Can I pay for delivery by card?",
+   "We often order pizza for home delivery."
+  ],
+  "note": ""
+ },
+ "game show": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "a game show · game shows",
+  "say": "on a game show · a game show host",
+  "ex": [
+   "My grandmother watches a game show every evening.",
+   "He won a new car on a TV game show.",
+   "Would you like to be on a game show?",
+   "The game show host asks very easy questions."
+  ],
+  "note": ""
+ },
+ "king-size": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a king-size bed",
+  "ex": [
+   "We need new sheets for our king-size bed.",
+   "Does the hotel room have a king-size bed?",
+   "A king-size bed is too big for this room.",
+   "I bought a king-size pizza for the whole family."
+  ],
+  "note": "Also \"king-sized\". It means very large, most often about beds: \"a king-size bed.\""
+ },
+ "tour manager": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a tour manager · tour managers",
+  "say": "work as a tour manager · the band's tour manager",
+  "ex": [
+   "The band's tour manager books all the hotels.",
+   "Our tour manager meets us at the airport.",
+   "Can I speak to the tour manager, please?",
+   "She works as a tour manager for a rock band."
+  ],
+  "note": "A person who organizes a tour; a person who sells trips is a \"travel agent.\""
+ },
+ "queen-size": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a queen-size bed",
+  "ex": [
+   "Our guest room has a queen-size bed.",
+   "Do these sheets fit a queen-size bed?",
+   "A queen-size bed is smaller than a king-size bed.",
+   "We want a queen-size mattress for our bedroom."
+  ],
+  "note": "Also \"queen-sized\". A queen-size bed is a little smaller than a king-size bed."
+ },
+ "garden center": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a garden center · garden centers",
+  "say": "at the garden center · go to the garden center",
+  "ex": [
+   "We buy flowers and seeds at the garden center.",
+   "Is the garden center open on Sundays?",
+   "The garden center sells small trees and plant pots.",
+   "Let's go to the garden center this weekend."
+  ],
+  "note": "British spelling: \"garden centre.\""
+ },
+ "pet shop": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a pet shop · pet shops",
+  "say": "at the pet shop · go to the pet shop",
+  "ex": [
+   "We buy food for our cat at the pet shop.",
+   "Is there a pet shop near here?",
+   "The pet shop sells fish, birds, and small dogs.",
+   "My daughter wants a hamster from the pet shop."
+  ],
+  "note": "In American English, \"pet store\" is more common."
+ },
+ "laser show": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": true,
+  "gram": "a laser show · laser shows",
+  "say": "watch a laser show · a laser show at the concert",
+  "ex": [
+   "There is a big laser show in the park tonight.",
+   "What time does the laser show start?",
+   "The laser show at the concert was amazing.",
+   "Kids love the laser show at the science museum."
+  ],
+  "note": ""
+ },
+ "world music": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "world music · uncountable",
+  "say": "",
+  "ex": [
+   "This radio station plays a lot of world music.",
+   "Do you know any good world music festivals?",
+   "The shop has a world music section with African songs.",
+   "She sings world music in five different languages."
+  ],
+  "note": "Traditional or folk music from different countries, often outside the US and Europe."
+ },
+ "art space": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "an art space · art spaces",
+  "say": "",
+  "ex": [
+   "The old factory is now an art space for young artists.",
+   "Is the art space open to visitors on Mondays?",
+   "The art space has a new photo exhibition this month.",
+   "Local artists can rent a room in the art space."
+  ],
+  "note": ""
+ },
+ "title track": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a title track · title tracks",
+  "say": "",
+  "ex": [
+   "The title track is my favorite song on the album.",
+   "The album and its title track have the same name.",
+   "Can you play the title track from their new album?",
+   "The band plays the title track at every concert."
+  ],
+  "note": "The song that has the same name as the album."
+ },
+ "sky bar": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a sky bar · sky bars",
+  "say": "",
+  "ex": [
+   "The hotel has a sky bar on the top floor.",
+   "We had drinks at a sky bar with a great view.",
+   "Is the sky bar open to everyone, not just hotel guests?",
+   "You can see the whole city from the sky bar."
+  ],
+  "note": "Often part of a name; \"rooftop bar\" is the more common word."
+ },
+ "acid house": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "acid house · uncountable",
+  "say": "",
+  "ex": [
+   "Acid house became popular in British clubs in the 1980s.",
+   "My dad still listens to old acid house records.",
+   "The DJ played acid house music until three in the morning.",
+   "Do you know any good acid house songs?"
+  ],
+  "note": "A type of electronic dance music from the late 1980s."
+ },
+ "line producer": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a line producer · line producers",
+  "say": "",
+  "ex": [
+   "The line producer plans the budget for the film.",
+   "A line producer makes sure filming stays on schedule.",
+   "She works as a line producer for a TV company.",
+   "Ask the line producer if we can hire more actors."
+  ],
+  "note": "The person who manages the daily work and money of a film or TV show."
+ },
+ "production designer": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a production designer · production designers",
+  "say": "",
+  "ex": [
+   "The production designer chooses how every room in the film looks.",
+   "She works as a production designer for TV shows.",
+   "The production designer won an award for this movie.",
+   "Our production designer built a whole street for the film."
+  ],
+  "note": "The person who creates the look of the sets in a film or TV show."
+ },
+ "progressive house": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "progressive house · uncountable",
+  "say": "",
+  "ex": [
+   "The DJ plays progressive house at the club on Fridays.",
+   "Progressive house songs are often long and build slowly.",
+   "Do you like progressive house or techno more?",
+   "This radio show plays only progressive house and trance."
+  ],
+  "note": ""
+ },
+ "garage rock": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "garage rock · uncountable",
+  "say": "",
+  "ex": [
+   "My brother's band plays loud garage rock in the basement.",
+   "Garage rock songs are usually short, simple, and noisy.",
+   "Is there a good garage rock concert this weekend?",
+   "The radio station plays old garage rock from the 1960s."
+  ],
+  "note": ""
+ },
+ "asset management": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "asset management · uncountable",
+  "say": "",
+  "ex": [
+   "My sister works in asset management at a big bank.",
+   "The company offers asset management for small businesses.",
+   "Good asset management helps you protect your money.",
+   "Do you need a degree for a job in asset management?"
+  ],
+  "note": "Managing investments and property for people or companies."
+ },
+ "casting director": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a casting director · casting directors",
+  "say": "",
+  "ex": [
+   "The casting director chooses actors for the new film.",
+   "Send your photos and a short video to the casting director.",
+   "The casting director wants to see you again tomorrow.",
+   "How did you meet the casting director?"
+  ],
+  "note": ""
+ },
+ "swap party": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a swap party · swap parties",
+  "say": "",
+  "ex": [
+   "Bring your old clothes to our swap party on Saturday.",
+   "At a swap party, people trade things they don't need.",
+   "We are having a book swap party at the library.",
+   "Can I bring my kids' old toys to the swap party?"
+  ],
+  "note": "Usually for clothes; also called a \"clothing swap.\""
+ },
+ "infinity pool": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an infinity pool · infinity pools",
+  "say": "",
+  "ex": [
+   "The hotel has an infinity pool with an ocean view.",
+   "Water from an infinity pool seems to fall off the edge.",
+   "We took photos by the infinity pool at sunset.",
+   "Is the infinity pool on the roof open in winter?"
+  ],
+  "note": "A pool whose edge seems to disappear into the view."
+ },
+ "jump cut": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a jump cut · jump cuts",
+  "say": "",
+  "ex": [
+   "The director uses a jump cut to skip time in the scene.",
+   "Many video bloggers use jump cuts to remove pauses.",
+   "A jump cut can make a video feel fast and exciting.",
+   "How do I add a jump cut in this editing app?"
+  ],
+  "note": ""
+ },
+ "pump track": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a pump track · pump tracks",
+  "say": "",
+  "ex": [
+   "The city built a new pump track for bikes in the park.",
+   "Kids ride their bikes on the pump track after school.",
+   "On a pump track, you move by pushing, not pedaling.",
+   "Is the pump track open to scooters too?"
+  ],
+  "note": "A loop of small hills where you ride a bike without pedaling."
+ },
+ "witch house": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "witch house · uncountable",
+  "say": "",
+  "ex": [
+   "Witch house is a dark kind of electronic music.",
+   "Many witch house songs have slow beats and strange voices.",
+   "He started making witch house music in his bedroom.",
+   "Do you know any good witch house artists?"
+  ],
+  "note": ""
+ },
+ "cloud rap": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "cloud rap · uncountable",
+  "say": "",
+  "ex": [
+   "Cloud rap has soft, dreamy beats and slow lyrics.",
+   "My son listens to cloud rap while he studies.",
+   "This young artist became famous for her cloud rap songs.",
+   "Can you recommend some good cloud rap songs?"
+  ],
+  "note": ""
+ },
+ "minimal techno": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "minimal techno · uncountable",
+  "say": "",
+  "ex": [
+   "The club plays minimal techno every Saturday night.",
+   "Minimal techno uses only a few sounds and repeats them.",
+   "Some people find minimal techno boring, but I love it.",
+   "Do you know any good minimal techno DJs?"
+  ],
+  "note": ""
+ },
+ "detailing": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "detailing · uncountable",
+  "say": "",
+  "ex": [
+   "We take the car for detailing before we sell it.",
+   "Car detailing includes cleaning the seats and polishing the paint.",
+   "How much does full detailing cost for a small car?",
+   "He runs a small car detailing business in his garage."
+  ],
+  "note": "Also the -ing form of \"detail\": \"a report detailing the costs.\""
+ },
+ "smoothie bar": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a smoothie bar · smoothie bars",
+  "say": "",
+  "ex": [
+   "There is a smoothie bar next to the gym.",
+   "I get a banana drink at the smoothie bar every morning.",
+   "Does the smoothie bar have drinks without sugar?",
+   "The new smoothie bar uses only fresh fruit."
+  ],
+  "note": ""
+ },
+ "emo rap": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "emo rap · uncountable",
+  "say": "",
+  "ex": [
+   "Emo rap mixes hip-hop beats with sad, emotional lyrics.",
+   "My teenage son listens to emo rap all the time.",
+   "Many emo rap songs are about loneliness and pain.",
+   "Is emo rap still popular with young people?"
+  ],
+  "note": ""
+ },
+ "valet parking": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "valet parking · uncountable",
+  "say": "",
+  "ex": [
+   "The restaurant offers free valet parking for its guests.",
+   "Is valet parking available at the hotel tonight?",
+   "With valet parking, a worker parks your car for you.",
+   "Valet parking costs twenty dollars a night here."
+  ],
+  "note": "The worker who parks your car is called a \"valet.\""
+ }
+}

@@ -1,0 +1,940 @@
+{
+ "charity": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a charity · charities",
+  "say": "give to charity · for charity · work for a charity",
+  "ex": [
+   "She gives money to a charity every month.",
+   "Do you work for a charity?",
+   "We sell old clothes for charity.",
+   "Which charity helps children in your city?"
+  ],
+  "note": "Countable for an organization (\"a charity\"); uncountable for giving (\"give to charity\")."
+ },
+ "meeting room": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "a meeting room · meeting rooms",
+  "say": "in the meeting room · book a meeting room",
+  "ex": [
+   "Can I book the meeting room for ten o'clock?",
+   "The meeting room on the second floor is free now.",
+   "Please bring your laptop to the meeting room.",
+   "Is there a projector in the small meeting room?"
+  ],
+  "note": ""
+ },
+ "food hall": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a food hall · food halls",
+  "say": "at the food hall · in the food hall",
+  "ex": [
+   "Let's get lunch at the food hall in the mall.",
+   "The food hall has Thai, Italian, and Mexican food.",
+   "Is the food hall open on Sunday evenings?",
+   "We found a free table in the busy food hall."
+  ],
+  "note": ""
+ },
+ "welcome drink": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a welcome drink · welcome drinks",
+  "say": "get a welcome drink · as a welcome drink",
+  "ex": [
+   "Every guest gets a welcome drink at the hotel desk.",
+   "Is the welcome drink free for everyone?",
+   "They served a glass of juice as a welcome drink.",
+   "We had a welcome drink before dinner started."
+  ],
+  "note": ""
+ },
+ "ice tea": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "ice tea · uncountable",
+  "say": "a glass of ice tea · ice tea with lemon",
+  "ex": [
+   "Can I have a large ice tea with lemon, please?",
+   "I always drink ice tea on hot summer days.",
+   "Do you make your ice tea with green tea?",
+   "This ice tea is too sweet for me."
+  ],
+  "note": "In the US people usually say \"iced tea.\""
+ },
+ "task manager": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a task manager · task managers",
+  "say": "use a task manager · add a task to the task manager",
+  "ex": [
+   "I use a task manager to plan my work week.",
+   "Which task manager does your team use for projects?",
+   "Add the new job to the task manager, please.",
+   "My task manager sends me a reminder every morning."
+  ],
+  "note": "Also the Windows program that shows running apps: \"Open Task Manager.\""
+ },
+ "milk bar": {
+  "v": "partial_false_friend",
+  "pm": 0.3,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a milk bar · milk bars",
+  "say": "at the milk bar",
+  "ex": [
+   "We bought two banana milkshakes at the milk bar.",
+   "Is there a milk bar near the beach?",
+   "The old milk bar sold milkshakes and ice cream.",
+   "My grandparents met at a milk bar in 1955."
+  ],
+  "note": "In Australia a \"milk bar\" is a small corner store; in the UK this cafe meaning is old."
+ },
+ "email marketing": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "email marketing · uncountable",
+  "say": "do email marketing · an email marketing campaign",
+  "ex": [
+   "Our shop uses email marketing to tell customers about sales.",
+   "Email marketing is cheaper than ads on television.",
+   "Do you know a good tool for email marketing?",
+   "She has a new job in email marketing."
+  ],
+  "note": ""
+ },
+ "medium rare": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "cook a steak medium rare · a medium-rare steak",
+  "ex": [
+   "I'd like my steak medium rare, please.",
+   "How do you want your burger, medium rare or well done?",
+   "The steak is medium rare and pink in the middle.",
+   "Can you cook the lamb medium rare for me?"
+  ],
+  "note": "Written with a hyphen before a noun: \"a medium-rare steak.\""
+ },
+ "software engineer": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a software engineer · software engineers",
+  "say": "work as a software engineer",
+  "ex": [
+   "My brother works as a software engineer in Kyiv.",
+   "The company needs a software engineer with Python skills.",
+   "How much does a software engineer earn in your country?",
+   "She became a software engineer after studying online."
+  ],
+  "note": ""
+ },
+ "cream cheese": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "cream cheese · uncountable",
+  "say": "a bagel with cream cheese · spread cream cheese on bread",
+  "ex": [
+   "Can I have a bagel with cream cheese, please?",
+   "Spread some cream cheese on the bread first.",
+   "We need cream cheese to make this cake.",
+   "Do you sell low-fat cream cheese here?"
+  ],
+  "note": "Uncountable: some cream cheese (not \"a cream cheese\")."
+ },
+ "juice bar": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "gram": "a juice bar · juice bars",
+  "say": "at the juice bar",
+  "ex": [
+   "There is a new juice bar next to the gym.",
+   "Let's get a fresh orange juice at the juice bar.",
+   "Does the juice bar have any drinks without sugar?",
+   "She works part-time at a juice bar downtown."
+  ],
+  "note": ""
+ },
+ "web designer": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a web designer · web designers",
+  "say": "work as a web designer · hire a web designer",
+  "ex": [
+   "We need a web designer for our new website.",
+   "Can you recommend a good web designer to me?",
+   "The web designer changed the colors on the home page.",
+   "He works from home as a web designer."
+  ],
+  "note": ""
+ },
+ "soft skill": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a soft skill · soft skills",
+  "say": "develop soft skills · good soft skills",
+  "ex": [
+   "Teamwork is an important soft skill at any job.",
+   "Which soft skill do you want to improve this year?",
+   "Listening to people is a soft skill employers value.",
+   "Good communication is a soft skill you can learn."
+  ],
+  "note": "Usually plural: \"soft skills.\""
+ },
+ "drag-and-drop": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "drag-and-drop · uncountable",
+  "say": "drag and drop a file · a drag-and-drop editor",
+  "ex": [
+   "Drag-and-drop makes this app very easy to use.",
+   "You can upload your photos with drag-and-drop.",
+   "Does this editor support drag-and-drop for files?",
+   "The drag-and-drop feature does not work on my phone."
+  ],
+  "note": "As a verb, no hyphens: \"Drag and drop the file here.\""
+ },
+ "mac and cheese": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "mac and cheese · uncountable",
+  "say": "make mac and cheese · a bowl of mac and cheese",
+  "ex": [
+   "My kids want mac and cheese for dinner again.",
+   "Can I get a small mac and cheese, please?",
+   "This restaurant makes mac and cheese with three cheeses.",
+   "Mac and cheese is easy to cook at home."
+  ],
+  "note": "Short for \"macaroni and cheese.\""
+ },
+ "game developer": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a game developer · game developers",
+  "say": "work as a game developer",
+  "ex": [
+   "My son wants to be a game developer.",
+   "The game developer fixed the bug in the new update.",
+   "How many years does it take to become a game developer?",
+   "She works as a game developer at a small studio."
+  ],
+  "note": ""
+ },
+ "protein shake": {
+  "v": "keep",
+  "pm": 0.6,
+  "reg": [],
+  "ns": true,
+  "gram": "a protein shake · protein shakes",
+  "say": "drink a protein shake · make a protein shake",
+  "ex": [
+   "I drink a protein shake after every workout.",
+   "Can I get a chocolate protein shake, please?",
+   "He makes a protein shake with milk and a banana.",
+   "Is there a protein shake without sugar here?"
+  ],
+  "note": ""
+ },
+ "web developer": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": true,
+  "gram": "a web developer · web developers",
+  "say": "work as a web developer",
+  "ex": [
+   "Our company is looking for a web developer.",
+   "The web developer fixed the login page today.",
+   "Do you need a degree to work as a web developer?",
+   "She is a web developer and works from home."
+  ],
+  "note": ""
+ },
+ "sandwich bar": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a sandwich bar · sandwich bars",
+  "say": "at the sandwich bar",
+  "ex": [
+   "Let's buy lunch at the sandwich bar near the office.",
+   "The sandwich bar opens at seven in the morning.",
+   "Does the sandwich bar have anything vegetarian?",
+   "I work at a sandwich bar on weekends."
+  ],
+  "note": "Mostly British; Americans usually say \"sandwich shop.\""
+ },
+ "burger bar": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a burger bar · burger bars",
+  "say": "at the burger bar",
+  "ex": [
+   "We had dinner at a new burger bar downtown.",
+   "Is the burger bar near the station open late?",
+   "The burger bar has great fries and milkshakes.",
+   "Let's meet at the burger bar after the movie."
+  ],
+  "note": "Americans often say \"burger place\" or \"burger joint.\""
+ },
+ "junk food": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "junk food · uncountable",
+  "say": "eat junk food · too much junk food",
+  "ex": [
+   "I try not to eat junk food every day.",
+   "Chips and candy are junk food for kids.",
+   "Why do kids love junk food so much?",
+   "There is too much junk food at this school."
+  ],
+  "note": "Uncountable: a lot of junk food (not \"a junk food\")."
+ },
+ "fish burger": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a fish burger · fish burgers",
+  "say": "order a fish burger",
+  "ex": [
+   "Can I have a fish burger and a salad, please?",
+   "I don't eat meat, so I usually order a fish burger.",
+   "The fish burger comes with fries and tartar sauce.",
+   "Is the fish burger made with fresh fish?"
+  ],
+  "note": ""
+ },
+ "dip": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "a dip · dips",
+  "say": "chips and dip · a dip for vegetables",
+  "ex": [
+   "We had chips and dip at the party.",
+   "Can you make a cheese dip for the vegetables?",
+   "This garlic dip is great with bread.",
+   "Is there a dip that isn't spicy?"
+  ],
+  "note": "Most often \"dip\" means to put something in liquid quickly: \"Dip the bread in the soup.\""
+ },
+ "test case": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a test case · test cases",
+  "say": "",
+  "ex": [
+   "Please write a test case for the new login form.",
+   "This test case checks what happens with a wrong password.",
+   "Did the test case pass after the fix?",
+   "Every test case needs clear steps and an expected result."
+  ],
+  "note": "Also a court case whose result decides later cases."
+ },
+ "money management": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "money management · uncountable",
+  "say": "",
+  "ex": [
+   "Good money management helps you save for a vacation.",
+   "She teaches money management to young people.",
+   "This app makes money management easy for students.",
+   "Money management is the most important skill for traders."
+  ],
+  "note": ""
+ },
+ "project management": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "project management · uncountable",
+  "say": "",
+  "ex": [
+   "She took a course in project management last year.",
+   "We use project management software to plan our tasks.",
+   "Good project management helps teams finish work on time.",
+   "Do you have any experience in project management?"
+  ],
+  "note": ""
+ },
+ "middle management": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "middle management · uncountable",
+  "say": "",
+  "ex": [
+   "Cuts in middle management made some people lose their jobs.",
+   "She works in middle management at a large bank.",
+   "Middle management connects top managers and regular workers.",
+   "Many decisions get stuck in middle management."
+  ],
+  "note": ""
+ },
+ "quick win": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a quick win · quick wins",
+  "say": "",
+  "ex": [
+   "Fixing the slow website is a quick win for us.",
+   "Let's start with a quick win to make the team happy.",
+   "A free delivery offer could be a quick win.",
+   "What is one quick win we can do this week?"
+  ],
+  "note": ""
+ },
+ "middle manager": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a middle manager · middle managers",
+  "say": "",
+  "ex": [
+   "As a middle manager, she leads a team of ten.",
+   "The middle manager reports to the director every week.",
+   "Being a middle manager can be very stressful.",
+   "He became a middle manager last spring."
+  ],
+  "note": ""
+ },
+ "slow food": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "slow food · uncountable",
+  "say": "",
+  "ex": [
+   "Slow food means local, fresh food cooked with care.",
+   "This restaurant follows the ideas of slow food.",
+   "I prefer slow food to fast food.",
+   "The town has a slow food festival every fall."
+  ],
+  "note": ""
+ },
+ "release manager": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a release manager · release managers",
+  "say": "",
+  "ex": [
+   "The release manager decides when the new version goes live.",
+   "Ask the release manager before you change the code.",
+   "Our release manager checks every update before it ships.",
+   "She works as a release manager at a software company."
+  ],
+  "note": ""
+ },
+ "welcome box": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "a welcome box · welcome boxes",
+  "say": "",
+  "ex": [
+   "New employees get a welcome box on their first day.",
+   "The welcome box had a mug, a notebook, and snacks.",
+   "Our hotel puts a welcome box in every room.",
+   "What should we put in the welcome box for clients?"
+  ],
+  "note": ""
+ },
+ "cross-sell": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "The waiter tried to cross-sell dessert with our coffee.",
+   "Banks often cross-sell insurance to their customers.",
+   "We can cross-sell phone cases to people who buy phones.",
+   "How can we cross-sell more products online?"
+  ],
+  "note": "The activity is usually called \"cross-selling.\""
+ },
+ "edge case": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "an edge case · edge cases",
+  "say": "",
+  "ex": [
+   "The app crashes in one rare edge case.",
+   "Did you test the edge case with an empty name?",
+   "An edge case is a rare situation a program must handle.",
+   "This edge case only happens on very old phones."
+  ],
+  "note": ""
+ },
+ "performance marketing": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "performance marketing · uncountable",
+  "say": "",
+  "ex": [
+   "Performance marketing means you pay only for real results.",
+   "She runs performance marketing for an online clothing store.",
+   "Our performance marketing budget grew a lot this year.",
+   "Clicks and sales are key numbers in performance marketing."
+  ],
+  "note": ""
+ },
+ "product-market fit": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "product-market fit · uncountable",
+  "say": "",
+  "ex": [
+   "Our startup needs to find product-market fit first.",
+   "Strong sales show that the app has product-market fit.",
+   "How do you know when you have product-market fit?",
+   "Without product-market fit, it is hard to grow a business."
+  ],
+  "note": ""
+ },
+ "split test": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a split test · split tests",
+  "say": "",
+  "ex": [
+   "We ran a split test on two versions of the page.",
+   "The split test showed that the blue button works better.",
+   "Let's do a split test before we change the email.",
+   "How long should a split test run on our website?"
+  ],
+  "note": "Also called an \"A/B test.\""
+ },
+ "welcome pack": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a welcome pack · welcome packs",
+  "say": "",
+  "ex": [
+   "Every new student gets a welcome pack with a map.",
+   "The hotel welcome pack had coffee and local snacks.",
+   "Did you read the welcome pack from the company?",
+   "The welcome pack explains the rules of the gym."
+  ],
+  "note": "Mostly British; Americans often say \"welcome kit\" or \"welcome packet.\""
+ },
+ "key visual": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a key visual · key visuals",
+  "say": "",
+  "ex": [
+   "The key visual for the campaign is a red balloon.",
+   "The designer showed us three ideas for the key visual.",
+   "We use the same key visual on posters and the website.",
+   "Can you change the colors in the key visual?"
+  ],
+  "note": ""
+ },
+ "hard skill": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a hard skill · hard skills",
+  "say": "",
+  "ex": [
+   "Coding is a hard skill you can learn in a course.",
+   "Speaking a foreign language is a useful hard skill.",
+   "Which hard skill is most important for this job?",
+   "Using spreadsheets is a hard skill many employers want."
+  ],
+  "note": "Usually plural: \"hard skills.\""
+ },
+ "tone of voice": {
+  "v": "partial_false_friend",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Our brand uses a friendly tone of voice in every email.",
+   "The company changed its tone of voice on social media.",
+   "Please follow our tone of voice guide when you write posts.",
+   "A clear tone of voice helps customers trust a brand."
+  ],
+  "note": "Most often it means how a person sounds: \"Her tone of voice was angry.\""
+ },
+ "cake pop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a cake pop · cake pops",
+  "say": "",
+  "ex": [
+   "My daughter wants a pink cake pop for her birthday.",
+   "The coffee shop sells a cake pop for two dollars.",
+   "A cake pop is a small cake on a stick.",
+   "Can I have one chocolate cake pop, please?"
+  ],
+  "note": ""
+ },
+ "comfort food": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "comfort food · uncountable",
+  "say": "",
+  "ex": [
+   "Soup is my favorite comfort food in winter.",
+   "Mashed potatoes are a classic comfort food.",
+   "When I feel sad, I want some comfort food.",
+   "What is your favorite comfort food after work?"
+  ],
+  "note": ""
+ },
+ "landing page": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a landing page · landing pages",
+  "say": "",
+  "ex": [
+   "Our landing page shows the price and a sign-up button.",
+   "Please add a short video to the landing page.",
+   "The ad sends people to a special landing page.",
+   "How many people visited the landing page yesterday?"
+  ],
+  "note": ""
+ },
+ "mining pool": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a mining pool · mining pools",
+  "say": "",
+  "ex": [
+   "Miners join a mining pool to earn coins more often.",
+   "The mining pool shares the rewards between all members.",
+   "Which mining pool has the lowest fees?",
+   "My computer is part of a large mining pool."
+  ],
+  "note": ""
+ },
+ "product designer": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a product designer · product designers",
+  "say": "",
+  "ex": [
+   "The product designer made the app easier to use.",
+   "She works as a product designer at a tech startup.",
+   "Our product designer talks to users every week.",
+   "What does a product designer do all day?"
+  ],
+  "note": ""
+ },
+ "seed round": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a seed round · seed rounds",
+  "say": "",
+  "ex": [
+   "The startup raised one million dollars in its seed round.",
+   "Investors in the seed round get a part of the company.",
+   "We plan to start our seed round next spring.",
+   "How much money did they get in the seed round?"
+  ],
+  "note": ""
+ },
+ "pre-seed": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "The startup is looking for pre-seed funding from friends.",
+   "They raised money in a small pre-seed round.",
+   "Many pre-seed startups have only an idea and a team.",
+   "Is our app ready for a pre-seed investor?"
+  ],
+  "note": "Used before nouns: \"a pre-seed round,\" \"pre-seed funding.\""
+ },
+ "mystery shopping": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "mystery shopping · uncountable",
+  "say": "",
+  "ex": [
+   "Mystery shopping helps stores check their customer service.",
+   "She earns extra money by doing mystery shopping.",
+   "The company uses mystery shopping in all its restaurants.",
+   "Is mystery shopping a real job or a scam?"
+  ],
+  "note": ""
+ },
+ "time tracking": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "time tracking · uncountable",
+  "say": "",
+  "ex": [
+   "Our team uses a simple app for time tracking.",
+   "Time tracking shows how many hours each project takes.",
+   "Do you use time tracking for your freelance work?",
+   "Time tracking helps me see where my day goes."
+  ],
+  "note": ""
+ },
+ "exit interview": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": true,
+  "gram": "an exit interview · exit interviews",
+  "say": "",
+  "ex": [
+   "The manager asked me questions in my exit interview.",
+   "Every worker has an exit interview before leaving the company.",
+   "What questions do they ask in an exit interview?",
+   "HR uses exit interview answers to improve the workplace."
+  ],
+  "note": ""
+ },
+ "joint venture": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "a joint venture · joint ventures",
+  "say": "",
+  "ex": [
+   "The two companies started a joint venture in Poland.",
+   "This hotel is a joint venture between two families.",
+   "A joint venture lets companies share costs and risks.",
+   "Why did they end the joint venture so quickly?"
+  ],
+  "note": ""
+ },
+ "compliance officer": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a compliance officer · compliance officers",
+  "say": "",
+  "ex": [
+   "The compliance officer checks that the bank follows the law.",
+   "Talk to the compliance officer before you sign the contract.",
+   "She works as a compliance officer at a bank.",
+   "Every big company needs a good compliance officer."
+  ],
+  "note": ""
+ },
+ "mobile developer": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a mobile developer · mobile developers",
+  "say": "",
+  "ex": [
+   "We hired a mobile developer to build our app.",
+   "A mobile developer makes apps for phones and tablets.",
+   "She is a mobile developer who builds shopping apps.",
+   "How much does a mobile developer earn here?"
+  ],
+  "note": ""
+ },
+ "deep dive": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a deep dive · deep dives",
+  "say": "",
+  "ex": [
+   "Let's do a deep dive into last month's sales.",
+   "The article is a deep dive into the history of coffee.",
+   "We need a deep dive on why customers leave.",
+   "Tomorrow's meeting is a deep dive on the new budget."
+  ],
+  "note": ""
+ },
+ "code freeze": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a code freeze · code freezes",
+  "say": "",
+  "ex": [
+   "There is a code freeze two days before the release.",
+   "During the code freeze, we only fix serious bugs.",
+   "When does the code freeze start this month?",
+   "Please finish your changes before the code freeze."
+  ],
+  "note": ""
+ },
+ "demo day": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a demo day · demo days",
+  "say": "",
+  "ex": [
+   "Ten startups will show their products on demo day.",
+   "We practiced our pitch for weeks before demo day.",
+   "Many investors come to demo day to find new projects.",
+   "When is demo day for this startup program?"
+  ],
+  "note": ""
+ },
+ "French toast": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "French toast · uncountable",
+  "say": "",
+  "ex": [
+   "I make French toast with eggs, milk, and bread.",
+   "Can I have French toast with berries, please?",
+   "We often eat French toast for Sunday breakfast.",
+   "This cafe serves the best French toast in town."
+  ],
+  "note": "Uncountable: some French toast, two slices of French toast."
+ },
+ "cocktail party": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a cocktail party · cocktail parties",
+  "say": "",
+  "ex": [
+   "We are invited to a cocktail party on Friday.",
+   "What should I wear to a cocktail party?",
+   "The company has a cocktail party for its clients every year.",
+   "At the cocktail party, we talked with people from many countries."
+  ],
+  "note": ""
+ }
+}

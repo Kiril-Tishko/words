@@ -1,0 +1,426 @@
+{
+ "penny": {
+  "ex": [
+   "I save every penny for my trip to London.",
+   "I keep all my pennies in a small jar.",
+   "Do you have a penny? I need exact change.",
+   "This candy costs only a few pennies."
+  ]
+ },
+ "avenue": {
+  "ex": [
+   "The shop is on the main avenue, near the park.",
+   "Is the hotel on this avenue or the next one?",
+   "We live on a busy avenue near the city center.",
+   "Turn left onto the avenue at the next light."
+  ]
+ },
+ "pet-friendly": {
+  "ex": [
+   "Is this hotel pet-friendly? We have a small dog.",
+   "We are looking for a pet-friendly apartment in Kyiv.",
+   "Can I bring my dog? Is this cafe pet-friendly?",
+   "I always book pet-friendly places when I travel."
+  ]
+ },
+ "certificate": {
+  "ex": [
+   "I got a certificate after the English course.",
+   "Do I need a certificate to work as a teacher?",
+   "Please bring your birth certificate and your passport.",
+   "Where can I get a copy of my certificate?"
+  ]
+ },
+ "duke": {
+  "ex": [
+   "I'm reading a book about a duke and his family.",
+   "Is he a real duke or just an actor?",
+   "We visited the old castle where the duke lived.",
+   "The duke and duchess visited our city last year."
+  ]
+ },
+ "athlete": {
+  "ex": [
+   "I want to be a professional athlete one day.",
+   "Are you an athlete? You look very fit.",
+   "What do athletes usually eat before a race?",
+   "My brother is a good athlete and runs every morning."
+  ]
+ },
+ "chaos": {
+  "ex": [
+   "There was total chaos at the airport this morning.",
+   "My kitchen is in chaos after the party.",
+   "Sorry for the chaos, we are moving next week.",
+   "Why is there so much chaos at the station today?"
+  ]
+ },
+ "web": {
+  "ex": [
+   "I found this recipe on the web.",
+   "Can you search the web for cheap flights?",
+   "I read most of my news on the web now.",
+   "Is this information on the web, or only in the book?"
+  ]
+ },
+ "jazz": {
+  "ex": [
+   "My dad loves listening to jazz in the evening.",
+   "They play live jazz in this cafe on Fridays.",
+   "Do you like jazz or rock music more?",
+   "Let's go to the jazz club after dinner."
+  ]
+ },
+ "protest": {
+  "ex": [
+   "I went to a protest in the city center.",
+   "The road is closed because of a protest.",
+   "Is there a protest downtown today? The buses are late.",
+   "Many students joined the protest against the new law."
+  ]
+ },
+ "oxygen": {
+  "ex": [
+   "We need oxygen to breathe and live.",
+   "Is there less oxygen high in the mountains?",
+   "The nurse gave me oxygen through a mask.",
+   "Trees and plants give us oxygen every day."
+  ]
+ },
+ "footage": {
+  "ex": [
+   "Can we check the security camera footage, please?",
+   "I have some great footage from our trip.",
+   "We need more footage for the company video.",
+   "The news showed footage of the storm last night."
+  ]
+ },
+ "motive": {
+  "ex": [
+   "What was your motive for changing jobs?",
+   "I have no hidden motive; I just want to help.",
+   "My main motive for learning English is my job.",
+   "Do you think money was his real motive?"
+  ]
+ },
+ "organ": {
+  "ex": [
+   "I want to be an organ donor.",
+   "The heart is a very important organ.",
+   "Does smoking damage other organs, not only the lungs?",
+   "The doctor said all my organs are healthy."
+  ]
+ },
+ "photo filter": {
+  "ex": [
+   "I don't use a photo filter on my selfies.",
+   "Which photo filter did you use for this picture?",
+   "This photo filter makes the sky look more blue.",
+   "Can you add a black and white photo filter?"
+  ]
+ },
+ "strike": {
+  "ex": [
+   "Is there a train strike tomorrow?",
+   "I can't get to work because of the bus strike.",
+   "The teachers went on strike for better pay.",
+   "We are on strike, so the office is closed."
+  ]
+ },
+ "jet": {
+  "ex": [
+   "Have you ever flown on a private jet?",
+   "I can hear a jet flying over our house.",
+   "I'd love to travel by private jet one day.",
+   "The jet landed safely in the rain."
+  ]
+ },
+ "cycle": {
+  "ex": [
+   "I always use the short cycle for my shirts.",
+   "Which cycle do you use for wool sweaters?",
+   "Can you start the quick cycle on the dishwasher?",
+   "Sleep has several cycles every night."
+  ]
+ },
+ "bureau": {
+  "ex": [
+   "I asked at the travel bureau about cheap tours.",
+   "Where is the tourist information bureau, please?",
+   "Call the bureau for more information.",
+   "The bureau opens at nine in the morning."
+  ]
+ },
+ "throne": {
+  "ex": [
+   "Who will be next on the throne?",
+   "We saw the king's old throne in the museum.",
+   "Can I take a photo of the throne?",
+   "The king sat on his golden throne."
+  ]
+ },
+ "casino": {
+  "ex": [
+   "I lost fifty euros at the casino last night.",
+   "Is there a casino in this hotel?",
+   "Let's not go to the casino tonight.",
+   "My uncle works as a dealer in a casino."
+  ]
+ },
+ "alarm": {
+  "ex": [
+   "The fire alarm is very loud in our building.",
+   "Can you turn off the alarm, please?",
+   "Is that the fire alarm ringing?",
+   "Someone's car alarm woke me up last night."
+  ]
+ },
+ "transport": {
+  "ex": [
+   "Public transport in this city is cheap and fast.",
+   "What transport do you use to get to work?",
+   "Can the hotel help with transport to the airport?",
+   "I usually take public transport to the office."
+  ]
+ },
+ "component": {
+  "ex": [
+   "One component of my computer is broken.",
+   "Where can I buy components for this machine?",
+   "We check every component before we ship it.",
+   "Can you replace the broken component today?"
+  ]
+ },
+ "auction": {
+  "ex": [
+   "We bought our old car at an auction.",
+   "I sold my bike at an online auction.",
+   "How does the auction work on this website?",
+   "The painting sold at auction for a lot of money."
+  ]
+ },
+ "pirate": {
+  "ex": [
+   "My son wants to dress up as a pirate.",
+   "We read a book about pirates and gold.",
+   "Do you like movies about pirates?",
+   "The kids played pirates on the beach."
+  ]
+ },
+ "CD": {
+  "ex": [
+   "I bought a CD of my favorite band.",
+   "Do you still listen to CDs?",
+   "Can you play this CD in the car?",
+   "I still have a lot of old CDs at home."
+  ]
+ },
+ "portrait": {
+  "ex": [
+   "Can you take a portrait of me by the window?",
+   "I want to paint a portrait of my mother.",
+   "The museum has many portraits of old kings.",
+   "Our family portrait hangs in the living room."
+  ]
+ },
+ "fashion photographer": {
+  "ex": [
+   "I want to work as a fashion photographer.",
+   "Anna is a fashion photographer for a magazine.",
+   "Do you know a good fashion photographer in Kyiv?",
+   "We need a fashion photographer for the new catalog."
+  ]
+ },
+ "meter": {
+  "ex": [
+   "My room is about four meters long.",
+   "How many meters of cloth do I need?",
+   "The bus stop is two hundred meters from here.",
+   "Is the pool twenty-five or fifty meters long?"
+  ]
+ },
+ "critic": {
+  "ex": [
+   "I read what the critics say before I watch a movie.",
+   "Do you usually trust what film critics say?",
+   "She works as a food critic for a magazine.",
+   "The critics loved the new film."
+  ]
+ },
+ "rating": {
+  "ex": [
+   "This movie has a very high rating online.",
+   "I always check the ratings before I buy something.",
+   "What rating does this hotel have?",
+   "The hotel got a five-star rating from guests."
+  ]
+ },
+ "scandal": {
+  "ex": [
+   "Did you hear about the scandal at the school?",
+   "I read about the scandal in the news.",
+   "The minister quit after the big scandal.",
+   "Everyone at work is talking about the scandal."
+  ]
+ },
+ "clown": {
+  "ex": [
+   "We hired a clown for her birthday party.",
+   "My son is afraid of clowns.",
+   "Will there be a clown at the party?",
+   "The kids laughed at the funny clown."
+  ]
+ },
+ "luxury": {
+  "ex": [
+   "We stayed in a luxury hotel by the sea.",
+   "A new car is a luxury we can't afford.",
+   "I don't need luxury; I just want a clean room.",
+   "Is this luxury watch really worth the money?"
+  ]
+ },
+ "democrat": {
+  "ex": [
+   "I am a democrat; I believe every vote matters.",
+   "Are you a democrat or a conservative?",
+   "My grandfather was a true democrat all his life.",
+   "A real democrat respects other people's opinions."
+  ]
+ },
+ "paradise": {
+  "ex": [
+   "This small island is a paradise for divers.",
+   "For my kids, this toy store is paradise.",
+   "Is this beach really a paradise, or just good photos?",
+   "We spent a week in paradise by the sea."
+  ]
+ },
+ "epic fail": {
+  "ex": [
+   "My first cake was an epic fail.",
+   "The presentation was an epic fail; nothing worked.",
+   "Did you see that video? What an epic fail!",
+   "I tried to cut my own hair. Epic fail."
+  ]
+ },
+ "poster": {
+  "ex": [
+   "I have a movie poster on my bedroom wall.",
+   "We put up posters for the school concert.",
+   "Can I buy this poster in the museum shop?",
+   "Where did you get that poster?"
+  ]
+ },
+ "comrade": {
+  "ex": [
+   "I met my old army comrades last summer.",
+   "My grandfather often talks about his war comrades.",
+   "We were comrades in the army for two years.",
+   "Did you serve with him? Was he your comrade?"
+  ]
+ },
+ "zombie": {
+  "ex": [
+   "Do you like watching zombie movies at night?",
+   "My son loves zombie video games.",
+   "I dressed as a zombie for the costume party.",
+   "The movie is about zombies in a big city."
+  ]
+ },
+ "trauma": {
+  "ex": [
+   "I had head trauma after a car accident.",
+   "Many children need help after the trauma of war.",
+   "I talk to a therapist about my trauma.",
+   "Does this doctor work with trauma patients?"
+  ]
+ },
+ "humor": {
+  "ex": [
+   "I love your sense of humor.",
+   "My dad has a great sense of humor.",
+   "I don't understand British humor at all.",
+   "Humor helps me deal with stress at work."
+  ]
+ },
+ "investor": {
+  "ex": [
+   "We need an investor for our small business.",
+   "The investors liked our idea very much.",
+   "I have a meeting with two investors today.",
+   "How did you find an investor for your startup?"
+  ]
+ },
+ "professional": {
+  "ex": [
+   "Ask a professional to fix your roof.",
+   "I want a professional to check the wiring.",
+   "This job is for professionals only.",
+   "You need a professional for this, not a friend."
+  ]
+ },
+ "motherfucker": {
+  "ex": [
+   "Never call your boss a motherfucker, even as a joke.",
+   "Motherfucker is one of the rudest words in English.",
+   "Please don't say motherfucker in front of my kids.",
+   "Did he really call you a motherfucker?"
+  ]
+ },
+ "barrier": {
+  "ex": [
+   "The language barrier was hard for me at first.",
+   "Language can be a barrier to finding work.",
+   "Please wait behind the barrier until the gate opens.",
+   "The police put up barriers on the street."
+  ]
+ },
+ "dialogue": {
+  "ex": [
+   "We practiced a short dialogue in English class.",
+   "Can you read the dialogue with me?",
+   "The movie has very funny dialogue.",
+   "Open dialogue between parents and kids is important."
+  ]
+ },
+ "laptop": {
+  "ex": [
+   "I use my laptop for work and school.",
+   "Can I charge my laptop here, please?",
+   "My laptop battery lasts eight hours.",
+   "I left my laptop at the cafe yesterday."
+  ]
+ },
+ "element": {
+  "ex": [
+   "Trust is an important element of any friendship.",
+   "What are the key elements of a good resume?",
+   "Gold is a chemical element with the symbol Au.",
+   "I need to learn all the elements for my chemistry test."
+  ]
+ },
+ "penis": {
+  "ex": [
+   "The penis is part of the male body.",
+   "Wash a baby boy's penis gently with warm water.",
+   "Doctor, I feel pain in my penis.",
+   "Is it normal for a baby's penis to look red?"
+  ]
+ },
+ "raid": {
+  "ex": [
+   "During the air raid, we stayed in the shelter.",
+   "Did you hear the air raid siren last night?",
+   "I couldn't sleep because of the night air raid.",
+   "The police raid on the building was on the news."
+  ]
+ },
+ "radar": {
+  "ex": [
+   "The plane disappeared from the radar.",
+   "Police use radar to catch fast drivers.",
+   "I check the weather radar before I go cycling.",
+   "Is there a speed radar on this road?"
+  ]
+ }
+}

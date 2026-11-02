@@ -1,0 +1,455 @@
+{
+ "spam filter": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a spam filter · spam filters",
+  "say": "",
+  "ex": [
+   "The spam filter put your email in the wrong folder.",
+   "Can you check the spam filter for my message?",
+   "Our new spam filter blocks most fake emails.",
+   "The spam filter caught an important email from my bank."
+  ],
+  "note": ""
+ },
+ "peer-to-peer": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "We share large files over a peer-to-peer network.",
+   "Is this a peer-to-peer payment app?",
+   "Peer-to-peer lending connects people without a bank.",
+   "Many online games use peer-to-peer connections between players."
+  ],
+  "note": "Often shortened to \"P2P\": \"a P2P network.\""
+ },
+ "smash burger": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a smash burger · smash burgers",
+  "say": "",
+  "ex": [
+   "This café makes a great smash burger with cheese.",
+   "Can I get a smash burger with fries, please?",
+   "A smash burger is pressed flat on a hot grill.",
+   "I'd like to try the smash burger at that new place."
+  ],
+  "note": ""
+ },
+ "red velvet": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "red velvet · uncountable",
+  "say": "",
+  "ex": [
+   "Can I have a slice of red velvet, please?",
+   "Red velvet is a red chocolate cake with cream cheese.",
+   "We ordered a red velvet cake for her birthday.",
+   "This bakery sells red velvet cupcakes every Friday."
+  ],
+  "note": "Usually \"red velvet cake\"; \"red velvet\" can also mean red cloth."
+ },
+ "trading bot": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a trading bot · trading bots",
+  "say": "",
+  "ex": [
+   "A trading bot buys and sells crypto automatically.",
+   "Is it safe to use a trading bot for my money?",
+   "My trading bot lost money when prices fell quickly.",
+   "He set up a trading bot to trade at night."
+  ],
+  "note": ""
+ },
+ "sweet chili": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "sweet chili · uncountable",
+  "say": "",
+  "ex": [
+   "Can I have sweet chili sauce with my chicken?",
+   "These potato chips have a sweet chili flavor.",
+   "Sweet chili is great with spring rolls.",
+   "Add some sweet chili to the noodles for more taste."
+  ],
+  "note": "Usually \"sweet chili sauce.\""
+ },
+ "time tracker": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a time tracker · time trackers",
+  "say": "",
+  "ex": [
+   "I use a time tracker to see my working hours.",
+   "Can you start the time tracker before the meeting?",
+   "Our company asks everyone to use a time tracker.",
+   "The time tracker shows I spent three hours on email."
+  ],
+  "note": ""
+ },
+ "bug tracker": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a bug tracker · bug trackers",
+  "say": "",
+  "ex": [
+   "Please add this problem to the bug tracker.",
+   "Our team checks the bug tracker every morning.",
+   "Can you find the issue in the bug tracker?",
+   "The bug tracker shows ten open bugs this week."
+  ],
+  "note": ""
+ },
+ "smart money": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "smart money · uncountable",
+  "say": "",
+  "ex": [
+   "Many traders try to follow the smart money in the market.",
+   "Smart money usually buys when other people are afraid.",
+   "Is the smart money moving into tech stocks now?",
+   "This chart shows where the smart money is going this week."
+  ],
+  "note": "\"The smart money is on X\" also means experts think X will happen."
+ },
+ "user story": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a user story · user stories",
+  "say": "",
+  "ex": [
+   "Each user story describes one thing a user needs.",
+   "Can you write a user story for the login page?",
+   "Our team finished five user stories this week.",
+   "A good user story is short and easy to understand."
+  ],
+  "note": ""
+ },
+ "user flow": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a user flow · user flows",
+  "say": "",
+  "ex": [
+   "The designer drew a user flow for the checkout page.",
+   "Can you show me the user flow for signing up?",
+   "A simple user flow helps people buy things faster.",
+   "We changed the user flow after testing the app."
+  ],
+  "note": ""
+ },
+ "swing trading": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "swing trading · uncountable",
+  "say": "",
+  "ex": [
+   "Swing trading means holding stocks for a few days or weeks.",
+   "Is swing trading better than day trading for beginners?",
+   "She does swing trading in her free time.",
+   "Swing trading needs less time every day than day trading."
+  ],
+  "note": ""
+ },
+ "chuck roll": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a chuck roll · chuck rolls",
+  "say": "",
+  "ex": [
+   "The butcher cut steaks from a large chuck roll.",
+   "Chuck roll is a cheap but tasty cut of beef.",
+   "Can you slow-cook the chuck roll for dinner tonight?",
+   "This restaurant uses chuck roll for its burgers."
+  ],
+  "note": ""
+ },
+ "bail-in": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a bail-in · bail-ins",
+  "say": "",
+  "ex": [
+   "In a bail-in, a bank uses its investors' money to survive.",
+   "The government chose a bail-in instead of a bailout.",
+   "Can a bail-in affect the money in my savings account?",
+   "After the bail-in, some investors lost most of their money."
+  ],
+  "note": "Compare: a \"bailout\" saves a bank with government money."
+ },
+ "free float": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "free float · uncountable",
+  "say": "",
+  "ex": [
+   "The company has a small free float on the stock exchange.",
+   "Free float means shares that the public can buy and sell.",
+   "What is the free float of this company?",
+   "A low free float can make the stock price jump quickly."
+  ],
+  "note": ""
+ },
+ "broker-dealer": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a broker-dealer · broker-dealers",
+  "say": "",
+  "ex": [
+   "A broker-dealer buys and sells stocks for its clients.",
+   "Is this broker-dealer registered with the government?",
+   "She works as an analyst at a large broker-dealer.",
+   "The broker-dealer also trades with its own money."
+  ],
+  "note": ""
+ },
+ "prop trading": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "prop trading · uncountable",
+  "say": "",
+  "ex": [
+   "In prop trading, a firm trades with its own money.",
+   "He left the bank to work in prop trading.",
+   "Is prop trading a good career for young traders?",
+   "Many banks stopped prop trading after the new rules."
+  ],
+  "note": "Short for \"proprietary trading.\""
+ },
+ "pixel perfect": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "informal",
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "The client wants the website to be pixel perfect.",
+   "Is this design pixel perfect on mobile phones too?",
+   "It took hours to make the layout pixel perfect.",
+   "Our designer checks that every page is pixel perfect."
+  ],
+  "note": "Before a noun, use a hyphen: \"a pixel-perfect design.\""
+ },
+ "swing trader": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a swing trader · swing traders",
+  "say": "",
+  "ex": [
+   "A swing trader holds stocks for several days.",
+   "My friend is a swing trader who works from home.",
+   "Can a swing trader make money in a slow market?",
+   "Every swing trader needs a clear plan for each trade."
+  ],
+  "note": ""
+ },
+ "job hopper": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a job hopper · job hoppers",
+  "say": "",
+  "ex": [
+   "Some managers don't want to hire a job hopper.",
+   "He changed jobs five times, so he is a job hopper.",
+   "Are young workers really job hoppers?",
+   "Being a job hopper can help you get a higher salary."
+  ],
+  "note": "Someone who changes jobs very often; it usually sounds negative."
+ },
+ "crypto investor": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a crypto investor · crypto investors",
+  "say": "",
+  "ex": [
+   "Every crypto investor should understand the risks.",
+   "My uncle became a crypto investor last year.",
+   "Is it safe for a crypto investor to keep coins online?",
+   "The price drop worried many crypto investors."
+  ],
+  "note": ""
+ },
+ "crypto trader": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a crypto trader · crypto traders",
+  "say": "",
+  "ex": [
+   "A crypto trader buys and sells coins every day.",
+   "She works from home as a full-time crypto trader.",
+   "Does a crypto trader need to pay taxes?",
+   "The young crypto trader lost a lot of money in one week."
+  ],
+  "note": ""
+ },
+ "avocado toast": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "avocado toast · uncountable",
+  "say": "",
+  "ex": [
+   "I usually have avocado toast for breakfast.",
+   "Can I get avocado toast with an egg, please?",
+   "This café makes really good avocado toast.",
+   "Avocado toast is quick and easy to make at home."
+  ],
+  "note": ""
+ },
+ "scrum master": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a scrum master · scrum masters",
+  "say": "",
+  "ex": [
+   "Our scrum master runs a short meeting every morning.",
+   "The scrum master helps the team solve problems.",
+   "Who is the scrum master on this project?",
+   "She works as a scrum master at a software company."
+  ],
+  "note": ""
+ },
+ "espresso tonic": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "an espresso tonic · espresso tonics",
+  "say": "",
+  "ex": [
+   "An espresso tonic is coffee mixed with tonic water.",
+   "Can I get an espresso tonic with lemon, please?",
+   "I like an espresso tonic on hot summer days.",
+   "This café serves espresso tonic in a tall glass."
+  ],
+  "note": ""
+ },
+ "churn rate": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a churn rate · churn rates",
+  "say": "",
+  "ex": [
+   "Our churn rate went up after the price increase.",
+   "What is the monthly churn rate for this app?",
+   "A low churn rate means customers stay with us.",
+   "We need to lower our churn rate this year."
+  ],
+  "note": ""
+ },
+ "espresso martini": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an espresso martini · espresso martinis",
+  "say": "",
+  "ex": [
+   "An espresso martini is a cocktail with vodka and coffee.",
+   "Can I have an espresso martini, please?",
+   "She ordered an espresso martini after dinner.",
+   "This bar makes the best espresso martini in town."
+  ],
+  "note": ""
+ },
+ "sundae": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a sundae · sundaes",
+  "say": "",
+  "ex": [
+   "Can I have a chocolate sundae, please?",
+   "A sundae is ice cream with sauce and toppings on top.",
+   "The kids shared a big strawberry sundae after lunch.",
+   "We made banana sundaes at home last weekend."
+  ],
+  "note": ""
+ }
+}

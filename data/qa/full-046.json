@@ -1,0 +1,914 @@
+{
+ "online service": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": false,
+  "gram": "an online service · online services",
+  "say": "use an online service",
+  "ex": [
+   "Do you use this online service?",
+   "I pay my phone bill with an online service.",
+   "This online service is free for students.",
+   "Can you help me with this online service?"
+  ],
+  "note": ""
+ },
+ "online course": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "an online course · online courses",
+  "say": "take an online course · sign up for an online course",
+  "ex": [
+   "I take an online course in English.",
+   "Is this online course free?",
+   "My online course starts on Monday.",
+   "Can you send me the online course link?"
+  ],
+  "note": ""
+ },
+ "online radio": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "online radio · uncountable",
+  "say": "listen to online radio · on online radio",
+  "ex": [
+   "I listen to online radio at work.",
+   "Do you like online radio?",
+   "This online radio plays jazz all day.",
+   "Please turn on the online radio."
+  ],
+  "note": ""
+ },
+ "travel agent": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a travel agent · travel agents",
+  "say": "book through a travel agent · ask a travel agent",
+  "ex": [
+   "My travel agent books our hotels.",
+   "Can a travel agent help us?",
+   "I called the travel agent this morning.",
+   "Is your travel agent good?"
+  ],
+  "note": "A travel agent is a person; the company is a \"travel agency.\""
+ },
+ "online shopping": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "online shopping · uncountable",
+  "say": "do online shopping · shop online",
+  "ex": [
+   "I do a lot of online shopping.",
+   "Is online shopping safe?",
+   "Online shopping saves me a lot of time.",
+   "Do you like online shopping?"
+  ],
+  "note": ""
+ },
+ "live concert": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a live concert · live concerts",
+  "say": "go to a live concert · at a live concert",
+  "ex": [
+   "We went to a live concert last night.",
+   "Do you want to see a live concert?",
+   "The live concert starts at eight.",
+   "Tickets for the live concert are expensive."
+  ],
+  "note": ""
+ },
+ "web camera": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a web camera · web cameras",
+  "say": "turn on the web camera · on the web camera",
+  "ex": [
+   "My laptop has a web camera.",
+   "Can you turn on your web camera?",
+   "The web camera does not work.",
+   "I need a new web camera for work."
+  ],
+  "note": "Usually shortened to \"webcam.\""
+ },
+ "game over": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "it's game over · game over for someone",
+  "ex": [
+   "The screen says game over, so I start again.",
+   "If you lose three lives, it's game over.",
+   "We missed the last train, so it was game over.",
+   "Is it game over if I hit the wall?"
+  ],
+  "note": "Also used about real life: \"If we miss the bus, it's game over.\""
+ },
+ "level up": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "level up in a game · level up your skills",
+  "ex": [
+   "Your character can level up after each battle.",
+   "I want to level up my English this year.",
+   "How do I level up faster in this game?",
+   "She took a course to level up her skills."
+  ],
+  "note": "Informal: \"level up your skills\" means get better at something."
+ },
+ "night show": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a night show · night shows",
+  "say": "watch a night show · at the night show",
+  "ex": [
+   "The zoo has a night show with special lights.",
+   "We bought tickets for the night show at the circus.",
+   "Does the night show start at ten?",
+   "The fountain night show is free for everyone."
+  ],
+  "note": "For TV, Americans usually say \"late-night show.\""
+ },
+ "live show": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a live show · live shows",
+  "say": "watch a live show · at a live show",
+  "ex": [
+   "We watched a live show in a small theater.",
+   "The band does a live show every Friday.",
+   "Is this a live show or a recording?",
+   "The TV channel has a live show every morning."
+  ],
+  "note": ""
+ },
+ "must-read": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a must-read · must-reads",
+  "say": "a must-read for someone · a must-read book",
+  "ex": [
+   "This book is a must-read for new parents.",
+   "My teacher says this article is a must-read.",
+   "Can you tell me a must-read for this summer?",
+   "Her new novel is a real must-read."
+  ],
+  "note": "Also \"must-see\" (a film) and \"must-have\" (a thing)."
+ },
+ "house party": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a house party · house parties",
+  "say": "have a house party · at a house party",
+  "ex": [
+   "My friends are having a house party on Saturday.",
+   "We met at a house party last year.",
+   "Can I bring some food to the house party?",
+   "The neighbors called because the house party was loud."
+  ],
+  "note": ""
+ },
+ "home video": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a home video · home videos",
+  "say": "make a home video · in a home video",
+  "ex": [
+   "We watched an old home video of my first birthday.",
+   "My dad made a home video of our trip.",
+   "This home video shows my sister as a baby.",
+   "Can you put this home video on a USB stick?"
+  ],
+  "note": ""
+ },
+ "late show": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a late show · late shows",
+  "say": "watch the late show · on the late show",
+  "ex": [
+   "We bought tickets for the late show at the movie theater.",
+   "My grandma watches the late show on TV every night.",
+   "Is the late show too late for the kids?",
+   "The late show starts at ten thirty."
+  ],
+  "note": ""
+ },
+ "light show": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a light show · light shows",
+  "say": "watch a light show · put on a light show",
+  "ex": [
+   "The city has a light show on New Year's Eve.",
+   "We watched a light show over the river.",
+   "The concert ended with a big light show.",
+   "What time does the light show start tonight?"
+  ],
+  "note": ""
+ },
+ "small talk": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "small talk · uncountable",
+  "say": "make small talk · small talk about the weather",
+  "ex": [
+   "I'm not good at small talk with strangers.",
+   "We made small talk about the weather.",
+   "At work, a little small talk helps people relax.",
+   "Do you like small talk at parties?"
+  ],
+  "note": "Uncountable: make small talk (not \"a small talk\")."
+ },
+ "city break": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a city break · city breaks",
+  "say": "go on a city break · a city break in a place",
+  "ex": [
+   "We're planning a city break in Lviv this spring.",
+   "A weekend city break is cheaper in winter.",
+   "Where should we go for a short city break?",
+   "This hotel offers good deals for a city break."
+  ],
+  "note": "Mostly British; Americans often say \"a weekend getaway.\""
+ },
+ "middle class": {
+  "v": "keep",
+  "pm": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "the middle class",
+  "say": "in the middle class · a middle-class family",
+  "ex": [
+   "Most of my friends are from the middle class.",
+   "The middle class pays a lot of taxes.",
+   "Prices are rising, and the middle class feels it.",
+   "The new government wants to help the middle class."
+  ],
+  "note": "Before a noun, use a hyphen: \"a middle-class family.\""
+ },
+ "media project": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a media project · media projects",
+  "say": "work on a media project · start a media project",
+  "ex": [
+   "Our students are making a media project about the city.",
+   "She works on a media project for young people.",
+   "The media project includes videos and a podcast.",
+   "Can you help me with my media project?"
+  ],
+  "note": ""
+ },
+ "happy hour": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a happy hour · happy hours",
+  "say": "at happy hour · during happy hour",
+  "ex": [
+   "The bar has happy hour from five to seven.",
+   "Drinks are half price during happy hour.",
+   "Let's meet after work for happy hour.",
+   "Is there a happy hour at this restaurant?"
+  ],
+  "note": "Usually without \"a\": \"Let's go at happy hour.\""
+ },
+ "art project": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an art project · art projects",
+  "say": "work on an art project · do an art project",
+  "ex": [
+   "My son needs colored paper for his art project.",
+   "The school art project is about nature.",
+   "We painted the wall as a class art project.",
+   "Can I use these old boxes for my art project?"
+  ],
+  "note": ""
+ },
+ "media player": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a media player · media players",
+  "say": "open a file in a media player · in the media player",
+  "ex": [
+   "Open the video in your media player.",
+   "My laptop has a free media player.",
+   "This media player can play almost any file.",
+   "Which media player do you use on your phone?"
+  ],
+  "note": ""
+ },
+ "ice show": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an ice show · ice shows",
+  "say": "go to an ice show · at an ice show",
+  "ex": [
+   "We took the kids to an ice show.",
+   "The ice show has skaters from many countries.",
+   "Tickets for the ice show sell out fast.",
+   "Is the ice show good for small children?"
+  ],
+  "note": ""
+ },
+ "food tour": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a food tour · food tours",
+  "say": "go on a food tour · book a food tour",
+  "ex": [
+   "We went on a food tour in the old town.",
+   "The food tour includes six local dishes.",
+   "Our guide on the food tour was a chef.",
+   "Can we book a food tour for Saturday?"
+  ],
+  "note": ""
+ },
+ "media content": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "media content · uncountable",
+  "say": "create media content · share media content",
+  "ex": [
+   "The company creates media content for social networks.",
+   "Children see a lot of media content every day.",
+   "She is responsible for all media content on our website.",
+   "Is this media content free to use?"
+  ],
+  "note": ""
+ },
+ "beach party": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a beach party · beach parties",
+  "say": "have a beach party · at a beach party",
+  "ex": [
+   "The hotel has a beach party every Friday night.",
+   "We danced all night at the beach party.",
+   "Bring a towel to the beach party tomorrow.",
+   "Who is coming to the beach party tomorrow?"
+  ],
+  "note": ""
+ },
+ "rock club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a rock club · rock clubs",
+  "say": "at a rock club · play at a rock club",
+  "ex": [
+   "My brother's band plays at a rock club downtown.",
+   "The rock club opens at nine in the evening.",
+   "Is there a good rock club in this city?",
+   "We heard a great new band at the rock club."
+  ],
+  "note": ""
+ },
+ "fashion show": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a fashion show · fashion shows",
+  "say": "at a fashion show · walk in a fashion show",
+  "ex": [
+   "The models are getting ready for the fashion show.",
+   "Our college has a student fashion show every spring.",
+   "She bought a ticket to a fashion show in Paris.",
+   "Can I take photos at the fashion show?"
+  ],
+  "note": ""
+ },
+ "beach club": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a beach club · beach clubs",
+  "say": "at a beach club · go to a beach club",
+  "ex": [
+   "The beach club has chairs, umbrellas, and a pool.",
+   "We spent the whole day at a beach club.",
+   "How much does a day at the beach club cost?",
+   "The beach club plays music until midnight."
+  ],
+  "note": ""
+ },
+ "action camera": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an action camera · action cameras",
+  "say": "film with an action camera · put on an action camera",
+  "ex": [
+   "He films his bike rides with an action camera.",
+   "This action camera works under water too.",
+   "I put my action camera on my helmet.",
+   "Is this action camera good for skiing?"
+  ],
+  "note": ""
+ },
+ "big boss": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a big boss · big bosses",
+  "say": "the big boss · meet the big boss",
+  "ex": [
+   "The big boss is visiting our office tomorrow.",
+   "Only the big boss can say yes to this.",
+   "Everyone gets nervous when the big boss comes in.",
+   "Do you know who the big boss is here?"
+  ],
+  "note": "Usually \"the big boss\": the most important person in a company."
+ },
+ "IT sector": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "the IT sector",
+  "say": "work in the IT sector · jobs in the IT sector",
+  "ex": [
+   "My sister works in the IT sector.",
+   "The IT sector needs more good programmers.",
+   "Salaries in the IT sector are usually high.",
+   "Is it hard to find a job in the IT sector?"
+  ],
+  "note": ""
+ },
+ "bar manager": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a bar manager · bar managers",
+  "say": "work as a bar manager",
+  "ex": [
+   "The bar manager orders all the drinks.",
+   "Please ask the bar manager about the job.",
+   "She worked as a waitress and is now a bar manager.",
+   "The bar manager makes the staff schedule every week."
+  ],
+  "note": ""
+ },
+ "dance battle": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a dance battle · dance battles",
+  "say": "win a dance battle · in a dance battle",
+  "ex": [
+   "Two teams are in a dance battle tonight.",
+   "She won the dance battle with a great move.",
+   "The kids had a dance battle in the living room.",
+   "Do you want to watch the dance battle with me?"
+  ],
+  "note": ""
+ },
+ "beach bar": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a beach bar · beach bars",
+  "say": "at a beach bar",
+  "ex": [
+   "Let's get a cold drink at the beach bar.",
+   "The beach bar is open until sunset.",
+   "We had lunch at a small beach bar.",
+   "Does the beach bar sell food too?"
+  ],
+  "note": ""
+ },
+ "pool party": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a pool party · pool parties",
+  "say": "have a pool party · at a pool party",
+  "ex": [
+   "We are having a pool party for my birthday.",
+   "Bring your swimsuit to the pool party.",
+   "The hotel has a pool party every Saturday.",
+   "Can my little brother come to the pool party?"
+  ],
+  "note": ""
+ },
+ "wine tour": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a wine tour · wine tours",
+  "say": "go on a wine tour · book a wine tour",
+  "ex": [
+   "We went on a wine tour in the hills.",
+   "The wine tour visits three local wineries.",
+   "Is lunch included in the wine tour?",
+   "You need to be an adult to join this wine tour."
+  ],
+  "note": ""
+ },
+ "tank top": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a tank top · tank tops",
+  "say": "wear a tank top · in a tank top",
+  "ex": [
+   "It's too hot, so I'm wearing a tank top.",
+   "She bought a white tank top for the gym.",
+   "Can I wear a tank top to the office?",
+   "This tank top is made of soft cotton."
+  ],
+  "note": "American English; British English often says \"vest.\""
+ },
+ "dog friendly": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a dog-friendly hotel · dog friendly places",
+  "ex": [
+   "We are looking for a dog friendly hotel by the sea.",
+   "Excuse me, is this cafe dog friendly?",
+   "The park is dog friendly, but keep dogs on a leash.",
+   "Many shops in our town are dog friendly now."
+  ],
+  "note": "Usually written with a hyphen before a noun: \"a dog-friendly hotel.\""
+ },
+ "media expert": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a media expert · media experts",
+  "say": "according to a media expert · ask a media expert",
+  "ex": [
+   "A media expert talked about fake news on TV.",
+   "The company hired a media expert to plan its campaign.",
+   "Ask a media expert before you talk to journalists.",
+   "According to one media expert, people read less news now."
+  ],
+  "note": ""
+ },
+ "green flag": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a green flag · green flags",
+  "say": "a green flag in a relationship · a big green flag",
+  "ex": [
+   "He listens to you, and that's a green flag.",
+   "Being kind to waiters is a big green flag.",
+   "What is a green flag in a new friend?",
+   "Honesty is the most important green flag for me."
+  ],
+  "note": "Informal: a good sign about a person; the opposite of a \"red flag.\""
+ },
+ "online format": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an online format · online formats",
+  "say": "in an online format · move to an online format",
+  "ex": [
+   "The meeting will be in an online format this time.",
+   "Many classes moved to an online format.",
+   "Do you prefer the online format or real classes?",
+   "The online format saves us time and money."
+  ],
+  "note": ""
+ },
+ "fitness model": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a fitness model · fitness models",
+  "say": "work as a fitness model",
+  "ex": [
+   "She works as a fitness model for sports clothes.",
+   "The fitness model trains in the gym every day.",
+   "A fitness model needs a healthy diet.",
+   "He wants to become a fitness model one day."
+  ],
+  "note": ""
+ },
+ "fashion designer": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a fashion designer · fashion designers",
+  "say": "work as a fashion designer",
+  "ex": [
+   "My cousin is a young fashion designer in Kyiv.",
+   "The fashion designer showed her new dresses.",
+   "Do you need to study art to be a fashion designer?",
+   "This fashion designer makes clothes from old jeans."
+  ],
+  "note": ""
+ },
+ "monster truck": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a monster truck · monster trucks",
+  "say": "a monster truck show · drive a monster truck",
+  "ex": [
+   "The kids love the monster truck show.",
+   "A monster truck has very big wheels.",
+   "The monster truck drove over five old cars.",
+   "My son wants a toy monster truck for his birthday."
+  ],
+  "note": ""
+ },
+ "resort": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "gram": "a resort · resorts",
+  "say": "stay at a resort · a ski resort · a beach resort",
+  "ex": [
+   "We stayed at a beach resort in Turkey.",
+   "This ski resort is open from December to March.",
+   "The resort has three pools and a spa.",
+   "Is breakfast included at this resort?"
+  ],
+  "note": "Also \"a last resort\": the last thing you can try."
+ },
+ "pet-friendly": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a pet-friendly hotel · pet-friendly apartments",
+  "ex": [
+   "We found a pet-friendly apartment near the park.",
+   "Is this hotel pet-friendly, or should we leave the cat?",
+   "More and more offices are becoming pet-friendly.",
+   "The airline has a pet-friendly policy for small dogs."
+  ],
+  "note": ""
+ },
+ "photo filter": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo filter · photo filters",
+  "say": "use a photo filter · add a photo filter",
+  "ex": [
+   "She uses a photo filter on all her pictures.",
+   "This photo filter makes the colors warmer.",
+   "How do I add a photo filter in this app?",
+   "I don't like this photo filter; it looks fake."
+  ],
+  "note": ""
+ },
+ "fashion photographer": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a fashion photographer · fashion photographers",
+  "say": "work as a fashion photographer",
+  "ex": [
+   "A fashion photographer took pictures of the new collection.",
+   "She works as a fashion photographer for a magazine.",
+   "The fashion photographer needs good light for the shoot.",
+   "How did you become a fashion photographer?"
+  ],
+  "note": ""
+ },
+ "epic fail": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "an epic fail · epic fails",
+  "say": "be an epic fail",
+  "ex": [
+   "My first cake was an epic fail.",
+   "The new app was an epic fail with users.",
+   "Forgetting her birthday was an epic fail.",
+   "Did you see that epic fail in the video?"
+  ],
+  "note": "Slang from the internet: a very big, often funny failure."
+ },
+ "online casino": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "an online casino · online casinos",
+  "say": "play at an online casino",
+  "ex": [
+   "He lost a lot of money at an online casino.",
+   "Playing at an online casino can be dangerous.",
+   "This online casino is not legal in our country.",
+   "Is that online casino safe to use?"
+  ],
+  "note": ""
+ },
+ "cape": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "a cape · capes",
+  "say": "wear a cape · a superhero cape",
+  "ex": [
+   "My son wants a red cape like a superhero.",
+   "She wore a warm wool cape over her dress.",
+   "The magician wore a long black cape.",
+   "Can you make a cape for my costume?"
+  ],
+  "note": "Most often \"cape\" is land that goes into the sea: \"We sailed around the cape.\""
+ },
+ "hop-on hop-off": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "a hop-on hop-off bus · a hop-on hop-off tour",
+  "ex": [
+   "We took a hop-on hop-off bus around the city.",
+   "A hop-on hop-off ticket is good for one day.",
+   "Where does the hop-on hop-off bus stop?",
+   "The hop-on hop-off boat stops at five places."
+  ],
+  "note": "Used for tourist buses or boats: you can get on and off at any stop."
+ },
+ "salad bar": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a salad bar · salad bars",
+  "say": "at the salad bar · go to the salad bar",
+  "ex": [
+   "The restaurant has a big salad bar.",
+   "Take a plate and go to the salad bar.",
+   "The salad bar has fresh vegetables every day.",
+   "Is the salad bar included in the lunch price?"
+  ],
+  "note": ""
+ },
+ "dive center": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a dive center · dive centers",
+  "say": "at a dive center · book a dive at a dive center",
+  "ex": [
+   "We booked two dives at the local dive center.",
+   "The dive center rents masks and fins.",
+   "Is there a dive center near the hotel?",
+   "My friend works as an instructor at a dive center."
+  ],
+  "note": "British spelling: \"dive centre.\""
+ },
+ "art cafe": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "an art cafe · art cafes",
+  "say": "at an art cafe · meet at an art cafe",
+  "ex": [
+   "We drink coffee and look at paintings in the art cafe.",
+   "The art cafe has a new show every month.",
+   "Local artists sell their work in this art cafe.",
+   "Let's meet at the art cafe near the museum."
+  ],
+  "note": ""
+ },
+ "plot twist": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a plot twist · plot twists",
+  "say": "a big plot twist · a plot twist at the end",
+  "ex": [
+   "The movie has a big plot twist at the end.",
+   "I didn't expect that plot twist at all!",
+   "Please don't tell me the plot twist.",
+   "Good writers know how to hide a plot twist."
+  ],
+  "note": ""
+ },
+ "bowling club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a bowling club · bowling clubs",
+  "say": "join a bowling club · at a bowling club",
+  "ex": [
+   "My dad plays every Tuesday at a bowling club.",
+   "Our school bowling club meets after classes.",
+   "Is the bowling club open on Sundays?",
+   "We had a birthday party at the bowling club."
+  ],
+  "note": "A place where you go bowling is usually called a \"bowling alley.\""
+ },
+ "old money": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "old money · uncountable",
+  "say": "",
+  "ex": [
+   "Her family is old money, rich for over a hundred years.",
+   "Old money families often live in big old houses.",
+   "Her style is classic and quiet, like old money.",
+   "New rich people sometimes try to look like old money."
+  ],
+  "note": "Means families who got rich long ago, not old coins."
+ }
+}

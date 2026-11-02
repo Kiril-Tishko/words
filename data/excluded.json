@@ -4683,5 +4683,20 @@
 "en": "photo model",
 "uk": "фотомодель",
 "why": "final expert pass: not_english"
+},
+{
+"en": "stack",
+"uk": "стак",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "milk bar",
+"uk": "мілк-бар",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "tone of voice",
+"uk": "тон оф войс",
+"why": "final expert pass: partial_false_friend"
 }
 ]
