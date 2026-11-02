@@ -4412,6 +4412,19 @@
   "src": "verify-041.json"
  },
  {
+  "en": "boilie",
+  "uk": "бойл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "outdoor2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json"
+ },
+ {
   "en": "bolshevik",
   "uk": "більшовик",
   "pos": "noun",
@@ -20515,6 +20528,19 @@
   "src": "verify-017.json"
  },
  {
+  "en": "media holding",
+  "uk": "медіахолдинг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "compounds2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json"
+ },
+ {
   "en": "median",
   "uk": "медіанний",
   "pos": "",
@@ -25325,6 +25351,19 @@
   "note": "Ukrainian drops the ending -us",
   "checked": 1,
   "src": "verify-055.json"
+ },
+ {
+  "en": "photo camera",
+  "uk": "фотокамера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "compounds2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json"
  },
  {
   "en": "photogenic",
@@ -31627,6 +31666,19 @@
   "note": "",
   "checked": 1,
   "src": "rscan-006.json"
+ },
+ {
+  "en": "sweatshirt",
+  "uk": "світшот",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "compounds2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json"
  },
  {
   "en": "swine",

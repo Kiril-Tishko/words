@@ -104,8 +104,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .back .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .back .pic svg { width: 30px; height: 30px; }
 .back .pic.has { border: 0; }
-.back .pic.emoji { border-color: transparent; background: var(--accent-soft); }
-.back .pic.emoji img { width: 100%; height: 100%; max-width: 168px; max-height: 168px; object-fit: contain; padding: 9%; }
+.back .pic.emoji { position: relative; border-color: transparent; background: var(--accent-soft); }
+.back .pic.emoji img { position: absolute; inset: 0; margin: auto; width: 100%; height: 100%; max-width: 160px; max-height: 160px; object-fit: contain; padding: 8px; }
 .back .id { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
 .back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; flex: 1 0 auto; }
 .back .head { display: flex; align-items: center; gap: 6px; font-family: var(--word); font-weight: 600; font-size: 19px; line-height: 1.2; }

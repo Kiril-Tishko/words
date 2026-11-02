@@ -70,8 +70,8 @@
   "why": "читинг is only game cheats; cheating is mostly списування, шахрайство, зрада."
  },
  "OS": {
-  "v": "false_friend",
-  "why": "ОС is the Ukrainian abbreviation of операційна система, not a borrowing (like PC=ПК)."
+  "v": "not_standard_ukrainian",
+  "why": "ОС is the native abbreviation of операційна система, not a borrowing (like PC, GMO)."
  },
  "deacon": {
   "v": "similar",
@@ -170,5 +170,20 @@
  "narrator": {
   "ns": true,
   "why": "наратор is a rare literary term; the usual Ukrainian word is оповідач."
+ },
+ "workout": {
+  "v": "partial_false_friend",
+  "why": "воркаут is street workout on bars; a workout is mostly тренування (like killer=кілер)."
+ },
+ "publisher": {
+  "s": 20,
+  "ex": [
+   "The game's publisher announced a new release date.",
+   "Which company is the publisher of this game?",
+   "The publisher fixed the bugs in the latest update.",
+   "A music publisher owns the rights to these songs."
+  ],
+  "note": "Most often a company that prints books, newspapers or magazines: \"a book publisher.\"",
+  "why": "паблішер is a game, music or ad publisher; book publisher is видавництво."
  }
 }

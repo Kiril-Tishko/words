@@ -1,0 +1,916 @@
+{
+ "use case": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a use case · use cases",
+  "say": "",
+  "ex": [
+   "Can you give me a simple use case for this app?",
+   "The main use case is booking tables at restaurants.",
+   "We need to write a use case before we start coding.",
+   "This tool has one clear use case: saving time."
+  ],
+  "note": ""
+ },
+ "open world": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "an open world · open worlds",
+  "say": "",
+  "ex": [
+   "I love games with a big open world.",
+   "In an open world, you can go anywhere you want.",
+   "Is the open world in this game fun to explore?",
+   "The open world has forests, cities, and mountains."
+  ],
+  "note": "Often used before a noun: \"an open-world game.\""
+ },
+ "set point": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a set point · set points",
+  "say": "",
+  "ex": [
+   "She saved a set point and won the game.",
+   "He has a set point, and the crowd is quiet.",
+   "They lost the first set after missing three set points.",
+   "It is set point, so the next ball is very important."
+  ],
+  "note": "In tennis and volleyball. In science, \"set point\" also means a target level, like a temperature."
+ },
+ "open call": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "an open call · open calls",
+  "say": "",
+  "ex": [
+   "The theater has an open call for young actors.",
+   "Is the open call for artists still open this week?",
+   "We sent our photos to an open call for a festival.",
+   "The museum announced an open call for new projects."
+  ],
+  "note": ""
+ },
+ "public talk": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a public talk · public talks",
+  "say": "",
+  "ex": [
+   "The writer is giving a public talk at the library.",
+   "Can anyone come to the public talk on Friday?",
+   "The public talk is free, but you need a ticket.",
+   "After the public talk, people asked a lot of questions."
+  ],
+  "note": ""
+ },
+ "match point": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a match point · match points",
+  "say": "",
+  "ex": [
+   "She won the game on her first match point.",
+   "It is match point, and everyone is standing up.",
+   "He saved two match points and won the final.",
+   "On match point, she hit the ball into the net."
+  ],
+  "note": ""
+ },
+ "media center": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a media center · media centers",
+  "say": "",
+  "ex": [
+   "Journalists can work in the media center during the games.",
+   "Where is the media center for the conference?",
+   "Our school media center has computers and lots of books.",
+   "The media center opens at eight in the morning."
+  ],
+  "note": "In US schools, a \"media center\" is often the library."
+ },
+ "data science": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "data science · uncountable",
+  "say": "",
+  "ex": [
+   "She wants to study data science at the university.",
+   "Data science helps companies understand their customers.",
+   "Is there a good online course in data science?",
+   "He got a job in data science last year."
+  ],
+  "note": ""
+ },
+ "press club": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a press club · press clubs",
+  "say": "",
+  "ex": [
+   "The minister will speak at the press club tomorrow.",
+   "Journalists often meet at the press club after work.",
+   "Is the press club open to the public?",
+   "The press club organized a meeting about free media."
+  ],
+  "note": ""
+ },
+ "room tour": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a room tour · room tours",
+  "say": "",
+  "ex": [
+   "She posted a room tour of her new apartment.",
+   "Can you make a room tour video for us?",
+   "I like watching room tours to get ideas for decorating.",
+   "In this room tour, he shows his small bedroom."
+  ],
+  "note": ""
+ },
+ "performance review": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a performance review · performance reviews",
+  "say": "",
+  "ex": [
+   "I have my performance review with my manager on Monday.",
+   "We get a performance review once a year.",
+   "Did your performance review go well?",
+   "After a good performance review, she asked for a raise."
+  ],
+  "note": ""
+ },
+ "community manager": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a community manager · community managers",
+  "say": "",
+  "ex": [
+   "The community manager answers questions from users online.",
+   "Our company is looking for a new community manager.",
+   "Can I talk to the community manager about this problem?",
+   "As a community manager, she works with fans every day."
+  ],
+  "note": ""
+ },
+ "media manager": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a media manager · media managers",
+  "say": "",
+  "ex": [
+   "The media manager posts news on the team's website.",
+   "Our media manager talks to journalists every day.",
+   "Please send your questions to our media manager.",
+   "He works as a media manager for a small theater."
+  ],
+  "note": "Also \"social media manager.\" The word also names software for photos and videos."
+ },
+ "art manager": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "an art manager · art managers",
+  "say": "",
+  "ex": [
+   "The art manager plans all the gallery's shows.",
+   "She works as an art manager at a city museum.",
+   "Can I speak to the art manager about the exhibition?",
+   "Our art manager found new artists for the festival."
+  ],
+  "note": "Also \"arts manager.\" In video games, the art manager leads the artists."
+ },
+ "press officer": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a press officer · press officers",
+  "say": "",
+  "ex": [
+   "The press officer answered questions from the journalists.",
+   "Please contact our press officer for more information.",
+   "The police press officer gave a short statement.",
+   "She works as a press officer for the city hospital."
+  ],
+  "note": "In the US, people also say \"spokesperson\" or \"press secretary.\""
+ },
+ "smart city": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a smart city · smart cities",
+  "say": "",
+  "ex": [
+   "In a smart city, buses use apps and sensors.",
+   "Our town wants to become a smart city.",
+   "Smart city projects can help save energy and time.",
+   "What makes a smart city different from a normal city?"
+  ],
+  "note": ""
+ },
+ "photo model": {
+  "v": "not_english",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo model · photo models",
+  "say": "",
+  "ex": [
+   "She worked as a model for fashion magazines.",
+   "The model posed for photos in the park.",
+   "He wants to become a fashion model one day.",
+   "The models are getting ready for the photo shoot."
+  ],
+  "note": "In English, usually just \"model\" or \"fashion model.\""
+ },
+ "fan meeting": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a fan meeting · fan meetings",
+  "say": "",
+  "ex": [
+   "The band will hold a fan meeting in Kyiv.",
+   "We bought tickets for the fan meeting last week.",
+   "At the fan meeting, the singers played games with fans.",
+   "Is the fan meeting before or after the concert?"
+  ],
+  "note": "Used mostly about K-pop stars; also \"fan meet.\""
+ },
+ "work-life balance": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a work-life balance · no plural",
+  "say": "",
+  "ex": [
+   "I need a better work-life balance this year.",
+   "This company cares about work-life balance.",
+   "How do you keep a good work-life balance?",
+   "Working from home helped my work-life balance a lot."
+  ],
+  "note": ""
+ },
+ "cover dance": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "a cover dance · cover dances",
+  "say": "",
+  "ex": [
+   "We are learning a cover dance to our favorite song.",
+   "Her cover dance video got thousands of views.",
+   "Can we film our cover dance in the park?",
+   "The school club does a cover dance every month."
+  ],
+  "note": "Used mostly about K-pop: fans copy the dance from a music video."
+ },
+ "battle pass": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a battle pass · battle passes",
+  "say": "",
+  "ex": [
+   "I bought the battle pass to get new skins.",
+   "Is the battle pass worth the money this season?",
+   "The new battle pass starts next week.",
+   "You get rewards when you level up your battle pass."
+  ],
+  "note": ""
+ },
+ "high tech": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "high tech · uncountable",
+  "say": "",
+  "ex": [
+   "She wants to find a job in high tech.",
+   "Many young people work in high tech in this city.",
+   "The country is spending more money on high tech.",
+   "Is it hard to start a career in high tech?"
+  ],
+  "note": "Usually an adjective: \"a high-tech phone.\" As a noun, \"tech\" is more common."
+ },
+ "cash and carry": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a cash and carry · cash and carries",
+  "say": "",
+  "ex": [
+   "We buy drinks for the café at a cash and carry.",
+   "Is there a cash and carry near the restaurant?",
+   "Small shops often get their goods from a cash and carry.",
+   "The cash and carry sells food in very large packs."
+  ],
+  "note": "Mostly British. In the US, people usually say \"warehouse store.\""
+ },
+ "cat eye": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a cat eye · cat eyes",
+  "say": "",
+  "ex": [
+   "Can you show me how to do a cat eye?",
+   "She wears a cat eye with red lipstick.",
+   "A cat eye looks great for an evening party.",
+   "I need a thin brush for a perfect cat eye."
+  ],
+  "note": "Often before a noun: \"cat-eye makeup,\" \"cat-eye glasses.\""
+ },
+ "content marketing": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "content marketing · uncountable",
+  "say": "",
+  "ex": [
+   "Our company uses content marketing to find new customers.",
+   "She writes blog posts as part of our content marketing.",
+   "Is content marketing better than paid ads?",
+   "He took an online course in content marketing."
+  ],
+  "note": ""
+ },
+ "beauty box": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a beauty box · beauty boxes",
+  "say": "",
+  "ex": [
+   "I get a beauty box with new products every month.",
+   "Is this beauty box a good gift for my sister?",
+   "The beauty box has a cream, a mask, and lipstick.",
+   "She opens her beauty box in a video every month."
+  ],
+  "note": ""
+ },
+ "friendly fire": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "friendly fire · uncountable",
+  "say": "",
+  "ex": [
+   "Two soldiers were hurt by friendly fire.",
+   "The army said the deaths were caused by friendly fire.",
+   "In this game, friendly fire can hurt your teammates.",
+   "Can I turn off friendly fire in the game settings?"
+  ],
+  "note": "Means shooting at your own side by mistake."
+ },
+ "slow fashion": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "slow fashion · uncountable",
+  "say": "",
+  "ex": [
+   "Slow fashion means buying fewer clothes of better quality.",
+   "She only buys from slow fashion brands now.",
+   "Is slow fashion more expensive than fast fashion?",
+   "This local shop sells slow fashion made by hand."
+  ],
+  "note": ""
+ },
+ "art object": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an art object · art objects",
+  "say": "",
+  "ex": [
+   "The museum has art objects from many countries.",
+   "Please don't touch the art objects in this room.",
+   "This old chair is now an art object.",
+   "They put a large art object in the city park."
+  ],
+  "note": ""
+ },
+ "black tie": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "black tie · uncountable",
+  "say": "",
+  "ex": [
+   "The party is black tie, so I need a suit.",
+   "Do I have to wear black tie to the dinner?",
+   "The invitation says black tie, so wear a tuxedo.",
+   "Men wore black tie, and women wore long dresses."
+  ],
+  "note": "A dress code: \"The dinner is black tie.\" It also means a black bow tie."
+ },
+ "data engineer": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a data engineer · data engineers",
+  "say": "",
+  "ex": [
+   "My brother works as a data engineer at a bank.",
+   "We are hiring a data engineer for our new project.",
+   "What does a data engineer do every day?",
+   "The data engineer built a new system for our reports."
+  ],
+  "note": ""
+ },
+ "split screen": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a split screen · split screens",
+  "say": "",
+  "ex": [
+   "We can play this game in split screen.",
+   "Use split screen to open two apps at once.",
+   "How do I turn on split screen on my phone?",
+   "The news showed both reporters on a split screen."
+  ],
+  "note": ""
+ },
+ "sound engineer": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "a sound engineer · sound engineers",
+  "say": "",
+  "ex": [
+   "The sound engineer checked the microphones before the concert.",
+   "Can the sound engineer make the music a bit louder?",
+   "He works as a sound engineer in a music studio.",
+   "We need a sound engineer for our podcast."
+  ],
+  "note": ""
+ },
+ "press kit": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a press kit · press kits",
+  "say": "",
+  "ex": [
+   "Please send a press kit to the journalists.",
+   "Our press kit has photos, videos, and a short bio.",
+   "Where can I download the band's press kit?",
+   "The company made a new press kit for the launch."
+  ],
+  "note": ""
+ },
+ "hot pot": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a hot pot · hot pots",
+  "say": "",
+  "ex": [
+   "Let's go out for hot pot tonight.",
+   "With hot pot, you cook meat at the table.",
+   "Is the hot pot at this restaurant very spicy?",
+   "We ordered a big hot pot for four people."
+  ],
+  "note": "In British English, \"hotpot\" can also mean a meat and potato stew."
+ },
+ "swing state": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a swing state · swing states",
+  "say": "",
+  "ex": [
+   "Both candidates are visiting the swing states this week.",
+   "The election will be decided in a few swing states.",
+   "Is this state a swing state or not?",
+   "Polls in the swing states are very close."
+  ],
+  "note": "A US state where either main party can win the election."
+ },
+ "fly fishing": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "fly fishing · uncountable",
+  "say": "",
+  "ex": [
+   "My father goes fly fishing every summer.",
+   "Fly fishing is popular on mountain rivers.",
+   "Can you teach me the basics of fly fishing?",
+   "You need a special rod for fly fishing."
+  ],
+  "note": ""
+ },
+ "mini jack": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a mini jack · mini jacks",
+  "say": "",
+  "ex": [
+   "My old headphones have a mini jack.",
+   "Does this laptop have a mini jack for headphones?",
+   "I need a cable with a mini jack at each end.",
+   "Many new phones don't have a mini jack anymore."
+  ],
+  "note": "Usually called a \"headphone jack\" in everyday English."
+ },
+ "life coaching": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "life coaching · uncountable",
+  "say": "",
+  "ex": [
+   "She offers life coaching to people who want to change jobs.",
+   "Life coaching helped me set clear goals.",
+   "How much does one hour of life coaching cost?",
+   "He started a business in life coaching last year."
+  ],
+  "note": ""
+ },
+ "web server": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a web server · web servers",
+  "say": "",
+  "ex": [
+   "Our website runs on a fast web server.",
+   "The web server is down, so the site won't open.",
+   "Can you restart the web server, please?",
+   "We need a new web server for more users."
+  ],
+  "note": ""
+ },
+ "drag show": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a drag show · drag shows",
+  "say": "",
+  "ex": [
+   "We went to a drag show at a small club.",
+   "The drag show starts at nine on Saturday.",
+   "Are tickets for the drag show still available?",
+   "The performers wore bright costumes in the drag show."
+  ],
+  "note": ""
+ },
+ "web resource": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a web resource · web resources",
+  "say": "",
+  "ex": [
+   "This site is a useful web resource for English learners.",
+   "The teacher gave us a list of web resources.",
+   "Can you suggest a good web resource about cooking?",
+   "Our library has many free web resources for students."
+  ],
+  "note": "In everyday English, people often say \"website\" or \"online resource.\""
+ },
+ "brand ambassador": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a brand ambassador · brand ambassadors",
+  "say": "",
+  "ex": [
+   "The famous runner is a brand ambassador for sports shoes.",
+   "She works as a brand ambassador for a coffee company.",
+   "How do you become a brand ambassador?",
+   "Our brand ambassadors post photos of our products online."
+  ],
+  "note": ""
+ },
+ "business casual": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "business casual · uncountable",
+  "say": "",
+  "ex": [
+   "The dress code at our office is business casual.",
+   "Is business casual okay for the job interview?",
+   "For business casual, wear nice pants and a shirt.",
+   "On Fridays, most people come to work in business casual."
+  ],
+  "note": ""
+ },
+ "head chef": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a head chef · head chefs",
+  "say": "",
+  "ex": [
+   "The head chef plans the menu every week.",
+   "Can I talk to the head chef about my allergy?",
+   "She became head chef at a small Italian restaurant.",
+   "The head chef tells the other cooks what to do."
+  ],
+  "note": ""
+ },
+ "power yoga": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "power yoga · uncountable",
+  "say": "",
+  "ex": [
+   "I do power yoga three times a week.",
+   "Power yoga is faster and harder than normal yoga.",
+   "Is there a power yoga class this evening?",
+   "After power yoga, I feel strong and tired."
+  ],
+  "note": ""
+ },
+ "face yoga": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "face yoga · uncountable",
+  "say": "",
+  "ex": [
+   "She does face yoga every morning in front of a mirror.",
+   "Can face yoga really help with wrinkles?",
+   "Face yoga uses exercises for the muscles of the face.",
+   "I watched a short video about face yoga."
+  ],
+  "note": ""
+ },
+ "bug report": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a bug report · bug reports",
+  "say": "",
+  "ex": [
+   "Please send a bug report if the app crashes.",
+   "I wrote a bug report about the broken button.",
+   "Where can I find the form for a bug report?",
+   "The team fixes the bug reports from users every week."
+  ],
+  "note": ""
+ },
+ "content maker": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "a content maker · content makers",
+  "say": "",
+  "ex": [
+   "She works as a content maker for a travel blog.",
+   "Our company needs a content maker for social media.",
+   "Many young content makers film videos on their phones.",
+   "Is it hard to earn money as a content maker?"
+  ],
+  "note": "\"Content creator\" is much more common in English."
+ },
+ "hot yoga": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "hot yoga · uncountable",
+  "say": "",
+  "ex": [
+   "Hot yoga is done in a very warm room.",
+   "Bring a big towel and water to hot yoga.",
+   "Is hot yoga safe if you have heart problems?",
+   "I tried hot yoga for the first time today."
+  ],
+  "note": ""
+ },
+ "slip dress": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a slip dress · slip dresses",
+  "say": "",
+  "ex": [
+   "She wore a silk slip dress to the party.",
+   "Do you have this slip dress in a smaller size?",
+   "A slip dress looks great with a jacket in fall.",
+   "I bought a black slip dress for summer evenings."
+  ],
+  "note": ""
+ },
+ "nail bar": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a nail bar · nail bars",
+  "say": "",
+  "ex": [
+   "I'm getting my nails done at the nail bar.",
+   "Is there a nail bar in this shopping mall?",
+   "The new nail bar near my office is very busy.",
+   "She works at a nail bar on weekends."
+  ],
+  "note": "Mostly British. In the US, people usually say \"nail salon.\""
+ },
+ "smart casual": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "smart casual · uncountable",
+  "say": "",
+  "ex": [
+   "The dress code for the dinner is smart casual.",
+   "Is smart casual okay for an office party?",
+   "For smart casual, wear nice jeans and a shirt.",
+   "Most guests came to the event in smart casual."
+  ],
+  "note": "Common in British English. In the US, \"business casual\" is more usual."
+ },
+ "tier list": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a tier list · tier lists",
+  "say": "",
+  "ex": [
+   "He made a tier list of his favorite pizzas.",
+   "Can you make a tier list of these games?",
+   "In my tier list, this movie is in the top tier.",
+   "Let's watch the new tier list video together."
+  ],
+  "note": ""
+ },
+ "lead vocal": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a lead vocal · lead vocals",
+  "say": "",
+  "ex": [
+   "She sings lead vocals in a rock band.",
+   "Who sings lead vocal on this song?",
+   "He played guitar and sang lead vocals at the concert.",
+   "The drummer also sang lead vocals on two songs."
+  ],
+  "note": "Usually plural: \"She sings lead vocals.\" The person is the \"lead singer.\""
+ },
+ "dive site": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a dive site · dive sites",
+  "say": "",
+  "ex": [
+   "This island has some of the best dive sites.",
+   "How deep is the water at this dive site?",
+   "The boat takes divers to the dive site every morning.",
+   "We saw turtles and colorful fish at the dive site."
+  ],
+  "note": ""
+ },
+ "IT hub": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an IT hub · IT hubs",
+  "say": "",
+  "ex": [
+   "The city wants to become an IT hub.",
+   "Many startups have offices in the new IT hub.",
+   "Is this city a big IT hub in Europe?",
+   "The old factory is now a modern IT hub."
+  ],
+  "note": "\"Tech hub\" is more common in English."
+ },
+ "business trainer": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a business trainer · business trainers",
+  "say": "",
+  "ex": [
+   "The business trainer taught us how to sell better.",
+   "Our company invited a business trainer for a two-day course.",
+   "She works as a business trainer for small companies.",
+   "Can a business trainer help us improve our meetings?"
+  ],
+  "note": "\"Corporate trainer\" or \"business coach\" is more common in English."
+ },
+ "web interface": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a web interface · web interfaces",
+  "say": "",
+  "ex": [
+   "You can change the settings through the web interface.",
+   "Log in to the web interface with your password.",
+   "Does this router have a simple web interface?",
+   "The new web interface is easier to use on a phone."
+  ],
+  "note": ""
+ },
+ "slim fit": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a slim fit · slim fits",
+  "say": "",
+  "ex": [
+   "These jeans come in a slim fit and a regular fit.",
+   "Do you have this shirt in a slim fit?",
+   "A slim fit looks good on tall people.",
+   "I prefer a slim fit for suits."
+  ],
+  "note": "Often before a noun: \"slim-fit jeans.\""
+ }
+}

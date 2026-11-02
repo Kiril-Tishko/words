@@ -3442,6 +3442,107 @@
   "band": "top-3000"
  },
  {
+  "en": "online service",
+  "uk": "онлайн-сервіс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.01,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 793,
+  "band": "top-3000"
+ },
+ {
+  "en": "online course",
+  "uk": "онлайн-курс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.0,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 823,
+  "band": "top-3000"
+ },
+ {
+  "en": "online radio",
+  "uk": "онлайн-радіо",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.79,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1282,
+  "band": "top-3000"
+ },
+ {
+  "en": "travel agent",
+  "uk": "тревел-агент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.59,
+  "list_level": "B1",
+  "level": "B1",
+  "rank": 2001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1892,
+  "band": "top-3000"
+ },
+ {
+  "en": "online shopping",
+  "uk": "онлайн-шопінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.56,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1997,
+  "band": "top-3000"
+ },
+ {
   "en": "champion",
   "uk": "чемпіон",
   "pos": "noun",
@@ -4050,6 +4151,26 @@
   "band": "top-3000"
  },
  {
+  "en": "live concert",
+  "uk": "лайв-концерт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.51,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2197,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2197,
+  "band": "top-3000"
+ },
+ {
   "en": "festival",
   "uk": "фестиваль",
   "pos": "noun",
@@ -4115,6 +4236,26 @@
   "langs": 9,
   "rank_raw": 2051,
   "share": 90.0,
+  "band": "top-3000"
+ },
+ {
+  "en": "web camera",
+  "uk": "вебкамера",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.5,
+  "list_level": null,
+  "level": "B1",
+  "rank": 2230,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2230,
   "band": "top-3000"
  },
  {
@@ -4738,6 +4879,27 @@
   "langs": 9,
   "rank_raw": 2486,
   "share": 98.0,
+  "band": "top-3000"
+ },
+ {
+  "en": "charity",
+  "uk": "чаріті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.45,
+  "list_level": "B1",
+  "level": "B1",
+  "rank": 2524,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 2524,
   "band": "top-3000"
  },
  {
@@ -5433,6 +5595,917 @@
   "band": "top-3000"
  },
  {
+  "en": "game over",
+  "uk": "гейм-овер",
+  "pos": "phrase",
+  "british": false,
+  "labels": [
+   "games",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.56,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 261,
+  "band": "top-5000"
+ },
+ {
+  "en": "level up",
+  "uk": "левел-ап",
+  "pos": "phrase",
+  "british": false,
+  "labels": [
+   "games",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.37,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 391,
+  "band": "top-5000"
+ },
+ {
+  "en": "night show",
+  "uk": "найт-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.34,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 415,
+  "band": "top-5000"
+ },
+ {
+  "en": "live show",
+  "uk": "лайв-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.3,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 440,
+  "band": "top-5000"
+ },
+ {
+  "en": "must-read",
+  "uk": "маст-рід",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.3,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 440,
+  "band": "top-5000"
+ },
+ {
+  "en": "house party",
+  "uk": "хаус-паті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "home",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.29,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 451,
+  "band": "top-5000"
+ },
+ {
+  "en": "home video",
+  "uk": "хоум-відео",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.28,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 460,
+  "band": "top-5000"
+ },
+ {
+  "en": "late show",
+  "uk": "лейт-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.18,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 560,
+  "band": "top-5000"
+ },
+ {
+  "en": "light show",
+  "uk": "лайт-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.17,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 563,
+  "band": "top-5000"
+ },
+ {
+  "en": "small talk",
+  "uk": "смолток",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "language"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "also": [
+   "smalltalk"
+  ],
+  "zipf": 5.16,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 572,
+  "band": "top-5000"
+ },
+ {
+  "en": "city break",
+  "uk": "сіті-брейк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.04,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 733,
+  "band": "top-5000"
+ },
+ {
+  "en": "middle class",
+  "uk": "мідл-клас",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.96,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 892,
+  "band": "top-5000"
+ },
+ {
+  "en": "media project",
+  "uk": "медіапроєкт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.96,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 894,
+  "band": "top-5000"
+ },
+ {
+  "en": "happy hour",
+  "uk": "хепі-ауер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks",
+   "time"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.96,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 899,
+  "band": "top-5000"
+ },
+ {
+  "en": "art project",
+  "uk": "арт-проєкт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.95,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 904,
+  "band": "top-5000"
+ },
+ {
+  "en": "meeting room",
+  "uk": "мітинг-рум",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.95,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 904,
+  "band": "top-5000"
+ },
+ {
+  "en": "media player",
+  "uk": "медіаплеєр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.94,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 931,
+  "band": "top-5000"
+ },
+ {
+  "en": "ice show",
+  "uk": "айс-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.92,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 964,
+  "band": "top-5000"
+ },
+ {
+  "en": "food tour",
+  "uk": "фуд-тур",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.85,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1144,
+  "band": "top-5000"
+ },
+ {
+  "en": "media content",
+  "uk": "медіаконтент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.82,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1210,
+  "band": "top-5000"
+ },
+ {
+  "en": "beach party",
+  "uk": "біч-паті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.82,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1224,
+  "band": "top-5000"
+ },
+ {
+  "en": "rock club",
+  "uk": "рок-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.81,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1250,
+  "band": "top-5000"
+ },
+ {
+  "en": "fashion show",
+  "uk": "фешн-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.76,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1362,
+  "band": "top-5000"
+ },
+ {
+  "en": "food hall",
+  "uk": "фуд-хол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.76,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1385,
+  "band": "top-5000"
+ },
+ {
+  "en": "beach club",
+  "uk": "біч-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.74,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1442,
+  "band": "top-5000"
+ },
+ {
+  "en": "action camera",
+  "uk": "екшн-камера",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.72,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1499,
+  "band": "top-5000"
+ },
+ {
+  "en": "big boss",
+  "uk": "біг-бос",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.71,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1522,
+  "band": "top-5000"
+ },
+ {
+  "en": "IT sector",
+  "uk": "ІТ-сектор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.66,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1680,
+  "band": "top-5000"
+ },
+ {
+  "en": "bar manager",
+  "uk": "бар-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.65,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1691,
+  "band": "top-5000"
+ },
+ {
+  "en": "welcome drink",
+  "uk": "велком-дрінк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.64,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1725,
+  "band": "top-5000"
+ },
+ {
+  "en": "dance battle",
+  "uk": "денс-батл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.63,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1748,
+  "band": "top-5000"
+ },
+ {
+  "en": "beach bar",
+  "uk": "біч-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.63,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1767,
+  "band": "top-5000"
+ },
+ {
+  "en": "pool party",
+  "uk": "пул-паті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.61,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1844,
+  "band": "top-5000"
+ },
+ {
+  "en": "wine tour",
+  "uk": "вайн-тур",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.55,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2051,
+  "band": "top-5000"
+ },
+ {
+  "en": "ice tea",
+  "uk": "айс-ті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.54,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2063,
+  "band": "top-5000"
+ },
+ {
+  "en": "tank top",
+  "uk": "танк-топ",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.53,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2120,
+  "band": "top-5000"
+ },
+ {
+  "en": "dog friendly",
+  "uk": "дог-френдлі",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "informal",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.51,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2184,
+  "band": "top-5000"
+ },
+ {
+  "en": "media expert",
+  "uk": "медіаексперт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.49,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2282,
+  "band": "top-5000"
+ },
+ {
+  "en": "task manager",
+  "uk": "таск-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.48,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2309,
+  "band": "top-5000"
+ },
+ {
+  "en": "milk bar",
+  "uk": "мілк-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.48,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2319,
+  "band": "top-5000"
+ },
+ {
+  "en": "green flag",
+  "uk": "грін флег",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "emotions",
+   "informal",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.47,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2342,
+  "band": "top-5000"
+ },
+ {
+  "en": "email marketing",
+  "uk": "імейл-маркетинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.43,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2521,
+  "band": "top-5000"
+ },
+ {
+  "en": "online format",
+  "uk": "онлайн-формат",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.39,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2687,
+  "band": "top-5000"
+ },
+ {
+  "en": "medium rare",
+  "uk": "медіум-рер",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.38,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2752,
+  "band": "top-5000"
+ },
+ {
   "en": "senate",
   "uk": "сенат",
   "pos": "noun",
@@ -5452,6 +6525,49 @@
   "langs": 3,
   "rank_raw": 3017,
   "share": 100.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "fitness model",
+  "uk": "фітнес-модель",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.32,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3037,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3037,
+  "band": "top-5000"
+ },
+ {
+  "en": "software engineer",
+  "uk": "софтвер-інженер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.31,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3059,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3059,
   "band": "top-5000"
  },
  {
@@ -5719,6 +6835,26 @@
   "langs": 9,
   "rank_raw": 2712,
   "share": 80.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "cream cheese",
+  "uk": "крем-чіз",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.29,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3166,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3166,
   "band": "top-5000"
  },
  {
@@ -5992,6 +7128,27 @@
   "band": "top-5000"
  },
  {
+  "en": "fashion designer",
+  "uk": "фешн-дизайнер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.27,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3260,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3260,
+  "band": "top-5000"
+ },
+ {
   "en": "producer",
   "uk": "продюсер",
   "pos": "noun",
@@ -6191,6 +7348,47 @@
   "band": "top-5000"
  },
  {
+  "en": "juice bar",
+  "uk": "джус-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.26,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3355,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3355,
+  "band": "top-5000"
+ },
+ {
+  "en": "monster truck",
+  "uk": "монстр-трак",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.26,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3355,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3355,
+  "band": "top-5000"
+ },
+ {
   "en": "tourist",
   "uk": "турист",
   "pos": "noun",
@@ -6254,6 +7452,27 @@
   "langs": 9,
   "rank_raw": 2614,
   "share": 70.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "web designer",
+  "uk": "веб-дизайнер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.25,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3394,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3394,
   "band": "top-5000"
  },
  {
@@ -6321,6 +7540,28 @@
   "langs": 9,
   "rank_raw": 3287,
   "share": 95.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "resort",
+  "uk": "резорт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "places",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.37,
+  "list_level": "B1",
+  "level": "B1",
+  "rank": 3420,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 3420,
   "band": "top-5000"
  },
  {
@@ -6526,6 +7767,28 @@
   "band": "top-5000"
  },
  {
+  "en": "pet-friendly",
+  "uk": "пет-френдлі",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "home",
+   "international",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.23,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3485,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3485,
+  "band": "top-5000"
+ },
+ {
   "en": "certificate",
   "uk": "сертифікат",
   "pos": "noun",
@@ -6545,6 +7808,27 @@
   "langs": 9,
   "rank_raw": 3488,
   "share": 100.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "soft skill",
+  "uk": "софт-скіл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.23,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3507,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3507,
   "band": "top-5000"
  },
  {
@@ -6884,6 +8168,28 @@
   "band": "top-5000"
  },
  {
+  "en": "drag-and-drop",
+  "uk": "драг-н-дроп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.21,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3629,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3629,
+  "band": "top-5000"
+ },
+ {
   "en": "opera",
   "uk": "опера",
   "pos": "noun",
@@ -6995,6 +8301,26 @@
   "band": "top-5000"
  },
  {
+  "en": "mac and cheese",
+  "uk": "мак-енд-чіз",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.2,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3662,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3662,
+  "band": "top-5000"
+ },
+ {
   "en": "motor",
   "uk": "мотор",
   "pos": "noun",
@@ -7102,6 +8428,27 @@
   "langs": 9,
   "rank_raw": 3152,
   "share": 80.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "photo filter",
+  "uk": "фотофільтр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.2,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3692,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3692,
   "band": "top-5000"
  },
  {
@@ -7259,6 +8606,28 @@
   "langs": 8,
   "rank_raw": 3626,
   "share": 95.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "game developer",
+  "uk": "гейм-девелопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.19,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3763,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3763,
   "band": "top-5000"
  },
  {
@@ -7525,6 +8894,27 @@
   "langs": 9,
   "rank_raw": 3842,
   "share": 100.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "fashion photographer",
+  "uk": "фешн-фотограф",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.17,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3868,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 3868,
   "band": "top-5000"
  },
  {
@@ -7817,6 +9207,31 @@
   "langs": 9,
   "rank_raw": 3804,
   "share": 95.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "epic fail",
+  "uk": "епік фейл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "media",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "uk_alt": [
+   "епік-фейл"
+  ],
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "B2",
+  "rank": 3939,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3939,
   "band": "top-5000"
  },
  {
@@ -8511,6 +9926,26 @@
   "band": "top-5000"
  },
  {
+  "en": "online casino",
+  "uk": "онлайн-казино",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.12,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4172,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4172,
+  "band": "top-5000"
+ },
+ {
   "en": "laser",
   "uk": "лазер",
   "pos": "noun",
@@ -8552,6 +9987,27 @@
   "langs": 9,
   "rank_raw": 3909,
   "share": 90.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "protein shake",
+  "uk": "протеїн-шейк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.12,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4197,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4197,
   "band": "top-5000"
  },
  {
@@ -8617,6 +10073,27 @@
   "langs": 9,
   "rank_raw": 740,
   "share": 12.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "cape",
+  "uk": "кейп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.3,
+  "list_level": null,
+  "level": "C1",
+  "rank": 4215,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 4215,
   "band": "top-5000"
  },
  {
@@ -8845,6 +10322,27 @@
   "band": "top-5000"
  },
  {
+  "en": "hop-on hop-off",
+  "uk": "хоп-он хоп-оф",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "transport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4375,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4375,
+  "band": "top-5000"
+ },
+ {
   "en": "click",
   "uk": "клік",
   "pos": "noun",
@@ -8886,6 +10384,28 @@
   "langs": 9,
   "rank_raw": 4236,
   "share": 95.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "web developer",
+  "uk": "веб-девелопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4393,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4393,
   "band": "top-5000"
  },
  {
@@ -8933,6 +10453,27 @@
   "band": "top-5000"
  },
  {
+  "en": "salad bar",
+  "uk": "салат-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4412,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4412,
+  "band": "top-5000"
+ },
+ {
   "en": "lifestyle",
   "uk": "лайфстайл",
   "pos": "noun",
@@ -8974,6 +10515,27 @@
   "langs": 9,
   "rank_raw": 4292,
   "share": 95.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "dive center",
+  "uk": "дайв-центр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.08,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4442,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4442,
   "band": "top-5000"
  },
  {
@@ -9150,6 +10712,69 @@
   "langs": 9,
   "rank_raw": 4481,
   "share": 98.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "sandwich bar",
+  "uk": "сендвіч-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.07,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4551,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4551,
+  "band": "top-5000"
+ },
+ {
+  "en": "art cafe",
+  "uk": "арт-кафе",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.06,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4571,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4571,
+  "band": "top-5000"
+ },
+ {
+  "en": "plot twist",
+  "uk": "плот-твіст",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.06,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4571,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4571,
   "band": "top-5000"
  },
  {
@@ -9442,29 +11067,6 @@
   "langs": 9,
   "rank_raw": 4741,
   "share": 100.0,
-  "band": "top-5000"
- },
- {
-  "en": "publisher",
-  "uk": "паблішер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "informal",
-   "international",
-   "media"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 4.13,
-  "list_level": "B1",
-  "level": "B2",
-  "rank": 4762,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 4597,
-  "share": 95.0,
   "band": "top-5000"
  },
  {
@@ -9782,6 +11384,27 @@
   "band": "top-5000"
  },
  {
+  "en": "bowling club",
+  "uk": "боулінг-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.02,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4880,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4880,
+  "band": "top-5000"
+ },
+ {
   "en": "follow-up",
   "uk": "фоловап",
   "pos": "noun",
@@ -9846,6 +11469,27 @@
   "langs": 8,
   "rank_raw": 4852,
   "share": 98.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "burger bar",
+  "uk": "бургер-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.02,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4900,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4900,
   "band": "top-5000"
  },
  {
@@ -9986,6 +11630,26 @@
   "band": "top-5000"
  },
  {
+  "en": "junk food",
+  "uk": "джанк-фуд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.01,
+  "list_level": "B2",
+  "level": "B2",
+  "rank": 4931,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4931,
+  "band": "top-5000"
+ },
+ {
   "en": "verdict",
   "uk": "вердикт",
   "pos": "noun",
@@ -10027,6 +11691,47 @@
   "langs": 9,
   "rank_raw": 4960,
   "share": 100.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "fish burger",
+  "uk": "фіш-бургер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.01,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4962,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4962,
+  "band": "top-5000"
+ },
+ {
+  "en": "dip",
+  "uk": "діп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.05,
+  "list_level": null,
+  "level": "B2",
+  "rank": 4964,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 4964,
   "band": "top-5000"
  },
  {
@@ -10121,6 +11826,733 @@
   "band": "top-5000"
  },
  {
+  "en": "old money",
+  "uk": "олд мані",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.39,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 377,
+  "band": "top-10k"
+ },
+ {
+  "en": "test case",
+  "uk": "тест-кейс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.03,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 751,
+  "band": "top-10k"
+ },
+ {
+  "en": "money management",
+  "uk": "мані-менеджмент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.01,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 793,
+  "band": "top-10k"
+ },
+ {
+  "en": "project management",
+  "uk": "проджект-менеджмент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.87,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1081,
+  "band": "top-10k"
+ },
+ {
+  "en": "middle management",
+  "uk": "мідл-менеджмент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.85,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1132,
+  "band": "top-10k"
+ },
+ {
+  "en": "quick win",
+  "uk": "квік-він",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.84,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1173,
+  "band": "top-10k"
+ },
+ {
+  "en": "middle manager",
+  "uk": "мідл-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.76,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1370,
+  "band": "top-10k"
+ },
+ {
+  "en": "slow food",
+  "uk": "слоу-фуд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.74,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1431,
+  "band": "top-10k"
+ },
+ {
+  "en": "release manager",
+  "uk": "реліз-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.73,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1482,
+  "band": "top-10k"
+ },
+ {
+  "en": "welcome box",
+  "uk": "велком-бокс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.71,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1513,
+  "band": "top-10k"
+ },
+ {
+  "en": "cross-sell",
+  "uk": "крос-сейл",
+  "pos": "verb",
+  "british": false,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.69,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1595,
+  "band": "top-10k"
+ },
+ {
+  "en": "edge case",
+  "uk": "едж-кейс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "slang",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.68,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1625,
+  "band": "top-10k"
+ },
+ {
+  "en": "performance marketing",
+  "uk": "перформанс-маркетинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.63,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1767,
+  "band": "top-10k"
+ },
+ {
+  "en": "product-market fit",
+  "uk": "продакт-маркет-фіт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.56,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2004,
+  "band": "top-10k"
+ },
+ {
+  "en": "split test",
+  "uk": "спліт-тест",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.54,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2074,
+  "band": "top-10k"
+ },
+ {
+  "en": "welcome pack",
+  "uk": "велком-пак",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.49,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2257,
+  "band": "top-10k"
+ },
+ {
+  "en": "key visual",
+  "uk": "кей-візуал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.41,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2626,
+  "band": "top-10k"
+ },
+ {
+  "en": "hard skill",
+  "uk": "хард-скіл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.39,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2735,
+  "band": "top-10k"
+ },
+ {
+  "en": "tone of voice",
+  "uk": "тон оф войс",
+  "pos": "phrase",
+  "british": false,
+  "labels": [
+   "business",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.39,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2735,
+  "band": "top-10k"
+ },
+ {
+  "en": "cake pop",
+  "uk": "кейк-поп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.37,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2822,
+  "band": "top-10k"
+ },
+ {
+  "en": "comfort food",
+  "uk": "комфорт-фуд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.37,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2822,
+  "band": "top-10k"
+ },
+ {
+  "en": "landing page",
+  "uk": "лендінг-пейдж",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.32,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3000,
+  "band": "top-10k"
+ },
+ {
+  "en": "mining pool",
+  "uk": "майнінг-пул",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.31,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3085,
+  "band": "top-10k"
+ },
+ {
+  "en": "product designer",
+  "uk": "продакт-дизайнер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.31,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3093,
+  "band": "top-10k"
+ },
+ {
+  "en": "seed round",
+  "uk": "сід-раунд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.3,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3124,
+  "band": "top-10k"
+ },
+ {
+  "en": "pre-seed",
+  "uk": "пре-сід",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "business",
+   "finance",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.27,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3285,
+  "band": "top-10k"
+ },
+ {
+  "en": "mystery shopping",
+  "uk": "містері-шопінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.25,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3408,
+  "band": "top-10k"
+ },
+ {
+  "en": "time tracking",
+  "uk": "тайм-трекінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.25,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3423,
+  "band": "top-10k"
+ },
+ {
+  "en": "exit interview",
+  "uk": "екзит-інтерв'ю",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.23,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3485,
+  "band": "top-10k"
+ },
+ {
+  "en": "joint venture",
+  "uk": "джойнт-венчур",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.13,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4127,
+  "band": "top-10k"
+ },
+ {
+  "en": "compliance officer",
+  "uk": "комплаєнс-офіцер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.11,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4229,
+  "band": "top-10k"
+ },
+ {
+  "en": "mobile developer",
+  "uk": "мобайл-девелопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "slang",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.11,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4247,
+  "band": "top-10k"
+ },
+ {
+  "en": "deep dive",
+  "uk": "діп-дайв",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.07,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4527,
+  "band": "top-10k"
+ },
+ {
+  "en": "code freeze",
+  "uk": "код-фріз",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "slang",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.06,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4571,
+  "band": "top-10k"
+ },
+ {
+  "en": "demo day",
+  "uk": "демо-дей",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.05,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4669,
+  "band": "top-10k"
+ },
+ {
   "en": "marijuana",
   "uk": "марихуана",
   "pos": "noun",
@@ -10162,6 +12594,26 @@
   "langs": 5,
   "rank_raw": 5020,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "disc golf",
+  "uk": "диск-гольф",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.99,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5069,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5069,
   "band": "top-10k"
  },
  {
@@ -10227,6 +12679,27 @@
   "langs": 9,
   "rank_raw": 1901,
   "share": 25.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "IT cluster",
+  "uk": "ІТ-кластер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.99,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5094,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5094,
   "band": "top-10k"
  },
  {
@@ -10944,6 +13417,28 @@
   "band": "top-10k"
  },
  {
+  "en": "runner",
+  "uk": "ранер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.18,
+  "list_level": "A2",
+  "level": "A2",
+  "rank": 5409,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 5409,
+  "band": "top-10k"
+ },
+ {
   "en": "kidnapping",
   "uk": "кіднепінг",
   "pos": "noun",
@@ -11141,6 +13636,47 @@
   "band": "top-10k"
  },
  {
+  "en": "spa center",
+  "uk": "спа-центр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.94,
+  "list_level": null,
+  "level": "B1",
+  "rank": 5518,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5518,
+  "band": "top-10k"
+ },
+ {
+  "en": "PR specialist",
+  "uk": "піар-спеціаліст",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.93,
+  "list_level": null,
+  "level": "B2",
+  "rank": 5549,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 5549,
+  "band": "top-10k"
+ },
+ {
   "en": "visa",
   "uk": "віза",
   "pos": "noun",
@@ -11160,6 +13696,46 @@
   "langs": 9,
   "rank_raw": 5023,
   "share": 85.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "French toast",
+  "uk": "френч-тост",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.93,
+  "list_level": null,
+  "level": "B2",
+  "rank": 5565,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5565,
+  "band": "top-10k"
+ },
+ {
+  "en": "web portal",
+  "uk": "вебпортал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.93,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5578,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5578,
   "band": "top-10k"
  },
  {
@@ -11316,6 +13892,27 @@
   "langs": 7,
   "rank_raw": 5612,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "vibe check",
+  "uk": "вайб-чек",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.92,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5625,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5625,
   "band": "top-10k"
  },
  {
@@ -11497,6 +14094,69 @@
   "band": "top-10k"
  },
  {
+  "en": "stack",
+  "uk": "стак",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "international",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.05,
+  "list_level": "B2",
+  "level": "C1",
+  "rank": 5710,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 5710,
+  "band": "top-10k"
+ },
+ {
+  "en": "web archive",
+  "uk": "вебархів",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.91,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5715,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5715,
+  "band": "top-10k"
+ },
+ {
+  "en": "business lounge",
+  "uk": "бізнес-лаунж",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.91,
+  "list_level": null,
+  "level": "B2",
+  "rank": 5721,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5721,
+  "band": "top-10k"
+ },
+ {
   "en": "segment",
   "uk": "сегмент",
   "pos": "noun",
@@ -11582,6 +14242,27 @@
   "langs": 9,
   "rank_raw": 5747,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "fitness trainer",
+  "uk": "фітнес-тренер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.91,
+  "list_level": null,
+  "level": "B1",
+  "rank": 5752,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5752,
   "band": "top-10k"
  },
  {
@@ -11805,6 +14486,27 @@
   "langs": 9,
   "rank_raw": 2250,
   "share": 25.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "pop idol",
+  "uk": "поп-ідол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.89,
+  "list_level": null,
+  "level": "B2",
+  "rank": 5887,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5887,
   "band": "top-10k"
  },
  {
@@ -12072,6 +14774,26 @@
   "langs": 9,
   "rank_raw": 5796,
   "share": 95.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "cocktail party",
+  "uk": "коктейль-паті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.88,
+  "list_level": null,
+  "level": "B2",
+  "rank": 6005,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6005,
   "band": "top-10k"
  },
  {
@@ -12385,6 +15107,27 @@
   "band": "top-10k"
  },
  {
+  "en": "fitness instructor",
+  "uk": "фітнес-інструктор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.87,
+  "list_level": null,
+  "level": "B1",
+  "rank": 6114,
+  "rank_est": true,
+  "langs": 3,
+  "rank_raw": 6114,
+  "band": "top-10k"
+ },
+ {
   "en": "monument",
   "uk": "монумент",
   "pos": "noun",
@@ -12470,6 +15213,27 @@
   "langs": 0,
   "rank_raw": 3630,
   "share": 45.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "yoga retreat",
+  "uk": "йога-ретрит",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.86,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6136,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 6136,
   "band": "top-10k"
  },
  {
@@ -12900,6 +15664,49 @@
   "band": "top-10k"
  },
  {
+  "en": "spam filter",
+  "uk": "спам-фільтр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.85,
+  "list_level": null,
+  "level": "B2",
+  "rank": 6268,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6268,
+  "band": "top-10k"
+ },
+ {
+  "en": "sis",
+  "uk": "сіс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "people",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.63,
+  "list_level": null,
+  "level": "B1",
+  "rank": 6272,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 6272,
+  "band": "top-10k"
+ },
+ {
   "en": "harassment",
   "uk": "харасмент",
   "pos": "noun",
@@ -13145,6 +15952,27 @@
   "band": "top-10k"
  },
  {
+  "en": "peer-to-peer",
+  "uk": "пір-ту-пір",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.84,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6352,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6352,
+  "band": "top-10k"
+ },
+ {
   "en": "contrast",
   "uk": "контраст",
   "pos": "noun",
@@ -13251,6 +16079,26 @@
   "langs": 3,
   "rank_raw": 6416,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "web browser",
+  "uk": "веббраузер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.83,
+  "list_level": null,
+  "level": "B2",
+  "rank": 6418,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6418,
   "band": "top-10k"
  },
  {
@@ -13607,29 +16455,6 @@
   "band": "top-10k"
  },
  {
-  "en": "workout",
-  "uk": "воркаут",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "informal",
-   "international",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 4.02,
-  "list_level": "B1",
-  "level": "B1",
-  "rank": 6559,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 6340,
-  "share": 95.0,
-  "band": "top-10k"
- },
- {
   "en": "genre",
   "uk": "жанр",
   "pos": "noun",
@@ -13649,6 +16474,26 @@
   "langs": 8,
   "rank_raw": 6566,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "beauty salon",
+  "uk": "б'юті-салон",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.82,
+  "list_level": null,
+  "level": "B1",
+  "rank": 6566,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6566,
   "band": "top-10k"
  },
  {
@@ -13739,6 +16584,27 @@
   "langs": 9,
   "rank_raw": 6593,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "surf camp",
+  "uk": "серф-кемп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.81,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6620,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6620,
   "band": "top-10k"
  },
  {
@@ -14058,6 +16924,27 @@
   "band": "top-10k"
  },
  {
+  "en": "fashion blogger",
+  "uk": "фешн-блогер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.81,
+  "list_level": null,
+  "level": "B2",
+  "rank": 6681,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6681,
+  "band": "top-10k"
+ },
+ {
   "en": "drill",
   "uk": "дриль",
   "pos": "noun",
@@ -14147,6 +17034,27 @@
   "langs": 9,
   "rank_raw": 4004,
   "share": 45.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "beauty blogger",
+  "uk": "б'юті-блогер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.8,
+  "list_level": null,
+  "level": "B2",
+  "rank": 6754,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6754,
   "band": "top-10k"
  },
  {
@@ -14530,6 +17438,48 @@
   "band": "top-10k"
  },
  {
+  "en": "smash burger",
+  "uk": "смеш-бургер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.78,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6948,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6948,
+  "band": "top-10k"
+ },
+ {
+  "en": "omega-3",
+  "uk": "омега-3",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "international",
+   "science"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.78,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6970,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6970,
+  "band": "top-10k"
+ },
+ {
   "en": "tornado",
   "uk": "торнадо",
   "pos": "noun",
@@ -14549,6 +17499,26 @@
   "langs": 9,
   "rank_raw": 6992,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "gel cream",
+  "uk": "гель-крем",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.77,
+  "list_level": null,
+  "level": "C1",
+  "rank": 6998,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6998,
   "band": "top-10k"
  },
  {
@@ -15022,6 +17992,47 @@
   "langs": 8,
   "rank_raw": 7158,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "red velvet",
+  "uk": "ред-вельвет",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.76,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7161,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7161,
+  "band": "top-10k"
+ },
+ {
+  "en": "trading bot",
+  "uk": "трейдинг-бот",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.76,
+  "list_level": null,
+  "level": "C1",
+  "rank": 7167,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7167,
   "band": "top-10k"
  },
  {
@@ -15694,6 +18705,27 @@
   "band": "top-10k"
  },
  {
+  "en": "fitness blogger",
+  "uk": "фітнес-блогер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.74,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7311,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7311,
+  "band": "top-10k"
+ },
+ {
   "en": "HR",
   "uk": "ейчар",
   "pos": "abbr",
@@ -15939,6 +18971,27 @@
   "band": "top-10k"
  },
  {
+  "en": "offline event",
+  "uk": "офлайн-івент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.72,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7449,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7449,
+  "band": "top-10k"
+ },
+ {
   "en": "slogan",
   "uk": "слоган",
   "pos": "noun",
@@ -16159,6 +19212,27 @@
   "band": "top-10k"
  },
  {
+  "en": "lifestyle blogger",
+  "uk": "лайфстайл-блогер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.72,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7538,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7538,
+  "band": "top-10k"
+ },
+ {
   "en": "sabotage",
   "uk": "саботаж",
   "pos": "noun",
@@ -16334,6 +19408,27 @@
   "band": "top-10k"
  },
  {
+  "en": "selfie stick",
+  "uk": "селфі-стік",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.71,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7611,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7611,
+  "band": "top-10k"
+ },
+ {
   "en": "foul",
   "uk": "фол",
   "pos": "noun",
@@ -16468,6 +19563,48 @@
   "langs": 9,
   "rank_raw": 2651,
   "share": 20.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "sweet chili",
+  "uk": "світ-чилі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.7,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7690,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7690,
+  "band": "top-10k"
+ },
+ {
+  "en": "roster",
+  "uk": "ростер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "international",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "C1",
+  "rank": 7707,
+  "rank_est": false,
+  "langs": 7,
+  "rank_raw": 7707,
   "band": "top-10k"
  },
  {
@@ -16867,6 +20004,27 @@
   "langs": 9,
   "rank_raw": 3642,
   "share": 30.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "eco hotel",
+  "uk": "екоготель",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.69,
+  "list_level": null,
+  "level": "B2",
+  "rank": 7853,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7853,
   "band": "top-10k"
  },
  {
@@ -17514,6 +20672,29 @@
   "langs": 9,
   "rank_raw": 7659,
   "share": 90.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "one-on-one",
+  "uk": "ван-он-ван",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "business",
+   "informal",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 6.1,
+  "list_level": null,
+  "level": "B2",
+  "rank": 8149,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 24935,
+  "books_pm": 1.728,
   "band": "top-10k"
  },
  {
@@ -18522,6 +21703,27 @@
   "band": "top-10k"
  },
  {
+  "en": "time tracker",
+  "uk": "тайм-трекер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.63,
+  "list_level": null,
+  "level": "C1",
+  "rank": 8461,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 8461,
+  "band": "top-10k"
+ },
+ {
   "en": "box office",
   "uk": "бокс-офіс",
   "pos": "noun",
@@ -18904,6 +22106,27 @@
   "band": "top-10k"
  },
  {
+  "en": "fitness bracelet",
+  "uk": "фітнес-браслет",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.62,
+  "list_level": null,
+  "level": "B2",
+  "rank": 8568,
+  "rank_est": true,
+  "langs": 3,
+  "rank_raw": 8568,
+  "band": "top-10k"
+ },
+ {
   "en": "curriculum",
   "uk": "курикулум",
   "pos": "noun",
@@ -19039,6 +22262,26 @@
   "band": "top-10k"
  },
  {
+  "en": "trench coat",
+  "uk": "тренчкот",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.61,
+  "list_level": null,
+  "level": "B2",
+  "rank": 8631,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 8631,
+  "band": "top-10k"
+ },
+ {
   "en": "dock",
   "uk": "док",
   "pos": "noun",
@@ -19147,6 +22390,26 @@
   "langs": 3,
   "rank_raw": 8652,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "spa salon",
+  "uk": "спа-салон",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.61,
+  "list_level": null,
+  "level": "B2",
+  "rank": 8653,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 8653,
   "band": "top-10k"
  },
  {
@@ -20174,6 +23437,27 @@
   "band": "top-10k"
  },
  {
+  "en": "sushi chef",
+  "uk": "суші-шеф",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.57,
+  "list_level": null,
+  "level": "C1",
+  "rank": 9150,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 9150,
+  "band": "top-10k"
+ },
+ {
   "en": "psychopath",
   "uk": "психопат",
   "pos": "noun",
@@ -20487,6 +23771,26 @@
   "langs": 9,
   "rank_raw": 1321,
   "books_pm": 3.331,
+  "band": "top-10k"
+ },
+ {
+  "en": "wellness center",
+  "uk": "велнес-центр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.56,
+  "list_level": null,
+  "level": "B2",
+  "rank": 9288,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 9288,
   "band": "top-10k"
  },
  {
@@ -20858,6 +24162,26 @@
   "langs": 9,
   "rank_raw": 4515,
   "share": 30.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "online calculator",
+  "uk": "онлайн-калькулятор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.55,
+  "list_level": null,
+  "level": "B1",
+  "rank": 9414,
+  "rank_est": true,
+  "langs": 5,
+  "rank_raw": 9414,
   "band": "top-10k"
  },
  {
@@ -21661,6 +24985,48 @@
   "band": "top-10k"
  },
  {
+  "en": "bug tracker",
+  "uk": "баг-трекер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.53,
+  "list_level": null,
+  "level": "C1",
+  "rank": 9737,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 9737,
+  "band": "top-10k"
+ },
+ {
+  "en": "kite camp",
+  "uk": "кайт-кемп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.53,
+  "list_level": null,
+  "level": "C1",
+  "rank": 9737,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 9737,
+  "band": "top-10k"
+ },
+ {
   "en": "assist",
   "uk": "асист",
   "pos": "noun",
@@ -21878,6 +25244,27 @@
   "langs": 9,
   "rank_raw": 8000,
   "share": 70.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "HP",
+  "uk": "ХП",
+  "pos": "abbr",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "games"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.13,
+  "list_level": null,
+  "level": "C1",
+  "rank": 9853,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 9853,
   "band": "top-10k"
  },
  {
@@ -22354,6 +25741,744 @@
   "rank_raw": 9731,
   "share": 95.0,
   "band": "top-10k"
+ },
+ {
+  "en": "early game",
+  "uk": "ерлі-гейм",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.25,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 486,
+  "band": "top-20k"
+ },
+ {
+  "en": "late game",
+  "uk": "лейт-гейм",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.19,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 551,
+  "band": "top-20k"
+ },
+ {
+  "en": "total look",
+  "uk": "тотал-лук",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.11,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 628,
+  "band": "top-20k"
+ },
+ {
+  "en": "level design",
+  "uk": "левел-дизайн",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.97,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 872,
+  "band": "top-20k"
+ },
+ {
+  "en": "fan service",
+  "uk": "фансервіс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "also": [
+   "fanservice"
+  ],
+  "zipf": 4.82,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1224,
+  "band": "top-20k"
+ },
+ {
+  "en": "press wall",
+  "uk": "прес-вол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.8,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1274,
+  "band": "top-20k"
+ },
+ {
+  "en": "smart money",
+  "uk": "смарт-мані",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.77,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1352,
+  "band": "top-20k"
+ },
+ {
+  "en": "drop rate",
+  "uk": "дроп-рейт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.76,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1385,
+  "band": "top-20k"
+ },
+ {
+  "en": "art pop",
+  "uk": "арт-поп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.73,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1463,
+  "band": "top-20k"
+ },
+ {
+  "en": "tech house",
+  "uk": "тек-хаус",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.65,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1701,
+  "band": "top-20k"
+ },
+ {
+  "en": "user story",
+  "uk": "юзер-сторі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "slang",
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.62,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1798,
+  "band": "top-20k"
+ },
+ {
+  "en": "dance pop",
+  "uk": "денс-поп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.6,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1875,
+  "band": "top-20k"
+ },
+ {
+  "en": "smart contract",
+  "uk": "смарт-контракт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1940,
+  "band": "top-20k"
+ },
+ {
+  "en": "shop-in-shop",
+  "uk": "шоп-ін-шоп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1944,
+  "band": "top-20k"
+ },
+ {
+  "en": "free solo",
+  "uk": "фрі-соло",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.57,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1970,
+  "band": "top-20k"
+ },
+ {
+  "en": "cable park",
+  "uk": "кейбл-парк",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.45,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2440,
+  "band": "top-20k"
+ },
+ {
+  "en": "split push",
+  "uk": "спліт-пуш",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.43,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2521,
+  "band": "top-20k"
+ },
+ {
+  "en": "map pool",
+  "uk": "мап-пул",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.41,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2606,
+  "band": "top-20k"
+ },
+ {
+  "en": "user flow",
+  "uk": "юзер-флоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "slang",
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.38,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2747,
+  "band": "top-20k"
+ },
+ {
+  "en": "level designer",
+  "uk": "левел-дизайнер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "people",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.38,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2767,
+  "band": "top-20k"
+ },
+ {
+  "en": "swing trading",
+  "uk": "свінг-трейдинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3922,
+  "band": "top-20k"
+ },
+ {
+  "en": "rocket jump",
+  "uk": "рокет-джамп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3939,
+  "band": "top-20k"
+ },
+ {
+  "en": "raid boss",
+  "uk": "рейд-бос",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4412,
+  "band": "top-20k"
+ },
+ {
+  "en": "chuck roll",
+  "uk": "чак-рол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.07,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4551,
+  "band": "top-20k"
+ },
+ {
+  "en": "top rope",
+  "uk": "топ-роуп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.05,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4722,
+  "band": "top-20k"
+ },
+ {
+  "en": "bail-in",
+  "uk": "бейл-ін",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.01,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 4962,
+  "band": "top-20k"
+ },
+ {
+  "en": "legit check",
+  "uk": "легіт-чек",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.99,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 5100,
+  "band": "top-20k"
+ },
+ {
+  "en": "free float",
+  "uk": "фрі-флоат",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.93,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5549,
+  "band": "top-20k"
+ },
+ {
+  "en": "photo correspondent",
+  "uk": "фотокореспондент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.83,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 3,
+  "rank_raw": 6467,
+  "band": "top-20k"
+ },
+ {
+  "en": "cave diving",
+  "uk": "кейв-дайвінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.8,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 6737,
+  "band": "top-20k"
+ },
+ {
+  "en": "bunny hop",
+  "uk": "банні-хоп",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.77,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7072,
+  "band": "top-20k"
+ },
+ {
+  "en": "broker-dealer",
+  "uk": "брокер-дилер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.71,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7552,
+  "band": "top-20k"
+ },
+ {
+  "en": "prop trading",
+  "uk": "проп-трейдинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.71,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7552,
+  "band": "top-20k"
+ },
+ {
+  "en": "pixel perfect",
+  "uk": "піксель-перфект",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "slang",
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.71,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 7653,
+  "band": "top-20k"
+ },
+ {
+  "en": "swing trader",
+  "uk": "свінг-трейдер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.67,
+  "list_level": null,
+  "level": "C2",
+  "rank": 10001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 8060,
+  "band": "top-20k"
  },
  {
   "en": "fascist",
@@ -23703,6 +27828,27 @@
   "band": "top-20k"
  },
  {
+  "en": "job hopper",
+  "uk": "джоб-хопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.48,
+  "list_level": null,
+  "level": "C1",
+  "rank": 10370,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 10370,
+  "band": "top-20k"
+ },
+ {
   "en": "fetish",
   "uk": "фетиш",
   "pos": "noun",
@@ -24657,6 +28803,29 @@
   "band": "top-20k"
  },
  {
+  "en": "how-to",
+  "uk": "хау-ту",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 6.21,
+  "list_level": null,
+  "level": "C1",
+  "rank": 10697,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 31208,
+  "books_pm": 0.797,
+  "band": "top-20k"
+ },
+ {
   "en": "substitute",
   "uk": "субститут",
   "pos": "noun",
@@ -24940,6 +29109,27 @@
   "langs": 2,
   "rank_raw": 9205,
   "share": 75.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "crypto investor",
+  "uk": "криптоінвестор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.44,
+  "list_level": null,
+  "level": "C1",
+  "rank": 10808,
+  "rank_est": true,
+  "langs": 4,
+  "rank_raw": 10808,
   "band": "top-20k"
  },
  {
@@ -27319,6 +31509,27 @@
   "band": "top-20k"
  },
  {
+  "en": "crypto trader",
+  "uk": "криптотрейдер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.38,
+  "list_level": null,
+  "level": "C1",
+  "rank": 11750,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 11750,
+  "band": "top-20k"
+ },
+ {
   "en": "textile",
   "uk": "текстиль",
   "pos": "noun",
@@ -27828,6 +32039,29 @@
   "langs": 9,
   "rank_raw": 11943,
   "share": 100.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "publisher",
+  "uk": "паблішер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-012.json",
+  "zipf": 4.13,
+  "list_level": "B1",
+  "level": "B2",
+  "rank": 11962,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4597,
+  "share": 20.0,
   "band": "top-20k"
  },
  {
@@ -28772,6 +33006,28 @@
   "band": "top-20k"
  },
  {
+  "en": "use case",
+  "uk": "юз-кейс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.36,
+  "list_level": null,
+  "level": "C1",
+  "rank": 12324,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 397,
+  "books_pm": 2.364,
+  "band": "top-20k"
+ },
+ {
   "en": "parallel",
   "uk": "паралель",
   "pos": "noun",
@@ -28964,6 +33220,26 @@
   "langs": 2,
   "rank_raw": 12397,
   "share": 100.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "avocado toast",
+  "uk": "авокадо-тост",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.33,
+  "list_level": null,
+  "level": "B2",
+  "rank": 12408,
+  "rank_est": true,
+  "langs": 5,
+  "rank_raw": 12408,
   "band": "top-20k"
  },
  {
@@ -33161,6 +37437,28 @@
   "langs": 9,
   "rank_raw": 7745,
   "share": 35.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "scrum master",
+  "uk": "скрам-мастер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "slang",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.24,
+  "list_level": null,
+  "level": "C2",
+  "rank": 13921,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 13921,
   "band": "top-20k"
  },
  {
@@ -38098,6 +42396,27 @@
   "band": "top-20k"
  },
  {
+  "en": "advocacy",
+  "uk": "адвокасі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.9,
+  "list_level": null,
+  "level": "C1",
+  "rank": 15862,
+  "rank_est": true,
+  "langs": 4,
+  "rank_raw": 14619,
+  "share": 85.0,
+  "band": "top-20k"
+ },
+ {
   "en": "exorcism",
   "uk": "екзорцизм",
   "pos": "noun",
@@ -38745,6 +43064,31 @@
   "langs": 3,
   "rank_raw": 15658,
   "share": 95.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "data science",
+  "uk": "дата-сайнс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "science",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "uk_alt": [
+   "дата-саєнс"
+  ],
+  "zipf": 4.92,
+  "list_level": null,
+  "level": "C1",
+  "rank": 16091,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 969,
+  "books_pm": 0.851,
   "band": "top-20k"
  },
  {
@@ -39984,6 +44328,26 @@
   "band": "top-20k"
  },
  {
+  "en": "espresso tonic",
+  "uk": "еспресо-тонік",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.09,
+  "list_level": null,
+  "level": "C1",
+  "rank": 16564,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 16564,
+  "band": "top-20k"
+ },
+ {
   "en": "facade",
   "uk": "фасад",
   "pos": "noun",
@@ -40543,6 +44907,30 @@
   "band": "top-20k"
  },
  {
+  "en": "work-life balance",
+  "uk": "ворк-лайф баланс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "uk_alt": [
+   "ворк-лайф-баланс"
+  ],
+  "zipf": 4.7,
+  "list_level": null,
+  "level": "C1",
+  "rank": 16800,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1540,
+  "books_pm": 0.715,
+  "band": "top-20k"
+ },
+ {
   "en": "henry",
   "uk": "генрі",
   "pos": "noun",
@@ -40606,6 +44994,28 @@
   "langs": 9,
   "rank_raw": 15992,
   "share": 90.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "web server",
+  "uk": "вебсервер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.28,
+  "list_level": null,
+  "level": "C1",
+  "rank": 16860,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3252,
+  "books_pm": 1.409,
   "band": "top-20k"
  },
  {
@@ -41218,6 +45628,26 @@
   "band": "top-20k"
  },
  {
+  "en": "churn rate",
+  "uk": "черн-рейт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.06,
+  "list_level": null,
+  "level": "C1",
+  "rank": 17019,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 17019,
+  "band": "top-20k"
+ },
+ {
   "en": "leprechaun",
   "uk": "лепрекон",
   "pos": "noun",
@@ -41345,6 +45775,27 @@
   "langs": 9,
   "rank_raw": 8957,
   "share": 30.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "high tech",
+  "uk": "хайтек",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.65,
+  "list_level": null,
+  "level": "C1",
+  "rank": 17062,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1691,
+  "books_pm": 0.445,
   "band": "top-20k"
  },
  {
@@ -41808,6 +46259,29 @@
   "langs": 3,
   "rank_raw": 17221,
   "share": 100.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "drive-through",
+  "uk": "драйв-тру",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "international",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.06,
+  "list_level": null,
+  "level": "B2",
+  "rank": 17238,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 40434,
+  "books_pm": 0.214,
   "band": "top-20k"
  },
  {
@@ -43603,6 +48077,26 @@
   "band": "top-20k"
  },
  {
+  "en": "espresso martini",
+  "uk": "еспресо-мартіні",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.03,
+  "list_level": null,
+  "level": "C1",
+  "rank": 17779,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 17779,
+  "band": "top-20k"
+ },
+ {
   "en": "composite",
   "uk": "композит",
   "pos": "noun",
@@ -44376,6 +48870,27 @@
   "langs": 2,
   "rank_raw": 18121,
   "share": 100.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "smart city",
+  "uk": "смарт-сіті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.76,
+  "list_level": null,
+  "level": "C1",
+  "rank": 18141,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1367,
+  "books_pm": 2.073,
   "band": "top-20k"
  },
  {
@@ -45466,6 +49981,26 @@
   "langs": 9,
   "rank_raw": 32549,
   "books_pm": 0.47,
+  "band": "top-20k"
+ },
+ {
+  "en": "sundae",
+  "uk": "санде",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.76,
+  "list_level": null,
+  "level": "B2",
+  "rank": 18606,
+  "rank_est": false,
+  "langs": 2,
+  "rank_raw": 18606,
   "band": "top-20k"
  },
  {
@@ -47178,6 +51713,29 @@
   "band": "top-20k"
  },
  {
+  "en": "no-show",
+  "uk": "ноу-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "international",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.6,
+  "list_level": null,
+  "level": "C1",
+  "rank": 19258,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 34641,
+  "books_pm": 0.162,
+  "band": "top-20k"
+ },
+ {
   "en": "serotonin",
   "uk": "серотонін",
   "pos": "noun",
@@ -47283,6 +51841,28 @@
   "langs": 9,
   "rank_raw": 19289,
   "share": 100.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "game changer",
+  "uk": "гейм-чейнджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.46,
+  "list_level": null,
+  "level": "C1",
+  "rank": 19298,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 10613,
+  "books_pm": 0.403,
   "band": "top-20k"
  },
  {
@@ -47542,6 +52122,27 @@
   "langs": 1,
   "rank_raw": 18439,
   "share": 90.0,
+  "band": "top-20k"
+ },
+ {
+  "en": "performance review",
+  "uk": "перформанс-рев'ю",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.84,
+  "list_level": null,
+  "level": "C1",
+  "rank": 19406,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1172,
+  "books_pm": 0.526,
   "band": "top-20k"
  },
  {
@@ -49134,6 +53735,26 @@
   "band": "top-50k"
  },
  {
+  "en": "chia pudding",
+  "uk": "чіа-пудинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.92,
+  "list_level": null,
+  "level": "B2",
+  "rank": 20035,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 20035,
+  "band": "top-50k"
+ },
+ {
   "en": "self-management",
   "uk": "селф-менеджмент",
   "pos": "noun",
@@ -49612,6 +54233,53 @@
   "langs": 9,
   "rank_raw": 50454,
   "books_pm": 0.845,
+  "band": "top-50k"
+ },
+ {
+  "en": "must-see",
+  "uk": "маст-сі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "international",
+   "media",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.54,
+  "list_level": null,
+  "level": "B2",
+  "rank": 20175,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 89914,
+  "books_pm": 0.169,
+  "band": "top-50k"
+ },
+ {
+  "en": "GG",
+  "uk": "гг",
+  "pos": "interj",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "games",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.44,
+  "list_level": null,
+  "level": "C1",
+  "rank": 20181,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 18062,
+  "share": 80.0,
   "band": "top-50k"
  },
  {
@@ -50247,6 +54915,27 @@
   "langs": 9,
   "rank_raw": 92154,
   "books_pm": 0.322,
+  "band": "top-50k"
+ },
+ {
+  "en": "set point",
+  "uk": "сет-пойнт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.26,
+  "list_level": null,
+  "level": "C1",
+  "rank": 20416,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 471,
+  "books_pm": 0.644,
   "band": "top-50k"
  },
  {
@@ -53810,6 +58499,28 @@
   "band": "top-50k"
  },
  {
+  "en": "backend developer",
+  "uk": "бекенд-девелопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.84,
+  "list_level": null,
+  "level": "C1",
+  "rank": 21799,
+  "rank_est": true,
+  "langs": 6,
+  "rank_raw": 21799,
+  "band": "top-50k"
+ },
+ {
   "en": "bestie",
   "uk": "бесті",
   "pos": "noun",
@@ -54909,6 +59620,28 @@
   "band": "top-50k"
  },
  {
+  "en": "argyle",
+  "uk": "аргайл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.96,
+  "list_level": null,
+  "level": "C2",
+  "rank": 22188,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 17393,
+  "share": 60.0,
+  "band": "top-50k"
+ },
+ {
   "en": "picket",
   "uk": "пікет",
   "pos": "noun",
@@ -55125,6 +59858,27 @@
   "langs": 9,
   "rank_raw": 22299,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "visor",
+  "uk": "візор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.98,
+  "list_level": null,
+  "level": "B2",
+  "rank": 22304,
+  "rank_est": true,
+  "langs": 4,
+  "rank_raw": 18149,
+  "share": 65.0,
   "band": "top-50k"
  },
  {
@@ -57624,6 +62378,29 @@
   "band": "top-50k"
  },
  {
+  "en": "roadie",
+  "uk": "роуді",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "music",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.49,
+  "list_level": null,
+  "level": "C1",
+  "rank": 23202,
+  "rank_est": false,
+  "langs": 3,
+  "rank_raw": 23202,
+  "share": 100.0,
+  "band": "top-50k"
+ },
+ {
   "en": "repellent",
   "uk": "репелент",
   "pos": "noun",
@@ -59476,6 +64253,27 @@
   "band": "top-50k"
  },
  {
+  "en": "aloe vera",
+  "uk": "алое вера",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.97,
+  "list_level": null,
+  "level": "B2",
+  "rank": 23855,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 18922,
+  "books_pm": 0.327,
+  "band": "top-50k"
+ },
+ {
   "en": "art nouveau",
   "uk": "ар-нуво",
   "pos": "noun",
@@ -61018,6 +65816,27 @@
   "band": "top-50k"
  },
  {
+  "en": "black tie",
+  "uk": "блек-тай",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.46,
+  "list_level": null,
+  "level": "C1",
+  "rank": 24486,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2379,
+  "books_pm": 0.29,
+  "band": "top-50k"
+ },
+ {
   "en": "kelvin",
   "uk": "кельвін",
   "pos": "noun",
@@ -62051,6 +66870,26 @@
   "band": "top-50k"
  },
  {
+  "en": "sous vide",
+  "uk": "су-від",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.72,
+  "list_level": null,
+  "level": "C1",
+  "rank": 24883,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 24883,
+  "band": "top-50k"
+ },
+ {
   "en": "double-click",
   "uk": "дабл-клік",
   "pos": "noun",
@@ -62398,6 +67237,28 @@
   "langs": 2,
   "rank_raw": 25047,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "wheelie",
+  "uk": "вілі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "slang",
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.69,
+  "list_level": null,
+  "level": "C2",
+  "rank": 25048,
+  "rank_est": false,
+  "langs": 2,
+  "rank_raw": 23903,
+  "share": 90.0,
   "band": "top-50k"
  },
  {
@@ -63280,8 +68141,10 @@
   "british": false,
   "labels": [
    "informal",
+   "slang",
    "sport",
-   "tech"
+   "tech",
+   "technical"
   ],
   "note": "",
   "checked": 2,
@@ -63993,6 +68856,28 @@
   "band": "top-50k"
  },
  {
+  "en": "head chef",
+  "uk": "хед-шеф",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.21,
+  "list_level": null,
+  "level": "C1",
+  "rank": 25754,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3653,
+  "books_pm": 0.155,
+  "band": "top-50k"
+ },
+ {
   "en": "stressor",
   "uk": "стресор",
   "pos": "noun",
@@ -64227,6 +69112,28 @@
   "rank_est": false,
   "langs": 2,
   "rank_raw": 25895,
+  "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "preppy",
+  "uk": "преппі",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "clothing",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.63,
+  "list_level": null,
+  "level": "C1",
+  "rank": 25907,
+  "rank_est": false,
+  "langs": 0,
+  "rank_raw": 25907,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -65061,6 +69968,30 @@
   "langs": 9,
   "rank_raw": 26252,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "tie-dye",
+  "uk": "тай-дай",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "clothing",
+   "international",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.74,
+  "list_level": null,
+  "level": "C1",
+  "rank": 26248,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 75342,
+  "books_pm": 0.071,
   "band": "top-50k"
  },
  {
@@ -66292,6 +71223,29 @@
   "band": "top-50k"
  },
  {
+  "en": "friendly fire",
+  "uk": "френдлі-фаєр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "military",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.55,
+  "list_level": null,
+  "level": "C1",
+  "rank": 26754,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2028,
+  "books_pm": 0.193,
+  "band": "top-50k"
+ },
+ {
   "en": "humanism",
   "uk": "гуманізм",
   "pos": "noun",
@@ -66998,6 +71952,28 @@
   "band": "top-50k"
  },
  {
+  "en": "fly fishing",
+  "uk": "флай-фішинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "nature",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.29,
+  "list_level": null,
+  "level": "C1",
+  "rank": 27061,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3194,
+  "books_pm": 0.183,
+  "band": "top-50k"
+ },
+ {
   "en": "merge",
   "uk": "мердж",
   "pos": "noun",
@@ -67438,6 +72414,28 @@
   "langs": 6,
   "rank_raw": 23236,
   "share": 70.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "media center",
+  "uk": "медіацентр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.94,
+  "list_level": null,
+  "level": "C1",
+  "rank": 27234,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 931,
+  "books_pm": 0.178,
   "band": "top-50k"
  },
  {
@@ -70209,6 +75207,29 @@
   "band": "top-50k"
  },
  {
+  "en": "paleo",
+  "uk": "палео",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "informal",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.24,
+  "list_level": null,
+  "level": "C1",
+  "rank": 28134,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 25566,
+  "share": 80.0,
+  "band": "top-50k"
+ },
+ {
   "en": "procurator",
   "uk": "прокуратор",
   "pos": "noun",
@@ -72418,6 +77439,49 @@
   "band": "top-50k"
  },
  {
+  "en": "press officer",
+  "uk": "прес-офіцер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.79,
+  "list_level": null,
+  "level": "C1",
+  "rank": 29081,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1285,
+  "books_pm": 0.131,
+  "band": "top-50k"
+ },
+ {
+  "en": "swing state",
+  "uk": "свінг-стейт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.32,
+  "list_level": null,
+  "level": "C1",
+  "rank": 29081,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3000,
+  "books_pm": 0.088,
+  "band": "top-50k"
+ },
+ {
   "en": "sauvignon blanc",
   "uk": "совіньйон блан",
   "pos": "noun",
@@ -72722,6 +77786,27 @@
   "langs": 1,
   "rank_raw": 29154,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "web interface",
+  "uk": "вебінтерфейс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.03,
+  "list_level": null,
+  "level": "C1",
+  "rank": 29172,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4857,
+  "books_pm": 0.26,
   "band": "top-50k"
  },
  {
@@ -74311,6 +79396,28 @@
   "band": "top-50k"
  },
  {
+  "en": "win-win",
+  "uk": "він-він",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "business",
+   "informal",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.09,
+  "list_level": null,
+  "level": "B2",
+  "rank": 29732,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 29732,
+  "band": "top-50k"
+ },
+ {
   "en": "goulash",
   "uk": "гуляш",
   "pos": "noun",
@@ -74394,6 +79501,49 @@
   "langs": 1,
   "rank_raw": 25527,
   "share": 70.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "degen",
+  "uk": "деген",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.04,
+  "list_level": null,
+  "level": "C2",
+  "rank": 29784,
+  "rank_est": false,
+  "langs": 3,
+  "rank_raw": 29784,
+  "band": "top-50k"
+ },
+ {
+  "en": "content marketing",
+  "uk": "контент-маркетинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C1",
+  "rank": 29793,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1955,
+  "books_pm": 0.237,
   "band": "top-50k"
  },
  {
@@ -74503,6 +79653,27 @@
   "langs": 1,
   "rank_raw": 29835,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "open world",
+  "uk": "опен-ворлд",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.34,
+  "list_level": null,
+  "level": "C1",
+  "rank": 29841,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 419,
+  "books_pm": 0.117,
   "band": "top-50k"
  },
  {
@@ -75469,6 +80640,29 @@
   "band": "top-50k"
  },
  {
+  "en": "NPC",
+  "uk": "НПС",
+  "pos": "abbr",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "games",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.13,
+  "list_level": null,
+  "level": "C1",
+  "rank": 30294,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 26725,
+  "share": 75.0,
+  "band": "top-50k"
+ },
+ {
   "en": "sommelier",
   "uk": "сомельє",
   "pos": "noun",
@@ -75489,6 +80683,27 @@
   "langs": 8,
   "rank_raw": 30296,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "art object",
+  "uk": "арт-об'єкт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.49,
+  "list_level": null,
+  "level": "C1",
+  "rank": 30297,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2290,
+  "books_pm": 0.364,
   "band": "top-50k"
  },
  {
@@ -75612,6 +80827,9 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json",
+  "also": [
+   "stop loss"
+  ],
   "zipf": 4.94,
   "list_level": null,
   "level": "C2",
@@ -77170,6 +82388,28 @@
   "langs": 9,
   "rank_raw": 30912,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "sound engineer",
+  "uk": "саунд-інженер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.41,
+  "list_level": null,
+  "level": "C1",
+  "rank": 30921,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2606,
+  "books_pm": 0.141,
   "band": "top-50k"
  },
  {
@@ -78944,6 +84184,28 @@
   "band": "top-50k"
  },
  {
+  "en": "frontend developer",
+  "uk": "фронтенд-девелопер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.47,
+  "list_level": null,
+  "level": "C1",
+  "rank": 31650,
+  "rank_est": true,
+  "langs": 6,
+  "rank_raw": 31650,
+  "band": "top-50k"
+ },
+ {
   "en": "axon",
   "uk": "аксон",
   "pos": "noun",
@@ -79026,6 +84288,28 @@
   "langs": 2,
   "rank_raw": 31706,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "press club",
+  "uk": "прес-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.88,
+  "list_level": null,
+  "level": "C1",
+  "rank": 31716,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1061,
+  "books_pm": 0.173,
   "band": "top-50k"
  },
  {
@@ -80702,6 +85986,27 @@
   "langs": 2,
   "rank_raw": 10776,
   "share": 10.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "open call",
+  "uk": "опен-кол",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.19,
+  "list_level": null,
+  "level": "C1",
+  "rank": 32456,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 540,
+  "books_pm": 0.077,
   "band": "top-50k"
  },
  {
@@ -84071,6 +89376,27 @@
   "band": "top-50k"
  },
  {
+  "en": "web resource",
+  "uk": "вебресурс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.23,
+  "list_level": null,
+  "level": "C1",
+  "rank": 33886,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3507,
+  "books_pm": 0.314,
+  "band": "top-50k"
+ },
+ {
   "en": "downgrade",
   "uk": "даунгрейд",
   "pos": "noun",
@@ -84367,6 +89693,27 @@
   "langs": 0,
   "rank_raw": 34031,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "hot pot",
+  "uk": "хот-пот",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.33,
+  "list_level": null,
+  "level": "C1",
+  "rank": 34038,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2963,
+  "books_pm": 0.123,
   "band": "top-50k"
  },
  {
@@ -86428,6 +91775,29 @@
   "band": "top-50k"
  },
  {
+  "en": "PvP",
+  "uk": "ПвП",
+  "pos": "abbr",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "games",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.04,
+  "list_level": null,
+  "level": "C1",
+  "rank": 34959,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 34958,
+  "share": 100.0,
+  "band": "top-50k"
+ },
+ {
   "en": "mochi",
   "uk": "моті",
   "pos": "noun",
@@ -88239,6 +93609,27 @@
   "band": "top-50k"
  },
  {
+  "en": "lead vocal",
+  "uk": "лід-вокал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.12,
+  "list_level": null,
+  "level": "C1",
+  "rank": 35664,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4172,
+  "books_pm": 0.097,
+  "band": "top-50k"
+ },
+ {
   "en": "toolkit",
   "uk": "тулкіт",
   "pos": "noun",
@@ -88526,6 +93917,26 @@
   "band": "top-50k"
  },
  {
+  "en": "steak tartare",
+  "uk": "стейк-тартар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.34,
+  "list_level": null,
+  "level": "C1",
+  "rank": 35766,
+  "rank_est": true,
+  "langs": 2,
+  "rank_raw": 35766,
+  "band": "top-50k"
+ },
+ {
   "en": "pastiche",
   "uk": "пастиш",
   "pos": "noun",
@@ -88739,6 +94150,26 @@
   "band": "top-50k"
  },
  {
+  "en": "acai bowl",
+  "uk": "асаї-боул",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.34,
+  "list_level": null,
+  "level": "C1",
+  "rank": 35832,
+  "rank_est": true,
+  "langs": 1,
+  "rank_raw": 35832,
+  "band": "top-50k"
+ },
+ {
   "en": "accelerometer",
   "uk": "акселерометр",
   "pos": "noun",
@@ -88846,6 +94277,29 @@
   "langs": 0,
   "rank_raw": 34431,
   "share": 90.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "MMO",
+  "uk": "ММО",
+  "pos": "abbr",
+  "british": false,
+  "labels": [
+   "abbreviation",
+   "games",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.81,
+  "list_level": null,
+  "level": "C1",
+  "rank": 35930,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 35187,
+  "share": 95.0,
   "band": "top-50k"
  },
  {
@@ -89199,6 +94653,28 @@
   "langs": 0,
   "rank_raw": 24549,
   "share": 40.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "brand ambassador",
+  "uk": "бренд-амбасадор",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.23,
+  "list_level": null,
+  "level": "C1",
+  "rank": 36122,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3536,
+  "books_pm": 0.091,
   "band": "top-50k"
  },
  {
@@ -89835,6 +95311,28 @@
   "band": "top-50k"
  },
  {
+  "en": "split screen",
+  "uk": "спліт-скрін",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.44,
+  "list_level": null,
+  "level": "C1",
+  "rank": 36479,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2481,
+  "books_pm": 0.087,
+  "band": "top-50k"
+ },
+ {
   "en": "short seller",
   "uk": "шортселер",
   "pos": "noun",
@@ -90282,6 +95780,27 @@
   "langs": 9,
   "rank_raw": 1853,
   "books_pm": 0.141,
+  "band": "top-50k"
+ },
+ {
+  "en": "match point",
+  "uk": "матч-пойнт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.99,
+  "list_level": null,
+  "level": "C1",
+  "rank": 36706,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 839,
+  "books_pm": 0.053,
   "band": "top-50k"
  },
  {
@@ -92060,6 +97579,27 @@
   "band": "top-50k"
  },
  {
+  "en": "churros",
+  "uk": "чурос",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.29,
+  "list_level": null,
+  "level": "B2",
+  "rank": 37498,
+  "rank_est": true,
+  "langs": 6,
+  "rank_raw": 37498,
+  "band": "top-50k"
+ },
+ {
   "en": "lancet",
   "uk": "ланцет",
   "pos": "noun",
@@ -92677,6 +98217,27 @@
   "band": "top-50k"
  },
  {
+  "en": "bug report",
+  "uk": "баг-репорт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.17,
+  "list_level": null,
+  "level": "C1",
+  "rank": 37771,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3887,
+  "books_pm": 0.073,
+  "band": "top-50k"
+ },
+ {
   "en": "briquette",
   "uk": "брикет",
   "pos": "noun",
@@ -93044,6 +98605,27 @@
   "langs": 6,
   "rank_raw": 37124,
   "share": 95.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "public talk",
+  "uk": "паблік-ток",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 5.19,
+  "list_level": null,
+  "level": "C1",
+  "rank": 37970,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 551,
+  "books_pm": 0.072,
   "band": "top-50k"
  },
  {
@@ -95435,6 +101017,28 @@
   "band": "top-50k"
  },
  {
+  "en": "battle royale",
+  "uk": "батл-рояль",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.37,
+  "list_level": null,
+  "level": "C1",
+  "rank": 39230,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11890,
+  "books_pm": 0.061,
+  "band": "top-50k"
+ },
+ {
   "en": "escudo",
   "uk": "ескудо",
   "pos": "noun",
@@ -95582,6 +101186,28 @@
   "langs": 7,
   "rank_raw": 39363,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "karaoke bar",
+  "uk": "караоке-бар",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.42,
+  "list_level": null,
+  "level": "B1",
+  "rank": 39368,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11162,
+  "books_pm": 0.06,
   "band": "top-50k"
  },
  {
@@ -96428,6 +102054,28 @@
   "langs": 0,
   "rank_raw": 39720,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "dive site",
+  "uk": "дайв-сайт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.09,
+  "list_level": null,
+  "level": "C1",
+  "rank": 39722,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4412,
+  "books_pm": 0.096,
   "band": "top-50k"
  },
  {
@@ -97795,6 +103443,29 @@
   "langs": 9,
   "rank_raw": 4828,
   "books_pm": 0.053,
+  "band": "top-50k"
+ },
+ {
+  "en": "kawaii",
+  "uk": "каваї",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "emotions",
+   "international",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.6,
+  "list_level": null,
+  "level": "C2",
+  "rank": 40388,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 40389,
+  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -102823,6 +108494,27 @@
   "band": "top-50k"
  },
  {
+  "en": "cat eye",
+  "uk": "кет-ай",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.58,
+  "list_level": null,
+  "level": "C1",
+  "rank": 42449,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1936,
+  "books_pm": 0.069,
+  "band": "top-50k"
+ },
+ {
   "en": "burek",
   "uk": "бурек",
   "pos": "noun",
@@ -103745,6 +109437,31 @@
   "langs": 0,
   "rank_raw": 42808,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "press kit",
+  "uk": "прес-кіт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "uk_alt": [
+   "прес-кит"
+  ],
+  "zipf": 4.35,
+  "list_level": null,
+  "level": "C1",
+  "rank": 42814,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2877,
+  "books_pm": 0.066,
   "band": "top-50k"
  },
  {
@@ -105120,6 +110837,28 @@
   "band": "top-50k"
  },
  {
+  "en": "business casual",
+  "uk": "бізнес-кежуал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.21,
+  "list_level": null,
+  "level": "C1",
+  "rank": 43550,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3629,
+  "books_pm": 0.061,
+  "band": "top-50k"
+ },
+ {
   "en": "telecom operator",
   "uk": "телеком-оператор",
   "pos": "noun",
@@ -105543,6 +111282,28 @@
   "langs": 1,
   "rank_raw": 43645,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "media manager",
+  "uk": "медіаменеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.8,
+  "list_level": null,
+  "level": "C1",
+  "rank": 43646,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1260,
+  "books_pm": 0.09,
   "band": "top-50k"
  },
  {
@@ -107036,6 +112797,28 @@
   "band": "top-50k"
  },
  {
+  "en": "community manager",
+  "uk": "ком'юніті-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.82,
+  "list_level": null,
+  "level": "C1",
+  "rank": 44430,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1225,
+  "books_pm": 0.055,
+  "band": "top-50k"
+ },
+ {
   "en": "expressionist",
   "uk": "експресіоніст",
   "pos": "noun",
@@ -107356,6 +113139,28 @@
   "langs": 1,
   "rank_raw": 44649,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "life coaching",
+  "uk": "лайф-коучинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.28,
+  "list_level": null,
+  "level": "C1",
+  "rank": 44665,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 3241,
+  "books_pm": 0.081,
   "band": "top-50k"
  },
  {
@@ -107811,6 +113616,28 @@
   "langs": 0,
   "rank_raw": 43917,
   "share": 95.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "mentee",
+  "uk": "менті",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "education",
+   "informal",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.09,
+  "list_level": null,
+  "level": "C1",
+  "rank": 44832,
+  "rank_est": false,
+  "langs": 0,
+  "rank_raw": 44832,
   "band": "top-50k"
  },
  {
@@ -110362,6 +116189,28 @@
   "band": "top-50k"
  },
  {
+  "en": "drag show",
+  "uk": "драг-шоу",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.27,
+  "list_level": null,
+  "level": "C1",
+  "rank": 46123,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3272,
+  "books_pm": 0.046,
+  "band": "top-50k"
+ },
+ {
   "en": "tuk-tuk",
   "uk": "тук-тук",
   "pos": "noun",
@@ -110509,6 +116358,27 @@
   "langs": 0,
   "rank_raw": 46163,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "cash and carry",
+  "uk": "кеш енд кері",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.6,
+  "list_level": null,
+  "level": "C1",
+  "rank": 46171,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1853,
+  "books_pm": 0.046,
   "band": "top-50k"
  },
  {
@@ -111839,6 +117709,27 @@
   "langs": 3,
   "rank_raw": 46723,
   "share": 100.0,
+  "band": "top-50k"
+ },
+ {
+  "en": "smoky eyes",
+  "uk": "смокі айс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.32,
+  "list_level": null,
+  "level": "C1",
+  "rank": 46739,
+  "rank_est": true,
+  "langs": 8,
+  "rank_raw": 12543,
+  "books_pm": 0.044,
   "band": "top-50k"
  },
  {
@@ -118434,6 +124325,28 @@
   "band": "top-50k"
  },
  {
+  "en": "hip thrust",
+  "uk": "хіп-траст",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.76,
+  "list_level": null,
+  "level": "C2",
+  "rank": 49901,
+  "rank_est": true,
+  "langs": 1,
+  "rank_raw": 7109,
+  "books_pm": 0.032,
+  "band": "top-50k"
+ },
+ {
   "en": "murti",
   "uk": "мурті",
   "pos": "noun",
@@ -119077,11 +124990,15 @@
   "british": false,
   "labels": [
    "informal",
+   "media",
    "people"
   ],
   "note": "",
   "checked": 2,
   "src": "gap-fullscan.json",
+  "also": [
+   "slut-shaming"
+  ],
   "zipf": 3.22,
   "list_level": null,
   "level": "C1",
@@ -121576,6 +127493,27 @@
   "langs": 0,
   "rank_raw": 51396,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "hot yoga",
+  "uk": "хот-йога",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "C1",
+  "rank": 51406,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3951,
+  "books_pm": 0.042,
   "band": "top-100k"
  },
  {
@@ -126252,6 +132190,27 @@
   "band": "top-100k"
  },
  {
+  "en": "battle pass",
+  "uk": "батл-пас",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.69,
+  "list_level": null,
+  "level": "C1",
+  "rank": 53560,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1589,
+  "books_pm": 0.023,
+  "band": "top-100k"
+ },
+ {
   "en": "gouache",
   "uk": "гуаш",
   "pos": "noun",
@@ -127174,6 +133133,27 @@
   "langs": 1,
   "rank_raw": 53961,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "smoothie bowl",
+  "uk": "смузі-боул",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.23,
+  "list_level": null,
+  "level": "B2",
+  "rank": 53962,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 14038,
+  "books_pm": 0.068,
   "band": "top-100k"
  },
  {
@@ -128155,6 +134135,28 @@
   "band": "top-100k"
  },
  {
+  "en": "data engineer",
+  "uk": "дата-інженер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.44,
+  "list_level": null,
+  "level": "C1",
+  "rank": 54415,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2467,
+  "books_pm": 0.022,
+  "band": "top-100k"
+ },
+ {
   "en": "info center",
   "uk": "інфоцентр",
   "pos": "noun",
@@ -128922,6 +134924,27 @@
   "langs": 0,
   "rank_raw": 54813,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "digital detox",
+  "uk": "діджитал-детокс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.28,
+  "list_level": null,
+  "level": "B2",
+  "rank": 54841,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 13272,
+  "books_pm": 0.021,
   "band": "top-100k"
  },
  {
@@ -131540,27 +137563,6 @@
   "band": "top-100k"
  },
  {
-  "en": "hysteric",
-  "uk": "гістерик",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "zipf": 2.06,
-  "list_level": null,
-  "level": "C2",
-  "rank": 56293,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 41818,
-  "share": 50.0,
-  "band": "top-100k"
- },
- {
   "en": "ethnos",
   "uk": "етнос",
   "pos": "noun",
@@ -131711,6 +137713,27 @@
   "langs": 0,
   "rank_raw": 56406,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "slip dress",
+  "uk": "сліп-дрес",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "C1",
+  "rank": 56413,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3951,
+  "books_pm": 0.018,
   "band": "top-100k"
  },
  {
@@ -132295,28 +138318,6 @@
   "langs": 9,
   "rank_raw": 54471,
   "books_pm": 0.018,
-  "band": "top-100k"
- },
- {
-  "en": "vizsla",
-  "uk": "візсла",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "nature",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan2.json",
-  "zipf": 1.88,
-  "list_level": null,
-  "level": "C2",
-  "rank": 56528,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 56532,
-  "share": 100.0,
   "band": "top-100k"
  },
  {
@@ -135272,6 +141273,28 @@
   "band": "top-100k"
  },
  {
+  "en": "beta tester",
+  "uk": "бета-тестер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.2,
+  "list_level": null,
+  "level": "C1",
+  "rank": 58082,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 14661,
+  "books_pm": 0.024,
+  "band": "top-100k"
+ },
+ {
   "en": "polder",
   "uk": "польдер",
   "pos": "noun",
@@ -135557,28 +141580,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 58211,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "conductance",
-  "uk": "кондуктанс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "physics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 2.49,
-  "list_level": null,
-  "level": "C2",
-  "rank": 58213,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 58213,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -135873,6 +141874,27 @@
   "langs": 0,
   "rank_raw": 58227,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "smart casual",
+  "uk": "смарт-кежуал",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.13,
+  "list_level": null,
+  "level": "C1",
+  "rank": 58245,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4082,
+  "books_pm": 0.024,
   "band": "top-100k"
  },
  {
@@ -136316,29 +142338,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 58577,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "pilaster",
-  "uk": "пілястр",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 1.81,
-  "list_level": null,
-  "level": "C2",
-  "rank": 58582,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 58582,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -137139,29 +143138,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-fullscan.json",
-  "zipf": 1.83,
-  "list_level": null,
-  "level": "C2",
-  "rank": 58874,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 58874,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "lipolysis",
-  "uk": "ліполіз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
   "zipf": 1.83,
   "list_level": null,
   "level": "C2",
@@ -138617,29 +144593,6 @@
   "rank_est": false,
   "langs": 1,
   "rank_raw": 59541,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "arteriosclerosis",
-  "uk": "артеріосклероз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 1.96,
-  "list_level": null,
-  "level": "C2",
-  "rank": 59545,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 59546,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -142744,6 +148697,28 @@
   "band": "top-100k"
  },
  {
+  "en": "one-to-one",
+  "uk": "ван-ту-ван",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "business",
+   "international",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 6.15,
+  "list_level": null,
+  "level": "B2",
+  "rank": 61622,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 61622,
+  "band": "top-100k"
+ },
+ {
   "en": "oud",
   "uk": "уд",
   "pos": "noun",
@@ -143386,28 +149361,6 @@
   "rank_est": false,
   "langs": 1,
   "rank_raw": 62002,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "symphysis",
-  "uk": "симфіз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 1.95,
-  "list_level": null,
-  "level": "C2",
-  "rank": 62008,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 62010,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -146303,29 +152256,6 @@
   "band": "top-100k"
  },
  {
-  "en": "organogenesis",
-  "uk": "органогенез",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 1.76,
-  "list_level": null,
-  "level": "C2",
-  "rank": 63380,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 63380,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "pentode",
   "uk": "пентод",
   "pos": "noun",
@@ -146842,6 +152772,31 @@
   "langs": 0,
   "rank_raw": 63564,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "loot box",
+  "uk": "лутбокс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "informal"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "also": [
+   "lootbox"
+  ],
+  "zipf": 3.48,
+  "list_level": null,
+  "level": "C1",
+  "rank": 63605,
+  "rank_est": true,
+  "langs": 7,
+  "rank_raw": 10325,
+  "books_pm": 0.007,
   "band": "top-100k"
  },
  {
@@ -147429,50 +153384,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 63902,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "dacron",
-  "uk": "дакрон",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "zipf": 1.99,
-  "list_level": null,
-  "level": "C2",
-  "rank": 63919,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 63920,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "glycolysis",
-  "uk": "гліколіз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 2.37,
-  "list_level": null,
-  "level": "C2",
-  "rank": 63922,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 63922,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -148369,25 +154280,24 @@
   "band": "top-100k"
  },
  {
-  "en": "aitch",
-  "uk": "ейч",
+  "en": "slim fit",
+  "uk": "слім-фіт",
   "pos": "noun",
   "british": false,
   "labels": [
-   "language",
-   "rare"
+   "clothing"
   ],
   "note": "",
   "checked": 2,
-  "src": "rverify-014.json",
-  "zipf": 1.64,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.0,
   "list_level": null,
-  "level": "C2",
-  "rank": 64244,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 64245,
-  "share": 100.0,
+  "level": "B2",
+  "rank": 64257,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 5034,
+  "books_pm": 0.01,
   "band": "top-100k"
  },
  {
@@ -153946,6 +159856,27 @@
   "band": "top-100k"
  },
  {
+  "en": "nail bar",
+  "uk": "нейл-бар",
+  "pos": "noun",
+  "british": true,
+  "labels": [
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.14,
+  "list_level": null,
+  "level": "C1",
+  "rank": 67046,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4064,
+  "books_pm": 0.013,
+  "band": "top-100k"
+ },
+ {
   "en": "carotenoid",
   "uk": "каротиноїд",
   "pos": "noun",
@@ -154479,6 +160410,27 @@
   "band": "top-100k"
  },
  {
+  "en": "slow fashion",
+  "uk": "слоу-фешн",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.53,
+  "list_level": null,
+  "level": "C1",
+  "rank": 67408,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2097,
+  "books_pm": 0.025,
+  "band": "top-100k"
+ },
+ {
   "en": "digraph",
   "uk": "диграф",
   "pos": "noun",
@@ -154610,6 +160562,27 @@
   "langs": 0,
   "rank_raw": 67520,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "boho chic",
+  "uk": "бохо-шик",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.59,
+  "list_level": null,
+  "level": "C1",
+  "rank": 67534,
+  "rank_est": true,
+  "langs": 5,
+  "rank_raw": 28133,
+  "books_pm": 0.005,
   "band": "top-100k"
  },
  {
@@ -155256,6 +161229,28 @@
   "langs": 0,
   "rank_raw": 67665,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "hard enduro",
+  "uk": "хард-ендуро",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.51,
+  "list_level": null,
+  "level": "C2",
+  "rank": 67703,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 30582,
+  "books_pm": 0.0,
   "band": "top-100k"
  },
  {
@@ -161852,28 +167847,6 @@
   "band": "top-100k"
  },
  {
-  "en": "presbyter",
-  "uk": "пресвітер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-007.json",
-  "zipf": 2.08,
-  "list_level": null,
-  "level": "C2",
-  "rank": 71382,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 71382,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "retinol",
   "uk": "ретинол",
   "pos": "noun",
@@ -162399,28 +168372,6 @@
   "band": "top-100k"
  },
  {
-  "en": "quinoline",
-  "uk": "хінолін",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 1.65,
-  "list_level": null,
-  "level": "C2",
-  "rank": 71475,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 71475,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "refractometer",
   "uk": "рефрактометр",
   "pos": "noun",
@@ -162866,6 +168817,27 @@
   "langs": 0,
   "rank_raw": 71759,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "power yoga",
+  "uk": "пауер-йога",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.18,
+  "list_level": null,
+  "level": "C1",
+  "rank": 71784,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3817,
+  "books_pm": 0.02,
   "band": "top-100k"
  },
  {
@@ -163815,28 +169787,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-audit.json",
-  "zipf": 1.64,
-  "list_level": null,
-  "level": "C2",
-  "rank": 72299,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 72299,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "chaconne",
-  "uk": "чакона",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "music",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
   "zipf": 1.64,
   "list_level": null,
   "level": "C2",
@@ -166239,28 +172189,6 @@
   "band": "top-100k"
  },
  {
-  "en": "secateurs",
-  "uk": "секатор",
-  "pos": "noun",
-  "british": true,
-  "labels": [
-   "other",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 1.63,
-  "list_level": null,
-  "level": "C2",
-  "rank": 73427,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 73440,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "moderato",
   "uk": "модерато",
   "pos": "noun",
@@ -166394,6 +172322,27 @@
   "langs": 0,
   "rank_raw": 73524,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "biker club",
+  "uk": "байкер-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.36,
+  "list_level": null,
+  "level": "B2",
+  "rank": 73564,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11945,
+  "books_pm": 0.018,
   "band": "top-100k"
  },
  {
@@ -167910,28 +173859,6 @@
   "band": "top-100k"
  },
  {
-  "en": "ketosis",
-  "uk": "кетоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 2.4,
-  "list_level": null,
-  "level": "C2",
-  "rank": 74359,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 74361,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "magneton",
   "uk": "магнетон",
   "pos": "noun",
@@ -168220,29 +174147,6 @@
   "langs": 0,
   "rank_raw": 53998,
   "share": 50.0,
-  "band": "top-100k"
- },
- {
-  "en": "diacritic",
-  "uk": "діакритик",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "zipf": 1.71,
-  "list_level": null,
-  "level": "C2",
-  "rank": 74594,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 66887,
-  "share": 80.0,
   "band": "top-100k"
  },
  {
@@ -171454,29 +177358,6 @@
   "band": "top-100k"
  },
  {
-  "en": "noncombatant",
-  "uk": "нонкомбатант",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "military",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 1.75,
-  "list_level": null,
-  "level": "C2",
-  "rank": 76169,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 64039,
-  "share": 70.0,
-  "band": "top-100k"
- },
- {
   "en": "purine",
   "uk": "пурин",
   "pos": "noun",
@@ -173716,28 +179597,6 @@
   "band": "top-100k"
  },
  {
-  "en": "histoplasmosis",
-  "uk": "гістоплазмоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 1.63,
-  "list_level": null,
-  "level": "C2",
-  "rank": 77436,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 77441,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "bullpup",
   "uk": "булпап",
   "pos": "noun",
@@ -174983,28 +180842,6 @@
   "langs": 1,
   "rank_raw": 78049,
   "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "parabellum",
-  "uk": "парабелум",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "military",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-012.json",
-  "zipf": 1.75,
-  "list_level": null,
-  "level": "C2",
-  "rank": 78050,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 61089,
-  "share": 60.0,
   "band": "top-100k"
  },
  {
@@ -176781,29 +182618,6 @@
   "band": "top-100k"
  },
  {
-  "en": "fanservice",
-  "uk": "фансервіс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "media",
-   "rare",
-   "slang"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 2.29,
-  "list_level": null,
-  "level": "C2",
-  "rank": 79138,
-  "rank_est": false,
-  "langs": 3,
-  "rank_raw": 79161,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "thermocline",
   "uk": "термоклін",
   "pos": "noun",
@@ -176935,28 +182749,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 79282,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "aspergillosis",
-  "uk": "аспергільоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 1.84,
-  "list_level": null,
-  "level": "C2",
-  "rank": 79274,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 79288,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -177407,30 +183199,6 @@
   "langs": 0,
   "rank_raw": 79296,
   "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "PVA",
-  "uk": "ПВА",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "chemistry",
-   "home",
-   "rare"
-  ],
-  "note": "Short for polyvinyl acetate; 'PVA glue' is white craft/wood glue.",
-  "checked": 2,
-  "src": "verify-108.json",
-  "zipf": 2.45,
-  "list_level": null,
-  "level": "C1",
-  "rank": 79298,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 66565,
-  "share": 70.0,
   "band": "top-100k"
  },
  {
@@ -179792,28 +185560,6 @@
   "band": "top-100k"
  },
  {
-  "en": "rezident",
-  "uk": "резидент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-019.json",
-  "zipf": 1.08,
-  "list_level": null,
-  "level": "C2",
-  "rank": 81017,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 81019,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "cane corso",
   "uk": "кане-корсо",
   "pos": "noun",
@@ -180934,6 +186680,28 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 81899,
+  "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "multitool",
+  "uk": "мультитул",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "home",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 1.55,
+  "list_level": null,
+  "level": "C1",
+  "rank": 81945,
+  "rank_est": false,
+  "langs": 1,
+  "rank_raw": 81954,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -185291,6 +191059,29 @@
   "zipf": 1.5,
   "list_level": null,
   "level": "C2",
+  "rank": 85224,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 85224,
+  "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "biohacking",
+  "uk": "біохакінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "medicine",
+   "rare",
+   "science"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 1.5,
+  "list_level": null,
+  "level": "C1",
   "rank": 85224,
   "rank_est": true,
   "langs": 0,
@@ -190353,28 +196144,6 @@
   "band": "top-100k"
  },
  {
-  "en": "general field marshal",
-  "uk": "генерал-фельдмаршал",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "archaic",
-   "military"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-audit.json",
-  "zipf": 3.84,
-  "list_level": null,
-  "level": "C2",
-  "rank": 88845,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 6325,
-  "books_pm": 0.009,
-  "band": "top-100k"
- },
- {
   "en": "superoxide",
   "uk": "супероксид",
   "pos": "noun",
@@ -193377,6 +199146,28 @@
   "band": "top-100k"
  },
  {
+  "en": "IT hub",
+  "uk": "ІТ-хаб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.08,
+  "list_level": null,
+  "level": "C1",
+  "rank": 91080,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4468,
+  "books_pm": 0.008,
+  "band": "top-100k"
+ },
+ {
   "en": "stentor",
   "uk": "стентор",
   "pos": "noun",
@@ -195609,29 +201400,6 @@
   "band": "top-100k"
  },
  {
-  "en": "oogenesis",
-  "uk": "оогенез",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-016.json",
-  "zipf": 1.43,
-  "list_level": null,
-  "level": "C2",
-  "rank": 92626,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 92626,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "orthoclase",
   "uk": "ортоклаз",
   "pos": "noun",
@@ -197218,29 +202986,6 @@
   "langs": 0,
   "rank_raw": 93738,
   "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "ferrata",
-  "uk": "феррата",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "rare",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-012.json",
-  "zipf": 1.75,
-  "list_level": null,
-  "level": "C2",
-  "rank": 93790,
-  "rank_est": false,
-  "langs": 3,
-  "rank_raw": 91348,
-  "share": 95.0,
   "band": "top-100k"
  },
  {
@@ -199989,28 +205734,6 @@
   "band": "top-100k"
  },
  {
-  "en": "paternoster",
-  "uk": "патерностер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 2.13,
-  "list_level": null,
-  "level": "C2",
-  "rank": 96148,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 53560,
-  "share": 30.0,
-  "band": "top-100k"
- },
- {
   "en": "uncial",
   "uk": "унціал",
   "pos": "noun",
@@ -200836,6 +206559,28 @@
   "langs": 0,
   "rank_raw": 97094,
   "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "rogaine",
+  "uk": "рогейн",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "rare",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.11,
+  "list_level": null,
+  "level": "C2",
+  "rank": 97118,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 45300,
+  "share": 20.0,
   "band": "top-100k"
  },
  {
@@ -202465,28 +208210,6 @@
   "band": "top-100k"
  },
  {
-  "en": "Pascha",
-  "uk": "Пасха",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "religion"
-  ],
-  "note": "Easter, especially Orthodox; the usual words are Easter and Великдень.",
-  "checked": 2,
-  "src": "scan-015.json",
-  "zipf": 1.85,
-  "list_level": null,
-  "level": "C2",
-  "rank": 98277,
-  "rank_est": false,
-  "langs": 4,
-  "rank_raw": 98291,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "mercantilism",
   "uk": "меркантилізм",
   "pos": "noun",
@@ -202842,6 +208565,30 @@
   "rank": 98332,
   "rank_est": true,
   "langs": 0,
+  "rank_raw": 98332,
+  "share": 100.0,
+  "band": "top-100k"
+ },
+ {
+  "en": "megahit",
+  "uk": "мегахіт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "media",
+   "music",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 1.38,
+  "list_level": null,
+  "level": "C1",
+  "rank": 98332,
+  "rank_est": true,
+  "langs": 2,
   "rank_raw": 98332,
   "share": 100.0,
   "band": "top-100k"
@@ -205280,6 +211027,50 @@
   "band": "rare"
  },
  {
+  "en": "room tour",
+  "uk": "рум-тур",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.84,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1152,
+  "books_pm": 0.005,
+  "band": "rare"
+ },
+ {
+  "en": "art manager",
+  "uk": "арт-менеджер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "art",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.8,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1264,
+  "books_pm": 0.01,
+  "band": "rare"
+ },
+ {
   "en": "beat club",
   "uk": "біт-клуб",
   "pos": "noun",
@@ -205299,6 +211090,49 @@
   "langs": 9,
   "rank_raw": 1276,
   "books_pm": 0.005,
+  "band": "rare"
+ },
+ {
+  "en": "fan meeting",
+  "uk": "фан-мітинг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.72,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1496,
+  "books_pm": 0.003,
+  "band": "rare"
+ },
+ {
+  "en": "cover dance",
+  "uk": "кавер-денс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.7,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1563,
+  "books_pm": 0.002,
   "band": "rare"
  },
  {
@@ -205335,6 +211169,9 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json",
+  "also": [
+   "take profit"
+  ],
   "zipf": 4.67,
   "list_level": null,
   "level": "C2",
@@ -205386,6 +211223,27 @@
   "langs": 9,
   "rank_raw": 1911,
   "books_pm": 0.002,
+  "band": "rare"
+ },
+ {
+  "en": "beauty box",
+  "uk": "б'юті-бокс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.57,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1970,
+  "books_pm": 0.005,
   "band": "rare"
  },
  {
@@ -205476,6 +211334,28 @@
   "band": "rare"
  },
  {
+  "en": "mini jack",
+  "uk": "міні-джек",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.29,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3194,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
   "en": "vice-speaker",
   "uk": "віце-спікер",
   "pos": "noun",
@@ -205540,6 +211420,49 @@
   "band": "rare"
  },
  {
+  "en": "face yoga",
+  "uk": "фейс-йога",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.18,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3832,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "content maker",
+  "uk": "контент-мейкер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.16,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 3922,
+  "books_pm": 0.002,
+  "band": "rare"
+ },
+ {
   "en": "grid site",
   "uk": "грід-сайт",
   "pos": "noun",
@@ -205559,6 +211482,51 @@
   "langs": 9,
   "rank_raw": 4018,
   "books_pm": 0.005,
+  "band": "rare"
+ },
+ {
+  "en": "tier list",
+  "uk": "тір-ліст",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "games",
+   "informal",
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.13,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4127,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "business trainer",
+  "uk": "бізнес-тренер",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 4.06,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 4571,
+  "books_pm": 0.002,
   "band": "rare"
  },
  {
@@ -205825,27 +211793,6 @@
   "band": "rare"
  },
  {
-  "en": "bot farm",
-  "uk": "бот-ферма",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 3.77,
-  "list_level": null,
-  "level": "C1",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 7013,
-  "books_pm": 0.001,
-  "band": "rare"
- },
- {
   "en": "disco bar",
   "uk": "диско-бар",
   "pos": "noun",
@@ -205951,6 +211898,27 @@
   "langs": 9,
   "rank_raw": 7754,
   "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "wreck diving",
+  "uk": "рек-дайвінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.69,
+  "list_level": null,
+  "level": "C2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 3,
+  "rank_raw": 7842,
+  "books_pm": 0.007,
   "band": "rare"
  },
  {
@@ -206085,6 +212053,28 @@
   "langs": 9,
   "rank_raw": 8304,
   "books_pm": 0.002,
+  "band": "rare"
+ },
+ {
+  "en": "fitness bikini",
+  "uk": "фітнес-бікіні",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.62,
+  "list_level": null,
+  "level": "C2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 8568,
+  "books_pm": 0.0,
   "band": "rare"
  },
  {
@@ -206237,27 +212227,6 @@
   "band": "rare"
  },
  {
-  "en": "glitch art",
-  "uk": "глитч-арт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 3.44,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 10783,
-  "books_pm": 0.004,
-  "band": "rare"
- },
- {
   "en": "techno producer",
   "uk": "техно-продюсер",
   "pos": "noun",
@@ -206280,25 +212249,25 @@
   "band": "rare"
  },
  {
-  "en": "glitch effect",
-  "uk": "глитч-ефект",
+  "en": "method feeder",
+  "uk": "метод-фідер",
   "pos": "noun",
   "british": false,
   "labels": [
-   "media",
-   "tech"
+   "sport",
+   "technical"
   ],
   "note": "",
   "checked": 2,
-  "src": "gap-fullscan.json",
+  "src": "gap-sweep-r2.json",
   "zipf": 3.44,
   "list_level": null,
-  "level": "C1",
+  "level": "C2",
   "rank": 100001,
   "rank_est": true,
-  "langs": 8,
-  "rank_raw": 10885,
-  "books_pm": 0.001,
+  "langs": 4,
+  "rank_raw": 10825,
+  "books_pm": 0.0,
   "band": "rare"
  },
  {
@@ -206345,6 +212314,28 @@
   "langs": 9,
   "rank_raw": 10907,
   "books_pm": 0.002,
+  "band": "rare"
+ },
+ {
+  "en": "karaoke club",
+  "uk": "караоке-клуб",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "music",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.42,
+  "list_level": null,
+  "level": "B2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11062,
+  "books_pm": 0.008,
   "band": "rare"
  },
  {
@@ -206416,6 +212407,49 @@
   "band": "rare"
  },
  {
+  "en": "aqua fitness",
+  "uk": "аквафітнес",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.39,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11621,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "jeep safari",
+  "uk": "джип-сафарі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "transport",
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.37,
+  "list_level": null,
+  "level": "B2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 11831,
+  "books_pm": 0.011,
+  "band": "rare"
+ },
+ {
   "en": "biker style",
   "uk": "байкер-стиль",
   "pos": "noun",
@@ -206477,6 +212511,27 @@
   "rank_est": true,
   "langs": 2,
   "rank_raw": 12865,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "zip hoodie",
+  "uk": "зіп-худі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.27,
+  "list_level": null,
+  "level": "B2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 6,
+  "rank_raw": 13360,
   "books_pm": 0.001,
   "band": "rare"
  },
@@ -206764,6 +212819,27 @@
   "band": "rare"
  },
  {
+  "en": "snowboard cross",
+  "uk": "сноуборд-крос",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 3.0,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 18222,
+  "books_pm": 0.004,
+  "band": "rare"
+ },
+ {
   "en": "techno thrash",
   "uk": "техно-треш",
   "pos": "noun",
@@ -206781,6 +212857,27 @@
   "rank_est": true,
   "langs": 9,
   "rank_raw": 18610,
+  "books_pm": 0.0,
+  "band": "rare"
+ },
+ {
+  "en": "spa manicure",
+  "uk": "спа-манікюр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.95,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 5,
+  "rank_raw": 19455,
   "books_pm": 0.0,
   "band": "rare"
  },
@@ -207049,6 +213146,27 @@
   "rank_est": true,
   "langs": 4,
   "rank_raw": 25635,
+  "books_pm": 0.001,
+  "band": "rare"
+ },
+ {
+  "en": "spa pedicure",
+  "uk": "спа-педикюр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 2.69,
+  "list_level": null,
+  "level": "C1",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 4,
+  "rank_raw": 25655,
   "books_pm": 0.001,
   "band": "rare"
  },
@@ -207356,29 +213474,6 @@
   "rank_est": true,
   "langs": 0,
   "rank_raw": 33022,
-  "share": 3.0,
-  "band": "rare"
- },
- {
-  "en": "reiter",
-  "uk": "райтер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "archaic",
-   "international",
-   "military"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-001.json",
-  "zipf": 2.49,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 34892,
   "share": 3.0,
   "band": "rare"
  },
@@ -207861,29 +213956,6 @@
   "langs": 2,
   "rank_raw": 52064,
   "share": 20.0,
-  "band": "rare"
- },
- {
-  "en": "quadrate",
-  "uk": "квадрат",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "archaic",
-   "math",
-   "rare"
-  ],
-  "note": "Archaic English for 'a square'; modern English uses square. 'quadrat' is a technical term for a square sample plot in ecology.",
-  "checked": 2,
-  "src": "scan-009.json",
-  "zipf": 1.94,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 52573,
-  "share": 10.0,
   "band": "rare"
  },
  {
@@ -208517,28 +214589,6 @@
   "band": "rare"
  },
  {
-  "en": "flexure",
-  "uk": "флексура",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "science"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 1.89,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 65716,
-  "share": 40.0,
-  "band": "rare"
- },
- {
   "en": "chambon",
   "uk": "шамбон",
   "pos": "noun",
@@ -208697,6 +214747,28 @@
   "band": "rare"
  },
  {
+  "en": "strobing",
+  "uk": "стробінг",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "other",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 1.82,
+  "list_level": null,
+  "level": "C2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 67604,
+  "share": 40.0,
+  "band": "rare"
+ },
+ {
   "en": "bivalent",
   "uk": "бівалент",
   "pos": "noun",
@@ -208762,28 +214834,6 @@
   "langs": 4,
   "rank_raw": 67642,
   "share": 40.0,
-  "band": "rare"
- },
- {
-  "en": "ferromagnetic",
-  "uk": "феромагнетик",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "physics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 2.3,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 68102,
-  "share": 5.0,
   "band": "rare"
  },
  {
@@ -209716,28 +215766,6 @@
   "band": "rare"
  },
  {
-  "en": "reverser",
-  "uk": "реверсор",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 1.79,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 75706,
-  "share": 50.0,
-  "band": "rare"
- },
- {
   "en": "montgolfier",
   "uk": "монгольф'єр",
   "pos": "noun",
@@ -210070,29 +216098,6 @@
   "langs": 5,
   "rank_raw": 80512,
   "share": 30.0,
-  "band": "rare"
- },
- {
-  "en": "diapason",
-  "uk": "діапазон",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "dated",
-   "music",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "zipf": 1.84,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 80840,
-  "share": 40.0,
   "band": "rare"
  },
  {
@@ -210899,29 +216904,6 @@
   "langs": 0,
   "rank_raw": 87939,
   "share": 10.0,
-  "band": "rare"
- },
- {
-  "en": "aviso",
-  "uk": "авізо",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "finance",
-   "international",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-016.json",
-  "zipf": 1.47,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 5,
-  "rank_raw": 88328,
-  "share": 40.0,
   "band": "rare"
  },
  {
@@ -211952,28 +217934,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 96460,
-  "share": 90.0,
-  "band": "rare"
- },
- {
-  "en": "fronton",
-  "uk": "фронтон",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "places",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-001.json",
-  "zipf": 1.26,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": false,
-  "langs": 2,
-  "rank_raw": 96524,
   "share": 90.0,
   "band": "rare"
  },
@@ -221149,6 +227109,28 @@
   "band": "rare"
  },
  {
+  "en": "guipure",
+  "uk": "гіпюр",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "clothing",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 1.21,
+  "list_level": null,
+  "level": "C2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 100001,
+  "share": 100.0,
+  "band": "rare"
+ },
+ {
   "en": "herpetofauna",
   "uk": "герпетофауна",
   "pos": "noun",
@@ -222802,28 +228784,6 @@
   "band": "rare"
  },
  {
-  "en": "ushanka",
-  "uk": "вушанка",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-018.json",
-  "zipf": 1.19,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "wargamer",
   "uk": "варгеймер",
   "pos": "noun",
@@ -223385,28 +229345,6 @@
   "rank": 100001,
   "rank_est": true,
   "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "feldwebel",
-  "uk": "фельдфебель",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "military",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-019.json",
-  "zipf": 1.17,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
   "rank_raw": 100001,
   "share": 100.0,
   "band": "rare"
@@ -224077,28 +230015,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-010.json",
-  "zipf": 1.16,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "microbalance",
-  "uk": "мікробаланс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-011.json",
   "zipf": 1.16,
   "list_level": null,
   "level": "C2",
@@ -227099,29 +233015,6 @@
   "rank": 100001,
   "rank_est": true,
   "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "parasitosis",
-  "uk": "паразитоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 1.11,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
   "rank_raw": 100001,
   "share": 100.0,
   "band": "rare"
@@ -230457,29 +236350,6 @@
   "band": "rare"
  },
  {
-  "en": "contrapposto",
-  "uk": "контрапост",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-020.json",
-  "zipf": 1.04,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "diethanolamine",
   "uk": "диетаноламін",
   "pos": "noun",
@@ -230798,29 +236668,6 @@
   "band": "rare"
  },
  {
-  "en": "addend",
-  "uk": "адденд",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "math",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
-  "zipf": 1.03,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "anisocoria",
   "uk": "анізокорія",
   "pos": "noun",
@@ -231045,29 +236892,6 @@
   "band": "rare"
  },
  {
-  "en": "micropyle",
-  "uk": "мікропил",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 1.03,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "nomophobia",
   "uk": "номофобія",
   "pos": "noun",
@@ -231112,28 +236936,6 @@
   "band": "rare"
  },
  {
-  "en": "phratry",
-  "uk": "фратрія",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 1.03,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "pitahaya",
   "uk": "пітахая",
   "pos": "noun",
@@ -231145,29 +236947,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json",
-  "zipf": 1.03,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "scenographer",
-  "uk": "сценограф",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art",
-   "people",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-001.json",
   "zipf": 1.03,
   "list_level": null,
   "level": "C2",
@@ -233075,28 +238854,6 @@
   "band": "rare"
  },
  {
-  "en": "aerophoto",
-  "uk": "аерофото",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-audit.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "aerophyte",
   "uk": "аерофіт",
   "pos": "noun",
@@ -233262,29 +239019,6 @@
   "british": false,
   "labels": [
    "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "agorot",
-  "uk": "агорот",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "finance",
    "rare",
    "technical"
   ],
@@ -234895,29 +240629,6 @@
   "langs": 0,
   "rank_raw": null,
   "share": 85.0,
-  "band": "rare"
- },
- {
-  "en": "anastrophe",
-  "uk": "анастрофе",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
   "band": "rare"
  },
  {
@@ -237354,29 +243065,6 @@
   "uk_alt": [
    "арістотелізм"
   ],
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "arithmograph",
-  "uk": "аритмограф",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "math",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -240260,29 +245948,6 @@
   "band": "rare"
  },
  {
-  "en": "biostrome",
-  "uk": "біострома",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-008.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "biotron",
   "uk": "біотрон",
   "pos": "noun",
@@ -241079,29 +246744,6 @@
   "band": "rare"
  },
  {
-  "en": "budyonovka",
-  "uk": "будьонівка",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "military",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-020.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "bureaucratism",
   "uk": "бюрократизм",
   "pos": "noun",
@@ -241382,28 +247024,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "caffeinism",
-  "uk": "кофеїнізм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-011.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -242010,28 +247630,6 @@
   "band": "rare"
  },
  {
-  "en": "catamnesis",
-  "uk": "катамнез",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "catenoid",
   "uk": "катеноїд",
   "pos": "noun",
@@ -242564,28 +248162,6 @@
   "band": "rare"
  },
  {
-  "en": "chemosis",
-  "uk": "хемоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "chemotropism",
   "uk": "хемотропізм",
   "pos": "noun",
@@ -242919,28 +248495,6 @@
  {
   "en": "chlormethane",
   "uk": "хлорметан",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "chloropicrin",
-  "uk": "хлорпікрин",
   "pos": "noun",
   "british": false,
   "labels": [
@@ -245015,6 +250569,28 @@
   "note": "",
   "checked": 2,
   "src": "rscan-011.json",
+  "zipf": 0.0,
+  "list_level": null,
+  "level": "C2",
+  "rank": null,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": null,
+  "share": 100.0,
+  "band": "rare"
+ },
+ {
+  "en": "cryosauna",
+  "uk": "кріосауна",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "medicine",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -247536,28 +253112,6 @@
    "chemistry",
    "rare",
    "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "dockmaster",
-  "uk": "докмейстер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people",
-   "rare"
   ],
   "note": "",
   "checked": 2,
@@ -257968,29 +263522,6 @@
   "band": "rare"
  },
  {
-  "en": "inocybe",
-  "uk": "іноцибе",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "nature",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-021.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "inosite",
   "uk": "інозит",
   "pos": "noun",
@@ -259066,28 +264597,6 @@
   "band": "rare"
  },
  {
-  "en": "karyokinesis",
-  "uk": "каріокінез",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "karyolysis",
   "uk": "каріолізис",
   "pos": "noun",
@@ -259775,29 +265284,6 @@
   "band": "rare"
  },
  {
-  "en": "kissaten",
-  "uk": "кіссатен",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "food",
-   "places",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-021.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "kiwano",
   "uk": "ківано",
   "pos": "noun",
@@ -259982,28 +265468,6 @@
   "british": false,
   "labels": [
    "clothing",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-022.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "kotar",
-  "uk": "котар",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "history",
    "rare"
   ],
   "note": "",
@@ -261166,50 +266630,6 @@
   "band": "rare"
  },
  {
-  "en": "lookist",
-  "uk": "лукіст",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 30.0,
-  "band": "rare"
- },
- {
-  "en": "lootbox",
-  "uk": "лутбокс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "games",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-sweep-r1b.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C1",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "lubok",
   "uk": "лубок",
   "pos": "noun",
@@ -261942,28 +267362,6 @@
   "british": false,
   "labels": [
    "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-011.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "magnetizer",
-  "uk": "магнетизер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
    "rare"
   ],
   "note": "",
@@ -266191,29 +271589,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-004.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "mythomania",
-  "uk": "мітоманія",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -271868,28 +277243,6 @@
   "band": "rare"
  },
  {
-  "en": "photofilm",
-  "uk": "фотофільм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "art",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "photogen",
   "uk": "фотоген",
   "pos": "noun",
@@ -272721,29 +278074,6 @@
   "note": "Usual English: tweezers.",
   "checked": 2,
   "src": "scan-019.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "piroplasma",
-  "uk": "піроплазма",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "informal",
-   "media",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -273887,28 +279217,6 @@
   "band": "rare"
  },
  {
-  "en": "postil",
-  "uk": "постіл",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "postpositivism",
   "uk": "постпозитивізм",
   "pos": "noun",
@@ -274038,28 +279346,6 @@
   "rank": null,
   "rank_est": true,
   "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "powiat",
-  "uk": "повіт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-022.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 1,
   "rank_raw": null,
   "share": 100.0,
   "band": "rare"
@@ -274890,29 +280176,6 @@
   "band": "rare"
  },
  {
-  "en": "protofibril",
-  "uk": "протофібрил",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "protograph",
   "uk": "протограф",
   "pos": "noun",
@@ -275699,28 +280962,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-013.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "pukara",
-  "uk": "пукара",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "history",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-023.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -276613,6 +281854,28 @@
   "band": "rare"
  },
  {
+  "en": "rashism",
+  "uk": "рашизм",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "politics",
+   "rare"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 0.0,
+  "list_level": null,
+  "level": "C2",
+  "rank": null,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": null,
+  "share": 100.0,
+  "band": "rare"
+ },
+ {
   "en": "ratafia",
   "uk": "ратафія",
   "pos": "noun",
@@ -276655,29 +281918,6 @@
   "langs": 0,
   "rank_raw": null,
   "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "recollapse",
-  "uk": "реколапс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "physics",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 80.0,
   "band": "rare"
  },
  {
@@ -277997,29 +283237,6 @@
   "note": "",
   "checked": 2,
   "src": "rverify-023.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "sarcoplasm",
-  "uk": "саркоплазма",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -279763,6 +284980,29 @@
   "band": "rare"
  },
  {
+  "en": "stoppie",
+  "uk": "стопі",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "rare",
+   "slang",
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r2.json",
+  "zipf": 0.0,
+  "list_level": null,
+  "level": "C2",
+  "rank": null,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": null,
+  "share": 100.0,
+  "band": "rare"
+ },
+ {
   "en": "strabism",
   "uk": "страбізм",
   "pos": "noun",
@@ -280088,28 +285328,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-014.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "sumoist",
-  "uk": "сумоїст",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -280866,29 +286084,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-audit.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "telnyashka",
-  "uk": "тільняшка",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "military",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-023.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -282303,28 +287498,6 @@
   "band": "rare"
  },
  {
-  "en": "tselina",
-  "uk": "цілина",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "history",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-023.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "tubeteika",
   "uk": "тюбетейка",
   "pos": "noun",
@@ -282486,29 +287659,6 @@
   "labels": [
    "people",
    "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "tuyere",
-  "uk": "туєр",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare",
-   "technical"
   ],
   "note": "",
   "checked": 2,
@@ -283125,28 +288275,6 @@
   "labels": [
    "rare",
    "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "unificator",
-  "uk": "уніфікатор",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare"
   ],
   "note": "",
   "checked": 2,
@@ -285177,29 +290305,6 @@
   "band": "rare"
  },
  {
-  "en": "viscacha",
-  "uk": "віскаша",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-008.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "viscin",
   "uk": "вісцин",
   "pos": "noun",
@@ -285580,29 +290685,6 @@
   "rank": null,
   "rank_est": true,
   "langs": 1,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "wanderwort",
-  "uk": "вандерворт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-023.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
   "rank_raw": null,
   "share": 100.0,
   "band": "rare"

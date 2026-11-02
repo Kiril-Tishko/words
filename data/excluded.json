@@ -1115,11 +1115,6 @@
 "why": "Ukrainian side written in Latin letters"
 },
 {
-"en": "MVP",
-"uk": "MVP",
-"why": "Ukrainian side written in Latin letters"
-},
-{
 "en": "OLED",
 "uk": "OLED",
 "why": "Ukrainian side written in Latin letters"
@@ -1220,6 +1215,11 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "fronton",
+"uk": "фронтон",
+"why": "final expert pass: false_friend"
+},
+{
 "en": "duplet",
 "uk": "дуплет",
 "why": "final expert pass: false_friend"
@@ -1243,6 +1243,11 @@
 "en": "traumatism",
 "uk": "травматизм",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "scenographer",
+"uk": "сценограф",
+"why": "final expert pass: similar"
 },
 {
 "en": "mastering",
@@ -1365,6 +1370,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "glycolysis",
+"uk": "гліколіз",
+"why": "final expert pass: similar"
+},
+{
 "en": "chlorosis",
 "uk": "хлороз",
 "why": "final expert pass: similar"
@@ -1400,9 +1410,24 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "quinoline",
+"uk": "хінолін",
+"why": "final expert pass: similar"
+},
+{
+"en": "ketosis",
+"uk": "кетоз",
+"why": "final expert pass: similar"
+},
+{
 "en": "general",
 "uk": "генерал",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "symphysis",
+"uk": "симфіз",
+"why": "final expert pass: similar"
 },
 {
 "en": "analgin",
@@ -1465,6 +1490,11 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "histoplasmosis",
+"uk": "гістоплазмоз",
+"why": "final expert pass: similar"
+},
+{
 "en": "drink",
 "uk": "дрінк",
 "why": "final expert pass: partial_false_friend"
@@ -1500,8 +1530,18 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "aspergillosis",
+"uk": "аспергільоз",
+"why": "final expert pass: similar"
+},
+{
 "en": "resorcinol",
 "uk": "резорцин",
+"why": "final expert pass: similar"
+},
+{
+"en": "secateurs",
+"uk": "секатор",
 "why": "final expert pass: similar"
 },
 {
@@ -1513,6 +1553,11 @@
 "en": "polyandria",
 "uk": "поліандрія",
 "why": "final expert pass: not_english"
+},
+{
+"en": "postil",
+"uk": "постіл",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "hesychasm",
@@ -1585,6 +1630,16 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "sumoist",
+"uk": "сумоїст",
+"why": "final expert pass: not_english"
+},
+{
+"en": "workout",
+"uk": "воркаут",
+"why": "final expert pass: partial_false_friend"
+},
+{
 "en": "lectorate",
 "uk": "лекторат",
 "why": "final expert pass: not_english"
@@ -1595,8 +1650,18 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "lipolysis",
+"uk": "ліполіз",
+"why": "final expert pass: similar"
+},
+{
 "en": "telekinesis",
 "uk": "телекінез",
+"why": "final expert pass: similar"
+},
+{
+"en": "arteriosclerosis",
+"uk": "артеріосклероз",
 "why": "final expert pass: similar"
 },
 {
@@ -1610,6 +1675,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "organogenesis",
+"uk": "органогенез",
+"why": "final expert pass: similar"
+},
+{
 "en": "clausula",
 "uk": "клаузула",
 "why": "final expert pass: false_friend"
@@ -1618,6 +1688,11 @@
 "en": "limbo",
 "uk": "лімбо",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "chaconne",
+"uk": "чакона",
+"why": "final expert pass: similar"
 },
 {
 "en": "brief",
@@ -1770,6 +1845,16 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "agorot",
+"uk": "агорот",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "addend",
+"uk": "адденд",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "hadron",
 "uk": "адрон",
 "why": "final expert pass: similar"
@@ -1800,6 +1885,11 @@
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
+"en": "anastrophe",
+"uk": "анастрофе",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "anatomist",
 "uk": "анатоміст",
 "why": "final expert pass: not_standard_ukrainian"
@@ -1817,6 +1907,11 @@
 {
 "en": "appositive",
 "uk": "аппозитив",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "arithmograph",
+"uk": "аритмограф",
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
@@ -1848,6 +1943,16 @@
 "en": "venula",
 "uk": "венула",
 "why": "final expert pass: not_english"
+},
+{
+"en": "viscacha",
+"uk": "віскаша",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "biostrome",
+"uk": "біострома",
+"why": "final expert pass: similar"
 },
 {
 "en": "volumenometer",
@@ -1940,6 +2045,16 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "hysteric",
+"uk": "гістерик",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "dacron",
+"uk": "дакрон",
+"why": "final expert pass: proper_noun"
+},
+{
 "en": "debitor",
 "uk": "дебітор",
 "why": "final expert pass: not_english"
@@ -2000,6 +2115,11 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "dockmaster",
+"uk": "докмейстер",
+"why": "final expert pass: similar"
+},
+{
 "en": "dortour",
 "uk": "дортуар",
 "why": "final expert pass: similar"
@@ -2030,6 +2150,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "diacritic",
+"uk": "діакритик",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "diathermy",
 "uk": "діатермія",
 "why": "final expert pass: similar"
@@ -2038,6 +2163,11 @@
 "en": "diopter",
 "uk": "діоптер",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "diapason",
+"uk": "діапазон",
+"why": "final expert pass: partial_false_friend"
 },
 {
 "en": "exhumator",
@@ -2120,6 +2250,16 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "karyokinesis",
+"uk": "каріокінез",
+"why": "final expert pass: similar"
+},
+{
+"en": "catamnesis",
+"uk": "катамнез",
+"why": "final expert pass: similar"
+},
+{
 "en": "quadruplet",
 "uk": "квадруплет",
 "why": "final expert pass: partial_false_friend"
@@ -2163,6 +2303,11 @@
 "en": "communicant",
 "uk": "комунікант",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "conductance",
+"uk": "кондуктанс",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "consequent",
@@ -2210,6 +2355,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "caffeinism",
+"uk": "кофеїнізм",
+"why": "final expert pass: similar"
+},
+{
 "en": "cravat",
 "uk": "крават",
 "why": "final expert pass: not_standard_ukrainian"
@@ -2245,6 +2395,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "magnetizer",
+"uk": "магнетизер",
+"why": "final expert pass: partial_false_friend"
+},
+{
 "en": "magnetophone",
 "uk": "магнітофон",
 "why": "final expert pass: not_english"
@@ -2275,13 +2430,28 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "microbalance",
+"uk": "мікробаланс",
+"why": "final expert pass: false_friend"
+},
+{
 "en": "micromere",
 "uk": "мікромір",
 "why": "final expert pass: false_friend"
 },
 {
+"en": "micropyle",
+"uk": "мікропил",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "microfiche",
 "uk": "мікрофіш",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "mythomania",
+"uk": "мітоманія",
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
@@ -2293,6 +2463,11 @@
 "en": "neotenia",
 "uk": "неотенія",
 "why": "final expert pass: not_english"
+},
+{
+"en": "noncombatant",
+"uk": "нонкомбатант",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "notable",
@@ -2333,6 +2508,11 @@
 "en": "paleograph",
 "uk": "палеограф",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "parasitosis",
+"uk": "паразитоз",
+"why": "final expert pass: similar"
 },
 {
 "en": "paramagnetic",
@@ -2410,6 +2590,11 @@
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
+"en": "protofibril",
+"uk": "протофібрил",
+"why": "final expert pass: similar"
+},
+{
 "en": "protractor",
 "uk": "протрактор",
 "why": "final expert pass: partial_false_friend"
@@ -2440,9 +2625,19 @@
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
+"en": "reverser",
+"uk": "реверсор",
+"why": "final expert pass: similar"
+},
+{
 "en": "resultant",
 "uk": "результант",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "recollapse",
+"uk": "реколапс",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "reconvalescent",
@@ -2500,6 +2695,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "sarcoplasm",
+"uk": "саркоплазма",
+"why": "final expert pass: similar"
+},
+{
 "en": "switching",
 "uk": "світчинг",
 "why": "final expert pass: partial_false_friend"
@@ -2513,6 +2713,11 @@
 "en": "reformat",
 "uk": "реформат",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "piroplasma",
+"uk": "піроплазма",
+"why": "final expert pass: not_english"
 },
 {
 "en": "sycophant",
@@ -2565,11 +2770,6 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
-"en": "smalltalk",
-"uk": "смолток",
-"why": "final expert pass: proper_noun"
-},
-{
 "en": "spreader",
 "uk": "спредер",
 "why": "final expert pass: partial_false_friend"
@@ -2605,6 +2805,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "tuyere",
+"uk": "туєр",
+"why": "final expert pass: false_friend"
+},
+{
 "en": "tunica",
 "uk": "туніка",
 "why": "final expert pass: false_friend"
@@ -2622,6 +2827,11 @@
 {
 "en": "ultramodern",
 "uk": "ультрамодерн",
+"why": "final expert pass: not_english"
+},
+{
+"en": "unificator",
+"uk": "уніфікатор",
 "why": "final expert pass: not_english"
 },
 {
@@ -2643,6 +2853,16 @@
 "en": "falda",
 "uk": "фалда",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "ferromagnetic",
+"uk": "феромагнетик",
+"why": "final expert pass: not_english"
+},
+{
+"en": "flexure",
+"uk": "флексура",
+"why": "final expert pass: similar"
 },
 {
 "en": "floreal",
@@ -2670,9 +2890,19 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "photofilm",
+"uk": "фотофільм",
+"why": "final expert pass: false_friend"
+},
+{
 "en": "frass",
 "uk": "фрас",
 "why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "phratry",
+"uk": "фратрія",
+"why": "final expert pass: similar"
 },
 {
 "en": "freeway",
@@ -2720,9 +2950,19 @@
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
+"en": "chemosis",
+"uk": "хемоз",
+"why": "final expert pass: similar"
+},
+{
 "en": "hemoprotein",
 "uk": "хемопротеїн",
 "why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "chloropicrin",
+"uk": "хлорпікрин",
+"why": "final expert pass: similar"
 },
 {
 "en": "holoenzyme",
@@ -2835,6 +3075,11 @@
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
+"en": "reiter",
+"uk": "райтер",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "junker",
 "uk": "юнкер",
 "why": "final expert pass: partial_false_friend"
@@ -2875,6 +3120,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "presbyter",
+"uk": "пресвітер",
+"why": "final expert pass: similar"
+},
+{
 "en": "festoon",
 "uk": "фестон",
 "why": "final expert pass: partial_false_friend"
@@ -2905,6 +3155,16 @@
 "why": "final expert pass: proper_noun"
 },
 {
+"en": "parabellum",
+"uk": "парабелум",
+"why": "final expert pass: proper_noun"
+},
+{
+"en": "ferrata",
+"uk": "феррата",
+"why": "final expert pass: not_english"
+},
+{
 "en": "oboist",
 "uk": "гобоїст",
 "why": "final expert pass: similar"
@@ -2913,6 +3173,11 @@
 "en": "pederast",
 "uk": "педераст",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "aitch",
+"uk": "ейч",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "akamatsu",
@@ -2945,6 +3210,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "oogenesis",
+"uk": "оогенез",
+"why": "final expert pass: similar"
+},
+{
 "en": "catafalque",
 "uk": "катафалк",
 "why": "final expert pass: partial_false_friend"
@@ -2953,6 +3223,11 @@
 "en": "termagant",
 "uk": "термагант",
 "why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "aviso",
+"uk": "авізо",
+"why": "final expert pass: false_friend"
 },
 {
 "en": "sake",
@@ -3010,9 +3285,19 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "ushanka",
+"uk": "вушанка",
+"why": "final expert pass: similar"
+},
+{
 "en": "varyag",
 "uk": "варяг",
 "why": "final expert pass: not_english"
+},
+{
+"en": "feldwebel",
+"uk": "фельдфебель",
+"why": "final expert pass: similar"
 },
 {
 "en": "strikebreaker",
@@ -3020,14 +3305,29 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "rezident",
+"uk": "резидент",
+"why": "final expert pass: not_english"
+},
+{
 "en": "karavan",
 "uk": "караван",
 "why": "final expert pass: not_english"
 },
 {
+"en": "contrapposto",
+"uk": "контрапост",
+"why": "final expert pass: similar"
+},
+{
 "en": "beskozyrka",
 "uk": "безкозирка",
 "why": "final expert pass: not_english"
+},
+{
+"en": "budyonovka",
+"uk": "будьонівка",
+"why": "final expert pass: similar"
 },
 {
 "en": "bukvitsa",
@@ -3065,6 +3365,11 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "inocybe",
+"uk": "іноцибе",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "kenesa",
 "uk": "кенаса",
 "why": "final expert pass: similar"
@@ -3073,6 +3378,16 @@
 "en": "khaltura",
 "uk": "халтура",
 "why": "final expert pass: not_english"
+},
+{
+"en": "kissaten",
+"uk": "кіссатен",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "kotar",
+"uk": "котар",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "kremlebot",
@@ -3110,6 +3425,16 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "powiat",
+"uk": "повіт",
+"why": "final expert pass: similar"
+},
+{
+"en": "pukara",
+"uk": "пукара",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "raumism",
 "uk": "раумізм",
 "why": "final expert pass: not_english"
@@ -3125,8 +3450,18 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "telnyashka",
+"uk": "тільняшка",
+"why": "final expert pass: similar"
+},
+{
 "en": "tovarich",
 "uk": "товариш",
+"why": "final expert pass: similar"
+},
+{
+"en": "tselina",
+"uk": "цілина",
 "why": "final expert pass: similar"
 },
 {
@@ -3137,6 +3472,11 @@
 {
 "en": "villin",
 "uk": "вилін",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "wanderwort",
+"uk": "вандерворт",
 "why": "final expert pass: not_standard_ukrainian"
 },
 {
@@ -3225,6 +3565,11 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "quadrate",
+"uk": "квадрат",
+"why": "final expert pass: partial_false_friend"
+},
+{
 "en": "radical",
 "uk": "радикал",
 "why": "final expert pass: partial_false_friend"
@@ -3288,6 +3633,11 @@
 "en": "print",
 "uk": "принт",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "Pascha",
+"uk": "Пасха",
+"why": "final expert pass: proper_noun"
 },
 {
 "en": "mcg",
@@ -3940,6 +4290,11 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "PVA",
+"uk": "ПВА",
+"why": "final expert pass: similar"
+},
+{
 "en": "nim",
 "uk": "нім",
 "why": "final expert pass: proper_noun"
@@ -3990,6 +4345,11 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "general field marshal",
+"uk": "генерал-фельдмаршал",
+"why": "final expert pass: similar"
+},
+{
 "en": "brandy cola",
 "uk": "бренді-кола",
 "why": "final expert pass: not_english"
@@ -4002,6 +4362,11 @@
 {
 "en": "vena",
 "uk": "вена",
+"why": "final expert pass: not_english"
+},
+{
+"en": "aerophoto",
+"uk": "аерофото",
 "why": "final expert pass: not_english"
 },
 {
@@ -4055,9 +4420,19 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "pilaster",
+"uk": "пілястр",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "brulee",
 "uk": "брюле",
 "why": "final expert pass: not_english"
+},
+{
+"en": "paternoster",
+"uk": "патерностер",
+"why": "final expert pass: partial_false_friend"
 },
 {
 "en": "netto",
@@ -4078,6 +4453,11 @@
 "en": "premier division",
 "uk": "прем'єр-дивізіон",
 "why": "final expert pass: proper_noun"
+},
+{
+"en": "bot farm",
+"uk": "бот-ферма",
+"why": "final expert pass: similar"
 },
 {
 "en": "in-folio",
@@ -4175,6 +4555,16 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "glitch art",
+"uk": "глитч-арт",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "glitch effect",
+"uk": "глитч-ефект",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "jazz rhythm",
 "uk": "джазритм",
 "why": "final expert pass: not_standard_ukrainian"
@@ -4190,9 +4580,19 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "lookist",
+"uk": "лукіст",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "pairing",
 "uk": "пейринг",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "vizsla",
+"uk": "візсла",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "natto",
@@ -4265,13 +4665,23 @@
 "why": "final expert pass: not_english"
 },
 {
+"en": "MVP",
+"uk": "МВП",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "OS",
 "uk": "ОС",
-"why": "final expert pass: false_friend"
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "WTF",
 "uk": "втф",
 "why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "photo model",
+"uk": "фотомодель",
+"why": "final expert pass: not_english"
 }
 ]

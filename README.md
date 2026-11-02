@@ -13,7 +13,15 @@ Open `index.html` in a browser. It works offline, and on any static host such as
 - **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
 
 ### Pictures
-The back of every card has a picture place. To fill it, save an image as `images/<word>.webp` (or `.jpg`, `.png`, `.svg`, `.avif`) and rebuild. The file name is the English word in lowercase, with accents removed and spaces as hyphens: `images/taxi.webp`, `images/hot-dog.jpg`, `images/deja-vu.png`.
+The back of every card has a picture place.
+- About 470 cards (taxi, hotel, doctor, guitar, koala…) show a picture from **Noto Emoji** (Google, Apache License 2.0).
+  - Agents picked a picture only where it clearly shows the card's meaning (`tools/workflows/emoji-map.js`). Abstract words get none.
+  - `tools/make_pictures.py` turns the choices into `data/levels/pictures.json`, and the build puts the SVG on the card.
+- To add your own picture, save it as `images/<word>.webp` (or `.jpg`, `.png`, `.svg`, `.avif`) and rebuild. It replaces the emoji.
+  - The file name is the English word in lowercase, accents removed, spaces as hyphens: `images/taxi.webp`, `images/hot-dog.jpg`, `images/deja-vu.png`.
+
+### Stress mark
+The underlined vowel is the stressed syllable as the recording says it (`tools/compute_stress.py`). It uses the voice model's pronunciation dictionary (misaki), with CMUdict as a fallback. Noun/verb pairs use the noun reading (UPdate, IMpact).
 
 ## Examples
 Every card has 4 English example sentences in the card's meaning. Their level follows the band:
@@ -56,7 +64,9 @@ No word comes from memory. Each step is a script or a recorded check.
    - drops cards whose English word no dictionary or corpus knows (`tools/en_evidence.py`)
    - drops Latin-script Ukrainian sides and prefixes
    - merges spelling duplicates, keeping the American or international form
-8. **Final expert pass** on every card (`tools/workflows/card-qa.js`), then a linguist review of all cards in Top 1000–Top 10K (`docs/review/`).
+8. **Final expert pass** on every card (`tools/workflows/card-qa.js`), then a linguist review of all cards in Top 1000–Top 10K (`docs/review/linguist-final.md`).
+9. **Second sweep round**: 14 domains of modern loanwords (воркаут, смолток, плот-твіст, хепі-ауер). Each suggestion went through the same dictionary check, second check and expert pass (`tools/workflows/sweep2.js`).
+10. **Precision sweep**: two independent judges re-checked every card in Top 20K and rarer, about 12,000 cards. The pairs both judges rejected were removed (`tools/workflows/precision-sweep.js`, `tools/apply_prec_sweep.py`).
 
 In total, about 61,000 recorded verdicts on 35,000 distinct pairs, plus the full scans and audits.
 

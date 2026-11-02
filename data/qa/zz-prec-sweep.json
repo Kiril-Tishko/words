@@ -1,15 +1,19 @@
 {
-"scalp": {
-"v": "partial_false_friend",
-"why": "precision sweep, both judges: English mainly head skin; Ukrainian mostly trophy scalp"
-},
 "establishment": {
 "v": "partial_false_friend",
 "why": "precision sweep, both judges: English mainly means business/institution or founding"
 },
+"scalp": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: English mainly head skin; Ukrainian mostly trophy scalp"
+},
 "cookie": {
 "v": "partial_false_friend",
 "why": "precision sweep, both judges: Main meaning is biscuit (печиво); кукі only web"
+},
+"WTF": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainians write WTF in Latin, not втф"
 },
 "militant": {
 "v": "not_standard_ukrainian",
@@ -19,13 +23,13 @@
 "v": "similar",
 "why": "precision sweep, both judges: brunette is female: брюнетка; брюнет is masculine"
 },
-"WTF": {
-"v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Ukrainians write WTF in Latin, not втф"
-},
 "GIS": {
 "v": "similar",
 "why": "precision sweep, both judges: Native Ukrainian abbreviation of геоінформаційна система, not borrowing"
+},
+"GMO": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Native Ukrainian abbreviation, not a borrowing"
 },
 "raft": {
 "v": "partial_false_friend",
@@ -35,21 +39,21 @@
 "v": "proper_noun",
 "why": "precision sweep, both judges: Language name"
 },
-"GMO": {
-"v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Native Ukrainian abbreviation, not a borrowing"
-},
 "proponent": {
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Ukrainians say прихильник; пропонент means proposer"
+},
+"TNT": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Native abbreviation of тринітротолуол, not a borrowing"
 },
 "Telugu": {
 "v": "proper_noun",
 "why": "precision sweep, both judges: Name of a language"
 },
-"TNT": {
-"v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Native abbreviation of тринітротолуол, not a borrowing"
+"Yiddish": {
+"v": "proper_noun",
+"why": "precision sweep, both judges: Language name, capitalized proper noun"
 },
 "skater": {
 "v": "partial_false_friend",
@@ -59,33 +63,29 @@
 "v": "similar",
 "why": "precision sweep, both judges: Native Ukrainian abbreviation, not a borrowing"
 },
-"ivory": {
-"v": "partial_false_friend",
-"why": "precision sweep, both judges: Main meaning tusk material = слонова кістка"
-},
 "minotaur": {
 "v": "proper_noun",
 "why": "precision sweep, both judges: Name of a specific mythological creature"
 },
-"Yiddish": {
-"v": "proper_noun",
-"why": "precision sweep, both judges: Language name, capitalized proper noun"
+"ivory": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Main meaning tusk material = слонова кістка"
+},
+"clipping": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Newspaper clipping is вирізка; кліпінг means media monitoring"
 },
 "OOP": {
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Native Ukrainian abbreviation, not a borrowing"
 },
-"sports bar": {
-"v": "similar",
-"why": "precision sweep, both judges: English sports keeps -s; Ukrainian drops it"
-},
 "slime": {
 "v": "partial_false_friend",
 "why": "precision sweep, both judges: Main sense slimy substance is слиз; слайм only toy"
 },
-"clipping": {
-"v": "partial_false_friend",
-"why": "precision sweep, both judges: Newspaper clipping is вирізка; кліпінг means media monitoring"
+"sports bar": {
+"v": "similar",
+"why": "precision sweep, both judges: English sports keeps -s; Ukrainian drops it"
 },
 "Hanukkah": {
 "v": "proper_noun",
@@ -103,13 +103,13 @@
 "v": "proper_noun",
 "why": "precision sweep, both judges: Name of a holiday"
 },
-"colada": {
-"v": "not_english",
-"why": "precision sweep, both judges: Only used within 'piña colada', not standalone"
-},
 "Lend-Lease": {
 "v": "proper_noun",
 "why": "precision sweep, both judges: Name of a specific US wartime program"
+},
+"colada": {
+"v": "not_english",
+"why": "precision sweep, both judges: Only used within 'piña colada', not standalone"
 },
 "hadron": {
 "v": "similar",
@@ -123,41 +123,37 @@
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Ukrainian uses краватка/шийна хустка, not крават"
 },
-"telekinesis": {
-"v": "similar",
-"why": "precision sweep, both judges: Ending -is dropped in Ukrainian"
-},
 "resize": {
 "v": "similar",
 "why": "precision sweep, both judges: English verb; Ukrainian verb would be ресайзити"
 },
-"policymaker": {
-"v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Not used; Ukrainians say політик, укладач політики"
+"telekinesis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped in Ukrainian"
 },
 "urban park": {
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Ukrainians say міський парк, not урбан-парк"
 },
-"unicycle": {
+"policymaker": {
 "v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Ukrainians say моноцикл"
+"why": "precision sweep, both judges: Not used; Ukrainians say політик, укладач політики"
 },
 "mcg": {
 "v": "similar",
 "why": "precision sweep, both judges: Native Ukrainian abbreviation of мікрограм, not a borrowing"
 },
+"unicycle": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainians say моноцикл"
+},
+"leukocyte": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian spelling is лейкоцит"
+},
 "denarius": {
 "v": "similar",
 "why": "precision sweep, both judges: Latin ending -us replaced by -ій"
-},
-"spurt": {
-"v": "partial_false_friend",
-"why": "precision sweep, both judges: English mainly gush or sudden burst, not sports"
-},
-"dBm": {
-"v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Native Cyrillic unit abbreviation, not a borrowing"
 },
 "brulee": {
 "v": "not_english",
@@ -167,9 +163,13 @@
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Russian form; Ukrainian is більшовизм"
 },
-"leukocyte": {
+"dBm": {
 "v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Standard Ukrainian spelling is лейкоцит"
+"why": "precision sweep, both judges: Native Cyrillic unit abbreviation, not a borrowing"
+},
+"spurt": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: English mainly gush or sudden burst, not sports"
 },
 "super soldier": {
 "v": "similar",
@@ -187,6 +187,10 @@
 "v": "similar",
 "why": "precision sweep, both judges: native Ukrainian unit abbreviation, not borrowing"
 },
+"progenitor": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Main sense ancestor is предок/родоначальник"
+},
 "radiograph": {
 "v": "false_friend",
 "why": "precision sweep, both judges: X-ray image is рентгенограма/радіограма"
@@ -195,9 +199,9 @@
 "v": "not_english",
 "why": "precision sweep, both judges: French title; English uses duke"
 },
-"progenitor": {
-"v": "partial_false_friend",
-"why": "precision sweep, both judges: Main sense ancestor is предок/родоначальник"
+"auto service": {
+"v": "not_english",
+"why": "precision sweep, both judges: Not an English lexical item; repair shop/garage"
 },
 "orthopedist": {
 "v": "not_standard_ukrainian",
@@ -206,10 +210,6 @@
 "coproduction": {
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Usual Ukrainian word is копродукція"
-},
-"auto service": {
-"v": "not_english",
-"why": "precision sweep, both judges: Not an English lexical item; repair shop/garage"
 },
 "benefice": {
 "v": "similar",
@@ -231,13 +231,57 @@
 "v": "partial_false_friend",
 "why": "precision sweep, both judges: Battery sense minor in English; usual word battery"
 },
-"avifauna": {
+"hysteric": {
 "v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Standard Ukrainian form is авіфауна"
+"why": "precision sweep, both judges: Ukrainian word is істерик, not гістерик"
+},
+"pilaster": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian form is пілястра"
+},
+"conductance": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian uses провідність"
+},
+"vizsla": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian name for the breed is вижла"
+},
+"lipolysis": {
+"v": "similar",
+"why": "precision sweep, both judges: English ending -is dropped in Ukrainian"
+},
+"arteriosclerosis": {
+"v": "similar",
+"why": "precision sweep, both judges: English ending -is dropped in Ukrainian"
+},
+"symphysis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian drops the -is ending"
+},
+"organogenesis": {
+"v": "similar",
+"why": "precision sweep, both judges: Greek ending -is dropped in Ukrainian"
+},
+"aitch": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainians call letter H 'аш', not ейч"
+},
+"dacron": {
+"v": "proper_noun",
+"why": "precision sweep, both judges: Dacron is a trademark brand name"
+},
+"glycolysis": {
+"v": "similar",
+"why": "precision sweep, both judges: Greek ending -is dropped in Ukrainian"
 },
 "hodl": {
 "v": "similar",
 "why": "precision sweep, both judges: Ukrainian verb needs ending: ходлити"
+},
+"avifauna": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian form is авіфауна"
 },
 "silicosis": {
 "v": "similar",
@@ -251,19 +295,67 @@
 "v": "similar",
 "why": "precision sweep, both judges: Ukrainian adds -а ending (-ase → -аза)"
 },
+"presbyter": {
+"v": "similar",
+"why": "precision sweep, both judges: Root shape differs: -sb- vs -св-"
+},
+"quinoline": {
+"v": "similar",
+"why": "precision sweep, both judges: Root differs: quin- vs хін-"
+},
+"secateurs": {
+"v": "similar",
+"why": "precision sweep, both judges: English plural -s dropped in Ukrainian"
+},
+"chaconne": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds -а ending; different first consonant"
+},
+"ketosis": {
+"v": "similar",
+"why": "precision sweep, both judges: English -is ending dropped"
+},
+"noncombatant": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian term is некомбатант"
+},
+"diacritic": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian uses діакритичний знак or діакритика"
+},
+"aspergillosis": {
+"v": "similar",
+"why": "precision sweep, both judges: English -is ending dropped in Ukrainian"
+},
+"histoplasmosis": {
+"v": "similar",
+"why": "precision sweep, both judges: English -is ending dropped in Ukrainian"
+},
+"parabellum": {
+"v": "proper_noun",
+"why": "precision sweep, both judges: Trademark name of pistol/cartridge, capitalized in English"
+},
+"rezident": {
+"v": "not_english",
+"why": "precision sweep, both judges: English spelling is 'resident'"
+},
+"PVA": {
+"v": "similar",
+"why": "precision sweep, both judges: Native Ukrainian abbreviation of полівінілацетат, not borrowing"
+},
 "alexandrite": {
 "v": "similar",
 "why": "precision sweep, both judges: Root vowel changed а→о (Ukrainianized Олександр)"
-},
-"druse": {
-"v": "similar",
-"why": "precision sweep, both judges: Ukrainian adds ending -а"
 },
 "Newfoundland": {
 "v": "proper_noun",
 "why": "precision sweep, both judges: Main English meaning is the Canadian island/province"
 },
-"keratosis": {
+"druse": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds ending -а"
+},
+"epistasis": {
 "v": "similar",
 "why": "precision sweep, both judges: Ukrainian drops the -is ending"
 },
@@ -275,13 +367,73 @@
 "v": "similar",
 "why": "precision sweep, both judges: Ukrainian drops the -is ending"
 },
-"epistasis": {
+"keratosis": {
 "v": "similar",
 "why": "precision sweep, both judges: Ukrainian drops the -is ending"
 },
-"dermatosis": {
+"general field marshal": {
 "v": "similar",
-"why": "precision sweep, both judges: English ending -is dropped in Ukrainian"
+"why": "precision sweep, both judges: фельд- is German Feld, not English field"
+},
+"oogenesis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped in Ukrainian form"
+},
+"ferrata": {
+"v": "not_english",
+"why": "precision sweep, both judges: Only used in phrase 'via ferrata'"
+},
+"Pascha": {
+"v": "proper_noun",
+"why": "precision sweep, both judges: Holiday name"
+},
+"paternoster": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Main English meaning is Lord's Prayer"
+},
+"bot farm": {
+"v": "similar",
+"why": "precision sweep, both judges: ферма adds ending -а to farm"
+},
+"glitch art": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian spelling is глітч"
+},
+"quadrate": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Square sense archaic; usual English is square"
+},
+"glitch effect": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian spelling is глітч"
+},
+"reiter": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian word is рейтар, not райтер"
+},
+"ferromagnetic": {
+"v": "not_english",
+"why": "precision sweep, both judges: English noun is ferromagnet; ferromagnetic is adjective"
+},
+"diapason": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: diapason mainly organ stop/tuning fork; range is literary"
+},
+"fronton": {
+"v": "false_friend",
+"why": "precision sweep, both judges: fronton is pelota court; фронтон is pediment"
+},
+"aviso": {
+"v": "false_friend",
+"why": "precision sweep, both judges: English aviso is dispatch boat; bank notice is advice"
+},
+"flexure": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds ending -а"
+},
+"reverser": {
+"v": "similar",
+"why": "precision sweep, both judges: -er ending changed to -ор"
 },
 "OKB": {
 "v": "not_standard_ukrainian",
@@ -291,13 +443,101 @@
 "v": "similar",
 "why": "precision sweep, both judges: Standard Ukrainian form is африката"
 },
-"carbonaro": {
+"dermatosis": {
 "v": "similar",
-"why": "precision sweep, both judges: Final -o dropped; standard Ukrainian is карбонарій"
+"why": "precision sweep, both judges: English ending -is dropped in Ukrainian"
 },
 "nilgai": {
 "v": "similar",
 "why": "precision sweep, both judges: Ending -ai vs -ау differs"
+},
+"carbonaro": {
+"v": "similar",
+"why": "precision sweep, both judges: Final -o dropped; standard Ukrainian is карбонарій"
+},
+"feldwebel": {
+"v": "similar",
+"why": "precision sweep, both judges: w→ф: different root shape (fel'dfebel)"
+},
+"ushanka": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds в; root shape differs"
+},
+"microbalance": {
+"v": "false_friend",
+"why": "precision sweep, both judges: Instrument is мікроваги in Ukrainian"
+},
+"contrapposto": {
+"v": "similar",
+"why": "precision sweep, both judges: Final -o dropped in Ukrainian"
+},
+"parasitosis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped in Ukrainian"
+},
+"agorot": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Hebrew plural; Ukrainian uses агора"
+},
+"anastrophe": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian term is анастрофа"
+},
+"phratry": {
+"v": "similar",
+"why": "precision sweep, both judges: -y becomes -ія ending"
+},
+"addend": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian uses доданок"
+},
+"micropyle": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian term is мікропіле"
+},
+"aerophoto": {
+"v": "not_english",
+"why": "precision sweep, both judges: English says aerial photo"
+},
+"scenographer": {
+"v": "similar",
+"why": "precision sweep, both judges: English -er suffix dropped"
+},
+"arithmograph": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian root is арифм-; аритмограф suggests rhythm"
+},
+"caffeinism": {
+"v": "similar",
+"why": "precision sweep, both judges: Root vowel caff- vs коф- differs"
+},
+"catamnesis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped in Ukrainian"
+},
+"budyonovka": {
+"v": "similar",
+"why": "precision sweep, both judges: Suffix -ovka vs -івка differs"
+},
+"chloropicrin": {
+"v": "similar",
+"why": "precision sweep, both judges: Connecting vowel o dropped"
+},
+"chemosis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped in Ukrainian"
+},
+"biostrome": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds ending -а"
+},
+"dockmaster": {
+"v": "similar",
+"why": "precision sweep, both judges: master rendered as German-style мейстер, different root shape"
+},
+"fusobacteria": {
+"v": "similar",
+"why": "precision sweep, both judges: English plural vs Ukrainian singular form"
 },
 "generalism": {
 "v": "not_standard_ukrainian",
@@ -307,16 +547,100 @@
 "v": "partial_false_friend",
 "why": "precision sweep, both judges: Mineral is еритрин; еритрит mainly means erythritol"
 },
-"fusobacteria": {
-"v": "similar",
-"why": "precision sweep, both judges: English plural vs Ukrainian singular form"
+"hemoprotein": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Standard Ukrainian term is гемопротеїн"
 },
 "gubernator": {
 "v": "not_standard_ukrainian",
 "why": "precision sweep, both judges: Standard spelling is губернатор, not ґубернатор"
 },
-"hemoprotein": {
+"lookist": {
 "v": "not_standard_ukrainian",
-"why": "precision sweep, both judges: Standard Ukrainian term is гемопротеїн"
+"why": "precision sweep, both judges: Not an established Ukrainian word"
+},
+"magnetizer": {
+"v": "partial_false_friend",
+"why": "precision sweep, both judges: Ukrainian means mesmerist; device is намагнічувач"
+},
+"kissaten": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Japanese term not used in Ukrainian"
+},
+"karyokinesis": {
+"v": "similar",
+"why": "precision sweep, both judges: Ending -is dropped"
+},
+"kotar": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Croatian term not used in Ukrainian"
+},
+"inocybe": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian name is волоконниця"
+},
+"mythomania": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian standard form is міфоманія"
+},
+"photofilm": {
+"v": "false_friend",
+"why": "precision sweep, both judges: фотофільм is a photo-slide film; camera film is фотоплівка"
+},
+"powiat": {
+"v": "similar",
+"why": "precision sweep, both judges: native cognate; transliteration would be повят"
+},
+"protofibril": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian form is протофібрила"
+},
+"piroplasma": {
+"v": "not_english",
+"why": "precision sweep, both judges: English common noun is piroplasm; Piroplasma is genus"
+},
+"postil": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian term is постила"
+},
+"recollapse": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Not an established Ukrainian word"
+},
+"pukara": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Andean fortress term not used in Ukrainian"
+},
+"sarcoplasm": {
+"v": "similar",
+"why": "precision sweep, both judges: Ukrainian adds ending -а"
+},
+"unificator": {
+"v": "not_english",
+"why": "precision sweep, both judges: English says unifier"
+},
+"telnyashka": {
+"v": "similar",
+"why": "precision sweep, both judges: Russian-based spelling; vowel differs from тільняшка"
+},
+"sumoist": {
+"v": "not_english",
+"why": "precision sweep, both judges: English says sumo wrestler"
+},
+"tselina": {
+"v": "similar",
+"why": "precision sweep, both judges: Russian целина form; Ukrainian root vowel differs"
+},
+"tuyere": {
+"v": "false_friend",
+"why": "precision sweep, both judges: tuyere is фурма; туєр is a towing boat"
+},
+"viscacha": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian standard form is віскача"
+},
+"wanderwort": {
+"v": "not_standard_ukrainian",
+"why": "precision sweep, both judges: Ukrainian says мандрівне слово"
 }
 }

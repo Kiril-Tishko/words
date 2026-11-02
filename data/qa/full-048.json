@@ -1,0 +1,928 @@
+{
+ "disc golf": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "disc golf · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We play disc golf in the park on Sundays.",
+   "Do you need special discs for disc golf?",
+   "Disc golf is cheap and easy to learn.",
+   "There is a free disc golf course near our school."
+  ]
+ },
+ "IT cluster": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an IT cluster · IT clusters",
+  "say": "",
+  "note": "In English people also say \"tech cluster\" or \"tech hub\".",
+  "ex": [
+   "Our city has a growing IT cluster with many startups.",
+   "The IT cluster helps young developers find their first jobs.",
+   "Many software companies joined the local IT cluster this year.",
+   "Is your company a member of the IT cluster?"
+  ]
+ },
+ "runner": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "a runner · runners",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She is a fast runner and trains every morning.",
+   "Every runner gets a bottle of water at the start.",
+   "Are you a runner, or do you prefer swimming?",
+   "My brother is a marathon runner from Kyiv."
+  ]
+ },
+ "spa center": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a spa center · spa centers",
+  "say": "",
+  "note": "In American English often just \"spa\" or \"day spa\".",
+  "ex": [
+   "The hotel has a spa center with a sauna and pool.",
+   "Can I book a massage at the spa center?",
+   "We spent a relaxing day at the spa center.",
+   "The spa center is open from nine to nine."
+  ]
+ },
+ "PR specialist": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a PR specialist · PR specialists",
+  "say": "",
+  "note": "Also \"PR manager\" or \"publicist\".",
+  "ex": [
+   "Our company is looking for an experienced PR specialist.",
+   "A PR specialist writes press releases and talks to journalists.",
+   "She works as a PR specialist for a small hotel.",
+   "Should we hire a PR specialist for the product launch?"
+  ]
+ },
+ "web portal": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a web portal · web portals",
+  "say": "",
+  "note": "Often just \"portal\": \"the student portal.\"",
+  "ex": [
+   "You can pay your bills through the city web portal.",
+   "Students check their grades on the school web portal.",
+   "The web portal has news, weather, and email in one place.",
+   "How do I log in to the web portal?"
+  ]
+ },
+ "vibe check": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a vibe check · vibe checks",
+  "say": "",
+  "note": "Slang, used mostly by young people.",
+  "ex": [
+   "Let's do a quick vibe check before the meeting starts.",
+   "The new cafe passed the vibe check, so we stayed.",
+   "Vibe check: how is everyone feeling today?",
+   "He did a vibe check and decided to leave the party."
+  ]
+ },
+ "stack": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a stack · stacks",
+  "say": "",
+  "note": "Most often \"stack\" means a neat pile: \"a stack of books on the table.\"",
+  "ex": [
+   "In this game, one stack holds sixty-four blocks.",
+   "I need a full stack of wood to build the house.",
+   "You can carry only one stack of arrows in this slot.",
+   "How many items can you put in one stack?"
+  ]
+ },
+ "web archive": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a web archive · web archives",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The old version of the website is in a web archive.",
+   "You can find deleted pages in a web archive.",
+   "The library keeps a web archive of local news sites.",
+   "Did you check the web archive for the old article?"
+  ]
+ },
+ "business lounge": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a business lounge · business lounges",
+  "say": "",
+  "note": "Also \"airport lounge\" or just \"lounge\".",
+  "ex": [
+   "We waited for our flight in the business lounge.",
+   "Business class tickets include access to the business lounge.",
+   "The business lounge has free food, drinks, and Wi-Fi.",
+   "Where is the business lounge in this airport?"
+  ]
+ },
+ "fitness trainer": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a fitness trainer · fitness trainers",
+  "say": "",
+  "note": "In the US often \"personal trainer\".",
+  "ex": [
+   "My fitness trainer makes a new plan every month.",
+   "The gym has a fitness trainer who helps new members.",
+   "How much does a personal fitness trainer cost here?",
+   "She became a fitness trainer after years of sports."
+  ]
+ },
+ "pop idol": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a pop idol · pop idols",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She became a pop idol at only sixteen years old.",
+   "Teenagers often copy the clothes of their favorite pop idol.",
+   "The young pop idol has millions of fans online.",
+   "Who was your favorite pop idol when you were young?"
+  ]
+ },
+ "fitness instructor": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a fitness instructor · fitness instructors",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Our fitness instructor teaches three classes every evening.",
+   "The fitness instructor showed us how to stretch correctly.",
+   "I want to become a fitness instructor next year.",
+   "Is the fitness instructor here on Saturday mornings?"
+  ]
+ },
+ "yoga retreat": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a yoga retreat · yoga retreats",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We went on a yoga retreat in the mountains.",
+   "The yoga retreat includes healthy meals and daily classes.",
+   "How much does a weekend yoga retreat usually cost?",
+   "She came back from the yoga retreat feeling calm."
+  ]
+ },
+ "sis": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a sis · sises",
+  "say": "",
+  "note": "Informal, short for \"sister\". Often used to speak to your sister: \"Hi, sis!\"",
+  "ex": [
+   "Hey sis, can you help me with my homework?",
+   "My big sis always gives me good advice.",
+   "Thanks for the birthday present, sis, I love it!",
+   "I am going to the movies with my sis tonight."
+  ]
+ },
+ "web browser": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a web browser · web browsers",
+  "say": "",
+  "note": "Often just \"browser\".",
+  "ex": [
+   "Open the link in your web browser, please.",
+   "Which web browser do you use on your laptop?",
+   "Update your web browser to make it safer and faster.",
+   "This website does not work in my old web browser."
+  ]
+ },
+ "beauty salon": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "a beauty salon · beauty salons",
+  "say": "",
+  "note": "",
+  "ex": [
+   "My sister works at a beauty salon downtown.",
+   "I have an appointment at the beauty salon at three.",
+   "The beauty salon offers haircuts, nails, and makeup.",
+   "Is there a good beauty salon near your house?"
+  ]
+ },
+ "surf camp": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a surf camp · surf camps",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We spent two weeks at a surf camp in Portugal.",
+   "The surf camp offers lessons for complete beginners.",
+   "Do you need your own board at the surf camp?",
+   "Our surf camp has a small house right on the beach."
+  ]
+ },
+ "fashion blogger": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a fashion blogger · fashion bloggers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The fashion blogger posts a new outfit every day.",
+   "Many brands send free clothes to a popular fashion blogger.",
+   "She started as a fashion blogger and now designs clothes.",
+   "Which fashion blogger do you follow on social media?"
+  ]
+ },
+ "beauty blogger": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a beauty blogger · beauty bloggers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The beauty blogger tests new makeup in her videos.",
+   "I bought this cream because a beauty blogger recommended it.",
+   "My cousin wants to become a beauty blogger.",
+   "Does this beauty blogger give honest reviews of products?"
+  ]
+ },
+ "omega-3": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "omega-3 · omega-3s",
+  "say": "",
+  "note": "Also \"omega-3s\" or \"omega-3 fatty acids\": \"Fish is rich in omega-3s.\"",
+  "ex": [
+   "Fish like salmon is rich in omega-3.",
+   "My doctor told me to take omega-3 every day.",
+   "Are there any plant foods with a lot of omega-3?",
+   "Walnuts and flax seeds are good sources of omega-3."
+  ]
+ },
+ "gel cream": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a gel cream · gel creams",
+  "say": "",
+  "note": "",
+  "ex": [
+   "This gel cream is light and good for oily skin.",
+   "Put a little gel cream on your face after washing.",
+   "I use a gel cream in summer instead of thick lotion.",
+   "Is this gel cream good for sensitive skin?"
+  ]
+ },
+ "fitness blogger": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a fitness blogger · fitness bloggers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The fitness blogger shares easy workouts for busy people.",
+   "I follow a fitness blogger who trains at home.",
+   "A fitness blogger should give safe and honest advice.",
+   "Which fitness blogger do you like the most?"
+  ]
+ },
+ "offline event": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "an offline event · offline events",
+  "say": "",
+  "note": "In English \"in-person event\" is more common.",
+  "ex": [
+   "The online community held its first offline event in a cafe.",
+   "Are you coming to the offline event on Saturday?",
+   "At the offline event, members finally met in person.",
+   "We need a bigger room for the next offline event."
+  ]
+ },
+ "lifestyle blogger": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a lifestyle blogger · lifestyle bloggers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The lifestyle blogger writes about food, travel, and home.",
+   "She works as a lifestyle blogger and travels a lot.",
+   "A lifestyle blogger showed this cafe in her video.",
+   "Is it hard to make money as a lifestyle blogger?"
+  ]
+ },
+ "selfie stick": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a selfie stick · selfie sticks",
+  "say": "",
+  "note": "",
+  "ex": [
+   "I took a selfie stick on my trip to the mountains.",
+   "You cannot use a selfie stick inside this museum.",
+   "Can I borrow your selfie stick for a group photo?",
+   "The selfie stick helps you get everyone in the picture."
+  ]
+ },
+ "roster": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a roster · rosters",
+  "say": "",
+  "note": "Also any list of names or work shifts: \"the class roster.\"",
+  "ex": [
+   "The coach added two new players to the roster.",
+   "Is my name on the team roster for Saturday?",
+   "The team has a strong roster this season.",
+   "Check the roster to see who plays in the game."
+  ]
+ },
+ "eco hotel": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "an eco hotel · eco hotels",
+  "say": "",
+  "note": "Also written \"eco-hotel\".",
+  "ex": [
+   "We stayed at an eco hotel near the forest.",
+   "The eco hotel uses solar power and saves water.",
+   "Is there an eco hotel in this part of the country?",
+   "This eco hotel serves food from local farms."
+  ]
+ },
+ "fitness bracelet": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a fitness bracelet · fitness bracelets",
+  "say": "",
+  "note": "In English usually \"fitness tracker\" or \"fitness band\".",
+  "ex": [
+   "My fitness bracelet counts my steps every day.",
+   "The fitness bracelet also shows how well I sleep.",
+   "Can your fitness bracelet measure your heart rate?",
+   "I got a cheap fitness bracelet for my birthday."
+  ]
+ },
+ "trench coat": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a trench coat · trench coats",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She wore a long beige trench coat in the rain.",
+   "A trench coat is perfect for cool spring weather.",
+   "Do you have this trench coat in a smaller size?",
+   "He hung his trench coat by the door."
+  ]
+ },
+ "spa salon": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a spa salon · spa salons",
+  "say": "",
+  "note": "In American English usually \"spa\" or \"day spa\".",
+  "ex": [
+   "My mom booked a massage at the spa salon.",
+   "The spa salon offers face masks and body treatments.",
+   "Is the spa salon open on Sundays?",
+   "We got a gift card for a spa salon downtown."
+  ]
+ },
+ "sushi chef": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a sushi chef · sushi chefs",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The sushi chef cut the fish very carefully.",
+   "It takes many years to become a good sushi chef.",
+   "We sat at the bar and watched the sushi chef.",
+   "Can the sushi chef make a roll without fish?"
+  ]
+ },
+ "wellness center": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a wellness center · wellness centers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The wellness center offers yoga, massage, and a sauna.",
+   "Our company pays for the gym at the wellness center.",
+   "Is there a wellness center in this hotel?",
+   "She works as a nutritionist at a wellness center."
+  ]
+ },
+ "online calculator": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an online calculator · online calculators",
+  "say": "",
+  "note": "",
+  "ex": [
+   "I used an online calculator to check my taxes.",
+   "This online calculator converts dollars to euros.",
+   "Is there an online calculator for loan payments?",
+   "The online calculator gives the answer in one second."
+  ]
+ },
+ "kite camp": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "a kite camp · kite camps",
+  "say": "",
+  "note": "Also \"kitesurfing camp\".",
+  "ex": [
+   "We learned kitesurfing at a kite camp by the sea.",
+   "The kite camp gives each student a board and kite.",
+   "How windy is it at the kite camp in summer?",
+   "Our kite camp lasts seven days and includes all lessons."
+  ]
+ },
+ "HP": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Most often \"HP\" means horsepower, the power of an engine: \"a 200 HP engine.\"",
+  "ex": [
+   "Your character dies when his HP drops to zero.",
+   "This potion gives you back fifty HP.",
+   "The boss has a lot of HP, so attack together.",
+   "How much HP does your character have now?"
+  ]
+ },
+ "early game": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "the early game",
+  "say": "",
+  "note": "Gaming word, used with \"the\": \"in the early game.\"",
+  "ex": [
+   "In the early game, you should collect as much gold as possible.",
+   "This hero is weak in the early game but strong later.",
+   "Our team made too many mistakes in the early game.",
+   "What items should I buy in the early game?"
+  ]
+ },
+ "late game": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "the late game",
+  "say": "",
+  "note": "Gaming word, used with \"the\": \"in the late game.\"",
+  "ex": [
+   "This character becomes very strong in the late game.",
+   "In the late game, one mistake can lose the whole match.",
+   "We were behind, but we won in the late game.",
+   "Which heroes are best for the late game?"
+  ]
+ },
+ "total look": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a total look · total looks",
+  "say": "",
+  "note": "A fashion word. In everyday English people say \"a head-to-toe look.\"",
+  "ex": [
+   "She wore a total look from one designer at the party.",
+   "The store window shows a total look with shoes and a bag.",
+   "Do you like the total look in white for summer?",
+   "This season, a denim total look is very popular."
+  ]
+ },
+ "level design": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "level design · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Good level design helps players know where to go.",
+   "He studies level design at a game development school.",
+   "The level design in this game is clever and fun.",
+   "Players complained about the boring level design in the last chapter."
+  ]
+ },
+ "fan service": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "fan service · uncountable",
+  "say": "",
+  "note": "Informal. Also written \"fanservice\".",
+  "ex": [
+   "The new episode had a lot of fan service for old fans.",
+   "Some critics said the movie relied too much on fan service.",
+   "That surprise appearance was pure fan service, and the fans loved it.",
+   "I like the story, but there is too much fan service."
+  ]
+ },
+ "press wall": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a press wall · press walls",
+  "say": "",
+  "note": "In the US often \"step and repeat\" or \"media wall\".",
+  "ex": [
+   "The actors posed for photos in front of the press wall.",
+   "We printed the sponsors' logos on the press wall.",
+   "Where should we put the press wall at the event?",
+   "Guests took pictures by the press wall all evening."
+  ]
+ },
+ "drop rate": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a drop rate · drop rates",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The drop rate for this rare sword is very low.",
+   "The developers increased the drop rate during the holiday event.",
+   "Does anyone know the drop rate of this item?",
+   "With a one percent drop rate, I may never get it."
+  ]
+ },
+ "art pop": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "art pop · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Her new album mixes art pop with electronic sounds.",
+   "I don't usually like art pop, but this song is great.",
+   "Art pop artists often experiment with unusual sounds and videos.",
+   "Can you recommend some good art pop to listen to?"
+  ]
+ },
+ "tech house": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "tech house · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The DJ played tech house until early morning.",
+   "Tech house mixes the sounds of techno and house music.",
+   "Do you prefer tech house or classic techno?",
+   "This club is famous for its tech house nights."
+  ]
+ },
+ "dance pop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "dance pop · uncountable",
+  "say": "",
+  "note": "Also written \"dance-pop\".",
+  "ex": [
+   "Her new single is a catchy dance pop song.",
+   "Dance pop is popular at parties and weddings.",
+   "The radio station plays mostly dance pop in the morning.",
+   "Do you know any good dance pop songs from the eighties?"
+  ]
+ },
+ "smart contract": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a smart contract · smart contracts",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A smart contract runs automatically on the blockchain.",
+   "The smart contract sends the payment when the work is done.",
+   "Can you explain how a smart contract works?",
+   "A mistake in the smart contract cost the company money."
+  ]
+ },
+ "shop-in-shop": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a shop-in-shop · shop-in-shops",
+  "say": "",
+  "note": "In the US often \"store within a store\".",
+  "ex": [
+   "The department store opened a shop-in-shop for a sports brand.",
+   "This shop-in-shop sells only cosmetics from one company.",
+   "A shop-in-shop helps small brands reach more customers.",
+   "Is the shop-in-shop on the first or second floor?"
+  ]
+ },
+ "free solo": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a free solo · free solos",
+  "say": "",
+  "note": "Also a verb: \"to free solo a cliff.\"",
+  "ex": [
+   "He did a free solo of the cliff without any ropes.",
+   "A free solo is very dangerous because one fall can kill you.",
+   "Have you ever watched a free solo climb in person?",
+   "Most climbers never try a free solo on a big wall."
+  ]
+ },
+ "cable park": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a cable park · cable parks",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We learned wakeboarding at the cable park near the lake.",
+   "The cable park pulls riders across the water with a cable.",
+   "How much is a two-hour ticket at the cable park?",
+   "The cable park is closed in winter because of the ice."
+  ]
+ },
+ "split push": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a split push · split pushes",
+  "say": "",
+  "note": "",
+  "ex": [
+   "One player can do a split push while the team defends.",
+   "Their split push destroyed two towers in a few minutes.",
+   "Is a split push a good idea with this hero?",
+   "We lost because nobody stopped their split push."
+  ]
+ },
+ "map pool": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a map pool · map pools",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The tournament changed its map pool this season.",
+   "Our team practices every map in the map pool.",
+   "Which maps were removed from the map pool?",
+   "A small map pool makes the matches more predictable."
+  ]
+ },
+ "level designer": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a level designer · level designers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The level designer created a huge city for the game.",
+   "She works as a level designer at a small game studio.",
+   "A level designer decides where players find enemies and items.",
+   "How did you become a level designer?"
+  ]
+ },
+ "rocket jump": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "a rocket jump · rocket jumps",
+  "say": "",
+  "note": "",
+  "ex": [
+   "With a rocket jump, you can reach the high roof.",
+   "A rocket jump hurts your character a little.",
+   "It took me a week to learn the rocket jump.",
+   "Can you show me how to do a rocket jump?"
+  ]
+ },
+ "raid boss": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a raid boss · raid bosses",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We need ten players to defeat this raid boss.",
+   "The new raid boss drops very rare weapons.",
+   "Our team spent three hours fighting the raid boss.",
+   "Which raid boss is the hardest in the game?"
+  ]
+ },
+ "top rope": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "top rope · uncountable",
+  "say": "",
+  "note": "Often in \"climb on top rope\". Also a verb: \"to top-rope a route.\"",
+  "ex": [
+   "Beginners at the climbing gym usually climb on top rope.",
+   "Climbing on top rope is safer because the rope is above you.",
+   "Can you set up a top rope on this wall?",
+   "I still climb only on top rope at the gym."
+  ]
+ },
+ "legit check": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a legit check · legit checks",
+  "say": "",
+  "note": "Slang: a check that an item is real, not fake.",
+  "ex": [
+   "I asked for a legit check before buying the sneakers online.",
+   "The legit check showed that the bag was fake.",
+   "Can someone do a legit check on this jacket?",
+   "This app offers a legit check for expensive shoes."
+  ]
+ },
+ "photo correspondent": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a photo correspondent · photo correspondents",
+  "say": "",
+  "note": "Usually \"photojournalist\" or \"news photographer\" in English.",
+  "ex": [
+   "The newspaper sent its photo correspondent to the flood area.",
+   "A photo correspondent must work fast in dangerous places.",
+   "She worked as a photo correspondent during the war.",
+   "Our photo correspondent took the picture on the front page."
+  ]
+ },
+ "cave diving": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "cave diving · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Cave diving needs special training and a lot of equipment.",
+   "Never try cave diving without an experienced guide.",
+   "He went cave diving in Mexico last summer.",
+   "Is cave diving more dangerous than diving in the sea?"
+  ]
+ },
+ "bunny hop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a bunny hop · bunny hops",
+  "say": "",
+  "note": "Also a verb: \"He bunny hopped over the log.\"",
+  "ex": [
+   "He did a bunny hop over a log on his bike.",
+   "In this game, a bunny hop helps you move faster.",
+   "Can you teach me how to do a bunny hop?",
+   "A good bunny hop lifts both wheels at the same time."
+  ]
+ }
+}

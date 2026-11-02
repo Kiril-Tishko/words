@@ -1,0 +1,385 @@
+{
+ "hip thrust": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a hip thrust · hip thrusts",
+  "say": "",
+  "ex": [
+   "My trainer told me to do hip thrusts every week.",
+   "Hip thrusts make your legs and back stronger.",
+   "Can you show me how to do a hip thrust?",
+   "I do three sets of hip thrusts at the gym."
+  ],
+  "note": ""
+ },
+ "wreck diving": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "wreck diving · uncountable",
+  "say": "",
+  "ex": [
+   "We want to go wreck diving during our vacation.",
+   "Wreck diving lets you see old ships under the sea.",
+   "Do you need special training for wreck diving?",
+   "This island is famous for its wreck diving."
+  ],
+  "note": "Uncountable: \"go wreck diving\" (not \"a wreck diving\")."
+ },
+ "fitness bikini": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "fitness bikini · uncountable",
+  "say": "",
+  "ex": [
+   "She is training hard for her first fitness bikini competition.",
+   "Fitness bikini athletes need a lean but natural body.",
+   "How many women are competing in fitness bikini this year?",
+   "My sister won second place in fitness bikini."
+  ],
+  "note": "In competitions this category is often called \"bikini fitness\" or \"the bikini division.\""
+ },
+ "loot box": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a loot box · loot boxes",
+  "say": "",
+  "ex": [
+   "My son spent all his money on loot boxes in the game.",
+   "You never know what is inside a loot box.",
+   "Some countries have rules about selling loot boxes to children.",
+   "I opened a loot box and got a rare sword."
+  ],
+  "note": "Also written \"lootbox.\""
+ },
+ "game changer": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a game changer · game changers",
+  "say": "",
+  "ex": [
+   "This new phone app is a real game changer for small shops.",
+   "Working from home was a game changer for many families.",
+   "Do you think electric cars are a game changer?",
+   "For me, a good coffee machine was a game changer."
+  ],
+  "note": "Means something that changes a situation in a big way. Also written \"game-changer.\""
+ },
+ "method feeder": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a method feeder · method feeders",
+  "say": "",
+  "ex": [
+   "I always use a method feeder when I fish in a lake.",
+   "Put some bait into the method feeder before you cast.",
+   "Which method feeder is best for big fish?",
+   "He caught three carp with a method feeder today."
+  ],
+  "note": ""
+ },
+ "karaoke club": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a karaoke club · karaoke clubs",
+  "say": "",
+  "ex": [
+   "Let's go to the karaoke club after dinner.",
+   "Is there a good karaoke club near the hotel?",
+   "We sang our favorite songs at the karaoke club.",
+   "The karaoke club is open until three in the morning."
+  ],
+  "note": "\"Karaoke bar\" is more common in English."
+ },
+ "karaoke bar": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a karaoke bar · karaoke bars",
+  "say": "",
+  "ex": [
+   "We celebrated her birthday at a karaoke bar.",
+   "Is there a karaoke bar in this part of town?",
+   "My friends love singing old songs at the karaoke bar.",
+   "The new karaoke bar has private rooms for groups."
+  ],
+  "note": ""
+ },
+ "aqua fitness": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "aqua fitness · uncountable",
+  "say": "",
+  "ex": [
+   "My grandmother goes to aqua fitness classes twice a week.",
+   "Aqua fitness is good for people with back problems.",
+   "Does the hotel pool have aqua fitness in the morning?",
+   "You don't need to swim well for aqua fitness."
+  ],
+  "note": "In the US people usually say \"water aerobics.\""
+ },
+ "jeep safari": {
+  "v": "keep",
+  "pm": 0.03,
+  "reg": [],
+  "ns": false,
+  "gram": "a jeep safari · jeep safaris",
+  "say": "",
+  "ex": [
+   "We booked a jeep safari in the mountains for Saturday.",
+   "How long does the jeep safari take?",
+   "The jeep safari was the best part of our trip.",
+   "Bring water and a hat for the jeep safari."
+  ],
+  "note": ""
+ },
+ "battle royale": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a battle royale · battle royales",
+  "say": "",
+  "ex": [
+   "My brother plays battle royale games every evening.",
+   "In a battle royale, only the last player wins.",
+   "Which battle royale game is the most popular now?",
+   "This battle royale has a hundred players in each match."
+  ],
+  "note": "Usually a type of video game where many players fight until one is left."
+ },
+ "biker club": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a biker club · biker clubs",
+  "say": "",
+  "ex": [
+   "My uncle is a member of a biker club.",
+   "The biker club rides to the lake every Sunday.",
+   "Can anyone join your biker club?",
+   "The local biker club collected money for a children's hospital."
+  ],
+  "note": "Also called a \"motorcycle club.\""
+ },
+ "smoky eyes": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "smoky eyes · plural",
+  "say": "",
+  "ex": [
+   "She wore smoky eyes and red lipstick to the party.",
+   "Can you teach me how to do smoky eyes?",
+   "Smoky eyes look great for an evening event.",
+   "I need a dark eyeshadow for smoky eyes."
+  ],
+  "note": "Makeup artists often say \"a smoky eye\" or \"a smoky eye look.\""
+ },
+ "MVP": {
+  "v": "not_standard_ukrainian",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "an MVP · MVPs",
+  "say": "",
+  "ex": [
+   "She was named MVP of the final game.",
+   "Who do you think will be this season's MVP?",
+   "Our goalkeeper was the MVP of the tournament.",
+   "He won the MVP award two years in a row."
+  ],
+  "note": "Means \"most valuable player.\" In business it also means \"minimum viable product.\""
+ },
+ "digital detox": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a digital detox · digital detoxes",
+  "say": "",
+  "ex": [
+   "I need a digital detox, so I turned off my phone.",
+   "We tried a weekend digital detox at a cabin.",
+   "Have you ever done a digital detox for a week?",
+   "A digital detox can help you sleep better."
+  ],
+  "note": ""
+ },
+ "zip hoodie": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a zip hoodie · zip hoodies",
+  "say": "",
+  "ex": [
+   "I bought a gray zip hoodie for the gym.",
+   "Do you have this zip hoodie in a larger size?",
+   "A zip hoodie is easy to take off when it gets warm.",
+   "He always wears a black zip hoodie to school."
+  ],
+  "note": "Also called a \"zip-up hoodie.\""
+ },
+ "smoothie bowl": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a smoothie bowl · smoothie bowls",
+  "say": "",
+  "ex": [
+   "I make a smoothie bowl with bananas for breakfast.",
+   "Can I get a smoothie bowl without nuts, please?",
+   "This cafe puts fresh fruit and seeds on its smoothie bowls.",
+   "A smoothie bowl is thicker than a normal smoothie."
+  ],
+  "note": ""
+ },
+ "advocacy": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "advocacy · uncountable",
+  "say": "",
+  "ex": [
+   "Our group does advocacy for people with disabilities.",
+   "She works in advocacy for clean air in the city.",
+   "Advocacy helped change the law on animal rights.",
+   "The charity spends money on advocacy and education."
+  ],
+  "note": "Uncountable: \"advocacy for children's rights\" (not \"an advocacy\")."
+ },
+ "beta tester": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a beta tester · beta testers",
+  "say": "",
+  "ex": [
+   "I signed up to be a beta tester for the new app.",
+   "Beta testers find bugs before the game is released.",
+   "How do I become a beta tester for this program?",
+   "The company sent free copies to its beta testers."
+  ],
+  "note": ""
+ },
+ "argyle": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "argyle · uncountable",
+  "say": "",
+  "ex": [
+   "My grandfather loves wearing socks with an argyle pattern.",
+   "She bought a blue argyle sweater for the winter.",
+   "Argyle is a pattern of diamonds in different colors.",
+   "Do you have this vest in argyle?"
+  ],
+  "note": "Often used before a noun: \"argyle socks\", \"an argyle sweater.\""
+ },
+ "GG": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "After the match, everyone typed GG in the chat.",
+   "It's polite to say GG even when you lose.",
+   "He wrote GG and left the game.",
+   "GG, everyone! Do you want to play again?"
+  ],
+  "note": "Short for \"good game.\" Players type it at the end of an online game."
+ },
+ "visor": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a visor · visors",
+  "say": "",
+  "ex": [
+   "Close the visor on your helmet before you ride.",
+   "She wears a white visor when she plays tennis.",
+   "My hockey helmet has a clear plastic visor.",
+   "Do you sell sun visors for running?"
+  ],
+  "note": ""
+ },
+ "snowboard cross": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "snowboard cross · uncountable",
+  "say": "",
+  "ex": [
+   "Snowboard cross is my favorite sport at the Winter Olympics.",
+   "In snowboard cross, four riders race down the course together.",
+   "Is snowboard cross harder than normal snowboarding?",
+   "She started training for snowboard cross at age twelve."
+  ],
+  "note": "Also called \"boardercross\" or \"SBX.\""
+ },
+ "aloe vera": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "aloe vera · uncountable",
+  "say": "",
+  "ex": [
+   "Put some aloe vera on your skin after the sun.",
+   "I keep an aloe vera plant in my kitchen.",
+   "Do you have a cream with aloe vera?",
+   "This shampoo contains aloe vera and green tea."
+  ],
+  "note": "Usually uncountable: \"aloe vera gel\". For the plant, say \"an aloe vera plant.\""
+ },
+ "spa manicure": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "gram": "a spa manicure · spa manicures",
+  "say": "",
+  "ex": [
+   "I booked a spa manicure for Friday afternoon.",
+   "A spa manicure includes a hand massage and a mask.",
+   "How much does a spa manicure cost here?",
+   "She got a spa manicure before her wedding."
+  ],
+  "note": ""
+ }
+}
