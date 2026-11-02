@@ -99,6 +99,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .icon.busy svg { animation: pulse 1s ease-in-out infinite; }
 @keyframes pulse { 50% { opacity: .35; } }
 .say { bottom: 6px; left: 6px; }
+.mk { position: absolute; bottom: 12px; right: 12px; font-size: 11.5px; line-height: 1.5; padding: 0 8px; border-radius: 999px;
+  border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+.mk-s { color: var(--accent); background: var(--accent-soft); border-color: transparent; }
 .add { top: 6px; right: 6px; }
 .add.on { color: var(--accent); }
 @media (pointer: coarse) { .icon { width: 44px; height: 44px; } .say { bottom: 2px; left: 2px; } .add { top: 2px; right: 2px; } }
@@ -240,6 +243,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions',
     history: 'History', philosophy: 'Philosophy', other: 'Other' };
   const PAGE = 120;
+  const MARKS = { s: ['★ English too', 'Surprise: you might not expect this word to exist in English'],
+                  a: ['anglicism', 'Ukrainians use this as an English word (like містер, стаф)'] };
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
@@ -381,6 +386,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   }
   function listFor(level) {
     const l = baseList(level);
+    if (state.topic === '@s' || state.topic === '@a') return l.filter(w => w.mk === state.topic[1]);
     return state.topic ? l.filter(w => (w.topics || []).indexOf(state.topic) >= 0) : l;
   }
   function current() {
@@ -430,6 +436,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
           '<div class="en" style="--n:' + longest(w.en) + '">' + stressed(w) + '</div><div class="eq">=</div>' +
           '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div>' +
           (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
+          (w.mk && MARKS[w.mk] ? '<span class="mk mk-' + w.mk + '" title="' + esc(MARKS[w.mk][1]) + '">' + esc(MARKS[w.mk][0]) + '</span>' : '') +
           (opts.noAdd ? '' : '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Remove from my words' : 'Add to my words') + '">' + (on ? CHECK : PLUS) + '</button>') +
         '</div>' +
         '<div class="face back" inert></div>' +    // filled on first flip
@@ -438,7 +445,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   function backHTML(w) {
     const d = DET[w.id];
     const ex = ((d && d.ex) || []).filter(Boolean);
-    const tags = (d && d.tags) || [];
+    const tags = ((d && d.tags) || []).concat(w.mk === 'a' ? ['anglicism'] : w.mk === 's' ? ['★ English too'] : []);
     const gram = (d && d.gram) || w.pos || '';
     return '<div class="top">' +
         (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove(\'has\');this.remove()"></div>'
@@ -491,11 +498,16 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   function renderTopics() {
     const counts = {};
     baseList(state.level).forEach(w => (w.topics || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
-    if (state.topic && !counts[state.topic]) state.topic = '';
+    const base = baseList(state.level), ns = base.filter(w => w.mk === 's').length, na = base.filter(w => w.mk === 'a').length;
+    if (state.topic && state.topic[0] !== '@' && !counts[state.topic]) state.topic = '';
+    if ((state.topic === '@s' && !ns) || (state.topic === '@a' && !na)) state.topic = '';
     const keys = Object.keys(counts).sort((a, b) => (a === 'other') - (b === 'other') || counts[b] - counts[a]);
-    $('#topic').innerHTML = '<option value="">All topics</option>' + keys.map(k =>
+    $('#topic').innerHTML = '<option value="">All topics</option>' +
+      (ns ? '<option value="@s"' + (state.topic === '@s' ? ' selected' : '') + '>★ English too · ' + ns + '</option>' : '') +
+      (na ? '<option value="@a"' + (state.topic === '@a' ? ' selected' : '') + '>Anglicisms · ' + na + '</option>' : '') +
+      keys.map(k =>
       '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' + (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
-    $('#topic').hidden = !keys.length;
+    $('#topic').hidden = !keys.length && !ns && !na;
   }
 
   // ---------- main view

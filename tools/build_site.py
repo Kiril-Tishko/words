@@ -406,6 +406,16 @@ def main():
             stem, ext = os.path.splitext(fn)
             if ext.lower() in ('.webp', '.jpg', '.jpeg', '.png', '.svg', '.avif'):
                 pics.setdefault(stem.lower(), 'images/' + fn)
+    # marks (tools/workflows/word-marks.js): "anglicism" = Ukrainians use it as an English word (містер, стаф);
+    # "surprise" = a Ukrainian would not expect it in English (steppe, dacha, borscht)
+    marks = {}
+    for f in sorted(glob.glob(f'{D}/marks/out-*.json')):
+        try:
+            marks.update(json.load(open(f, encoding='utf-8')))
+        except Exception as e:
+            print('skip broken', f, e, file=sys.stderr)
+    for k, v in json.load(open(f'{D}/marks/manual.json', encoding='utf-8')).items() if os.path.exists(f'{D}/marks/manual.json') else []:
+        marks[k] = v
     site = []
     details = defaultdict(dict)
     for w in final:
@@ -460,6 +470,9 @@ def main():
             rec['rude'] = 1
         if w['en'] in stress:
             rec['st'] = stress[w['en']]
+        mk = marks.get(w['en'])
+        if mk in ('anglicism', 'surprise'):
+            rec['mk'] = mk[0]
         if w['en'] in audio['words']:
             rec['au'] = audio['words'][w['en']]
         slug = re.sub(r'[^a-z0-9]+', '-', strip_accents(w['en'].lower())).strip('-')

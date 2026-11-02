@@ -122,6 +122,8 @@ def cmd_final():
             st = stories.get(cid)
             if not st:
                 continue
+            text = MARK.sub(lambda m: m.group(0) if (m.group(2) or m.group(1)).strip() in words else m.group(1), st.get('story', ''))
+            st = dict(st, story=text)
             marked = []
             for m in MARK.finditer(st.get('story', '')):
                 marked.append((m.group(2) or m.group(1)).strip())
@@ -155,12 +157,66 @@ def cmd_final():
           'dropped into "More words";', len(problems), 'problems', problems[:10])
 
 
+def cmd_families(k=6):
+    """Put very similar words together (owner: "like Miss and Mr."): apply data/stories/families.json.
+    Moved words leave their old chapter, join the family's target chapter (or a new chapter at the end of
+    its part); the changed chapters get batch-fNN.json files for the story writers."""
+    ch = json.load(open(f'{S}/chapters.json', encoding='utf-8'))
+    fams = json.load(open(f'{S}/families.json', encoding='utf-8'))
+    old = {}
+    if os.path.exists(f'{S}/stories.json'):
+        old = {c['id']: c.get('story', '') for c in json.load(open(f'{S}/stories.json', encoding='utf-8'))['chapters']}
+    chapters = OrderedDict((c['id'], c) for c in ch['chapters'])
+    where = {w['en']: cid for cid, c in chapters.items() for w in c['words']}
+    meta = {w['en']: w for c in chapters.values() for w in c['words']}
+    changed, nnew, moved = set(), 0, 0
+    for f in fams:
+        words = [w for w in f.get('words', []) if w in where]
+        if len(words) < 2:
+            continue
+        tgt = f.get('target')
+        if tgt == 'new' or tgt not in chapters:
+            nnew += 1
+            tgt = f'f{nnew:02d}'
+            chapters[tgt] = {'id': tgt, 'part': f.get('part') or chapters[where[words[0]]]['part'],
+                             'title': f.get('title') or f.get('name', 'Words that go together'),
+                             'scene': f.get('scene') or f.get('name', ''), 'anchors': [], 'level': 'A2', 'words': []}
+        for w in words:
+            src = where[w]
+            if src == tgt:
+                continue
+            chapters[src]['words'] = [x for x in chapters[src]['words'] if x['en'] != w]
+            chapters[tgt]['words'].append(meta[w])
+            where[w] = tgt
+            moved += 1
+            changed.add(tgt)
+    # drop chapters that lost all their words; keep the course order (new chapters at the end of their part)
+    order = {p['id']: i for i, p in enumerate(ch['parts'])}
+    seq = [c for c in chapters.values() if c['words']]
+    pos = {c['id']: i for i, c in enumerate(seq)}
+    seq.sort(key=lambda c: (order.get(c['part'], 999), c['id'].startswith('f'), pos[c['id']]))
+    ch['chapters'] = seq
+    json.dump(ch, open(f'{S}/chapters.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+    todo = [dict(c, old_story=old.get(c['id'], '')) for c in seq if c['id'] in changed]
+    for f in glob.glob(f'{S}/batch-f*.json'):
+        os.remove(f)
+    names = []
+    for i in range(0, len(todo), k):
+        name = f'f{i // k:02d}'
+        json.dump(todo[i:i + k], open(f'{S}/batch-{name}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+        names.append(name)
+    print(len(fams), 'families;', moved, 'words moved;', nnew, 'new chapters;', len(todo), 'chapters to rewrite')
+    print('batches:', json.dumps(names))
+
+
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
     if cmd == 'todo':
         cmd_todo(int(sys.argv[2]) if len(sys.argv) > 2 else 6)
     elif cmd == 'chapters':
         cmd_chapters(int(sys.argv[2]) if len(sys.argv) > 2 else 12)
+    elif cmd == 'families':
+        cmd_families(int(sys.argv[2]) if len(sys.argv) > 2 else 6)
     elif cmd == 'final':
         cmd_final()
     else:
