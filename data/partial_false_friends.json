@@ -33,6 +33,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "accept",
+  "uk": "акцепт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "accolade",
   "uk": "аколада",
   "pos": "",
@@ -42,6 +53,31 @@
   "note": "uk: knighting ceremony (historical) or a music brace, not 'praise/award'; ending -а",
   "checked": 1,
   "src": "verify-082.json"
+ },
+ {
+  "en": "action",
+  "uk": "екшн",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "Ukrainian екшн is the action genre or exciting action; the general word action is дія.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "adamant",
+  "uk": "адамант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "Adm.",
@@ -66,6 +102,44 @@
   "src": "scan-001.json"
  },
  {
+  "en": "aesthetic",
+  "uk": "естетик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "agha",
+  "uk": "ага",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "Ottoman title (also spelled aga); Ukrainian ага is much more often the interjection 'aha, yeah'",
+  "checked": 2,
+  "src": "verify-065.json"
+ },
+ {
+  "en": "aha",
+  "uk": "ага",
+  "pos": "interj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "emotions",
+   "informal"
+  ],
+  "note": "Ukrainian ага also means 'yeah'",
+  "checked": 2,
+  "src": "verify-038.json"
+ },
+ {
   "en": "alley",
   "uk": "алея",
   "pos": "",
@@ -75,6 +149,30 @@
   "note": "алея = tree-lined path in a park; English alley is mostly a narrow back street (провулок).",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "allure",
+  "uk": "алюр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "AM",
+  "uk": "AM",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "abbr"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "ambulatory",
@@ -99,6 +197,31 @@
   "src": "verify-068.json"
  },
  {
+  "en": "anamnesis",
+  "uk": "анамнез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-013.json"
+ },
+ {
+  "en": "anathema",
+  "uk": "анатема",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "literary",
+   "religion"
+  ],
+  "note": "Most often used as 'be anathema to someone' = be strongly disliked by them.",
+  "checked": 2,
+  "src": "verify-084.json"
+ },
+ {
   "en": "anecdote",
   "uk": "анекдот",
   "pos": "noun",
@@ -110,6 +233,20 @@
   "src": "scan-015.json"
  },
  {
+  "en": "animator",
+  "uk": "аніматор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media",
+   "people"
+  ],
+  "note": "in Ukrainian also an entertainer at hotels or kids' parties",
+  "checked": 2,
+  "src": "verify-074.json"
+ },
+ {
   "en": "apartment",
   "uk": "апартамент",
   "pos": "",
@@ -119,6 +256,34 @@
   "note": "апартаменти (usually plural) = a luxury suite or grand rooms; an ordinary apartment = квартира",
   "checked": 2,
   "src": "verify-006.json"
+ },
+ {
+  "en": "arbiter",
+  "uk": "арбітр",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "law",
+   "sport"
+  ],
+  "note": "In Ukrainian арбітр is also a sports referee",
+  "checked": 2,
+  "src": "verify-071.json"
+ },
+ {
+  "en": "arbitrage",
+  "uk": "арбітраж",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance",
+   "technical"
+  ],
+  "note": "uk арбітраж also means arbitration (settling a dispute); in English that sense is archaic",
+  "checked": 2,
+  "src": "verify-083.json"
  },
  {
   "en": "artist",
@@ -141,6 +306,34 @@
   "note": "аспірація = only phonetic/medical aspiration; 'ambition, wish' is прагнення.",
   "checked": 1,
   "src": "verify-052.json"
+ },
+ {
+  "en": "assemblage",
+  "uk": "асамбляж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "atelier",
+  "uk": "ательє",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art",
+   "clothing",
+   "international"
+  ],
+  "note": "In Ukrainian usually a tailor's/dressmaking shop or photo studio.",
+  "checked": 2,
+  "src": "verify-082.json"
  },
  {
   "en": "attestation",
@@ -220,6 +413,58 @@
   "src": "scan-008.json"
  },
  {
+  "en": "baba",
+  "uk": "баба",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "Only the cake (rum baba = ромова баба); Ukrainian баба mainly means grandmother, old woman.",
+  "checked": 2,
+  "src": "scan-005.json"
+ },
+ {
+  "en": "babka",
+  "uk": "бабка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "rverify-012.json"
+ },
+ {
+  "en": "bac",
+  "uk": "бак",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other",
+   "rare",
+   "technical"
+  ],
+  "note": "English bac (vat, cistern) is rare; Ukrainian бак is the everyday word for a tank.",
+  "checked": 2,
+  "src": "verify-063.json"
+ },
+ {
+  "en": "bachelor",
+  "uk": "бакалавр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "language"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "bailiff",
   "uk": "бальї",
   "pos": "",
@@ -264,6 +509,34 @@
   "src": "verify-055.json"
  },
  {
+  "en": "bard",
+  "uk": "бард",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "In Ukrainian also a singer-songwriter performing own songs with a guitar.",
+  "checked": 2,
+  "src": "verify-049.json"
+ },
+ {
+  "en": "barrack",
+  "uk": "барак",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "military",
+   "places"
+  ],
+  "note": "Usually plural 'barracks'; most often the buildings where soldiers live.",
+  "checked": 2,
+  "src": "verify-084.json"
+ },
+ {
   "en": "basin",
   "uk": "басейн",
   "pos": "",
@@ -287,6 +560,20 @@
   "note": "Shared meaning: illegitimate child (historical). In English today mostly a rude insult, which бастард does not mean.",
   "checked": 2,
   "src": "verify-024.json"
+ },
+ {
+  "en": "battle",
+  "uk": "батл",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "music"
+  ],
+  "note": "Ukrainian батл is only a contest (rap battle, dance battle); a military battle is битва.",
+  "checked": 2,
+  "src": "scan-017.json"
  },
  {
   "en": "behemoth",
@@ -331,6 +618,20 @@
   "note": "English mostly 'go berserk' (wild with rage); Ukrainian берсерк = a Norse berserker warrior",
   "checked": 1,
   "src": "verify-069.json"
+ },
+ {
+  "en": "bike",
+  "uk": "байк",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "transport"
+  ],
+  "note": "Ukrainian байк usually means a motorcycle; байки is also the plural of байка 'fable'.",
+  "checked": 2,
+  "src": "scan-006.json"
  },
  {
   "en": "bill",
@@ -383,6 +684,17 @@
   "src": "verify-038.json"
  },
  {
+  "en": "blooming",
+  "uk": "блюмінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-008.json"
+ },
+ {
   "en": "boat",
   "uk": "бот",
   "pos": "",
@@ -416,6 +728,19 @@
   "src": "verify-083.json"
  },
  {
+  "en": "bobtail",
+  "uk": "бобтейл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "bombardier",
   "uk": "бомбардир",
   "pos": "",
@@ -425,6 +750,21 @@
   "note": "uk бомбардир mostly = top goal scorer in football; also an old artillery rank",
   "checked": 1,
   "src": "verify-078.json"
+ },
+ {
+  "en": "bonanza",
+  "uk": "бонанца",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "rare",
+   "technical"
+  ],
+  "note": "In Ukrainian only a rare mining term (rich ore vein); English also uses it for any sudden source of great wealth.",
+  "checked": 2,
+  "src": "verify-067.json"
  },
  {
   "en": "bond",
@@ -441,6 +781,21 @@
   "src": "verify-007.json"
  },
  {
+  "en": "boulder",
+  "uk": "боулдер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature",
+   "sport",
+   "technical"
+  ],
+  "note": "Mostly a climbing term; an ordinary boulder is валун or брила.",
+  "checked": 2,
+  "src": "verify-031.json"
+ },
+ {
   "en": "box",
   "uk": "бокс",
   "pos": "",
@@ -450,6 +805,20 @@
   "note": "Ukrainian бокс mainly means boxing (the sport); only sometimes a compartment or container (ланч-бокс).",
   "checked": 2,
   "src": "scan-004.json"
+ },
+ {
+  "en": "break",
+  "uk": "брейк",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "sport"
+  ],
+  "note": "Ukrainian брейк has only the borrowed senses: break of serve in tennis, the boxing referee's command, breakdance, coffee break (кава-брейк); not 'to break' or a general pause (перерва).",
+  "checked": 2,
+  "src": "scan-015.json"
  },
  {
   "en": "brilliant",
@@ -474,6 +843,20 @@
   "src": "verify-039.json"
  },
  {
+  "en": "bug",
+  "uk": "баг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "tech"
+  ],
+  "note": "Ukrainian баг is only a software error; an insect is жук/комаха.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
   "en": "burg",
   "uk": "бург",
   "pos": "",
@@ -483,6 +866,20 @@
   "note": "en mostly informal US 'town'; uk only a historical medieval fortified town",
   "checked": 1,
   "src": "verify-083.json"
+ },
+ {
+  "en": "burka",
+  "uk": "бурка",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "clothing",
+   "religion"
+  ],
+  "note": "Also spelled burqa; can also mean a felt cloak.",
+  "checked": 2,
+  "src": "verify-098.json"
  },
  {
   "en": "bus",
@@ -509,6 +906,46 @@
   "src": "verify-008.json"
  },
  {
+  "en": "butterfly",
+  "uk": "батерфляй",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "buyer",
+  "uk": "байєр",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "people"
+  ],
+  "note": "Ukrainian байєр is only a professional buyer for a shop or brand; a buyer in general is покупець.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "bypass",
+  "uk": "байпас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "cabin",
   "uk": "кабіна",
   "pos": "",
@@ -529,6 +966,31 @@
   "note": "кабінет = an office/study room or the government cabinet; a cupboard is шафа.",
   "checked": 2,
   "src": "verify-008.json"
+ },
+ {
+  "en": "cacao",
+  "uk": "какао",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks",
+   "food"
+  ],
+  "note": "Ukrainian какао also means cocoa powder and the hot drink.",
+  "checked": 2,
+  "src": "verify-079.json"
+ },
+ {
+  "en": "cachet",
+  "uk": "каше",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
  },
  {
   "en": "cadence",
@@ -564,6 +1026,17 @@
   "src": "scan-013.json"
  },
  {
+  "en": "camera",
+  "uk": "камора",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
   "en": "camping",
   "uk": "кемпінг",
   "pos": "",
@@ -573,6 +1046,20 @@
   "note": "Ukrainian кемпінг is mainly a campsite (the place); the activity is відпочинок у наметах.",
   "checked": 2,
   "src": "verify-020.json"
+ },
+ {
+  "en": "caravan",
+  "uk": "караван",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "travel"
+  ],
+  "note": "Mainly a convoy (of camels, vehicles); the British sense (trailer home towed by a car) is будинок на колесах.",
+  "checked": 2,
+  "src": "verify-035.json"
  },
  {
   "en": "carbon",
@@ -595,6 +1082,33 @@
   "note": "Ukrainian каркас = frame, framework; English carcass is mainly a dead animal's body (frame/shell is a secondary meaning).",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "case",
+  "uk": "кейс",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business"
+  ],
+  "note": "Ukrainian кейс mainly means a briefcase/hard case or a case study; 'case' as an instance is випадок.",
+  "checked": 2,
+  "src": "scan-007.json"
+ },
+ {
+  "en": "caster",
+  "uk": "кастер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "games",
+   "slang"
+  ],
+  "note": "In Ukrainian only gaming slang: esports commentator or spellcaster.",
+  "checked": 2,
+  "src": "verify-063.json"
  },
  {
   "en": "castor",
@@ -643,6 +1157,59 @@
   "src": "scan-001.json"
  },
  {
+  "en": "chaise longue",
+  "uk": "шезлонг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "home"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "chartreuse",
+  "uk": "шартрез",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "chauffeur",
+  "uk": "шофер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people",
+   "transport"
+  ],
+  "note": "chauffer is a misspelling of chauffeur. Ukrainian шофер = any professional driver; English chauffeur = person hired to drive a private car.",
+  "checked": 2,
+  "src": "scan-015.json"
+ },
+ {
+  "en": "cheat",
+  "uk": "чит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "it"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "check",
   "uk": "чек",
   "pos": "",
@@ -665,17 +1232,6 @@
   "src": "verify-014.json"
  },
  {
-  "en": "chevron",
-  "uk": "шеврон",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "шеврон = any sleeve patch on a uniform; chevron = a V-shape or V-shaped stripes.",
-  "checked": 1,
-  "src": "verify-053.json"
- },
- {
   "en": "choreograph",
   "uk": "хореограф",
   "pos": "",
@@ -685,6 +1241,19 @@
   "note": "",
   "checked": 1,
   "src": "rscan-000.json"
+ },
+ {
+  "en": "cinematograph",
+  "uk": "кінематограф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "cinematographer",
@@ -742,6 +1311,17 @@
   "src": "scan-009.json"
  },
  {
+  "en": "clavier",
+  "uk": "клавір",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "clearance",
   "uk": "кліренс",
   "pos": "",
@@ -751,6 +1331,76 @@
   "note": "кліренс = only ground clearance of a vehicle (and clearance in medicine); permission = дозвіл, a clearance sale = розпродаж",
   "checked": 2,
   "src": "verify-022.json"
+ },
+ {
+  "en": "climax",
+  "uk": "клімакс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
+  "en": "clipper",
+  "uk": "кліпер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "transport"
+  ],
+  "note": "In Ukrainian only the fast sailing ship; English clippers are also a tool for cutting hair or nails.",
+  "checked": 2,
+  "src": "verify-066.json"
+ },
+ {
+  "en": "clips",
+  "uk": "кліпс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "cloche",
+  "uk": "кльош",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "closet",
+  "uk": "клозет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "coder",
+  "uk": "кодер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech"
+  ],
+  "note": "In Ukrainian mostly an encoder (device/software); also informal for a programmer.",
+  "checked": 2,
+  "src": "scan-019.json"
  },
  {
   "en": "codex",
@@ -798,6 +1448,17 @@
  },
  {
   "en": "college",
+  "uk": "колеж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "college",
   "uk": "колегія",
   "pos": "",
   "british": false,
@@ -825,9 +1486,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "комедіант = an old word for a (travelling) actor, figuratively a hypocrite; a comedian = комік",
+  "note": "",
   "checked": 2,
-  "src": "verify-022.json"
+  "src": "rscan-003.json"
  },
  {
   "en": "comic",
@@ -888,6 +1549,20 @@
   "src": "scan-017.json"
  },
  {
+  "en": "communicator",
+  "uk": "комунікатор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "verify-073.json"
+ },
+ {
   "en": "commutator",
   "uk": "комутатор",
   "pos": "noun",
@@ -908,6 +1583,28 @@
   "note": "компаньйон usually = business partner; a companion = супутник, товариш",
   "checked": 2,
   "src": "verify-017.json"
+ },
+ {
+  "en": "compartment",
+  "uk": "компартмент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "complement",
+  "uk": "комплемент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "compote",
@@ -941,6 +1638,19 @@
   "note": "adjective ending -ний; concrete (building material) is бетон",
   "checked": 1,
   "src": "verify-009.json"
+ },
+ {
+  "en": "conditioner",
+  "uk": "кондиціонер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "home"
+  ],
+  "note": "Ukrainian кондиціонер most often means an air conditioner (English: air conditioner / AC); also hair conditioner and fabric softener.",
+  "checked": 2,
+  "src": "scan-006.json"
  },
  {
   "en": "conductor",
@@ -1031,6 +1741,17 @@
   "src": "verify-075.json"
  },
  {
+  "en": "controlling",
+  "uk": "контролінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "convention",
   "uk": "конвенція",
   "pos": "",
@@ -1040,6 +1761,20 @@
   "note": "",
   "checked": 1,
   "src": "verify-008.json"
+ },
+ {
+  "en": "cook",
+  "uk": "кок",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food",
+   "people"
+  ],
+  "note": "Ukrainian кок is only a cook on a ship; a cook in general is кухар.",
+  "checked": 2,
+  "src": "scan-017.json"
  },
  {
   "en": "cookie",
@@ -1097,6 +1832,30 @@
   "src": "verify-052.json"
  },
  {
+  "en": "corsage",
+  "uk": "корсаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "cosmopolitan",
+  "uk": "космополітен",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "costume",
   "uk": "костюм",
   "pos": "noun",
@@ -1117,6 +1876,31 @@
   "note": "Ukrainian купе mainly = train compartment; also coupé car",
   "checked": 1,
   "src": "verify-049.json"
+ },
+ {
+  "en": "cover",
+  "uk": "кавер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "music"
+  ],
+  "note": "Ukrainian кавер means only a cover version of a song; a book cover is обкладинка.",
+  "checked": 2,
+  "src": "scan-007.json"
+ },
+ {
+  "en": "crack",
+  "uk": "крак",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "crack",
@@ -1154,6 +1938,34 @@
   "src": "verify-007.json"
  },
  {
+  "en": "crash",
+  "uk": "креш",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "it"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "creative",
+  "uk": "креатив",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "informal",
+   "media"
+  ],
+  "note": "In Ukrainian a noun: creative ideas or advertising content (as in English ad jargon 'the creative'); English creative is mainly an adjective (креативний).",
+  "checked": 2,
+  "src": "scan-015.json"
+ },
+ {
   "en": "creole",
   "uk": "креол",
   "pos": "",
@@ -1187,6 +1999,33 @@
   "src": "verify-007.json"
  },
  {
+  "en": "crème",
+  "uk": "крем",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "Used mainly in French dish names (crème brûlée, crème caramel); the everyday English word is 'cream'.",
+  "checked": 2,
+  "src": "verify-084.json"
+ },
+ {
+  "en": "cuckoo",
+  "uk": "ку-ку",
+  "pos": "interj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "nature"
+  ],
+  "note": "The cuckoo's call; both also informally mean 'crazy'. The bird itself is зозуля.",
+  "checked": 2,
+  "src": "scan-005.json"
+ },
+ {
   "en": "cutlet",
   "uk": "котлета",
   "pos": "noun",
@@ -1213,6 +2052,48 @@
   "src": "verify-032.json"
  },
  {
+  "en": "daemon",
+  "uk": "демон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "computer background process; also an old spelling of demon (демон)",
+  "checked": 2,
+  "src": "verify-083.json"
+ },
+ {
+  "en": "dance",
+  "uk": "денс",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "slang"
+  ],
+  "note": "Ukrainian денс = dance music (genre); to dance = танцювати.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "dance",
+  "uk": "данс",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "slang"
+  ],
+  "note": "In Ukrainian: dance music style.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
   "en": "datum",
   "uk": "датум",
   "pos": "",
@@ -1235,6 +2116,46 @@
   "src": "verify-029.json"
  },
  {
+  "en": "decorator",
+  "uk": "декоратор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art",
+   "people"
+  ],
+  "note": "in British English also a house painter and wallpaperer",
+  "checked": 2,
+  "src": "verify-073.json"
+ },
+ {
+  "en": "deputy",
+  "uk": "депутат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "development",
+  "uk": "девелопмент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "dictate",
   "uk": "диктат",
   "pos": "",
@@ -1246,6 +2167,46 @@
   "src": "verify-037.json"
  },
  {
+  "en": "differential",
+  "uk": "диференціал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "physics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "disco",
+  "uk": "диско",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "music"
+  ],
+  "note": "диско is the music style; a disco (dance party/club) is дискотека",
+  "checked": 2,
+  "src": "verify-028.json"
+ },
+ {
+  "en": "discus",
+  "uk": "дискус",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "dispute",
   "uk": "диспут",
   "pos": "",
@@ -1255,6 +2216,17 @@
   "note": "диспут = a formal public debate; a dispute/disagreement = суперечка",
   "checked": 2,
   "src": "verify-013.json"
+ },
+ {
+  "en": "dithyramb",
+  "uk": "дифірамб",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-019.json"
  },
  {
   "en": "diva",
@@ -1288,6 +2260,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-004.json"
+ },
+ {
+  "en": "docent",
+  "uk": "доцент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-003.json"
  },
  {
   "en": "dog",
@@ -1345,6 +2328,17 @@
   "src": "scan-005.json"
  },
  {
+  "en": "drift",
+  "uk": "дрифт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "drive",
   "uk": "драйв",
   "pos": "noun",
@@ -1370,6 +2364,19 @@
   "src": "verify-005.json"
  },
  {
+  "en": "dub",
+  "uk": "даб",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "duma",
   "uk": "дума",
   "pos": "noun",
@@ -1392,6 +2399,44 @@
   "src": "verify-018.json"
  },
  {
+  "en": "dumping",
+  "uk": "демпінг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "international"
+  ],
+  "note": "Only the trade sense (selling below cost); dumping waste is скидання.",
+  "checked": 2,
+  "src": "verify-033.json"
+ },
+ {
+  "en": "durak",
+  "uk": "дурак",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-018.json"
+ },
+ {
+  "en": "eccentric",
+  "uk": "ексцентрик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "echelon",
   "uk": "ешелон",
   "pos": "",
@@ -1412,6 +2457,17 @@
   "note": "економія = saving, thrift; economy (system) = економіка",
   "checked": 1,
   "src": "scan-003.json"
+ },
+ {
+  "en": "ecstasy",
+  "uk": "екстезі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "electronica",
@@ -1458,6 +2514,17 @@
   "src": "verify-021.json"
  },
  {
+  "en": "equipage",
+  "uk": "екіпаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-013.json"
+ },
+ {
   "en": "expertise",
   "uk": "експертиза",
   "pos": "noun",
@@ -1489,6 +2556,17 @@
   "note": "Ukrainian екстрим = extreme sports/thrills; English extreme (noun) = the furthest limit, mostly in 'extremes'.",
   "checked": 1,
   "src": "scan-017.json"
+ },
+ {
+  "en": "facula",
+  "uk": "факел",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-021.json"
  },
  {
   "en": "familiar",
@@ -1576,6 +2654,65 @@
   "src": "scan-020.json"
  },
  {
+  "en": "figurant",
+  "uk": "фігурант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-021.json"
+ },
+ {
+  "en": "filibuster",
+  "uk": "флібустьєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "filler",
+  "uk": "філер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "five o'clock",
+  "uk": "файв-о-клок",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "flame",
+  "uk": "флейм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "flash",
   "uk": "флеш",
   "pos": "",
@@ -1585,6 +2722,189 @@
   "note": "флеш is used mostly in compounds (флеш-пам'ять, флешмоб) and for a flush in poker; a flash of light is спалах",
   "checked": 2,
   "src": "verify-009.json"
+ },
+ {
+  "en": "flex",
+  "uk": "флекс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "modern"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "flip",
+  "uk": "фліп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "flirt",
+  "uk": "флірт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "emotions",
+   "people"
+  ],
+  "note": "Ukrainian флірт is the act of flirting; a person who flirts is кокетка / залицяльник.",
+  "checked": 2,
+  "src": "verify-041.json"
+ },
+ {
+  "en": "flop",
+  "uk": "флоп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "flow",
+  "uk": "флоу",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "fluid",
+  "uk": "флюїд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
+ },
+ {
+  "en": "flux",
+  "uk": "флюс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "physics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "fold",
+  "uk": "фолд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "fork",
+  "uk": "форк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "it"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "fortepiano",
+  "uk": "фортеп'яно",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "fortepiano",
+  "uk": "фортепіано",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "In English usually the early (18th–19th c.) piano; a modern one is piano.",
+  "checked": 2,
+  "src": "scan-005.json"
+ },
+ {
+  "en": "freeze",
+  "uk": "фриз",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "slang",
+   "tech"
+  ],
+  "note": "In Ukrainian gamer slang a screen freeze/lag; фриз also = frieze (architecture).",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "fritz",
+  "uk": "фриц",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "dated",
+   "people",
+   "slang"
+  ],
+  "note": "Derogatory nickname for a German (esp. a soldier)",
+  "checked": 2,
+  "src": "verify-045.json"
+ },
+ {
+  "en": "fun",
+  "uk": "фан",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "emotions",
+   "slang"
+  ],
+  "note": "Ukrainian slang (для фану = for fun); фан also means fan (enthusiast).",
+  "checked": 2,
+  "src": "scan-005.json"
  },
  {
   "en": "functional",
@@ -1629,6 +2949,32 @@
   "note": "фурі = only a member of the furry fandom, not 'covered with fur'",
   "checked": 1,
   "src": "verify-038.json"
+ },
+ {
+  "en": "fuzz",
+  "uk": "фуз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "gainer",
+  "uk": "гейнер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "gall",
@@ -1678,6 +3024,32 @@
   "src": "verify-032.json"
  },
  {
+  "en": "garnet",
+  "uk": "гранат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "fashion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "gate",
+  "uk": "гейт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "travel"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "gauze",
   "uk": "газ",
   "pos": "",
@@ -1687,6 +3059,52 @@
   "note": "uk газ mainly = gas; the thin-fabric sense is minor; medical gauze = марля",
   "checked": 1,
   "src": "verify-077.json"
+ },
+ {
+  "en": "glagol",
+  "uk": "глагол",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-021.json"
+ },
+ {
+  "en": "go",
+  "uk": "го",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "goodwill",
+  "uk": "гудвіл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "gospel",
+  "uk": "госпел",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "gourmand",
@@ -1711,6 +3129,20 @@
   "src": "verify-019.json"
  },
  {
+  "en": "gryph",
+  "uk": "гриф",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "archaic",
+   "other"
+  ],
+  "note": "Archaic for griffin; Ukrainian гриф also means vulture, the neck of a string instrument, and a secrecy stamp.",
+  "checked": 2,
+  "src": "scan-008.json"
+ },
+ {
   "en": "guerrilla",
   "uk": "герилья",
   "pos": "",
@@ -1722,6 +3154,20 @@
   "src": "verify-048.json"
  },
  {
+  "en": "guide",
+  "uk": "гайд",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "In Ukrainian: a guide/how-to (games, internet); a tour guide is гід.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
   "en": "gymnasium",
   "uk": "гімназія",
   "pos": "",
@@ -1731,6 +3177,20 @@
   "note": "гімназія = a type of secondary school; English gymnasium is mostly a sports hall (спортзал).",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "halo",
+  "uk": "гало",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature",
+   "technical"
+  ],
+  "note": "A ring of light around the sun or moon; a saint's halo is німб.",
+  "checked": 2,
+  "src": "verify-030.json"
  },
  {
   "en": "handicap",
@@ -1753,6 +3213,73 @@
   "note": "alone usually an accordion type; mouth organ is губна гармоніка",
   "checked": 1,
   "src": "verify-072.json"
+ },
+ {
+  "en": "harvester",
+  "uk": "харвестер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "devices"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "hash",
+  "uk": "хеш",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "In Ukrainian only the computing sense (хеш, хеш-функція); the food dish is not called хеш.",
+  "checked": 2,
+  "src": "verify-035.json"
+ },
+ {
+  "en": "hedge",
+  "uk": "хедж",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "In Ukrainian only the finance sense (hedging); a garden hedge is живопліт.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "hi",
+  "uk": "хай",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "abbr"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "hiatus",
+  "uk": "гіатус",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "language",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
  },
  {
   "en": "holding",
@@ -1788,6 +3315,17 @@
   "src": "verify-017.json"
  },
  {
+  "en": "hospodar",
+  "uk": "господар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-020.json"
+ },
+ {
   "en": "host",
   "uk": "хост",
   "pos": "noun",
@@ -1802,6 +3340,44 @@
   "src": "verify-004.json"
  },
  {
+  "en": "house",
+  "uk": "хаус",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "Only the music genre; a house (building) is будинок.",
+  "checked": 2,
+  "src": "scan-005.json"
+ },
+ {
+  "en": "hymn",
+  "uk": "гімн",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "religion"
+  ],
+  "note": "Standard Ukrainian spelling: гімн. Ukrainian гімн also means a national anthem (English: anthem).",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "hypertonia",
+  "uk": "гіпертонія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "implication",
   "uk": "імплікація",
   "pos": "",
@@ -1811,6 +3387,34 @@
   "note": "імплікація is only a logic/linguistics term; everyday 'implication' = наслідок",
   "checked": 1,
   "src": "verify-038.json"
+ },
+ {
+  "en": "industrial",
+  "uk": "індастріал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art",
+   "music"
+  ],
+  "note": "Ukrainian індастріал is only the music genre or design style; the adjective industrial is промисловий.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "inferno",
+  "uk": "інферно",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "literary",
+   "religion"
+  ],
+  "note": "In Ukrainian mainly 'hell'; English also commonly 'a huge fire'.",
+  "checked": 2,
+  "src": "scan-020.json"
  },
  {
   "en": "instance",
@@ -1835,15 +3439,17 @@
   "src": "rverify-005.json"
  },
  {
-  "en": "invalid",
-  "uk": "інвалід",
+  "en": "isolator",
+  "uk": "ізолятор",
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [],
-  "note": "English mainly 'not valid' (adj.); the noun 'invalid' (sick/disabled person) is dated; Ukrainian інвалід is also being replaced by 'людина з інвалідністю'",
-  "checked": 1,
-  "src": "verify-028.json"
+  "labels": [
+   "devices"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "jaeger",
@@ -1855,6 +3461,19 @@
   "note": "English jaeger is mainly a seabird (skua); Ukrainian єгер = gamekeeper/huntsman or light-infantry rifleman.",
   "checked": 1,
   "src": "verify-079.json"
+ },
+ {
+  "en": "jamboree",
+  "uk": "джемборі",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other"
+  ],
+  "note": "A large Scout rally; also any big, noisy celebration or party.",
+  "checked": 2,
+  "src": "verify-094.json"
  },
  {
   "en": "javelin",
@@ -1881,6 +3500,30 @@
   "src": "verify-004.json"
  },
  {
+  "en": "jumper",
+  "uk": "джампер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "jungle",
+  "uk": "джангл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "jurist",
   "uk": "юрист",
   "pos": "",
@@ -1890,6 +3533,32 @@
   "note": "юрист = any lawyer; English jurist is a formal word for a legal scholar or judge.",
   "checked": 1,
   "src": "verify-090.json"
+ },
+ {
+  "en": "kale",
+  "uk": "кале",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "usually капуста кале; also called кейл",
+  "checked": 2,
+  "src": "verify-048.json"
+ },
+ {
+  "en": "kasha",
+  "uk": "каша",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "In English kasha usually means buckwheat groats or porridge; Ukrainian каша is any porridge.",
+  "checked": 2,
+  "src": "scan-007.json"
  },
  {
   "en": "kif",
@@ -1903,6 +3572,46 @@
   "src": "rverify-006.json"
  },
  {
+  "en": "kilim",
+  "uk": "килим",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "home"
+  ],
+  "note": "English kilim is a flat-woven rug; Ukrainian килим is any carpet/rug (general English: rug, carpet).",
+  "checked": 2,
+  "src": "scan-006.json"
+ },
+ {
+  "en": "kite",
+  "uk": "кайт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "kola",
+  "uk": "кола",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature",
+   "rare"
+  ],
+  "note": "Usually 'kola nut'; the drink is spelled 'cola'.",
+  "checked": 2,
+  "src": "verify-102.json"
+ },
+ {
   "en": "laika",
   "uk": "лайка",
   "pos": "",
@@ -1912,6 +3621,30 @@
   "note": "",
   "checked": 1,
   "src": "rverify-005.json"
+ },
+ {
+  "en": "lepta",
+  "uk": "лепта",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "lev",
+  "uk": "лев",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "the Bulgarian currency; Ukrainian лев mainly means 'lion'",
+  "checked": 2,
+  "src": "verify-061.json"
  },
  {
   "en": "liquor",
@@ -1925,15 +3658,52 @@
   "src": "scan-017.json"
  },
  {
+  "en": "lithograph",
+  "uk": "літограф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "liver",
   "uk": "лівер",
   "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "лівер = offal (heart, lungs, liver) as food; the organ liver = печінка",
+  "note": "",
   "checked": 2,
-  "src": "verify-016.json"
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "loop",
+  "uk": "луп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "loot",
+  "uk": "лут",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "it"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "lot",
@@ -1947,6 +3717,19 @@
   "note": "Only a lot at an auction or sale; 'a lot of' is багато.",
   "checked": 2,
   "src": "verify-000.json"
+ },
+ {
+  "en": "lotto",
+  "uk": "лото",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "games"
+  ],
+  "note": "loto is a less common spelling of lotto.",
+  "checked": 2,
+  "src": "scan-017.json"
  },
  {
   "en": "lounge",
@@ -1965,13 +3748,16 @@
  {
   "en": "lux",
   "uk": "люкс",
-  "pos": "",
+  "pos": "noun",
   "british": false,
   "lvl": null,
-  "labels": [],
-  "note": "Shared: the unit of light; Ukrainian люкс mostly means luxury/deluxe (English: luxe, deluxe).",
-  "checked": 1,
-  "src": "verify-050.json"
+  "labels": [
+   "international",
+   "units"
+  ],
+  "note": "Unit of illuminance.",
+  "checked": 2,
+  "src": "scan-006.json"
  },
  {
   "en": "lyric",
@@ -1983,6 +3769,33 @@
   "note": "",
   "checked": 1,
   "src": "rscan-000.json"
+ },
+ {
+  "en": "macaron",
+  "uk": "макарон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "macaroni",
+  "uk": "макарони",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food",
+   "international"
+  ],
+  "note": "maccaroni is an old spelling. Ukrainian макарони means any pasta; English macaroni is one kind (short tubes).",
+  "checked": 2,
+  "src": "scan-009.json"
  },
  {
   "en": "machine",
@@ -2007,6 +3820,20 @@
   "src": "verify-087.json"
  },
  {
+  "en": "macro",
+  "uk": "макро",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "In Ukrainian mostly macro photography/macro mode; a computer macro is макрос.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
   "en": "mail",
   "uk": "мейл",
   "pos": "",
@@ -2016,6 +3843,17 @@
   "note": "мейл = email only; postal mail is пошта.",
   "checked": 2,
   "src": "verify-005.json"
+ },
+ {
+  "en": "major",
+  "uk": "мейджор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "major",
@@ -2040,6 +3878,20 @@
   "src": "rverify-004.json"
  },
  {
+  "en": "mara",
+  "uk": "мара",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other",
+   "rare"
+  ],
+  "note": "English mara is a rare word from Germanic folklore (cf. nightmare); Ukrainian мара = ghost, phantom, also a vague vision.",
+  "checked": 2,
+  "src": "verify-044.json"
+ },
+ {
   "en": "marmalade",
   "uk": "мармелад",
   "pos": "",
@@ -2060,6 +3912,19 @@
   "note": "Ukrainian масон = Freemason; a stonemason = муляр, каменяр.",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "mass",
+  "uk": "меса",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "mat",
@@ -2106,6 +3971,20 @@
   "src": "verify-045.json"
  },
  {
+  "en": "mediator",
+  "uk": "медіатор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "law"
+  ],
+  "note": "In Ukrainian also a guitar pick (plectrum); a general go-between is посередник.",
+  "checked": 2,
+  "src": "verify-053.json"
+ },
+ {
   "en": "medium",
   "uk": "медіум",
   "pos": "",
@@ -2119,13 +3998,13 @@
  {
   "en": "meeting",
   "uk": "мітинг",
-  "pos": "noun",
+  "pos": "",
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "мітинг = (political) rally; meeting = зустріч, збори",
+  "note": "",
   "checked": 2,
-  "src": "scan-003.json"
+  "src": "rscan-012.json"
  },
  {
   "en": "messenger",
@@ -2238,6 +4117,30 @@
   "src": "verify-048.json"
  },
  {
+  "en": "mobile",
+  "uk": "мобіль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "modal",
+  "uk": "модал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "fashion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "mode",
   "uk": "мода",
   "pos": "",
@@ -2291,6 +4194,32 @@
   "note": "Ukrainian монтаж also = installation/assembly and video editing in general.",
   "checked": 1,
   "src": "verify-050.json"
+ },
+ {
+  "en": "munchkin",
+  "uk": "манчкін",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "muzhik",
+  "uk": "мужик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "mystique",
@@ -2348,6 +4277,17 @@
   "src": "verify-031.json"
  },
  {
+  "en": "natural",
+  "uk": "натурал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "nature",
   "uk": "натура",
   "pos": "noun",
@@ -2357,6 +4297,20 @@
   "note": "натура = character, temperament; з натури = from life (art); nature as the natural world = природа",
   "checked": 1,
   "src": "scan-013.json"
+ },
+ {
+  "en": "navigator",
+  "uk": "навігатор",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "transport"
+  ],
+  "note": "Also a GPS navigation device.",
+  "checked": 2,
+  "src": "verify-053.json"
  },
  {
   "en": "nibble",
@@ -2379,6 +4333,20 @@
   "note": "нік = online nickname (from English nick for nickname); the usual English nick = a small cut, notch",
   "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "nit",
+  "uk": "ніт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "technical",
+   "units"
+  ],
+  "note": "Unit of screen brightness (cd/m²); English nit also means a louse egg.",
+  "checked": 2,
+  "src": "scan-008.json"
  },
  {
   "en": "nominal",
@@ -2436,6 +4404,20 @@
   "src": "verify-036.json"
  },
  {
+  "en": "novella",
+  "uk": "новела",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art",
+   "international"
+  ],
+  "note": "Plural of новела. Ukrainian новела is often shorter, close to a 'short story'; in law новела also means a new amendment.",
+  "checked": 2,
+  "src": "scan-009.json"
+ },
+ {
   "en": "null",
   "uk": "нуль",
   "pos": "noun",
@@ -2458,6 +4440,19 @@
   "src": "verify-015.json"
  },
  {
+  "en": "open-air",
+  "uk": "опен-ейр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "operational",
   "uk": "оперативний",
   "pos": "",
@@ -2467,6 +4462,17 @@
   "note": "feminine adjective form; оперативний mainly = prompt, quick (military 'operational' too); 'working, functioning' = робочий, діючий",
   "checked": 1,
   "src": "verify-015.json"
+ },
+ {
+  "en": "optician",
+  "uk": "оптик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "option",
@@ -2524,6 +4530,19 @@
   "src": "verify-005.json"
  },
  {
+  "en": "out",
+  "uk": "аут",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "Only in sports: the ball going out of play (м'яч в аут, вкидання з ауту); 'out' meaning outside is назовні.",
+  "checked": 2,
+  "src": "scan-010.json"
+ },
+ {
   "en": "outing",
   "uk": "аутинг",
   "pos": "",
@@ -2535,6 +4554,20 @@
   "src": "verify-042.json"
  },
  {
+  "en": "outsider",
+  "uk": "аутсайдер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people",
+   "sport"
+  ],
+  "note": "In Ukrainian mostly the underdog / last-place team.",
+  "checked": 2,
+  "src": "verify-039.json"
+ },
+ {
   "en": "overtime",
   "uk": "овертайм",
   "pos": "",
@@ -2544,6 +4577,32 @@
   "note": "овертайм = only extra time in a sports game; overtime at work = понаднормова робота",
   "checked": 2,
   "src": "verify-022.json"
+ },
+ {
+  "en": "packet",
+  "uk": "пакет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "home",
+   "international",
+   "tech"
+  ],
+  "note": "Ukrainian пакет most often means a (plastic) bag, which in English is a bag; a small packet of sugar is пакетик.",
+  "checked": 2,
+  "src": "verify-029.json"
+ },
+ {
+  "en": "packhouse",
+  "uk": "пакгауз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-006.json"
  },
  {
   "en": "page",
@@ -2697,6 +4756,28 @@
   "src": "verify-076.json"
  },
  {
+  "en": "peripeteia",
+  "uk": "перипетія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-019.json"
+ },
+ {
+  "en": "permanent",
+  "uk": "перманент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-012.json"
+ },
+ {
   "en": "persona",
   "uk": "персона",
   "pos": "noun",
@@ -2730,6 +4811,20 @@
   "src": "scan-008.json"
  },
  {
+  "en": "phew",
+  "uk": "фу",
+  "pos": "interj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "emotions",
+   "informal"
+  ],
+  "note": "Ukrainian фу is used more for disgust (like 'ugh'), but also for relief",
+  "checked": 2,
+  "src": "verify-061.json"
+ },
+ {
   "en": "photograph",
   "uk": "фотограф",
   "pos": "",
@@ -2750,6 +4845,32 @@
   "note": "Ukrainian пироги (sing. пиріг) = baked pies; English pirogi/pierogi usually = boiled dumplings (вареники).",
   "checked": 1,
   "src": "scan-010.json"
+ },
+ {
+  "en": "pixie",
+  "uk": "піксі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "fashion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "plafond",
+  "uk": "плафон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "home"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "plank",
@@ -2774,6 +4895,31 @@
   "src": "scan-017.json"
  },
  {
+  "en": "pocketbook",
+  "uk": "покетбук",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-012.json"
+ },
+ {
+  "en": "podium",
+  "uk": "подіум",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "In Ukrainian also (often) a fashion catwalk; a speaker's stand is usually трибуна.",
+  "checked": 2,
+  "src": "verify-035.json"
+ },
+ {
   "en": "poem",
   "uk": "поема",
   "pos": "",
@@ -2783,6 +4929,43 @@
   "note": "поема is a long narrative poem; an ordinary (short) poem is вірш.",
   "checked": 1,
   "src": "verify-014.json"
+ },
+ {
+  "en": "pogo",
+  "uk": "пого",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "pointer",
+  "uk": "пойнтер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "poise",
+  "uk": "пуаз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "physics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "polis",
@@ -2829,6 +5012,20 @@
   "src": "verify-003.json"
  },
  {
+  "en": "popper",
+  "uk": "поппер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport",
+   "technical"
+  ],
+  "note": "in Ukrainian mainly the fishing lure (also the drug 'poppers')",
+  "checked": 2,
+  "src": "verify-074.json"
+ },
+ {
   "en": "porter",
   "uk": "портер",
   "pos": "noun",
@@ -2855,6 +5052,30 @@
   "note": "Only the noun (positivity, good vibes; also a photo positive); the adjective is позитивний.",
   "checked": 2,
   "src": "verify-002.json"
+ },
+ {
+  "en": "potpourri",
+  "uk": "попурі",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "Ukrainian попурі is mostly a musical medley; English potpourri is mostly a bowl of dried petals, also any mixture or medley.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "pragmatic",
+  "uk": "прагматик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "premium",
@@ -2901,6 +5122,32 @@
   "src": "scan-009.json"
  },
  {
+  "en": "pride",
+  "uk": "прайд",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "Ukrainian прайд is only a group of lions (or a Pride event); the feeling of pride is гордість.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "primate",
+  "uk": "примас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "prior",
   "uk": "пріор",
   "pos": "noun",
@@ -2926,6 +5173,39 @@
   "src": "verify-003.json"
  },
  {
+  "en": "production",
+  "uk": "продакшен",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "project",
+  "uk": "прожект",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-013.json"
+ },
+ {
+  "en": "promoter",
+  "uk": "промотор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "protector",
   "uk": "протектор",
   "pos": "noun",
@@ -2949,6 +5229,20 @@
   "note": "протокол also means the minutes of a meeting or an official (police) report",
   "checked": 2,
   "src": "verify-016.json"
+ },
+ {
+  "en": "proxy",
+  "uk": "проксі",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "In Ukrainian mainly a proxy server (also проксі-війна = proxy war); a person acting for you is представник or довірена особа.",
+  "checked": 2,
+  "src": "verify-031.json"
  },
  {
   "en": "publican",
@@ -3009,6 +5303,46 @@
   "src": "scan-008.json"
  },
  {
+  "en": "racket",
+  "uk": "рекет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "law"
+  ],
+  "note": "Ukrainian рекет = extortion racket only; a tennis racket = ракетка, noise = гамір.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "rad",
+  "uk": "рад",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "physics",
+   "technical",
+   "units"
+  ],
+  "note": "Unit of absorbed radiation dose. In Ukrainian рад usually means 'glad'; English rad is also slang for 'cool'.",
+  "checked": 2,
+  "src": "verify-042.json"
+ },
+ {
+  "en": "rage",
+  "uk": "раж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "ragu",
   "uk": "рагу",
   "pos": "noun",
@@ -3020,6 +5354,33 @@
   "note": "рагу = stew (English ragout); English ragu = Italian meat sauce for pasta.",
   "checked": 1,
   "src": "scan-011.json"
+ },
+ {
+  "en": "raider",
+  "uk": "рейдер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "law"
+  ],
+  "note": "In Ukrainian mostly a corporate raider (often an illegal hostile takeover); also a military raider.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "raise",
+  "uk": "рейз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "random",
@@ -3034,6 +5395,33 @@
   "note": "Ukrainian рандом is a slang noun (chance, random pick); the adjective random = випадковий",
   "checked": 2,
   "src": "verify-007.json"
+ },
+ {
+  "en": "raptor",
+  "uk": "раптор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "rate",
+  "uk": "рейт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "slang"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "scan-020.json"
  },
  {
   "en": "ration",
@@ -3069,6 +5457,65 @@
   "src": "verify-031.json"
  },
  {
+  "en": "reboot",
+  "uk": "ребут",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "reception",
+  "uk": "ресепшн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "recipient",
+  "uk": "реципієнт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "In Ukrainian mainly medical (blood/organ recipient); the recipient of a letter or prize = отримувач.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "reconstructor",
+  "uk": "реконструктор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "reference",
+  "uk": "референс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "regime",
   "uk": "режим",
   "pos": "",
@@ -3080,6 +5527,19 @@
   "src": "scan-000.json"
  },
  {
+  "en": "regisseur",
+  "uk": "режисер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "register",
   "uk": "регістр",
   "pos": "noun",
@@ -3089,6 +5549,20 @@
   "note": "регістр = (voice/language/CPU) register, letter case; a register as an official list = реєстр.",
   "checked": 2,
   "src": "scan-018.json"
+ },
+ {
+  "en": "relax",
+  "uk": "релакс",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "emotions",
+   "informal"
+  ],
+  "note": "In English relax is mainly a verb.",
+  "checked": 2,
+  "src": "scan-017.json"
  },
  {
   "en": "relief",
@@ -3124,6 +5598,19 @@
   "src": "scan-012.json"
  },
  {
+  "en": "repo",
+  "uk": "репо",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "technology"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "reservoir",
   "uk": "резервуар",
   "pos": "",
@@ -3157,6 +5644,19 @@
   "src": "verify-078.json"
  },
  {
+  "en": "river",
+  "uk": "рівер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "romance",
   "uk": "романс",
   "pos": "noun",
@@ -3188,6 +5688,20 @@
   "note": "ровер = bicycle (Western Ukrainian); rover = wanderer; a Mars rover is марсохід (sometimes ровер)",
   "checked": 1,
   "src": "verify-029.json"
+ },
+ {
+  "en": "royalty",
+  "uk": "роялті",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "finance"
+  ],
+  "note": "Ukrainian роялті is only the payment to an author or owner; English royalty also (mainly) means royal persons, and the payments are usually called royalties.",
+  "checked": 2,
+  "src": "scan-017.json"
  },
  {
   "en": "salute",
@@ -3234,6 +5748,20 @@
   "src": "scan-002.json"
  },
  {
+  "en": "schema",
+  "uk": "схема",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "Ukrainian схема is also an everyday word: diagram, plan, scheme (also a dodgy scheme).",
+  "checked": 2,
+  "src": "verify-062.json"
+ },
+ {
   "en": "scheme",
   "uk": "схема",
   "pos": "noun",
@@ -3256,6 +5784,44 @@
   "src": "scan-010.json"
  },
  {
+  "en": "scratch",
+  "uk": "скретч",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "technical"
+  ],
+  "note": "In Ukrainian only special senses: DJ scratching, scratch race, scratch-off layer.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "scrum",
+  "uk": "скрам",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "secant",
+  "uk": "секанс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-010.json"
+ },
+ {
   "en": "second",
   "uk": "секонд",
   "pos": "",
@@ -3265,6 +5831,33 @@
   "note": "",
   "checked": 1,
   "src": "rscan-000.json"
+ },
+ {
+  "en": "second hand",
+  "uk": "секонд-хенд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "secondhand",
+  "uk": "секонд-хенд",
+  "pos": "adj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business",
+   "clothing"
+  ],
+  "note": "In Ukrainian a noun (a second-hand shop or clothes); in English an adjective/adverb.",
+  "checked": 2,
+  "src": "scan-018.json"
  },
  {
   "en": "senior",
@@ -3284,12 +5877,49 @@
   "british": false,
   "lvl": null,
   "labels": [
-   "international",
    "media"
   ],
-  "note": "сериал is the Russian spelling; Ukrainian серіал. English usually says series; a serial is a story told in parts.",
+  "note": "",
   "checked": 2,
-  "src": "scan-009.json"
+  "src": "rscan-014.json"
+ },
+ {
+  "en": "serpentine",
+  "uk": "серпентин",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-006.json"
+ },
+ {
+  "en": "session",
+  "uk": "сейшн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "shake",
+  "uk": "шейк",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks",
+   "informal"
+  ],
+  "note": "Ukrainian шейк = a (protein/milk) shake drink, also the 1960s dance; to shake = трясти.",
+  "checked": 2,
+  "src": "scan-019.json"
  },
  {
   "en": "shelf",
@@ -3347,6 +5977,45 @@
   "src": "verify-030.json"
  },
  {
+  "en": "skeleton",
+  "uk": "скелетон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
+ },
+ {
+  "en": "sketch",
+  "uk": "скетч",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art",
+   "media"
+  ],
+  "note": "In Ukrainian mainly a short comic sketch.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "skiff",
+  "uk": "скіф",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport",
+   "transport"
+  ],
+  "note": "In Ukrainian mostly a narrow racing rowing boat; скіф also means 'Scythian'.",
+  "checked": 2,
+  "src": "verify-096.json"
+ },
+ {
   "en": "skin",
   "uk": "скін",
   "pos": "",
@@ -3356,6 +6025,20 @@
   "note": "скін = only a skin in games/apps or a skinhead (slang); body skin = шкіра",
   "checked": 2,
   "src": "verify-003.json"
+ },
+ {
+  "en": "sledge",
+  "uk": "следж",
+  "pos": "noun",
+  "british": true,
+  "lvl": null,
+  "labels": [
+   "rare",
+   "sport"
+  ],
+  "note": "In Ukrainian only the sledge used in para ice hockey (следж-хокей); an ordinary sled is санки.",
+  "checked": 2,
+  "src": "verify-066.json"
  },
  {
   "en": "smack",
@@ -3380,6 +6063,44 @@
   "src": "verify-004.json"
  },
  {
+  "en": "smile",
+  "uk": "смайл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "snippet",
+  "uk": "сніпет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "it"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "socket",
+  "uk": "сокет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "Ukrainian сокет is only the computer sense (CPU socket, network socket); a wall socket is розетка, an eye socket is очна западина.",
+  "checked": 2,
+  "src": "verify-041.json"
+ },
+ {
   "en": "soda",
   "uk": "сода",
   "pos": "",
@@ -3389,6 +6110,57 @@
   "note": "сода = baking soda (the chemical); a fizzy drink is газована вода",
   "checked": 1,
   "src": "verify-019.json"
+ },
+ {
+  "en": "solitaire",
+  "uk": "солітер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "som",
+  "uk": "сом",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "Currency of Kyrgyzstan. Ukrainian сом also (and mainly) means 'catfish'.",
+  "checked": 2,
+  "src": "verify-059.json"
+ },
+ {
+  "en": "sound",
+  "uk": "саунд",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "music"
+  ],
+  "note": "In Ukrainian only the characteristic sound of a band or recording; sound in general = звук.",
+  "checked": 2,
+  "src": "scan-018.json"
+ },
+ {
+  "en": "sovereign",
+  "uk": "соверен",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "soviet",
@@ -3427,6 +6199,44 @@
   "src": "verify-036.json"
  },
  {
+  "en": "sphynx",
+  "uk": "сфінкс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "spin",
+  "uk": "спін",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "physics",
+   "technical"
+  ],
+  "note": "In Ukrainian only the physics term (particle spin); spinning/rotation = обертання.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "spinning",
+  "uk": "спінінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "spirit",
   "uk": "спирт",
   "pos": "",
@@ -3436,6 +6246,47 @@
   "note": "спирт = (ethyl) alcohol only; spirit (soul) = дух.",
   "checked": 2,
   "src": "verify-004.json"
+ },
+ {
+  "en": "spread",
+  "uk": "спред",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance",
+   "food"
+  ],
+  "note": "Finance (price spread) and a butter-like food spread.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "sprite",
+  "uk": "спрайт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "Shared meaning: a 2D image in computer graphics/games. In English sprite also (originally) means a fairy or elf.",
+  "checked": 2,
+  "src": "verify-059.json"
+ },
+ {
+  "en": "spritz",
+  "uk": "шприц",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "square",
@@ -3529,6 +6380,32 @@
   "src": "scan-017.json"
  },
  {
+  "en": "stayer",
+  "uk": "стаєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "stimulator",
+  "uk": "стимулятор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "stone",
   "uk": "стоун",
   "pos": "noun",
@@ -3543,6 +6420,60 @@
   "src": "verify-004.json"
  },
  {
+  "en": "stories",
+  "uk": "сторіс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "modern"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "story",
+  "uk": "сторі",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "In Ukrainian only a social-media story; a story in general = історія, оповідання.",
+  "checked": 2,
+  "src": "scan-018.json"
+ },
+ {
+  "en": "stream",
+  "uk": "стрім",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "Ukrainian стрім is only an online live stream; a small river is струмок.",
+  "checked": 2,
+  "src": "scan-017.json"
+ },
+ {
+  "en": "striker",
+  "uk": "страйкер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "subject",
   "uk": "суб'єкт",
   "pos": "",
@@ -3554,6 +6485,30 @@
   "src": "verify-003.json"
  },
  {
+  "en": "support",
+  "uk": "супорт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "surf",
+  "uk": "серф",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport2"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
   "en": "surrogate",
   "uk": "сурогат",
   "pos": "",
@@ -3563,6 +6518,56 @@
   "note": "сурогат = cheap substitute, ersatz (a thing); a surrogate mother = сурогатна мати",
   "checked": 1,
   "src": "verify-048.json"
+ },
+ {
+  "en": "surveyor",
+  "uk": "сюрвеєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "swap",
+  "uk": "своп",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "finance"
+  ],
+  "note": "In Ukrainian mainly a financial (currency) swap.",
+  "checked": 2,
+  "src": "scan-018.json"
+ },
+ {
+  "en": "switch",
+  "uk": "світч",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "devices"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "sympathetic",
+  "uk": "симпатик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "séance",
@@ -3588,6 +6593,19 @@
   "note": "slang (Tab key, browser tab, guitar tabs); a browser tab is usually вкладка; a bar tab = рахунок",
   "checked": 2,
   "src": "verify-022.json"
+ },
+ {
+  "en": "tamper",
+  "uk": "темпер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  },
  {
   "en": "taro",
@@ -3621,6 +6639,17 @@
   "note": "техніка also = machinery, equipment, technology",
   "checked": 1,
   "src": "scan-001.json"
+ },
+ {
+  "en": "tempo",
+  "uk": "темпо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "tent",
@@ -3660,6 +6689,19 @@
   "src": "verify-019.json"
  },
  {
+  "en": "therapist",
+  "uk": "терапевт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "thesis",
   "uk": "тезис",
   "pos": "noun",
@@ -3683,6 +6725,20 @@
   "note": "торн is only the old letter Þ; a plant thorn is колючка or шип.",
   "checked": 1,
   "src": "verify-043.json"
+ },
+ {
+  "en": "thread",
+  "uk": "тред",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "media"
+  ],
+  "note": "In Ukrainian only an online discussion thread (social media, forum); a sewing thread is нитка.",
+  "checked": 2,
+  "src": "scan-009.json"
  },
  {
   "en": "ticket",
@@ -3721,6 +6777,57 @@
   "src": "scan-003.json"
  },
  {
+  "en": "token",
+  "uk": "токен",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "tome",
+  "uk": "том",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "education",
+   "literary"
+  ],
+  "note": "English tome often means a big heavy book; Ukrainian том = one volume",
+  "checked": 2,
+  "src": "verify-057.json"
+ },
+ {
+  "en": "topic",
+  "uk": "топік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
+  "en": "torte",
+  "uk": "торт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "Ukrainian торт is any layered/decorated cake (e.g. a birthday cake); in English that is usually just cake.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
   "en": "tourniquet",
   "uk": "турнікет",
   "pos": "",
@@ -3730,6 +6837,20 @@
   "note": "English: only a band to stop bleeding; a turnstile is 'turnstile'",
   "checked": 1,
   "src": "verify-102.json"
+ },
+ {
+  "en": "trade",
+  "uk": "трейд",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "informal",
+   "sport"
+  ],
+  "note": "In Ukrainian mostly sports jargon (a player trade) and трейд-ін; general trade = торгівля.",
+  "checked": 2,
+  "src": "scan-011.json"
  },
  {
   "en": "train",
@@ -3765,6 +6886,45 @@
   "src": "scan-017.json"
  },
  {
+  "en": "transporter",
+  "uk": "транспортер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "technical",
+   "transport"
+  ],
+  "note": "In Ukrainian транспортер also often means a conveyor belt (English: conveyor).",
+  "checked": 2,
+  "src": "verify-059.json"
+ },
+ {
+  "en": "trash",
+  "uk": "треш",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media",
+   "slang"
+  ],
+  "note": "Ukrainian треш is slang for trashy, shocking or awful stuff (трешове кіно); not used for household garbage.",
+  "checked": 2,
+  "src": "scan-006.json"
+ },
+ {
+  "en": "traverse",
+  "uk": "траверз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "trench",
   "uk": "тренч",
   "pos": "noun",
@@ -3774,6 +6934,17 @@
   "note": "Ukrainian тренч = trench coat; a trench (ditch) = траншея, окоп.",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "tribal",
+  "uk": "трайбл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "tribune",
@@ -3787,6 +6958,19 @@
   "src": "scan-005.json"
  },
  {
+  "en": "trigger",
+  "uk": "тригер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech"
+  ],
+  "note": "Used for the figurative/psychological sense and in electronics/programming; a gun trigger = спусковий гачок.",
+  "checked": 2,
+  "src": "scan-018.json"
+ },
+ {
   "en": "triton",
   "uk": "тритон",
   "pos": "",
@@ -3796,6 +6980,31 @@
   "note": "тритон usually means a newt; shared only in physics (tritium nucleus) and mythology",
   "checked": 1,
   "src": "verify-074.json"
+ },
+ {
+  "en": "tritone",
+  "uk": "тритон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music",
+   "technical"
+  ],
+  "note": "Ukrainian тритон more often means 'newt' (and the sea god Triton).",
+  "checked": 2,
+  "src": "scan-018.json"
+ },
+ {
+  "en": "trumeau",
+  "uk": "трюмо",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "trust",
@@ -3820,6 +7029,20 @@
   "src": "verify-001.json"
  },
  {
+  "en": "tuning",
+  "uk": "тюнінг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "transport"
+  ],
+  "note": "Ukrainian тюнінг = modifying a car; tuning a musical instrument is настроювання.",
+  "checked": 2,
+  "src": "scan-015.json"
+ },
+ {
   "en": "turf",
   "uk": "торф",
   "pos": "noun",
@@ -3829,6 +7052,47 @@
   "note": "Ukrainian торф = peat; English turf is mainly grass with its roots (sod), though it means peat fuel in Irish English.",
   "checked": 1,
   "src": "scan-015.json"
+ },
+ {
+  "en": "turkism",
+  "uk": "тюркізм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-019.json"
+ },
+ {
+  "en": "twink",
+  "uk": "твінк",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "games",
+   "people",
+   "rare",
+   "slang"
+  ],
+  "note": "Slang: a young slim man (LGBT slang, can be offensive); in games, a low-level character with top gear",
+  "checked": 2,
+  "src": "verify-075.json"
+ },
+ {
+  "en": "twist",
+  "uk": "твіст",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "media",
+   "music"
+  ],
+  "note": "Ukrainian твіст = the twist (dance), informally also a plot twist; to twist = крутити.",
+  "checked": 2,
+  "src": "scan-019.json"
  },
  {
   "en": "typography",
@@ -3853,6 +7117,20 @@
   "src": "verify-003.json"
  },
  {
+  "en": "var",
+  "uk": "вар",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "technical",
+   "units"
+  ],
+  "note": "Only the unit of reactive power (volt-ampere reactive); Ukrainian вар also means boiling heat or garden pitch.",
+  "checked": 2,
+  "src": "verify-034.json"
+ },
+ {
   "en": "variant",
   "uk": "варіант",
   "pos": "noun",
@@ -3865,6 +7143,19 @@
   "note": "a very common Ukrainian word, also = 'option, version'",
   "checked": 2,
   "src": "verify-028.json"
+ },
+ {
+  "en": "ventilator",
+  "uk": "вентилятор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "devices"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
  },
  {
   "en": "viola",
@@ -3915,6 +7206,57 @@
   "src": "verify-023.json"
  },
  {
+  "en": "wrestler",
+  "uk": "реслер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people",
+   "sport"
+  ],
+  "note": "Ukrainian реслер = a professional (show) wrestler; an Olympic-style wrestler = борець.",
+  "checked": 2,
+  "src": "scan-019.json"
+ },
+ {
+  "en": "wrestling",
+  "uk": "реслінг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "In Ukrainian mostly professional (show) wrestling; sport wrestling is боротьба.",
+  "checked": 2,
+  "src": "scan-020.json"
+ },
+ {
+  "en": "wrestling",
+  "uk": "рестлінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "yarligh",
+  "uk": "ярлик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-024.json"
+ },
+ {
   "en": "yurt",
   "uk": "юрт",
   "pos": "",
@@ -3946,5 +7288,18 @@
   "note": "зеро = only the zero on a roulette wheel; the number zero = нуль",
   "checked": 1,
   "src": "verify-006.json"
+ },
+ {
+  "en": "zoomer",
+  "uk": "зумер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
  }
 ]

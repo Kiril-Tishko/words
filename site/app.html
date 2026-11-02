@@ -79,6 +79,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .en { font-size: clamp(19px, 2.2vw, 26px); font-weight: 600; }
 .eq { color: var(--muted); font-size: 16px; line-height: 1; }
 .uk { font-size: clamp(17px, 1.9vw, 22px); font-weight: 500; color: var(--muted); }
+.use { margin-top: 4px; font-size: 11.5px; letter-spacing: .04em; color: var(--muted); text-transform: lowercase; }
 .flag { position: absolute; top: 10px; left: 10px; width: 20px; height: 13px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 .icon {
   position: absolute; width: 30px; height: 30px; border-radius: 8px; display: grid; place-items: center; color: var(--muted);
@@ -194,6 +195,10 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     $('#topic').hidden = !keys.length;
   }
 
+  // labels that change how the pair should be read; shown small on the card front
+  const FRONT_LABELS = ['slang', 'archaic', 'obsolete', 'dated', 'informal', 'rare'];
+  function usage(w) { return (w.tags || []).filter(t => FRONT_LABELS.indexOf(t) >= 0).slice(0, 2).join(' · '); }
+
   function cardHTML(w, opts) {
     opts = opts || {};
     const ex = (w.examples || []).filter(Boolean);
@@ -206,6 +211,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
         '<div class="face front">' +
           (w.british ? FLAG : '') +
           '<div class="en">' + esc(w.en) + '</div><div class="eq">=</div><div class="uk">' + esc(w.uk) + '</div>' +
+          (usage(w) ? '<div class="use">' + esc(usage(w)) + '</div>' : '') +
           (canSpeak ? '<button class="icon say" data-say="' + esc(w.en) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
           (opts.noAdd ? '' : '<button class="icon add' + (mine.has(w.id) ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (mine.has(w.id) ? 'Remove from my words' : 'Add to my words') + '">' + (mine.has(w.id) ? CHECK : PLUS) + '</button>') +
         '</div>' +

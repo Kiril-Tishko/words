@@ -23,6 +23,17 @@
  },
  {
   "en": "accurate",
+  "uk": "акурат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
+  "en": "accurate",
   "uk": "акуратний",
   "pos": "",
   "british": false,
@@ -77,6 +88,17 @@
   "src": "rscan-000.json"
  },
  {
+  "en": "advocaat",
+  "uk": "адвокат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-008.json"
+ },
+ {
   "en": "aggregate",
   "uk": "агрегат",
   "pos": "",
@@ -86,6 +108,28 @@
   "note": "агрегат = a machine or unit (e.g. a power unit); an aggregate (total) = сукупність, сума",
   "checked": 2,
   "src": "verify-022.json"
+ },
+ {
+  "en": "airlift",
+  "uk": "ерліфт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "amphora",
+  "uk": "емпора",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
  },
  {
   "en": "analytic",
@@ -121,6 +165,28 @@
   "src": "rverify-001.json"
  },
  {
+  "en": "apart",
+  "uk": "апарт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "apparel",
+  "uk": "апарель",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-006.json"
+ },
+ {
   "en": "areal",
   "uk": "ареал",
   "pos": "",
@@ -130,6 +196,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-002.json"
+ },
+ {
+  "en": "article",
+  "uk": "артикул",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
  },
  {
   "en": "aspirant",
@@ -165,6 +242,17 @@
   "src": "verify-070.json"
  },
  {
+  "en": "banderole",
+  "uk": "бандероль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
+ },
+ {
   "en": "basilica",
   "uk": "базилік",
   "pos": "noun",
@@ -185,6 +273,17 @@
   "note": "батон = long loaf of bread; baton = stick (conductor's, police, relay) = паличка/кийок.",
   "checked": 1,
   "src": "scan-011.json"
+ },
+ {
+  "en": "beatnik",
+  "uk": "батник",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-007.json"
  },
  {
   "en": "benzene",
@@ -220,6 +319,17 @@
   "src": "verify-044.json"
  },
  {
+  "en": "bitter",
+  "uk": "бітер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "blank",
   "uk": "бланк",
   "pos": "",
@@ -229,6 +339,28 @@
   "note": "бланк = a printed form to fill in; blank = порожній, чистий",
   "checked": 2,
   "src": "verify-017.json"
+ },
+ {
+  "en": "bondar",
+  "uk": "бондар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-016.json"
+ },
+ {
+  "en": "bouton",
+  "uk": "бутон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-007.json"
  },
  {
   "en": "bra",
@@ -297,6 +429,17 @@
   "src": "scan-020.json"
  },
  {
+  "en": "buyer",
+  "uk": "буєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-008.json"
+ },
+ {
   "en": "bye-bye",
   "uk": "бай-бай",
   "pos": "interj",
@@ -306,6 +449,28 @@
   "note": "Ukrainian бай-бай is baby talk for 'sleep' (from the lullaby баю-бай); 'bye-bye' is бувай/па-па.",
   "checked": 1,
   "src": "scan-012.json"
+ },
+ {
+  "en": "calcinate",
+  "uk": "кальцинат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "camisole",
+  "uk": "камзол",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-007.json"
  },
  {
   "en": "cannon",
@@ -418,6 +583,28 @@
   "src": "scan-001.json"
  },
  {
+  "en": "chacha",
+  "uk": "чача",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "chagrin",
+  "uk": "шагрень",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
+ },
+ {
   "en": "clay",
   "uk": "клей",
   "pos": "",
@@ -427,6 +614,39 @@
   "note": "клей = glue; clay = глина",
   "checked": 1,
   "src": "verify-013.json"
+ },
+ {
+  "en": "click",
+  "uk": "клик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "cochlear",
+  "uk": "кахляр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "collet",
+  "uk": "колет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
  },
  {
   "en": "colt",
@@ -517,6 +737,72 @@
   "src": "verify-042.json"
  },
  {
+  "en": "condominate",
+  "uk": "кондомінат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "confection",
+  "uk": "конфекціон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "confectioner",
+  "uk": "конфекціонер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "conference",
+  "uk": "конферанс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-005.json"
+ },
+ {
+  "en": "confinement",
+  "uk": "конфайнмент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "confiscate",
+  "uk": "конфіскат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
   "en": "confuse",
   "uk": "конфуз",
   "pos": "noun",
@@ -539,6 +825,28 @@
   "src": "rscan-000.json"
  },
  {
+  "en": "contractee",
+  "uk": "контракте",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "convent",
+  "uk": "конвент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "convert",
   "uk": "конверт",
   "pos": "noun",
@@ -550,6 +858,17 @@
   "src": "scan-009.json"
  },
  {
+  "en": "converting",
+  "uk": "конвертин",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
   "en": "cord",
   "uk": "корд",
   "pos": "",
@@ -559,6 +878,17 @@
   "note": "корд = tyre cord fabric or a lunge line for horses; a cord/string is шнур.",
   "checked": 2,
   "src": "verify-021.json"
+ },
+ {
+  "en": "cordite",
+  "uk": "кардит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
  },
  {
   "en": "corporative",
@@ -594,6 +924,17 @@
   "src": "verify-103.json"
  },
  {
+  "en": "crocket",
+  "uk": "крокет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "cross",
   "uk": "крос",
   "pos": "",
@@ -603,6 +944,28 @@
   "note": "крос = cross-country race (also a boxing cross); a cross is хрест",
   "checked": 2,
   "src": "verify-002.json"
+ },
+ {
+  "en": "cubit",
+  "uk": "кубіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-006.json"
+ },
+ {
+  "en": "culturist",
+  "uk": "культурист",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
  },
  {
   "en": "cursive",
@@ -627,6 +990,17 @@
   "src": "verify-025.json"
  },
  {
+  "en": "damping",
+  "uk": "демпінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
+ },
+ {
   "en": "data",
   "uk": "дата",
   "pos": "noun",
@@ -636,6 +1010,17 @@
   "note": "дата = date (calendar day); data = дані",
   "checked": 1,
   "src": "scan-001.json"
+ },
+ {
+  "en": "debutant",
+  "uk": "дебатант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-009.json"
  },
  {
   "en": "defile",
@@ -724,6 +1109,17 @@
   "note": "даун = (offensive) person with Down syndrome; 'down' is вниз.",
   "checked": 2,
   "src": "verify-000.json"
+ },
+ {
+  "en": "dust",
+  "uk": "дуст",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "dynamic",
@@ -869,6 +1265,17 @@
   "src": "scan-013.json"
  },
  {
+  "en": "fiscal",
+  "uk": "фіскал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-005.json"
+ },
+ {
   "en": "flagman",
   "uk": "флагман",
   "pos": "noun",
@@ -913,6 +1320,17 @@
   "src": "scan-018.json"
  },
  {
+  "en": "friction",
+  "uk": "фрикціон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "frock",
   "uk": "фрак",
   "pos": "noun",
@@ -922,6 +1340,17 @@
   "note": "фрак = tailcoat; frock = dress.",
   "checked": 1,
   "src": "scan-020.json"
+ },
+ {
+  "en": "galleon",
+  "uk": "гальюн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-008.json"
  },
  {
   "en": "gamma",
@@ -955,6 +1384,17 @@
   "note": "genial = friendly, cheerful; геніальний = brilliant, of genius.",
   "checked": 1,
   "src": "verify-089.json"
+ },
+ {
+  "en": "governor",
+  "uk": "гувернер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-005.json"
  },
  {
   "en": "grand",
@@ -1001,6 +1441,17 @@
   "src": "scan-006.json"
  },
  {
+  "en": "gyrant",
+  "uk": "жирант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
   "en": "herb",
   "uk": "герб",
   "pos": "",
@@ -1010,6 +1461,17 @@
   "note": "герб = coat of arms; herb = трава, зелень",
   "checked": 1,
   "src": "verify-029.json"
+ },
+ {
+  "en": "hermetic",
+  "uk": "герметик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-005.json"
  },
  {
   "en": "heroine",
@@ -1045,6 +1507,39 @@
   "src": "verify-010.json"
  },
  {
+  "en": "hydrotechnic",
+  "uk": "гідротехнік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "hypotheca",
+  "uk": "гіпотека",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-009.json"
+ },
+ {
+  "en": "illuminate",
+  "uk": "ілюмінат",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-016.json"
+ },
+ {
   "en": "illuminator",
   "uk": "ілюмінатор",
   "pos": "",
@@ -1054,6 +1549,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-002.json"
+ },
+ {
+  "en": "infant",
+  "uk": "інфант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
  },
  {
   "en": "infraction",
@@ -1090,6 +1596,17 @@
  },
  {
   "en": "intelligent",
+  "uk": "інтеліґент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-016.json"
+ },
+ {
+  "en": "intelligent",
   "uk": "інтелігент",
   "pos": "adj",
   "british": false,
@@ -1098,6 +1615,17 @@
   "note": "інтелігент = an intellectual (person); intelligent = розумний.",
   "checked": 1,
   "src": "scan-017.json"
+ },
+ {
+  "en": "intermedia",
+  "uk": "інтермедія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "international",
@@ -1133,6 +1661,39 @@
   "src": "scan-019.json"
  },
  {
+  "en": "kailo",
+  "uk": "кайло",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "klema",
+  "uk": "клема",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "kolovrat",
+  "uk": "коловорот",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-022.json"
+ },
+ {
   "en": "lac",
   "uk": "лак",
   "pos": "",
@@ -1142,6 +1703,28 @@
   "note": "Ukrainian лак = varnish, lacquer, nail polish; lac (the raw resin) is шелак.",
   "checked": 1,
   "src": "verify-051.json"
+ },
+ {
+  "en": "lafayette",
+  "uk": "лафет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "lampas",
+  "uk": "лампас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-011.json"
  },
  {
   "en": "lapis",
@@ -1155,6 +1738,17 @@
   "src": "verify-085.json"
  },
  {
+  "en": "last",
+  "uk": "ласт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "latina",
   "uk": "латина",
   "pos": "",
@@ -1164,6 +1758,39 @@
   "note": "латина = Latin (the language)",
   "checked": 1,
   "src": "verify-048.json"
+ },
+ {
+  "en": "latke",
+  "uk": "латка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "levada",
+  "uk": "левада",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-011.json"
+ },
+ {
+  "en": "lifter",
+  "uk": "ліфтер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
  },
  {
   "en": "lipa",
@@ -1177,6 +1804,17 @@
   "src": "verify-098.json"
  },
  {
+  "en": "liquor",
+  "uk": "ліквор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "list",
   "uk": "лист",
   "pos": "noun",
@@ -1186,6 +1824,17 @@
   "note": "лист = letter (also leaf, sheet); a list = список",
   "checked": 2,
   "src": "scan-001.json"
+ },
+ {
+  "en": "logic",
+  "uk": "логік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
  },
  {
   "en": "Lombard",
@@ -1208,6 +1857,17 @@
   "note": "luger = luge racer (or the Luger pistol); люгер = lugger, a small sailing ship.",
   "checked": 1,
   "src": "verify-096.json"
+ },
+ {
+  "en": "lunatic",
+  "uk": "лунатик",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
  },
  {
   "en": "magazine",
@@ -1252,6 +1912,17 @@
   "note": "магнат = magnate (tycoon); a magnet is магніт.",
   "checked": 1,
   "src": "scan-012.json"
+ },
+ {
+  "en": "make",
+  "uk": "мейк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "mangal",
@@ -1375,6 +2046,17 @@
   "src": "verify-049.json"
  },
  {
+  "en": "miracle",
+  "uk": "міракль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-012.json"
+ },
+ {
   "en": "mode",
   "uk": "мода",
   "pos": "noun",
@@ -1397,6 +2079,17 @@
   "src": "verify-122.json"
  },
  {
+  "en": "molniya",
+  "uk": "молнія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-019.json"
+ },
+ {
   "en": "morale",
   "uk": "мораль",
   "pos": "",
@@ -1417,6 +2110,17 @@
   "note": "морель = apricot (western dialect) or a sour-cherry variety; the mushroom is сморж.",
   "checked": 1,
   "src": "verify-096.json"
+ },
+ {
+  "en": "motion",
+  "uk": "моціон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-006.json"
  },
  {
   "en": "multiplication",
@@ -1540,6 +2244,19 @@
   "src": "rverify-006.json"
  },
  {
+  "en": "parliamentarian",
+  "uk": "парламентар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1b.json"
+ },
+ {
   "en": "parole",
   "uk": "пароль",
   "pos": "noun",
@@ -1560,6 +2277,17 @@
   "note": "патріархія = patriarchate (church governed by a patriarch, its office); patriarchy (social system) = патріархат",
   "checked": 1,
   "src": "scan-013.json"
+ },
+ {
+  "en": "pension",
+  "uk": "пенсіон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-012.json"
  },
  {
   "en": "pension",
@@ -1606,6 +2334,17 @@
   "src": "scan-004.json"
  },
  {
+  "en": "philia",
+  "uk": "філія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-010.json"
+ },
+ {
   "en": "physique",
   "uk": "фізика",
   "pos": "noun",
@@ -1626,6 +2365,17 @@
   "note": "п'єса = a play (theater) or a piece of music; 'a piece of something' is шматок.",
   "checked": 1,
   "src": "scan-012.json"
+ },
+ {
+  "en": "pilotage",
+  "uk": "пілотаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-009.json"
  },
  {
   "en": "pique",
@@ -1650,6 +2400,17 @@
   "src": "rscan-000.json"
  },
  {
+  "en": "planer",
+  "uk": "планер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-003.json"
+ },
+ {
   "en": "planner",
   "uk": "планер",
   "pos": "noun",
@@ -1661,6 +2422,17 @@
   "src": "scan-018.json"
  },
  {
+  "en": "plumage",
+  "uk": "плюмаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-012.json"
+ },
+ {
   "en": "pope",
   "uk": "поп",
   "pos": "",
@@ -1670,6 +2442,17 @@
   "note": "поп = (colloquial) Orthodox priest, or pop music; the Pope is Папа Римський.",
   "checked": 2,
   "src": "verify-011.json"
+ },
+ {
+  "en": "preference",
+  "uk": "преферанс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
  },
  {
   "en": "premiere",
@@ -1703,6 +2486,17 @@
   "note": "претензія = claim, complaint (pretension); pretense is удавання.",
   "checked": 1,
   "src": "scan-004.json"
+ },
+ {
+  "en": "profane",
+  "uk": "профан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-013.json"
  },
  {
   "en": "projector",
@@ -1747,6 +2541,39 @@
   "note": "Slang: a public page/group on social media.",
   "checked": 2,
   "src": "verify-000.json"
+ },
+ {
+  "en": "pulpit",
+  "uk": "пульпіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
+ },
+ {
+  "en": "pyknic",
+  "uk": "пікнік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-023.json"
+ },
+ {
+  "en": "quadra",
+  "uk": "квадра",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "quant",
@@ -1837,6 +2664,17 @@
   "src": "scan-018.json"
  },
  {
+  "en": "reverence",
+  "uk": "реверанс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "review",
   "uk": "ревю",
   "pos": "",
@@ -1848,6 +2686,41 @@
   "src": "verify-001.json"
  },
  {
+  "en": "review",
+  "uk": "рев'ю",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "business"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-sweep-r1.json"
+ },
+ {
+  "en": "ridicule",
+  "uk": "ридикюль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-013.json"
+ },
+ {
+  "en": "rima",
+  "uk": "рима",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-003.json"
+ },
+ {
   "en": "roman",
   "uk": "роман",
   "pos": "",
@@ -1857,6 +2730,17 @@
   "note": "роман = a novel or a love affair; Roman is римський.",
   "checked": 2,
   "src": "verify-008.json"
+ },
+ {
+  "en": "rosetta",
+  "uk": "розетка",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-013.json"
  },
  {
   "en": "rota",
@@ -1914,6 +2798,28 @@
   "src": "verify-045.json"
  },
  {
+  "en": "schema",
+  "uk": "схима",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-014.json"
+ },
+ {
+  "en": "schisma",
+  "uk": "схизма",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rverify-023.json"
+ },
+ {
   "en": "screen",
   "uk": "скрін",
   "pos": "noun",
@@ -1936,6 +2842,28 @@
   "src": "scan-007.json"
  },
  {
+  "en": "sequence",
+  "uk": "секанс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-013.json"
+ },
+ {
+  "en": "servant",
+  "uk": "сервант",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "shah",
   "uk": "шаг",
   "pos": "",
@@ -1947,6 +2875,17 @@
   "src": "verify-027.json"
  },
  {
+  "en": "shark",
+  "uk": "шарк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "shocker",
   "uk": "шокер",
   "pos": "noun",
@@ -1956,6 +2895,17 @@
   "note": "шокер = stun gun; shocker = something shocking.",
   "checked": 1,
   "src": "scan-018.json"
+ },
+ {
+  "en": "silicon",
+  "uk": "силікон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
  },
  {
   "en": "smoking",
@@ -2022,6 +2972,17 @@
   "note": "стаж = length of service, work experience; stage = сцена, етап.",
   "checked": 1,
   "src": "scan-005.json"
+ },
+ {
+  "en": "statist",
+  "uk": "статист",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-002.json"
  },
  {
   "en": "statistic",
@@ -2145,6 +3106,17 @@
   "src": "verify-085.json"
  },
  {
+  "en": "taliban",
+  "uk": "талабан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "talon",
   "uk": "талон",
   "pos": "",
@@ -2154,6 +3126,50 @@
   "note": "Ukrainian талон = coupon, voucher, ticket; English talon = claw",
   "checked": 1,
   "src": "verify-072.json"
+ },
+ {
+  "en": "taper",
+  "uk": "тапер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
+ },
+ {
+  "en": "teleoperator",
+  "uk": "телеоператор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
+ },
+ {
+  "en": "tempura",
+  "uk": "темпера",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
+  "en": "tenor",
+  "uk": "тенори",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "thrash",
@@ -2200,6 +3216,17 @@
   "src": "scan-004.json"
  },
  {
+  "en": "tragic",
+  "uk": "трагік",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "trampoline",
   "uk": "трамплін",
   "pos": "noun",
@@ -2220,6 +3247,17 @@
   "note": "транс = trance; transgender is трансгендер",
   "checked": 2,
   "src": "verify-010.json"
+ },
+ {
+  "en": "transporter",
+  "uk": "транспортир",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
  },
  {
   "en": "trap",
@@ -2255,6 +3293,17 @@
   "src": "scan-004.json"
  },
  {
+  "en": "tumbler",
+  "uk": "тумблер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-005.json"
+ },
+ {
   "en": "typography",
   "uk": "типографія",
   "pos": "",
@@ -2275,6 +3324,39 @@
   "note": "Ukrainian валет = jack (playing card); English valet = manservant, parking attendant.",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "valor",
+  "uk": "вальор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-008.json"
+ },
+ {
+  "en": "velvet",
+  "uk": "вельвет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-004.json"
+ },
+ {
+  "en": "verbalize",
+  "uk": "верболіз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  },
  {
   "en": "vice",
@@ -2308,5 +3390,16 @@
   "note": "вал = rampart, shaft or big wave; a wall is стіна",
   "checked": 2,
   "src": "verify-002.json"
+ },
+ {
+  "en": "zizania",
+  "uk": "зизанія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 1,
+  "src": "rscan-003.json"
  }
 ]

@@ -60,6 +60,8 @@ def load_checked():
     return first, cross, gap
 
 
+POS_NAMES = {'adjective': 'adj', 'adverb': 'adv', 'interjection': 'interj', 'abbreviation': 'abbr', 'numeral': 'num',
+             'preposition': 'prep', 'conjunction': 'conj', 'pronoun': 'pron'}
 POS_ALIASES = {'abbr': None, 'phrase': None, 'interj': 'interj', 'num': 'num'}
 
 
@@ -104,7 +106,7 @@ def main():
             r = {**r, **{k: c[k] for k in ('ce', 'cu', 'pos', 'br', 'lab', 'note', 'lvl') if k in c}}
             ce, cu = clean_en(r.get('ce') or r.get('en')), clean_uk(r.get('cu') or r.get('uk'))
             key = (ce.lower(), cu.lower())
-        rec = {'en': ce, 'uk': cu, 'pos': r.get('pos') or '', 'british': bool(r.get('br')), 'lvl': r.get('lvl') if c is not None else None,
+        rec = {'en': ce, 'uk': cu, 'pos': POS_NAMES.get(r.get('pos') or '', r.get('pos') or ''), 'british': bool(r.get('br')), 'lvl': r.get('lvl') if c is not None else None,
                'labels': sorted({l for l in (r.get('lab') or []) if isinstance(l, str)}),
                'note': (r.get('note') or '').strip(), 'checked': 2 if c is not None else 1, 'src': r.get('_src')}
         old = buckets[v].get(key)
