@@ -1,0 +1,946 @@
+[
+ {
+  "en": "cheney",
+  "uk": "чейні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cher",
+  "uk": "шер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "colonization",
+  "uk": "колонізація",
+  "v": "similar",
+  "ce": "colonization",
+  "cu": "колонізація",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "corinthians",
+  "uk": "коринтян",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cosmopolitan",
+  "uk": "космополітичний",
+  "v": "similar",
+  "ce": "cosmopolitan",
+  "cu": "космополітичний",
+  "note": "Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "coyote",
+  "uk": "койот",
+  "v": "identical",
+  "ce": "coyote",
+  "cu": "койот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cristina",
+  "uk": "крістіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cromwell",
+  "uk": "кромвель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diagonal",
+  "uk": "діагональ",
+  "v": "identical",
+  "ce": "diagonal",
+  "cu": "діагональ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": "Ukrainian діагональ is only a noun (also screen size); the adjective is діагональний."
+ },
+ {
+  "en": "diagonal",
+  "uk": "діагоналі",
+  "v": "not_lemma",
+  "ce": "diagonal",
+  "cu": "діагональ",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "diagonal",
+  "uk": "діагональний",
+  "v": "similar",
+  "ce": "diagonal",
+  "cu": "діагональний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "duff",
+  "uk": "дафф",
+  "v": "unrelated"
+ },
+ {
+  "en": "estrogen",
+  "uk": "естроген",
+  "v": "identical",
+  "ce": "estrogen",
+  "cu": "естроген",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "medicine",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "felicity",
+  "uk": "фелісіті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fleece",
+  "uk": "фліс",
+  "v": "identical",
+  "ce": "fleece",
+  "cu": "фліс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": "In Ukrainian only the fabric (and fleece clothing); sheep's wool is руно."
+ },
+ {
+  "en": "galloway",
+  "uk": "галловей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "godzilla",
+  "uk": "ґодзілла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "helsinki",
+  "uk": "гельсінкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herrera",
+  "uk": "еррера",
+  "v": "proper_noun"
+ },
+ {
+  "en": "horton",
+  "uk": "гортон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "incest",
+  "uk": "інцест",
+  "v": "identical",
+  "ce": "incest",
+  "cu": "інцест",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": ""
+ },
+ {
+  "en": "intrigue",
+  "uk": "інтрига",
+  "v": "similar",
+  "ce": "intrigue",
+  "cu": "інтрига",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "kurds",
+  "uk": "курди",
+  "v": "not_lemma",
+  "ce": "Kurd",
+  "cu": "курд",
+  "lv": "proper_noun",
+  "note": ""
+ },
+ {
+  "en": "middlesex",
+  "uk": "міддлсекс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "modernization",
+  "uk": "модернізація",
+  "v": "similar",
+  "ce": "modernization",
+  "cu": "модернізація",
+  "note": "Ukrainian ending -ація"
+ },
+ {
+  "en": "neptune",
+  "uk": "нептун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oman",
+  "uk": "оман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oman",
+  "uk": "оману",
+  "v": "unrelated"
+ },
+ {
+  "en": "oncology",
+  "uk": "онкології",
+  "v": "not_lemma",
+  "ce": "oncology",
+  "cu": "онкологія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "oncology",
+  "uk": "онкологія",
+  "v": "similar",
+  "ce": "oncology",
+  "cu": "онкологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "outsourcing",
+  "uk": "аутсорсинг",
+  "v": "identical",
+  "ce": "outsourcing",
+  "cu": "аутсорсинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "persia",
+  "uk": "персія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reptiles",
+  "uk": "рептилії",
+  "v": "not_lemma",
+  "ce": "reptile",
+  "cu": "рептилія",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "santo",
+  "uk": "санто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sos",
+  "uk": "сос",
+  "v": "identical",
+  "ce": "SOS",
+  "cu": "сос",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "international",
+   "other"
+  ],
+  "note": "In Ukrainian usually written in Latin letters: SOS."
+ },
+ {
+  "en": "souvenir",
+  "uk": "сувенір",
+  "v": "identical",
+  "ce": "souvenir",
+  "cu": "сувенір",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tang ping",
+  "uk": "тан пін",
+  "v": "identical",
+  "ce": "tang ping",
+  "cu": "тан пін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "other"
+  ],
+  "note": "Chinese 'lying flat' protest lifestyle; rare in both languages."
+ },
+ {
+  "en": "temperament",
+  "uk": "темперамент",
+  "v": "identical",
+  "ce": "temperament",
+  "cu": "темперамент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "emotions"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tyrant",
+  "uk": "тиран",
+  "v": "similar",
+  "ce": "tyrant",
+  "cu": "тиран",
+  "note": "English has final -t"
+ },
+ {
+  "en": "albania",
+  "uk": "албанія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "albania",
+  "uk": "албанії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "angie",
+  "uk": "енджі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "azure",
+  "uk": "лазур",
+  "v": "similar",
+  "ce": "azure",
+  "cu": "лазур",
+  "note": "Ukrainian form has initial л-"
+ },
+ {
+  "en": "berger",
+  "uk": "бергер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biologist",
+  "uk": "біологи",
+  "v": "not_lemma",
+  "ce": "biologist",
+  "cu": "біолог",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "bois",
+  "uk": "буа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bonnet",
+  "uk": "бонне",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bourne",
+  "uk": "борн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "braun",
+  "uk": "браун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cadet",
+  "uk": "кадет",
+  "v": "identical",
+  "ce": "cadet",
+  "cu": "кадет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military",
+   "education"
+  ],
+  "note": ""
+ },
+ {
+  "en": "catalonia",
+  "uk": "каталонія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "catalonia",
+  "uk": "каталонії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caucasus",
+  "uk": "кавказ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "collage",
+  "uk": "колаж",
+  "v": "identical",
+  "ce": "collage",
+  "cu": "колаж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "colonists",
+  "uk": "колоністів",
+  "v": "not_lemma",
+  "ce": "colonist",
+  "cu": "колоніст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "constantine",
+  "uk": "костянтин",
+  "v": "proper_noun"
+ },
+ {
+  "en": "davenport",
+  "uk": "девенпорт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dwayne",
+  "uk": "двейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "genealogy",
+  "uk": "генеалогія",
+  "v": "similar",
+  "ce": "genealogy",
+  "cu": "генеалогія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "gibraltar",
+  "uk": "гібралтар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gibraltar",
+  "uk": "ґібралтар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grammatical",
+  "uk": "граматична",
+  "v": "not_lemma",
+  "ce": "grammatical",
+  "cu": "граматичний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "graphite",
+  "uk": "графіт",
+  "v": "identical",
+  "ce": "graphite",
+  "cu": "графіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "grimm",
+  "uk": "грімм",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gupta",
+  "uk": "гупта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haitian",
+  "uk": "гаїтянин",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haitian",
+  "uk": "гаїтянка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hara",
+  "uk": "хара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "herpes",
+  "uk": "герпес",
+  "v": "identical",
+  "ce": "herpes",
+  "cu": "герпес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hud",
+  "uk": "гуд",
+  "v": "unrelated"
+ },
+ {
+  "en": "iceberg",
+  "uk": "айсберг",
+  "v": "identical",
+  "ce": "iceberg",
+  "cu": "айсберг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "jab",
+  "uk": "джеб",
+  "v": "identical",
+  "ce": "jab",
+  "cu": "джеб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Ukrainian джеб is only the boxing punch, not an injection or a poke."
+ },
+ {
+  "en": "janice",
+  "uk": "дженіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "larson",
+  "uk": "ларсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maldives",
+  "uk": "мальдіви",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marxism",
+  "uk": "марксизм",
+  "v": "identical",
+  "ce": "Marxism",
+  "cu": "марксизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mina",
+  "uk": "міна",
+  "v": "false_friend",
+  "ce": "mina",
+  "cu": "міна",
+  "note": "Ukrainian міна mainly = explosive mine; also facial expression"
+ },
+ {
+  "en": "moreno",
+  "uk": "морено",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muffin",
+  "uk": "мафін",
+  "v": "identical",
+  "ce": "muffin",
+  "cu": "мафін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Also spelled маффін."
+ },
+ {
+  "en": "nadal",
+  "uk": "надал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "novak",
+  "uk": "новак",
+  "v": "proper_noun"
+ },
+ {
+  "en": "obi",
+  "uk": "обі",
+  "v": "unrelated"
+ },
+ {
+  "en": "pancake",
+  "uk": "панкейк",
+  "v": "identical",
+  "ce": "pancake",
+  "cu": "панкейк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian панкейк = thick American-style pancake; a thin pancake is млинець."
+ },
+ {
+  "en": "pedestal",
+  "uk": "п'єдестал",
+  "v": "identical",
+  "ce": "pedestal",
+  "cu": "п'єдестал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art"
+  ],
+  "note": "In Ukrainian also the winners' podium (п'єдестал пошани)."
+ },
+ {
+  "en": "pip",
+  "uk": "піп",
+  "v": "unrelated"
+ },
+ {
+  "en": "pluto",
+  "uk": "плутон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "prussia",
+  "uk": "пруссія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ramen",
+  "uk": "рамен",
+  "v": "identical",
+  "ce": "ramen",
+  "cu": "рамен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ramon",
+  "uk": "рамон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "renee",
+  "uk": "рене",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rubin",
+  "uk": "рубін",
+  "v": "identical",
+  "ce": "rubin",
+  "cu": "рубін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "nature"
+  ],
+  "note": "Modern English: ruby."
+ },
+ {
+  "en": "sabrina",
+  "uk": "сабріна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sha",
+  "uk": "ша",
+  "v": "identical",
+  "ce": "sha",
+  "cu": "ша",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "language"
+  ],
+  "note": "Name of the Cyrillic letter Ш; Ukrainian ша is also an interjection 'hush!'."
+ },
+ {
+  "en": "skye",
+  "uk": "скай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spence",
+  "uk": "спенс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sweeney",
+  "uk": "свіні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tammy",
+  "uk": "теммі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trafford",
+  "uk": "траффорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vicky",
+  "uk": "вікі",
+  "v": "unrelated"
+ },
+ {
+  "en": "vie",
+  "uk": "ві",
+  "v": "unrelated"
+ },
+ {
+  "en": "webber",
+  "uk": "веббер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yin",
+  "uk": "інь",
+  "v": "identical",
+  "ce": "yin",
+  "cu": "інь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "yin",
+  "uk": "їнь",
+  "v": "identical",
+  "ce": "yin",
+  "cu": "інь",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Rare variant spelling їнь; usual form інь."
+ },
+ {
+  "en": "yun",
+  "uk": "юн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amnesia",
+  "uk": "амнезія",
+  "v": "identical",
+  "ce": "amnesia",
+  "cu": "амнезія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "angola",
+  "uk": "ангола",
+  "v": "proper_noun"
+ },
+ {
+  "en": "angola",
+  "uk": "анголи",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aspirin",
+  "uk": "аспірин",
+  "v": "identical",
+  "ce": "aspirin",
+  "cu": "аспірин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bard",
+  "uk": "бард",
+  "v": "identical",
+  "ce": "bard",
+  "cu": "бард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "In Ukrainian also a singer-songwriter performing own songs with a guitar."
+ },
+ {
+  "en": "bestseller",
+  "uk": "бестселер",
+  "v": "identical",
+  "ce": "bestseller",
+  "cu": "бестселер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "blackhawks",
+  "uk": "блекгокс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "charisma",
+  "uk": "харизма",
+  "v": "identical",
+  "ce": "charisma",
+  "cu": "харизма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cheltenham",
+  "uk": "челтнем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chun",
+  "uk": "чун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "claudio",
+  "uk": "клаудіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cornish",
+  "uk": "корніш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coupe",
+  "uk": "купе",
+  "v": "partial_false_friend",
+  "ce": "coupe",
+  "cu": "купе",
+  "note": "Ukrainian купе mainly = train compartment; also coupé car"
+ },
+ {
+  "en": "cristiano",
+  "uk": "кріштіану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cullen",
+  "uk": "каллен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "davey",
+  "uk": "дейві",
+  "v": "proper_noun"
+ }
+]

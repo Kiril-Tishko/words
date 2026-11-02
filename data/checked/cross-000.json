@@ -1,0 +1,1921 @@
+[
+ {
+  "en": "like",
+  "uk": "лайк",
+  "v": "identical",
+  "ce": "like",
+  "cu": "лайк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "lvl": "B1",
+  "note": "Only a 'like' on social media; the verb 'to like' is подобатися."
+ },
+ {
+  "en": "time",
+  "uk": "тайм",
+  "v": "false_friend",
+  "ce": "time",
+  "cu": "тайм"
+ },
+ {
+  "en": "time-out",
+  "uk": "тайм-аут",
+  "v": "identical",
+  "ce": "time-out",
+  "cu": "тайм-аут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B2",
+  "note": "Also a general break: взяти тайм-аут = take a time-out."
+ },
+ {
+  "en": "down",
+  "uk": "даун",
+  "v": "false_friend",
+  "ce": "down",
+  "cu": "даун"
+ },
+ {
+  "en": "know-how",
+  "uk": "ноу-хау",
+  "v": "identical",
+  "ce": "know-how",
+  "cu": "ноу-хау",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "C1",
+  "note": "In Ukrainian also often means an innovation or new invention."
+ },
+ {
+  "en": "state",
+  "uk": "штат",
+  "v": "partial_false_friend",
+  "ce": "state",
+  "cu": "штат"
+ },
+ {
+  "en": "Mr.",
+  "uk": "м-р",
+  "v": "identical",
+  "ce": "mister",
+  "cu": "містер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "lvl": "A1",
+  "note": "Usually written Mr (Mr Smith); містер is used for English-speaking men.",
+  "why": "Mr. is a written abbreviation; the full word pair mister = містер is identical; м-р is just its written short form."
+ },
+ {
+  "en": "show",
+  "uk": "шоу",
+  "v": "identical",
+  "ce": "show",
+  "cu": "шоу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A2",
+  "note": "Only the noun (a show); 'to show' is показувати."
+ },
+ {
+  "en": "lot",
+  "uk": "лот",
+  "v": "partial_false_friend",
+  "ce": "lot",
+  "cu": "лот",
+  "why": "лот is only an auction/tender lot, a specialised sense; the everyday English 'lot' is 'a lot (of)' = багато or a parking lot."
+ },
+ {
+  "en": "public",
+  "uk": "паблік",
+  "v": "false_friend",
+  "ce": "public",
+  "cu": "паблік"
+ },
+ {
+  "en": "top",
+  "uk": "топ",
+  "v": "identical",
+  "ce": "top",
+  "cu": "топ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "lvl": "A2",
+  "note": "A top (garment) or the top of a ranking (топ-10); the top part of something is верх."
+ },
+ {
+  "en": "business",
+  "uk": "бізнес",
+  "v": "identical",
+  "ce": "business",
+  "cu": "бізнес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "start",
+  "uk": "старт",
+  "v": "identical",
+  "ce": "start",
+  "cu": "старт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A1",
+  "note": "Start of a race, a launch or a beginning; the usual word for 'beginning' is початок."
+ },
+ {
+  "en": "stop",
+  "uk": "стоп",
+  "v": "identical",
+  "ce": "stop",
+  "cu": "стоп",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "lvl": "A1",
+  "note": "Mainly the command 'Stop!'; 'to stop' is зупинятися."
+ },
+ {
+  "en": "national",
+  "uk": "націонал",
+  "v": "false_friend",
+  "ce": "national",
+  "cu": "націонал"
+ },
+ {
+  "en": "order",
+  "uk": "ордер",
+  "v": "partial_false_friend",
+  "ce": "order",
+  "cu": "ордер"
+ },
+ {
+  "en": "order",
+  "uk": "орден",
+  "v": "partial_false_friend",
+  "ce": "order",
+  "cu": "орден"
+ },
+ {
+  "en": "service",
+  "uk": "сервіс",
+  "v": "identical",
+  "ce": "service",
+  "cu": "сервіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": "Customer service, service industry; military or church service is служба."
+ },
+ {
+  "en": "country",
+  "uk": "кантрі",
+  "v": "identical",
+  "ce": "country",
+  "cu": "кантрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "lvl": "B1",
+  "note": "Only country music; a country (nation) is країна."
+ },
+ {
+  "en": "season",
+  "uk": "сезон",
+  "v": "identical",
+  "ce": "season",
+  "cu": "сезон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "general",
+  "uk": "генерал",
+  "v": "identical",
+  "ce": "general",
+  "cu": "генерал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B1",
+  "note": "Only the military rank; the adjective 'general' is загальний."
+ },
+ {
+  "en": "president",
+  "uk": "президент",
+  "v": "identical",
+  "ce": "president",
+  "cu": "президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "course",
+  "uk": "курс",
+  "v": "identical",
+  "ce": "course",
+  "cu": "курс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "A1",
+  "note": "Also exchange rate and year of study; a meal course is страва."
+ },
+ {
+  "en": "post",
+  "uk": "пост",
+  "v": "identical",
+  "ce": "post",
+  "cu": "пост",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "lvl": "A2",
+  "note": "A social-media post or a position (guard post, job); mail is пошта, a pole is стовп."
+ },
+ {
+  "en": "video",
+  "uk": "відео",
+  "v": "identical",
+  "ce": "video",
+  "cu": "відео",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "court",
+  "uk": "корт",
+  "v": "identical",
+  "ce": "court",
+  "cu": "корт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": "Only a sports court (tennis etc.); a law court is суд."
+ },
+ {
+  "en": "fact",
+  "uk": "факт",
+  "v": "identical",
+  "ce": "fact",
+  "cu": "факт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "control",
+  "uk": "контроль",
+  "v": "identical",
+  "ce": "control",
+  "cu": "контроль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "Also checking/inspection (e.g. ticket control)."
+ },
+ {
+  "en": "office",
+  "uk": "офіс",
+  "v": "identical",
+  "ce": "office",
+  "cu": "офіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "places"
+  ],
+  "lvl": "A1",
+  "note": "An office (workplace); a public office/post is посада."
+ },
+ {
+  "en": "university",
+  "uk": "університет",
+  "v": "similar",
+  "ce": "university",
+  "cu": "університет"
+ },
+ {
+  "en": "bit",
+  "uk": "біт",
+  "v": "partial_false_friend",
+  "ce": "bit",
+  "cu": "біт",
+  "why": "біт is only the technical computing unit (and slang for a music beat = 'beat'); the everyday English bit = a small piece (трохи)."
+ },
+ {
+  "en": "hit",
+  "uk": "хіт",
+  "v": "identical",
+  "ce": "hit",
+  "cu": "хіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "lvl": "B1",
+  "note": "A hit (song, film, product); 'to hit' is вдарити."
+ },
+ {
+  "en": "class",
+  "uk": "клас",
+  "v": "identical",
+  "ce": "class",
+  "cu": "клас",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "A0",
+  "note": "Also a school grade (year); informal клас! = cool!"
+ },
+ {
+  "en": "idea",
+  "uk": "ідея",
+  "v": "identical",
+  "ce": "idea",
+  "cu": "ідея",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "international",
+  "uk": "інтернаціонал",
+  "v": "false_friend",
+  "ce": "international",
+  "cu": "інтернаціонал"
+ },
+ {
+  "en": "million",
+  "uk": "мільйон",
+  "v": "identical",
+  "ce": "million",
+  "cu": "мільйон",
+  "pos": "num",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "report",
+  "uk": "рапорт",
+  "v": "similar",
+  "ce": "report",
+  "cu": "рапорт"
+ },
+ {
+  "en": "check",
+  "uk": "чек",
+  "v": "partial_false_friend",
+  "ce": "check",
+  "cu": "чек"
+ },
+ {
+  "en": "act",
+  "uk": "акт",
+  "v": "identical",
+  "ce": "act",
+  "cu": "акт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "lvl": "A2",
+  "note": "Also an official certificate/report document."
+ },
+ {
+  "en": "major",
+  "uk": "мажор",
+  "v": "partial_false_friend",
+  "ce": "major",
+  "cu": "мажор"
+ },
+ {
+  "en": "major",
+  "uk": "майор",
+  "v": "identical",
+  "ce": "major",
+  "cu": "майор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military"
+  ],
+  "lvl": "B2",
+  "note": "Only the military rank; a study major is спеціальність; 'major' (main) is головний."
+ },
+ {
+  "en": "media",
+  "uk": "медіа",
+  "v": "identical",
+  "ce": "media",
+  "cu": "медіа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "art",
+  "uk": "арт",
+  "v": "identical",
+  "ce": "art",
+  "cu": "арт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": "Informal or in compounds (арт-простір); the usual word for art is мистецтво."
+ },
+ {
+  "en": "market",
+  "uk": "маркет",
+  "v": "identical",
+  "ce": "market",
+  "cu": "маркет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "places"
+  ],
+  "lvl": "B1",
+  "note": "A (super)market store; an open-air market is ринок."
+ },
+ {
+  "en": "plan",
+  "uk": "план",
+  "v": "identical",
+  "ce": "plan",
+  "cu": "план",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "final",
+  "uk": "фінал",
+  "v": "identical",
+  "ce": "final",
+  "cu": "фінал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A2",
+  "note": "Also 'finale'; the adjective 'final' is фінальний."
+ },
+ {
+  "en": "front",
+  "uk": "фронт",
+  "v": "identical",
+  "ce": "front",
+  "cu": "фронт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B2",
+  "note": "A military or weather front; the front of something is передня частина."
+ },
+ {
+  "en": "college",
+  "uk": "коледж",
+  "v": "identical",
+  "ce": "college",
+  "cu": "коледж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "education"
+  ],
+  "lvl": "A1",
+  "note": "Usually a vocational college (between school and university)."
+ },
+ {
+  "en": "type",
+  "uk": "тип",
+  "v": "identical",
+  "ce": "type",
+  "cu": "тип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": "Colloquially also 'a guy, a character'."
+ },
+ {
+  "en": "chance",
+  "uk": "шанс",
+  "v": "identical",
+  "ce": "chance",
+  "cu": "шанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "march",
+  "uk": "марш",
+  "v": "identical",
+  "ce": "march",
+  "cu": "марш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "lvl": "B1",
+  "note": "A march (soldiers, protest, music piece); the month March is березень."
+ },
+ {
+  "en": "process",
+  "uk": "процес",
+  "v": "identical",
+  "ce": "process",
+  "cu": "процес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Also a court trial (судовий процес)."
+ },
+ {
+  "en": "student",
+  "uk": "студент",
+  "v": "identical",
+  "ce": "student",
+  "cu": "студент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "A1",
+  "note": "A university or college student; a school pupil is учень."
+ },
+ {
+  "en": "cost",
+  "uk": "кошт",
+  "v": "similar",
+  "ce": "cost",
+  "cu": "кошт"
+ },
+ {
+  "en": "moment",
+  "uk": "момент",
+  "v": "identical",
+  "ce": "moment",
+  "cu": "момент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "department",
+  "uk": "департамент",
+  "v": "similar",
+  "ce": "department",
+  "cu": "департамент"
+ },
+ {
+  "en": "term",
+  "uk": "термін",
+  "v": "similar",
+  "ce": "term",
+  "cu": "термін"
+ },
+ {
+  "en": "miss",
+  "uk": "міс",
+  "v": "identical",
+  "ce": "Miss",
+  "cu": "міс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "lvl": "A0",
+  "note": "Only the title Miss (Міс Україна = Miss Ukraine); 'to miss' is пропустити or сумувати."
+ },
+ {
+  "en": "project",
+  "uk": "проєкт",
+  "v": "identical",
+  "ce": "project",
+  "cu": "проєкт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": "Older spelling: проект."
+ },
+ {
+  "en": "sex",
+  "uk": "секс",
+  "v": "identical",
+  "ce": "sex",
+  "cu": "секс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "B1",
+  "note": "Only sexual activity; sex as male/female is стать."
+ },
+ {
+  "en": "shot",
+  "uk": "шот",
+  "v": "identical",
+  "ce": "shot",
+  "cu": "шот",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "drinks"
+  ],
+  "lvl": "B2",
+  "note": "Only a shot of strong alcohol; a gunshot is постріл."
+ },
+ {
+  "en": "site",
+  "uk": "сайт",
+  "v": "identical",
+  "ce": "site",
+  "cu": "сайт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A1",
+  "note": "Usually a website; a building site is ділянка or майданчик."
+ },
+ {
+  "en": "account",
+  "uk": "акаунт",
+  "v": "identical",
+  "ce": "account",
+  "cu": "акаунт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "lvl": "B1",
+  "note": "Only a user account (social media, email); a bank account is рахунок."
+ },
+ {
+  "en": "period",
+  "uk": "період",
+  "v": "identical",
+  "ce": "period",
+  "cu": "період",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "time"
+  ],
+  "lvl": "A1",
+  "note": "The punctuation mark (US 'period') is крапка."
+ },
+ {
+  "en": "record",
+  "uk": "рекорд",
+  "v": "identical",
+  "ce": "record",
+  "cu": "рекорд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B1",
+  "note": "Only a record (best result); a written record is запис, a vinyl record is платівка."
+ },
+ {
+  "en": "club",
+  "uk": "клуб",
+  "v": "identical",
+  "ce": "club",
+  "cu": "клуб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "A1",
+  "note": "A club (association, nightclub); a heavy stick is кийок, a golf club is ключка."
+ },
+ {
+  "en": "film",
+  "uk": "фільм",
+  "v": "identical",
+  "ce": "film",
+  "cu": "фільм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "A2",
+  "note": "A movie; a thin layer or camera film is плівка."
+ },
+ {
+  "en": "center",
+  "uk": "центр",
+  "v": "identical",
+  "ce": "center",
+  "cu": "центр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "A2",
+  "note": "British spelling: centre."
+ },
+ {
+  "en": "online",
+  "uk": "онлайн",
+  "v": "identical",
+  "ce": "online",
+  "cu": "онлайн",
+  "pos": "adv",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "player",
+  "uk": "плеєр",
+  "v": "identical",
+  "ce": "player",
+  "cu": "плеєр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "music"
+  ],
+  "lvl": "B1",
+  "note": "Only a media player device (MP3 player); a person who plays is гравець."
+ },
+ {
+  "en": "sense",
+  "uk": "сенс",
+  "v": "identical",
+  "ce": "sense",
+  "cu": "сенс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "lvl": "B1",
+  "note": "Meaning, point (має сенс = makes sense); the five senses are чуття."
+ },
+ {
+  "en": "test",
+  "uk": "тест",
+  "v": "identical",
+  "ce": "test",
+  "cu": "тест",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "present",
+  "uk": "презент",
+  "v": "identical",
+  "ce": "present",
+  "cu": "презент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": "Informal, only 'a gift'; the usual word is подарунок."
+ },
+ {
+  "en": "sorry",
+  "uk": "сорі",
+  "v": "identical",
+  "ce": "sorry",
+  "cu": "сорі",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "slang",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": "Slang; the standard word is вибачте / пробач."
+ },
+ {
+  "en": "training",
+  "uk": "тренінг",
+  "v": "identical",
+  "ce": "training",
+  "cu": "тренінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "education"
+  ],
+  "lvl": "A2",
+  "note": "A training course or workshop; sports training is тренування."
+ },
+ {
+  "en": "design",
+  "uk": "дизайн",
+  "v": "identical",
+  "ce": "design",
+  "cu": "дизайн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "interest",
+  "uk": "інтерес",
+  "v": "similar",
+  "ce": "interest",
+  "cu": "інтерес"
+ },
+ {
+  "en": "bank",
+  "uk": "банк",
+  "v": "identical",
+  "ce": "bank",
+  "cu": "банк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "lvl": "A1",
+  "note": "A financial bank; a river bank is берег."
+ },
+ {
+  "en": "original",
+  "uk": "оригінал",
+  "v": "identical",
+  "ce": "original",
+  "cu": "оригінал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "B2",
+  "note": "Noun: the original (document, artwork); the adjective is оригінальний."
+ },
+ {
+  "en": "park",
+  "uk": "парк",
+  "v": "identical",
+  "ce": "park",
+  "cu": "парк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "press",
+  "uk": "прес",
+  "v": "partial_false_friend",
+  "ce": "press",
+  "cu": "прес",
+  "why": "Everyday прес = abs or a machine press; the main English noun 'the press' = news media (преса), so learners would misuse it."
+ },
+ {
+  "en": "role",
+  "uk": "роль",
+  "v": "identical",
+  "ce": "role",
+  "cu": "роль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "bill",
+  "uk": "білль",
+  "v": "partial_false_friend",
+  "ce": "bill",
+  "cu": "білль",
+  "why": "білль is a rare word only for UK/US draft laws; the everyday English bill = a bill to pay (рахунок) or a banknote."
+ },
+ {
+  "en": "director",
+  "uk": "директор",
+  "v": "identical",
+  "ce": "director",
+  "cu": "директор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": "Also a school principal; a film director is режисер."
+ },
+ {
+  "en": "OK",
+  "uk": "ок",
+  "v": "identical",
+  "ce": "OK",
+  "cu": "окей",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "abbreviation",
+   "international",
+   "other"
+  ],
+  "lvl": "A0",
+  "note": "In chats often shortened to ок.",
+  "why": "ок is only a chat shorthand, not a dictionary headword; the standard identical form is окей (same as OK = окей)."
+ },
+ {
+  "en": "OK",
+  "uk": "окей",
+  "v": "identical",
+  "ce": "OK",
+  "cu": "окей",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "abbreviation",
+   "international",
+   "other"
+  ],
+  "lvl": "A0",
+  "note": "In chats often shortened to ок."
+ },
+ {
+  "en": "production",
+  "uk": "продакшн",
+  "v": "identical",
+  "ce": "production",
+  "cu": "продакшн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": "Only film/video/music production (a production studio); production in general is виробництво."
+ },
+ {
+  "en": "round",
+  "uk": "раунд",
+  "v": "identical",
+  "ce": "round",
+  "cu": "раунд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "B1",
+  "note": "A round in boxing, a game or talks; the shape 'round' is круглий."
+ },
+ {
+  "en": "stand",
+  "uk": "стенд",
+  "v": "identical",
+  "ce": "stand",
+  "cu": "стенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "lvl": "B1",
+  "note": "A display stand or exhibition booth; 'to stand' is стояти."
+ },
+ {
+  "en": "child-free",
+  "uk": "чайлд-фрі",
+  "v": "identical",
+  "ce": "child-free",
+  "cu": "чайлд-фрі",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "lvl": "C1",
+  "note": ""
+ },
+ {
+  "en": "drive",
+  "uk": "драйв",
+  "v": "partial_false_friend",
+  "ce": "drive",
+  "cu": "драйв",
+  "why": "драйв = thrill, buzz, energy; English drive = a car trip, a computer drive or determination, not excitement."
+ },
+ {
+  "en": "management",
+  "uk": "менеджмент",
+  "v": "identical",
+  "ce": "management",
+  "cu": "менеджмент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "match",
+  "uk": "матч",
+  "v": "identical",
+  "ce": "match",
+  "cu": "матч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A1",
+  "note": "Only a sports match; a matchstick is сірник."
+ },
+ {
+  "en": "model",
+  "uk": "модель",
+  "v": "identical",
+  "ce": "model",
+  "cu": "модель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "A fashion model, a scale model or a version (model of a car)."
+ },
+ {
+  "en": "trust",
+  "uk": "трест",
+  "v": "partial_false_friend",
+  "ce": "trust",
+  "cu": "трест"
+ },
+ {
+  "en": "face control",
+  "uk": "фейсконтроль",
+  "v": "identical",
+  "ce": "face control",
+  "cu": "фейсконтроль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "places"
+  ],
+  "lvl": "C2",
+  "note": "Rare in English, used mainly about clubs in Eastern Europe; the usual term is door policy."
+ },
+ {
+  "en": "hey",
+  "uk": "гей",
+  "v": "identical",
+  "ce": "hey",
+  "cu": "гей",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "In modern Ukrainian гей usually means 'gay'; for 'hey' people often say ей."
+ },
+ {
+  "en": "page",
+  "uk": "паж",
+  "v": "partial_false_friend",
+  "ce": "page",
+  "cu": "паж"
+ },
+ {
+  "en": "character",
+  "uk": "характер",
+  "v": "identical",
+  "ce": "character",
+  "cu": "характер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A1",
+  "note": "A person's nature or temper; a character in a story is персонаж."
+ },
+ {
+  "en": "chief",
+  "uk": "шеф",
+  "v": "similar",
+  "ce": "chief",
+  "cu": "шеф"
+ },
+ {
+  "en": "football",
+  "uk": "футбол",
+  "v": "identical",
+  "ce": "football",
+  "cu": "футбол",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A0",
+  "note": "Soccer; American football is американський футбол."
+ },
+ {
+  "en": "style",
+  "uk": "стиль",
+  "v": "identical",
+  "ce": "style",
+  "cu": "стиль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "business plan",
+  "uk": "бізнес-план",
+  "v": "identical",
+  "ce": "business plan",
+  "cu": "бізнес-план",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": ""
+ },
+ {
+  "en": "lord",
+  "uk": "лорд",
+  "v": "identical",
+  "ce": "lord",
+  "cu": "лорд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": "A British lord (title); the Lord (God) is Господь."
+ },
+ {
+  "en": "title",
+  "uk": "титул",
+  "v": "partial_false_friend",
+  "ce": "title",
+  "cu": "титул"
+ },
+ {
+  "en": "article",
+  "uk": "артикль",
+  "v": "identical",
+  "ce": "article",
+  "cu": "артикль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "language"
+  ],
+  "lvl": "B1",
+  "note": "Only the grammar article (a, an, the); a newspaper article is стаття."
+ },
+ {
+  "en": "French",
+  "uk": "френч",
+  "v": "false_friend",
+  "ce": "French",
+  "cu": "френч"
+ },
+ {
+  "en": "release",
+  "uk": "реліз",
+  "v": "identical",
+  "ce": "release",
+  "cu": "реліз",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "music"
+  ],
+  "lvl": "B2",
+  "note": "A new album, film or software release; also прес-реліз (press release). Release from prison is звільнення."
+ },
+ {
+  "en": "website",
+  "uk": "вебсайт",
+  "v": "identical",
+  "ce": "website",
+  "cu": "вебсайт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech"
+  ],
+  "lvl": "A2",
+  "note": "Also written веб-сайт (older spelling); often just сайт."
+ },
+ {
+  "en": "code",
+  "uk": "код",
+  "v": "identical",
+  "ce": "code",
+  "cu": "код",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A1",
+  "note": "Program code, PIN code, secret code; a code of law is кодекс."
+ },
+ {
+  "en": "code",
+  "uk": "кодекс",
+  "v": "similar",
+  "ce": "code",
+  "cu": "кодекс"
+ },
+ {
+  "en": "subject",
+  "uk": "суб'єкт",
+  "v": "partial_false_friend",
+  "ce": "subject",
+  "cu": "суб'єкт"
+ },
+ {
+  "en": "train",
+  "uk": "трен",
+  "v": "partial_false_friend",
+  "ce": "train",
+  "cu": "трен"
+ },
+ {
+  "en": "wow",
+  "uk": "вау",
+  "v": "identical",
+  "ce": "wow",
+  "cu": "вау",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "lvl": "A0",
+  "note": ""
+ },
+ {
+  "en": "author",
+  "uk": "автор",
+  "v": "identical",
+  "ce": "author",
+  "cu": "автор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "hotel",
+  "uk": "готель",
+  "v": "identical",
+  "ce": "hotel",
+  "cu": "готель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "lady",
+  "uk": "леді",
+  "v": "identical",
+  "ce": "lady",
+  "cu": "леді",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "lvl": "B1",
+  "note": "A refined or titled woman (перша леді = first lady); an ordinary woman is жінка or пані."
+ },
+ {
+  "en": "leader",
+  "uk": "лідер",
+  "v": "identical",
+  "ce": "leader",
+  "cu": "лідер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "A1",
+  "note": ""
+ },
+ {
+  "en": "material",
+  "uk": "матеріал",
+  "v": "identical",
+  "ce": "material",
+  "cu": "матеріал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "Only the noun; the adjective material is матеріальний."
+ },
+ {
+  "en": "plus",
+  "uk": "плюс",
+  "v": "identical",
+  "ce": "plus",
+  "cu": "плюс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "lvl": "B2",
+  "note": "Also in sums: два плюс два = two plus two."
+ },
+ {
+  "en": "product",
+  "uk": "продукт",
+  "v": "identical",
+  "ce": "product",
+  "cu": "продукт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "A2",
+  "note": "The plural продукти also means groceries, food."
+ },
+ {
+  "en": "secretary",
+  "uk": "секретар",
+  "v": "similar",
+  "ce": "secretary",
+  "cu": "секретар"
+ },
+ {
+  "en": "unit",
+  "uk": "юніт",
+  "v": "partial_false_friend",
+  "ce": "unit",
+  "cu": "юніт"
+ },
+ {
+  "en": "bar",
+  "uk": "бар",
+  "v": "identical",
+  "ce": "bar",
+  "cu": "бар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "lvl": "A1",
+  "note": "A bar for drinks (also the unit of pressure); a metal bar is брусок, a chocolate bar is плитка."
+ },
+ {
+  "en": "contract",
+  "uk": "контракт",
+  "v": "identical",
+  "ce": "contract",
+  "cu": "контракт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "lvl": "B2",
+  "note": "Only the noun; to contract (shrink) is скорочуватися."
+ },
+ {
+  "en": "image",
+  "uk": "імідж",
+  "v": "identical",
+  "ce": "image",
+  "cu": "імідж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "lvl": "B2",
+  "note": "Only a public image (reputation, style); a picture is зображення.",
+  "why": "Public image is a main, everyday sense of English image (OALD sense 1) and the only sense of імідж; English just has extra senses."
+ },
+ {
+  "en": "sport",
+  "uk": "спорт",
+  "v": "identical",
+  "ce": "sport",
+  "cu": "спорт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "lvl": "A0",
+  "note": "American English usually says sports (I like sports)."
+ },
+ {
+  "en": "master",
+  "uk": "майстер",
+  "v": "similar",
+  "ce": "master",
+  "cu": "майстер"
+ },
+ {
+  "en": "weekend",
+  "uk": "вікенд",
+  "v": "identical",
+  "ce": "weekend",
+  "cu": "вікенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "time"
+  ],
+  "lvl": "A1",
+  "note": "уїк-енд is an old dictionary spelling; the usual spelling is вікенд."
+ },
+ {
+  "en": "cash",
+  "uk": "кеш",
+  "v": "identical",
+  "ce": "cash",
+  "cu": "кеш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "finance"
+  ],
+  "lvl": "A2",
+  "note": "Colloquial; the usual word is готівка; кеш also means a computer cache."
+ },
+ {
+  "en": "fan",
+  "uk": "фан",
+  "v": "identical",
+  "ce": "fan",
+  "cu": "фан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "lvl": "A1",
+  "note": "Only a fan (supporter), also фанат; an electric fan is вентилятор."
+ },
+ {
+  "en": "secret",
+  "uk": "секрет",
+  "v": "identical",
+  "ce": "secret",
+  "cu": "секрет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "lvl": "A2",
+  "note": "Only the noun; the adjective secret is секретний."
+ },
+ {
+  "en": "senior",
+  "uk": "сеньйор",
+  "v": "partial_false_friend",
+  "ce": "senior",
+  "cu": "сеньйор"
+ },
+ {
+  "en": "analysis",
+  "uk": "аналіз",
+  "v": "similar",
+  "ce": "analysis",
+  "cu": "аналіз"
+ },
+ {
+  "en": "color",
+  "uk": "колір",
+  "v": "similar",
+  "ce": "color",
+  "cu": "колір"
+ },
+ {
+  "en": "finish",
+  "uk": "фініш",
+  "v": "identical",
+  "ce": "finish",
+  "cu": "фініш",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "lvl": "A1",
+  "note": "Only the finish of a race (finish line); to finish is закінчувати."
+ },
+ {
+  "en": "grand",
+  "uk": "гранд",
+  "v": "false_friend",
+  "ce": "grand",
+  "cu": "гранд"
+ },
+ {
+  "en": "patient",
+  "uk": "пацієнт",
+  "v": "similar",
+  "ce": "patient",
+  "cu": "пацієнт"
+ },
+ {
+  "en": "skin",
+  "uk": "скін",
+  "v": "partial_false_friend",
+  "ce": "skin",
+  "cu": "скін"
+ },
+ {
+  "en": "congress",
+  "uk": "конгрес",
+  "v": "identical",
+  "ce": "congress",
+  "cu": "конгрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "lvl": "B2",
+  "note": "Also the US Congress (Конгрес США)."
+ },
+ {
+  "en": "doctor",
+  "uk": "доктор",
+  "v": "identical",
+  "ce": "doctor",
+  "cu": "доктор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "lvl": "A1",
+  "note": "For a medical doctor Ukrainians usually say лікар; доктор is also the academic title."
+ },
+ {
+  "en": "gay",
+  "uk": "гей",
+  "v": "identical",
+  "ce": "gay",
+  "cu": "гей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "lvl": "B1",
+  "note": "In Ukrainian a noun (a gay man); the old exclamation гей! = hey!"
+ },
+ {
+  "en": "professor",
+  "uk": "професор",
+  "v": "identical",
+  "ce": "professor",
+  "cu": "професор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "lvl": "B1",
+  "note": ""
+ },
+ {
+  "en": "captain",
+  "uk": "капітан",
+  "v": "similar",
+  "ce": "captain",
+  "cu": "капітан"
+ },
+ {
+  "en": "effect",
+  "uk": "ефект",
+  "v": "identical",
+  "ce": "effect",
+  "cu": "ефект",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A2",
+  "note": ""
+ },
+ {
+  "en": "block",
+  "uk": "блок",
+  "v": "identical",
+  "ce": "block",
+  "cu": "блок",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "lvl": "A1",
+  "note": "Also a political bloc; a city block is квартал."
+ },
+ {
+  "en": "Christian",
+  "uk": "християнин",
+  "v": "similar",
+  "ce": "Christian",
+  "cu": "християнин"
+ },
+ {
+  "en": "comment",
+  "uk": "коментар",
+  "v": "similar",
+  "ce": "comment",
+  "cu": "коментар"
+ },
+ {
+  "en": "camera",
+  "uk": "камера",
+  "v": "identical",
+  "ce": "camera",
+  "cu": "камера",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "lvl": "A0",
+  "note": "Also means a prison cell or a chamber; a photo camera is also фотоапарат."
+ },
+ {
+  "en": "foot",
+  "uk": "фут",
+  "v": "identical",
+  "ce": "foot",
+  "cu": "фут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units"
+  ],
+  "lvl": "B1",
+  "note": "Only the unit of length (about 30 cm; plural feet); the body part is стопа or нога.",
+  "why": "The unit of length is an everyday main sense of English foot (six feet tall) and the only sense of фут; extra English sense goes in the note."
+ }
+]

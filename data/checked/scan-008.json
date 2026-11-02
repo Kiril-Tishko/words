@@ -1,0 +1,1020 @@
+[
+ {
+  "en": "vacancy",
+  "uk": "вакансій",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "vacancy",
+  "cu": "вакансія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "cube",
+  "uk": "кубі",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "cube",
+  "cu": "куб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "muse",
+  "uk": "муз",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "muse",
+  "cu": "муза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "parade",
+  "uk": "параді",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "parade",
+  "cu": "парад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "smartphone",
+  "uk": "смартфони",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "smartphone",
+  "cu": "смартфон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fest",
+  "uk": "фест",
+  "v": "identical",
+  "ce": "fest",
+  "cu": "фест",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "other"
+  ],
+  "note": "Short for festival."
+ },
+ {
+  "en": "hmm",
+  "uk": "хмм",
+  "v": "identical",
+  "ce": "hmm",
+  "cu": "хм",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chymic",
+  "uk": "хімік",
+  "v": "identical",
+  "ce": "chymic",
+  "cu": "хімік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "chemistry"
+  ],
+  "note": "Obsolete English for 'chemist' (also spelled chemic); the modern word is chemist."
+ },
+ {
+  "en": "mhz",
+  "uk": "МГц",
+  "v": "identical",
+  "ce": "MHz",
+  "cu": "МГц",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "units"
+  ],
+  "note": "megahertz = мегагерц"
+ },
+ {
+  "en": "automata",
+  "uk": "автомата",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "automaton",
+  "cu": "автомат",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "Ukrainian автомат mainly means an automatic machine, a vending machine or an assault rifle."
+ },
+ {
+  "en": "ex-communist",
+  "uk": "екс-комуніст",
+  "v": "identical",
+  "ce": "ex-communist",
+  "cu": "екс-комуніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sonde",
+  "uk": "зонд",
+  "v": "similar",
+  "ce": "sonde",
+  "cu": "зонд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": "зонд = probe (medical, weather, space); s/з differ."
+ },
+ {
+  "en": "kasha",
+  "uk": "кашу",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "kasha",
+  "cu": "каша",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "In English kasha usually means buckwheat porridge; Ukrainian каша is any porridge."
+ },
+ {
+  "en": "mode",
+  "uk": "моді",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "mode",
+  "cu": "мода",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "мода = fashion; mode = way, manner, setting (режим)."
+ },
+ {
+  "en": "monopoly",
+  "uk": "монополії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "monopoly",
+  "cu": "монополія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "perspective",
+  "uk": "перспектив",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "perspective",
+  "cu": "перспектива",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "перспектива mainly means prospect/outlook; perspective as 'point of view' = точка зору."
+ },
+ {
+  "en": "reverse",
+  "uk": "реверс",
+  "v": "identical",
+  "ce": "reverse",
+  "cu": "реверс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "other"
+  ],
+  "note": "In Ukrainian only a noun: the back side of a coin or medal, or reverse gear/motion."
+ },
+ {
+  "en": "forward",
+  "uk": "форвард",
+  "v": "identical",
+  "ce": "forward",
+  "cu": "форвард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "In Ukrainian only the attacking player (football, hockey, etc.)."
+ },
+ {
+  "en": "impulses",
+  "uk": "імпульс",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "impulse",
+  "cu": "імпульс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "attache",
+  "uk": "аташе",
+  "v": "identical",
+  "ce": "attaché",
+  "cu": "аташе",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "balcony",
+  "uk": "балконі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "balcony",
+  "cu": "балкон",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "weekend",
+  "uk": "вік-енд",
+  "v": "identical",
+  "ce": "weekend",
+  "cu": "вікенд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "time"
+  ],
+  "note": "Current Ukrainian spelling is вікенд."
+ },
+ {
+  "en": "quota",
+  "uk": "квот",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "quota",
+  "cu": "квота",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "comment",
+  "uk": "комент",
+  "v": "identical",
+  "ce": "comment",
+  "cu": "комент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "note": "Standard Ukrainian is коментар; комент is informal (internet)."
+ },
+ {
+  "en": "liturgy",
+  "uk": "літургії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "liturgy",
+  "cu": "літургія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "massive",
+  "uk": "масив",
+  "v": "false_friend",
+  "ce": "massive",
+  "cu": "масив",
+  "pos": "adj",
+  "br": false,
+  "lab": [],
+  "note": "масив = massif, array, large block/area (житловий масив); massive = величезний."
+ },
+ {
+  "en": "medic",
+  "uk": "медик",
+  "v": "identical",
+  "ce": "medic",
+  "cu": "медик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "monography",
+  "uk": "монографії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "monography",
+  "cu": "монографія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "monography is a rare variant of monograph."
+ },
+ {
+  "en": "screen",
+  "uk": "скрін",
+  "v": "false_friend",
+  "ce": "screen",
+  "cu": "скрін",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "скрін is slang for a screenshot; screen = екран."
+ },
+ {
+  "en": "tabu",
+  "uk": "табу",
+  "v": "identical",
+  "ce": "taboo",
+  "cu": "табу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tyger",
+  "uk": "тигр",
+  "v": "identical",
+  "ce": "tiger",
+  "cu": "тигр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "tyger is an archaic/poetic spelling of tiger."
+ },
+ {
+  "en": "valse",
+  "uk": "вальс",
+  "v": "identical",
+  "ce": "valse",
+  "cu": "вальс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "music"
+  ],
+  "note": "The usual English word is waltz; valse is used mainly in music titles."
+ },
+ {
+  "en": "throne",
+  "uk": "троні",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "throne",
+  "cu": "трон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pasta",
+  "uk": "пасту",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "pasta",
+  "cu": "паста",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Ukrainian паста also means paste (e.g. toothpaste)."
+ },
+ {
+  "en": "patron",
+  "uk": "патрон",
+  "v": "partial_false_friend",
+  "ce": "patron",
+  "cu": "патрон",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "патрон mainly = cartridge, also lamp socket or chuck; English patron = sponsor or regular customer."
+ },
+ {
+  "en": "pedagogue",
+  "uk": "педагога",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "pedagogue",
+  "cu": "педагог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "education"
+  ],
+  "note": "English pedagogue is formal and can mean a pedantic teacher; usual words are teacher/educator."
+ },
+ {
+  "en": "apriori",
+  "uk": "апріорі",
+  "v": "identical",
+  "ce": "a priori",
+  "cu": "апріорі",
+  "pos": "adv",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "beton",
+  "uk": "бетон",
+  "v": "identical",
+  "ce": "beton",
+  "cu": "бетон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "technical"
+  ],
+  "note": "The usual English word is concrete."
+ },
+ {
+  "en": "plasma",
+  "uk": "плазми",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "plasma",
+  "cu": "плазма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "physics",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pose",
+  "uk": "позі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "pose",
+  "cu": "поза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "race",
+  "uk": "рас",
+  "v": "not_lemma",
+  "lv": "partial_false_friend",
+  "ce": "race",
+  "cu": "раса",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "раса = race (ethnic group) only; race (competition) = перегони."
+ },
+ {
+  "en": "repost",
+  "uk": "репост",
+  "v": "identical",
+  "ce": "repost",
+  "cu": "репост",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "torture",
+  "uk": "тортур",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "torture",
+  "cu": "тортури",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "hierarchy",
+  "uk": "ієрархії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "hierarchy",
+  "cu": "ієрархія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "elite",
+  "uk": "еліт",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "elite",
+  "cu": "еліта",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "complement",
+  "uk": "комплімент",
+  "v": "false_friend",
+  "ce": "complement",
+  "cu": "комплімент",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "комплімент = compliment; complement = доповнення."
+ },
+ {
+  "en": "pneumony",
+  "uk": "пневмонії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "pneumonia",
+  "cu": "пневмонія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "pneumony is an obsolete form of pneumonia."
+ },
+ {
+  "en": "prose",
+  "uk": "прози",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "prose",
+  "cu": "проза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "seance",
+  "uk": "сеанс",
+  "v": "partial_false_friend",
+  "ce": "séance",
+  "cu": "сеанс",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "сеанс mainly = a session or a film showing; English séance = spiritualist meeting."
+ },
+ {
+  "en": "single",
+  "uk": "сингл",
+  "v": "identical",
+  "ce": "single",
+  "cu": "сингл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "In Ukrainian only a music single (song release)."
+ },
+ {
+  "en": "smartphone",
+  "uk": "смарт-фон",
+  "v": "identical",
+  "ce": "smartphone",
+  "cu": "смартфон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Standard spelling смартфон."
+ },
+ {
+  "en": "tableaux",
+  "uk": "табло",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "tableau",
+  "cu": "табло",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "табло = scoreboard/display board; tableau = a scene or picture."
+ },
+ {
+  "en": "tempi",
+  "uk": "темпі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "tempo",
+  "cu": "темп",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "showman",
+  "uk": "шоу-мен",
+  "v": "identical",
+  "ce": "showman",
+  "cu": "шоумен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "easy",
+  "uk": "ізі",
+  "v": "identical",
+  "ce": "easy",
+  "cu": "ізі",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "slang",
+   "games"
+  ],
+  "note": "ізі is gamer/internet slang; the standard word is легко/легкий."
+ },
+ {
+  "en": "archeology",
+  "uk": "археології",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "archeology",
+  "cu": "археологія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "gryph",
+  "uk": "гриф",
+  "v": "identical",
+  "ce": "gryph",
+  "cu": "гриф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic",
+   "other"
+  ],
+  "note": "Archaic for griffin; Ukrainian гриф also means vulture, the neck of a string instrument, and a secrecy stamp."
+ },
+ {
+  "en": "catalogue",
+  "uk": "каталогу",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "catalog",
+  "cu": "каталог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "krona",
+  "uk": "крон",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "krona",
+  "cu": "крона",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "Ukrainian крона also means the crown of a tree."
+ },
+ {
+  "en": "maffia",
+  "uk": "мафія",
+  "v": "identical",
+  "ce": "mafia",
+  "cu": "мафія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mole",
+  "uk": "мол",
+  "v": "partial_false_friend",
+  "ce": "mole",
+  "cu": "мол",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "мол = breakwater, pier; English mole mainly means the animal, a skin mark or a spy."
+ },
+ {
+  "en": "office",
+  "uk": "офіси",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "office",
+  "cu": "офіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business",
+   "places"
+  ],
+  "note": ""
+ },
+ {
+  "en": "poesy",
+  "uk": "поезій",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "poesy",
+  "cu": "поезія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "poesy is archaic for poetry."
+ },
+ {
+  "en": "rallye",
+  "uk": "ралі",
+  "v": "identical",
+  "ce": "rally",
+  "cu": "ралі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "transport"
+  ],
+  "note": "Ukrainian ралі is only a motor race; a political rally = мітинг."
+ },
+ {
+  "en": "rose",
+  "uk": "рози",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "rose",
+  "cu": "роза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "set",
+  "uk": "сет",
+  "v": "identical",
+  "ce": "set",
+  "cu": "сет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "music"
+  ],
+  "note": "In Ukrainian: a set in tennis/volleyball, a DJ/concert set, a food set."
+ },
+ {
+  "en": "skelet",
+  "uk": "скелет",
+  "v": "identical",
+  "ce": "skelet",
+  "cu": "скелет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "biology"
+  ],
+  "note": "Obsolete for skeleton."
+ },
+ {
+  "en": "phase",
+  "uk": "фазі",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "phase",
+  "cu": "фаза",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "artery",
+  "uk": "артерії",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "artery",
+  "cu": "артерія",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "bomb",
+  "uk": "бомб",
+  "v": "not_lemma",
+  "lv": "similar",
+  "ce": "bomb",
+  "cu": "бомба",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": ""
+ },
+ {
+  "en": "bosses",
+  "uk": "бос",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "boss",
+  "cu": "бос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "zakuski",
+  "uk": "закуски",
+  "v": "not_lemma",
+  "lv": "identical",
+  "ce": "zakuska",
+  "cu": "закуска",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "In English used for Russian-style appetizers."
+ },
+ {
+  "en": "yoghurt",
+  "uk": "йогурт",
+  "v": "identical",
+  "ce": "yogurt",
+  "cu": "йогурт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "partizan",
+  "uk": "партизан",
+  "v": "partial_false_friend",
+  "ce": "partisan",
+  "cu": "партизан",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "партизан = guerrilla fighter; English partisan mostly means a strong supporter of a party."
+ },
+ {
+  "en": "pretendant",
+  "uk": "претендент",
+  "v": "similar",
+  "ce": "pretendant",
+  "cu": "претендент",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "pretendant is archaic/rare; usual English is claimant or contender."
+ },
+ {
+  "en": "hallo",
+  "uk": "алло",
+  "v": "similar",
+  "ce": "hallo",
+  "cu": "алло",
+  "pos": "interj",
+  "br": false,
+  "lab": [],
+  "note": "алло is used only when answering the phone."
+ },
+ {
+  "en": "physique",
+  "uk": "фізику",
+  "v": "not_lemma",
+  "lv": "false_friend",
+  "ce": "physique",
+  "cu": "фізика",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "фізика = physics; physique = body build (статура)."
+ },
+ {
+  "en": "nit",
+  "uk": "ніт",
+  "v": "identical",
+  "ce": "nit",
+  "cu": "ніт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "note": "Unit of screen brightness (cd/m²); English nit also means a louse egg."
+ }
+]

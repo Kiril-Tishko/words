@@ -1,0 +1,1053 @@
+[
+ {
+  "en": "luna",
+  "uk": "луна",
+  "v": "unrelated"
+ },
+ {
+  "en": "metabolic",
+  "uk": "метаболічний",
+  "v": "similar",
+  "ce": "metabolic",
+  "cu": "метаболічний",
+  "note": "Ukrainian adjective ending -ічний"
+ },
+ {
+  "en": "meth",
+  "uk": "мет",
+  "v": "identical",
+  "ce": "meth",
+  "cu": "мет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "medicine"
+  ],
+  "note": "Slang for метамфетамін; мет is also a form of мета (goal)."
+ },
+ {
+  "en": "militant",
+  "uk": "мілітант",
+  "v": "identical",
+  "ce": "militant",
+  "cu": "мілітант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "Rare in Ukrainian; usual words: бойовик (fighter), радикал/активіст. The English adjective is войовничий."
+ },
+ {
+  "en": "mohammad",
+  "uk": "мухаммед",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nicolas",
+  "uk": "ніколя",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nostalgia",
+  "uk": "ностальгія",
+  "v": "similar",
+  "ce": "nostalgia",
+  "cu": "ностальгія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "paddy",
+  "uk": "педді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pavilion",
+  "uk": "павільйон",
+  "v": "identical",
+  "ce": "pavilion",
+  "cu": "павільйон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "Also a film-studio stage (знімальний павільйон)."
+ },
+ {
+  "en": "printers",
+  "uk": "принтери",
+  "v": "not_lemma",
+  "ce": "printer",
+  "cu": "принтер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "printers",
+  "uk": "принтерів",
+  "v": "not_lemma",
+  "ce": "printer",
+  "cu": "принтер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "genitive plural form"
+ },
+ {
+  "en": "regulator",
+  "uk": "регулятор",
+  "v": "identical",
+  "ce": "regulator",
+  "cu": "регулятор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Both a device and a regulatory body (регулятор ринку)."
+ },
+ {
+  "en": "rudy",
+  "uk": "руді",
+  "v": "unrelated"
+ },
+ {
+  "en": "sabotage",
+  "uk": "саботаж",
+  "v": "identical",
+  "ce": "sabotage",
+  "cu": "саботаж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "The verb is саботувати."
+ },
+ {
+  "en": "saint petersburg",
+  "uk": "санкт-петербург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sarcasm",
+  "uk": "сарказм",
+  "v": "identical",
+  "ce": "sarcasm",
+  "cu": "сарказм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "savannah",
+  "uk": "саванна",
+  "v": "identical",
+  "ce": "savanna",
+  "cu": "саванна",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also spelled savannah."
+ },
+ {
+  "en": "suffolk",
+  "uk": "саффолк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "swansea",
+  "uk": "свонсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "syracuse",
+  "uk": "сиракузи",
+  "v": "proper_noun"
+ },
+ {
+  "en": "syracuse",
+  "uk": "сірак'юс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tehran",
+  "uk": "тегеран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "trolls",
+  "uk": "тролі",
+  "v": "not_lemma",
+  "ce": "troll",
+  "cu": "троль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media",
+   "other"
+  ],
+  "note": "plural form; both the mythical creature and an internet troll"
+ },
+ {
+  "en": "valencia",
+  "uk": "валенсія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yuri",
+  "uk": "юрі",
+  "v": "identical",
+  "ce": "yuri",
+  "cu": "юрі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "note": "Anime/manga genre about romance between women."
+ },
+ {
+  "en": "yuri",
+  "uk": "юрій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adaptive",
+  "uk": "адаптивний",
+  "v": "similar",
+  "ce": "adaptive",
+  "cu": "адаптивний",
+  "note": "Ukrainian adjective ending -ивний"
+ },
+ {
+  "en": "apartheid",
+  "uk": "апартеїд",
+  "v": "identical",
+  "ce": "apartheid",
+  "cu": "апартеїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "arthritis",
+  "uk": "артрит",
+  "v": "similar",
+  "ce": "arthritis",
+  "cu": "артрит",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "bale",
+  "uk": "бейл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barton",
+  "uk": "бартон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buenos",
+  "uk": "буенос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carnegie",
+  "uk": "карнегі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conway",
+  "uk": "конвей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dante",
+  "uk": "данте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deborah",
+  "uk": "дебора",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dominic",
+  "uk": "домінік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "feminists",
+  "uk": "феміністки",
+  "v": "not_lemma",
+  "ce": "feminist",
+  "cu": "фемініст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "people"
+  ],
+  "note": "феміністки = female feminists (plural of феміністка)"
+ },
+ {
+  "en": "fiji",
+  "uk": "фіджі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "geo-",
+  "uk": "гео-",
+  "v": "identical",
+  "ce": "geo-",
+  "cu": "гео-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "Prefix meaning 'earth' (географія = geography, геологія = geology)."
+ },
+ {
+  "en": "handicap",
+  "uk": "гандикап",
+  "v": "partial_false_friend",
+  "ce": "handicap",
+  "cu": "гандикап",
+  "note": "Ukrainian гандикап is only the sports/betting handicap; a disadvantage or disability is перешкода, інвалідність"
+ },
+ {
+  "en": "hansen",
+  "uk": "гансен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "homage",
+  "uk": "омаж",
+  "v": "identical",
+  "ce": "homage",
+  "cu": "омаж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "art"
+  ],
+  "note": "In Ukrainian only an artistic tribute (French-style pronunciation); respect in general = шана."
+ },
+ {
+  "en": "hymn",
+  "uk": "гімн",
+  "v": "identical",
+  "ce": "hymn",
+  "cu": "гімн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "religion"
+  ],
+  "note": "Ukrainian гімн also means a national anthem."
+ },
+ {
+  "en": "hypothetical",
+  "uk": "гіпотетична",
+  "v": "not_lemma",
+  "ce": "hypothetical",
+  "cu": "гіпотетичний",
+  "lv": "similar",
+  "note": "feminine adjective form; Ukrainian adjective ending -ичний"
+ },
+ {
+  "en": "informative",
+  "uk": "інформативний",
+  "v": "similar",
+  "ce": "informative",
+  "cu": "інформативний",
+  "note": "Ukrainian adjective ending -ивний"
+ },
+ {
+  "en": "jacksonville",
+  "uk": "джексонвілл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jasmine",
+  "uk": "жасмин",
+  "v": "identical",
+  "ce": "jasmine",
+  "cu": "жасмин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also jasmine tea (чай з жасмином)."
+ },
+ {
+  "en": "katrina",
+  "uk": "катріна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "knockout",
+  "uk": "нокаут",
+  "v": "identical",
+  "ce": "knockout",
+  "cu": "нокаут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "The informal 'a stunning person or thing' sense is not used in Ukrainian."
+ },
+ {
+  "en": "linear algebra",
+  "uk": "лінійна алгебра",
+  "v": "similar",
+  "ce": "linear algebra",
+  "cu": "лінійна алгебра",
+  "note": "Ukrainian adjective лінійна has its own ending"
+ },
+ {
+  "en": "mosquito",
+  "uk": "москіт",
+  "v": "similar",
+  "ce": "mosquito",
+  "cu": "москіт",
+  "note": "ending -o dropped; москіт is a tropical biting insect, an ordinary mosquito is комар"
+ },
+ {
+  "en": "motel",
+  "uk": "мотель",
+  "v": "identical",
+  "ce": "motel",
+  "cu": "мотель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mueller",
+  "uk": "мюллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "novelist",
+  "uk": "новеліст",
+  "v": "partial_false_friend",
+  "ce": "novelist",
+  "cu": "новеліст",
+  "note": "новеліст writes short stories (новели); a writer of novels is романіст"
+ },
+ {
+  "en": "novelist",
+  "uk": "новелістка",
+  "v": "not_lemma",
+  "ce": "novelist",
+  "cu": "новеліст",
+  "lv": "partial_false_friend",
+  "note": "feminine form of новеліст (writer of short stories)"
+ },
+ {
+  "en": "omaha",
+  "uk": "омаха",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paradigm",
+  "uk": "парадигма",
+  "v": "similar",
+  "ce": "paradigm",
+  "cu": "парадигма",
+  "note": "ending -а added"
+ },
+ {
+  "en": "physiology",
+  "uk": "фізіологія",
+  "v": "similar",
+  "ce": "physiology",
+  "cu": "фізіологія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "plateau",
+  "uk": "плато",
+  "v": "identical",
+  "ce": "plateau",
+  "cu": "плато",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also a stable level after growth (вийти на плато). Indeclinable in Ukrainian."
+ },
+ {
+  "en": "playlist",
+  "uk": "плейлист",
+  "v": "identical",
+  "ce": "playlist",
+  "cu": "плейлист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pseudo",
+  "uk": "псевдо",
+  "v": "false_friend",
+  "ce": "pseudo",
+  "cu": "псевдо",
+  "note": "Ukrainian псевдо = a pseudonym or call sign; English pseudo = fake, a pretentious person"
+ },
+ {
+  "en": "pseudo",
+  "uk": "псевдо-",
+  "v": "similar",
+  "ce": "pseudo",
+  "cu": "псевдо-",
+  "note": "Ukrainian has only the prefix псевдо- (fake), not a separate word"
+ },
+ {
+  "en": "pseudo-",
+  "uk": "псевдо-",
+  "v": "identical",
+  "ce": "pseudo-",
+  "cu": "псевдо-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "Prefix meaning 'false' (псевдонім = pseudonym, псевдонаука = pseudoscience)."
+ },
+ {
+  "en": "pudding",
+  "uk": "пудинг",
+  "v": "identical",
+  "ce": "pudding",
+  "cu": "пудинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "In British English pudding can also mean any dessert."
+ },
+ {
+  "en": "regina",
+  "uk": "регіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosie",
+  "uk": "розі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rupert",
+  "uk": "руперт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rusty",
+  "uk": "расті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "simulator",
+  "uk": "симулятор",
+  "v": "identical",
+  "ce": "simulator",
+  "cu": "симулятор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech",
+   "games"
+  ],
+  "note": "A person who feigns illness is симулянт."
+ },
+ {
+  "en": "snyder",
+  "uk": "снайдер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spectacle",
+  "uk": "спектакль",
+  "v": "partial_false_friend",
+  "ce": "spectacle",
+  "cu": "спектакль",
+  "note": "спектакль = a theater play/performance; an impressive sight is видовище"
+ },
+ {
+  "en": "symposium",
+  "uk": "симпозіум",
+  "v": "identical",
+  "ce": "symposium",
+  "cu": "симпозіум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education",
+   "science"
+  ],
+  "note": "The ancient Greek drinking party is симпосій."
+ },
+ {
+  "en": "symposium",
+  "uk": "симпосій",
+  "v": "similar",
+  "ce": "symposium",
+  "cu": "симпосій",
+  "note": "only the ancient Greek feast; different ending"
+ },
+ {
+  "en": "terminals",
+  "uk": "термінали",
+  "v": "not_lemma",
+  "ce": "terminal",
+  "cu": "термінал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport",
+   "tech"
+  ],
+  "note": "plural form"
+ },
+ {
+  "en": "wiki",
+  "uk": "вікі",
+  "v": "identical",
+  "ce": "wiki",
+  "cu": "вікі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "willy",
+  "uk": "віллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adapter",
+  "uk": "адаптер",
+  "v": "identical",
+  "ce": "adapter",
+  "cu": "адаптер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "agony",
+  "uk": "агонія",
+  "v": "similar",
+  "ce": "agony",
+  "cu": "агонія",
+  "note": "ending -ія; Ukrainian агонія mostly means death throes"
+ },
+ {
+  "en": "allergy",
+  "uk": "алергія",
+  "v": "similar",
+  "ce": "allergy",
+  "cu": "алергія",
+  "note": "ending -ія"
+ },
+ {
+  "en": "astronaut",
+  "uk": "астронавт",
+  "v": "identical",
+  "ce": "astronaut",
+  "cu": "астронавт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "people"
+  ],
+  "note": "Ukrainian also uses космонавт."
+ },
+ {
+  "en": "astronaut",
+  "uk": "астронавтка",
+  "v": "not_lemma",
+  "ce": "astronaut",
+  "cu": "астронавт",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "people"
+  ],
+  "note": "feminine form (female astronaut)"
+ },
+ {
+  "en": "banners",
+  "uk": "банери",
+  "v": "not_lemma",
+  "ce": "banner",
+  "cu": "банер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "plural form; in Ukrainian only an advertising or web banner, a flag = стяг, прапор"
+ },
+ {
+  "en": "bedford",
+  "uk": "бедфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benchmark",
+  "uk": "бенчмарк",
+  "v": "identical",
+  "ce": "benchmark",
+  "cu": "бенчмарк",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech",
+   "business"
+  ],
+  "note": "Professional jargon; general word: еталон, орієнтир."
+ },
+ {
+  "en": "benghazi",
+  "uk": "бенгазі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benny",
+  "uk": "бенні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benson",
+  "uk": "бенсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bloc",
+  "uk": "блок",
+  "v": "identical",
+  "ce": "bloc",
+  "cu": "блок",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "Ukrainian блок also means a block (solid piece, unit)."
+ },
+ {
+  "en": "bourbon",
+  "uk": "бурбон",
+  "v": "identical",
+  "ce": "bourbon",
+  "cu": "бурбон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "brutality",
+  "uk": "брутальність",
+  "v": "similar",
+  "ce": "brutality",
+  "cu": "брутальність",
+  "note": "suffix -ність; брутальний in Ukrainian also means coarse, rude"
+ },
+ {
+  "en": "caste",
+  "uk": "каста",
+  "v": "similar",
+  "ce": "caste",
+  "cu": "каста",
+  "note": "ending -а added"
+ },
+ {
+  "en": "clippers",
+  "uk": "кліпперс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "colon",
+  "uk": "колон",
+  "v": "unrelated"
+ },
+ {
+  "en": "condom",
+  "uk": "кондом",
+  "v": "identical",
+  "ce": "condom",
+  "cu": "кондом",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine"
+  ],
+  "note": "More common Ukrainian word: презерватив."
+ },
+ {
+  "en": "consul",
+  "uk": "консул",
+  "v": "identical",
+  "ce": "consul",
+  "cu": "консул",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "consul",
+  "uk": "консулка",
+  "v": "not_lemma",
+  "ce": "consul",
+  "cu": "консул",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "feminine form (female consul)"
+ },
+ {
+  "en": "costa rica",
+  "uk": "коста-рика",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crypto-",
+  "uk": "крипто-",
+  "v": "identical",
+  "ce": "crypto-",
+  "cu": "крипто-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "language",
+   "tech"
+  ],
+  "note": "Prefix meaning 'hidden, secret' (криптографія = cryptography, криптовалюта = cryptocurrency)."
+ },
+ {
+  "en": "degradation",
+  "uk": "деградація",
+  "v": "similar",
+  "ce": "degradation",
+  "cu": "деградація",
+  "note": "ending -ація"
+ },
+ {
+  "en": "dexter",
+  "uk": "декстер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "discs",
+  "uk": "диски",
+  "v": "not_lemma",
+  "ce": "disc",
+  "cu": "диск",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "plural form; also spelled disk"
+ },
+ {
+  "en": "dundee",
+  "uk": "данді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elaine",
+  "uk": "елейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "electrons",
+  "uk": "електронів",
+  "v": "not_lemma",
+  "ce": "electron",
+  "cu": "електрон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": "genitive plural form"
+ },
+ {
+  "en": "evelyn",
+  "uk": "евелін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fargo",
+  "uk": "фарго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "forrest",
+  "uk": "форрест",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grad",
+  "uk": "град",
+  "v": "unrelated"
+ },
+ {
+  "en": "gymnastics",
+  "uk": "гімнастика",
+  "v": "similar",
+  "ce": "gymnastics",
+  "cu": "гімнастика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "hale",
+  "uk": "гейл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hercules",
+  "uk": "геркулес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "honduras",
+  "uk": "гондурас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "honduras",
+  "uk": "гондурасу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ignores",
+  "uk": "ігнорує",
+  "v": "not_lemma",
+  "ce": "ignore",
+  "cu": "ігнорувати",
+  "lv": "similar",
+  "note": "verb form; Ukrainian verb ending -увати"
+ },
+ {
+  "en": "kathleen",
+  "uk": "кетлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kendall",
+  "uk": "кендалл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lancashire",
+  "uk": "ланкашир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lawson",
+  "uk": "лоусон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lindsey",
+  "uk": "ліндсі",
+  "v": "proper_noun"
+ }
+]

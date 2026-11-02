@@ -1,0 +1,865 @@
+[
+ {
+  "en": "brahms",
+  "uk": "брамс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brant",
+  "uk": "брант",
+  "v": "unrelated"
+ },
+ {
+  "en": "capitulation",
+  "uk": "капітуляція",
+  "v": "similar",
+  "ce": "capitulation",
+  "cu": "капітуляція",
+  "note": "uk adds -ія"
+ },
+ {
+  "en": "catania",
+  "uk": "катанія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caulfield",
+  "uk": "колфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "christoph",
+  "uk": "крістоф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coimbatore",
+  "uk": "коїмбатор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cursive",
+  "uk": "курсив",
+  "v": "false_friend",
+  "ce": "cursive",
+  "cu": "курсив",
+  "note": "uk курсив = italic type; joined handwriting = скоропис/прописні літери"
+ },
+ {
+  "en": "ddt",
+  "uk": "ддт",
+  "v": "identical",
+  "ce": "DDT",
+  "cu": "ДДТ",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "chemistry"
+  ],
+  "note": "insecticide"
+ },
+ {
+  "en": "defoe",
+  "uk": "дефо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dekker",
+  "uk": "деккер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "demonstrator",
+  "uk": "демонстрант",
+  "v": "similar",
+  "ce": "demonstrator",
+  "cu": "демонстрант",
+  "note": "suffix -ator vs -ант; uk = protester only"
+ },
+ {
+  "en": "demonstrator",
+  "uk": "демонстрантка",
+  "v": "not_lemma",
+  "ce": "demonstrator",
+  "cu": "демонстрант",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "dsc",
+  "uk": "дск",
+  "v": "unrelated"
+ },
+ {
+  "en": "elba",
+  "uk": "ельба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "endo",
+  "uk": "ендо",
+  "v": "unrelated"
+ },
+ {
+  "en": "epicenter",
+  "uk": "епіцентр",
+  "v": "identical",
+  "ce": "epicenter",
+  "cu": "епіцентр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "British spelling: epicentre"
+ },
+ {
+  "en": "frodo",
+  "uk": "фродо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fsb",
+  "uk": "ФСБ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fsb",
+  "uk": "фсб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gabriella",
+  "uk": "габріелла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "garret",
+  "uk": "гаррет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grotto",
+  "uk": "грот",
+  "v": "similar",
+  "ce": "grotto",
+  "cu": "грот",
+  "note": "uk drops final -o; грот also = mainsail"
+ },
+ {
+  "en": "gwent",
+  "uk": "гвент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "holliday",
+  "uk": "голлідей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "idlib",
+  "uk": "ідліб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ignacio",
+  "uk": "ігнасіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "inductive",
+  "uk": "індуктивний",
+  "v": "similar",
+  "ce": "inductive",
+  "cu": "індуктивний",
+  "note": "uk adjective ending -ний"
+ },
+ {
+  "en": "infraction",
+  "uk": "інфракція",
+  "v": "false_friend",
+  "ce": "infraction",
+  "cu": "інфракція",
+  "note": "uk only medical (incomplete bone fracture); violation = порушення"
+ },
+ {
+  "en": "insecticide",
+  "uk": "інсектициди",
+  "v": "not_lemma",
+  "ce": "insecticide",
+  "cu": "інсектицид",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "joplin",
+  "uk": "джоплін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kazan",
+  "uk": "казан",
+  "v": "identical",
+  "ce": "kazan",
+  "cu": "казан",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "in Ukrainian any large cooking cauldron; казан is common, English kazan is rare"
+ },
+ {
+  "en": "kazan",
+  "uk": "казань",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kazan",
+  "uk": "казані",
+  "v": "not_lemma",
+  "ce": "kazan",
+  "cu": "казан",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kinney",
+  "uk": "кінні",
+  "v": "unrelated"
+ },
+ {
+  "en": "laila",
+  "uk": "лейла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "loa",
+  "uk": "лоа",
+  "v": "identical",
+  "ce": "loa",
+  "cu": "лоа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion"
+  ],
+  "note": "spirit in voodoo religion"
+ },
+ {
+  "en": "lucio",
+  "uk": "лучіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "luo",
+  "uk": "ло",
+  "v": "unrelated"
+ },
+ {
+  "en": "massimo",
+  "uk": "массімо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maul",
+  "uk": "мол",
+  "v": "unrelated"
+ },
+ {
+  "en": "mayne",
+  "uk": "майн",
+  "v": "unrelated"
+ },
+ {
+  "en": "mendez",
+  "uk": "мендес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "menstruation",
+  "uk": "менструація",
+  "v": "similar",
+  "ce": "menstruation",
+  "cu": "менструація",
+  "note": "uk adds -ія"
+ },
+ {
+  "en": "messianic",
+  "uk": "месіанський",
+  "v": "similar",
+  "ce": "messianic",
+  "cu": "месіанський",
+  "note": "uk adjective ending -ський"
+ },
+ {
+  "en": "michaela",
+  "uk": "мікаела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minimalism",
+  "uk": "мінімалізм",
+  "v": "identical",
+  "ce": "minimalism",
+  "cu": "мінімалізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mulch",
+  "uk": "мульча",
+  "v": "similar",
+  "ce": "mulch",
+  "cu": "мульча",
+  "note": "uk adds -а"
+ },
+ {
+  "en": "musket",
+  "uk": "мушкет",
+  "v": "similar",
+  "ce": "musket",
+  "cu": "мушкет",
+  "note": "s→ш"
+ },
+ {
+  "en": "nader",
+  "uk": "надер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nestor",
+  "uk": "нестор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orator",
+  "uk": "оратор",
+  "v": "identical",
+  "ce": "orator",
+  "cu": "оратор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "in Ukrainian also any speaker at a meeting"
+ },
+ {
+  "en": "palais",
+  "uk": "пале",
+  "v": "unrelated"
+ },
+ {
+  "en": "papyrus",
+  "uk": "папірус",
+  "v": "identical",
+  "ce": "papyrus",
+  "cu": "папірус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "pemberton",
+  "uk": "пембертон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "philipp",
+  "uk": "філіпп",
+  "v": "proper_noun"
+ },
+ {
+  "en": "philo",
+  "uk": "філон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pho",
+  "uk": "ФО",
+  "v": "not_lemma",
+  "ce": "pho",
+  "cu": "фо",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "capitalized form; headword is lowercase фо"
+ },
+ {
+  "en": "pho",
+  "uk": "фо",
+  "v": "identical",
+  "ce": "pho",
+  "cu": "фо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Vietnamese noodle soup"
+ },
+ {
+  "en": "pluralism",
+  "uk": "плюралізм",
+  "v": "identical",
+  "ce": "pluralism",
+  "cu": "плюралізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "polynesian",
+  "uk": "полінезійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "protectorate",
+  "uk": "протекторат",
+  "v": "identical",
+  "ce": "protectorate",
+  "cu": "протекторат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "psychopathic",
+  "uk": "психопатичний",
+  "v": "similar",
+  "ce": "psychopathic",
+  "cu": "психопатичний",
+  "note": "uk adjective ending -ний"
+ },
+ {
+  "en": "recursive",
+  "uk": "рекурсивно",
+  "v": "not_lemma",
+  "ce": "recursive",
+  "cu": "рекурсивний",
+  "lv": "similar",
+  "note": "рекурсивно is the adverb"
+ },
+ {
+  "en": "recursive",
+  "uk": "рекурсивний",
+  "v": "similar",
+  "ce": "recursive",
+  "cu": "рекурсивний",
+  "note": "uk adjective ending -ний"
+ },
+ {
+  "en": "scorsese",
+  "uk": "скорсезе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shiloh",
+  "uk": "шило",
+  "v": "unrelated"
+ },
+ {
+  "en": "soyuz",
+  "uk": "союз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "srinagar",
+  "uk": "срінаґар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stratosphere",
+  "uk": "стратосфера",
+  "v": "similar",
+  "ce": "stratosphere",
+  "cu": "стратосфера",
+  "note": "uk adds -а"
+ },
+ {
+  "en": "tamar",
+  "uk": "тамар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "taxonomic",
+  "uk": "таксономічна",
+  "v": "not_lemma",
+  "ce": "taxonomic",
+  "cu": "таксономічний",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "titular",
+  "uk": "титульна",
+  "v": "not_lemma",
+  "ce": "titular",
+  "cu": "титульний",
+  "lv": "similar",
+  "note": "feminine form"
+ },
+ {
+  "en": "tok",
+  "uk": "ток",
+  "v": "unrelated"
+ },
+ {
+  "en": "tunneling",
+  "uk": "тунельний",
+  "v": "not_lemma",
+  "ce": "tunnel",
+  "cu": "тунель",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "tunneling (noun) vs тунельний (adjective); lemma pair tunnel=тунель"
+ },
+ {
+  "en": "uma",
+  "uk": "ума",
+  "v": "unrelated"
+ },
+ {
+  "en": "usp",
+  "uk": "усп",
+  "v": "unrelated"
+ },
+ {
+  "en": "virtuoso",
+  "uk": "віртуоз",
+  "v": "similar",
+  "ce": "virtuoso",
+  "cu": "віртуоз",
+  "note": "uk drops final -o"
+ },
+ {
+  "en": "vos",
+  "uk": "вос",
+  "v": "unrelated"
+ },
+ {
+  "en": "witherspoon",
+  "uk": "візерспун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "woodruff",
+  "uk": "вудрафф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "xenon",
+  "uk": "ксенон",
+  "v": "identical",
+  "ce": "xenon",
+  "cu": "ксенон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "addendum",
+  "uk": "адендум",
+  "v": "identical",
+  "ce": "addendum",
+  "cu": "адендум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "business"
+  ],
+  "note": "mostly in contracts; common Ukrainian word is додаток"
+ },
+ {
+  "en": "alla",
+  "uk": "алла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "annotation",
+  "uk": "анотації",
+  "v": "not_lemma",
+  "ce": "annotation",
+  "cu": "анотація",
+  "lv": "similar",
+  "note": "uk анотація also = abstract/summary of a book"
+ },
+ {
+  "en": "antoni",
+  "uk": "антоній",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arne",
+  "uk": "арне",
+  "v": "proper_noun"
+ },
+ {
+  "en": "atmospheres",
+  "uk": "атмосфери",
+  "v": "not_lemma",
+  "ce": "atmosphere",
+  "cu": "атмосфера",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "attila",
+  "uk": "аттіла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "avril",
+  "uk": "авріль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baccalaureate",
+  "uk": "бакалаврат",
+  "v": "similar",
+  "ce": "baccalaureate",
+  "cu": "бакалаврат",
+  "note": "different root shape; uk = bachelor's degree program"
+ },
+ {
+  "en": "bala",
+  "uk": "бала",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biosphere",
+  "uk": "біосфера",
+  "v": "similar",
+  "ce": "biosphere",
+  "cu": "біосфера",
+  "note": "uk adds -а"
+ },
+ {
+  "en": "bloch",
+  "uk": "блох",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bodybuilder",
+  "uk": "бодібілдер",
+  "v": "identical",
+  "ce": "bodybuilder",
+  "cu": "бодібілдер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bosco",
+  "uk": "боско",
+  "v": "proper_noun"
+ },
+ {
+  "en": "botanist",
+  "uk": "ботанік",
+  "v": "similar",
+  "ce": "botanist",
+  "cu": "ботанік",
+  "note": "-ist vs -ік; uk ботанік also slang = nerd"
+ },
+ {
+  "en": "canny",
+  "uk": "канні",
+  "v": "unrelated"
+ },
+ {
+  "en": "castile",
+  "uk": "кастилія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dag",
+  "uk": "даг",
+  "v": "unrelated"
+ },
+ {
+  "en": "dewitt",
+  "uk": "девітт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dol",
+  "uk": "дол",
+  "v": "unrelated"
+ },
+ {
+  "en": "dumas",
+  "uk": "дюма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emulsion",
+  "uk": "емульсія",
+  "v": "similar",
+  "ce": "emulsion",
+  "cu": "емульсія",
+  "note": "uk adds -ія"
+ },
+ {
+  "en": "epistemology",
+  "uk": "епістемологія",
+  "v": "similar",
+  "ce": "epistemology",
+  "cu": "епістемологія",
+  "note": "uk adds -ія"
+ },
+ {
+  "en": "ferreira",
+  "uk": "феррейра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fijian",
+  "uk": "фіджійська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fluctuation",
+  "uk": "флуктуація",
+  "v": "similar",
+  "ce": "fluctuation",
+  "cu": "флуктуація",
+  "note": "uk adds -ія"
+ },
+ {
+  "en": "gauze",
+  "uk": "газ",
+  "v": "partial_false_friend",
+  "ce": "gauze",
+  "cu": "газ",
+  "note": "uk газ mainly = gas; the thin-fabric sense is minor; medical gauze = марля"
+ },
+ {
+  "en": "ghoul",
+  "uk": "гуль",
+  "v": "identical",
+  "ce": "ghoul",
+  "cu": "гуль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "mythical corpse-eating demon"
+ },
+ {
+  "en": "goebbels",
+  "uk": "геббельс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "golan",
+  "uk": "голан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guelph",
+  "uk": "ґвельф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "guelph",
+  "uk": "гвелф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hamza",
+  "uk": "гамза",
+  "v": "identical",
+  "ce": "hamza",
+  "cu": "гамза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "language"
+  ],
+  "note": "Arabic letter; also spelled хамза"
+ },
+ {
+  "en": "internationale",
+  "uk": "інтернаціонал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jamieson",
+  "uk": "джеймісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "keanu",
+  "uk": "кіану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lula",
+  "uk": "лула",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mangrove",
+  "uk": "мангрових",
+  "v": "not_lemma",
+  "ce": "mangrove",
+  "cu": "мангри",
+  "lv": "similar",
+  "note": "мангрових is genitive plural of the adjective мангровий"
+ }
+]

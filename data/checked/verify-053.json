@@ -1,0 +1,933 @@
+[
+ {
+  "en": "mckenna",
+  "uk": "маккенна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mcqueen",
+  "uk": "макквін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mediator",
+  "uk": "медіатор",
+  "v": "identical",
+  "ce": "mediator",
+  "cu": "медіатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "law"
+  ],
+  "note": "In Ukrainian also a guitar pick (plectrum); a general go-between is посередник."
+ },
+ {
+  "en": "meow",
+  "uk": "мяу",
+  "v": "identical",
+  "ce": "meow",
+  "cu": "мяу",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "British spelling: miaow."
+ },
+ {
+  "en": "mer",
+  "uk": "мер",
+  "v": "not_lemma",
+  "ce": "mayor",
+  "cu": "мер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "obsolete",
+   "politics",
+   "people"
+  ],
+  "note": "'mer' is an obsolete spelling; the modern word is mayor."
+ },
+ {
+  "en": "mirage",
+  "uk": "міраж",
+  "v": "identical",
+  "ce": "mirage",
+  "cu": "міраж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Also an illusion, as in English."
+ },
+ {
+  "en": "mozambique",
+  "uk": "мозамбік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mozambique",
+  "uk": "мозамбіку",
+  "v": "proper_noun"
+ },
+ {
+  "en": "muller",
+  "uk": "мюллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "navigating",
+  "uk": "навігація",
+  "v": "not_lemma",
+  "ce": "navigation",
+  "cu": "навігація",
+  "lv": "similar",
+  "note": "navigating is a verb form; navigation = навігація (-ція)."
+ },
+ {
+  "en": "navigator",
+  "uk": "навігатор",
+  "v": "identical",
+  "ce": "navigator",
+  "cu": "навігатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "Also a GPS navigation device."
+ },
+ {
+  "en": "occult",
+  "uk": "окультний",
+  "v": "similar",
+  "ce": "occult",
+  "cu": "окультний",
+  "note": "Ukrainian adjective adds -ний."
+ },
+ {
+  "en": "pediatrics",
+  "uk": "педіатрія",
+  "v": "similar",
+  "ce": "pediatrics",
+  "cu": "педіатрія",
+  "note": "Ukrainian ending -ія."
+ },
+ {
+  "en": "pooh",
+  "uk": "пух",
+  "v": "unrelated"
+ },
+ {
+  "en": "punctuation",
+  "uk": "пунктуація",
+  "v": "similar",
+  "ce": "punctuation",
+  "cu": "пунктуація",
+  "note": "Ukrainian ending -ція."
+ },
+ {
+  "en": "rowland",
+  "uk": "роуленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sykes",
+  "uk": "сайкс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tau",
+  "uk": "тау",
+  "v": "identical",
+  "ce": "tau",
+  "cu": "тау",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter τ."
+ },
+ {
+  "en": "tito",
+  "uk": "тіто",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tobias",
+  "uk": "тобіас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tofu",
+  "uk": "тофу",
+  "v": "identical",
+  "ce": "tofu",
+  "cu": "тофу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tragedies",
+  "uk": "трагедії",
+  "v": "not_lemma",
+  "ce": "tragedy",
+  "cu": "трагедія",
+  "lv": "similar",
+  "note": "English plural; tragedy vs трагедія (-ія)."
+ },
+ {
+  "en": "tripoli",
+  "uk": "тріполі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vader",
+  "uk": "вейдер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "verde",
+  "uk": "верде",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vinci",
+  "uk": "вінчі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wilcox",
+  "uk": "вілкокс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wiltshire",
+  "uk": "вілтшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zeppelin",
+  "uk": "цепелін",
+  "v": "similar",
+  "ce": "zeppelin",
+  "cu": "цепелін",
+  "note": "Ukrainian starts with ц- (German pronunciation)."
+ },
+ {
+  "en": "alejandro",
+  "uk": "алехандро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amplitude",
+  "uk": "амплітуда",
+  "v": "similar",
+  "ce": "amplitude",
+  "cu": "амплітуда",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "anomalies",
+  "uk": "аномалій",
+  "v": "not_lemma",
+  "ce": "anomaly",
+  "cu": "аномалія",
+  "lv": "similar",
+  "note": "Ukrainian genitive plural; anomaly vs аномалія (-ія)."
+ },
+ {
+  "en": "arithmetic progression",
+  "uk": "аритметична прогресія",
+  "v": "similar",
+  "ce": "arithmetic progression",
+  "cu": "арифметична прогресія",
+  "note": "Adjective ending -на and -ія; usual spelling арифметична."
+ },
+ {
+  "en": "axel",
+  "uk": "аксель",
+  "v": "identical",
+  "ce": "axel",
+  "cu": "аксель",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "A figure-skating jump."
+ },
+ {
+  "en": "badminton",
+  "uk": "бадмінтон",
+  "v": "identical",
+  "ce": "badminton",
+  "cu": "бадмінтон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bihar",
+  "uk": "біхар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blaine",
+  "uk": "блейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "buenos aires",
+  "uk": "буенос-айрес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chatham",
+  "uk": "чатем",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clair",
+  "uk": "клер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "compromises",
+  "uk": "компромісів",
+  "v": "not_lemma",
+  "ce": "compromise",
+  "cu": "компроміс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "English plural / Ukrainian genitive plural."
+ },
+ {
+  "en": "conveyor",
+  "uk": "конвеєр",
+  "v": "identical",
+  "ce": "conveyor",
+  "cu": "конвеєр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical"
+  ],
+  "note": "A conveyor belt; figuratively an assembly line."
+ },
+ {
+  "en": "dalai",
+  "uk": "далай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darryl",
+  "uk": "деріл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "denton",
+  "uk": "дентон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "entropy",
+  "uk": "ентропії",
+  "v": "not_lemma",
+  "ce": "entropy",
+  "cu": "ентропія",
+  "lv": "similar",
+  "note": "Inflected form of ентропія; entropy vs ентропія (-ія)."
+ },
+ {
+  "en": "entropy",
+  "uk": "ентропія",
+  "v": "similar",
+  "ce": "entropy",
+  "cu": "ентропія",
+  "note": "Ukrainian ending -ія."
+ },
+ {
+  "en": "esa",
+  "uk": "еса",
+  "v": "unrelated"
+ },
+ {
+  "en": "ethernet",
+  "uk": "езернет",
+  "v": "similar",
+  "ce": "Ethernet",
+  "cu": "езернет",
+  "note": "th written з; usually written Ethernet in Latin letters."
+ },
+ {
+  "en": "extradition",
+  "uk": "екстрадиція",
+  "v": "similar",
+  "ce": "extradition",
+  "cu": "екстрадиція",
+  "note": "Ukrainian ending -ція."
+ },
+ {
+  "en": "grotesque",
+  "uk": "гротеск",
+  "v": "identical",
+  "ce": "grotesque",
+  "cu": "гротеск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "In Ukrainian only the noun (grotesque style); the adjective is гротескний."
+ },
+ {
+  "en": "kaufman",
+  "uk": "кауфмана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "legions",
+  "uk": "легіонів",
+  "v": "not_lemma",
+  "ce": "legion",
+  "cu": "легіон",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "English plural / Ukrainian genitive plural."
+ },
+ {
+  "en": "locomotives",
+  "uk": "локомотивів",
+  "v": "not_lemma",
+  "ce": "locomotive",
+  "cu": "локомотив",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "English plural / Ukrainian genitive plural."
+ },
+ {
+  "en": "macau",
+  "uk": "макао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maynard",
+  "uk": "мейнард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minimalist",
+  "uk": "мінімаліст",
+  "v": "identical",
+  "ce": "minimalist",
+  "cu": "мінімаліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Only the noun; the adjective is мінімалістичний."
+ },
+ {
+  "en": "minimalist",
+  "uk": "мінімалістка",
+  "v": "not_lemma",
+  "ce": "minimalist",
+  "cu": "мінімаліст",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Feminine form (a female minimalist)."
+ },
+ {
+  "en": "pore",
+  "uk": "пори",
+  "v": "not_lemma",
+  "ce": "pore",
+  "cu": "пора",
+  "lv": "similar",
+  "note": "Ukrainian plural; pore vs пора (adds -а)."
+ },
+ {
+  "en": "rem",
+  "uk": "рем",
+  "v": "unrelated"
+ },
+ {
+  "en": "robb",
+  "uk": "робб",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rodrigo",
+  "uk": "родріго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rosy",
+  "uk": "роси",
+  "v": "unrelated"
+ },
+ {
+  "en": "squire",
+  "uk": "сквайр",
+  "v": "identical",
+  "ce": "squire",
+  "cu": "сквайр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "dated",
+   "people"
+  ],
+  "note": "An English country gentleman or a knight's attendant (historical)."
+ },
+ {
+  "en": "terminator",
+  "uk": "термінатор",
+  "v": "identical",
+  "ce": "terminator",
+  "cu": "термінатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "Also the film robot; in astronomy the day/night line."
+ },
+ {
+  "en": "topography",
+  "uk": "топографія",
+  "v": "similar",
+  "ce": "topography",
+  "cu": "топографія",
+  "note": "Ukrainian ending -ія."
+ },
+ {
+  "en": "waldo",
+  "uk": "вальдо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wil",
+  "uk": "віл",
+  "v": "unrelated"
+ },
+ {
+  "en": "ying",
+  "uk": "ін",
+  "v": "unrelated"
+ },
+ {
+  "en": "alfredo",
+  "uk": "альфредо",
+  "v": "identical",
+  "ce": "alfredo",
+  "cu": "альфредо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Usually in fettuccine Alfredo (фетучині альфредо); also a male name."
+ },
+ {
+  "en": "amish",
+  "uk": "аміші",
+  "v": "proper_noun"
+ },
+ {
+  "en": "andersen",
+  "uk": "андерсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arabian jasmine",
+  "uk": "арабський жасмин",
+  "v": "similar",
+  "ce": "Arabian jasmine",
+  "cu": "арабський жасмин",
+  "note": "Ukrainian adjective арабський (-ський)."
+ },
+ {
+  "en": "banjo",
+  "uk": "банджо",
+  "v": "identical",
+  "ce": "banjo",
+  "cu": "банджо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "blazer",
+  "uk": "блейзер",
+  "v": "identical",
+  "ce": "blazer",
+  "cu": "блейзер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": "The jacket."
+ },
+ {
+  "en": "chevron",
+  "uk": "шеврон",
+  "v": "partial_false_friend",
+  "ce": "chevron",
+  "cu": "шеврон",
+  "note": "шеврон = any sleeve patch on a uniform; chevron = a V-shape or V-shaped stripes."
+ },
+ {
+  "en": "colombo",
+  "uk": "коломбо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "comma",
+  "uk": "кома",
+  "v": "identical",
+  "ce": "comma",
+  "cu": "кома",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "кома also means coma (medical)."
+ },
+ {
+  "en": "comma",
+  "uk": "комами",
+  "v": "not_lemma",
+  "ce": "comma",
+  "cu": "кома",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Ukrainian instrumental plural."
+ },
+ {
+  "en": "cora",
+  "uk": "кора",
+  "v": "unrelated"
+ },
+ {
+  "en": "cornelius",
+  "uk": "корнелій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dai",
+  "uk": "дай",
+  "v": "unrelated"
+ },
+ {
+  "en": "devin",
+  "uk": "девін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dharma",
+  "uk": "дхарма",
+  "v": "identical",
+  "ce": "dharma",
+  "cu": "дхарма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dialysis",
+  "uk": "діаліз",
+  "v": "similar",
+  "ce": "dialysis",
+  "cu": "діаліз",
+  "note": "Ukrainian drops -is."
+ },
+ {
+  "en": "dogma",
+  "uk": "догма",
+  "v": "identical",
+  "ce": "dogma",
+  "cu": "догма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "emory",
+  "uk": "еморі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "granger",
+  "uk": "грейнджер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heller",
+  "uk": "хеллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "henrik",
+  "uk": "генрік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hezbollah",
+  "uk": "хізбалла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hinduism",
+  "uk": "індуїзм",
+  "v": "similar",
+  "ce": "Hinduism",
+  "cu": "індуїзм",
+  "note": "Ukrainian has no H- and -уїзм."
+ },
+ {
+  "en": "hiroshima",
+  "uk": "хіросіма",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hitchcock",
+  "uk": "гічкок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hodge",
+  "uk": "годж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "holloway",
+  "uk": "голловей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "inhuman",
+  "uk": "негуманний",
+  "v": "similar",
+  "ce": "inhuman",
+  "cu": "негуманний",
+  "note": "Ukrainian adjective with не- and -ний."
+ },
+ {
+  "en": "invoice",
+  "uk": "інвойс",
+  "v": "identical",
+  "ce": "invoice",
+  "cu": "інвойс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "business"
+  ],
+  "note": "Business term; the everyday word is рахунок."
+ },
+ {
+  "en": "johan",
+  "uk": "йоган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kelsey",
+  "uk": "келсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "khalid",
+  "uk": "халід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kristin",
+  "uk": "крістін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lacey",
+  "uk": "лейсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lao",
+  "uk": "лао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lau",
+  "uk": "ло",
+  "v": "unrelated"
+ },
+ {
+  "en": "leipzig",
+  "uk": "лейпциг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lew",
+  "uk": "лью",
+  "v": "unrelated"
+ },
+ {
+  "en": "localization",
+  "uk": "локалізація",
+  "v": "similar",
+  "ce": "localization",
+  "cu": "локалізація",
+  "note": "Ukrainian ending -ція."
+ },
+ {
+  "en": "loki",
+  "uk": "локі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "loretta",
+  "uk": "лоретта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "martini",
+  "uk": "мартіні",
+  "v": "identical",
+  "ce": "martini",
+  "cu": "мартіні",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "In Ukrainian often the Martini vermouth; in English usually the gin-and-vermouth cocktail."
+ },
+ {
+  "en": "milford haven",
+  "uk": "мілфорд-гейвен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mira",
+  "uk": "міра",
+  "v": "unrelated"
+ },
+ {
+  "en": "mitochondrial",
+  "uk": "мітохондріальна",
+  "v": "not_lemma",
+  "ce": "mitochondrial",
+  "cu": "мітохондріальний",
+  "lv": "similar",
+  "note": "Feminine form; Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "mobilization",
+  "uk": "мобілізація",
+  "v": "similar",
+  "ce": "mobilization",
+  "cu": "мобілізація",
+  "note": "Ukrainian ending -ція."
+ },
+ {
+  "en": "monologue",
+  "uk": "монолог",
+  "v": "identical",
+  "ce": "monologue",
+  "cu": "монолог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also spelled monolog in American English."
+ },
+ {
+  "en": "monoxide",
+  "uk": "монооксид",
+  "v": "similar",
+  "ce": "monoxide",
+  "cu": "монооксид",
+  "note": "Ukrainian моно- + оксид (extra о)."
+ },
+ {
+  "en": "mosul",
+  "uk": "мосула",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orr",
+  "uk": "орр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petit",
+  "uk": "петі",
+  "v": "unrelated"
+ }
+]

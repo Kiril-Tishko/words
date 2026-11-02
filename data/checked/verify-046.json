@@ -1,0 +1,939 @@
+[
+ {
+  "en": "giovanni",
+  "uk": "джованні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "greenland",
+  "uk": "ґренландії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "helium",
+  "uk": "гелій",
+  "v": "similar",
+  "ce": "helium",
+  "cu": "гелій",
+  "note": "-ium → -ій"
+ },
+ {
+  "en": "ike",
+  "uk": "айк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jae",
+  "uk": "дже",
+  "v": "proper_noun"
+ },
+ {
+  "en": "julio",
+  "uk": "хуліо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "livingston",
+  "uk": "лівінгстона",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mansfield",
+  "uk": "менсфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mckenzie",
+  "uk": "маккензі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "medic",
+  "uk": "медики",
+  "v": "not_lemma",
+  "ce": "medic",
+  "cu": "медик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "people"
+  ],
+  "note": "Plural form. Ukrainian медик = any medical worker, also a medical student."
+ },
+ {
+  "en": "medic",
+  "uk": "медика",
+  "v": "not_lemma",
+  "ce": "medic",
+  "cu": "медик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "people"
+  ],
+  "note": "Genitive/accusative form of медик."
+ },
+ {
+  "en": "merlin",
+  "uk": "мерлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "morrow",
+  "uk": "морроу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mozart",
+  "uk": "моцарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mutants",
+  "uk": "мутанти",
+  "v": "not_lemma",
+  "ce": "mutant",
+  "cu": "мутант",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "nylon",
+  "uk": "нейлон",
+  "v": "identical",
+  "ce": "nylon",
+  "cu": "нейлон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "clothing"
+  ],
+  "note": "Ukrainian pronounces it 'neylon'."
+ },
+ {
+  "en": "ozone",
+  "uk": "озон",
+  "v": "identical",
+  "ce": "ozone",
+  "cu": "озон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "papua",
+  "uk": "папуа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paranoia",
+  "uk": "параноя",
+  "v": "identical",
+  "ce": "paranoia",
+  "cu": "параноя",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "phosphate",
+  "uk": "фосфат",
+  "v": "identical",
+  "ce": "phosphate",
+  "cu": "фосфат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "prescott",
+  "uk": "прескотт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "proton",
+  "uk": "протон",
+  "v": "identical",
+  "ce": "proton",
+  "cu": "протон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "psyche",
+  "uk": "психея",
+  "v": "similar",
+  "ce": "psyche",
+  "cu": "психея",
+  "note": "ending -я added; психея is mostly poetic or the myth figure Psyche; the mind = психіка"
+ },
+ {
+  "en": "replication",
+  "uk": "реплікація",
+  "v": "similar",
+  "ce": "replication",
+  "cu": "реплікація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "republic of crimea",
+  "uk": "республіка крим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rotor",
+  "uk": "ротор",
+  "v": "identical",
+  "ce": "rotor",
+  "cu": "ротор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "trolley bus",
+  "uk": "тролейбус",
+  "v": "identical",
+  "ce": "trolleybus",
+  "cu": "тролейбус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "Also written trolley bus in English."
+ },
+ {
+  "en": "vega",
+  "uk": "вега",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ver",
+  "uk": "вер",
+  "v": "unrelated"
+ },
+ {
+  "en": "virgil",
+  "uk": "вірджил",
+  "v": "proper_noun"
+ },
+ {
+  "en": "voodoo",
+  "uk": "вуду",
+  "v": "identical",
+  "ce": "voodoo",
+  "cu": "вуду",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "wigan",
+  "uk": "віган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wilder",
+  "uk": "вайлдер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abbas",
+  "uk": "аббас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adultery",
+  "uk": "адюльтер",
+  "v": "similar",
+  "ce": "adultery",
+  "cu": "адюльтер",
+  "note": "no -y ending (from French adultère); bookish, usual word is подружня зрада"
+ },
+ {
+  "en": "aristotle",
+  "uk": "арістотель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "artifact",
+  "uk": "артефакт",
+  "v": "identical",
+  "ce": "artifact",
+  "cu": "артефакт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": "British spelling: artefact."
+ },
+ {
+  "en": "barca",
+  "uk": "барка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beatrice",
+  "uk": "беатріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beethoven",
+  "uk": "бетховен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beethoven",
+  "uk": "бетовен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bouquet",
+  "uk": "букет",
+  "v": "identical",
+  "ce": "bouquet",
+  "cu": "букет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "Ukrainian pronounces the final т. Also a wine's bouquet."
+ },
+ {
+  "en": "boxers",
+  "uk": "боксери",
+  "v": "not_lemma",
+  "ce": "boxer",
+  "cu": "боксер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Plural form; like English boxers, боксери can also mean boxer shorts."
+ },
+ {
+  "en": "browning",
+  "uk": "браунінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conan",
+  "uk": "конан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deco",
+  "uk": "деко",
+  "v": "unrelated"
+ },
+ {
+  "en": "desmond",
+  "uk": "десмонд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "directorate",
+  "uk": "директорія",
+  "v": "false_friend",
+  "ce": "directorate",
+  "cu": "директорія",
+  "note": "директорія = a computer folder or the historical Directory; directorate = директорат"
+ },
+ {
+  "en": "duffy",
+  "uk": "даффі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emmanuel",
+  "uk": "еммануель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fresno",
+  "uk": "фресно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "genie",
+  "uk": "джин",
+  "v": "similar",
+  "ce": "genie",
+  "cu": "джин",
+  "note": "no final -ie sound; джин matches English jinn/djinn, and also means gin"
+ },
+ {
+  "en": "goodwin",
+  "uk": "гудвін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hannibal",
+  "uk": "ганнібал",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hypertension",
+  "uk": "гіпертензії",
+  "v": "not_lemma",
+  "ce": "hypertension",
+  "cu": "гіпертензія",
+  "lv": "similar",
+  "note": "Inflected form of гіпертензія; -sion → -зія."
+ },
+ {
+  "en": "io",
+  "uk": "іо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ipswich",
+  "uk": "іпсвіч",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kyoto",
+  "uk": "кіото",
+  "v": "proper_noun"
+ },
+ {
+  "en": "levin",
+  "uk": "левін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "madeleine",
+  "uk": "мадлен",
+  "v": "identical",
+  "ce": "madeleine",
+  "cu": "мадлен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Usually печиво мадлен; also the name Madeleine."
+ },
+ {
+  "en": "maj",
+  "uk": "май",
+  "v": "unrelated"
+ },
+ {
+  "en": "mandela",
+  "uk": "мандела",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marian",
+  "uk": "маріан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moderator",
+  "uk": "модератор",
+  "v": "identical",
+  "ce": "moderator",
+  "cu": "модератор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "moderator",
+  "uk": "модераторка",
+  "v": "not_lemma",
+  "ce": "moderator",
+  "cu": "модератор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "media"
+  ],
+  "note": "Feminine form (a female moderator)."
+ },
+ {
+  "en": "moran",
+  "uk": "моран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "morphology",
+  "uk": "морфологія",
+  "v": "similar",
+  "ce": "morphology",
+  "cu": "морфологія",
+  "note": "ending -ія instead of -y"
+ },
+ {
+  "en": "natal",
+  "uk": "наталь",
+  "v": "proper_noun"
+ },
+ {
+  "en": "otis",
+  "uk": "отіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paterson",
+  "uk": "патерсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "proactive",
+  "uk": "проактивний",
+  "v": "similar",
+  "ce": "proactive",
+  "cu": "проактивний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "prob",
+  "uk": "проб",
+  "v": "unrelated"
+ },
+ {
+  "en": "projector",
+  "uk": "проєктор",
+  "v": "identical",
+  "ce": "projector",
+  "cu": "проєктор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Older spelling: проектор."
+ },
+ {
+  "en": "revolver",
+  "uk": "револьвер",
+  "v": "identical",
+  "ce": "revolver",
+  "cu": "револьвер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": ""
+ },
+ {
+  "en": "ricardo",
+  "uk": "рікардо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "slovenia",
+  "uk": "словенія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "slovenia",
+  "uk": "словенії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spheres",
+  "uk": "сфер",
+  "v": "not_lemma",
+  "ce": "sphere",
+  "cu": "сфера",
+  "lv": "similar",
+  "note": "Genitive plural of сфера; ending -а."
+ },
+ {
+  "en": "stacey",
+  "uk": "стейсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "starr",
+  "uk": "старр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tobago",
+  "uk": "тобаго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "torah",
+  "uk": "тора",
+  "v": "proper_noun"
+ },
+ {
+  "en": "torso",
+  "uk": "торс",
+  "v": "similar",
+  "ce": "torso",
+  "cu": "торс",
+  "note": "Ukrainian drops the final -o"
+ },
+ {
+  "en": "verbally",
+  "uk": "вербально",
+  "v": "similar",
+  "ce": "verbally",
+  "cu": "вербально",
+  "note": "adverb ending -но"
+ },
+ {
+  "en": "wolfe",
+  "uk": "вулф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zodiac",
+  "uk": "зодіак",
+  "v": "identical",
+  "ce": "zodiac",
+  "cu": "зодіак",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alvarez",
+  "uk": "альварес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alvin",
+  "uk": "елвін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amir",
+  "uk": "амір",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anders",
+  "uk": "андерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "archived",
+  "uk": "архів",
+  "v": "not_lemma",
+  "ce": "archive",
+  "cu": "архів",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "archived is a verb form; the noun archive = архів."
+ },
+ {
+  "en": "arithmetic",
+  "uk": "арифметика",
+  "v": "similar",
+  "ce": "arithmetic",
+  "cu": "арифметика",
+  "note": "ending -ика"
+ },
+ {
+  "en": "arithmetic",
+  "uk": "аритметика",
+  "v": "similar",
+  "ce": "arithmetic",
+  "cu": "арифметика",
+  "note": "variant spelling of арифметика; ending -ика"
+ },
+ {
+  "en": "art deco",
+  "uk": "ар-деко",
+  "v": "identical",
+  "ce": "Art Deco",
+  "cu": "ар-деко",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Also written арт-деко."
+ },
+ {
+  "en": "art deco",
+  "uk": "арт-деко",
+  "v": "identical",
+  "ce": "Art Deco",
+  "cu": "ар-деко",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Variant spelling of ар-деко."
+ },
+ {
+  "en": "astronomers",
+  "uk": "астрономи",
+  "v": "not_lemma",
+  "ce": "astronomer",
+  "cu": "астроном",
+  "lv": "similar",
+  "note": "Plural; Ukrainian астроном has no -er ending."
+ },
+ {
+  "en": "bender",
+  "uk": "бендер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bender",
+  "uk": "бендери",
+  "v": "proper_noun"
+ },
+ {
+  "en": "boi",
+  "uk": "бої",
+  "v": "unrelated"
+ },
+ {
+  "en": "bourgeois",
+  "uk": "буржуа",
+  "v": "identical",
+  "ce": "bourgeois",
+  "cu": "буржуа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics",
+   "people"
+  ],
+  "note": "In Ukrainian a noun (a bourgeois person), indeclinable; the adjective is буржуазний."
+ },
+ {
+  "en": "brunette",
+  "uk": "брюнет",
+  "v": "identical",
+  "ce": "brunette",
+  "cu": "брюнет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "брюнет is a dark-haired man; a dark-haired woman is брюнетка."
+ },
+ {
+  "en": "cactus",
+  "uk": "кактус",
+  "v": "identical",
+  "ce": "cactus",
+  "cu": "кактус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "carlson",
+  "uk": "карлсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cassette",
+  "uk": "касета",
+  "v": "similar",
+  "ce": "cassette",
+  "cu": "касета",
+  "note": "ending -а added"
+ },
+ {
+  "en": "cohort",
+  "uk": "когорта",
+  "v": "similar",
+  "ce": "cohort",
+  "cu": "когорта",
+  "note": "ending -а added"
+ },
+ {
+  "en": "crabs",
+  "uk": "краби",
+  "v": "not_lemma",
+  "ce": "crab",
+  "cu": "краб",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature",
+   "food"
+  ],
+  "note": "Plural form."
+ },
+ {
+  "en": "darius",
+  "uk": "даріус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darius",
+  "uk": "дарій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ellison",
+  "uk": "еллісон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ether",
+  "uk": "етер",
+  "v": "identical",
+  "ce": "ether",
+  "cu": "етер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "Usually spelled ефір; ефір also means 'on air' (broadcast)."
+ },
+ {
+  "en": "etiquette",
+  "uk": "етикет",
+  "v": "identical",
+  "ce": "etiquette",
+  "cu": "етикет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "Not етикетка, which means a label."
+ },
+ {
+  "en": "felipe",
+  "uk": "феліпе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "feng",
+  "uk": "фен",
+  "v": "unrelated"
+ },
+ {
+  "en": "goa",
+  "uk": "гоа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "goa",
+  "uk": "ґоа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "greenwood",
+  "uk": "грінвуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hartley",
+  "uk": "гартлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hoodie",
+  "uk": "худі",
+  "v": "identical",
+  "ce": "hoodie",
+  "cu": "худі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "clothing"
+  ],
+  "note": "Indeclinable in Ukrainian."
+ },
+ {
+  "en": "incorporation",
+  "uk": "інкорпорація",
+  "v": "similar",
+  "ce": "incorporation",
+  "cu": "інкорпорація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "judah",
+  "uk": "юдеї",
+  "v": "proper_noun"
+ }
+]

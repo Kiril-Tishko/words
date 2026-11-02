@@ -1,0 +1,968 @@
+[
+ {
+  "en": "gao",
+  "uk": "гао",
+  "v": "proper_noun"
+ },
+ {
+  "en": "globalization",
+  "uk": "глобалізація",
+  "v": "similar",
+  "ce": "globalization",
+  "cu": "глобалізація",
+  "note": "-ization → -ізація"
+ },
+ {
+  "en": "grail",
+  "uk": "грааль",
+  "v": "similar",
+  "ce": "grail",
+  "cu": "грааль",
+  "note": "from French graal (double а, soft ль); usually Святий Грааль = the Holy Grail"
+ },
+ {
+  "en": "grayson",
+  "uk": "грейсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "harding",
+  "uk": "хардінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ida",
+  "uk": "іда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "illustrator",
+  "uk": "ілюстратор",
+  "v": "identical",
+  "ce": "illustrator",
+  "cu": "ілюстратор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "art",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "initials",
+  "uk": "ініціали",
+  "v": "not_lemma",
+  "ce": "initial",
+  "cu": "ініціал",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": "Plural form; usually used in the plural ініціали. The adjective 'initial' is початковий."
+ },
+ {
+  "en": "kappa",
+  "uk": "каппа",
+  "v": "identical",
+  "ce": "kappa",
+  "cu": "каппа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter Κ, κ."
+ },
+ {
+  "en": "kendrick",
+  "uk": "кендрік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ketchup",
+  "uk": "кетчуп",
+  "v": "identical",
+  "ce": "ketchup",
+  "cu": "кетчуп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "leukemia",
+  "uk": "лейкемія",
+  "v": "identical",
+  "ce": "leukemia",
+  "cu": "лейкемія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "Also called лейкоз. British spelling: leukaemia."
+ },
+ {
+  "en": "levine",
+  "uk": "левін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liter",
+  "uk": "літр",
+  "v": "identical",
+  "ce": "liter",
+  "cu": "літр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": "British spelling: litre"
+ },
+ {
+  "en": "lorraine",
+  "uk": "лорейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lyons",
+  "uk": "лайонс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magnus",
+  "uk": "магнус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marley",
+  "uk": "марлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "masturbation",
+  "uk": "мастурбація",
+  "v": "similar",
+  "ce": "masturbation",
+  "cu": "мастурбація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "mont",
+  "uk": "мон",
+  "v": "unrelated"
+ },
+ {
+  "en": "opium",
+  "uk": "опіум",
+  "v": "identical",
+  "ce": "opium",
+  "cu": "опіум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "peck",
+  "uk": "пек",
+  "v": "unrelated"
+ },
+ {
+  "en": "picasso",
+  "uk": "пікассо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "plank",
+  "uk": "планка",
+  "v": "partial_false_friend",
+  "ce": "plank",
+  "cu": "планка",
+  "note": "планка = a thin strip, slat, crossbar (also the plank exercise, 'raise the bar' = підняти планку); a thick board = дошка"
+ },
+ {
+  "en": "rubio",
+  "uk": "рубіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sandals",
+  "uk": "сандалі",
+  "v": "not_lemma",
+  "ce": "sandal",
+  "cu": "сандаля",
+  "lv": "similar",
+  "note": "Plural form; the Ukrainian singular сандаля adds -я (mostly used in the plural сандалі)."
+ },
+ {
+  "en": "shepard",
+  "uk": "шепард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shi",
+  "uk": "ши",
+  "v": "unrelated"
+ },
+ {
+  "en": "sicily",
+  "uk": "сицилії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "siren",
+  "uk": "сирена",
+  "v": "similar",
+  "ce": "siren",
+  "cu": "сирена",
+  "note": "Ukrainian adds -а; сирена = an alarm siren and the mythological siren"
+ },
+ {
+  "en": "siren",
+  "uk": "сирени",
+  "v": "not_lemma",
+  "ce": "siren",
+  "cu": "сирена",
+  "lv": "similar",
+  "note": "Plural/genitive of сирена; Ukrainian adds -а."
+ },
+ {
+  "en": "slater",
+  "uk": "слейтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "snowy",
+  "uk": "сніговий",
+  "v": "similar",
+  "ce": "snowy",
+  "cu": "сніговий",
+  "note": "native cognate (сніг = snow) with adjective ending -овий; snowy weather = сніжна погода"
+ },
+ {
+  "en": "spectral",
+  "uk": "спектральна",
+  "v": "not_lemma",
+  "ce": "spectral",
+  "cu": "спектральний",
+  "lv": "similar",
+  "note": "Feminine form of спектральний; adjective ending -ний."
+ },
+ {
+  "en": "underwood",
+  "uk": "андервуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vectors",
+  "uk": "векторів",
+  "v": "not_lemma",
+  "ce": "vector",
+  "cu": "вектор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math",
+   "physics"
+  ],
+  "note": "Genitive plural of вектор."
+ },
+ {
+  "en": "vertically",
+  "uk": "вертикально",
+  "v": "similar",
+  "ce": "vertically",
+  "cu": "вертикально",
+  "note": "Ukrainian adverb ending -но instead of -ly"
+ },
+ {
+  "en": "wei",
+  "uk": "вей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "adele",
+  "uk": "адель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alcoholism",
+  "uk": "алкоголізм",
+  "v": "identical",
+  "ce": "alcoholism",
+  "cu": "алкоголізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "atheism",
+  "uk": "атеїзм",
+  "v": "identical",
+  "ce": "atheism",
+  "cu": "атеїзм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "avocado",
+  "uk": "авокадо",
+  "v": "identical",
+  "ce": "avocado",
+  "cu": "авокадо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "biscuit",
+  "uk": "бісквіт",
+  "v": "false_friend",
+  "ce": "biscuit",
+  "cu": "бісквіт",
+  "note": "бісквіт = sponge cake; a biscuit (cookie) = печиво"
+ },
+ {
+  "en": "boon",
+  "uk": "бун",
+  "v": "unrelated"
+ },
+ {
+  "en": "cherokee",
+  "uk": "черокі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "confederation",
+  "uk": "конфедерація",
+  "v": "similar",
+  "ce": "confederation",
+  "cu": "конфедерація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "confidentiality",
+  "uk": "конфіденційність",
+  "v": "similar",
+  "ce": "confidentiality",
+  "cu": "конфіденційність",
+  "note": "-ity → -ність"
+ },
+ {
+  "en": "coronation",
+  "uk": "коронації",
+  "v": "not_lemma",
+  "ce": "coronation",
+  "cu": "коронація",
+  "lv": "similar",
+  "note": "Inflected form of коронація; -tion → -ція."
+ },
+ {
+  "en": "coronation",
+  "uk": "коронація",
+  "v": "similar",
+  "ce": "coronation",
+  "cu": "коронація",
+  "note": "-tion → -ція"
+ },
+ {
+  "en": "cracker",
+  "uk": "крекер",
+  "v": "identical",
+  "ce": "cracker",
+  "cu": "крекер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "Only the dry biscuit; a firecracker or Christmas cracker = хлопавка."
+ },
+ {
+  "en": "crimea",
+  "uk": "крим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cumberland",
+  "uk": "камберленд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diaspora",
+  "uk": "діаспора",
+  "v": "identical",
+  "ce": "diaspora",
+  "cu": "діаспора",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "discord",
+  "uk": "діскорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ernie",
+  "uk": "ерні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "farrell",
+  "uk": "фаррелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gadget",
+  "uk": "гаджет",
+  "v": "identical",
+  "ce": "gadget",
+  "cu": "гаджет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gadget",
+  "uk": "ґаджет",
+  "v": "identical",
+  "ce": "gadget",
+  "cu": "гаджет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "tech"
+  ],
+  "note": "ґаджет is a rare spelling of гаджет."
+ },
+ {
+  "en": "gong",
+  "uk": "гонг",
+  "v": "identical",
+  "ce": "gong",
+  "cu": "гонг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "gong",
+  "uk": "гун",
+  "v": "unrelated"
+ },
+ {
+  "en": "grooming",
+  "uk": "грумінг",
+  "v": "identical",
+  "ce": "grooming",
+  "cu": "грумінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "nature"
+  ],
+  "note": "In Ukrainian mostly pet grooming (washing, haircut); personal grooming = догляд за собою."
+ },
+ {
+  "en": "hamburger",
+  "uk": "гамбургер",
+  "v": "identical",
+  "ce": "hamburger",
+  "cu": "гамбургер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hamburger",
+  "uk": "гамбурґер",
+  "v": "identical",
+  "ce": "hamburger",
+  "cu": "гамбургер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "food"
+  ],
+  "note": "гамбурґер is a rare spelling of гамбургер."
+ },
+ {
+  "en": "indo",
+  "uk": "індо",
+  "v": "unrelated"
+ },
+ {
+  "en": "iss",
+  "uk": "іс",
+  "v": "unrelated"
+ },
+ {
+  "en": "kramer",
+  "uk": "крамер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lieu",
+  "uk": "льє",
+  "v": "unrelated"
+ },
+ {
+  "en": "liquidity",
+  "uk": "ліквідності",
+  "v": "not_lemma",
+  "ce": "liquidity",
+  "cu": "ліквідність",
+  "lv": "similar",
+  "note": "Inflected form of ліквідність; -ity → -ність."
+ },
+ {
+  "en": "loch",
+  "uk": "лох",
+  "v": "unrelated"
+ },
+ {
+  "en": "lotion",
+  "uk": "лосьйон",
+  "v": "similar",
+  "ce": "lotion",
+  "cu": "лосьйон",
+  "note": "from French lotion: -tion → -сьйон"
+ },
+ {
+  "en": "manipulating",
+  "uk": "маніпулювати",
+  "v": "not_lemma",
+  "ce": "manipulate",
+  "cu": "маніпулювати",
+  "lv": "similar",
+  "note": "Ukrainian verb ending -ювати."
+ },
+ {
+  "en": "mara",
+  "uk": "мара",
+  "v": "identical",
+  "ce": "mara",
+  "cu": "мара",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "other"
+  ],
+  "note": "English mara is a rare word from Germanic folklore (cf. nightmare); Ukrainian мара = ghost, phantom, also a vague vision."
+ },
+ {
+  "en": "marquis",
+  "uk": "маркіз",
+  "v": "similar",
+  "ce": "marquis",
+  "cu": "маркіз",
+  "note": "Ukrainian ends in -з (from German/Polish); British also marquess"
+ },
+ {
+  "en": "niger",
+  "uk": "нігер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "niger",
+  "uk": "ніґер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nra",
+  "uk": "нра",
+  "v": "unrelated"
+ },
+ {
+  "en": "pasadena",
+  "uk": "пасадена",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pearce",
+  "uk": "пірс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "psi",
+  "uk": "псі",
+  "v": "identical",
+  "ce": "psi",
+  "cu": "псі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "The Greek letter Ψ, ψ."
+ },
+ {
+  "en": "regent",
+  "uk": "регент",
+  "v": "identical",
+  "ce": "regent",
+  "cu": "регент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Ukrainian регент also = a church choir conductor."
+ },
+ {
+  "en": "rio de janeiro",
+  "uk": "ріо-де-жанейро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saskatchewan",
+  "uk": "саскачеван",
+  "v": "proper_noun"
+ },
+ {
+  "en": "scarlett",
+  "uk": "скарлетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "secretariat",
+  "uk": "секретаріат",
+  "v": "identical",
+  "ce": "secretariat",
+  "cu": "секретаріат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stature",
+  "uk": "статури",
+  "v": "not_lemma",
+  "ce": "stature",
+  "cu": "статура",
+  "lv": "partial_false_friend",
+  "note": "Inflected form of статура = body build, physique (невеликої статури = of small stature); height = зріст, reputation = авторитет."
+ },
+ {
+  "en": "steward",
+  "uk": "стюард",
+  "v": "identical",
+  "ce": "steward",
+  "cu": "стюард",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "travel",
+   "people"
+  ],
+  "note": "In Ukrainian mostly a flight or ship attendant (also a stadium steward); an estate manager = управитель."
+ },
+ {
+  "en": "synagogue",
+  "uk": "синагога",
+  "v": "similar",
+  "ce": "synagogue",
+  "cu": "синагога",
+  "note": "Ukrainian ends in -а"
+ },
+ {
+  "en": "wah",
+  "uk": "ва",
+  "v": "unrelated"
+ },
+ {
+  "en": "wally",
+  "uk": "воллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "walters",
+  "uk": "волтерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anti-semitism",
+  "uk": "антисемітизм",
+  "v": "identical",
+  "ce": "antisemitism",
+  "cu": "антисемітизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Written as one word in Ukrainian."
+ },
+ {
+  "en": "asa",
+  "uk": "аса",
+  "v": "unrelated"
+ },
+ {
+  "en": "atomic orbital",
+  "uk": "атомна орбіталь",
+  "v": "similar",
+  "ce": "atomic orbital",
+  "cu": "атомна орбіталь",
+  "note": "Ukrainian adjective атомна (-на ending)"
+ },
+ {
+  "en": "cafeteria",
+  "uk": "кафетерій",
+  "v": "similar",
+  "ce": "cafeteria",
+  "cu": "кафетерій",
+  "note": "ending -ій; кафетерій = a small café or snack bar; a school/work cafeteria = їдальня"
+ },
+ {
+  "en": "canary",
+  "uk": "канарські",
+  "v": "proper_noun"
+ },
+ {
+  "en": "carla",
+  "uk": "карла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ceramics",
+  "uk": "кераміка",
+  "v": "similar",
+  "ce": "ceramics",
+  "cu": "кераміка",
+  "note": "Ukrainian ending -іка"
+ },
+ {
+  "en": "dani",
+  "uk": "дані",
+  "v": "unrelated"
+ },
+ {
+  "en": "dani",
+  "uk": "дені",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dewey",
+  "uk": "дьюї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "downing",
+  "uk": "даунінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "formulas",
+  "uk": "формули",
+  "v": "not_lemma",
+  "ce": "formula",
+  "cu": "формула",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math",
+   "chemistry"
+  ],
+  "note": "Plural of формула."
+ },
+ {
+  "en": "freddy",
+  "uk": "фредді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gould",
+  "uk": "гулд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gran",
+  "uk": "гран",
+  "v": "unrelated"
+ },
+ {
+  "en": "heidi",
+  "uk": "гайді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "latvia",
+  "uk": "латвія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "latvia",
+  "uk": "латвії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "laurence",
+  "uk": "лоренс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lemonade",
+  "uk": "лимонад",
+  "v": "identical",
+  "ce": "lemonade",
+  "cu": "лимонад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "In Ukraine лимонад is any sweet fizzy soft drink, not only a lemon drink."
+ },
+ {
+  "en": "lenin",
+  "uk": "ленін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lenin",
+  "uk": "леніна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lowell",
+  "uk": "ловелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mania",
+  "uk": "манія",
+  "v": "identical",
+  "ce": "mania",
+  "cu": "манія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "menus",
+  "uk": "меню",
+  "v": "not_lemma",
+  "ce": "menu",
+  "cu": "меню",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "меню does not change for plural; also a computer menu."
+ },
+ {
+  "en": "mule",
+  "uk": "мул",
+  "v": "identical",
+  "ce": "mule",
+  "cu": "мул",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "мул also means silt, mud (a different word)."
+ },
+ {
+  "en": "neutron",
+  "uk": "нейтронна",
+  "v": "not_lemma",
+  "ce": "neutron",
+  "cu": "нейтронний",
+  "lv": "similar",
+  "note": "Feminine adjective (нейтронна бомба = neutron bomb); adjective ending -ний."
+ },
+ {
+  "en": "neutron",
+  "uk": "нейтрон",
+  "v": "identical",
+  "ce": "neutron",
+  "cu": "нейтрон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "nicaragua",
+  "uk": "нікарагуа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nicholson",
+  "uk": "ніколсон",
+  "v": "proper_noun"
+ }
+]

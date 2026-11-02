@@ -1,0 +1,969 @@
+[
+ {
+  "en": "kabul",
+  "uk": "кабул",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kelley",
+  "uk": "келлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kimberly",
+  "uk": "кімберлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lacrosse",
+  "uk": "лакрос",
+  "v": "identical",
+  "ce": "lacrosse",
+  "cu": "лакрос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "lars",
+  "uk": "ларс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "legalization",
+  "uk": "легалізація",
+  "v": "similar",
+  "ce": "legalization",
+  "cu": "легалізація",
+  "note": "-ation → -ація"
+ },
+ {
+  "en": "libertarian socialism",
+  "uk": "лібертарний соціалізм",
+  "v": "similar",
+  "ce": "libertarian socialism",
+  "cu": "лібертарний соціалізм",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "lori",
+  "uk": "лорі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "malibu",
+  "uk": "малібу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mammoth",
+  "uk": "мамут",
+  "v": "similar",
+  "ce": "mammoth",
+  "cu": "мамут",
+  "note": "o → у; standard Ukrainian word is мамонт, мамут is a rare variant"
+ },
+ {
+  "en": "mammoth",
+  "uk": "мамонт",
+  "v": "similar",
+  "ce": "mammoth",
+  "cu": "мамонт",
+  "note": "Ukrainian has an extra н"
+ },
+ {
+  "en": "mammoth",
+  "uk": "мамонта",
+  "v": "not_lemma",
+  "ce": "mammoth",
+  "cu": "мамонт",
+  "lv": "similar",
+  "note": "genitive of мамонт"
+ },
+ {
+  "en": "merkel",
+  "uk": "меркель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "modem",
+  "uk": "модем",
+  "v": "identical",
+  "ce": "modem",
+  "cu": "модем",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "motif",
+  "uk": "мотив",
+  "v": "similar",
+  "ce": "motif",
+  "cu": "мотив",
+  "note": "f → в; мотив also means motive (reason) and tune"
+ },
+ {
+  "en": "pak",
+  "uk": "пак",
+  "v": "unrelated"
+ },
+ {
+  "en": "paolo",
+  "uk": "паоло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patton",
+  "uk": "паттон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pepe",
+  "uk": "пепе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "polly",
+  "uk": "поллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "professionalism",
+  "uk": "професіоналізм",
+  "v": "identical",
+  "ce": "professionalism",
+  "cu": "професіоналізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "retina",
+  "uk": "ретина",
+  "v": "identical",
+  "ce": "retina",
+  "cu": "ретина",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": "the everyday Ukrainian word is сітківка"
+ },
+ {
+  "en": "rosen",
+  "uk": "розен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rossi",
+  "uk": "россі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sahara",
+  "uk": "сахара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "silicone",
+  "uk": "силікон",
+  "v": "identical",
+  "ce": "silicone",
+  "cu": "силікон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "not silicon (the element), which is кремній"
+ },
+ {
+  "en": "skepticism",
+  "uk": "скептицизм",
+  "v": "identical",
+  "ce": "skepticism",
+  "cu": "скептицизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "slovakia",
+  "uk": "словаччина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stylist",
+  "uk": "стиліст",
+  "v": "identical",
+  "ce": "stylist",
+  "cu": "стиліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "superheroes",
+  "uk": "супергероїв",
+  "v": "not_lemma",
+  "ce": "superhero",
+  "cu": "супергерой",
+  "lv": "similar",
+  "note": "Ukrainian adds -й"
+ },
+ {
+  "en": "tenor",
+  "uk": "тенор",
+  "v": "identical",
+  "ce": "tenor",
+  "cu": "тенор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "vid",
+  "uk": "від",
+  "v": "unrelated"
+ },
+ {
+  "en": "vocalist",
+  "uk": "вокаліст",
+  "v": "identical",
+  "ce": "vocalist",
+  "cu": "вокаліст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "zebra",
+  "uk": "зебра",
+  "v": "identical",
+  "ce": "zebra",
+  "cu": "зебра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "abrams",
+  "uk": "абрамс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "air conditioner",
+  "uk": "кондиціонер",
+  "v": "similar",
+  "ce": "air conditioner",
+  "cu": "кондиціонер",
+  "note": "Ukrainian drops 'air'"
+ },
+ {
+  "en": "albion",
+  "uk": "альбіон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anesthesia",
+  "uk": "анестезія",
+  "v": "identical",
+  "ce": "anesthesia",
+  "cu": "анестезія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anonymity",
+  "uk": "анонімність",
+  "v": "similar",
+  "ce": "anonymity",
+  "cu": "анонімність",
+  "note": "-ity → -ність"
+ },
+ {
+  "en": "antoine",
+  "uk": "антуан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aria",
+  "uk": "арія",
+  "v": "identical",
+  "ce": "aria",
+  "cu": "арія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bandits",
+  "uk": "бандити",
+  "v": "not_lemma",
+  "ce": "bandit",
+  "cu": "бандит",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "law"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "bartlett",
+  "uk": "бартлетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blackpool",
+  "uk": "блекпул",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bournemouth",
+  "uk": "борнмут",
+  "v": "proper_noun"
+ },
+ {
+  "en": "britney",
+  "uk": "брітні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burnley",
+  "uk": "бернлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chloride",
+  "uk": "хлорид",
+  "v": "identical",
+  "ce": "chloride",
+  "cu": "хлорид",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "coca-cola",
+  "uk": "кока-кола",
+  "v": "proper_noun"
+ },
+ {
+  "en": "coefficient",
+  "uk": "коефіцієнт",
+  "v": "identical",
+  "ce": "coefficient",
+  "cu": "коефіцієнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "conglomerate",
+  "uk": "конгломерат",
+  "v": "identical",
+  "ce": "conglomerate",
+  "cu": "конгломерат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "correctness",
+  "uk": "коректність",
+  "v": "similar",
+  "ce": "correctness",
+  "cu": "коректність",
+  "note": "-ness → -ність; коректність also means tactfulness"
+ },
+ {
+  "en": "damian",
+  "uk": "дам'ян",
+  "v": "proper_noun"
+ },
+ {
+  "en": "damian",
+  "uk": "даміан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deacon",
+  "uk": "диякон",
+  "v": "similar",
+  "ce": "deacon",
+  "cu": "диякон",
+  "note": "vowels differ (from Greek diakonos)"
+ },
+ {
+  "en": "dino",
+  "uk": "діно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "disks",
+  "uk": "диски",
+  "v": "not_lemma",
+  "ce": "disk",
+  "cu": "диск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "dortmund",
+  "uk": "дортмунд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elton",
+  "uk": "елтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epstein",
+  "uk": "епштейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epstein",
+  "uk": "епстін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epstein",
+  "uk": "епстайн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epstein",
+  "uk": "епстейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epstein",
+  "uk": "епштайн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "espresso",
+  "uk": "еспресо",
+  "v": "identical",
+  "ce": "espresso",
+  "cu": "еспресо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hanoi",
+  "uk": "ханой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hayley",
+  "uk": "гейлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "heterosexual",
+  "uk": "гетеросексуальний",
+  "v": "similar",
+  "ce": "heterosexual",
+  "cu": "гетеросексуальний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "hobbit",
+  "uk": "гобіт",
+  "v": "identical",
+  "ce": "hobbit",
+  "cu": "гобіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "creature from Tolkien's books; also spelled хоббіт"
+ },
+ {
+  "en": "hobbit",
+  "uk": "хоббіт",
+  "v": "identical",
+  "ce": "hobbit",
+  "cu": "гобіт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "creature from Tolkien's books; also spelled хоббіт"
+ },
+ {
+  "en": "hospice",
+  "uk": "госпіс",
+  "v": "identical",
+  "ce": "hospice",
+  "cu": "хоспіс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "medicine",
+   "places"
+  ],
+  "note": "usually spelled хоспіс"
+ },
+ {
+  "en": "huang",
+  "uk": "хуан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "islamist",
+  "uk": "ісламіст",
+  "v": "identical",
+  "ce": "Islamist",
+  "cu": "ісламіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kremlin",
+  "uk": "кремль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liv",
+  "uk": "лів",
+  "v": "proper_noun"
+ },
+ {
+  "en": "madagascar",
+  "uk": "мадагаскар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maxim",
+  "uk": "максим",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maxim",
+  "uk": "максім",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mei",
+  "uk": "мей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "melancholy",
+  "uk": "меланхолії",
+  "v": "not_lemma",
+  "ce": "melancholy",
+  "cu": "меланхолія",
+  "lv": "similar",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "melancholy",
+  "uk": "меланхолія",
+  "v": "similar",
+  "ce": "melancholy",
+  "cu": "меланхолія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "meteorological",
+  "uk": "метеорологія",
+  "v": "not_lemma",
+  "ce": "meteorology",
+  "cu": "метеорологія",
+  "lv": "similar",
+  "note": "English is the adjective; -y → -ія"
+ },
+ {
+  "en": "milf",
+  "uk": "мілфа",
+  "v": "similar",
+  "ce": "MILF",
+  "cu": "мілфа",
+  "note": "Ukrainian slang adds -а"
+ },
+ {
+  "en": "misty",
+  "uk": "імлистий",
+  "v": "unrelated"
+ },
+ {
+  "en": "mop",
+  "uk": "моп",
+  "v": "identical",
+  "ce": "mop",
+  "cu": "моп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "home"
+  ],
+  "note": "the everyday Ukrainian word is швабра; моп is used mostly for mop heads in shops"
+ },
+ {
+  "en": "multicultural",
+  "uk": "мультикультурний",
+  "v": "similar",
+  "ce": "multicultural",
+  "cu": "мультикультурний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "oceanic",
+  "uk": "океанський",
+  "v": "similar",
+  "ce": "oceanic",
+  "cu": "океанський",
+  "note": "-ic → -ський"
+ },
+ {
+  "en": "oxidation",
+  "uk": "оксидація",
+  "v": "similar",
+  "ce": "oxidation",
+  "cu": "оксидація",
+  "note": "-ation → -ація; more common Ukrainian word is окиснення"
+ },
+ {
+  "en": "panorama",
+  "uk": "панорама",
+  "v": "identical",
+  "ce": "panorama",
+  "cu": "панорама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "panorama",
+  "uk": "панорами",
+  "v": "not_lemma",
+  "ce": "panorama",
+  "cu": "панорама",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "",
+  "lv": "identical"
+ },
+ {
+  "en": "pascal",
+  "uk": "паскаль",
+  "v": "identical",
+  "ce": "pascal",
+  "cu": "паскаль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "units",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "raphael",
+  "uk": "рафаель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roi",
+  "uk": "руа",
+  "v": "unrelated"
+ },
+ {
+  "en": "samoa",
+  "uk": "самоа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "samson",
+  "uk": "самсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "satin",
+  "uk": "сатин",
+  "v": "partial_false_friend",
+  "ce": "satin",
+  "cu": "сатин",
+  "note": "сатин is usually cotton sateen; glossy silk satin is атлас"
+ },
+ {
+  "en": "semantics",
+  "uk": "семантика",
+  "v": "similar",
+  "ce": "semantics",
+  "cu": "семантика",
+  "note": "-ics → -ика"
+ },
+ {
+  "en": "sharif",
+  "uk": "шариф",
+  "v": "identical",
+  "ce": "sharif",
+  "cu": "шариф",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion"
+  ],
+  "note": "Arabic title for descendants of the Prophet"
+ },
+ {
+  "en": "skeletal",
+  "uk": "скелетна",
+  "v": "not_lemma",
+  "ce": "skeletal",
+  "cu": "скелетний",
+  "lv": "similar",
+  "note": "feminine form; Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "stacy",
+  "uk": "стейсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "twain",
+  "uk": "твен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "utopia",
+  "uk": "утопія",
+  "v": "identical",
+  "ce": "utopia",
+  "cu": "утопія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "whitman",
+  "uk": "вітмен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abigail",
+  "uk": "ебігейл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acronym",
+  "uk": "акронім",
+  "v": "identical",
+  "ce": "acronym",
+  "cu": "акронім",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "language"
+  ],
+  "note": ""
+ },
+ {
+  "en": "anglo-saxon",
+  "uk": "англосакс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antony",
+  "uk": "антоній",
+  "v": "proper_noun"
+ },
+ {
+  "en": "antony",
+  "uk": "ентоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "astrology",
+  "uk": "астрологія",
+  "v": "similar",
+  "ce": "astrology",
+  "cu": "астрологія",
+  "note": "-y → -ія"
+ },
+ {
+  "en": "barrow",
+  "uk": "барроу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biomass",
+  "uk": "біомаса",
+  "v": "similar",
+  "ce": "biomass",
+  "cu": "біомаса",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "blanche",
+  "uk": "бланш",
+  "v": "proper_noun"
+ },
+ {
+  "en": "botany",
+  "uk": "ботаніка",
+  "v": "similar",
+  "ce": "botany",
+  "cu": "ботаніка",
+  "note": "-y → -іка"
+ },
+ {
+  "en": "bras",
+  "uk": "бра",
+  "v": "not_lemma",
+  "ce": "bra",
+  "cu": "бра",
+  "lv": "false_friend",
+  "note": "бра is a wall lamp (sconce); bra is бюстгальтер"
+ },
+ {
+  "en": "bulldog",
+  "uk": "бульдог",
+  "v": "identical",
+  "ce": "bulldog",
+  "cu": "бульдог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cleric",
+  "uk": "клірик",
+  "v": "identical",
+  "ce": "cleric",
+  "cu": "клірик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "colbert",
+  "uk": "кольбер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "compressor",
+  "uk": "компресор",
+  "v": "identical",
+  "ce": "compressor",
+  "cu": "компресор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "compton",
+  "uk": "комптон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "constantinople",
+  "uk": "константинополь",
+  "v": "proper_noun"
+ }
+]

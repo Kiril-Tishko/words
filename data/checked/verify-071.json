@@ -1,0 +1,906 @@
+[
+ {
+  "en": "amulet",
+  "uk": "амулет",
+  "v": "identical",
+  "ce": "amulet",
+  "cu": "амулет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "apoptosis",
+  "uk": "апоптоз",
+  "v": "similar",
+  "ce": "apoptosis",
+  "cu": "апоптоз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "aristocrat",
+  "uk": "аристократ",
+  "v": "identical",
+  "ce": "aristocrat",
+  "cu": "аристократ",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "aristocrat",
+  "uk": "аристократка",
+  "v": "not_lemma",
+  "ce": "aristocrat",
+  "cu": "аристократ",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "politics"
+  ],
+  "note": "аристократка = female aristocrat"
+ },
+ {
+  "en": "astrid",
+  "uk": "астрід",
+  "v": "proper_noun"
+ },
+ {
+  "en": "astrophysics",
+  "uk": "астрофізика",
+  "v": "similar",
+  "ce": "astrophysics",
+  "cu": "астрофізика",
+  "note": "-ics becomes -ика"
+ },
+ {
+  "en": "atta",
+  "uk": "атта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baku",
+  "uk": "баку",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bancroft",
+  "uk": "бенкрофт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beit",
+  "uk": "бейт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bibi",
+  "uk": "бібі",
+  "v": "unrelated"
+ },
+ {
+  "en": "biometric",
+  "uk": "біометричний",
+  "v": "similar",
+  "ce": "biometric",
+  "cu": "біометричний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "blanca",
+  "uk": "бланка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "borden",
+  "uk": "борден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bremen",
+  "uk": "бремен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caitlyn",
+  "uk": "кейтлін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cascades",
+  "uk": "каскад",
+  "v": "not_lemma",
+  "ce": "cascade",
+  "cu": "каскад",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "clermont",
+  "uk": "клермон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cognitive dissonance",
+  "uk": "когнітивний дисонанс",
+  "v": "similar",
+  "ce": "cognitive dissonance",
+  "cu": "когнітивний дисонанс",
+  "note": "adjective ending -ний added"
+ },
+ {
+  "en": "confiscation",
+  "uk": "конфіскація",
+  "v": "similar",
+  "ce": "confiscation",
+  "cu": "конфіскація",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "custer",
+  "uk": "кастер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dara",
+  "uk": "дара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dielectric",
+  "uk": "діелектрики",
+  "v": "not_lemma",
+  "ce": "dielectric",
+  "cu": "діелектрик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "physics"
+  ],
+  "note": "діелектрики is the plural; the adjective is діелектричний"
+ },
+ {
+  "en": "dojo",
+  "uk": "доджьо",
+  "v": "identical",
+  "ce": "dojo",
+  "cu": "доджо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Official spelling is додзьо; доджо is common in martial-arts use"
+ },
+ {
+  "en": "druid",
+  "uk": "друїди",
+  "v": "not_lemma",
+  "ce": "druid",
+  "cu": "друїд",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dud",
+  "uk": "дод",
+  "v": "unrelated"
+ },
+ {
+  "en": "emblems",
+  "uk": "емблеми",
+  "v": "not_lemma",
+  "ce": "emblem",
+  "cu": "емблема",
+  "lv": "similar",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "erich",
+  "uk": "еріх",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fontaine",
+  "uk": "фонтен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "garnett",
+  "uk": "гарнетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grafton",
+  "uk": "графтон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gravitational singularity",
+  "uk": "гравітаційна сингулярність",
+  "v": "similar",
+  "ce": "gravitational singularity",
+  "cu": "гравітаційна сингулярність",
+  "note": "adjective ending -на and suffix -ність"
+ },
+ {
+  "en": "greco",
+  "uk": "греко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gunther",
+  "uk": "гантер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gurus",
+  "uk": "ґуру",
+  "v": "not_lemma",
+  "ce": "guru",
+  "cu": "гуру",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people",
+   "religion"
+  ],
+  "note": "also spelled ґуру"
+ },
+ {
+  "en": "gustavo",
+  "uk": "густаво",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hadith",
+  "uk": "хадис",
+  "v": "similar",
+  "ce": "hadith",
+  "cu": "хадис",
+  "note": "final th becomes с"
+ },
+ {
+  "en": "hippocampus",
+  "uk": "гіпокамп",
+  "v": "similar",
+  "ce": "hippocampus",
+  "cu": "гіпокамп",
+  "note": "Ukrainian drops the ending -us"
+ },
+ {
+  "en": "hoon",
+  "uk": "хун",
+  "v": "unrelated"
+ },
+ {
+  "en": "humanism",
+  "uk": "гуманізм",
+  "v": "identical",
+  "ce": "humanism",
+  "cu": "гуманізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "janine",
+  "uk": "джанін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jekyll",
+  "uk": "джекіл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "joni",
+  "uk": "джоні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "khartoum",
+  "uk": "хартум",
+  "v": "proper_noun"
+ },
+ {
+  "en": "largo",
+  "uk": "ларго",
+  "v": "identical",
+  "ce": "largo",
+  "cu": "ларго",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "music"
+  ],
+  "note": "indeclinable in Ukrainian"
+ },
+ {
+  "en": "lira",
+  "uk": "ліра",
+  "v": "identical",
+  "ce": "lira",
+  "cu": "ліра",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "ліра also means lyre (the instrument)"
+ },
+ {
+  "en": "lotte",
+  "uk": "лотте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manicure",
+  "uk": "манікюр",
+  "v": "identical",
+  "ce": "manicure",
+  "cu": "манікюр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "menzies",
+  "uk": "мензіс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "millar",
+  "uk": "міллар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "minerva",
+  "uk": "мінерва",
+  "v": "proper_noun"
+ },
+ {
+  "en": "molar",
+  "uk": "моляр",
+  "v": "identical",
+  "ce": "molar",
+  "cu": "моляр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": "Everyday Ukrainian says кутній зуб; the adjective molar = молярний"
+ },
+ {
+  "en": "montrose",
+  "uk": "монтроз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mosley",
+  "uk": "мозлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "neolithic",
+  "uk": "неоліт",
+  "v": "similar",
+  "ce": "Neolithic",
+  "cu": "неоліт",
+  "note": "неоліт is the noun (the period); the adjective is неолітичний"
+ },
+ {
+  "en": "normalization",
+  "uk": "нормалізація",
+  "v": "similar",
+  "ce": "normalization",
+  "cu": "нормалізація",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "oahu",
+  "uk": "оаху",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oceania",
+  "uk": "океанія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oceania",
+  "uk": "океанії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ola",
+  "uk": "ола",
+  "v": "proper_noun"
+ },
+ {
+  "en": "onyx",
+  "uk": "онікс",
+  "v": "identical",
+  "ce": "onyx",
+  "cu": "онікс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "osteoporosis",
+  "uk": "остеопороз",
+  "v": "similar",
+  "ce": "osteoporosis",
+  "cu": "остеопороз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "othello",
+  "uk": "отелло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paco",
+  "uk": "пако",
+  "v": "proper_noun"
+ },
+ {
+  "en": "palazzo",
+  "uk": "палаццо",
+  "v": "identical",
+  "ce": "palazzo",
+  "cu": "палаццо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "places",
+   "art"
+  ],
+  "note": "indeclinable in Ukrainian"
+ },
+ {
+  "en": "peri",
+  "uk": "пері",
+  "v": "identical",
+  "ce": "peri",
+  "cu": "пері",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "literary",
+   "other"
+  ],
+  "note": "a fairy of Persian mythology"
+ },
+ {
+  "en": "phuket",
+  "uk": "пхукет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rani",
+  "uk": "рані",
+  "v": "identical",
+  "ce": "rani",
+  "cu": "рані",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people"
+  ],
+  "note": "Indian queen or princess; рані is also a form of рана (wound)"
+ },
+ {
+  "en": "ritter",
+  "uk": "ріттер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ronny",
+  "uk": "ронні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sedative",
+  "uk": "седативний",
+  "v": "similar",
+  "ce": "sedative",
+  "cu": "седативний",
+  "note": "Ukrainian adjective ending -ний; the noun is седативний засіб"
+ },
+ {
+  "en": "sher",
+  "uk": "шер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sil",
+  "uk": "сіль",
+  "v": "unrelated"
+ },
+ {
+  "en": "sportsmen",
+  "uk": "спортсмени",
+  "v": "not_lemma",
+  "ce": "sportsman",
+  "cu": "спортсмен",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stasis",
+  "uk": "стаз",
+  "v": "similar",
+  "ce": "stasis",
+  "cu": "стаз",
+  "note": "Ukrainian drops the ending -is; medical term"
+ },
+ {
+  "en": "teri",
+  "uk": "тері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "utrecht",
+  "uk": "утрехт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vert",
+  "uk": "верт",
+  "v": "unrelated"
+ },
+ {
+  "en": "vert",
+  "uk": "вер",
+  "v": "unrelated"
+ },
+ {
+  "en": "whig",
+  "uk": "віг",
+  "v": "identical",
+  "ce": "Whig",
+  "cu": "віг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": "historical British or American party member; usually plural віги"
+ },
+ {
+  "en": "ade",
+  "uk": "аде",
+  "v": "unrelated"
+ },
+ {
+  "en": "alonzo",
+  "uk": "алонзо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amplitude modulation",
+  "uk": "амплітудна модуляція",
+  "v": "similar",
+  "ce": "amplitude modulation",
+  "cu": "амплітудна модуляція",
+  "note": "adjective ending -на; -tion becomes -ція"
+ },
+ {
+  "en": "arbiter",
+  "uk": "арбітр",
+  "v": "identical",
+  "ce": "arbiter",
+  "cu": "арбітр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "law",
+   "sport"
+  ],
+  "note": "In Ukrainian арбітр is also a sports referee"
+ },
+ {
+  "en": "archangel",
+  "uk": "архангел",
+  "v": "identical",
+  "ce": "archangel",
+  "cu": "архангел",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "armand",
+  "uk": "арман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "babu",
+  "uk": "бабу",
+  "v": "unrelated"
+ },
+ {
+  "en": "baptiste",
+  "uk": "батист",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baptiste",
+  "uk": "батіст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "baritone",
+  "uk": "баритон",
+  "v": "identical",
+  "ce": "baritone",
+  "cu": "баритон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "brice",
+  "uk": "брис",
+  "v": "proper_noun"
+ },
+ {
+  "en": "britton",
+  "uk": "бріттон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "calculators",
+  "uk": "калькуляторів",
+  "v": "not_lemma",
+  "ce": "calculator",
+  "cu": "калькулятор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "tech",
+   "math"
+  ],
+  "note": ""
+ },
+ {
+  "en": "carmelo",
+  "uk": "кармело",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clarissa",
+  "uk": "кларисса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cobain",
+  "uk": "кобейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "collie",
+  "uk": "колі",
+  "v": "identical",
+  "ce": "collie",
+  "cu": "колі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "also spelled коллі; indeclinable"
+ },
+ {
+  "en": "conroy",
+  "uk": "конрой",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cosmology",
+  "uk": "космологія",
+  "v": "similar",
+  "ce": "cosmology",
+  "cu": "космологія",
+  "note": "-y becomes -ія"
+ },
+ {
+  "en": "cranston",
+  "uk": "кренстон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dakar",
+  "uk": "дакар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "esteban",
+  "uk": "естебан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "federalism",
+  "uk": "федералізм",
+  "v": "identical",
+  "ce": "federalism",
+  "cu": "федералізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "fonda",
+  "uk": "фонда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "frick",
+  "uk": "фрік",
+  "v": "unrelated"
+ },
+ {
+  "en": "gallipoli",
+  "uk": "галліполі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gallipoli",
+  "uk": "ґалліполі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "golden retriever",
+  "uk": "голден ретривер",
+  "v": "identical",
+  "ce": "golden retriever",
+  "cu": "голден-ретривер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "also called золотистий ретривер"
+ },
+ {
+  "en": "gonzaga",
+  "uk": "гонзага",
+  "v": "proper_noun"
+ },
+ {
+  "en": "groot",
+  "uk": "грот",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hypothermia",
+  "uk": "гіпотермія",
+  "v": "identical",
+  "ce": "hypothermia",
+  "cu": "гіпотермія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "introspection",
+  "uk": "інтроспекція",
+  "v": "similar",
+  "ce": "introspection",
+  "cu": "інтроспекція",
+  "note": "-tion becomes -ція"
+ },
+ {
+  "en": "jaffa",
+  "uk": "яффа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jamestown",
+  "uk": "джеймстаун",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jeffries",
+  "uk": "джеффріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kari",
+  "uk": "карі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "khrushchev",
+  "uk": "хрущов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lala",
+  "uk": "ляля",
+  "v": "unrelated"
+ },
+ {
+  "en": "lancelot",
+  "uk": "ланселот",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leblanc",
+  "uk": "леблан",
+  "v": "proper_noun"
+ }
+]
