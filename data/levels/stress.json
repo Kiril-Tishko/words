@@ -23,6 +23,10 @@
 0,
 1
 ],
+"easy": [
+0,
+2
+],
 "president": [
 2,
 3
@@ -35,19 +39,15 @@
 4,
 5
 ],
+"crazy": [
+2,
+3
+],
 "student": [
 2,
 3
 ],
-"officer": [
-0,
-1
-],
 "party": [
-1,
-2
-],
-"lady": [
 1,
 2
 ],
@@ -55,33 +55,25 @@
 1,
 2
 ],
-"secret": [
+"season": [
 1,
-2
+3
 ],
 "photo": [
 2,
 3
 ],
-"season": [
-1,
-3
-],
-"director": [
+"hotel": [
 3,
 4
 ],
-"hotel": [
-3,
+"trouble": [
+2,
 4
 ],
 "control": [
 5,
 6
-],
-"message": [
-1,
-2
 ],
 "camera": [
 1,
@@ -91,10 +83,6 @@
 1,
 3
 ],
-"service": [
-1,
-2
-],
 "agent": [
 0,
 1
@@ -103,29 +91,45 @@
 4,
 5
 ],
-"dollar": [
+"message": [
 1,
 2
 ],
-"project": [
-2,
-3
-],
-"process": [
-2,
-3
+"dollar": [
+1,
+2
 ],
 "effect": [
 3,
 4
 ],
+"partner": [
+1,
+2
+],
+"model": [
+1,
+2
+],
+"process": [
+2,
+3
+],
+"center": [
+1,
+2
+],
+"secret": [
+1,
+2
+],
 "professor": [
 4,
 5
 ],
-"offer": [
-0,
-1
+"service": [
+1,
+2
 ],
 "detail": [
 3,
@@ -135,27 +139,23 @@
 1,
 2
 ],
-"partner": [
-1,
-2
+"project": [
+2,
+3
+],
+"director": [
+3,
+4
 ],
 "product": [
 2,
 3
 ],
-"surprise": [
-5,
-6
+"forever": [
+3,
+4
 ],
 "minister": [
-1,
-2
-],
-"football": [
-1,
-3
-],
-"model": [
 1,
 2
 ],
@@ -167,29 +167,25 @@
 1,
 3
 ],
-"training": [
-2,
-4
-],
 "contract": [
 1,
 2
 ],
-"activity": [
-3,
-4
-],
-"interview": [
+"officer": [
 0,
 1
+],
+"contact": [
+1,
+2
 ],
 "boyfriend": [
 1,
 3
 ],
-"center": [
-1,
-2
+"online": [
+0,
+1
 ],
 "goodbye": [
 5,
@@ -199,17 +195,21 @@
 0,
 1
 ],
-"crazy": [
-2,
-3
-],
-"contact": [
-1,
-2
-],
 "comment": [
 1,
 2
+],
+"angel": [
+0,
+1
+],
+"respect": [
+4,
+5
+],
+"request": [
+3,
+5
 ],
 "actor": [
 0,
@@ -223,11 +223,11 @@
 1,
 2
 ],
-"expert": [
-0,
-1
-],
 "method": [
+1,
+2
+],
+"monster": [
 1,
 2
 ],
@@ -235,17 +235,13 @@
 5,
 6
 ],
-"angel": [
-0,
-1
-],
-"assistant": [
-3,
-4
-],
 "ocean": [
 0,
 1
+],
+"super": [
+1,
+2
 ],
 "suicide": [
 1,
@@ -255,11 +251,35 @@
 3,
 4
 ],
+"surprise": [
+5,
+6
+],
+"expert": [
+0,
+1
+],
+"album": [
+0,
+1
+],
+"design": [
+3,
+4
+],
+"visit": [
+1,
+2
+],
+"football": [
+1,
+3
+],
 "metal": [
 1,
 2
 ],
-"album": [
+"offer": [
 0,
 1
 ],
@@ -267,53 +287,29 @@
 1,
 2
 ],
-"design": [
-3,
-4
-],
-"monster": [
-1,
-2
-],
-"email": [
-2,
-4
-],
-"progress": [
-2,
-3
-],
-"visit": [
-1,
-2
-],
-"community": [
-4,
-5
-],
 "signal": [
 1,
 2
 ],
-"limit": [
-1,
-2
-],
-"bullshit": [
-1,
-2
+"item": [
+0,
+1
 ],
 "resource": [
 1,
 2
 ],
-"mama": [
-1,
-2
-],
-"shopping": [
+"progress": [
 2,
 3
+],
+"email": [
+2,
+4
+],
+"dating": [
+1,
+2
 ],
 "website": [
 1,
@@ -327,27 +323,31 @@
 0,
 1
 ],
-"candidate": [
-1,
-2
-],
-"status": [
-2,
-3
-],
-"account": [
+"assistant": [
 3,
+4
+],
+"community": [
+4,
 5
 ],
-"author": [
-0,
+"mama": [
+1,
 2
 ],
-"cousin": [
+"welcome": [
 1,
-3
+2
+],
+"bullshit": [
+1,
+2
 ],
 "senator": [
+1,
+2
+],
+"candidate": [
 1,
 2
 ],
@@ -355,13 +355,33 @@
 1,
 2
 ],
+"status": [
+2,
+3
+],
+"interview": [
+0,
+1
+],
 "fashion": [
 1,
 2
 ],
-"concept": [
+"impact": [
+3,
+4
+],
+"lady": [
 1,
 2
+],
+"cousin": [
+1,
+3
+],
+"profit": [
+2,
+3
 ],
 "inspector": [
 4,
@@ -371,35 +391,31 @@
 3,
 4
 ],
+"character": [
+2,
+3
+],
 "festival": [
 1,
 2
 ],
-"jury": [
-1,
-2
+"friendly": [
+2,
+4
 ],
-"concert": [
-1,
+"author": [
+0,
 2
 ],
 "alcohol": [
 0,
 1
 ],
-"budget": [
-1,
-2
-],
 "pizza": [
 1,
 2
 ],
 "madam": [
-1,
-2
-],
-"sexy": [
 1,
 2
 ],
@@ -423,27 +439,31 @@
 1,
 2
 ],
+"shopping": [
+2,
+3
+],
 "factor": [
 1,
 2
 ],
-"alarm": [
-2,
-3
+"concert": [
+1,
+2
 ],
-"experiment": [
-3,
+"budget": [
+1,
+2
+],
+"sexy": [
+1,
+2
+],
+"training": [
+2,
 4
 ],
 "sergeant": [
-1,
-2
-],
-"pilot": [
-1,
-2
-],
-"welcome": [
 1,
 2
 ],
@@ -451,15 +471,15 @@
 1,
 2
 ],
-"professional": [
-4,
-5
-],
-"institute": [
-0,
-1
+"experiment": [
+3,
+4
 ],
 "nonsense": [
+1,
+2
+],
+"focus": [
 1,
 2
 ],
@@ -471,13 +491,17 @@
 3,
 4
 ],
+"pilot": [
+1,
+2
+],
 "sheriff": [
 2,
 3
 ],
-"record": [
-3,
-4
+"institute": [
+0,
+1
 ],
 "robot": [
 1,
@@ -487,9 +511,9 @@
 1,
 3
 ],
-"producer": [
-4,
-5
+"activity": [
+3,
+4
 ],
 "virus": [
 1,
@@ -507,9 +531,9 @@
 1,
 2
 ],
-"sandwich": [
-1,
-2
+"account": [
+3,
+5
 ],
 "sector": [
 1,
@@ -519,21 +543,9 @@
 1,
 2
 ],
-"terrorist": [
+"sandwich": [
 1,
 2
-],
-"crystal": [
-2,
-3
-],
-"loser": [
-1,
-2
-],
-"dealer": [
-1,
-3
 ],
 "era": [
 0,
@@ -555,27 +567,23 @@
 1,
 2
 ],
-"senate": [
+"terrorist": [
 1,
 2
 ],
-"garage": [
-3,
-4
+"dealer": [
+1,
+3
+],
+"senate": [
+1,
+2
 ],
 "software": [
 1,
 2
 ],
-"trigger": [
-2,
-3
-],
 "symptom": [
-1,
-2
-],
-"ranger": [
 1,
 2
 ],
@@ -587,17 +595,13 @@
 1,
 2
 ],
-"celebrity": [
-3,
-4
-],
 "object": [
 0,
 1
 ],
-"promotion": [
-4,
-5
+"concept": [
+1,
+2
 ],
 "designer": [
 3,
@@ -607,29 +611,45 @@
 1,
 2
 ],
+"release": [
+3,
+5
+],
+"plastic": [
+2,
+3
+],
 "vampire": [
 1,
 2
 ],
-"penny": [
-1,
-2
+"garage": [
+3,
+4
 ],
-"argument": [
-0,
-1
+"drama": [
+2,
+3
+],
+"volunteer": [
+6,
+8
 ],
 "climate": [
 2,
 3
 ],
-"avenue": [
-0,
-1
+"conflict": [
+1,
+2
 ],
-"elephant": [
-0,
-1
+"celebrity": [
+3,
+4
+],
+"downtown": [
+1,
+2
 ],
 "outfit": [
 0,
@@ -643,6 +663,10 @@
 1,
 2
 ],
+"producer": [
+4,
+5
+],
 "opponent": [
 3,
 4
@@ -655,15 +679,11 @@
 3,
 5
 ],
-"super": [
-1,
-2
+"potential": [
+3,
+4
 ],
-"bonus": [
-1,
-2
-],
-"timing": [
+"minimum": [
 1,
 2
 ],
@@ -671,39 +691,51 @@
 1,
 2
 ],
+"limit": [
+1,
+2
+],
 "tourist": [
 1,
 3
 ],
-"volunteer": [
-6,
-8
-],
-"comfort": [
-1,
-2
-],
-"protest": [
+"crystal": [
 2,
 3
 ],
-"online": [
+"bonus": [
+1,
+2
+],
+"operator": [
 0,
 1
 ],
-"bureau": [
+"timing": [
 1,
 2
+],
+"argument": [
+0,
+1
 ],
 "teenager": [
 1,
 3
 ],
+"penny": [
+1,
+2
+],
+"avenue": [
+0,
+1
+],
 "certificate": [
 4,
 5
 ],
-"meter": [
+"cable": [
 1,
 2
 ],
@@ -715,75 +747,59 @@
 0,
 1
 ],
-"transport": [
-6,
-7
-],
 "menu": [
 1,
 2
 ],
-"trailer": [
+"protest": [
 2,
-4
-],
-"final": [
-1,
-2
-],
-"market": [
-1,
-2
+3
 ],
 "oxygen": [
 0,
 1
 ],
-"character": [
-2,
-3
-],
 "tennis": [
 1,
 2
-],
-"drama": [
-2,
-3
 ],
 "burger": [
 1,
 2
 ],
-"formula": [
-1,
-2
+"accent": [
+3,
+4
 ],
 "motor": [
 1,
 2
 ],
+"footage": [
+1,
+3
+],
 "motive": [
 1,
 2
+],
+"organ": [
+0,
+1
 ],
 "info": [
 0,
 1
 ],
-"assist": [
-3,
-4
-],
 "specialist": [
 2,
 3
 ],
-"makeup": [
+"cycle": [
 1,
 2
 ],
-"cable": [
+"bureau": [
 1,
 2
 ],
@@ -791,13 +807,17 @@
 3,
 4
 ],
+"alarm": [
+2,
+3
+],
 "hockey": [
 1,
 2
 ],
-"accent": [
-3,
-4
+"transport": [
+6,
+7
 ],
 "component": [
 4,
@@ -823,43 +843,47 @@
 2,
 3
 ],
-"retreat": [
-4,
-6
-],
-"organ": [
-0,
-1
+"meter": [
+1,
+2
 ],
 "critic": [
 2,
 3
 ],
+"trailer": [
+2,
+4
+],
 "euro": [
 0,
+2
+],
+"rating": [
+1,
 2
 ],
 "scandal": [
 2,
 3
 ],
+"makeup": [
+1,
+2
+],
+"luxury": [
+1,
+2
+],
 "democrat": [
 1,
 2
 ],
-"operator": [
-0,
-1
-],
-"minimum": [
-1,
-2
-],
-"finish": [
-1,
-2
-],
 "veteran": [
+1,
+2
+],
+"paradise": [
 1,
 2
 ],
@@ -879,9 +903,9 @@
 2,
 4
 ],
-"reply": [
-4,
-5
+"formula": [
+1,
+2
 ],
 "humor": [
 1,
@@ -891,35 +915,39 @@
 3,
 4
 ],
+"professional": [
+4,
+5
+],
+"motherfucker": [
+1,
+2
+],
 "dialogue": [
 1,
 3
-],
-"venture": [
-1,
-2
 ],
 "villa": [
 1,
 2
 ],
-"amateur": [
-0,
-1
-],
-"respect": [
-4,
-5
-],
 "laptop": [
 1,
 2
+],
+"element": [
+0,
+1
+],
+"update": [
+3,
+4
 ],
 "penis": [
 1,
 2
 ],
-"conflict": [
+"radar": [
 1,
 2
 ],
@@ -927,9 +955,13 @@
 0,
 1
 ],
-"plastic": [
-2,
-3
+"background": [
+1,
+2
+],
+"immigrant": [
+0,
+1
 ],
 "lemon": [
 1,
@@ -951,19 +983,31 @@
 3,
 4
 ],
-"fiction": [
+"final": [
 1,
 2
 ],
-"radar": [
+"comfort": [
 1,
 2
+],
+"creepy": [
+2,
+4
+],
+"versus": [
+1,
+2
+],
+"reply": [
+4,
+5
 ],
 "founder": [
 1,
 3
 ],
-"cargo": [
+"sensor": [
 1,
 2
 ],
@@ -971,29 +1015,17 @@
 3,
 5
 ],
-"sensor": [
-1,
-2
-],
-"gender": [
-1,
-2
-],
 "bacon": [
 1,
 2
 ],
-"original": [
-2,
-3
-],
-"deposit": [
+"canal": [
 3,
 4
 ],
-"admiral": [
-0,
-1
+"cargo": [
+1,
+2
 ],
 "cafe": [
 3,
@@ -1003,53 +1035,33 @@
 1,
 2
 ],
-"capital": [
-1,
-2
-],
-"release": [
-3,
-5
-],
-"image": [
+"admiral": [
 0,
 1
 ],
-"workshop": [
+"loser": [
 1,
 2
 ],
-"collapse": [
-4,
-5
-],
-"immigrant": [
-0,
-1
-],
-"canal": [
-3,
-4
-],
-"killer": [
-1,
-2
-],
-"agenda": [
-2,
-3
-],
-"luxury": [
-1,
-2
-],
-"cocktail": [
+"fiction": [
 1,
 2
 ],
 "container": [
 4,
 6
+],
+"fighter": [
+1,
+2
+],
+"gender": [
+1,
+2
+],
+"dessert": [
+4,
+5
 ],
 "arena": [
 2,
@@ -1059,19 +1071,11 @@
 1,
 2
 ],
-"cricket": [
-2,
-3
-],
-"dessert": [
-4,
-5
-],
-"hobby": [
+"cocktail": [
 1,
 2
 ],
-"continent": [
+"hobby": [
 1,
 2
 ],
@@ -1083,13 +1087,13 @@
 0,
 1
 ],
-"cotton": [
-1,
-2
-],
 "discount": [
 4,
 6
+],
+"continent": [
+1,
+2
 ],
 "instrument": [
 0,
@@ -1099,13 +1103,25 @@
 3,
 4
 ],
-"dinosaur": [
-1,
-2
+"cricket": [
+2,
+3
+],
+"abuse": [
+2,
+3
 ],
 "massage": [
 4,
 5
+],
+"dinosaur": [
+1,
+2
+],
+"donor": [
+1,
+2
 ],
 "bicycle": [
 1,
@@ -1143,6 +1159,10 @@
 0,
 1
 ],
+"cotton": [
+1,
+2
+],
 "deadline": [
 1,
 3
@@ -1150,10 +1170,6 @@
 "cocaine": [
 3,
 5
-],
-"monitoring": [
-1,
-2
 ],
 "marijuana": [
 5,
@@ -1163,43 +1179,31 @@
 4,
 5
 ],
-"backup": [
-1,
-2
-],
-"downtown": [
-1,
-2
-],
 "cleaning": [
 2,
 4
-],
-"donor": [
-1,
-2
 ],
 "generator": [
 1,
 2
 ],
-"rating": [
-1,
-2
-],
-"hardware": [
-1,
-2
-],
-"baron": [
-1,
-2
+"alert": [
+2,
+3
 ],
 "content": [
 1,
 2
 ],
+"panel": [
+1,
+2
+],
 "forum": [
+1,
+2
+],
+"capital": [
 1,
 2
 ],
@@ -1211,10 +1215,6 @@
 1,
 2
 ],
-"feedback": [
-1,
-3
-],
 "cottage": [
 1,
 2
@@ -1222,10 +1222,6 @@
 "instructor": [
 5,
 6
-],
-"maximum": [
-1,
-2
 ],
 "sponsor": [
 2,
@@ -1235,17 +1231,9 @@
 0,
 1
 ],
-"banner": [
-1,
-2
-],
 "sweater": [
 2,
 4
-],
-"index": [
-0,
-1
 ],
 "bowling": [
 1,
@@ -1259,11 +1247,15 @@
 1,
 2
 ],
-"supervisor": [
+"monitoring": [
 1,
 2
 ],
-"segment": [
+"baron": [
+1,
+2
+],
+"supervisor": [
 1,
 2
 ],
@@ -1279,9 +1271,13 @@
 1,
 2
 ],
-"jersey": [
+"ranger": [
 1,
 2
+],
+"feedback": [
+1,
+3
 ],
 "kidnapping": [
 1,
@@ -1290,6 +1286,10 @@
 "cowboy": [
 1,
 2
+],
+"deposit": [
+3,
+4
 ],
 "ballet": [
 4,
@@ -1307,10 +1307,6 @@
 0,
 1
 ],
-"production": [
-4,
-5
-],
 "visa": [
 1,
 2
@@ -1319,17 +1315,21 @@
 1,
 2
 ],
-"shotgun": [
-2,
-3
-],
 "echo": [
 0,
 1
 ],
-"escort": [
-3,
-4
+"setting": [
+1,
+2
+],
+"maximum": [
+1,
+2
+],
+"mini": [
+1,
+2
 ],
 "picnic": [
 1,
@@ -1339,11 +1339,23 @@
 1,
 2
 ],
-"transfer": [
-6,
-7
+"minus": [
+1,
+2
 ],
-"monument": [
+"banner": [
+1,
+2
+],
+"backup": [
+1,
+2
+],
+"collapse": [
+4,
+5
+],
+"segment": [
 1,
 2
 ],
@@ -1379,14 +1391,6 @@
 1,
 2
 ],
-"summit": [
-1,
-2
-],
-"trader": [
-2,
-3
-],
 "coma": [
 1,
 2
@@ -1403,10 +1407,6 @@
 1,
 2
 ],
-"mini": [
-1,
-2
-],
 "astronaut": [
 0,
 1
@@ -1419,7 +1419,7 @@
 1,
 2
 ],
-"single": [
+"venture": [
 1,
 2
 ],
@@ -1427,17 +1427,9 @@
 1,
 4
 ],
-"abuse": [
-2,
-3
-],
 "vagina": [
 3,
 4
-],
-"display": [
-5,
-7
 ],
 "patent": [
 1,
@@ -1459,17 +1451,33 @@
 2,
 3
 ],
+"organic": [
+3,
+4
+],
+"portal": [
+1,
+2
+],
 "millionaire": [
 7,
 9
+],
+"monument": [
+1,
+2
 ],
 "sofa": [
 1,
 2
 ],
-"chili": [
-2,
-3
+"estimate": [
+0,
+1
+],
+"summit": [
+1,
+2
 ],
 "manuscript": [
 1,
@@ -1495,9 +1503,9 @@
 2,
 3
 ],
-"salon": [
-3,
-4
+"shotgun": [
+2,
+3
 ],
 "bandit": [
 1,
@@ -1523,9 +1531,9 @@
 2,
 3
 ],
-"hospital": [
-1,
-2
+"agenda": [
+2,
+3
 ],
 "balance": [
 1,
@@ -1539,6 +1547,10 @@
 1,
 2
 ],
+"promotion": [
+4,
+5
+],
 "mutant": [
 1,
 2
@@ -1551,13 +1563,17 @@
 1,
 2
 ],
+"contrast": [
+1,
+2
+],
 "trainer": [
 2,
 4
 ],
-"carnival": [
-1,
-2
+"salon": [
+3,
+4
 ],
 "pony": [
 1,
@@ -1567,13 +1583,9 @@
 4,
 5
 ],
-"marshal": [
+"terminal": [
 1,
 2
-],
-"organic": [
-3,
-4
 ],
 "barrel": [
 1,
@@ -1583,15 +1595,11 @@
 1,
 2
 ],
-"hacker": [
-1,
-2
-],
 "gallon": [
 1,
 2
 ],
-"printer": [
+"dressing": [
 2,
 3
 ],
@@ -1603,7 +1611,19 @@
 1,
 2
 ],
+"hardware": [
+1,
+2
+],
+"workout": [
+1,
+2
+],
 "genre": [
+1,
+2
+],
+"hacker": [
 1,
 2
 ],
@@ -1611,15 +1631,19 @@
 1,
 2
 ],
-"distress": [
-5,
-6
+"printer": [
+2,
+3
 ],
-"telescope": [
+"musical": [
 1,
 2
 ],
-"musical": [
+"index": [
+0,
+1
+],
+"workshop": [
 1,
 2
 ],
@@ -1635,6 +1659,10 @@
 1,
 3
 ],
+"bravo": [
+2,
+3
+],
 "tractor": [
 2,
 3
@@ -1643,17 +1671,17 @@
 7,
 8
 ],
+"telescope": [
+1,
+2
+],
 "sticker": [
 2,
 3
 ],
-"coaching": [
-1,
-3
-],
-"madame": [
-1,
-2
+"escort": [
+3,
+4
 ],
 "cement": [
 3,
@@ -1667,10 +1695,6 @@
 1,
 2
 ],
-"magnet": [
-1,
-2
-],
 "hydrogen": [
 1,
 2
@@ -1679,19 +1703,11 @@
 1,
 2
 ],
-"terminal": [
-1,
-2
-],
-"reserve": [
-3,
+"cheating": [
+2,
 4
 ],
 "seminar": [
-1,
-2
-],
-"console": [
 1,
 2
 ],
@@ -1703,43 +1719,15 @@
 1,
 2
 ],
-"timer": [
-1,
-2
-],
 "habitat": [
 1,
 2
-],
-"phantom": [
-2,
-3
-],
-"cardinal": [
-1,
-2
-],
-"diesel": [
-1,
-3
 ],
 "tornado": [
 4,
 5
 ],
-"import": [
-3,
-4
-],
-"pudding": [
-1,
-2
-],
-"mechanic": [
-4,
-5
-],
-"vendor": [
+"magnet": [
 1,
 2
 ],
@@ -1751,10 +1739,6 @@
 1,
 2
 ],
-"title": [
-1,
-2
-],
 "quarterback": [
 1,
 3
@@ -1763,19 +1747,27 @@
 3,
 4
 ],
-"bravo": [
-2,
-3
-],
 "rabbi": [
 1,
 2
+],
+"perimeter": [
+3,
+4
 ],
 "bodyguard": [
 1,
 2
 ],
+"follower": [
+1,
+2
+],
 "format": [
+1,
+2
+],
+"timer": [
 1,
 2
 ],
@@ -1787,9 +1779,13 @@
 2,
 4
 ],
-"country": [
+"diesel": [
 1,
 3
+],
+"console": [
+1,
+2
 ],
 "mentor": [
 1,
@@ -1799,29 +1795,45 @@
 1,
 2
 ],
+"madame": [
+1,
+2
+],
 "guru": [
 1,
 2
 ],
-"implant": [
-4,
-5
+"plasma": [
+2,
+3
 ],
 "retail": [
 1,
 2
 ],
-"welfare": [
+"chili": [
+2,
+3
+],
+"barber": [
 1,
 2
 ],
-"depot": [
+"pudding": [
+1,
+2
+],
+"pardon": [
 1,
 2
 ],
 "psycho": [
 2,
 3
+],
+"mechanic": [
+4,
+5
 ],
 "cupcake": [
 1,
@@ -1843,43 +1855,11 @@
 1,
 2
 ],
-"referee": [
-5,
-7
-],
-"diving": [
-1,
-2
-],
-"vector": [
-1,
-2
-],
 "mineral": [
 1,
 2
 ],
-"artifact": [
-0,
-1
-],
-"general": [
-1,
-2
-],
-"scanner": [
-2,
-3
-],
 "panda": [
-1,
-2
-],
-"diver": [
-1,
-2
-],
-"tutor": [
 1,
 2
 ],
@@ -1887,11 +1867,7 @@
 0,
 1
 ],
-"trafficking": [
-2,
-3
-],
-"module": [
+"parasite": [
 1,
 2
 ],
@@ -1903,13 +1879,13 @@
 2,
 3
 ],
-"barber": [
-1,
-2
+"scanner": [
+2,
+3
 ],
-"panel": [
-1,
-2
+"implant": [
+4,
+5
 ],
 "slogan": [
 2,
@@ -1935,6 +1911,10 @@
 3,
 4
 ],
+"referee": [
+5,
+7
+],
 "sushi": [
 1,
 2
@@ -1955,25 +1935,21 @@
 1,
 2
 ],
-"convoy": [
+"vector": [
 1,
 2
 ],
-"diplomat": [
-1,
-2
+"import": [
+3,
+4
 ],
 "spaghetti": [
 5,
 6
 ],
-"metro": [
-1,
-2
-],
-"follower": [
-1,
-2
+"artifact": [
+0,
+1
 ],
 "delegate": [
 1,
@@ -1983,9 +1959,17 @@
 0,
 1
 ],
-"parasite": [
+"jersey": [
 1,
 2
+],
+"module": [
+1,
+2
+],
+"display": [
+5,
+7
 ],
 "gaming": [
 1,
@@ -1999,14 +1983,6 @@
 1,
 2
 ],
-"transit": [
-2,
-3
-],
-"recruit": [
-4,
-6
-],
 "crocodile": [
 2,
 3
@@ -2014,10 +1990,6 @@
 "sterling": [
 2,
 3
-],
-"article": [
-0,
-1
 ],
 "sultan": [
 1,
@@ -2027,25 +1999,33 @@
 1,
 2
 ],
+"convoy": [
+1,
+2
+],
 "coral": [
 1,
 2
+],
+"diplomat": [
+1,
+2
+],
+"reserve": [
+3,
+4
 ],
 "filmmaker": [
 1,
 2
 ],
-"scooter": [
-2,
-4
+"distress": [
+5,
+6
 ],
 "souvenir": [
 6,
 7
-],
-"pedal": [
-1,
-2
 ],
 "demo": [
 1,
@@ -2063,9 +2043,9 @@
 1,
 2
 ],
-"moral": [
+"touchdown": [
 1,
-2
+3
 ],
 "equivalent": [
 2,
@@ -2087,17 +2067,13 @@
 0,
 1
 ],
+"trader": [
+2,
+3
+],
 "steroid": [
 4,
 6
-],
-"pardon": [
-1,
-2
-],
-"level": [
-1,
-2
 ],
 "hamburger": [
 1,
@@ -2107,25 +2083,13 @@
 1,
 2
 ],
-"ghetto": [
-2,
-3
-],
 "legion": [
 1,
 2
 ],
-"reception": [
-3,
-4
-],
 "preview": [
 2,
 3
-],
-"hacking": [
-1,
-2
 ],
 "dynamite": [
 1,
@@ -2135,21 +2099,17 @@
 1,
 2
 ],
+"diver": [
+1,
+2
+],
 "dilemma": [
 3,
 4
 ],
-"indicator": [
-0,
-1
-],
 "renaissance": [
 7,
 8
-],
-"traffic": [
-2,
-3
 ],
 "pneumonia": [
 5,
@@ -2179,13 +2139,9 @@
 1,
 2
 ],
-"feminist": [
+"carnival": [
 1,
 2
-],
-"streaming": [
-3,
-5
 ],
 "monitor": [
 1,
@@ -2203,21 +2159,17 @@
 2,
 3
 ],
-"interval": [
-0,
-1
-],
 "cadet": [
 3,
 4
 ],
-"liberal": [
-1,
-2
-],
 "baggage": [
 1,
 2
+],
+"ghetto": [
+2,
+3
 ],
 "leopard": [
 1,
@@ -2227,9 +2179,9 @@
 1,
 2
 ],
-"applicant": [
-0,
-1
+"hacking": [
+1,
+2
 ],
 "paramedic": [
 5,
@@ -2242,18 +2194,6 @@
 "asthma": [
 0,
 1
-],
-"gamma": [
-1,
-2
-],
-"portal": [
-1,
-2
-],
-"frontier": [
-5,
-7
 ],
 "consensus": [
 4,
@@ -2271,9 +2211,21 @@
 3,
 4
 ],
+"indicator": [
+0,
+1
+],
+"hiking": [
+1,
+2
+],
 "hypocrite": [
 1,
 2
+],
+"recruit": [
+4,
+6
 ],
 "enzyme": [
 0,
@@ -2283,16 +2235,20 @@
 2,
 4
 ],
-"freeway": [
-2,
-4
-],
 "controller": [
 5,
 6
 ],
 "dictator": [
 4,
+5
+],
+"arsenal": [
+0,
+1
+],
+"streaming": [
+3,
 5
 ],
 "Hindi": [
@@ -2307,17 +2263,13 @@
 1,
 2
 ],
-"western": [
-1,
-2
-],
 "parachute": [
 1,
 2
 ],
-"saga": [
-1,
-2
+"interval": [
+0,
+1
 ],
 "boiler": [
 1,
@@ -2326,6 +2278,10 @@
 "curriculum": [
 4,
 5
+],
+"Latin": [
+1,
+2
 ],
 "catalog": [
 1,
@@ -2343,13 +2299,17 @@
 2,
 3
 ],
+"pedal": [
+1,
+2
+],
 "toxin": [
 1,
 2
 ],
-"extract": [
-0,
-1
+"trigger": [
+2,
+3
 ],
 "tango": [
 1,
@@ -2358,10 +2318,6 @@
 "stalking": [
 2,
 3
-],
-"casting": [
-1,
-2
 ],
 "adrenaline": [
 3,
@@ -2375,11 +2331,11 @@
 2,
 3
 ],
-"morphine": [
-1,
-2
+"phantom": [
+2,
+3
 ],
-"major": [
+"morphine": [
 1,
 2
 ],
@@ -2391,15 +2347,7 @@
 1,
 2
 ],
-"impact": [
-3,
-4
-],
-"security": [
-3,
-4
-],
-"Yankee": [
+"saga": [
 1,
 2
 ],
@@ -2407,9 +2355,9 @@
 5,
 6
 ],
-"alcoholic": [
-5,
-6
+"gamma": [
+1,
+2
 ],
 "dioxide": [
 4,
@@ -2439,15 +2387,23 @@
 1,
 2
 ],
-"cartridge": [
+"metro": [
 1,
 2
 ],
-"background": [
+"hybrid": [
 1,
 2
+],
+"reception": [
+3,
+4
 ],
 "caramel": [
+1,
+2
+],
+"feminist": [
 1,
 2
 ],
@@ -2487,10 +2443,6 @@
 1,
 2
 ],
-"processor": [
-2,
-3
-],
 "emir": [
 2,
 3
@@ -2502,10 +2454,6 @@
 "insulin": [
 0,
 1
-],
-"update": [
-3,
-4
 ],
 "jackpot": [
 1,
@@ -2523,13 +2471,13 @@
 2,
 3
 ],
-"derby": [
+"bulldog": [
 1,
 2
 ],
-"present": [
-2,
-3
+"nationalist": [
+1,
+2
 ],
 "quota": [
 1,
@@ -2539,17 +2487,25 @@
 3,
 4
 ],
-"biker": [
+"cobra": [
 1,
 2
 ],
-"cycle": [
+"casting": [
 1,
 2
+],
+"screening": [
+3,
+5
 ],
 "thriller": [
 3,
 4
+],
+"quarantine": [
+1,
+3
 ],
 "ketchup": [
 1,
@@ -2563,15 +2519,19 @@
 1,
 2
 ],
-"leasing": [
-1,
-3
-],
 "vinyl": [
 1,
 2
 ],
+"diving": [
+1,
+2
+],
 "babysitter": [
+1,
+2
+],
+"liberal": [
 1,
 2
 ],
@@ -2583,21 +2543,21 @@
 5,
 6
 ],
-"canoe": [
-3,
-5
-],
 "gala": [
 1,
 2
 ],
-"compliance": [
-5,
-7
+"cardinal": [
+1,
+2
 ],
 "recorder": [
 3,
 4
+],
+"alcoholic": [
+5,
+6
 ],
 "hormone": [
 1,
@@ -2610,10 +2570,6 @@
 "blogger": [
 2,
 3
-],
-"bulldog": [
-1,
-2
 ],
 "bumper": [
 1,
@@ -2639,10 +2595,6 @@
 1,
 3
 ],
-"replay": [
-4,
-6
-],
 "kangaroo": [
 6,
 8
@@ -2651,7 +2603,7 @@
 2,
 3
 ],
-"cobra": [
+"holder": [
 1,
 2
 ],
@@ -2663,10 +2615,6 @@
 2,
 3
 ],
-"substitute": [
-1,
-2
-],
 "catering": [
 1,
 2
@@ -2675,27 +2623,43 @@
 4,
 5
 ],
-"quarantine": [
+"leasing": [
 1,
 3
+],
+"assist": [
+3,
+4
 ],
 "retailer": [
 1,
 2
 ],
+"derby": [
+1,
+2
+],
+"canoe": [
+3,
+5
+],
 "smartphone": [
 2,
 3
 ],
-"titan": [
-1,
-2
+"consulting": [
+4,
+5
 ],
 "blackout": [
 2,
 3
 ],
 "hostel": [
+1,
+2
+],
+"pickup": [
 1,
 2
 ],
@@ -2719,27 +2683,15 @@
 1,
 2
 ],
-"metropolis": [
-4,
-5
-],
-"screening": [
+"maneuver": [
 3,
 5
-],
-"element": [
-0,
-1
 ],
 "alligator": [
 0,
 1
 ],
 "caliph": [
-1,
-2
-],
-"mandate": [
 1,
 2
 ],
@@ -2755,9 +2707,9 @@
 1,
 2
 ],
-"hosting": [
-1,
-2
+"processor": [
+2,
+3
 ],
 "martini": [
 4,
@@ -2771,21 +2723,13 @@
 1,
 2
 ],
-"alphabet": [
-0,
-1
-],
-"voodoo": [
-1,
-3
-],
 "manga": [
 1,
 2
 ],
-"antidote": [
-0,
-1
+"junkie": [
+1,
+2
 ],
 "bouquet": [
 4,
@@ -2799,7 +2743,7 @@
 1,
 2
 ],
-"Latin": [
+"telegraph": [
 1,
 2
 ],
@@ -2818,10 +2762,6 @@
 "referendum": [
 5,
 6
-],
-"cockpit": [
-1,
-2
 ],
 "interviewer": [
 0,
@@ -2843,17 +2783,13 @@
 1,
 3
 ],
-"ornament": [
-0,
-1
+"canon": [
+1,
+2
 ],
 "bagel": [
 1,
 2
-],
-"arsenal": [
-0,
-1
 ],
 "sedan": [
 3,
@@ -2867,6 +2803,14 @@
 2,
 3
 ],
+"cameraman": [
+1,
+2
+],
+"Mormon": [
+1,
+2
+],
 "aura": [
 0,
 2
@@ -2879,12 +2823,20 @@
 1,
 2
 ],
+"offline": [
+0,
+1
+],
 "projector": [
 4,
 5
 ],
 "microscope": [
 1,
+2
+],
+"output": [
+0,
 2
 ],
 "billboard": [
@@ -2903,9 +2855,9 @@
 2,
 3
 ],
-"cookie": [
-1,
-3
+"freelance": [
+2,
+4
 ],
 "cosmos": [
 1,
@@ -2919,13 +2871,25 @@
 1,
 2
 ],
+"puzzle": [
+1,
+2
+],
 "reflex": [
 1,
 2
 ],
+"voodoo": [
+1,
+3
+],
 "fetish": [
 1,
 2
+],
+"input": [
+0,
+1
 ],
 "discomfort": [
 4,
@@ -2947,9 +2911,9 @@
 1,
 2
 ],
-"cluster": [
-2,
-3
+"retreat": [
+4,
+6
 ],
 "gamer": [
 1,
@@ -2959,11 +2923,23 @@
 6,
 7
 ],
+"cockpit": [
+1,
+2
+],
 "caliber": [
 1,
 2
 ],
 "zebra": [
+1,
+2
+],
+"invite": [
+3,
+4
+],
+"vendor": [
 1,
 2
 ],
@@ -2980,10 +2956,6 @@
 2
 ],
 "softball": [
-1,
-2
-],
-"hostess": [
 1,
 2
 ],
@@ -3019,10 +2991,6 @@
 2,
 3
 ],
-"pickup": [
-1,
-2
-],
 "genome": [
 1,
 2
@@ -3031,15 +2999,11 @@
 2,
 3
 ],
-"computing": [
-4,
-5
+"antidote": [
+0,
+1
 ],
-"telegraph": [
-1,
-2
-],
-"junior": [
+"substitute": [
 1,
 2
 ],
@@ -3051,11 +3015,7 @@
 1,
 2
 ],
-"mainstream": [
-1,
-3
-],
-"idol": [
+"intro": [
 0,
 1
 ],
@@ -3075,10 +3035,6 @@
 1,
 2
 ],
-"homage": [
-1,
-2
-],
 "glamour": [
 2,
 3
@@ -3091,15 +3047,15 @@
 0,
 1
 ],
-"jumper": [
-1,
-2
-],
 "highlight": [
 1,
 2
 ],
 "fundraising": [
+1,
+2
+],
+"marshmallow": [
 1,
 2
 ],
@@ -3119,11 +3075,7 @@
 1,
 2
 ],
-"consulting": [
-4,
-5
-],
-"vortex": [
+"biker": [
 1,
 2
 ],
@@ -3131,9 +3083,9 @@
 3,
 4
 ],
-"healer": [
+"regulator": [
 1,
-3
+2
 ],
 "shaman": [
 2,
@@ -3147,9 +3099,21 @@
 1,
 2
 ],
+"scooter": [
+2,
+4
+],
 "curator": [
 3,
 4
+],
+"Baptist": [
+1,
+2
+],
+"coping": [
+1,
+2
 ],
 "domain": [
 3,
@@ -3195,17 +3159,17 @@
 1,
 3
 ],
+"coaching": [
+1,
+3
+],
 "testosterone": [
 4,
 5
 ],
-"charter": [
-2,
-3
-],
-"locomotive": [
-5,
-6
+"sitcom": [
+1,
+2
 ],
 "neutron": [
 1,
@@ -3235,29 +3199,25 @@
 1,
 2
 ],
+"amigo": [
+2,
+3
+],
 "boomer": [
 1,
 3
-],
-"reverse": [
-3,
-4
 ],
 "calculator": [
 1,
 2
 ],
-"penalty": [
-1,
-2
-],
-"starter": [
-2,
-3
-],
 "turbo": [
 1,
 2
+],
+"mainstream": [
+1,
+3
 ],
 "shilling": [
 2,
@@ -3270,10 +3230,6 @@
 "meteorite": [
 1,
 2
-],
-"ensemble": [
-3,
-4
 ],
 "avocado": [
 4,
@@ -3303,10 +3259,6 @@
 0,
 1
 ],
-"contrast": [
-1,
-2
-],
 "imam": [
 0,
 1
@@ -3315,21 +3267,17 @@
 1,
 3
 ],
-"promo": [
-2,
-3
-],
-"tabloid": [
-1,
-2
-],
 "commandant": [
 7,
 8
 ],
-"estimate": [
-0,
-1
+"suspense": [
+4,
+5
+],
+"locomotive": [
+5,
+6
 ],
 "oxide": [
 0,
@@ -3351,27 +3299,31 @@
 6,
 7
 ],
+"cookie": [
+1,
+3
+],
 "Chinatown": [
 2,
 3
 ],
-"puzzle": [
-1,
-2
+"computing": [
+4,
+5
 ],
-"plasma": [
+"glitter": [
 2,
 3
-],
-"romantic": [
-3,
-4
 ],
 "textile": [
 1,
 2
 ],
 "remake": [
+1,
+2
+],
+"depot": [
 1,
 2
 ],
@@ -3387,13 +3339,13 @@
 3,
 4
 ],
-"reboot": [
-3,
-5
-],
 "cyclone": [
 4,
 5
+],
+"booster": [
+1,
+3
 ],
 "kappa": [
 1,
@@ -3407,7 +3359,23 @@
 1,
 2
 ],
+"extract": [
+0,
+1
+],
 "ruble": [
+1,
+2
+],
+"transit": [
+2,
+3
+],
+"promo": [
+2,
+3
+],
+"tabloid": [
 1,
 2
 ],
@@ -3415,15 +3383,7 @@
 1,
 2
 ],
-"hybrid": [
-1,
-2
-],
 "veto": [
-1,
-2
-],
-"canon": [
 1,
 2
 ],
@@ -3459,12 +3419,20 @@
 4,
 5
 ],
+"jasmine": [
+1,
+2
+],
 "cannibal": [
 1,
 2
 ],
-"easy": [
+"idol": [
 0,
+1
+],
+"hosting": [
+1,
 2
 ],
 "superman": [
@@ -3483,13 +3451,21 @@
 1,
 2
 ],
-"mantra": [
-1,
-2
+"cluster": [
+2,
+3
+],
+"compliance": [
+5,
+7
 ],
 "browser": [
 2,
 3
+],
+"ensemble": [
+3,
+4
 ],
 "underdog": [
 0,
@@ -3502,6 +3478,10 @@
 "goalkeeper": [
 1,
 3
+],
+"jumper": [
+1,
+2
 ],
 "bazaar": [
 3,
@@ -3527,10 +3507,6 @@
 1,
 2
 ],
-"admin": [
-0,
-1
-],
 "tofu": [
 1,
 2
@@ -3555,17 +3531,13 @@
 0,
 1
 ],
-"giveaway": [
-1,
-2
-],
 "nicotine": [
 1,
 2
 ],
-"shooter": [
+"trafficking": [
 2,
-4
+3
 ],
 "expo": [
 0,
@@ -3573,10 +3545,6 @@
 ],
 "stylist": [
 2,
-3
-],
-"yeoman": [
-1,
 3
 ],
 "mystic": [
@@ -3587,13 +3555,29 @@
 2,
 3
 ],
+"cartridge": [
+1,
+2
+],
 "electrode": [
 2,
+3
+],
+"headset": [
+1,
 3
 ],
 "blender": [
 2,
 3
+],
+"mantra": [
+1,
+2
+],
+"wannabe": [
+1,
+2
 ],
 "developer": [
 3,
@@ -3607,10 +3591,6 @@
 4,
 5
 ],
-"freestyle": [
-2,
-4
-],
 "blazer": [
 2,
 3
@@ -3622,10 +3602,6 @@
 "dharma": [
 2,
 3
-],
-"rocker": [
-1,
-2
 ],
 "simulator": [
 1,
@@ -3679,9 +3655,9 @@
 1,
 2
 ],
-"auditor": [
+"admin": [
 0,
-2
+1
 ],
 "silhouette": [
 9,
@@ -3703,25 +3679,17 @@
 4,
 7
 ],
-"jasmine": [
-1,
-2
-],
 "aristocrat": [
 2,
 3
 ],
-"brunette": [
-4,
-5
+"negative": [
+1,
+2
 ],
 "kilogram": [
 1,
 2
-],
-"playboy": [
-2,
-4
 ],
 "iris": [
 0,
@@ -3743,10 +3711,6 @@
 1,
 2
 ],
-"cleaner": [
-2,
-4
-],
 "herpes": [
 1,
 2
@@ -3754,10 +3718,6 @@
 "amulet": [
 0,
 1
-],
-"jingle": [
-1,
-2
 ],
 "instrumental": [
 7,
@@ -3807,17 +3767,13 @@
 1,
 2
 ],
-"recruiting": [
-4,
-6
+"auditor": [
+0,
+2
 ],
 "pixel": [
 1,
 2
-],
-"ambassador": [
-3,
-4
 ],
 "bailiff": [
 1,
@@ -3827,17 +3783,13 @@
 1,
 2
 ],
-"tampon": [
+"redneck": [
 1,
 2
 ],
-"ogre": [
-0,
-1
-],
-"suspense": [
-4,
-5
+"tampon": [
+1,
+2
 ],
 "extremist": [
 4,
@@ -3847,13 +3799,25 @@
 5,
 6
 ],
+"rebound": [
+3,
+5
+],
 "primate": [
 2,
 3
 ],
+"replay": [
+4,
+6
+],
 "hobbit": [
 1,
 2
+],
+"healer": [
+1,
+3
 ],
 "nomad": [
 1,
@@ -3861,10 +3825,6 @@
 ],
 "storytelling": [
 2,
-3
-],
-"caesar": [
-1,
 3
 ],
 "Buddhist": [
@@ -3911,23 +3871,23 @@
 1,
 4
 ],
-"micro": [
-1,
-2
-],
 "mannequin": [
 1,
 2
+],
+"mandate": [
+1,
+2
+],
+"brunette": [
+4,
+5
 ],
 "folklore": [
 1,
 2
 ],
 "lasagna": [
-3,
-4
-],
-"perimeter": [
 3,
 4
 ],
@@ -3942,10 +3902,6 @@
 "icing": [
 0,
 1
-],
-"plugin": [
-2,
-3
 ],
 "vocalist": [
 1,
@@ -3963,13 +3919,13 @@
 1,
 2
 ],
+"frontier": [
+5,
+7
+],
 "medallion": [
 3,
 4
-],
-"desktop": [
-1,
-2
 ],
 "theta": [
 2,
@@ -3980,10 +3936,6 @@
 2
 ],
 "gibbon": [
-1,
-2
-],
-"henry": [
 1,
 2
 ],
@@ -3999,11 +3951,11 @@
 1,
 2
 ],
-"complex": [
+"reggae": [
 1,
 2
 ],
-"reggae": [
+"rocker": [
 1,
 2
 ],
@@ -4022,6 +3974,10 @@
 "anus": [
 0,
 1
+],
+"playboy": [
+2,
+4
 ],
 "salaam": [
 3,
@@ -4049,6 +4005,10 @@
 ],
 "checkup": [
 2,
+3
+],
+"yeoman": [
+1,
 3
 ],
 "checklist": [
@@ -4111,13 +4071,17 @@
 2,
 3
 ],
-"campaign": [
-4,
-6
-],
 "provider": [
 4,
 5
+],
+"canton": [
+1,
+2
+],
+"charter": [
+2,
+3
 ],
 "antidepressant": [
 8,
@@ -4135,6 +4099,10 @@
 1,
 2
 ],
+"buffer": [
+1,
+2
+],
 "silicone": [
 1,
 2
@@ -4143,19 +4111,15 @@
 1,
 3
 ],
-"rotor": [
-1,
-2
-],
-"shrapnel": [
-3,
-4
-],
 "vendetta": [
 4,
 5
 ],
 "polo": [
+1,
+2
+],
+"milkshake": [
 1,
 2
 ],
@@ -4171,13 +4135,13 @@
 3,
 5
 ],
+"recruiting": [
+4,
+6
+],
 "sprinkler": [
 3,
 4
-],
-"offline": [
-0,
-1
 ],
 "termite": [
 1,
@@ -4186,10 +4150,6 @@
 "dossier": [
 4,
 6
-],
-"prefect": [
-2,
-3
 ],
 "skeptic": [
 2,
@@ -4219,6 +4179,10 @@
 2,
 3
 ],
+"intercom": [
+0,
+1
+],
 "nectar": [
 1,
 2
@@ -4239,10 +4203,6 @@
 1,
 2
 ],
-"Baptist": [
-1,
-2
-],
 "latex": [
 1,
 2
@@ -4250,6 +4210,14 @@
 "unison": [
 0,
 1
+],
+"winger": [
+1,
+2
+],
+"freestyle": [
+2,
+4
 ],
 "pedestal": [
 1,
@@ -4267,13 +4235,13 @@
 1,
 2
 ],
-"nationalist": [
-1,
-2
-],
 "concierge": [
 8,
 9
+],
+"hostess": [
+1,
+2
 ],
 "Ramadan": [
 1,
@@ -4283,17 +4251,25 @@
 1,
 2
 ],
+"contributor": [
+5,
+6
+],
+"rotor": [
+1,
+2
+],
+"ogre": [
+0,
+1
+],
 "incest": [
 0,
 1
 ],
-"Mormon": [
+"mayday": [
 1,
-2
-],
-"zoning": [
-1,
-2
+3
 ],
 "citrus": [
 1,
@@ -4307,16 +4283,12 @@
 1,
 2
 ],
-"intro": [
-0,
-1
-],
-"scouting": [
-2,
+"revival": [
+3,
 4
 ],
-"abuser": [
-2,
+"header": [
+1,
 3
 ],
 "lineup": [
@@ -4327,17 +4299,17 @@
 2,
 3
 ],
+"cleaner": [
+2,
+4
+],
+"jingle": [
+1,
+2
+],
 "microbe": [
 1,
 2
-],
-"coping": [
-1,
-2
-],
-"sportsman": [
-2,
-3
 ],
 "cappuccino": [
 7,
@@ -4359,6 +4331,10 @@
 2,
 3
 ],
+"bowler": [
+1,
+2
+],
 "flamingo": [
 4,
 5
@@ -4366,10 +4342,6 @@
 "converter": [
 4,
 5
-],
-"combo": [
-1,
-2
 ],
 "detergent": [
 3,
@@ -4395,22 +4367,6 @@
 1,
 2
 ],
-"intern": [
-0,
-1
-],
-"memorandum": [
-5,
-6
-],
-"chihuahua": [
-4,
-6
-],
-"possum": [
-1,
-2
-],
 "syphilis": [
 1,
 2
@@ -4427,21 +4383,9 @@
 0,
 1
 ],
-"polka": [
-1,
-2
-],
-"boogie": [
-1,
-3
-],
 "catheter": [
 1,
 2
-],
-"maneuver": [
-3,
-5
 ],
 "sumo": [
 1,
@@ -4455,10 +4399,6 @@
 2,
 3
 ],
-"eco": [
-0,
-1
-],
 "sakura": [
 3,
 4
@@ -4470,10 +4410,6 @@
 "elixir": [
 2,
 3
-],
-"leverage": [
-1,
-2
 ],
 "magma": [
 1,
@@ -4503,10 +4439,6 @@
 1,
 2
 ],
-"contour": [
-1,
-2
-],
 "minivan": [
 1,
 2
@@ -4531,10 +4463,6 @@
 3,
 4
 ],
-"header": [
-1,
-3
-],
 "cardigan": [
 1,
 2
@@ -4554,10 +4482,6 @@
 "telecom": [
 1,
 2
-],
-"merci": [
-4,
-5
 ],
 "kimono": [
 3,
@@ -4579,10 +4503,6 @@
 1,
 2
 ],
-"marketplace": [
-1,
-2
-],
 "detonator": [
 1,
 2
@@ -4591,31 +4511,11 @@
 2,
 3
 ],
-"canton": [
-1,
-2
-],
 "showroom": [
 2,
 3
 ],
 "scalpel": [
-2,
-3
-],
-"composite": [
-4,
-5
-],
-"networking": [
-1,
-2
-],
-"merchandising": [
-1,
-2
-],
-"shaker": [
 2,
 3
 ],
@@ -4631,6 +4531,14 @@
 1,
 3
 ],
+"homage": [
+1,
+2
+],
+"coca": [
+1,
+2
+],
 "gymnast": [
 1,
 2
@@ -4639,19 +4547,31 @@
 4,
 5
 ],
+"impulse": [
+0,
+1
+],
 "modem": [
 1,
 2
 ],
-"minus": [
+"contour": [
 1,
 2
+],
+"opal": [
+0,
+1
 ],
 "caucus": [
 1,
 3
 ],
 "pinball": [
+1,
+2
+],
+"zoning": [
 1,
 2
 ],
@@ -4663,13 +4583,13 @@
 3,
 4
 ],
+"scouting": [
+2,
+4
+],
 "connector": [
 4,
 5
-],
-"kaiser": [
-1,
-3
 ],
 "router": [
 1,
@@ -4695,10 +4615,6 @@
 6,
 7
 ],
-"radical": [
-1,
-2
-],
 "construct": [
 6,
 7
@@ -4706,10 +4622,6 @@
 "conglomerate": [
 5,
 6
-],
-"booster": [
-1,
-3
 ],
 "pasha": [
 4,
@@ -4719,9 +4631,9 @@
 1,
 2
 ],
-"buffer": [
-1,
-2
+"eco": [
+0,
+1
 ],
 "totem": [
 1,
@@ -4735,13 +4647,13 @@
 2,
 3
 ],
-"shalom": [
-4,
-5
-],
 "bimbo": [
 1,
 2
+],
+"android": [
+0,
+1
 ],
 "penicillin": [
 5,
@@ -4763,6 +4675,14 @@
 3,
 4
 ],
+"hillbilly": [
+1,
+2
+],
+"topping": [
+1,
+2
+],
 "risotto": [
 3,
 4
@@ -4779,13 +4699,9 @@
 1,
 2
 ],
-"render": [
+"vibrator": [
 1,
 2
-],
-"opal": [
-0,
-1
 ],
 "anthrax": [
 0,
@@ -4795,9 +4711,21 @@
 5,
 6
 ],
+"inbox": [
+0,
+1
+],
 "archangel": [
 4,
 5
+],
+"giveaway": [
+1,
+2
+],
+"chihuahua": [
+4,
+6
 ],
 "optimist": [
 0,
@@ -4807,7 +4735,7 @@
 2,
 3
 ],
-"indie": [
+"improv": [
 0,
 1
 ],
@@ -4823,17 +4751,13 @@
 2,
 3
 ],
-"hipster": [
+"networking": [
 1,
 2
 ],
-"jacuzzi": [
-3,
-4
-],
-"standby": [
-2,
-3
+"hipster": [
+1,
+2
 ],
 "cocoon": [
 3,
@@ -4842,6 +4766,14 @@
 "escalator": [
 0,
 1
+],
+"shalom": [
+4,
+5
+],
+"bastion": [
+1,
+2
 ],
 "Sanskrit": [
 1,
@@ -4859,51 +4791,27 @@
 1,
 2
 ],
-"tender": [
-1,
-2
+"crucifix": [
+2,
+3
 ],
 "ethanol": [
 0,
 1
 ],
-"dashboard": [
-1,
-2
-],
-"hillbilly": [
-1,
-2
-],
-"armageddon": [
-5,
-6
-],
 "paperback": [
 1,
 2
 ],
-"flannel": [
-2,
-3
-],
 "transponder": [
 6,
 7
-],
-"rally": [
-1,
-2
 ],
 "liner": [
 1,
 2
 ],
 "tripod": [
-2,
-3
-],
-"trolling": [
 2,
 3
 ],
@@ -4917,10 +4825,6 @@
 ],
 "groupie": [
 2,
-4
-],
-"sonata": [
-3,
 4
 ],
 "facade": [
@@ -4939,14 +4843,6 @@
 2,
 3
 ],
-"trouble": [
-2,
-4
-],
-"carousel": [
-1,
-2
-],
 "beret": [
 1,
 2
@@ -4958,10 +4854,6 @@
 "python": [
 1,
 2
-],
-"blogging": [
-2,
-3
 ],
 "turban": [
 1,
@@ -4975,6 +4867,10 @@
 1,
 2
 ],
+"targeting": [
+1,
+2
+],
 "amphetamine": [
 4,
 5
@@ -4982,6 +4878,10 @@
 "moderator": [
 1,
 2
+],
+"jacuzzi": [
+3,
+4
 ],
 "ether": [
 0,
@@ -4991,15 +4891,11 @@
 1,
 2
 ],
-"masquerade": [
-7,
-8
+"quaker": [
+1,
+3
 ],
-"engineering": [
-0,
-1
-],
-"bastion": [
+"henry": [
 1,
 2
 ],
@@ -5010,6 +4906,10 @@
 "paintball": [
 1,
 3
+],
+"caddie": [
+1,
+2
 ],
 "cadaver": [
 3,
@@ -5035,6 +4935,26 @@
 1,
 2
 ],
+"shoplifting": [
+2,
+3
+],
+"madeleine": [
+5,
+7
+],
+"sonata": [
+3,
+4
+],
+"tester": [
+1,
+2
+],
+"trolling": [
+2,
+3
+],
 "marlin": [
 1,
 2
@@ -5043,13 +4963,17 @@
 0,
 2
 ],
+"basset": [
+1,
+2
+],
 "gringo": [
 2,
 3
 ],
-"khaki": [
-2,
-3
+"Islamist": [
+0,
+1
 ],
 "leprechaun": [
 1,
@@ -5067,6 +4991,10 @@
 4,
 5
 ],
+"combo": [
+1,
+2
+],
 "magnolia": [
 4,
 5
@@ -5074,6 +5002,10 @@
 "embargo": [
 3,
 4
+],
+"tropics": [
+2,
+3
 ],
 "sonnet": [
 1,
@@ -5103,6 +5035,10 @@
 1,
 2
 ],
+"keynote": [
+1,
+3
+],
 "armada": [
 3,
 4
@@ -5118,6 +5054,10 @@
 "mustang": [
 1,
 2
+],
+"masquerade": [
+7,
+8
 ],
 "geisha": [
 1,
@@ -5135,9 +5075,25 @@
 1,
 2
 ],
+"desktop": [
+1,
+2
+],
 "krone": [
 2,
 3
+],
+"armageddon": [
+5,
+6
+],
+"boogie": [
+1,
+3
+],
+"indie": [
+0,
+1
 ],
 "benchmark": [
 1,
@@ -5167,6 +5123,14 @@
 2,
 3
 ],
+"appendix": [
+3,
+4
+],
+"abuser": [
+2,
+3
+],
 "trapper": [
 2,
 3
@@ -5176,10 +5140,6 @@
 2
 ],
 "biking": [
-1,
-2
-],
-"vibrator": [
 1,
 2
 ],
@@ -5195,6 +5155,10 @@
 1,
 2
 ],
+"dinar": [
+3,
+4
+],
 "afro": [
 0,
 1
@@ -5203,9 +5167,17 @@
 3,
 4
 ],
+"husky": [
+1,
+2
+],
 "consort": [
 4,
 5
+],
+"roaming": [
+1,
+3
 ],
 "nachos": [
 1,
@@ -5214,6 +5186,10 @@
 "separatist": [
 1,
 2
+],
+"blogging": [
+2,
+3
 ],
 "dodo": [
 1,
@@ -5230,6 +5206,14 @@
 "kiwi": [
 1,
 2
+],
+"kaiser": [
+1,
+3
+],
+"scrapbook": [
+3,
+4
 ],
 "respondent": [
 4,
@@ -5255,15 +5239,19 @@
 0,
 1
 ],
+"narcissist": [
+1,
+2
+],
 "sulfate": [
 1,
 2
 ],
-"benefit": [
-1,
-2
-],
 "sparring": [
+2,
+3
+],
+"electro": [
 2,
 3
 ],
@@ -5274,6 +5262,10 @@
 "pseudonym": [
 2,
 4
+],
+"marketplace": [
+1,
+2
 ],
 "mana": [
 1,
@@ -5287,9 +5279,17 @@
 1,
 3
 ],
+"composite": [
+4,
+5
+],
 "townhouse": [
 1,
 2
+],
+"flannel": [
+2,
+3
 ],
 "chardonnay": [
 5,
@@ -5303,6 +5303,10 @@
 2,
 3
 ],
+"gopher": [
+1,
+2
+],
 "Urdu": [
 3,
 4
@@ -5310,10 +5314,6 @@
 "steward": [
 2,
 3
-],
-"forward": [
-1,
-2
 ],
 "aggressor": [
 4,
@@ -5323,6 +5323,10 @@
 1,
 2
 ],
+"khaki": [
+2,
+3
+],
 "newsroom": [
 1,
 2
@@ -5330,10 +5334,6 @@
 "exorcist": [
 0,
 1
-],
-"finale": [
-3,
-4
 ],
 "illustrator": [
 0,
@@ -5347,21 +5347,13 @@
 1,
 2
 ],
-"basset": [
-1,
-2
-],
-"impulse": [
-0,
-1
-],
 "iguana": [
 2,
 4
 ],
-"yeti": [
-1,
-2
+"redesign": [
+5,
+6
 ],
 "synod": [
 1,
@@ -5372,10 +5364,6 @@
 2
 ],
 "piccolo": [
-1,
-2
-],
-"winger": [
 1,
 2
 ],
@@ -5392,6 +5380,10 @@
 1
 ],
 "swastika": [
+2,
+3
+],
+"shortcut": [
 2,
 3
 ],
@@ -5419,9 +5411,21 @@
 3,
 4
 ],
+"baggy": [
+1,
+2
+],
 "wiki": [
 1,
 2
+],
+"siding": [
+1,
+2
+],
+"prefect": [
+2,
+3
 ],
 "junta": [
 1,
@@ -5435,15 +5439,11 @@
 1,
 2
 ],
-"fundamentalist": [
-6,
-7
-],
 "ballast": [
 1,
 2
 ],
-"husky": [
+"polka": [
 1,
 2
 ],
@@ -5459,12 +5459,12 @@
 3,
 4
 ],
-"macho": [
-1,
-2
-],
 "phosphate": [
 2,
+3
+],
+"eyeliner": [
+0,
 3
 ],
 "digest": [
@@ -5483,9 +5483,13 @@
 5,
 7
 ],
-"initial": [
-2,
-3
+"rewrite": [
+4,
+5
+],
+"carousel": [
+1,
+2
 ],
 "pauper": [
 1,
@@ -5499,10 +5503,6 @@
 1,
 2
 ],
-"express": [
-4,
-5
-],
 "kryptonite": [
 2,
 3
@@ -5511,9 +5511,21 @@
 2,
 3
 ],
+"lemur": [
+1,
+2
+],
+"resonance": [
+1,
+2
+],
 "barista": [
 3,
 4
+],
+"escrow": [
+4,
+5
 ],
 "showbiz": [
 2,
@@ -5531,16 +5543,20 @@
 2,
 4
 ],
-"underground": [
-0,
-1
-],
 "mandarin": [
 1,
 2
 ],
-"roaming": [
+"endgame": [
+0,
+1
+],
+"guinea": [
 1,
+3
+],
+"primer": [
+2,
 3
 ],
 "zucchini": [
@@ -5555,10 +5571,6 @@
 2,
 3
 ],
-"rani": [
-1,
-2
-],
 "importer": [
 3,
 4
@@ -5571,9 +5583,13 @@
 1,
 2
 ],
-"guesthouse": [
+"cantor": [
 1,
-3
+2
+],
+"toffee": [
+1,
+2
 ],
 "exporter": [
 3,
@@ -5582,10 +5598,6 @@
 "rendering": [
 1,
 2
-],
-"teaser": [
-1,
-3
 ],
 "peroxide": [
 3,
@@ -5599,6 +5611,10 @@
 2,
 3
 ],
+"overkill": [
+0,
+1
+],
 "zenith": [
 1,
 2
@@ -5607,41 +5623,45 @@
 1,
 2
 ],
+"ergo": [
+0,
+1
+],
 "actin": [
 0,
 1
+],
+"supremacist": [
+4,
+5
 ],
 "inquisitor": [
 3,
 5
 ],
-"limbo": [
-1,
-2
-],
 "insecticide": [
 3,
 4
 ],
-"emitter": [
-2,
-3
-],
-"degenerate": [
-3,
-4
-],
-"targeting": [
+"merchandising": [
 1,
 2
+],
+"matinee": [
+1,
+2
+],
+"yeti": [
+1,
+2
+],
+"memorandum": [
+5,
+6
 ],
 "disclaimer": [
 5,
 7
-],
-"gondola": [
-1,
-2
 ],
 "serotonin": [
 5,
@@ -5663,10 +5683,6 @@
 4,
 5
 ],
-"spotter": [
-2,
-3
-],
 "jihadist": [
 3,
 4
@@ -5678,6 +5694,18 @@
 "guacamole": [
 6,
 7
+],
+"namaste": [
+1,
+2
+],
+"hickory": [
+1,
+2
+],
+"surfboard": [
+1,
+2
 ],
 "bongo": [
 1,
@@ -5711,10 +5739,6 @@
 1,
 2
 ],
-"android": [
-0,
-1
-],
 "indigo": [
 0,
 1
@@ -5747,10 +5771,6 @@
 2,
 3
 ],
-"filament": [
-1,
-2
-],
 "adhesive": [
 3,
 4
@@ -5779,10 +5799,6 @@
 1,
 2
 ],
-"resonance": [
-1,
-2
-],
 "hydra": [
 1,
 2
@@ -5794,6 +5810,10 @@
 "liqueur": [
 3,
 6
+],
+"retainer": [
+3,
+5
 ],
 "poncho": [
 1,
@@ -5815,6 +5835,10 @@
 1,
 2
 ],
+"gondola": [
+1,
+2
+],
 "congresswoman": [
 1,
 2
@@ -5822,6 +5846,10 @@
 "ivory": [
 0,
 1
+],
+"skater": [
+2,
+3
 ],
 "screenshot": [
 3,
@@ -5855,13 +5883,21 @@
 1,
 2
 ],
+"clementine": [
+2,
+3
+],
+"marauder": [
+3,
+5
+],
 "backlog": [
 1,
 2
 ],
-"laureate": [
+"gonzo": [
 1,
-3
+2
 ],
 "retriever": [
 4,
@@ -5871,13 +5907,13 @@
 4,
 5
 ],
-"appendix": [
-3,
-4
-],
 "antigen": [
 0,
 1
+],
+"lambda": [
+1,
+2
 ],
 "cretin": [
 2,
@@ -5894,6 +5930,14 @@
 "collagen": [
 1,
 2
+],
+"reboot": [
+3,
+5
+],
+"loafer": [
+1,
+3
 ],
 "synapse": [
 1,
@@ -5919,13 +5963,25 @@
 1,
 2
 ],
+"lettering": [
+1,
+2
+],
+"maxi": [
+1,
+2
+],
+"backstage": [
+1,
+2
+],
 "ester": [
 0,
 1
 ],
-"contributor": [
-5,
-6
+"scammer": [
+2,
+3
 ],
 "archetype": [
 0,
@@ -5935,13 +5991,13 @@
 4,
 5
 ],
-"curling": [
+"remover": [
+3,
+4
+],
+"nudist": [
 1,
 2
-],
-"bourgeois": [
-5,
-8
 ],
 "edema": [
 2,
@@ -5951,10 +6007,6 @@
 3,
 4
 ],
-"snippet": [
-2,
-3
-],
 "tracer": [
 2,
 3
@@ -5963,25 +6015,17 @@
 3,
 4
 ],
-"grooming": [
-2,
-4
-],
 "haiku": [
+1,
+3
+],
+"teaser": [
 1,
 3
 ],
 "cashew": [
 1,
 2
-],
-"negative": [
-1,
-2
-],
-"referral": [
-3,
-4
 ],
 "formaldehyde": [
 4,
@@ -6023,19 +6067,27 @@
 0,
 1
 ],
+"decaf": [
+1,
+2
+],
 "pollutant": [
 4,
 5
-],
-"primer": [
-2,
-3
 ],
 "shortstop": [
 2,
 3
 ],
+"sportsman": [
+2,
+3
+],
 "kanji": [
+1,
+2
+],
+"dashboard": [
 1,
 2
 ],
@@ -6051,21 +6103,21 @@
 1,
 3
 ],
+"fullback": [
+1,
+2
+],
 "centimeter": [
-1,
-2
-],
-"fixer": [
-1,
-2
-],
-"mullet": [
 1,
 2
 ],
 "enclave": [
 0,
 1
+],
+"blacklist": [
+2,
+3
 ],
 "parton": [
 1,
@@ -6115,10 +6167,6 @@
 1,
 2
 ],
-"hemlock": [
-1,
-2
-],
 "decorum": [
 3,
 4
@@ -6151,13 +6199,17 @@
 1,
 2
 ],
+"laureate": [
+1,
+3
+],
+"shaker": [
+2,
+3
+],
 "baguette": [
 3,
 5
-],
-"proctor": [
-2,
-3
 ],
 "opportunist": [
 6,
@@ -6191,7 +6243,15 @@
 2,
 4
 ],
+"rani": [
+1,
+2
+],
 "Marxist": [
+1,
+2
+],
+"caddy": [
 1,
 2
 ],
@@ -6207,19 +6267,15 @@
 2,
 4
 ],
-"callback": [
-1,
-2
-],
-"skater": [
-2,
-3
-],
 "origami": [
 4,
 5
 ],
 "anaconda": [
+4,
+5
+],
+"cascade": [
 4,
 5
 ],
@@ -6235,11 +6291,11 @@
 1,
 2
 ],
-"handball": [
+"bungee": [
 1,
 2
 ],
-"cantor": [
+"handball": [
 1,
 2
 ],
@@ -6251,17 +6307,21 @@
 2,
 3
 ],
-"baritone": [
+"pentagon": [
 1,
 2
 ],
-"nudist": [
-1,
-2
+"greenfield": [
+2,
+4
 ],
 "shaheed": [
 4,
 6
+],
+"cicada": [
+3,
+4
 ],
 "pacifist": [
 1,
@@ -6275,6 +6335,10 @@
 1,
 2
 ],
+"extravaganza": [
+8,
+9
+],
 "humanoid": [
 1,
 2
@@ -6286,14 +6350,6 @@
 "petitioner": [
 3,
 4
-],
-"confederate": [
-4,
-5
-],
-"regulator": [
-1,
-2
 ],
 "thermos": [
 2,
@@ -6307,7 +6363,11 @@
 3,
 4
 ],
-"respirator": [
+"emcee": [
+0,
+1
+],
+"gendarme": [
 1,
 2
 ],
@@ -6319,9 +6379,17 @@
 6,
 7
 ],
+"newton": [
+1,
+2
+],
 "subcontractor": [
 4,
 5
+],
+"magenta": [
+3,
+4
 ],
 "albino": [
 3,
@@ -6351,9 +6419,9 @@
 2,
 3
 ],
-"clementine": [
-2,
-3
+"imperative": [
+3,
+4
 ],
 "methamphetamine": [
 8,
@@ -6363,13 +6431,13 @@
 1,
 3
 ],
-"backend": [
-4,
-5
-],
 "replicator": [
 1,
 2
+],
+"ante": [
+0,
+1
 ],
 "perfectionist": [
 4,
@@ -6415,15 +6483,15 @@
 0,
 1
 ],
+"fairway": [
+1,
+3
+],
 "aloe": [
 0,
 1
 ],
 "micron": [
-1,
-2
-],
-"rector": [
 1,
 2
 ],
@@ -6475,10 +6543,6 @@
 0,
 1
 ],
-"electro": [
-2,
-3
-],
 "manta": [
 1,
 2
@@ -6491,7 +6555,15 @@
 1,
 2
 ],
-"focus": [
+"steakhouse": [
+2,
+4
+],
+"medley": [
+1,
+2
+],
+"mullet": [
 1,
 2
 ],
@@ -6519,6 +6591,10 @@
 1,
 2
 ],
+"prefix": [
+2,
+3
+],
 "asterisk": [
 0,
 1
@@ -6527,9 +6603,21 @@
 1,
 2
 ],
+"humanist": [
+1,
+2
+],
 "carbonate": [
 1,
 2
+],
+"gumbo": [
+1,
+2
+],
+"guesthouse": [
+1,
+3
 ],
 "nonfiction": [
 4,
@@ -6538,6 +6626,10 @@
 "sepsis": [
 1,
 2
+],
+"uplink": [
+0,
+1
 ],
 "radon": [
 1,
@@ -6551,8 +6643,8 @@
 3,
 4
 ],
-"snowboard": [
-2,
+"booker": [
+1,
 3
 ],
 "glaucoma": [
@@ -6562,6 +6654,10 @@
 "barracuda": [
 6,
 7
+],
+"baritone": [
+1,
+2
 ],
 "gulag": [
 1,
@@ -6607,19 +6703,31 @@
 1,
 2
 ],
+"pulsar": [
+1,
+2
+],
 "oscillator": [
 0,
 1
+],
+"paisley": [
+1,
+3
 ],
 "molar": [
 1,
 2
 ],
-"tabernacle": [
+"tapas": [
 1,
 2
 ],
-"tapas": [
+"standby": [
+2,
+3
+],
+"curling": [
 1,
 2
 ],
@@ -6632,6 +6740,14 @@
 3
 ],
 "motivator": [
+1,
+2
+],
+"multitasking": [
+1,
+2
+],
+"mitzvah": [
 1,
 2
 ],
@@ -6651,9 +6767,17 @@
 4,
 6
 ],
+"peseta": [
+3,
+4
+],
 "rancho": [
 1,
 2
+],
+"brainstorming": [
+2,
+4
 ],
 "reflux": [
 1,
@@ -6675,11 +6799,15 @@
 1,
 2
 ],
+"crossover": [
+2,
+3
+],
 "incubator": [
 0,
 1
 ],
-"backstage": [
+"backpacking": [
 1,
 2
 ],
@@ -6699,29 +6827,25 @@
 0,
 1
 ],
+"degenerate": [
+3,
+4
+],
 "propellant": [
 4,
 5
-],
-"pulsar": [
-1,
-2
 ],
 "repellent": [
 3,
 4
 ],
-"siding": [
+"possum": [
 1,
 2
 ],
 "punchline": [
 1,
 2
-],
-"affect": [
-3,
-4
 ],
 "incognito": [
 6,
@@ -6787,6 +6911,10 @@
 9,
 10
 ],
+"polyp": [
+1,
+2
+],
 "deflector": [
 4,
 5
@@ -6795,19 +6923,27 @@
 1,
 2
 ],
+"lumen": [
+1,
+2
+],
 "impressionist": [
 4,
 5
-],
-"prefix": [
-2,
-3
 ],
 "topaz": [
 1,
 2
 ],
 "labrador": [
+1,
+2
+],
+"aftershave": [
+7,
+8
+],
+"purist": [
 1,
 2
 ],
@@ -6826,10 +6962,6 @@
 "vaseline": [
 1,
 2
-],
-"supremacist": [
-4,
-5
 ],
 "facilitator": [
 3,
@@ -6883,9 +7015,9 @@
 1,
 2
 ],
-"pitching": [
-1,
-2
+"enchilada": [
+6,
+7
 ],
 "methyl": [
 1,
@@ -6899,7 +7031,19 @@
 4,
 5
 ],
+"shekel": [
+2,
+3
+],
 "spectrometer": [
+6,
+7
+],
+"forceps": [
+1,
+2
+],
+"fundamentalist": [
 6,
 7
 ],
@@ -6912,6 +7056,10 @@
 2
 ],
 "lemming": [
+1,
+2
+],
+"filament": [
 1,
 2
 ],
@@ -6939,9 +7087,9 @@
 1,
 2
 ],
-"Bordeaux": [
-4,
-7
+"fixer": [
+1,
+2
 ],
 "chiffon": [
 5,
@@ -6963,6 +7111,14 @@
 3,
 4
 ],
+"ave": [
+0,
+1
+],
+"aficionado": [
+7,
+8
+],
 "servo": [
 1,
 2
@@ -6983,6 +7139,10 @@
 1,
 3
 ],
+"foxtrot": [
+1,
+2
+],
 "epinephrine": [
 4,
 5
@@ -6998,6 +7158,10 @@
 "concentrate": [
 1,
 2
+],
+"bourgeois": [
+5,
+8
 ],
 "guppy": [
 1,
@@ -7071,31 +7235,31 @@
 4,
 5
 ],
+"shiite": [
+2,
+4
+],
+"soiree": [
+4,
+6
+],
 "betel": [
 1,
 2
 ],
-"crossover": [
-2,
-3
+"vermouth": [
+4,
+6
 ],
 "thorax": [
 2,
 3
 ],
-"hardcore": [
-1,
-2
-],
-"florin": [
-2,
-3
-],
-"herald": [
-1,
-2
-],
 "pedophilia": [
+6,
+7
+],
+"americano": [
 6,
 7
 ],
@@ -7111,6 +7275,10 @@
 3,
 4
 ],
+"pandit": [
+1,
+2
+],
 "lipid": [
 1,
 2
@@ -7122,6 +7290,10 @@
 "regatta": [
 3,
 4
+],
+"orbiter": [
+0,
+1
 ],
 "cursor": [
 1,
@@ -7143,13 +7315,21 @@
 6,
 8
 ],
+"despot": [
+1,
+2
+],
 "archivist": [
 0,
 1
 ],
-"paisley": [
-1,
-3
+"reservist": [
+3,
+4
+],
+"eggnog": [
+0,
+1
 ],
 "xenon": [
 1,
@@ -7163,6 +7343,10 @@
 4,
 5
 ],
+"emitter": [
+2,
+3
+],
 "troubadour": [
 2,
 4
@@ -7174,6 +7358,10 @@
 "sura": [
 1,
 2
+],
+"stalag": [
+2,
+3
 ],
 "vermilion": [
 4,
@@ -7191,9 +7379,17 @@
 1,
 2
 ],
+"grooming": [
+2,
+4
+],
 "roadster": [
 1,
 3
+],
+"greenback": [
+2,
+4
 ],
 "hashish": [
 1,
@@ -7219,18 +7415,6 @@
 5,
 6
 ],
-"hora": [
-1,
-2
-],
-"lumen": [
-1,
-2
-],
-"breaking": [
-2,
-4
-],
 "protectorate": [
 4,
 5
@@ -7239,15 +7423,15 @@
 5,
 6
 ],
-"Islamist": [
-0,
-1
-],
-"roadshow": [
-1,
+"snowboard": [
+2,
 3
 ],
 "methanol": [
+1,
+2
+],
+"butterscotch": [
 1,
 2
 ],
@@ -7255,15 +7439,7 @@
 0,
 1
 ],
-"lactate": [
-1,
-2
-],
 "farthing": [
-1,
-2
-],
-"bungee": [
 1,
 2
 ],
@@ -7287,10 +7463,6 @@
 3,
 4
 ],
-"tester": [
-1,
-2
-],
 "transducer": [
 6,
 7
@@ -7303,7 +7475,7 @@
 1,
 2
 ],
-"mildew": [
+"dissonance": [
 1,
 2
 ],
@@ -7311,25 +7483,25 @@
 1,
 2
 ],
+"sketchbook": [
+2,
+3
+],
 "marinade": [
 1,
 2
 ],
-"freelance": [
-2,
-4
+"rector": [
+1,
+2
 ],
-"shifter": [
-2,
-3
+"workbook": [
+1,
+2
 ],
 "wallaby": [
 1,
 2
-],
-"perfect": [
-4,
-5
 ],
 "calypso": [
 3,
@@ -7347,6 +7519,10 @@
 1,
 2
 ],
+"pascal": [
+4,
+5
+],
 "slider": [
 2,
 3
@@ -7359,15 +7535,19 @@
 3,
 4
 ],
-"clicker": [
-2,
-3
-],
 "manna": [
 1,
 2
 ],
+"routing": [
+1,
+3
+],
 "amygdala": [
+5,
+6
+],
+"redirect": [
 5,
 6
 ],
@@ -7387,17 +7567,9 @@
 7,
 8
 ],
-"pacer": [
-1,
-2
-],
 "storyboard": [
 2,
 3
-],
-"lambda": [
-1,
-2
 ],
 "aftershock": [
 0,
@@ -7419,9 +7591,21 @@
 4,
 5
 ],
+"wombat": [
+1,
+2
+],
 "absolute": [
 0,
 1
+],
+"workspace": [
+1,
+2
+],
+"logbook": [
+1,
+2
 ],
 "emphysema": [
 6,
@@ -7430,6 +7614,10 @@
 "gardenia": [
 4,
 5
+],
+"pastrami": [
+5,
+6
 ],
 "narcotic": [
 4,
@@ -7456,6 +7644,10 @@
 2
 ],
 "zigzag": [
+1,
+2
+],
+"normie": [
 1,
 2
 ],
@@ -7499,10 +7691,6 @@
 3,
 4
 ],
-"fallback": [
-1,
-2
-],
 "filet": [
 3,
 4
@@ -7510,6 +7698,10 @@
 "baronet": [
 1,
 2
+],
+"shutout": [
+2,
+3
 ],
 "tuner": [
 1,
@@ -7523,9 +7715,9 @@
 4,
 5
 ],
-"booker": [
+"senna": [
 1,
-3
+2
 ],
 "downtime": [
 1,
@@ -7556,10 +7748,6 @@
 3
 ],
 "bento": [
-1,
-2
-],
-"digital": [
 1,
 2
 ],
@@ -7599,9 +7787,17 @@
 3,
 4
 ],
+"hussar": [
+1,
+2
+],
 "quasar": [
 1,
 3
+],
+"antivirus": [
+5,
+6
 ],
 "tropic": [
 2,
@@ -7619,6 +7815,10 @@
 1,
 2
 ],
+"mimosa": [
+3,
+4
+],
 "koto": [
 1,
 2
@@ -7626,6 +7826,10 @@
 "telepath": [
 5,
 6
+],
+"respirator": [
+1,
+2
 ],
 "pastel": [
 4,
@@ -7639,9 +7843,17 @@
 1,
 2
 ],
+"chinchilla": [
+6,
+7
+],
 "Esperanto": [
 5,
 6
+],
+"backgammon": [
+1,
+2
 ],
 "balaclava": [
 6,
@@ -7655,6 +7867,10 @@
 4,
 5
 ],
+"crouton": [
+2,
+4
+],
 "analog": [
 0,
 1
@@ -7663,15 +7879,15 @@
 5,
 6
 ],
+"multimillionaire": [
+12,
+14
+],
 "vulva": [
 1,
 2
 ],
 "feta": [
-1,
-2
-],
-"happening": [
 1,
 2
 ],
@@ -7699,6 +7915,10 @@
 4,
 6
 ],
+"reverb": [
+3,
+4
+],
 "dreadnought": [
 2,
 4
@@ -7707,9 +7927,21 @@
 3,
 4
 ],
+"ethernet": [
+0,
+1
+],
 "senor": [
 3,
 4
+],
+"splitter": [
+3,
+4
+],
+"plexus": [
+2,
+3
 ],
 "daiquiri": [
 1,
@@ -7718,6 +7950,10 @@
 "bambino": [
 4,
 5
+],
+"desperado": [
+6,
+7
 ],
 "barbiturate": [
 4,
@@ -7731,7 +7967,19 @@
 1,
 2
 ],
+"downsizing": [
+1,
+2
+],
 "fatwa": [
+1,
+2
+],
+"rummy": [
+1,
+2
+],
+"lactate": [
 1,
 2
 ],
@@ -7775,9 +8023,25 @@
 2,
 3
 ],
+"cellophane": [
+1,
+2
+],
+"satoshi": [
+3,
+4
+],
 "metabolite": [
 3,
 4
+],
+"hora": [
+1,
+2
+],
+"picker": [
+1,
+2
 ],
 "sapper": [
 1,
@@ -7803,6 +8067,10 @@
 1,
 3
 ],
+"midi": [
+1,
+2
+],
 "preset": [
 4,
 5
@@ -7810,10 +8078,6 @@
 "monocle": [
 1,
 2
-],
-"profit": [
-2,
-3
 ],
 "barometer": [
 3,
@@ -7835,6 +8099,10 @@
 1,
 2
 ],
+"racquetball": [
+1,
+2
+],
 "chlorophyll": [
 3,
 4
@@ -7851,11 +8119,19 @@
 3,
 4
 ],
+"snowboarder": [
+2,
+3
+],
 "pinto": [
 1,
 2
 ],
 "franchisee": [
+2,
+3
+],
+"shifter": [
 2,
 3
 ],
@@ -7874,10 +8150,6 @@
 "lockout": [
 1,
 2
-],
-"generic": [
-3,
-4
 ],
 "moccasin": [
 1,
@@ -7919,6 +8191,14 @@
 4,
 5
 ],
+"macho": [
+1,
+2
+],
+"legionnaire": [
+1,
+2
+],
 "teleport": [
 1,
 2
@@ -7931,13 +8211,13 @@
 2,
 3
 ],
+"pacer": [
+1,
+2
+],
 "progesterone": [
 4,
 5
-],
-"rollover": [
-1,
-2
 ],
 "quintet": [
 5,
@@ -7946,6 +8226,14 @@
 "amine": [
 2,
 3
+],
+"pogrom": [
+4,
+5
+],
+"chauvinist": [
+2,
+4
 ],
 "credo": [
 2,
@@ -7966,6 +8254,10 @@
 "bolero": [
 3,
 4
+],
+"drachma": [
+2,
+3
 ],
 "rotunda": [
 3,
@@ -7999,6 +8291,10 @@
 1,
 2
 ],
+"leaderboard": [
+1,
+3
+],
 "hadron": [
 1,
 2
@@ -8007,13 +8303,25 @@
 7,
 8
 ],
+"parfait": [
+4,
+6
+],
 "optometrist": [
 3,
 4
 ],
+"casbah": [
+1,
+2
+],
 "celluloid": [
 1,
 2
+],
+"propagandist": [
+6,
+7
 ],
 "limerick": [
 1,
@@ -8027,11 +8335,19 @@
 1,
 2
 ],
+"seder": [
+1,
+2
+],
 "Afrikaans": [
 5,
 7
 ],
 "hypothalamus": [
+6,
+7
+],
+"brioche": [
 6,
 7
 ],
@@ -8043,13 +8359,13 @@
 3,
 4
 ],
-"vena": [
-1,
-2
-],
 "tinnitus": [
 1,
 2
+],
+"aftermarket": [
+0,
+1
 ],
 "cortisone": [
 1,
@@ -8062,6 +8378,10 @@
 "silicate": [
 1,
 2
+],
+"slapstick": [
+2,
+3
 ],
 "candida": [
 1,
@@ -8083,6 +8403,10 @@
 1,
 2
 ],
+"spotter": [
+2,
+3
+],
 "illusionist": [
 3,
 4
@@ -8103,13 +8427,29 @@
 1,
 2
 ],
-"separator": [
+"roadmap": [
+1,
+3
+],
+"mackintosh": [
 1,
 2
+],
+"goulash": [
+1,
+3
+],
+"predictor": [
+4,
+5
 ],
 "ethylene": [
 0,
 1
+],
+"minaret": [
+5,
+6
 ],
 "coitus": [
 1,
@@ -8119,11 +8459,11 @@
 2,
 3
 ],
-"stylus": [
-2,
-3
-],
 "gigabyte": [
+1,
+2
+],
+"telethon": [
 1,
 2
 ],
@@ -8134,6 +8474,18 @@
 "retrovirus": [
 6,
 7
+],
+"blitzkrieg": [
+2,
+3
+],
+"survivalist": [
+4,
+5
+],
+"zeitgeist": [
+1,
+3
 ],
 "underwriting": [
 0,
@@ -8147,9 +8499,21 @@
 5,
 6
 ],
+"forte": [
+1,
+2
+],
 "caldera": [
 4,
 5
+],
+"brony": [
+2,
+3
+],
+"teleprompter": [
+1,
+2
 ],
 "ratatouille": [
 5,
@@ -8159,10 +8523,6 @@
 4,
 5
 ],
-"yucca": [
-1,
-2
-],
 "grappling": [
 2,
 3
@@ -8171,17 +8531,13 @@
 4,
 5
 ],
-"switching": [
-2,
-3
+"onsite": [
+0,
+1
 ],
 "banyan": [
 1,
 2
-],
-"elastic": [
-2,
-3
 ],
 "deva": [
 1,
@@ -8191,13 +8547,13 @@
 4,
 6
 ],
-"sampling": [
-1,
-2
-],
 "rhododendron": [
 6,
 7
+],
+"appellant": [
+3,
+4
 ],
 "plotter": [
 2,
@@ -8215,9 +8571,13 @@
 1,
 2
 ],
-"virginal": [
+"hyperdrive": [
 1,
 2
+],
+"clicker": [
+2,
+3
 ],
 "triceratops": [
 4,
@@ -8227,12 +8587,28 @@
 1,
 2
 ],
+"georgette": [
+5,
+6
+],
+"operetta": [
+4,
+5
+],
 "praxis": [
 2,
 3
 ],
 "catharsis": [
 4,
+5
+],
+"aerodrome": [
+0,
+2
+],
+"kazoo": [
+3,
 5
 ],
 "hominid": [
@@ -8247,9 +8623,21 @@
 3,
 4
 ],
+"workaround": [
+1,
+2
+],
+"madrigal": [
+1,
+2
+],
 "seraphim": [
 6,
 7
+],
+"shimmy": [
+2,
+3
 ],
 "conga": [
 1,
@@ -8283,6 +8671,22 @@
 3,
 4
 ],
+"tabernacle": [
+1,
+2
+],
+"riesling": [
+1,
+3
+],
+"slicer": [
+2,
+3
+],
+"agora": [
+0,
+1
+],
 "patina": [
 3,
 4
@@ -8295,9 +8699,17 @@
 3,
 4
 ],
+"bivouac": [
+1,
+2
+],
 "lymphocyte": [
 1,
 2
+],
+"antacid": [
+3,
+4
 ],
 "aphasia": [
 3,
@@ -8311,9 +8723,25 @@
 1,
 3
 ],
+"pachinko": [
+4,
+5
+],
+"fajita": [
+3,
+4
+],
 "krypton": [
 2,
 3
+],
+"fallback": [
+1,
+2
+],
+"romaine": [
+3,
+5
 ],
 "massager": [
 4,
@@ -8327,17 +8755,25 @@
 1,
 2
 ],
+"satsuma": [
+4,
+5
+],
+"agate": [
+0,
+1
+],
 "polyurethane": [
 6,
 7
 ],
-"timbre": [
+"kismet": [
 1,
 2
 ],
-"extrovert": [
-0,
-1
+"timbre": [
+1,
+2
 ],
 "belvedere": [
 6,
@@ -8355,10 +8791,6 @@
 1,
 2
 ],
-"ultra": [
-0,
-1
-],
 "caballero": [
 6,
 7
@@ -8366,6 +8798,18 @@
 "autobahn": [
 0,
 2
+],
+"catamaran": [
+7,
+8
+],
+"adventist": [
+0,
+1
+],
+"recliner": [
+4,
+5
 ],
 "alkaloid": [
 0,
@@ -8387,6 +8831,10 @@
 1,
 2
 ],
+"baccarat": [
+6,
+7
+],
 "nelson": [
 1,
 2
@@ -8399,25 +8847,13 @@
 0,
 1
 ],
-"antacid": [
-3,
-4
-],
 "statin": [
 2,
 3
 ],
-"predictor": [
+"vibrato": [
 4,
 5
-],
-"agora": [
-0,
-1
-],
-"ante": [
-0,
-1
 ],
 "ollie": [
 0,
@@ -8431,14 +8867,6 @@
 5,
 6
 ],
-"staging": [
-2,
-3
-],
-"madeleine": [
-5,
-7
-],
 "dolomite": [
 1,
 2
@@ -8447,37 +8875,53 @@
 2,
 3
 ],
-"humanist": [
-1,
-2
-],
 "electroshock": [
 2,
 3
+],
+"workflow": [
+1,
+2
 ],
 "positron": [
 1,
 2
 ],
+"stylus": [
+2,
+3
+],
 "laminate": [
 1,
 2
 ],
-"agate": [
-0,
-1
+"bonito": [
+3,
+4
+],
+"beatnik": [
+1,
+3
 ],
 "corticosteroid": [
 9,
 10
 ],
-"suppressor": [
-5,
-6
+"toggle": [
+1,
+2
+],
+"padawan": [
+1,
+2
 ],
 "triglyceride": [
 5,
 6
+],
+"monarchist": [
+1,
+2
 ],
 "pullman": [
 1,
@@ -8503,10 +8947,6 @@
 3,
 4
 ],
-"antivirus": [
-5,
-6
-],
 "comandante": [
 6,
 7
@@ -8515,21 +8955,37 @@
 1,
 2
 ],
-"basis": [
+"rewriting": [
+4,
+5
+],
+"snippet": [
+2,
+3
+],
+"yucca": [
 1,
 2
+],
+"biscotti": [
+4,
+5
+],
+"kabbalah": [
+4,
+5
 ],
 "emulator": [
 0,
 1
 ],
-"Shona": [
-2,
-3
+"cowbell": [
+1,
+2
 ],
-"pragmatist": [
-2,
-3
+"calico": [
+1,
+2
 ],
 "sexist": [
 1,
@@ -8555,17 +9011,29 @@
 1,
 2
 ],
+"laudanum": [
+1,
+3
+],
 "liquidator": [
 1,
 2
+],
+"echidna": [
+3,
+4
 ],
 "soma": [
 1,
 2
 ],
-"cascade": [
-4,
-5
+"tribune": [
+2,
+3
+],
+"microgram": [
+1,
+2
 ],
 "acetaminophen": [
 6,
@@ -8579,12 +9047,16 @@
 1,
 2
 ],
-"maidan": [
-4,
-5
+"opossum": [
+2,
+3
 ],
 "breakwater": [
 2,
+4
+],
+"begonia": [
+3,
 4
 ],
 "proofreading": [
@@ -8595,9 +9067,17 @@
 1,
 2
 ],
-"combine": [
+"presto": [
+2,
+3
+],
+"triumvirate": [
+6,
+7
+],
+"buyback": [
 1,
-2
+3
 ],
 "multiplex": [
 1,
@@ -8619,16 +9099,8 @@
 1,
 2
 ],
-"halfback": [
-1,
-2
-],
 "oolong": [
 0,
-2
-],
-"telomere": [
-1,
 2
 ],
 "signaling": [
@@ -8647,6 +9119,10 @@
 1,
 2
 ],
+"provolone": [
+2,
+3
+],
 "taxidermist": [
 1,
 2
@@ -8655,9 +9131,17 @@
 8,
 9
 ],
+"extrovert": [
+0,
+1
+],
 "predicate": [
 2,
 3
+],
+"rockabilly": [
+1,
+2
 ],
 "debater": [
 3,
@@ -8679,9 +9163,29 @@
 2,
 3
 ],
+"xylophone": [
+1,
+2
+],
+"chutzpah": [
+2,
+3
+],
 "libretto": [
 4,
 5
+],
+"tandoori": [
+4,
+6
+],
+"getter": [
+1,
+2
+],
+"kana": [
+1,
+2
 ],
 "triceps": [
 2,
@@ -8695,8 +9199,8 @@
 1,
 3
 ],
-"spacer": [
-2,
+"reiki": [
+1,
 3
 ],
 "odometer": [
@@ -8706,6 +9210,14 @@
 "depressant": [
 4,
 5
+],
+"balsa": [
+1,
+2
+],
+"downgrade": [
+1,
+2
 ],
 "acetylene": [
 2,
@@ -8727,23 +9239,19 @@
 2,
 3
 ],
-"speedway": [
-2,
-4
-],
 "trilby": [
 2,
 3
-],
-"provincial": [
-4,
-5
 ],
 "gazpacho": [
 4,
 5
 ],
 "inspectorate": [
+4,
+5
+],
+"chipotle": [
 4,
 5
 ],
@@ -8755,21 +9263,29 @@
 1,
 2
 ],
-"integral": [
-0,
-1
+"suppressor": [
+5,
+6
+],
+"palomino": [
+5,
+6
 ],
 "largo": [
 1,
 2
 ],
+"donna": [
+1,
+2
+],
+"shandy": [
+2,
+3
+],
 "reportage": [
 3,
 4
-],
-"pentagon": [
-1,
-2
 ],
 "bollard": [
 1,
@@ -8782,6 +9298,10 @@
 "adenosine": [
 2,
 3
+],
+"julep": [
+1,
+2
 ],
 "abrasive": [
 3,
@@ -8799,13 +9319,17 @@
 3,
 4
 ],
-"commit": [
-4,
-5
-],
 "infinitive": [
 3,
 4
+],
+"telemarketing": [
+5,
+6
+],
+"compactor": [
+4,
+5
 ],
 "humorist": [
 1,
@@ -8818,6 +9342,10 @@
 "franchising": [
 2,
 3
+],
+"apropos": [
+5,
+6
 ],
 "ideologue": [
 0,
@@ -8843,6 +9371,10 @@
 5,
 6
 ],
+"mouton": [
+1,
+3
+],
 "equalizer": [
 0,
 1
@@ -8854,6 +9386,10 @@
 "locus": [
 1,
 2
+],
+"ascendant": [
+3,
+4
 ],
 "condensate": [
 1,
@@ -8887,13 +9423,29 @@
 2,
 3
 ],
+"bhangra": [
+2,
+3
+],
 "genotype": [
+1,
+2
+],
+"biplane": [
+1,
+2
+],
+"retest": [
 1,
 2
 ],
 "carbonara": [
 6,
 7
+],
+"tandem": [
+1,
+2
 ],
 "repeater": [
 3,
@@ -8903,11 +9455,19 @@
 2,
 3
 ],
+"escargot": [
+3,
+4
+],
 "impedance": [
 3,
 4
 ],
 "bismuth": [
+1,
+2
+],
+"dumper": [
 1,
 2
 ],
@@ -8923,11 +9483,15 @@
 3,
 4
 ],
-"scalper": [
+"megabyte": [
+1,
+2
+],
+"spacer": [
 2,
 3
 ],
-"megabyte": [
+"peridot": [
 1,
 2
 ],
@@ -8939,21 +9503,21 @@
 0,
 2
 ],
+"afghani": [
+4,
+5
+],
 "triptych": [
 2,
 3
-],
-"calico": [
-1,
-2
 ],
 "dacha": [
 1,
 2
 ],
-"maxi": [
-1,
-2
+"digitalis": [
+5,
+6
 ],
 "nanometer": [
 1,
@@ -8975,9 +9539,25 @@
 2,
 3
 ],
+"jitterbug": [
+1,
+2
+],
+"pilsner": [
+1,
+2
+],
 "empath": [
 0,
 1
+],
+"callback": [
+1,
+2
+],
+"bandy": [
+1,
+2
 ],
 "pastiche": [
 4,
@@ -8991,13 +9571,17 @@
 3,
 4
 ],
-"senna": [
-1,
-2
+"accelerometer": [
+7,
+8
 ],
 "schnauzer": [
 4,
 6
+],
+"rebbe": [
+1,
+2
 ],
 "mohair": [
 1,
@@ -9011,17 +9595,29 @@
 1,
 2
 ],
-"fixing": [
-1,
-2
+"adonis": [
+2,
+3
 ],
-"forcing": [
-1,
-2
+"brasserie": [
+2,
+3
+],
+"akita": [
+2,
+3
 ],
 "multivitamin": [
 6,
 7
+],
+"kuna": [
+1,
+2
+],
+"parquet": [
+4,
+6
 ],
 "sampler": [
 1,
@@ -9031,9 +9627,9 @@
 1,
 3
 ],
-"newton": [
-1,
-2
+"internist": [
+3,
+4
 ],
 "beamer": [
 1,
@@ -9043,6 +9639,10 @@
 1,
 2
 ],
+"troubleshooting": [
+2,
+4
+],
 "kingmaker": [
 1,
 2
@@ -9051,17 +9651,33 @@
 1,
 2
 ],
-"superwoman": [
+"praetor": [
+2,
+4
+],
+"dimmer": [
 1,
 2
+],
+"boilerplate": [
+1,
+3
+],
+"reseller": [
+3,
+4
+],
+"speedway": [
+2,
+4
 ],
 "toboggan": [
 3,
 4
 ],
-"splicing": [
-3,
-4
+"fader": [
+1,
+2
 ],
 "forint": [
 1,
@@ -9075,6 +9691,10 @@
 2,
 3
 ],
+"parabola": [
+3,
+4
+],
 "raver": [
 1,
 2
@@ -9082,6 +9702,18 @@
 "morphing": [
 1,
 2
+],
+"neophyte": [
+1,
+3
+],
+"hypermarket": [
+1,
+2
+],
+"maraca": [
+3,
+4
 ],
 "bandicoot": [
 1,
@@ -9095,17 +9727,17 @@
 1,
 2
 ],
-"forte": [
+"borax": [
 1,
 2
-],
-"grading": [
-2,
-3
 ],
 "gorgonzola": [
 7,
 8
+],
+"macadam": [
+3,
+4
 ],
 "leukocyte": [
 1,
@@ -9119,9 +9751,17 @@
 0,
 1
 ],
+"autocrat": [
+0,
+2
+],
 "serrano": [
 4,
 5
+],
+"aspartame": [
+0,
+1
 ],
 "finisher": [
 1,
@@ -9144,6 +9784,10 @@
 2
 ],
 "paraphrase": [
+1,
+2
+],
+"superwoman": [
 1,
 2
 ],
@@ -9171,21 +9815,25 @@
 1,
 3
 ],
-"bootstrap": [
+"lancet": [
 1,
-3
+2
 ],
-"invalid": [
-0,
-1
+"Mameluke": [
+1,
+2
 ],
 "bolivar": [
 1,
 2
 ],
-"fathom": [
-1,
-2
+"strongman": [
+3,
+4
+],
+"fettuccine": [
+7,
+8
 ],
 "roaster": [
 1,
@@ -9195,11 +9843,19 @@
 6,
 7
 ],
-"fetishist": [
+"separator": [
 1,
 2
 ],
-"kana": [
+"sniffer": [
+2,
+3
+],
+"technocrat": [
+1,
+2
+],
+"fetishist": [
 1,
 2
 ],
@@ -9219,6 +9875,22 @@
 3,
 4
 ],
+"oryx": [
+0,
+1
+],
+"parsec": [
+1,
+2
+],
+"bocce": [
+1,
+2
+],
+"boombox": [
+1,
+3
+],
 "federalist": [
 1,
 2
@@ -9226,10 +9898,6 @@
 "exhibitionist": [
 5,
 6
-],
-"primitive": [
-2,
-3
 ],
 "amaretto": [
 4,
@@ -9243,11 +9911,15 @@
 2,
 3
 ],
-"scalar": [
-2,
-3
+"atomizer": [
+0,
+1
 ],
 "cancan": [
+1,
+2
+],
+"conger": [
 1,
 2
 ],
@@ -9267,7 +9939,7 @@
 1,
 2
 ],
-"downhill": [
+"hetman": [
 1,
 2
 ],
@@ -9283,21 +9955,25 @@
 2,
 3
 ],
+"embedding": [
+3,
+4
+],
 "activator": [
 0,
 1
-],
-"backstop": [
-1,
-2
 ],
 "megahertz": [
 1,
 2
 ],
-"drifting": [
-2,
-3
+"damask": [
+1,
+2
+],
+"maglev": [
+1,
+2
 ],
 "parsing": [
 1,
@@ -9319,13 +9995,25 @@
 1,
 2
 ],
-"secessionist": [
+"escudo": [
 3,
 4
+],
+"staccato": [
+5,
+6
+],
+"bustier": [
+1,
+2
 ],
 "blockhouse": [
 2,
 3
+],
+"candela": [
+4,
+5
 ],
 "boza": [
 1,
@@ -9343,6 +10031,10 @@
 1,
 2
 ],
+"caisson": [
+1,
+3
+],
 "halide": [
 1,
 2
@@ -9355,21 +10047,25 @@
 2,
 4
 ],
-"ampere": [
-0,
-1
+"trappist": [
+2,
+3
 ],
 "ingenue": [
 0,
 1
 ],
+"derringer": [
+1,
+2
+],
 "Pleistocene": [
 2,
 4
 ],
-"protein": [
-2,
-3
+"pyrite": [
+1,
+2
 ],
 "corvette": [
 4,
@@ -9382,6 +10078,10 @@
 "isomer": [
 0,
 1
+],
+"carillon": [
+1,
+2
 ],
 "interferometer": [
 8,
@@ -9411,10 +10111,6 @@
 1,
 2
 ],
-"friendly": [
-2,
-4
-],
 "shellac": [
 2,
 3
@@ -9439,17 +10135,17 @@
 5,
 6
 ],
+"taiko": [
+1,
+3
+],
 "anode": [
 0,
 1
 ],
-"strongman": [
-3,
-4
-],
-"melissa": [
-3,
-4
+"polypropylene": [
+6,
+7
 ],
 "marsala": [
 4,
@@ -9463,7 +10159,19 @@
 1,
 2
 ],
+"splicing": [
+3,
+4
+],
 "rhesus": [
+2,
+3
+],
+"proconsul": [
+4,
+5
+],
+"chiller": [
 2,
 3
 ],
@@ -9483,6 +10191,14 @@
 1,
 2
 ],
+"velodrome": [
+6,
+7
+],
+"webmaster": [
+1,
+2
+],
 "acetylcholine": [
 8,
 9
@@ -9499,13 +10215,13 @@
 1,
 2
 ],
-"mastering": [
-1,
-2
-],
 "verbena": [
 4,
 5
+],
+"magnetite": [
+1,
+2
 ],
 "centime": [
 1,
@@ -9527,6 +10243,10 @@
 4,
 5
 ],
+"humidor": [
+1,
+2
+],
 "subtype": [
 1,
 2
@@ -9534,6 +10254,14 @@
 "biennale": [
 5,
 6
+],
+"centrist": [
+1,
+2
+],
+"mistral": [
+1,
+2
 ],
 "albumin": [
 3,
@@ -9559,17 +10287,41 @@
 1,
 2
 ],
+"micrometer": [
+4,
+5
+],
+"scalar": [
+2,
+3
+],
 "epitope": [
 0,
 1
+],
+"senora": [
+3,
+4
+],
+"maraschino": [
+7,
+8
 ],
 "augur": [
 0,
 2
 ],
+"oxfords": [
+0,
+1
+],
 "sago": [
 1,
 2
+],
+"ampere": [
+0,
+1
 ],
 "meetup": [
 1,
@@ -9579,13 +10331,17 @@
 1,
 2
 ],
+"gondolier": [
+6,
+8
+],
+"woofer": [
+1,
+3
+],
 "barbera": [
 4,
 5
-],
-"tandem": [
-1,
-2
 ],
 "Calvinist": [
 1,
@@ -9615,15 +10371,23 @@
 0,
 1
 ],
-"bukkake": [
-4,
-5
-],
 "calcite": [
 1,
 2
 ],
+"meson": [
+1,
+2
+],
 "mirza": [
+1,
+2
+],
+"looper": [
+1,
+3
+],
+"pumpernickel": [
 1,
 2
 ],
@@ -9638,10 +10402,6 @@
 "celadon": [
 1,
 2
-],
-"sculpting": [
-2,
-3
 ],
 "groomer": [
 2,
@@ -9658,10 +10418,6 @@
 "wishlist": [
 1,
 2
-],
-"offshore": [
-0,
-1
 ],
 "progenitor": [
 4,
@@ -9683,15 +10439,19 @@
 1,
 2
 ],
+"burek": [
+1,
+2
+],
 "acolyte": [
 0,
 1
 ],
-"adonis": [
-2,
-3
-],
 "nadir": [
+1,
+2
+],
+"backstop": [
 1,
 2
 ],
@@ -9711,9 +10471,13 @@
 1,
 2
 ],
-"tandoori": [
-4,
-6
+"hasid": [
+3,
+4
+],
+"anthracite": [
+0,
+1
 ],
 "evaporator": [
 2,
@@ -9727,10 +10491,6 @@
 2,
 3
 ],
-"wolfram": [
-1,
-2
-],
 "concertina": [
 7,
 8
@@ -9740,6 +10500,18 @@
 1
 ],
 "milliliter": [
+1,
+2
+],
+"chaparral": [
+7,
+8
+],
+"paleocene": [
+1,
+2
+],
+"rollback": [
 1,
 2
 ],
@@ -9763,7 +10535,23 @@
 3,
 4
 ],
-"centrist": [
+"maser": [
+1,
+2
+],
+"integrator": [
+0,
+1
+],
+"spectrograph": [
+2,
+3
+],
+"organum": [
+0,
+1
+],
+"regen": [
 1,
 2
 ],
@@ -9779,17 +10567,25 @@
 3,
 4
 ],
-"tribune": [
-2,
-3
+"polyvinyl": [
+5,
+6
 ],
-"passive": [
-1,
-2
+"isolationist": [
+4,
+5
+],
+"canasta": [
+3,
+4
 ],
 "olivine": [
 0,
 1
+],
+"batik": [
+3,
+4
 ],
 "amaryllis": [
 4,
@@ -9799,29 +10595,33 @@
 6,
 7
 ],
+"hematite": [
+1,
+2
+],
 "magnesia": [
 4,
+5
+],
+"redoubt": [
+3,
 5
 ],
 "clickbait": [
 2,
 3
 ],
+"selva": [
+1,
+2
+],
 "pentathlon": [
 4,
 5
 ],
-"presto": [
-2,
-3
-],
 "egotist": [
 0,
 1
-],
-"paleocene": [
-1,
-2
 ],
 "pompano": [
 1,
@@ -9835,6 +10635,10 @@
 1,
 2
 ],
+"domina": [
+3,
+4
+],
 "psalter": [
 2,
 3
@@ -9842,6 +10646,10 @@
 "yachtsman": [
 1,
 2
+],
+"reggaeton": [
+7,
+8
 ],
 "mongoloid": [
 1,
@@ -9851,17 +10659,13 @@
 1,
 2
 ],
-"scoring": [
+"stepper": [
 2,
 3
 ],
 "instrumentalist": [
 7,
 8
-],
-"muscat": [
-1,
-2
 ],
 "lumbago": [
 4,
@@ -9879,11 +10683,15 @@
 1,
 2
 ],
-"wampum": [
+"microclimate": [
 1,
 2
 ],
-"microfiche": [
+"mora": [
+1,
+2
+],
+"wampum": [
 1,
 2
 ],
@@ -9891,17 +10699,33 @@
 0,
 1
 ],
+"spetsnaz": [
+2,
+3
+],
+"minestrone": [
+7,
+8
+],
+"monochrome": [
+1,
+2
+],
+"subcontract": [
+4,
+5
+],
 "cortege": [
 4,
 5
 ],
-"inductor": [
+"albuterol": [
 3,
 4
 ],
-"naming": [
-1,
-2
+"inductor": [
+3,
+4
 ],
 "cyclosporine": [
 4,
@@ -9923,13 +10747,17 @@
 1,
 2
 ],
+"futurist": [
+1,
+2
+],
 "anabaptist": [
 4,
 5
 ],
-"behaviorist": [
-3,
-4
+"kudzu": [
+1,
+2
 ],
 "alarmist": [
 2,
@@ -9939,29 +10767,53 @@
 5,
 6
 ],
+"lemma": [
+1,
+2
+],
+"corso": [
+1,
+2
+],
 "vancomycin": [
 6,
 7
+],
+"zinfandel": [
+1,
+2
+],
+"descriptor": [
+5,
+6
+],
+"carob": [
+1,
+2
 ],
 "renin": [
 1,
 2
 ],
+"chaebol": [
+2,
+4
+],
+"bootstrap": [
+1,
+3
+],
 "freeholder": [
 2,
 4
 ],
-"lancet": [
-1,
-2
+"secessionist": [
+3,
+4
 ],
 "methotrexate": [
 7,
 8
-],
-"donna": [
-1,
-2
 ],
 "doner": [
 1,
@@ -9979,10 +10831,6 @@
 0,
 2
 ],
-"scratching": [
-3,
-4
-],
 "percolator": [
 1,
 2
@@ -9995,6 +10843,10 @@
 0,
 1
 ],
+"docker": [
+1,
+2
+],
 "datura": [
 3,
 4
@@ -10003,8 +10855,8 @@
 1,
 2
 ],
-"Gaullist": [
-1,
+"skybox": [
+2,
 3
 ],
 "tourmaline": [
@@ -10019,6 +10871,14 @@
 1,
 2
 ],
+"apogee": [
+0,
+1
+],
+"glycerol": [
+2,
+3
+],
 "imprinting": [
 4,
 5
@@ -10027,9 +10887,17 @@
 5,
 6
 ],
+"tempera": [
+1,
+2
+],
 "sulfite": [
 1,
 2
+],
+"angstrom": [
+0,
+1
 ],
 "transcriber": [
 7,
@@ -10039,17 +10907,13 @@
 5,
 6
 ],
-"pascal": [
-4,
-5
+"spencer": [
+2,
+3
 ],
 "daikon": [
 1,
 3
-],
-"metis": [
-1,
-2
 ],
 "ampersand": [
 0,
@@ -10063,6 +10927,10 @@
 3,
 4
 ],
+"scheduler": [
+3,
+4
+],
 "troubleshooter": [
 2,
 4
@@ -10071,13 +10939,17 @@
 1,
 2
 ],
+"casein": [
+3,
+5
+],
 "banya": [
 1,
 2
 ],
-"coca": [
-1,
-2
+"atman": [
+0,
+1
 ],
 "priming": [
 2,
@@ -10091,9 +10963,9 @@
 1,
 2
 ],
-"stoma": [
-2,
-3
+"saguaro": [
+3,
+5
 ],
 "chorale": [
 4,
@@ -10127,6 +10999,10 @@
 1,
 2
 ],
+"correlate": [
+1,
+2
+],
 "distillate": [
 1,
 2
@@ -10142,6 +11018,14 @@
 "knockdown": [
 2,
 3
+],
+"segregationist": [
+6,
+7
+],
+"acme": [
+0,
+1
 ],
 "humus": [
 1,
@@ -10163,33 +11047,29 @@
 1,
 2
 ],
-"ave": [
-0,
-1
+"rollover": [
+1,
+2
 ],
 "celestine": [
 6,
 7
 ],
-"isolationist": [
-4,
-5
-],
 "oblast": [
 0,
 1
+],
+"capsaicin": [
+4,
+6
 ],
 "ziggurat": [
 1,
 2
 ],
-"subcontract": [
-4,
-5
-],
-"italic": [
-2,
-3
+"birdwatching": [
+1,
+2
 ],
 "pliocene": [
 2,
@@ -10227,11 +11107,11 @@
 5,
 6
 ],
-"fermi": [
+"diphthong": [
 1,
 2
 ],
-"diphthong": [
+"leghorn": [
 1,
 2
 ],
@@ -10251,33 +11131,37 @@
 2,
 3
 ],
+"excimer": [
+3,
+4
+],
+"compounding": [
+4,
+6
+],
 "linotype": [
 1,
 2
 ],
-"accumulator": [
-3,
-4
+"bichon": [
+4,
+5
+],
+"energizer": [
+0,
+1
 ],
 "rigatoni": [
 5,
 6
 ],
-"regress": [
+"dactyl": [
 1,
 2
-],
-"amadou": [
-0,
-1
 ],
 "refractor": [
 4,
 5
-],
-"imperative": [
-3,
-4
 ],
 "vesting": [
 1,
@@ -10295,6 +11179,10 @@
 0,
 1
 ],
+"hyperlink": [
+1,
+2
+],
 "naira": [
 1,
 3
@@ -10302,6 +11190,10 @@
 "estrus": [
 0,
 1
+],
+"turbofan": [
+1,
+2
 ],
 "mirabelle": [
 1,
@@ -10311,27 +11203,23 @@
 3,
 4
 ],
-"absorber": [
-3,
-4
+"intraday": [
+6,
+8
 ],
 "hangul": [
 1,
 2
 ],
-"recidivist": [
-3,
-4
+"ranchero": [
+5,
+6
 ],
 "linker": [
 1,
 2
 ],
 "calamine": [
-1,
-2
-],
-"dissonance": [
 1,
 2
 ],
@@ -10347,17 +11235,13 @@
 1,
 2
 ],
-"skybox": [
-2,
-3
-],
-"nonconformist": [
-7,
-8
-],
 "prolactin": [
 4,
 5
+],
+"oversize": [
+5,
+6
 ],
 "oxidant": [
 0,
@@ -10374,10 +11258,6 @@
 "hypertext": [
 1,
 2
-],
-"merino": [
-3,
-4
 ],
 "microcode": [
 1,
@@ -10399,13 +11279,13 @@
 6,
 7
 ],
-"notable": [
+"muscat": [
 1,
 2
 ],
-"midi": [
-1,
-2
+"alcazar": [
+0,
+1
 ],
 "andesite": [
 0,
@@ -10419,19 +11299,7 @@
 1,
 2
 ],
-"muscovite": [
-1,
-2
-],
-"lemma": [
-1,
-2
-],
 "negroni": [
-4,
-5
-],
-"possessor": [
 4,
 5
 ],
@@ -10442,6 +11310,14 @@
 "sambo": [
 1,
 2
+],
+"harmattan": [
+7,
+8
+],
+"keelson": [
+1,
+3
 ],
 "junco": [
 1,
@@ -10459,24 +11335,24 @@
 2,
 3
 ],
+"quadriceps": [
+1,
+3
+],
 "vitiligo": [
 3,
 4
 ],
-"domina": [
-3,
-4
+"wolfram": [
+1,
+2
 ],
 "bilby": [
 1,
 2
 ],
-"rewriting": [
+"tabbouleh": [
 4,
-5
-],
-"digitalis": [
-5,
 6
 ],
 "naphthalene": [
@@ -10495,33 +11371,13 @@
 2,
 3
 ],
-"decadence": [
-1,
-2
-],
-"smalltalk": [
-2,
-3
-],
-"skimming": [
-2,
-3
-],
-"skimmer": [
-2,
-3
-],
 "dipole": [
 1,
 2
 ],
-"plenum": [
-2,
-3
-],
-"divisor": [
-3,
-4
+"backslash": [
+1,
+2
 ],
 "magnetron": [
 1,
@@ -10535,16 +11391,16 @@
 7,
 8
 ],
-"hyperlink": [
-1,
-2
-],
 "bandolier": [
 6,
 8
 ],
-"scalping": [
-2,
+"debug": [
+3,
+4
+],
+"kaolin": [
+1,
 3
 ],
 "guanine": [
@@ -10563,29 +11419,37 @@
 6,
 7
 ],
-"hysteric": [
-4,
-5
+"nonconformist": [
+7,
+8
+],
+"drabble": [
+2,
+3
 ],
 "dolce": [
 1,
 2
 ],
-"spreader": [
-3,
-5
-],
 "urethane": [
 0,
 1
 ],
+"behaviorist": [
+3,
+4
+],
+"fermi": [
+1,
+2
+],
+"dango": [
+1,
+2
+],
 "clozapine": [
 2,
 3
-],
-"descriptor": [
-5,
-6
 ],
 "megalopolis": [
 5,
@@ -10599,13 +11463,9 @@
 7,
 8
 ],
-"campanella": [
-6,
-7
-],
-"staccato": [
-5,
-6
+"cyclamen": [
+1,
+2
 ],
 "procrastinator": [
 5,
@@ -10615,7 +11475,23 @@
 1,
 2
 ],
+"llanos": [
+2,
+3
+],
+"accumulator": [
+3,
+4
+],
 "kilobyte": [
+1,
+2
+],
+"holter": [
+1,
+2
+],
+"regress": [
 1,
 2
 ],
@@ -10635,6 +11511,18 @@
 0,
 1
 ],
+"moka": [
+1,
+2
+],
+"dashiki": [
+4,
+5
+],
+"recidivist": [
+3,
+4
+],
 "lupine": [
 1,
 2
@@ -10647,13 +11535,21 @@
 4,
 5
 ],
+"jeepney": [
+1,
+3
+],
 "nitride": [
 1,
 2
 ],
-"neophyte": [
+"factoring": [
 1,
-3
+2
+],
+"perpendicular": [
+7,
+8
 ],
 "craton": [
 2,
@@ -10675,21 +11571,25 @@
 1,
 3
 ],
-"counterrevolutionary": [
-12,
-13
-],
 "absorbent": [
 3,
 4
+],
+"katyusha": [
+3,
+5
 ],
 "kimura": [
 3,
 4
 ],
-"traverse": [
-2,
-3
+"cybersex": [
+1,
+2
+],
+"paca": [
+1,
+2
 ],
 "terminator": [
 1,
@@ -10707,9 +11607,9 @@
 0,
 1
 ],
-"acme": [
-0,
-1
+"loran": [
+1,
+2
 ],
 "colchicine": [
 1,
@@ -10739,9 +11639,13 @@
 1,
 2
 ],
-"segregationist": [
-6,
-7
+"italic": [
+2,
+3
+],
+"virginal": [
+1,
+2
 ],
 "vanillin": [
 3,
@@ -10750,14 +11654,6 @@
 "tamoxifen": [
 3,
 4
-],
-"cracking": [
-2,
-3
-],
-"ranchero": [
-5,
-6
 ],
 "lignin": [
 1,
@@ -10771,7 +11667,11 @@
 1,
 2
 ],
-"docker": [
+"zaibatsu": [
+4,
+5
+],
+"negus": [
 1,
 2
 ],
@@ -10786,10 +11686,6 @@
 "philatelist": [
 4,
 5
-],
-"dumper": [
-1,
-2
 ],
 "polonaise": [
 5,
@@ -10811,18 +11707,6 @@
 6,
 7
 ],
-"simplex": [
-1,
-2
-],
-"transient": [
-2,
-3
-],
-"micrometer": [
-4,
-5
-],
 "hakim": [
 3,
 4
@@ -10834,6 +11718,10 @@
 "anopheles": [
 2,
 3
+],
+"belting": [
+1,
+2
 ],
 "intron": [
 0,
@@ -10855,6 +11743,10 @@
 1,
 2
 ],
+"scalping": [
+2,
+3
+],
 "balancer": [
 1,
 2
@@ -10875,17 +11767,41 @@
 1,
 2
 ],
+"hysteric": [
+4,
+5
+],
+"ethnos": [
+0,
+1
+],
 "ribavirin": [
 3,
+4
+],
+"chiefdom": [
+2,
 4
 ],
 "clarinetist": [
 6,
 7
 ],
-"heterodyne": [
+"spheroid": [
+3,
+4
+],
+"sorus": [
 1,
 2
+],
+"photocall": [
+2,
+3
+],
+"upvote": [
+0,
+1
 ],
 "rootkit": [
 1,
@@ -10895,15 +11811,27 @@
 1,
 2
 ],
+"citrine": [
+4,
+5
+],
 "adenovirus": [
 2,
 3
+],
+"ibogaine": [
+0,
+1
 ],
 "cephalosporin": [
 6,
 7
 ],
 "lecithin": [
+1,
+2
+],
+"mudra": [
 1,
 2
 ],
@@ -10919,7 +11847,11 @@
 0,
 1
 ],
-"futurist": [
+"lignite": [
+1,
+2
+],
+"halon": [
 1,
 2
 ],
@@ -10927,7 +11859,15 @@
 2,
 3
 ],
+"freeware": [
+2,
+4
+],
 "dimer": [
+1,
+2
+],
+"palatine": [
 1,
 2
 ],
@@ -10947,6 +11887,10 @@
 1,
 2
 ],
+"citronella": [
+6,
+7
+],
 "monoplane": [
 1,
 2
@@ -10963,13 +11907,17 @@
 1,
 2
 ],
-"granulocyte": [
+"cella": [
+1,
+2
+],
+"moscato": [
 4,
 5
 ],
-"mackintosh": [
-1,
-2
+"granulocyte": [
+4,
+5
 ],
 "malamute": [
 1,
@@ -10979,17 +11927,41 @@
 1,
 2
 ],
+"bentonite": [
+1,
+2
+],
+"pilaster": [
+3,
+4
+],
 "glucosamine": [
 4,
 5
+],
+"cosmodrome": [
+1,
+2
 ],
 "morphogenesis": [
 7,
 8
 ],
+"dystrophin": [
+1,
+2
+],
 "bora": [
 1,
 2
+],
+"mohel": [
+1,
+2
+],
+"griffon": [
+2,
+3
 ],
 "curie": [
 3,
@@ -11003,13 +11975,13 @@
 2,
 3
 ],
-"resultant": [
-3,
-4
-],
 "audiophile": [
 3,
 5
+],
+"imprimatur": [
+6,
+7
 ],
 "supertanker": [
 1,
@@ -11023,9 +11995,37 @@
 1,
 2
 ],
+"fabricant": [
+1,
+2
+],
+"backspin": [
+1,
+2
+],
+"stater": [
+2,
+3
+],
 "obstructionist": [
 5,
 6
+],
+"unboxing": [
+3,
+4
+],
+"jazzman": [
+1,
+2
+],
+"simplex": [
+1,
+2
+],
+"arrowroot": [
+0,
+1
 ],
 "caudillo": [
 4,
@@ -11035,13 +12035,9 @@
 4,
 5
 ],
-"factoring": [
-1,
-2
-],
-"tunica": [
-1,
-2
+"concessionaire": [
+10,
+12
 ],
 "careerist": [
 3,
@@ -11050,10 +12046,6 @@
 "internationalist": [
 6,
 7
-],
-"indent": [
-3,
-4
 ],
 "imbroglio": [
 4,
@@ -11070,6 +12062,10 @@
 "thermoplastic": [
 8,
 9
+],
+"helot": [
+1,
+2
 ],
 "altiplano": [
 6,
@@ -11091,6 +12087,14 @@
 1,
 2
 ],
+"volta": [
+1,
+2
+],
+"glacis": [
+2,
+3
+],
 "kohen": [
 1,
 2
@@ -11111,6 +12115,10 @@
 3,
 4
 ],
+"heliotrope": [
+1,
+2
+],
 "selenite": [
 1,
 2
@@ -11123,9 +12131,9 @@
 1,
 2
 ],
-"waterproof": [
-1,
-2
+"mezuzah": [
+3,
+4
 ],
 "raster": [
 1,
@@ -11135,9 +12143,9 @@
 7,
 8
 ],
-"omnibus": [
-0,
-1
+"poblano": [
+4,
+5
 ],
 "derma": [
 1,
@@ -11147,9 +12155,17 @@
 1,
 2
 ],
+"decima": [
+3,
+4
+],
 "magnesite": [
 1,
 2
+],
+"pomodoro": [
+5,
+6
 ],
 "megabit": [
 1,
@@ -11167,6 +12183,10 @@
 3,
 4
 ],
+"apparatchik": [
+5,
+6
+],
 "pontificate": [
 4,
 5
@@ -11175,15 +12195,15 @@
 3,
 4
 ],
+"agitprop": [
+0,
+1
+],
 "affix": [
 0,
 1
 ],
 "soldo": [
-1,
-2
-],
-"belting": [
 1,
 2
 ],
@@ -11195,11 +12215,15 @@
 7,
 8
 ],
-"monopole": [
+"stoma": [
+2,
+3
+],
+"firman": [
 1,
 2
 ],
-"firman": [
+"mithridate": [
 1,
 2
 ],
@@ -11219,6 +12243,10 @@
 4,
 5
 ],
+"pragma": [
+2,
+3
+],
 "conjugate": [
 6,
 7
@@ -11231,11 +12259,11 @@
 1,
 2
 ],
-"hyssop": [
-1,
-2
+"interregnum": [
+6,
+7
 ],
-"hamal": [
+"hyssop": [
 1,
 2
 ],
@@ -11251,17 +12279,37 @@
 5,
 6
 ],
+"halite": [
+1,
+2
+],
 "trombonist": [
 5,
 6
+],
+"forwarder": [
+1,
+2
 ],
 "palliative": [
 1,
 2
 ],
+"diorite": [
+1,
+3
+],
 "deflator": [
 4,
 5
+],
+"esker": [
+0,
+1
+],
+"seigniorage": [
+5,
+7
 ],
 "parser": [
 1,
@@ -11271,9 +12319,17 @@
 0,
 2
 ],
+"isocyanate": [
+4,
+6
+],
 "fusilli": [
 3,
 4
+],
+"aqualung": [
+0,
+1
 ],
 "accusative": [
 3,
@@ -11299,6 +12355,10 @@
 1,
 2
 ],
+"plenum": [
+2,
+3
+],
 "jadeite": [
 1,
 2
@@ -11306,6 +12366,10 @@
 "weber": [
 1,
 2
+],
+"monopolist": [
+3,
+4
 ],
 "kohlrabi": [
 5,
@@ -11323,23 +12387,27 @@
 4,
 5
 ],
-"legato": [
-3,
-4
+"eurodollar": [
+0,
+2
 ],
 "deadweight": [
 1,
 3
 ],
-"decadent": [
-1,
-2
-],
 "anglophile": [
 0,
 1
 ],
+"maxwell": [
+1,
+2
+],
 "follis": [
+1,
+2
+],
+"petrodollar": [
 1,
 2
 ],
@@ -11347,9 +12415,9 @@
 1,
 2
 ],
-"goral": [
+"sousaphone": [
 1,
-2
+3
 ],
 "guarani": [
 6,
@@ -11371,6 +12439,10 @@
 6,
 7
 ],
+"celesta": [
+3,
+4
+],
 "applet": [
 0,
 1
@@ -11387,6 +12459,10 @@
 1,
 2
 ],
+"architrave": [
+0,
+1
+],
 "majolica": [
 3,
 4
@@ -11395,27 +12471,19 @@
 4,
 7
 ],
-"compress": [
-1,
-2
+"presale": [
+2,
+3
 ],
-"oversize": [
-5,
-6
+"graben": [
+2,
+3
 ],
 "jirga": [
 1,
 2
 ],
-"corso": [
-1,
-2
-],
 "teletext": [
-1,
-2
-],
-"tolar": [
 1,
 2
 ],
@@ -11427,9 +12495,17 @@
 5,
 6
 ],
+"librettist": [
+4,
+5
+],
 "acrolein": [
 0,
 1
+],
+"clomipramine": [
+2,
+3
 ],
 "diabase": [
 1,
@@ -11439,9 +12515,17 @@
 1,
 2
 ],
+"oxalis": [
+0,
+1
+],
 "maronite": [
 1,
 2
+],
+"aspirate": [
+0,
+1
 ],
 "cytomegalovirus": [
 11,
@@ -11459,9 +12543,17 @@
 4,
 5
 ],
+"erythropoietin": [
+8,
+11
+],
 "torpor": [
 1,
 2
+],
+"Gaullist": [
+1,
+3
 ],
 "minoxidil": [
 3,
@@ -11483,6 +12575,10 @@
 4,
 5
 ],
+"perlite": [
+1,
+2
+],
 "normcore": [
 1,
 2
@@ -11494,10 +12590,6 @@
 "newsmaker": [
 1,
 2
-],
-"koruna": [
-3,
-4
 ],
 "rodenticide": [
 3,
@@ -11511,9 +12603,17 @@
 3,
 4
 ],
+"legato": [
+3,
+4
+],
 "dicamba": [
 3,
 4
+],
+"probenecid": [
+4,
+5
 ],
 "absurdist": [
 3,
@@ -11522,10 +12622,6 @@
 "leone": [
 4,
 5
-],
-"growling": [
-2,
-3
 ],
 "tamarin": [
 1,
@@ -11539,11 +12635,35 @@
 1,
 2
 ],
+"anemometer": [
+4,
+5
+],
+"allene": [
+0,
+1
+],
 "histidine": [
 1,
 2
 ],
+"machinima": [
+4,
+5
+],
+"heterodyne": [
+1,
+2
+],
 "videophone": [
+1,
+2
+],
+"lamer": [
+1,
+2
+],
+"tolar": [
 1,
 2
 ],
@@ -11555,6 +12675,22 @@
 2,
 3
 ],
+"botrytis": [
+4,
+5
+],
+"collaborationist": [
+8,
+9
+],
+"anticyclone": [
+5,
+6
+],
+"tandoor": [
+4,
+6
+],
 "kente": [
 1,
 2
@@ -11563,13 +12699,37 @@
 1,
 2
 ],
+"netiquette": [
+1,
+2
+],
 "argot": [
 0,
 1
 ],
+"goral": [
+1,
+2
+],
+"logout": [
+1,
+2
+],
+"aerostat": [
+0,
+2
+],
 "olefin": [
 0,
 1
+],
+"sucre": [
+1,
+2
+],
+"respawn": [
+4,
+5
 ],
 "hexane": [
 1,
@@ -11587,13 +12747,33 @@
 1,
 2
 ],
+"pentane": [
+1,
+2
+],
 "delisting": [
 3,
 4
 ],
+"monopole": [
+1,
+2
+],
+"lantana": [
+4,
+5
+],
+"lambert": [
+1,
+2
+],
 "antecedent": [
 3,
 4
+],
+"allocator": [
+0,
+1
 ],
 "secateurs": [
 1,
@@ -11603,8 +12783,8 @@
 1,
 2
 ],
-"compounding": [
-4,
+"dynamometer": [
+5,
 6
 ],
 "nomenklatura": [
@@ -11631,6 +12811,10 @@
 2,
 3
 ],
+"calendula": [
+3,
+4
+],
 "inti": [
 0,
 1
@@ -11639,15 +12823,23 @@
 1,
 2
 ],
+"billon": [
+1,
+2
+],
 "coprocessor": [
 1,
 2
 ],
-"cicerone": [
-1,
-2
+"spinifex": [
+2,
+3
 ],
-"retinal": [
+"shashlik": [
+2,
+3
+],
+"cicerone": [
 1,
 2
 ],
@@ -11655,17 +12847,29 @@
 4,
 5
 ],
-"pastoral": [
-1,
-2
-],
 "retinoid": [
 1,
 2
 ],
+"uptrend": [
+0,
+1
+],
+"overclocking": [
+0,
+1
+],
 "noncombatant": [
 7,
 8
+],
+"countertenor": [
+1,
+3
+],
+"retargeting": [
+3,
+4
 ],
 "phenolphthalein": [
 10,
@@ -11683,6 +12887,10 @@
 2,
 3
 ],
+"balas": [
+1,
+2
+],
 "ptomaine": [
 2,
 3
@@ -11695,17 +12903,13 @@
 2,
 3
 ],
-"junker": [
+"loden": [
 1,
 2
 ],
 "stollen": [
 2,
 3
-],
-"bulat": [
-1,
-2
 ],
 "ultranationalist": [
 6,
@@ -11715,9 +12919,9 @@
 1,
 2
 ],
-"imperfect": [
-3,
-4
+"bhakta": [
+2,
+3
 ],
 "andantino": [
 6,
@@ -11727,9 +12931,29 @@
 4,
 5
 ],
-"festoon": [
-4,
+"lovastatin": [
+3,
+4
+],
+"prothorax": [
+5,
 6
+],
+"gabbro": [
+1,
+2
+],
+"ecru": [
+0,
+1
+],
+"patera": [
+3,
+4
+],
+"anglophone": [
+0,
+1
 ],
 "amphibole": [
 0,
@@ -11747,7 +12971,15 @@
 1,
 3
 ],
+"ersatz": [
+0,
+1
+],
 "paralytic": [
+5,
+6
+],
+"annotator": [
 5,
 6
 ],
@@ -11775,11 +13007,23 @@
 1,
 2
 ],
+"sedum": [
+1,
+2
+],
+"europhile": [
+0,
+2
+],
 "octet": [
 3,
 4
 ],
 "badland": [
+1,
+2
+],
+"mannerist": [
 1,
 2
 ],
@@ -11803,6 +13047,10 @@
 1,
 2
 ],
+"letterpress": [
+1,
+2
+],
 "Newfoundland": [
 1,
 2
@@ -11815,6 +13063,10 @@
 11,
 12
 ],
+"ellipsoid": [
+3,
+4
+],
 "minidisc": [
 1,
 2
@@ -11823,19 +13075,7 @@
 5,
 6
 ],
-"antidumping": [
-5,
-6
-],
-"benincasa": [
-6,
-7
-],
 "cabotage": [
-1,
-2
-],
-"garmon": [
 1,
 2
 ],
@@ -11855,13 +13095,17 @@
 1,
 2
 ],
+"tretinoin": [
+2,
+3
+],
 "percept": [
 1,
 2
 ],
-"literal": [
-1,
-2
+"apatite": [
+0,
+1
 ],
 "bigos": [
 1,
@@ -11871,6 +13115,10 @@
 1,
 2
 ],
+"actinide": [
+0,
+1
+],
 "kapok": [
 1,
 2
@@ -11879,13 +13127,17 @@
 0,
 1
 ],
+"carnauba": [
+4,
+6
+],
 "malva": [
 1,
 2
 ],
-"precipitate": [
-4,
-5
+"handshaking": [
+1,
+2
 ],
 "progestin": [
 4,
@@ -11895,21 +13147,25 @@
 1,
 2
 ],
-"quilling": [
-1,
-3
-],
-"stentor": [
+"proteome": [
 2,
 3
 ],
-"backtracking": [
+"hoster": [
 1,
 2
 ],
-"fabricator": [
-1,
-2
+"kwanza": [
+2,
+3
+],
+"procaine": [
+2,
+3
+],
+"overbooking": [
+0,
+1
 ],
 "barbette": [
 4,
@@ -11919,11 +13175,11 @@
 5,
 6
 ],
-"decima": [
-3,
-4
-],
 "deciliter": [
+1,
+2
+],
+"garmon": [
 1,
 2
 ],
@@ -11931,17 +13187,17 @@
 8,
 9
 ],
+"hygrometer": [
+4,
+5
+],
 "prospekt": [
 2,
 3
 ],
-"sloboda": [
-4,
-5
-],
-"aspirate": [
-0,
-1
+"quilling": [
+1,
+3
 ],
 "collectivist": [
 4,
@@ -11955,13 +13211,13 @@
 3,
 4
 ],
+"keta": [
+1,
+2
+],
 "superoxide": [
 5,
 6
-],
-"sucre": [
-1,
-2
 ],
 "rhodopsin": [
 4,
@@ -11975,12 +13231,16 @@
 1,
 2
 ],
-"flageolet": [
-7,
-8
-],
 "quartile": [
 1,
+3
+],
+"maquiladora": [
+6,
+7
+],
+"stentor": [
+2,
 3
 ],
 "interdict": [
@@ -11990,6 +13250,10 @@
 "monzonite": [
 1,
 2
+],
+"monadnock": [
+3,
+4
 ],
 "plasminogen": [
 5,
@@ -12019,14 +13283,6 @@
 0,
 1
 ],
-"paramagnetic": [
-8,
-9
-],
-"allophone": [
-0,
-1
-],
 "chloroprene": [
 3,
 4
@@ -12039,15 +13295,23 @@
 0,
 1
 ],
+"technophobe": [
+1,
+2
+],
 "microcredit": [
 1,
 2
+],
+"oligocene": [
+0,
+1
 ],
 "determinative": [
 3,
 4
 ],
-"convulsant": [
+"keiretsu": [
 4,
 5
 ],
@@ -12055,17 +13319,9 @@
 2,
 3
 ],
-"caustic": [
-1,
-3
-],
 "landwehr": [
 1,
 2
-],
-"energizer": [
-0,
-1
 ],
 "quintile": [
 1,
@@ -12083,18 +13339,6 @@
 7,
 8
 ],
-"mora": [
-1,
-2
-],
-"absolutist": [
-5,
-6
-],
-"beachball": [
-1,
-3
-],
 "demarche": [
 3,
 4
@@ -12106,10 +13350,6 @@
 "ukase": [
 0,
 1
-],
-"classicist": [
-2,
-3
 ],
 "cryolite": [
 2,
@@ -12127,10 +13367,6 @@
 1,
 2
 ],
-"ara": [
-0,
-1
-],
 "monosaccharide": [
 5,
 6
@@ -12138,6 +13374,14 @@
 "negroid": [
 1,
 2
+],
+"aramid": [
+0,
+1
+],
+"heptathlon": [
+4,
+5
 ],
 "anaerobe": [
 0,
@@ -12159,41 +13403,13 @@
 3,
 4
 ],
-"causative": [
-1,
-3
-],
-"spencer": [
-2,
-3
-],
-"acute": [
-2,
-3
-],
-"maxwell": [
-1,
-2
-],
 "amelia": [
 2,
 3
 ],
-"lambert": [
+"causative": [
 1,
-2
-],
-"definitive": [
-3,
-4
-],
-"rubin": [
-1,
-2
-],
-"taxis": [
-1,
-2
+3
 ],
 "alba": [
 0,
@@ -12207,18 +13423,6 @@
 3,
 4
 ],
-"augment": [
-4,
-5
-],
-"permeate": [
-1,
-2
-],
-"reforming": [
-3,
-4
-],
 "endemic": [
 3,
 4
@@ -12227,17 +13431,9 @@
 5,
 6
 ],
-"volta": [
-1,
-2
-],
 "siemens": [
 1,
 3
-],
-"capping": [
-1,
-2
 ],
 "seton": [
 1,
@@ -12247,17 +13443,9 @@
 3,
 4
 ],
-"renaming": [
-3,
-4
-],
 "insolvent": [
 3,
 4
-],
-"consequent": [
-1,
-2
 ],
 "recombinant": [
 3,
@@ -12271,10 +13459,6 @@
 1,
 3
 ],
-"muffle": [
-1,
-2
-],
 "tilbury": [
 1,
 2
@@ -12283,37 +13467,13 @@
 1,
 2
 ],
-"forfeiting": [
-1,
-2
-],
-"rudiment": [
-1,
-2
-],
-"lamer": [
-1,
-2
-],
-"fulminate": [
-1,
-2
+"bukkake": [
+4,
+5
 ],
 "iterative": [
 0,
 1
-],
-"numerator": [
-1,
-2
-],
-"peripatetic": [
-7,
-8
-],
-"melange": [
-1,
-2
 ],
 "performative": [
 4,
@@ -12323,15 +13483,7 @@
 0,
 1
 ],
-"femina": [
-1,
-2
-],
-"ultramodern": [
-6,
-7
-],
-"triplex": [
+"absolutist": [
 5,
 6
 ],
@@ -12375,6 +13527,10 @@
 2,
 4
 ],
+"irrigator": [
+0,
+1
+],
 "hajduk": [
 1,
 2
@@ -12395,6 +13551,18 @@
 1,
 2
 ],
+"bulat": [
+1,
+2
+],
+"antidumping": [
+5,
+6
+],
+"benincasa": [
+6,
+7
+],
 "dragline": [
 2,
 3
@@ -12407,21 +13575,29 @@
 4,
 5
 ],
+"sloboda": [
+4,
+5
+],
 "monetarist": [
 1,
 2
+],
+"flageolet": [
+7,
+8
 ],
 "salak": [
 1,
 2
 ],
-"oligocene": [
+"allophone": [
 0,
 1
 ],
-"corbeil": [
-1,
-2
+"convulsant": [
+4,
+5
 ],
 "mercantilist": [
 4,
@@ -12467,10 +13643,6 @@
 0,
 1
 ],
-"moskal": [
-1,
-2
-],
 "hydron": [
 1,
 2
@@ -12490,6 +13662,10 @@
 "carbonaro": [
 6,
 7
+],
+"lorgnette": [
+5,
+6
 ],
 "tramontana": [
 7,
@@ -12511,15 +13687,15 @@
 1,
 2
 ],
-"pardus": [
-1,
-2
-],
 "arbitrageur": [
 0,
 1
 ],
 "nekton": [
+1,
+2
+],
+"ferrochrome": [
 1,
 2
 ],
@@ -12574,10 +13750,6 @@
 "balletto": [
 4,
 5
-],
-"diastase": [
-1,
-3
 ],
 "encyclopedist": [
 8,
