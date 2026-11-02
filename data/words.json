@@ -115,7 +115,7 @@
  },
  {
   "en": "hey",
-  "uk": "гей",
+  "uk": "хей",
   "pos": "interj",
   "british": false,
   "labels": [
@@ -123,11 +123,11 @@
    "international",
    "other"
   ],
-  "note": "In modern Ukrainian гей usually means 'gay'; for 'hey' people often say ей.",
+  "note": "The traditional Ukrainian form is гей.",
   "checked": 2,
-  "src": "verify-001.json",
+  "src": "scan-004.json",
   "uk_alt": [
-   "хей"
+   "гей"
   ],
   "zipf": 5.12,
   "list_level": "A2",
@@ -703,28 +703,6 @@
   "langs": 9,
   "rank_raw": 615,
   "share": 100.0,
-  "band": "top-1000"
- },
- {
-  "en": "start",
-  "uk": "старт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "sport"
-  ],
-  "note": "Start of a race, a launch or a beginning; the usual word for 'beginning' is початок.",
-  "checked": 2,
-  "src": "verify-000.json",
-  "zipf": 5.56,
-  "list_level": "A1",
-  "level": "A1",
-  "rank": 632,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 149,
-  "share": 20.0,
   "band": "top-1000"
  },
  {
@@ -1373,29 +1351,6 @@
   "band": "top-1000"
  },
  {
-  "en": "fight",
-  "uk": "файт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "slang",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 5.23,
-  "list_level": "A1",
-  "level": "A1",
-  "rank": 961,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 384,
-  "share": 35.0,
-  "band": "top-1000"
- },
- {
   "en": "process",
   "uk": "процес",
   "pos": "noun",
@@ -1415,28 +1370,6 @@
   "langs": 9,
   "rank_raw": 886,
   "share": 90.0,
-  "band": "top-1000"
- },
- {
-  "en": "file",
-  "uk": "файл",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "tech"
-  ],
-  "note": "A computer file (also a plastic sleeve for papers); a paper file/folder is папка, the tool is напилок.",
-  "checked": 2,
-  "src": "scan-005.json",
-  "zipf": 4.75,
-  "list_level": "A1",
-  "level": "A1",
-  "rank": 968,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 839,
-  "share": 85.0,
   "band": "top-1000"
  },
  {
@@ -2074,6 +2007,28 @@
   "band": "top-2000"
  },
  {
+  "en": "start",
+  "uk": "старт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "sport"
+  ],
+  "note": "Start of a race, a launch or a beginning; the usual word for 'beginning' is початок.",
+  "checked": 2,
+  "src": "verify-000.json",
+  "zipf": 5.56,
+  "list_level": "A1",
+  "level": "A1",
+  "rank": 1238,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 149,
+  "share": 10.0,
+  "band": "top-2000"
+ },
+ {
   "en": "contract",
   "uk": "контракт",
   "pos": "noun",
@@ -2226,6 +2181,28 @@
   "langs": 9,
   "rank_raw": 1116,
   "share": 80.0,
+  "band": "top-2000"
+ },
+ {
+  "en": "plus",
+  "uk": "плюс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "math"
+  ],
+  "note": "Also in sums: два плюс два = two plus two.",
+  "checked": 2,
+  "src": "scan-001.json",
+  "zipf": 4.95,
+  "list_level": "B2",
+  "level": "B2",
+  "rank": 1369,
+  "rank_est": false,
+  "langs": 9,
+  "rank_raw": 1242,
+  "share": 90.0,
   "band": "top-2000"
  },
  {
@@ -2563,6 +2540,29 @@
   "langs": 9,
   "rank_raw": 1002,
   "share": 60.0,
+  "band": "top-2000"
+ },
+ {
+  "en": "fight",
+  "uk": "файт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "slang",
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json",
+  "zipf": 5.23,
+  "list_level": "A1",
+  "level": "A1",
+  "rank": 1627,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 384,
+  "share": 20.0,
   "band": "top-2000"
  },
  {
@@ -3080,28 +3080,6 @@
   "band": "top-2000"
  },
  {
-  "en": "cent",
-  "uk": "цент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "finance",
-   "international"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "verify-004.json",
-  "zipf": 4.83,
-  "list_level": "A2",
-  "level": "A2",
-  "rank": 1857,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 1790,
-  "share": 95.0,
-  "band": "top-2000"
- },
- {
   "en": "signal",
   "uk": "сигнал",
   "pos": "noun",
@@ -3191,6 +3169,28 @@
   "langs": 9,
   "rank_raw": 1831,
   "share": 95.0,
+  "band": "top-2000"
+ },
+ {
+  "en": "file",
+  "uk": "файл",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "tech"
+  ],
+  "note": "A computer file (also a plastic sleeve for papers); a paper file/folder is папка, the tool is напилок.",
+  "checked": 2,
+  "src": "scan-005.json",
+  "zipf": 4.75,
+  "list_level": "A1",
+  "level": "A1",
+  "rank": 1911,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 839,
+  "share": 40.0,
   "band": "top-2000"
  },
  {
@@ -4608,6 +4608,28 @@
   "band": "top-3000"
  },
  {
+  "en": "cent",
+  "uk": "цент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "verify-004.json",
+  "zipf": 4.83,
+  "list_level": "A2",
+  "level": "A2",
+  "rank": 2483,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1790,
+  "share": 65.0,
+  "band": "top-3000"
+ },
+ {
   "en": "camp",
   "uk": "кемп",
   "pos": "noun",
@@ -5323,29 +5345,6 @@
   "band": "top-3000"
  },
  {
-  "en": "follow-up",
-  "uk": "фоловап",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "business",
-   "informal",
-   "international"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 5.12,
-  "list_level": null,
-  "level": "C1",
-  "rank": 2947,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 15839,
-  "books_pm": 15.673,
-  "band": "top-3000"
- },
- {
   "en": "terrorist",
   "uk": "терорист",
   "pos": "noun",
@@ -5723,28 +5722,6 @@
   "band": "top-5000"
  },
  {
-  "en": "real-time",
-  "uk": "реалтайм",
-  "pos": "adj",
-  "british": false,
-  "labels": [
-   "international",
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 5.52,
-  "list_level": null,
-  "level": "C1",
-  "rank": 3165,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 23196,
-  "books_pm": 9.656,
-  "band": "top-5000"
- },
- {
   "en": "vampire",
   "uk": "вампір",
   "pos": "noun",
@@ -5811,31 +5788,6 @@
   "band": "top-5000"
  },
  {
-  "en": "jinn",
-  "uk": "джин",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-000.json",
-  "also": [
-   "djinn"
-  ],
-  "zipf": 2.58,
-  "list_level": null,
-  "level": "C1",
-  "rank": 3214,
-  "rank_est": false,
-  "langs": 6,
-  "rank_raw": 3216,
-  "share": 100.0,
-  "band": "top-5000"
- },
- {
   "en": "volunteer",
   "uk": "волонтер",
   "pos": "noun",
@@ -5855,6 +5807,28 @@
   "langs": 4,
   "rank_raw": 2352,
   "share": 65.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "balance",
+  "uk": "баланс",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "finance",
+   "international"
+  ],
+  "note": "Also an account balance (bank, phone).",
+  "checked": 2,
+  "src": "scan-002.json",
+  "zipf": 4.76,
+  "list_level": "B1",
+  "level": "B1",
+  "rank": 3229,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 2065,
+  "share": 55.0,
   "band": "top-5000"
  },
  {
@@ -7106,27 +7080,6 @@
   "langs": 5,
   "rank_raw": 3562,
   "share": 95.0,
-  "band": "top-5000"
- },
- {
-  "en": "vice president",
-  "uk": "віце-президент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "scan-001.json",
-  "zipf": 4.64,
-  "list_level": "B1",
-  "level": "B1",
-  "rank": 3691,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 1741,
-  "books_pm": 6.259,
   "band": "top-5000"
  },
  {
@@ -9742,6 +9695,27 @@
   "band": "top-5000"
  },
  {
+  "en": "vice president",
+  "uk": "віце-президент",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "scan-001.json",
+  "zipf": 4.64,
+  "list_level": "B1",
+  "level": "B1",
+  "rank": 4853,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1741,
+  "books_pm": 6.259,
+  "band": "top-5000"
+ },
+ {
   "en": "abuse",
   "uk": "аб'юз",
   "pos": "noun",
@@ -9805,6 +9779,29 @@
   "langs": 7,
   "rank_raw": 4825,
   "share": 98.0,
+  "band": "top-5000"
+ },
+ {
+  "en": "follow-up",
+  "uk": "фоловап",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "business",
+   "informal",
+   "international"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json",
+  "zipf": 5.12,
+  "list_level": null,
+  "level": "C1",
+  "rank": 4887,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 15839,
+  "books_pm": 15.673,
   "band": "top-5000"
  },
  {
@@ -10168,28 +10165,6 @@
   "band": "top-10k"
  },
  {
-  "en": "cleaning",
-  "uk": "клінінг",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "home",
-   "international"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "zipf": 4.39,
-  "list_level": null,
-  "level": "B2",
-  "rank": 5049,
-  "rank_est": true,
-  "langs": 7,
-  "rank_raw": 2690,
-  "share": 40.0,
-  "band": "top-10k"
- },
- {
   "en": "generator",
   "uk": "генератор",
   "pos": "noun",
@@ -10298,28 +10273,6 @@
   "langs": 9,
   "rank_raw": 2747,
   "share": 40.0,
-  "band": "top-10k"
- },
- {
-  "en": "plus",
-  "uk": "плюс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "math"
-  ],
-  "note": "Also in sums: два плюс два = two plus two.",
-  "checked": 2,
-  "src": "scan-001.json",
-  "zipf": 4.95,
-  "list_level": "B2",
-  "level": "B2",
-  "rank": 5126,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 1242,
-  "share": 15.0,
   "band": "top-10k"
  },
  {
@@ -12011,6 +11964,28 @@
   "band": "top-10k"
  },
  {
+  "en": "real-time",
+  "uk": "реалтайм",
+  "pos": "adj",
+  "british": false,
+  "labels": [
+   "international",
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json",
+  "zipf": 5.52,
+  "list_level": null,
+  "level": "C1",
+  "rank": 5982,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 23196,
+  "books_pm": 9.656,
+  "band": "top-10k"
+ },
+ {
   "en": "gangster",
   "uk": "гангстер",
   "pos": "noun",
@@ -12520,28 +12495,6 @@
   "band": "top-10k"
  },
  {
-  "en": "manuscript",
-  "uk": "манускрипт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "language"
-  ],
-  "note": "Also an author's text before it is printed.",
-  "checked": 2,
-  "src": "verify-023.json",
-  "zipf": 3.92,
-  "list_level": null,
-  "level": "C1",
-  "rank": 6149,
-  "rank_est": false,
-  "langs": 3,
-  "rank_raw": 5970,
-  "share": 95.0,
-  "band": "top-10k"
- },
- {
   "en": "Wi-Fi",
   "uk": "вай-фай",
   "pos": "noun",
@@ -13034,28 +12987,6 @@
   "langs": 9,
   "rank_raw": 6278,
   "share": 100.0,
-  "band": "top-10k"
- },
- {
-  "en": "balance",
-  "uk": "баланс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "finance",
-   "international"
-  ],
-  "note": "Also an account balance (bank, phone).",
-  "checked": 2,
-  "src": "scan-002.json",
-  "zipf": 4.76,
-  "list_level": "B1",
-  "level": "B1",
-  "rank": 6318,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 2065,
-  "share": 20.0,
   "band": "top-10k"
  },
  {
@@ -14443,28 +14374,6 @@
   "band": "top-10k"
  },
  {
-  "en": "cheating",
-  "uk": "читинг",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "games",
-   "informal"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-audit3.json",
-  "zipf": 4.2,
-  "list_level": null,
-  "level": "B2",
-  "rank": 6853,
-  "rank_est": true,
-  "langs": 3,
-  "rank_raw": 3426,
-  "share": 35.0,
-  "band": "top-10k"
- },
- {
   "en": "duel",
   "uk": "дуель",
   "pos": "noun",
@@ -15807,28 +15716,6 @@
   "langs": 9,
   "rank_raw": 6636,
   "share": 85.0,
-  "band": "top-10k"
- },
- {
-  "en": "olein",
-  "uk": "олеїн",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 1.05,
-  "list_level": null,
-  "level": "C2",
-  "rank": 7334,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 7334,
-  "share": 100.0,
   "band": "top-10k"
  },
  {
@@ -18928,28 +18815,6 @@
   "band": "top-10k"
  },
  {
-  "en": "OS",
-  "uk": "ОС",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-sweep-r1b.json",
-  "zipf": 4.1,
-  "list_level": null,
-  "level": "C1",
-  "rank": 8544,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 7503,
-  "share": 80.0,
-  "band": "top-10k"
- },
- {
   "en": "parachute",
   "uk": "парашут",
   "pos": "noun",
@@ -19392,30 +19257,6 @@
   "langs": 9,
   "rank_raw": 8235,
   "share": 90.0,
-  "band": "top-10k"
- },
- {
-  "en": "savanna",
-  "uk": "саванна",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "nature"
-  ],
-  "note": "Also spelled savannah.",
-  "checked": 2,
-  "src": "verify-036.json",
-  "uk_alt": [
-   "савана"
-  ],
-  "zipf": 2.83,
-  "list_level": null,
-  "level": "B2",
-  "rank": 8744,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 8746,
-  "share": 100.0,
   "band": "top-10k"
  },
  {
@@ -21487,31 +21328,6 @@
   "band": "top-10k"
  },
  {
-  "en": "deacon",
-  "uk": "дякон",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
-  "uk_alt": [
-   "діакон"
-  ],
-  "zipf": 3.39,
-  "list_level": null,
-  "level": "C1",
-  "rank": 9607,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 9294,
-  "share": 95.0,
-  "band": "top-10k"
- },
- {
   "en": "startup",
   "uk": "стартап",
   "pos": "noun",
@@ -21576,6 +21392,28 @@
   "langs": 9,
   "rank_raw": 9617,
   "share": 100.0,
+  "band": "top-10k"
+ },
+ {
+  "en": "manuscript",
+  "uk": "манускрипт",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "language"
+  ],
+  "note": "Also an author's text before it is printed.",
+  "checked": 2,
+  "src": "verify-023.json",
+  "zipf": 3.92,
+  "list_level": null,
+  "level": "C1",
+  "rank": 9618,
+  "rank_est": true,
+  "langs": 3,
+  "rank_raw": 5970,
+  "share": 45.0,
   "band": "top-10k"
  },
  {
@@ -22358,30 +22196,6 @@
   "langs": 4,
   "rank_raw": 9943,
   "share": 100.0,
-  "band": "top-10k"
- },
- {
-  "en": "peri",
-  "uk": "пері",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "literary",
-   "other",
-   "rare"
-  ],
-  "note": "a fairy of Persian mythology",
-  "checked": 2,
-  "src": "verify-071.json",
-  "zipf": 2.99,
-  "list_level": null,
-  "level": "C2",
-  "rank": 9950,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 1239,
-  "share": 5.0,
   "band": "top-10k"
  },
  {
@@ -26144,28 +25958,6 @@
   "band": "top-20k"
  },
  {
-  "en": "establishment",
-  "uk": "істеблішмент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "politics"
-  ],
-  "note": "Only 'the Establishment' (ruling elite); founding is заснування, a business is заклад.",
-  "checked": 2,
-  "src": "verify-010.json",
-  "zipf": 4.42,
-  "list_level": "B1",
-  "level": "C1",
-  "rank": 11135,
-  "rank_est": true,
-  "langs": 8,
-  "rank_raw": 4197,
-  "share": 20.0,
-  "band": "top-20k"
- },
- {
   "en": "toaster",
   "uk": "тостер",
   "pos": "noun",
@@ -26798,27 +26590,6 @@
   "band": "top-20k"
  },
  {
-  "en": "scalp",
-  "uk": "скальп",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "scan-018.json",
-  "zipf": 3.48,
-  "list_level": null,
-  "level": "B2",
-  "rank": 11470,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 10161,
-  "share": 80.0,
-  "band": "top-20k"
- },
- {
   "en": "meteorite",
   "uk": "метеорит",
   "pos": "noun",
@@ -27431,29 +27202,6 @@
   "langs": 0,
   "rank_raw": 11689,
   "share": 100.0,
-  "band": "top-20k"
- },
- {
-  "en": "cookie",
-  "uk": "кукі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "informal",
-   "international",
-   "tech"
-  ],
-  "note": "only internet cookies, usually plural (кукі, куки, файли cookie); a sweet cookie = печиво",
-  "checked": 2,
-  "src": "verify-017.json",
-  "zipf": 4.07,
-  "list_level": "A1",
-  "level": "B2",
-  "rank": 11691,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 4470,
-  "share": 20.0,
   "band": "top-20k"
  },
  {
@@ -31737,28 +31485,6 @@
   "band": "top-20k"
  },
  {
-  "en": "militant",
-  "uk": "мілітант",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics",
-   "rare"
-  ],
-  "note": "Rare in Ukrainian; usual words: бойовик (fighter), радикал/активіст. The English adjective is войовничий.",
-  "checked": 2,
-  "src": "verify-036.json",
-  "zipf": 3.62,
-  "list_level": null,
-  "level": "C1",
-  "rank": 13396,
-  "rank_est": true,
-  "langs": 4,
-  "rank_raw": 9126,
-  "share": 50.0,
-  "band": "top-20k"
- },
- {
   "en": "temperament",
   "uk": "темперамент",
   "pos": "noun",
@@ -32131,28 +31857,6 @@
   "langs": 4,
   "rank_raw": 8109,
   "share": 40.0,
-  "band": "top-20k"
- },
- {
-  "en": "brunette",
-  "uk": "брюнет",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "people"
-  ],
-  "note": "брюнет is a dark-haired man; a dark-haired woman is брюнетка.",
-  "checked": 2,
-  "src": "verify-046.json",
-  "zipf": 3.4,
-  "list_level": null,
-  "level": "B2",
-  "rank": 13545,
-  "rank_est": true,
-  "langs": 5,
-  "rank_raw": 10249,
-  "share": 60.0,
   "band": "top-20k"
  },
  {
@@ -34559,30 +34263,6 @@
   "langs": 9,
   "rank_raw": 350,
   "books_pm": 0.686,
-  "band": "top-20k"
- },
- {
-  "en": "WTF",
-  "uk": "втф",
-  "pos": "interj",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "other",
-   "slang"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-sweep-r1b.json",
-  "zipf": 4.22,
-  "list_level": null,
-  "level": "B2",
-  "rank": 14302,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 14303,
-  "share": 100.0,
   "band": "top-20k"
  },
  {
@@ -37207,30 +36887,6 @@
   "langs": 9,
   "rank_raw": 15412,
   "share": 100.0,
-  "band": "top-20k"
- },
- {
-  "en": "GIS",
-  "uk": "ГІС",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "tech",
-   "technical"
-  ],
-  "note": "Ukrainian ГІС = геоінформаційна система (geographic information system)",
-  "checked": 2,
-  "src": "verify-058.json",
-  "zipf": 3.2,
-  "list_level": null,
-  "level": "C1",
-  "rank": 15417,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 14616,
-  "share": 90.0,
   "band": "top-20k"
  },
  {
@@ -40666,6 +40322,30 @@
   "band": "top-20k"
  },
  {
+  "en": "savanna",
+  "uk": "саванна",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "nature"
+  ],
+  "note": "Also spelled savannah.",
+  "checked": 2,
+  "src": "verify-036.json",
+  "uk_alt": [
+   "савана"
+  ],
+  "zipf": 2.83,
+  "list_level": null,
+  "level": "B2",
+  "rank": 16715,
+  "rank_est": true,
+  "langs": 1,
+  "rank_raw": 8746,
+  "share": 30.0,
+  "band": "top-20k"
+ },
+ {
   "en": "targeting",
   "uk": "таргетинг",
   "pos": "noun",
@@ -41445,29 +41125,6 @@
   "band": "top-20k"
  },
  {
-  "en": "raft",
-  "uk": "рафт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "sport",
-   "transport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 3.46,
-  "list_level": null,
-  "level": "C1",
-  "rank": 17000,
-  "rank_est": true,
-  "langs": 6,
-  "rank_raw": 8934,
-  "share": 30.0,
-  "band": "top-20k"
- },
- {
   "en": "basset",
   "uk": "басет",
   "pos": "noun",
@@ -41839,28 +41496,6 @@
   "langs": 9,
   "rank_raw": 11306,
   "share": 45.0,
-  "band": "top-20k"
- },
- {
-  "en": "proponent",
-  "uk": "пропонент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 3.15,
-  "list_level": "B2",
-  "level": "C1",
-  "rank": 17118,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 17124,
-  "share": 100.0,
   "band": "top-20k"
  },
  {
@@ -42594,30 +42229,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 17401,
-  "share": 100.0,
-  "band": "top-20k"
- },
- {
-  "en": "GMO",
-  "uk": "ГМО",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "biology",
-   "food",
-   "international"
-  ],
-  "note": "Genetically modified organism = генетично модифікований організм.",
-  "checked": 2,
-  "src": "verify-054.json",
-  "zipf": 3.25,
-  "list_level": null,
-  "level": "B2",
-  "rank": 17401,
-  "rank_est": true,
-  "langs": 6,
-  "rank_raw": 17403,
   "share": 100.0,
   "band": "top-20k"
  },
@@ -44188,28 +43799,6 @@
   "langs": 2,
   "rank_raw": 16556,
   "share": 85.0,
-  "band": "top-20k"
- },
- {
-  "en": "Urdu",
-  "uk": "урду",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "language"
-  ],
-  "note": "The language; written with a small letter in Ukrainian.",
-  "checked": 2,
-  "src": "verify-054.json",
-  "zipf": 3.26,
-  "list_level": null,
-  "level": "C1",
-  "rank": 17894,
-  "rank_est": false,
-  "langs": 8,
-  "rank_raw": 17896,
-  "share": 100.0,
   "band": "top-20k"
  },
  {
@@ -46054,6 +45643,31 @@
   "band": "top-20k"
  },
  {
+  "en": "jinn",
+  "uk": "джин",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "religion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rverify-000.json",
+  "also": [
+   "djinn"
+  ],
+  "zipf": 2.58,
+  "list_level": null,
+  "level": "C1",
+  "rank": 18672,
+  "rank_est": true,
+  "langs": 6,
+  "rank_raw": 3216,
+  "share": 5.0,
+  "band": "top-20k"
+ },
+ {
   "en": "businesswoman",
   "uk": "бізнесвумен",
   "pos": "noun",
@@ -47780,30 +47394,6 @@
   "band": "top-20k"
  },
  {
-  "en": "TNT",
-  "uk": "ТНТ",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "military",
-   "technical"
-  ],
-  "note": "The everyday Ukrainian word is тротил.",
-  "checked": 2,
-  "src": "verify-052.json",
-  "zipf": 3.31,
-  "list_level": null,
-  "level": "C1",
-  "rank": 19368,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 16279,
-  "share": 70.0,
-  "band": "top-20k"
- },
- {
   "en": "namaste",
   "uk": "намасте",
   "pos": "interj",
@@ -47996,28 +47586,6 @@
   "langs": 7,
   "rank_raw": 17932,
   "share": 85.0,
-  "band": "top-20k"
- },
- {
-  "en": "Telugu",
-  "uk": "телугу",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "language"
-  ],
-  "note": "The language; capitalized in English.",
-  "checked": 2,
-  "src": "verify-060.json",
-  "zipf": 3.17,
-  "list_level": null,
-  "level": "C2",
-  "rank": 19420,
-  "rank_est": true,
-  "langs": 5,
-  "rank_raw": 16337,
-  "share": 70.0,
   "band": "top-20k"
  },
  {
@@ -49196,51 +48764,6 @@
   "band": "top-20k"
  },
  {
-  "en": "ivory",
-  "uk": "айворі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "international",
-   "rare"
-  ],
-  "note": "Only the colour ivory (fabrics, wedding dresses); the material is слонова кістка.",
-  "checked": 2,
-  "src": "verify-026.json",
-  "zipf": 3.85,
-  "list_level": "B1",
-  "level": "B2",
-  "rank": 19824,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 8456,
-  "share": 20.0,
-  "band": "top-20k"
- },
- {
-  "en": "skater",
-  "uk": "скейтер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "zipf": 3.32,
-  "list_level": null,
-  "level": "B2",
-  "rank": 19836,
-  "rank_est": true,
-  "langs": 8,
-  "rank_raw": 11614,
-  "share": 35.0,
-  "band": "top-20k"
- },
- {
   "en": "screenshot",
   "uk": "скріншот",
   "pos": "noun",
@@ -49937,29 +49460,6 @@
   "langs": 9,
   "rank_raw": 3584,
   "books_pm": 0.681,
-  "band": "top-50k"
- },
- {
-  "en": "EEG",
-  "uk": "ЕЕГ",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "medicine"
-  ],
-  "note": "Electroencephalogram = електроенцефалограма; written in capitals: ЕЕГ.",
-  "checked": 2,
-  "src": "verify-070.json",
-  "zipf": 3.01,
-  "list_level": null,
-  "level": "C1",
-  "rank": 20145,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 20145,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -51255,28 +50755,6 @@
   "band": "top-50k"
  },
  {
-  "en": "minotaur",
-  "uk": "мінотавр",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "other"
-  ],
-  "note": "Usually 'the Minotaur', the monster of Greek myth.",
-  "checked": 2,
-  "src": "verify-087.json",
-  "zipf": 2.76,
-  "list_level": null,
-  "level": "C1",
-  "rank": 20628,
-  "rank_est": false,
-  "langs": 4,
-  "rank_raw": 20628,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "extremism",
   "uk": "екстремізм",
   "pos": "noun",
@@ -52078,27 +51556,6 @@
   "langs": 9,
   "rank_raw": 20910,
   "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "Yiddish",
-  "uk": "їдиш",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language"
-  ],
-  "note": "Capitalized in English. Usual Ukrainian spelling їдиш, also ідиш.",
-  "checked": 2,
-  "src": "verify-066.json",
-  "zipf": 3.07,
-  "list_level": null,
-  "level": "C1",
-  "rank": 20911,
-  "rank_est": true,
-  "langs": 3,
-  "rank_raw": 17572,
-  "share": 70.0,
   "band": "top-50k"
  },
  {
@@ -54353,30 +53810,6 @@
   "band": "top-50k"
  },
  {
-  "en": "OOP",
-  "uk": "ООП",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "tech",
-   "technical"
-  ],
-  "note": "Object-oriented programming = об'єктно-орієнтоване програмування; written ООП.",
-  "checked": 2,
-  "src": "verify-070.json",
-  "zipf": 3.01,
-  "list_level": null,
-  "level": "C2",
-  "rank": 21799,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 17064,
-  "share": 60.0,
-  "band": "top-50k"
- },
- {
   "en": "bestie",
   "uk": "бесті",
   "pos": "noun",
@@ -55216,27 +54649,6 @@
   "band": "top-50k"
  },
  {
-  "en": "clipping",
-  "uk": "кліпінг",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "media"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 3.19,
-  "list_level": null,
-  "level": "C1",
-  "rank": 22101,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 12119,
-  "share": 30.0,
-  "band": "top-50k"
- },
- {
   "en": "prankster",
   "uk": "пранкстер",
   "pos": "noun",
@@ -55255,28 +54667,6 @@
   "langs": 1,
   "rank_raw": 22109,
   "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "slime",
-  "uk": "слайм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "other"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-014.json",
-  "zipf": 3.38,
-  "list_level": null,
-  "level": "B2",
-  "rank": 22112,
-  "rank_est": true,
-  "langs": 8,
-  "rank_raw": 10978,
-  "share": 25.0,
   "band": "top-50k"
  },
  {
@@ -57682,28 +57072,6 @@
   "band": "top-50k"
  },
  {
-  "en": "sports bar",
-  "uk": "спорт-бар",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "places",
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-audit3.json",
-  "zipf": 4.64,
-  "list_level": null,
-  "level": "B2",
-  "rank": 22978,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 1737,
-  "books_pm": 0.191,
-  "band": "top-50k"
- },
- {
   "en": "iota",
   "uk": "йота",
   "pos": "noun",
@@ -59949,28 +59317,6 @@
   "rank_est": false,
   "langs": 3,
   "rank_raw": 23785,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "Hanukkah",
-  "uk": "Ханука",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "religion"
-  ],
-  "note": "Also spelled Chanukah; written with a capital letter.",
-  "checked": 2,
-  "src": "verify-087.json",
-  "zipf": 2.76,
-  "list_level": null,
-  "level": "C1",
-  "rank": 23793,
-  "rank_est": true,
-  "langs": 3,
-  "rank_raw": 23793,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -63034,29 +62380,6 @@
   "band": "top-50k"
  },
  {
-  "en": "Holi",
-  "uk": "Холі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "religion",
-   "time"
-  ],
-  "note": "Hindu spring festival of colours.",
-  "checked": 2,
-  "src": "verify-090.json",
-  "zipf": 2.71,
-  "list_level": null,
-  "level": "C1",
-  "rank": 25038,
-  "rank_est": true,
-  "langs": 8,
-  "rank_raw": 25038,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "paraffin",
   "uk": "парафін",
   "pos": "noun",
@@ -64710,29 +64033,6 @@
   "rank_est": true,
   "langs": 9,
   "rank_raw": 25777,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "ECG",
-  "uk": "ЕКГ",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "medicine"
-  ],
-  "note": "Electrocardiogram; also EKG in US English. ЕКГ is read 'е-ка-ге'.",
-  "checked": 2,
-  "src": "verify-079.json",
-  "zipf": 2.87,
-  "list_level": null,
-  "level": "C1",
-  "rank": 25777,
-  "rank_est": true,
-  "langs": 6,
-  "rank_raw": 25778,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -68244,30 +67544,6 @@
   "rank_est": false,
   "langs": 3,
   "rank_raw": 27287,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "Yule",
-  "uk": "Йоль",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "literary",
-   "religion",
-   "time"
-  ],
-  "note": "Midwinter festival / Christmastide; Ukrainian also Йоль.",
-  "checked": 2,
-  "src": "verify-090.json",
-  "zipf": 2.71,
-  "list_level": null,
-  "level": "C2",
-  "rank": 27297,
-  "rank_est": false,
-  "langs": 5,
-  "rank_raw": 27297,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -72677,32 +71953,6 @@
   "band": "top-50k"
  },
  {
-  "en": "Lend-Lease",
-  "uk": "ленд-ліз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "military",
-   "politics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "uk_alt": [
-   "лендліз"
-  ],
-  "zipf": 3.73,
-  "list_level": null,
-  "level": "C2",
-  "rank": 28826,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 89273,
-  "books_pm": 0.273,
-  "band": "top-50k"
- },
- {
   "en": "alleluia",
   "uk": "алілуя",
   "pos": "interj",
@@ -73471,28 +72721,6 @@
   "rank_est": false,
   "langs": 1,
   "rank_raw": 29154,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "hadron",
-  "uk": "адрон",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "physics",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
-  "zipf": 2.68,
-  "list_level": null,
-  "level": "C2",
-  "rank": 29160,
-  "rank_est": false,
-  "langs": 2,
-  "rank_raw": 29161,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -74345,28 +73573,6 @@
   "langs": 3,
   "rank_raw": 29448,
   "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "colada",
-  "uk": "колада",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "drinks",
-   "international"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-002.json",
-  "zipf": 2.46,
-  "list_level": null,
-  "level": "C2",
-  "rank": 29466,
-  "rank_est": true,
-  "langs": 7,
-  "rank_raw": 25244,
-  "share": 70.0,
   "band": "top-50k"
  },
  {
@@ -78031,27 +77237,6 @@
   "band": "top-50k"
  },
  {
-  "en": "telekinesis",
-  "uk": "телекінез",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 2.46,
-  "list_level": null,
-  "level": "C2",
-  "rank": 30937,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 30941,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "agora",
   "uk": "агора",
   "pos": "noun",
@@ -79182,28 +78367,6 @@
   "band": "top-50k"
  },
  {
-  "en": "cravat",
-  "uk": "крават",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-011.json",
-  "zipf": 2.31,
-  "list_level": null,
-  "level": "C2",
-  "rank": 31368,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 31370,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "caballero",
   "uk": "кабальєро",
   "pos": "noun",
@@ -79617,51 +78780,6 @@
   "langs": 0,
   "rank_raw": 31525,
   "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "resize",
-  "uk": "ресайз",
-  "pos": "verb",
-  "british": false,
-  "labels": [
-   "informal",
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 2.48,
-  "list_level": null,
-  "level": "C2",
-  "rank": 31543,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 31545,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "DMZ",
-  "uk": "ДМЗ",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "military"
-  ],
-  "note": "Demilitarized zone = демілітаризована зона.",
-  "checked": 2,
-  "src": "verify-096.json",
-  "zipf": 2.62,
-  "list_level": null,
-  "level": "C1",
-  "rank": 31570,
-  "rank_est": true,
-  "langs": 7,
-  "rank_raw": 30915,
-  "share": 95.0,
   "band": "top-50k"
  },
  {
@@ -80492,27 +79610,6 @@
   "langs": 8,
   "rank_raw": 29946,
   "share": 85.0,
-  "band": "top-50k"
- },
- {
-  "en": "urban park",
-  "uk": "урбан-парк",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "places"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 4.53,
-  "list_level": null,
-  "level": "C1",
-  "rank": 32018,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 2104,
-  "books_pm": 0.166,
   "band": "top-50k"
  },
  {
@@ -81736,27 +80833,6 @@
   "langs": 3,
   "rank_raw": 31146,
   "share": 90.0,
-  "band": "top-50k"
- },
- {
-  "en": "policymaker",
-  "uk": "полісімейкер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 1.95,
-  "list_level": null,
-  "level": "C2",
-  "rank": 32497,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 32499,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -85018,29 +84094,6 @@
   "band": "top-50k"
  },
  {
-  "en": "mcg",
-  "uk": "мкг",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "units"
-  ],
-  "note": "Microgram.",
-  "checked": 2,
-  "src": "scan-017.json",
-  "zipf": 2.96,
-  "list_level": null,
-  "level": "C1",
-  "rank": 33889,
-  "rank_est": false,
-  "langs": 7,
-  "rank_raw": 33891,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "asphyxia",
   "uk": "асфіксія",
   "pos": "noun",
@@ -85293,27 +84346,6 @@
   "langs": 1,
   "rank_raw": 34015,
   "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "unicycle",
-  "uk": "уніцикл",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-002.json",
-  "zipf": 2.37,
-  "list_level": null,
-  "level": "C2",
-  "rank": 34022,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 33306,
-  "share": 95.0,
   "band": "top-50k"
  },
  {
@@ -88919,27 +87951,6 @@
   "band": "top-50k"
  },
  {
-  "en": "Bolshevism",
-  "uk": "большевизм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 2.45,
-  "list_level": null,
-  "level": "C2",
-  "rank": 35534,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 35534,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "azimuth",
   "uk": "азимут",
   "pos": "noun",
@@ -89512,27 +88523,6 @@
   "langs": 7,
   "rank_raw": 24310,
   "share": 40.0,
-  "band": "top-50k"
- },
- {
-  "en": "dBm",
-  "uk": "дБм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "physics"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 2.34,
-  "list_level": null,
-  "level": "C2",
-  "rank": 35766,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 35766,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -91486,27 +90476,6 @@
   "band": "top-50k"
  },
  {
-  "en": "spurt",
-  "uk": "спурт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 2.84,
-  "list_level": null,
-  "level": "C1",
-  "rank": 36774,
-  "rank_est": true,
-  "langs": 4,
-  "rank_raw": 18112,
-  "share": 20.0,
-  "band": "top-50k"
- },
- {
   "en": "phenotype",
   "uk": "фенотип",
   "pos": "noun",
@@ -92176,31 +91145,6 @@
   "band": "top-50k"
  },
  {
-  "en": "leukocyte",
-  "uk": "левкоцит",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-011.json",
-  "uk_alt": [
-   "лейкоцит"
-  ],
-  "zipf": 2.29,
-  "list_level": null,
-  "level": "C2",
-  "rank": 37057,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 37057,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "symbiont",
   "uk": "симбіонт",
   "pos": "noun",
@@ -92547,27 +91491,6 @@
   "rank_est": false,
   "langs": 2,
   "rank_raw": 37243,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "brulee",
-  "uk": "брюле",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "food"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 2.16,
-  "list_level": null,
-  "level": "C2",
-  "rank": 37253,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 37261,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -93023,27 +91946,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 37422,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "denarius",
-  "uk": "денарій",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "finance"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 1.99,
-  "list_level": null,
-  "level": "C2",
-  "rank": 37428,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 37432,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -94514,28 +93416,6 @@
   "band": "top-50k"
  },
  {
-  "en": "anatomist",
-  "uk": "анатоміст",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-007.json",
-  "zipf": 2.22,
-  "list_level": null,
-  "level": "C2",
-  "rank": 38149,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 38151,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "immunoglobulin",
   "uk": "імуноглобулін",
   "pos": "noun",
@@ -95179,27 +94059,6 @@
   "langs": 9,
   "rank_raw": 1810,
   "books_pm": 0.111,
-  "band": "top-50k"
- },
- {
-  "en": "super soldier",
-  "uk": "суперсолдат",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "military"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 4.37,
-  "list_level": null,
-  "level": "C2",
-  "rank": 38506,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 2822,
-  "books_pm": 0.067,
   "band": "top-50k"
  },
  {
@@ -98300,28 +97159,6 @@
   "rank_est": false,
   "langs": 3,
   "rank_raw": 40019,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "halitosis",
-  "uk": "галітоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 2.1,
-  "list_level": null,
-  "level": "C2",
-  "rank": 40019,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 40022,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -101457,29 +100294,6 @@
   "band": "top-50k"
  },
  {
-  "en": "kHz",
-  "uk": "кГц",
-  "pos": "abbr",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "international",
-   "units"
-  ],
-  "note": "Kilohertz.",
-  "checked": 2,
-  "src": "scan-017.json",
-  "zipf": 3.1,
-  "list_level": null,
-  "level": "C1",
-  "rank": 41235,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 41247,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "augur",
   "uk": "авгур",
   "pos": "noun",
@@ -102119,29 +100933,6 @@
   "langs": 0,
   "rank_raw": 31329,
   "share": 50.0,
-  "band": "top-50k"
- },
- {
-  "en": "duc",
-  "uk": "дюк",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "people",
-   "rare"
-  ],
-  "note": "a French duke; the usual English word is duke",
-  "checked": 2,
-  "src": "verify-083.json",
-  "zipf": 2.8,
-  "list_level": null,
-  "level": "C2",
-  "rank": 41546,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 25160,
-  "share": 30.0,
   "band": "top-50k"
  },
  {
@@ -103860,28 +102651,6 @@
   "band": "top-50k"
  },
  {
-  "en": "progenitor",
-  "uk": "прогенітор",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 2.84,
-  "list_level": null,
-  "level": "C2",
-  "rank": 42378,
-  "rank_est": true,
-  "langs": 2,
-  "rank_raw": 25747,
-  "share": 30.0,
-  "band": "top-50k"
- },
- {
   "en": "osteopath",
   "uk": "остеопат",
   "pos": "noun",
@@ -103922,28 +102691,6 @@
   "rank_est": false,
   "langs": 6,
   "rank_raw": 42389,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "radiograph",
-  "uk": "радіограф",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-013.json",
-  "zipf": 1.98,
-  "list_level": null,
-  "level": "C2",
-  "rank": 42393,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 42397,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -106458,28 +105205,6 @@
   "band": "top-50k"
  },
  {
-  "en": "orthopedist",
-  "uk": "ортопедист",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
-  "zipf": 1.98,
-  "list_level": null,
-  "level": "C2",
-  "rank": 43574,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 43583,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
   "en": "cover band",
   "uk": "кавер-бенд",
   "pos": "noun",
@@ -107748,27 +106473,6 @@
   "band": "top-50k"
  },
  {
-  "en": "auto service",
-  "uk": "автосервіс",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "transport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
-  "zipf": 4.44,
-  "list_level": null,
-  "level": "B2",
-  "rank": 44168,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 2471,
-  "books_pm": 0.021,
-  "band": "top-50k"
- },
- {
   "en": "reggaeton",
   "uk": "реггетон",
   "pos": "noun",
@@ -108651,27 +107355,6 @@
   "rank_est": false,
   "langs": 1,
   "rank_raw": 44649,
-  "share": 100.0,
-  "band": "top-50k"
- },
- {
-  "en": "coproduction",
-  "uk": "копродакшн",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "media"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 1.8,
-  "list_level": null,
-  "level": "C2",
-  "rank": 44648,
-  "rank_est": false,
-  "langs": 1,
-  "rank_raw": 44663,
   "share": 100.0,
   "band": "top-50k"
  },
@@ -115621,28 +114304,6 @@
   "band": "top-50k"
  },
  {
-  "en": "mizrahi",
-  "uk": "мізрахі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-006.json",
-  "zipf": 2.15,
-  "list_level": null,
-  "level": "C2",
-  "rank": 47997,
-  "rank_est": false,
-  "langs": 3,
-  "rank_raw": 45893,
-  "share": 90.0,
-  "band": "top-50k"
- },
- {
   "en": "tastemaker",
   "uk": "тейстмейкер",
   "pos": "noun",
@@ -116287,27 +114948,6 @@
   "langs": 9,
   "rank_raw": 2521,
   "books_pm": 0.011,
-  "band": "top-50k"
- },
- {
-  "en": "pederast",
-  "uk": "педераст",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "people"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-013.json",
-  "zipf": 1.71,
-  "list_level": null,
-  "level": "C2",
-  "rank": 48193,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 48202,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -117663,27 +116303,6 @@
   "langs": 1,
   "rank_raw": 42128,
   "share": 70.0,
-  "band": "top-50k"
- },
- {
-  "en": "benefice",
-  "uk": "бенефіцій",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "zipf": 2.32,
-  "list_level": null,
-  "level": "C2",
-  "rank": 48894,
-  "rank_est": false,
-  "langs": 2,
-  "rank_raw": 48900,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -120186,27 +118805,6 @@
   "langs": 7,
   "rank_raw": 35297,
   "books_pm": 0.048,
-  "band": "top-50k"
- },
- {
-  "en": "hindustani",
-  "uk": "хіндустані",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 2.37,
-  "list_level": null,
-  "level": "C2",
-  "rank": 49998,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 40407,
-  "share": 60.0,
   "band": "top-50k"
  },
  {
@@ -125423,27 +124021,6 @@
   "langs": 5,
   "rank_raw": 52605,
   "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "accumulator",
-  "uk": "акумулятор",
-  "pos": "noun",
-  "british": true,
-  "labels": [
-   "tech"
-  ],
-  "note": "Rechargeable battery (British usage); in US English it is a battery.",
-  "checked": 2,
-  "src": "verify-090.json",
-  "zipf": 2.7,
-  "list_level": null,
-  "level": "B2",
-  "rank": 52614,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 29638,
-  "share": 25.0,
   "band": "top-100k"
  },
  {
@@ -141557,6 +140134,30 @@
   "band": "top-100k"
  },
  {
+  "en": "peri",
+  "uk": "пері",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "international",
+   "literary",
+   "other",
+   "rare"
+  ],
+  "note": "a fairy of Persian mythology",
+  "checked": 2,
+  "src": "verify-071.json",
+  "zipf": 2.99,
+  "list_level": null,
+  "level": "C2",
+  "rank": 60190,
+  "rank_est": true,
+  "langs": 9,
+  "rank_raw": 1239,
+  "share": 0.1,
+  "band": "top-100k"
+ },
+ {
   "en": "radionuclide",
   "uk": "радіонуклід",
   "pos": "noun",
@@ -151688,32 +150289,6 @@
   "band": "top-100k"
  },
  {
-  "en": "avifauna",
-  "uk": "авіфавна",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "nature",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "uk_alt": [
-   "авіфауна"
-  ],
-  "zipf": 1.73,
-  "list_level": null,
-  "level": "C2",
-  "rank": 65438,
-  "rank_est": true,
-  "langs": 4,
-  "rank_raw": 65424,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "bartonella",
   "uk": "бартонела",
   "pos": "noun",
@@ -151927,29 +150502,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-fullscan2.json",
-  "zipf": 1.73,
-  "list_level": null,
-  "level": "C2",
-  "rank": 65438,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 65424,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "hodl",
-  "uk": "ходл",
-  "pos": "verb",
-  "british": false,
-  "labels": [
-   "finance",
-   "rare",
-   "slang"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "gap-fullscan.json",
   "zipf": 1.73,
   "list_level": null,
   "level": "C2",
@@ -152988,28 +151540,6 @@
   "rank_est": false,
   "langs": 0,
   "rank_raw": 65884,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "silicosis",
-  "uk": "силікоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-003.json",
-  "zipf": 1.85,
-  "list_level": null,
-  "level": "C2",
-  "rank": 65892,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 65898,
   "share": 100.0,
   "band": "top-100k"
  },
@@ -155569,29 +154099,6 @@
   "langs": 0,
   "rank_raw": 63858,
   "share": 90.0,
-  "band": "top-100k"
- },
- {
-  "en": "strikebreaker",
-  "uk": "страйкбрехер",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "business",
-   "politics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-019.json",
-  "zipf": 1.09,
-  "list_level": null,
-  "level": "C2",
-  "rank": 67170,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 67170,
-  "share": 100.0,
   "band": "top-100k"
  },
  {
@@ -159857,28 +158364,6 @@
   "langs": 0,
   "rank_raw": 67556,
   "share": 95.0,
-  "band": "top-100k"
- },
- {
-  "en": "transaminase",
-  "uk": "трансаміназа",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 1.94,
-  "list_level": null,
-  "level": "C2",
-  "rank": 69240,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 69246,
-  "share": 100.0,
   "band": "top-100k"
  },
  {
@@ -183056,28 +181541,6 @@
   "band": "top-100k"
  },
  {
-  "en": "Newfoundland",
-  "uk": "ньюфаундленд",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "nature"
-  ],
-  "note": "the dog breed; the Canadian island Ньюфаундленд is a place name",
-  "checked": 2,
-  "src": "verify-048.json",
-  "zipf": 3.38,
-  "list_level": null,
-  "level": "C1",
-  "rank": 82134,
-  "rank_est": true,
-  "langs": 5,
-  "rank_raw": 17275,
-  "share": 3.0,
-  "band": "top-100k"
- },
- {
   "en": "sabayon",
   "uk": "сабайон",
   "pos": "noun",
@@ -186316,28 +184779,6 @@
   "band": "top-100k"
  },
  {
-  "en": "alexandrite",
-  "uk": "олександрит",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "nature",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json",
-  "zipf": 1.83,
-  "list_level": null,
-  "level": "C2",
-  "rank": 84909,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 84914,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "telephonist",
   "uk": "телефоніст",
   "pos": "noun",
@@ -186558,27 +184999,6 @@
   "langs": 0,
   "rank_raw": 85031,
   "share": 100.0,
-  "band": "top-100k"
- },
- {
-  "en": "druse",
-  "uk": "друза",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "science"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 1.83,
-  "list_level": null,
-  "level": "C2",
-  "rank": 85046,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 48337,
-  "share": 30.0,
   "band": "top-100k"
  },
  {
@@ -187924,28 +186344,6 @@
   "langs": 0,
   "rank_raw": 66481,
   "share": 60.0,
-  "band": "top-100k"
- },
- {
-  "en": "atelectasis",
-  "uk": "ателектаз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "zipf": 1.65,
-  "list_level": null,
-  "level": "C2",
-  "rank": 85805,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 85818,
-  "share": 100.0,
   "band": "top-100k"
  },
  {
@@ -189649,28 +188047,6 @@
   "band": "top-100k"
  },
  {
-  "en": "epistasis",
-  "uk": "епістаз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 1.48,
-  "list_level": null,
-  "level": "C2",
-  "rank": 87205,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 87205,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "groupset",
   "uk": "групсет",
   "pos": "noun",
@@ -190683,28 +189059,6 @@
   "band": "top-100k"
  },
  {
-  "en": "keratosis",
-  "uk": "кератоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 1.94,
-  "list_level": null,
-  "level": "C2",
-  "rank": 87832,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 87832,
-  "share": 100.0,
-  "band": "top-100k"
- },
- {
   "en": "huaca",
   "uk": "уака",
   "pos": "noun",
@@ -191059,28 +189413,6 @@
   "langs": 5,
   "rank_raw": 28497,
   "books_pm": 0.009,
-  "band": "top-100k"
- },
- {
-  "en": "catafalque",
-  "uk": "катафалк",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "rare",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-016.json",
-  "zipf": 1.45,
-  "list_level": null,
-  "level": "C2",
-  "rank": 88026,
-  "rank_est": false,
-  "langs": 0,
-  "rank_raw": 88017,
-  "share": 100.0,
   "band": "top-100k"
  },
  {
@@ -207536,6 +205868,28 @@
   "band": "rare"
  },
  {
+  "en": "olein",
+  "uk": "олеїн",
+  "pos": "noun",
+  "british": false,
+  "labels": [
+   "chemistry",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-012.json",
+  "zipf": 1.05,
+  "list_level": null,
+  "level": "C2",
+  "rank": 100001,
+  "rank_est": true,
+  "langs": 0,
+  "rank_raw": 7334,
+  "share": 0.2,
+  "band": "rare"
+ },
+ {
   "en": "groove metal",
   "uk": "грув-метал",
   "pos": "noun",
@@ -216095,28 +214449,6 @@
   "band": "rare"
  },
  {
-  "en": "dermatosis",
-  "uk": "дерматоз",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "medicine",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "zipf": 1.33,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "ergotism",
   "uk": "ерготизм",
   "pos": "noun",
@@ -217576,29 +215908,6 @@
   "band": "rare"
  },
  {
-  "en": "OKB",
-  "uk": "окб",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "abbreviation",
-   "rare",
-   "tech"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-017.json",
-  "zipf": 1.31,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 100001,
-  "share": 90.0,
-  "band": "rare"
- },
- {
   "en": "ontogenesis",
   "uk": "онтогенезис",
   "pos": "noun",
@@ -218001,28 +216310,6 @@
   "langs": 0,
   "rank_raw": 100001,
   "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "affricate",
-  "uk": "африкат",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "language",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rverify-017.json",
-  "zipf": 1.3,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 95.0,
   "band": "rare"
  },
  {
@@ -220859,28 +219146,6 @@
   "band": "rare"
  },
  {
-  "en": "carbonaro",
-  "uk": "карбонар",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "history",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 1.25,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "commensalism",
   "uk": "коменсалізм",
   "pos": "noun",
@@ -221767,29 +220032,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-004.json",
-  "zipf": 1.23,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 100001,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "nilgai",
-  "uk": "нільгау",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "nature",
-   "rare",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-012.json",
   "zipf": 1.23,
   "list_level": null,
   "level": "C2",
@@ -251803,28 +250045,6 @@
   "band": "rare"
  },
  {
-  "en": "erythrite",
-  "uk": "еритрит",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "chemistry",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 70.0,
-  "band": "rare"
- },
- {
   "en": "erythroblast",
   "uk": "еритробласт",
   "pos": "noun",
@@ -253724,28 +251944,6 @@
   "band": "rare"
  },
  {
-  "en": "fusobacteria",
-  "uk": "фузобактерія",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "gabbroid",
   "uk": "габроїд",
   "pos": "noun",
@@ -254419,28 +252617,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "generalism",
-  "uk": "дженералізм",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "other",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-009.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",
@@ -255512,28 +253688,6 @@
   "band": "rare"
  },
  {
-  "en": "gubernator",
-  "uk": "ґубернатор",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "politics",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-016.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 1,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
   "en": "guberniya",
   "uk": "губернія",
   "pos": "noun",
@@ -256386,28 +254540,6 @@
   "note": "",
   "checked": 2,
   "src": "rscan-008.json",
-  "zipf": 0.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": null,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": null,
-  "share": 100.0,
-  "band": "rare"
- },
- {
-  "en": "hemoprotein",
-  "uk": "хемопротеїн",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "biology",
-   "rare"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-015.json",
   "zipf": 0.0,
   "list_level": null,
   "level": "C2",

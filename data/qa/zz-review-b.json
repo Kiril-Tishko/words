@@ -1,0 +1,174 @@
+{
+ "accent": {
+  "stress": "[a]ccent",
+  "why": "Noun is stressed on the first syllable: AC-cent."
+ },
+ "transport": {
+  "stress": "tr[a]nsport",
+  "why": "Noun is stressed TRANS-port; trans-PORT is the verb."
+ },
+ "update": {
+  "stress": "[u]pdate",
+  "why": "Noun is stressed UP-date; up-DATE is the verb."
+ },
+ "essay": {
+  "stress": "[e]ssay",
+  "why": "Stress is on the first syllable: ES-say."
+ },
+ "discount": {
+  "stress": "d[i]scount",
+  "why": "Noun is stressed DIS-count; dis-COUNT is the verb."
+ },
+ "superstar": {
+  "stress": "s[u]perstar",
+  "why": "Stress is on the first syllable: SU-per-star."
+ },
+ "escort": {
+  "stress": "[e]scort",
+  "why": "Noun is stressed ES-cort; es-CORT is the verb."
+ },
+ "implant": {
+  "stress": "[i]mplant",
+  "why": "Noun is stressed IM-plant; im-PLANT is the verb."
+ },
+ "import": {
+  "stress": "[i]mport",
+  "ex": [
+   "This car is an import from Japan.",
+   "The country's main imports are oil and gas.",
+   "Cheap imports are hurting local farmers this year.",
+   "Is this beer local or an import?"
+  ],
+  "why": "Noun is IM-port (as the note says); two examples were unnatural."
+ },
+ "steroid": {
+  "stress": "st[e]roid",
+  "why": "Stress is on the first syllable: STER-oid."
+ },
+ "upgrade": {
+  "stress": "[u]pgrade",
+  "why": "Noun is stressed UP-grade; up-GRADE is the verb."
+ },
+ "dioxide": {
+  "stress": "di[o]xide",
+  "why": "Stress is on the second syllable: di-OX-ide."
+ },
+ "lemonade": {
+  "stress": "lemon[a]de",
+  "why": "Main stress is on the last syllable: lem-o-NADE."
+ },
+ "anime": {
+  "stress": "[a]nime",
+  "why": "Stress is on the first syllable: AN-i-may."
+ },
+ "cleaning": {
+  "v": "partial_false_friend",
+  "why": "клінінг is only a cleaning service; cleaning is mostly прибирання, like killer=кілер."
+ },
+ "cheating": {
+  "v": "partial_false_friend",
+  "why": "читинг is only game cheats; cheating is mostly списування, шахрайство, зрада."
+ },
+ "OS": {
+  "v": "false_friend",
+  "why": "ОС is the Ukrainian abbreviation of операційна система, not a borrowing (like PC=ПК)."
+ },
+ "deacon": {
+  "v": "similar",
+  "why": "Standard Ukrainian is диякон; дякон is archaic, and ea≠я."
+ },
+ "plus": {
+  "s": 90,
+  "ex": [
+   "Two plus two is four.",
+   "The room is fifty dollars plus tax.",
+   "Free parking is a big plus.",
+   "Is speaking Spanish a plus for this job?"
+  ],
+  "note": "Also means \"and also\": \"It's cheap, plus it's close to home.\"",
+  "why": "плюс shares the main meanings (+, and, an advantage); card showed only one."
+ },
+ "balance": {
+  "s": 55,
+  "ex": [
+   "It's hard to find a balance between work and family.",
+   "What is the balance on my bank account?",
+   "A healthy diet needs a good balance of foods.",
+   "Check your balance before you pay by card."
+  ],
+  "note": "Also staying steady on your feet: \"I lost my balance and fell.\"",
+  "why": "баланс also means equilibrium (work-life balance), not only an account balance."
+ },
+ "manuscript": {
+  "s": 45,
+  "ex": [
+   "The museum has a manuscript from the 12th century.",
+   "Monks wrote this old manuscript by hand.",
+   "The library keeps its rare manuscripts in a cold room.",
+   "Nobody can read this ancient manuscript yet."
+  ],
+  "note": "Most often a writer's text before it is printed: \"She sent her manuscript to a publisher.\"",
+  "why": "манускрипт is an old handwritten text; a writer's draft is рукопис."
+ },
+ "peri": {
+  "s": 0.1,
+  "why": "Rank counts pari and peri-peri; the Persian fairy sense is tiny."
+ },
+ "jinn": {
+  "s": 5,
+  "why": "Rank file folds 'jin' (mostly Asian names) into jinn; real jinn is rare."
+ },
+ "olein": {
+  "s": 0.2,
+  "note": "A chemistry word, seen mostly on labels of oils and soaps.",
+  "why": "Rank file folds 'elaine' (a name) into olein; real olein is very rare."
+ },
+ "savanna": {
+  "s": 30,
+  "note": "Also spelled \"savannah\". With a capital S, Savannah is also a US city and a girl's name.",
+  "why": "Rank file folds 'Savannah' (US city, name) into savanna; grassland is ~30%."
+ },
+ "a la": {
+  "ex": [
+   "She wore a red dress a la old movie stars.",
+   "My boss wears black turtlenecks a la Steve Jobs.",
+   "He decorated his apartment a la the 1970s.",
+   "The café serves breakfast a la Paris, with croissants and coffee."
+  ],
+  "why": "'a la France' is unidiomatic; replaced with a natural example."
+ },
+ "reception": {
+  "ex": [
+   "Leave your keys at the reception.",
+   "The reception is open all night.",
+   "Ask at reception for a map.",
+   "She works at reception in a big hotel."
+  ],
+  "why": "'works at the reception of a hotel' is a calque; fixed."
+ },
+ "acre": {
+  "ex": [
+   "The farm is about fifty acres.",
+   "They bought ten acres of land.",
+   "The park covers two hundred acres.",
+   "One acre is about half the size of a soccer field."
+  ],
+  "why": "An acre is about half a soccer field, not 'a little smaller'."
+ },
+ "policeman": {
+  "say": "ask a policeman · a traffic policeman",
+  "why": "'call the police' is not a collocation of policeman."
+ },
+ "software": {
+  "ns": true,
+  "why": "софтвер is rare jargon (VESUM slang); usual is програмне забезпечення or софт."
+ },
+ "hardware": {
+  "ns": true,
+  "why": "хардвер is rare jargon (VESUM slang); usual is апаратне забезпечення."
+ },
+ "narrator": {
+  "ns": true,
+  "why": "наратор is a rare literary term; the usual Ukrainian word is оповідач."
+ }
+}

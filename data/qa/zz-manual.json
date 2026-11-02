@@ -42,5 +42,9 @@
  "titan": {
   "v": "partial_false_friend",
   "why": "precision audit: титан is mostly the metal titanium"
+ },
+ "photo": {
+  "tags": [],
+  "why": "linguist review: \"photo\" is not informal"
  }
 }

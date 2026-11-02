@@ -46,12 +46,16 @@ def stress_of_phonemes(ph):
     return idx, n
 
 
-def fit(w, g, n):
+def fit(w, g, n, ends_in_vowel=None):
     """Vowel groups of the spelling that line up with n syllables, or None.
-    Allows a silent final e (office) and one two-vowel group said as two syllables (vi-de-o, i-de-a, mu-se-um)."""
+    Allows a silent final e (office) and one two-vowel group said as two syllables (vi-de-o, i-de-a, mu-se-um).
+    ends_in_vowel: whether the pronunciation ends in a vowel sound; if not, a final -e is silent (di-OX-ide)."""
     cands = [g]
     if w.endswith('e') and g and g[-1] == (len(w) - 1, len(w)):
-        cands.append(g[:-1])                        # silent final e (office, minute)
+        if ends_in_vowel is False:
+            cands = [g[:-1]]                        # the final e is not pronounced
+        else:
+            cands.append(g[:-1])                    # silent final e (office, minute)
     for c in cands:
         if len(c) == n:
             return c
@@ -112,7 +116,8 @@ def main():
                 ph, _ = g2p(en[0].upper() + en[1:] + '.')
             if ph and '❓' not in ph:
                 idx, n = stress_of_phonemes(ph)
-                gg = fit(w, g, n)
+                core = ph.rstrip('.!? ')
+                gg = fit(w, g, n, ends_in_vowel=bool(core) and core[-1] in V)
                 if idx is not None and n >= 2 and gg:
                     span = gg[idx]
         # 2) CMUdict
@@ -130,7 +135,7 @@ def main():
                     pr = match[0]
             vow = [p for p in pr if p[-1].isdigit()]
             if len(vow) >= 2 and any(p.endswith('1') for p in vow):
-                gg = fit(w, g, len(vow))
+                gg = fit(w, g, len(vow), ends_in_vowel=pr[-1][-1].isdigit())
                 if gg:
                     span_cmu = gg[k_of(pr)]
         if span is not None:

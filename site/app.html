@@ -104,6 +104,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .back .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .back .pic svg { width: 30px; height: 30px; }
 .back .pic.has { border: 0; }
+.back .pic.emoji { border-color: transparent; background: var(--accent-soft); }
+.back .pic.emoji img { width: 100%; height: 100%; max-width: 168px; max-height: 168px; object-fit: contain; padding: 9%; }
 .back .id { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
 .back .txt { display: flex; flex-direction: column; gap: 6px; min-height: 0; min-width: 0; flex: 1 0 auto; }
 .back .head { display: flex; align-items: center; gap: 6px; font-family: var(--word); font-weight: 600; font-size: 19px; line-height: 1.2; }
@@ -157,6 +159,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .score { font-family: var(--word); font-size: 28px; }
 
 .blank { color: var(--muted); text-align: center; padding: 48px 0; }
+.foot { color: var(--muted); font-size: 12px; text-align: center; padding-top: 28px; opacity: .8; }
 @media (prefers-reduced-motion: reduce) { .inner { transition: none; } }
 </style>
 
@@ -180,6 +183,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     <div class="count" id="count" aria-live="polite"></div>
   </div>
   <main id="main"></main>
+  <footer class="foot">Pictures: Noto Emoji by Google (Apache 2.0) · Voice: Kokoro-82M</footer>
 </div>
 
 <script src="words.js"></script>
@@ -378,7 +382,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     const gram = (d && d.gram) || w.pos || '';
     return '<div class="top">' +
         (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove(\'has\');this.remove()"></div>'
-               : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
+          : d && d.svg ? '<div class="pic emoji" aria-hidden="true"><img alt="" src="data:image/svg+xml;charset=utf-8,' + encodeURIComponent(d.svg) + '"></div>'
+          : '<div class="pic" aria-hidden="true">' + PIC + '</div>') +
         '<div class="id">' +
           '<div class="head"><span>' + stressed(w) + '</span>' +
             (canPlay(w) ? '<button class="icon say-btn" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') + '</div>' +
