@@ -1,0 +1,863 @@
+[
+ {
+  "en": "casper",
+  "uk": "каспер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cebu",
+  "uk": "себу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chalmers",
+  "uk": "чалмерс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "channing",
+  "uk": "ченнінг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "christensen",
+  "uk": "крістенсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "crete",
+  "uk": "крит",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cupid",
+  "uk": "купідон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "darrell",
+  "uk": "даррелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "deng",
+  "uk": "ден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dhaka",
+  "uk": "дакка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fabio",
+  "uk": "фабіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fanatics",
+  "uk": "фанатики",
+  "v": "not_lemma",
+  "ce": "fanatic",
+  "cu": "фанатик",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ]
+ },
+ {
+  "en": "fidel",
+  "uk": "фідель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "galileo",
+  "uk": "галілео",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gis",
+  "uk": "гіс",
+  "v": "identical",
+  "ce": "GIS",
+  "cu": "ГІС",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "technical",
+   "tech"
+  ],
+  "note": "Ukrainian ГІС = геоінформаційна система (geographic information system)"
+ },
+ {
+  "en": "gnome",
+  "uk": "гном",
+  "v": "identical",
+  "ce": "gnome",
+  "cu": "гном",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "hades",
+  "uk": "гадес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "harlan",
+  "uk": "харлан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "haute",
+  "uk": "от",
+  "v": "unrelated"
+ },
+ {
+  "en": "hertfordshire",
+  "uk": "гартфордшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "individuality",
+  "uk": "індивідуальність",
+  "v": "similar",
+  "ce": "individuality",
+  "cu": "індивідуальність",
+  "note": "Ukrainian suffix -ість instead of -ity"
+ },
+ {
+  "en": "insurgent",
+  "uk": "інсургент",
+  "v": "identical",
+  "ce": "insurgent",
+  "cu": "інсургент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics",
+   "military"
+  ],
+  "note": "Ukrainian word is bookish/historical; usual word is повстанець"
+ },
+ {
+  "en": "lange",
+  "uk": "ланге",
+  "v": "proper_noun"
+ },
+ {
+  "en": "limousine",
+  "uk": "лімузин",
+  "v": "identical",
+  "ce": "limousine",
+  "cu": "лімузин",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mahal",
+  "uk": "махал",
+  "v": "unrelated"
+ },
+ {
+  "en": "mccormick",
+  "uk": "маккормік",
+  "v": "proper_noun"
+ },
+ {
+  "en": "meningitis",
+  "uk": "менінгіт",
+  "v": "similar",
+  "ce": "meningitis",
+  "cu": "менінгіт",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "meteorite",
+  "uk": "метеорит",
+  "v": "identical",
+  "ce": "meteorite",
+  "cu": "метеорит",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mildred",
+  "uk": "мілдред",
+  "v": "proper_noun"
+ },
+ {
+  "en": "milne",
+  "uk": "мілн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "misogyny",
+  "uk": "мізогінія",
+  "v": "similar",
+  "ce": "misogyny",
+  "cu": "мізогінія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "nehru",
+  "uk": "неру",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odessa",
+  "uk": "одеса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odessa",
+  "uk": "одесса",
+  "v": "proper_noun"
+ },
+ {
+  "en": "okinawa",
+  "uk": "окінава",
+  "v": "proper_noun"
+ },
+ {
+  "en": "opal",
+  "uk": "опал",
+  "v": "identical",
+  "ce": "opal",
+  "cu": "опал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "in western Ukrainian опал can also mean heating fuel"
+ },
+ {
+  "en": "operas",
+  "uk": "опер",
+  "v": "not_lemma",
+  "ce": "opera",
+  "cu": "опера",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ]
+ },
+ {
+  "en": "oxfordshire",
+  "uk": "оксфордшир",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patti",
+  "uk": "патті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "polka",
+  "uk": "полька",
+  "v": "identical",
+  "ce": "polka",
+  "cu": "полька",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Ukrainian полька also means 'Polish woman'"
+ },
+ {
+  "en": "primates",
+  "uk": "примати",
+  "v": "not_lemma",
+  "ce": "primate",
+  "cu": "примат",
+  "lv": "identical",
+  "note": "Ukrainian примат also means 'primacy'",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "biology"
+  ]
+ },
+ {
+  "en": "rockwell",
+  "uk": "роквелл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "salah",
+  "uk": "салах",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sevilla",
+  "uk": "севілья",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stuttgart",
+  "uk": "штутгарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tahoe",
+  "uk": "тахо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "telly",
+  "uk": "тєлік",
+  "v": "similar",
+  "ce": "telly",
+  "cu": "телик",
+  "note": "Ukrainian slang телик has a different suffix"
+ },
+ {
+  "en": "terence",
+  "uk": "теренс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "topology",
+  "uk": "топологія",
+  "v": "similar",
+  "ce": "topology",
+  "cu": "топологія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "transatlantic",
+  "uk": "трансатлантичний",
+  "v": "similar",
+  "ce": "transatlantic",
+  "cu": "трансатлантичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "tunisian",
+  "uk": "туніська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tunisian",
+  "uk": "туніський",
+  "v": "proper_noun"
+ },
+ {
+  "en": "volts",
+  "uk": "вольт",
+  "v": "not_lemma",
+  "ce": "volt",
+  "cu": "вольт",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units",
+   "physics"
+  ]
+ },
+ {
+  "en": "wentworth",
+  "uk": "вентворт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "winslow",
+  "uk": "вінслов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "aerodynamic",
+  "uk": "аеродинамічний",
+  "v": "similar",
+  "ce": "aerodynamic",
+  "cu": "аеродинамічний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "aerodynamic",
+  "uk": "аеродинамічна",
+  "v": "not_lemma",
+  "ce": "aerodynamic",
+  "cu": "аеродинамічний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "alessandro",
+  "uk": "алессандро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "alfonso",
+  "uk": "альфонсо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "algebraic",
+  "uk": "алгебраїчна",
+  "v": "not_lemma",
+  "ce": "algebraic",
+  "cu": "алгебраїчний",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "analyzes",
+  "uk": "аналізує",
+  "v": "not_lemma",
+  "ce": "analyze",
+  "cu": "аналізувати",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "assertive",
+  "uk": "асертивний",
+  "v": "similar",
+  "ce": "assertive",
+  "cu": "асертивний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "barclay",
+  "uk": "барклай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beatty",
+  "uk": "бітті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bernardino",
+  "uk": "бернардіно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bernardo",
+  "uk": "бернардо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bosnian",
+  "uk": "босняк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bosnian",
+  "uk": "боснійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bosnian",
+  "uk": "боснійська",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bragg",
+  "uk": "брегг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brunei",
+  "uk": "бруней",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brunei",
+  "uk": "брунею",
+  "v": "proper_noun"
+ },
+ {
+  "en": "caricature",
+  "uk": "карикатура",
+  "v": "similar",
+  "ce": "caricature",
+  "cu": "карикатура",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "carton",
+  "uk": "картон",
+  "v": "false_friend",
+  "ce": "carton",
+  "cu": "картон",
+  "note": "картон = cardboard; a carton (box) is коробка/пакет"
+ },
+ {
+  "en": "cayman",
+  "uk": "кайман",
+  "v": "identical",
+  "ce": "caiman",
+  "cu": "кайман",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ],
+  "note": "English also spelled cayman"
+ },
+ {
+  "en": "chandra",
+  "uk": "чандра",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cliché",
+  "uk": "кліше",
+  "v": "identical",
+  "ce": "cliché",
+  "cu": "кліше",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "English also written cliche"
+ },
+ {
+  "en": "comets",
+  "uk": "комети",
+  "v": "not_lemma",
+  "ce": "comet",
+  "cu": "комета",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "corbett",
+  "uk": "корбетт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "craven",
+  "uk": "крейвен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cumbria",
+  "uk": "камбрія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "daley",
+  "uk": "дейлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "derry",
+  "uk": "деррі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duane",
+  "uk": "дуейн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elmer",
+  "uk": "елмер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ely",
+  "uk": "ілі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "epoch",
+  "uk": "епоху",
+  "v": "not_lemma",
+  "ce": "epoch",
+  "cu": "епоха",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "epoch",
+  "uk": "епоха",
+  "v": "similar",
+  "ce": "epoch",
+  "cu": "епоха",
+  "note": "Ukrainian ending -а"
+ },
+ {
+  "en": "epoch",
+  "uk": "епохи",
+  "v": "not_lemma",
+  "ce": "epoch",
+  "cu": "епоха",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "fibrosis",
+  "uk": "фіброз",
+  "v": "similar",
+  "ce": "fibrosis",
+  "cu": "фіброз",
+  "note": "Ukrainian drops the ending -is"
+ },
+ {
+  "en": "germanic",
+  "uk": "германські",
+  "v": "not_lemma",
+  "ce": "Germanic",
+  "cu": "германський",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "germanic",
+  "uk": "германський",
+  "v": "similar",
+  "ce": "Germanic",
+  "cu": "германський",
+  "note": "Ukrainian adjective ending -ський"
+ },
+ {
+  "en": "gladiator",
+  "uk": "гладіатор",
+  "v": "identical",
+  "ce": "gladiator",
+  "cu": "гладіатор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "glossary",
+  "uk": "глосарій",
+  "v": "similar",
+  "ce": "glossary",
+  "cu": "глосарій",
+  "note": "Ukrainian ending -ій"
+ },
+ {
+  "en": "gregor",
+  "uk": "грегор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gregor",
+  "uk": "григор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "grizzlies",
+  "uk": "ґріззліс",
+  "v": "not_lemma",
+  "ce": "grizzly",
+  "cu": "грізлі",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "nature"
+  ]
+ },
+ {
+  "en": "henley",
+  "uk": "хенлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jameson",
+  "uk": "джеймсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "johannes",
+  "uk": "йоганнес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jos",
+  "uk": "йос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "josef",
+  "uk": "йозеф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kilometer",
+  "uk": "кілометр",
+  "v": "identical",
+  "ce": "kilometer",
+  "cu": "кілометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kingsley",
+  "uk": "кінґслі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kruger",
+  "uk": "крюгер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liturgy",
+  "uk": "літургія",
+  "v": "similar",
+  "ce": "liturgy",
+  "cu": "літургія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "magma",
+  "uk": "магма",
+  "v": "identical",
+  "ce": "magma",
+  "cu": "магма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "marcia",
+  "uk": "марція",
+  "v": "proper_noun"
+ },
+ {
+  "en": "milner",
+  "uk": "мілнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mustafa",
+  "uk": "мустафа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ogden",
+  "uk": "огден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "peta",
+  "uk": "пета",
+  "v": "proper_noun"
+ },
+ {
+  "en": "philharmonic",
+  "uk": "філармонія",
+  "v": "similar",
+  "ce": "philharmonic",
+  "cu": "філармонія",
+  "note": "Ukrainian ending -ія; філармонія = concert society/hall"
+ },
+ {
+  "en": "photons",
+  "uk": "фотони",
+  "v": "not_lemma",
+  "ce": "photon",
+  "cu": "фотон",
+  "lv": "identical",
+  "note": "",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "physics"
+  ]
+ },
+ {
+  "en": "prequel",
+  "uk": "приквел",
+  "v": "identical",
+  "ce": "prequel",
+  "cu": "приквел",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "provocation",
+  "uk": "провокація",
+  "v": "similar",
+  "ce": "provocation",
+  "cu": "провокація",
+  "note": "Ukrainian ending -ація instead of -ation"
+ },
+ {
+  "en": "provocation",
+  "uk": "провокацію",
+  "v": "not_lemma",
+  "ce": "provocation",
+  "cu": "провокація",
+  "lv": "similar",
+  "note": ""
+ },
+ {
+  "en": "remission",
+  "uk": "ремісія",
+  "v": "similar",
+  "ce": "remission",
+  "cu": "ремісія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "rotterdam",
+  "uk": "роттердам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roxy",
+  "uk": "роксі",
+  "v": "proper_noun"
+ }
+]

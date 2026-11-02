@@ -1,0 +1,883 @@
+[
+ {
+  "en": "orion",
+  "uk": "оріон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "parry",
+  "uk": "перрі",
+  "v": "unrelated"
+ },
+ {
+  "en": "provocative",
+  "uk": "провокативний",
+  "v": "similar",
+  "ce": "provocative",
+  "cu": "провокативний",
+  "note": "Ukrainian adjective ending -ний; more common: провокаційний"
+ },
+ {
+  "en": "reflex",
+  "uk": "рефлекс",
+  "v": "identical",
+  "ce": "reflex",
+  "cu": "рефлекс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rivera",
+  "uk": "рівера",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rockefeller",
+  "uk": "рокфеллер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roe",
+  "uk": "ро",
+  "v": "unrelated"
+ },
+ {
+  "en": "saddam",
+  "uk": "саддам",
+  "v": "proper_noun"
+ },
+ {
+  "en": "santa claus",
+  "uk": "санта-клаус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sapphire",
+  "uk": "сапфір",
+  "v": "identical",
+  "ce": "sapphire",
+  "cu": "сапфір",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sapphire",
+  "uk": "сапфірний",
+  "v": "similar",
+  "ce": "sapphire",
+  "cu": "сапфірний",
+  "note": "Ukrainian adjective (-ний); the noun is сапфір"
+ },
+ {
+  "en": "sloan",
+  "uk": "слоан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "snowden",
+  "uk": "сноуден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "stamford",
+  "uk": "стемфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "steph",
+  "uk": "сте",
+  "v": "unrelated"
+ },
+ {
+  "en": "tanker",
+  "uk": "танкер",
+  "v": "identical",
+  "ce": "tanker",
+  "cu": "танкер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tanker",
+  "uk": "танкера",
+  "v": "not_lemma",
+  "ce": "tanker",
+  "cu": "танкер",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "transport"
+  ],
+  "note": ""
+ },
+ {
+  "en": "torpedo",
+  "uk": "торпеда",
+  "v": "similar",
+  "ce": "torpedo",
+  "cu": "торпеда",
+  "note": "Ukrainian ends in -а"
+ },
+ {
+  "en": "torpedo",
+  "uk": "торпедо",
+  "v": "false_friend",
+  "ce": "torpedo",
+  "cu": "торпедо",
+  "note": "торпедо = car dashboard (colloquial) or a club name; the weapon is торпеда"
+ },
+ {
+  "en": "trolling",
+  "uk": "тролінг",
+  "v": "identical",
+  "ce": "trolling",
+  "cu": "тролінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "media"
+  ],
+  "note": "In Ukrainian only internet trolling, not the fishing technique"
+ },
+ {
+  "en": "trudeau",
+  "uk": "трюдо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "una",
+  "uk": "уна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vaginal",
+  "uk": "вагінальний",
+  "v": "similar",
+  "ce": "vaginal",
+  "cu": "вагінальний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "vance",
+  "uk": "венс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wat",
+  "uk": "ват",
+  "v": "unrelated"
+ },
+ {
+  "en": "abbot",
+  "uk": "абат",
+  "v": "identical",
+  "ce": "abbot",
+  "cu": "абат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "afro",
+  "uk": "афро",
+  "v": "identical",
+  "ce": "afro",
+  "cu": "афро",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "In Ukrainian mostly in 'зачіска афро' (afro hairstyle)"
+ },
+ {
+  "en": "aqua",
+  "uk": "аква",
+  "v": "identical",
+  "ce": "aqua",
+  "cu": "аква",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "art"
+  ],
+  "note": "In Ukrainian mostly as a colour name (колір аква) or the prefix аква-"
+ },
+ {
+  "en": "atlantis",
+  "uk": "атлантида",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bernstein",
+  "uk": "бернстайн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "blender",
+  "uk": "блендер",
+  "v": "identical",
+  "ce": "blender",
+  "cu": "блендер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "home"
+  ],
+  "note": ""
+ },
+ {
+  "en": "bridget",
+  "uk": "бріджит",
+  "v": "proper_noun"
+ },
+ {
+  "en": "burt",
+  "uk": "берт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cara",
+  "uk": "кара",
+  "v": "unrelated"
+ },
+ {
+  "en": "chow",
+  "uk": "чау",
+  "v": "unrelated"
+ },
+ {
+  "en": "chow",
+  "uk": "чоу",
+  "v": "unrelated"
+ },
+ {
+  "en": "clement",
+  "uk": "клемент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clement",
+  "uk": "климент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "clement",
+  "uk": "климентій",
+  "v": "proper_noun"
+ },
+ {
+  "en": "corridors",
+  "uk": "коридори",
+  "v": "not_lemma",
+  "ce": "corridor",
+  "cu": "коридор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "home"
+  ],
+  "note": ""
+ },
+ {
+  "en": "daryl",
+  "uk": "деріл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dirk",
+  "uk": "дірк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duet",
+  "uk": "дует",
+  "v": "identical",
+  "ce": "duet",
+  "cu": "дует",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "dustin",
+  "uk": "дастін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "eisenhower",
+  "uk": "ейзенхауер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "elsa",
+  "uk": "ельза",
+  "v": "proper_noun"
+ },
+ {
+  "en": "everest",
+  "uk": "еверест",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fran",
+  "uk": "фран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fran",
+  "uk": "френ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "garfield",
+  "uk": "гарфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "garfield",
+  "uk": "ґарфілд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "gregg",
+  "uk": "грегг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hobart",
+  "uk": "гобарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hostel",
+  "uk": "гостел",
+  "v": "identical",
+  "ce": "hostel",
+  "cu": "хостел",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": "Usually spelled хостел; гостел is a rarer variant"
+ },
+ {
+  "en": "juniors",
+  "uk": "хуніорс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karaoke",
+  "uk": "караоке",
+  "v": "identical",
+  "ce": "karaoke",
+  "cu": "караоке",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kemp",
+  "uk": "кемп",
+  "v": "unrelated"
+ },
+ {
+  "en": "kosovo",
+  "uk": "косова",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kosovo",
+  "uk": "косово",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lagoon",
+  "uk": "лагуна",
+  "v": "similar",
+  "ce": "lagoon",
+  "cu": "лагуна",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "linguistics",
+  "uk": "лінгвістика",
+  "v": "similar",
+  "ce": "linguistics",
+  "cu": "лінгвістика",
+  "note": "-ics → -іка"
+ },
+ {
+  "en": "lucifer",
+  "uk": "люцифер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lumpur",
+  "uk": "лумпур",
+  "v": "proper_noun"
+ },
+ {
+  "en": "manitoba",
+  "uk": "манітоба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mead",
+  "uk": "мед",
+  "v": "partial_false_friend",
+  "ce": "mead",
+  "cu": "мед",
+  "note": "мед mainly means honey; the drink is медовуха or питний мед"
+ },
+ {
+  "en": "mead",
+  "uk": "мід",
+  "v": "partial_false_friend",
+  "ce": "mead",
+  "cu": "мід",
+  "note": "мід is an old/dialect form of мед (mainly honey); the drink is медовуха"
+ },
+ {
+  "en": "mhz",
+  "uk": "мгц",
+  "v": "identical",
+  "ce": "MHz",
+  "cu": "МГц",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "units"
+  ],
+  "note": "megahertz = мегагерц"
+ },
+ {
+  "en": "mos",
+  "uk": "мос",
+  "v": "unrelated"
+ },
+ {
+  "en": "nay",
+  "uk": "ней",
+  "v": "unrelated"
+ },
+ {
+  "en": "nielsen",
+  "uk": "нільсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ob",
+  "uk": "ОБ",
+  "v": "unrelated"
+ },
+ {
+  "en": "ob",
+  "uk": "об",
+  "v": "unrelated"
+ },
+ {
+  "en": "obsessive",
+  "uk": "обсесивно",
+  "v": "not_lemma",
+  "ce": "obsessive",
+  "cu": "обсесивний",
+  "lv": "similar",
+  "note": "обсесивно is the adverb; adjective обсесивний has the -ний ending"
+ },
+ {
+  "en": "oswald",
+  "uk": "освальд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petite",
+  "uk": "петіт",
+  "v": "unrelated"
+ },
+ {
+  "en": "pol",
+  "uk": "пол",
+  "v": "unrelated"
+ },
+ {
+  "en": "repertoire",
+  "uk": "репертуар",
+  "v": "identical",
+  "ce": "repertoire",
+  "cu": "репертуар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sachs",
+  "uk": "сакс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "saloon",
+  "uk": "салон",
+  "v": "false_friend",
+  "ce": "saloon",
+  "cu": "салон",
+  "note": "салон = salon, car/plane interior, showroom; an Old West saloon is салун"
+ },
+ {
+  "en": "stale",
+  "uk": "стале",
+  "v": "unrelated"
+ },
+ {
+  "en": "stereotype",
+  "uk": "стереотип",
+  "v": "identical",
+  "ce": "stereotype",
+  "cu": "стереотип",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "sterile",
+  "uk": "стерильний",
+  "v": "similar",
+  "ce": "sterile",
+  "cu": "стерильний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "trey",
+  "uk": "трей",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vaughan",
+  "uk": "воен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vivian",
+  "uk": "вівіан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "whoops",
+  "uk": "упс",
+  "v": "similar",
+  "ce": "whoops",
+  "cu": "упс",
+  "note": "упс comes from 'oops' (oops = упс); whoops would be вупс"
+ },
+ {
+  "en": "wilde",
+  "uk": "уайльд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zambia",
+  "uk": "замбія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zambia",
+  "uk": "замбії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "accelerator",
+  "uk": "акселератора",
+  "v": "not_lemma",
+  "ce": "accelerator",
+  "cu": "акселератор",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "note": "A particle accelerator is usually прискорювач"
+ },
+ {
+  "en": "acrylic",
+  "uk": "акриловий",
+  "v": "similar",
+  "ce": "acrylic",
+  "cu": "акриловий",
+  "note": "Ukrainian adjective (-овий); the material is акрил"
+ },
+ {
+  "en": "anchorage",
+  "uk": "анкоридж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "atkinson",
+  "uk": "аткінсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ballad",
+  "uk": "балада",
+  "v": "similar",
+  "ce": "ballad",
+  "cu": "балада",
+  "note": "Ukrainian adds -а"
+ },
+ {
+  "en": "basel",
+  "uk": "базель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "beckett",
+  "uk": "беккет",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bel",
+  "uk": "бел",
+  "v": "identical",
+  "ce": "bel",
+  "cu": "бел",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "units"
+  ],
+  "note": "Mostly met as decibel = децибел"
+ },
+ {
+  "en": "bel",
+  "uk": "бель",
+  "v": "unrelated"
+ },
+ {
+  "en": "betsy",
+  "uk": "бетсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "biotechnology",
+  "uk": "біотехнології",
+  "v": "not_lemma",
+  "ce": "biotechnology",
+  "cu": "біотехнологія",
+  "lv": "similar",
+  "note": "Ukrainian -ія ending"
+ },
+ {
+  "en": "blanc",
+  "uk": "блан",
+  "v": "unrelated"
+ },
+ {
+  "en": "buffy",
+  "uk": "баффі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "camouflage",
+  "uk": "камуфляж",
+  "v": "identical",
+  "ce": "camouflage",
+  "cu": "камуфляж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "clothing"
+  ],
+  "note": ""
+ },
+ {
+  "en": "conservatism",
+  "uk": "консерватизм",
+  "v": "identical",
+  "ce": "conservatism",
+  "cu": "консерватизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "continuum",
+  "uk": "континуум",
+  "v": "identical",
+  "ce": "continuum",
+  "cu": "континуум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "corona",
+  "uk": "корона",
+  "v": "partial_false_friend",
+  "ce": "corona",
+  "cu": "корона",
+  "note": "корона mainly means crown; shared only in solar corona"
+ },
+ {
+  "en": "cosplay",
+  "uk": "косплей",
+  "v": "identical",
+  "ce": "cosplay",
+  "cu": "косплей",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "cultivate",
+  "uk": "культивувати",
+  "v": "similar",
+  "ce": "cultivate",
+  "cu": "культивувати",
+  "note": "Ukrainian verb ending -увати"
+ },
+ {
+  "en": "cyril",
+  "uk": "кирило",
+  "v": "proper_noun"
+ },
+ {
+  "en": "della",
+  "uk": "делла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dhabi",
+  "uk": "дабі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diagrams",
+  "uk": "діаграм",
+  "v": "not_lemma",
+  "ce": "diagram",
+  "cu": "діаграма",
+  "lv": "similar",
+  "note": "Ukrainian lemma діаграма adds -а"
+ },
+ {
+  "en": "diagrams",
+  "uk": "діаграми",
+  "v": "not_lemma",
+  "ce": "diagram",
+  "cu": "діаграма",
+  "lv": "similar",
+  "note": "Ukrainian lemma діаграма adds -а"
+ },
+ {
+  "en": "dickinson",
+  "uk": "дікінсон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "diva",
+  "uk": "дива",
+  "v": "unrelated"
+ },
+ {
+  "en": "diva",
+  "uk": "діва",
+  "v": "partial_false_friend",
+  "ce": "diva",
+  "cu": "діва",
+  "note": "діва mainly means maiden/virgin and Virgo; the diva sense is in поп-діва, оперна діва"
+ },
+ {
+  "en": "eaton",
+  "uk": "ітон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "facade",
+  "uk": "фасад",
+  "v": "identical",
+  "ce": "facade",
+  "cu": "фасад",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "places"
+  ],
+  "note": "Also figurative: a false outward appearance"
+ },
+ {
+  "en": "fritz",
+  "uk": "фріц",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fritz",
+  "uk": "фриц",
+  "v": "identical",
+  "ce": "fritz",
+  "cu": "фриц",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "dated",
+   "people"
+  ],
+  "note": "Derogatory nickname for a German (esp. a soldier)"
+ }
+]

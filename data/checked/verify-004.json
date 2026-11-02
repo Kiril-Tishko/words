@@ -1,0 +1,1121 @@
+[
+ {
+  "en": "interview",
+  "uk": "інтерв'ю",
+  "v": "identical",
+  "ce": "interview",
+  "cu": "інтерв'ю",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "Mainly a press/TV interview; a job interview is usually співбесіда; 'to interview' = брати інтерв'ю."
+ },
+ {
+  "en": "obama",
+  "uk": "обама",
+  "v": "proper_noun"
+ },
+ {
+  "en": "actual",
+  "uk": "актуальний",
+  "v": "false_friend",
+  "ce": "actual",
+  "cu": "актуальний",
+  "note": "актуальний = topical, relevant right now; actual = справжній, фактичний."
+ },
+ {
+  "en": "distance",
+  "uk": "дистанції",
+  "v": "not_lemma",
+  "ce": "distance",
+  "cu": "дистанція",
+  "lv": "similar",
+  "note": "case form of дистанція; Ukrainian adds -ія"
+ },
+ {
+  "en": "prior",
+  "uk": "пріор",
+  "v": "identical",
+  "ce": "prior",
+  "cu": "пріор",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "Only the noun: the head of a priory (monastery); the adjective prior = попередній."
+ },
+ {
+  "en": "robert",
+  "uk": "роберт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "robert",
+  "uk": "робер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "royal",
+  "uk": "рояль",
+  "v": "false_friend",
+  "ce": "royal",
+  "cu": "рояль",
+  "note": "рояль = grand piano; royal = королівський."
+ },
+ {
+  "en": "speech",
+  "uk": "спіч",
+  "v": "identical",
+  "ce": "speech",
+  "cu": "спіч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "language"
+  ],
+  "note": "спіч = a (short, often formal or after-dinner) speech, informal or ironic; the usual word is промова, and speech as an ability = мова, мовлення."
+ },
+ {
+  "en": "traffic",
+  "uk": "трафік",
+  "v": "identical",
+  "ce": "traffic",
+  "cu": "трафік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "трафік = internet/data traffic or a flow of visitors/customers; road traffic = (дорожній) рух."
+ },
+ {
+  "en": "airport",
+  "uk": "аеропорт",
+  "v": "similar",
+  "ce": "airport",
+  "cu": "аеропорт",
+  "note": "Ukrainian uses аеро- instead of air-."
+ },
+ {
+  "en": "general secretary",
+  "uk": "генеральний секретар",
+  "v": "similar",
+  "ce": "general secretary",
+  "cu": "генеральний секретар",
+  "note": "Adjective ending -ний (генеральний)."
+ },
+ {
+  "en": "partner",
+  "uk": "партнер",
+  "v": "identical",
+  "ce": "partner",
+  "cu": "партнер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "partner",
+  "uk": "партнерка",
+  "v": "not_lemma",
+  "ce": "partner",
+  "cu": "партнер",
+  "lv": "identical",
+  "note": "партнерка = female partner",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business",
+   "people"
+  ]
+ },
+ {
+  "en": "structure",
+  "uk": "структури",
+  "v": "not_lemma",
+  "ce": "structure",
+  "cu": "структура",
+  "lv": "similar",
+  "note": "case/plural form of структура; Ukrainian adds -а"
+ },
+ {
+  "en": "structure",
+  "uk": "структура",
+  "v": "similar",
+  "ce": "structure",
+  "cu": "структура",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "thomas",
+  "uk": "томас",
+  "v": "proper_noun"
+ },
+ {
+  "en": "thomas",
+  "uk": "тома",
+  "v": "proper_noun"
+ },
+ {
+  "en": "traditional",
+  "uk": "традиційна",
+  "v": "not_lemma",
+  "ce": "traditional",
+  "cu": "традиційний",
+  "lv": "similar",
+  "note": "feminine form; adjective ending -ійний"
+ },
+ {
+  "en": "americans",
+  "uk": "американці",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brand",
+  "uk": "бренд",
+  "v": "identical",
+  "ce": "brand",
+  "cu": "бренд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "Only a brand (of a product); a burn mark on cattle = тавро."
+ },
+ {
+  "en": "bus",
+  "uk": "бус",
+  "v": "partial_false_friend",
+  "ce": "bus",
+  "cu": "бус",
+  "note": "бус = (colloquial) a minibus or van; a regular bus = автобус."
+ },
+ {
+  "en": "cent",
+  "uk": "цент",
+  "v": "identical",
+  "ce": "cent",
+  "cu": "цент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "chicago",
+  "uk": "чикаго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chicago",
+  "uk": "чикаґо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hot dog",
+  "uk": "хот-дог",
+  "v": "identical",
+  "ce": "hot dog",
+  "cu": "хот-дог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "photos",
+  "uk": "фото",
+  "v": "not_lemma",
+  "ce": "photo",
+  "cu": "фото",
+  "lv": "identical",
+  "note": "фото does not change for plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ]
+ },
+ {
+  "en": "smart",
+  "uk": "смарт",
+  "v": "partial_false_friend",
+  "ce": "smart",
+  "cu": "смарт",
+  "note": "смарт- is used mostly in compounds for smart devices (смарт-годинник) or as slang for a smartphone; clever = розумний."
+ },
+ {
+  "en": "tom",
+  "uk": "том",
+  "v": "unrelated"
+ },
+ {
+  "en": "tom",
+  "uk": "тома",
+  "v": "unrelated"
+ },
+ {
+  "en": "twitter",
+  "uk": "твітер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "african",
+  "uk": "африканка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benefit",
+  "uk": "бенефіс",
+  "v": "partial_false_friend",
+  "ce": "benefit",
+  "cu": "бенефіс",
+  "note": "бенефіс = a benefit performance honoring an actor (also a star performance); benefit (advantage) = користь, вигода."
+ },
+ {
+  "en": "budget",
+  "uk": "бюджет",
+  "v": "identical",
+  "ce": "budget",
+  "cu": "бюджет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": ""
+ },
+ {
+  "en": "click",
+  "uk": "клік",
+  "v": "identical",
+  "ce": "click",
+  "cu": "клік",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Mainly a mouse click; a clicking sound = клацання."
+ },
+ {
+  "en": "fashion",
+  "uk": "фасон",
+  "v": "false_friend",
+  "ce": "fashion",
+  "cu": "фасон",
+  "note": "фасон = cut or style of a garment; fashion = мода."
+ },
+ {
+  "en": "fund",
+  "uk": "фонд",
+  "v": "similar",
+  "ce": "fund",
+  "cu": "фонд",
+  "note": "Different vowel: о instead of u."
+ },
+ {
+  "en": "generation",
+  "uk": "генерація",
+  "v": "similar",
+  "ce": "generation",
+  "cu": "генерація",
+  "note": "Ukrainian adds -ія; a generation of people is usually покоління."
+ },
+ {
+  "en": "hill",
+  "uk": "гілл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hill",
+  "uk": "хілл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jack",
+  "uk": "джек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "louis",
+  "uk": "луї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "louis",
+  "uk": "луїс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "metal",
+  "uk": "метал",
+  "v": "identical",
+  "ce": "metal",
+  "cu": "метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ],
+  "note": "Also the music genre (метал)."
+ },
+ {
+  "en": "metal",
+  "uk": "метали",
+  "v": "not_lemma",
+  "ce": "metal",
+  "cu": "метал",
+  "lv": "identical",
+  "note": "plural of метал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "chemistry"
+  ]
+ },
+ {
+  "en": "paris",
+  "uk": "париж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "paris",
+  "uk": "паріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "profile",
+  "uk": "профіль",
+  "v": "identical",
+  "ce": "profile",
+  "cu": "профіль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "profile",
+  "uk": "профілю",
+  "v": "not_lemma",
+  "ce": "profile",
+  "cu": "профіль",
+  "lv": "identical",
+  "note": "case form of профіль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ]
+ },
+ {
+  "en": "reality show",
+  "uk": "реаліті-шоу",
+  "v": "identical",
+  "ce": "reality show",
+  "cu": "реаліті-шоу",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rose",
+  "uk": "розі",
+  "v": "not_lemma",
+  "ce": "rose",
+  "cu": "роза",
+  "lv": "similar",
+  "note": "case form of роза; Ukrainian adds -а, and the usual word for rose is троянда"
+ },
+ {
+  "en": "rose",
+  "uk": "роуз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sexual",
+  "uk": "сексуальний",
+  "v": "similar",
+  "ce": "sexual",
+  "cu": "сексуальний",
+  "note": "Adjective ending -ний."
+ },
+ {
+  "en": "sexual",
+  "uk": "сексуальне",
+  "v": "not_lemma",
+  "ce": "sexual",
+  "cu": "сексуальний",
+  "lv": "similar",
+  "note": "neuter form; adjective ending -ний"
+ },
+ {
+  "en": "agent",
+  "uk": "агент",
+  "v": "identical",
+  "ce": "agent",
+  "cu": "агент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "agent",
+  "uk": "агентка",
+  "v": "not_lemma",
+  "ce": "agent",
+  "cu": "агент",
+  "lv": "identical",
+  "note": "агентка = female agent",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ]
+ },
+ {
+  "en": "basis",
+  "uk": "базис",
+  "v": "identical",
+  "ce": "basis",
+  "cu": "базис",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "technical",
+   "math"
+  ],
+  "note": "базис is formal or technical (math, economics); the everyday word is основа ('on a daily basis' = щодня)."
+ },
+ {
+  "en": "chris",
+  "uk": "кріс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ex-",
+  "uk": "екс-",
+  "v": "identical",
+  "ce": "ex-",
+  "cu": "екс-",
+  "pos": "adj",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "A prefix meaning 'former': екс-президент = ex-president."
+ },
+ {
+  "en": "ring",
+  "uk": "ринг",
+  "v": "identical",
+  "ce": "ring",
+  "cu": "ринг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "Only a boxing or wrestling ring; a finger ring = каблучка, кільце; 'to ring' = дзвонити."
+ },
+ {
+  "en": "soul",
+  "uk": "соул",
+  "v": "identical",
+  "ce": "soul",
+  "cu": "соул",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "Only soul music; the soul (spirit) = душа."
+ },
+ {
+  "en": "artist",
+  "uk": "артист",
+  "v": "partial_false_friend",
+  "ce": "artist",
+  "cu": "артист",
+  "note": "артист = a performer (actor, singer, circus artist); a painter or visual artist = художник, митець."
+ },
+ {
+  "en": "artist",
+  "uk": "артистка",
+  "v": "not_lemma",
+  "ce": "artist",
+  "cu": "артист",
+  "lv": "partial_false_friend",
+  "note": "артистка = female performer; артист = performer, not painter"
+ },
+ {
+  "en": "engineering",
+  "uk": "інжиніринг",
+  "v": "identical",
+  "ce": "engineering",
+  "cu": "інжиніринг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "business"
+  ],
+  "note": "інжиніринг = engineering services or design work (business); engineering as a field of study = інженерія."
+ },
+ {
+  "en": "institute",
+  "uk": "інститут",
+  "v": "identical",
+  "ce": "institute",
+  "cu": "інститут",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "education"
+  ],
+  "note": ""
+ },
+ {
+  "en": "method",
+  "uk": "метод",
+  "v": "identical",
+  "ce": "method",
+  "cu": "метод",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mike",
+  "uk": "майк",
+  "v": "proper_noun"
+ },
+ {
+  "en": "option",
+  "uk": "опціон",
+  "v": "partial_false_friend",
+  "ce": "option",
+  "cu": "опціон",
+  "note": "опціон = only a financial option contract; a choice = опція, варіант."
+ },
+ {
+  "en": "senate",
+  "uk": "сенат",
+  "v": "identical",
+  "ce": "senate",
+  "cu": "сенат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "stone",
+  "uk": "стоун",
+  "v": "identical",
+  "ce": "stone",
+  "cu": "стоун",
+  "pos": "noun",
+  "br": true,
+  "lab": [
+   "rare",
+   "units"
+  ],
+  "note": "Only the British unit of weight (14 pounds, 6.35 kg); a stone (rock) = камінь."
+ },
+ {
+  "en": "christ",
+  "uk": "христа",
+  "v": "proper_noun"
+ },
+ {
+  "en": "christ",
+  "uk": "христос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "correct",
+  "uk": "коректний",
+  "v": "similar",
+  "ce": "correct",
+  "cu": "коректний",
+  "note": "Adjective ending -ний; also means tactful, polite; 'correct' is usually правильний."
+ },
+ {
+  "en": "firm",
+  "uk": "фірма",
+  "v": "similar",
+  "ce": "firm",
+  "cu": "фірма",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "firm",
+  "uk": "фірмі",
+  "v": "not_lemma",
+  "ce": "firm",
+  "cu": "фірма",
+  "lv": "similar",
+  "note": "case form of фірма"
+ },
+ {
+  "en": "firm",
+  "uk": "фірми",
+  "v": "not_lemma",
+  "ce": "firm",
+  "cu": "фірма",
+  "lv": "similar",
+  "note": "case/plural form of фірма"
+ },
+ {
+  "en": "master class",
+  "uk": "майстер-клас",
+  "v": "similar",
+  "ce": "master class",
+  "cu": "майстер-клас",
+  "note": "майстер (from German Meister) instead of master."
+ },
+ {
+  "en": "negative",
+  "uk": "негатив",
+  "v": "identical",
+  "ce": "negative",
+  "cu": "негатив",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "Only the noun: a photo negative (colloquially also negativity); the adjective negative = негативний."
+ },
+ {
+  "en": "negative",
+  "uk": "негативний",
+  "v": "similar",
+  "ce": "negative",
+  "cu": "негативний",
+  "note": "Adjective ending -ний."
+ },
+ {
+  "en": "negative",
+  "uk": "негативне",
+  "v": "not_lemma",
+  "ce": "negative",
+  "cu": "негативний",
+  "lv": "similar",
+  "note": "neuter form of негативний"
+ },
+ {
+  "en": "negative",
+  "uk": "негативна",
+  "v": "not_lemma",
+  "ce": "negative",
+  "cu": "негативний",
+  "lv": "similar",
+  "note": "feminine form of негативний"
+ },
+ {
+  "en": "negative",
+  "uk": "негативні",
+  "v": "not_lemma",
+  "ce": "negative",
+  "cu": "негативний",
+  "lv": "similar",
+  "note": "plural form of негативний"
+ },
+ {
+  "en": "richard",
+  "uk": "річард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "spirit",
+  "uk": "спирт",
+  "v": "partial_false_friend",
+  "ce": "spirit",
+  "cu": "спирт",
+  "note": "спирт = (ethyl) alcohol only; spirit (soul) = дух."
+ },
+ {
+  "en": "videos",
+  "uk": "відео",
+  "v": "not_lemma",
+  "ce": "video",
+  "cu": "відео",
+  "lv": "identical",
+  "note": "відео does not change for plural",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ]
+ },
+ {
+  "en": "dollars",
+  "uk": "долари",
+  "v": "not_lemma",
+  "ce": "dollar",
+  "cu": "долар",
+  "lv": "identical",
+  "note": "plural of долар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ]
+ },
+ {
+  "en": "foot job",
+  "uk": "футджоб",
+  "v": "identical",
+  "ce": "foot job",
+  "cu": "футджоб",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "slang",
+   "rare",
+   "other"
+  ],
+  "note": "Vulgar (sexual act); very rare in Ukrainian."
+ },
+ {
+  "en": "function",
+  "uk": "функції",
+  "v": "not_lemma",
+  "ce": "function",
+  "cu": "функція",
+  "lv": "similar",
+  "note": "case/plural form of функція; Ukrainian adds -ія"
+ },
+ {
+  "en": "joe",
+  "uk": "джо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "los",
+  "uk": "лос",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marketing",
+  "uk": "маркетинг",
+  "v": "identical",
+  "ce": "marketing",
+  "cu": "маркетинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mary",
+  "uk": "мари",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mary",
+  "uk": "мері",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mary",
+  "uk": "маріє",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mary",
+  "uk": "марія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "materials",
+  "uk": "матеріали",
+  "v": "not_lemma",
+  "ce": "material",
+  "cu": "матеріал",
+  "lv": "identical",
+  "note": "plural of матеріал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ]
+ },
+ {
+  "en": "pop music",
+  "uk": "поп-музика",
+  "v": "similar",
+  "ce": "pop music",
+  "cu": "поп-музика",
+  "note": "музика adds -а (music → музика)."
+ },
+ {
+  "en": "press conference",
+  "uk": "прес-конференція",
+  "v": "similar",
+  "ce": "press conference",
+  "cu": "прес-конференція",
+  "note": "-ence → -енція."
+ },
+ {
+  "en": "progress",
+  "uk": "прогрес",
+  "v": "identical",
+  "ce": "progress",
+  "cu": "прогрес",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": ""
+ },
+ {
+  "en": "van",
+  "uk": "ван",
+  "v": "proper_noun"
+ },
+ {
+  "en": "van",
+  "uk": "вен",
+  "v": "unrelated"
+ },
+ {
+  "en": "wood",
+  "uk": "вуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bridge",
+  "uk": "брідж",
+  "v": "identical",
+  "ce": "bridge",
+  "cu": "бридж",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "games"
+  ],
+  "note": "Only the card game; a bridge over a river = міст. Correct Ukrainian spelling is бридж."
+ },
+ {
+  "en": "charles",
+  "uk": "чарльз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "concept",
+  "uk": "концепт",
+  "v": "identical",
+  "ce": "concept",
+  "cu": "концепт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "концепт is used in design and science (концепт-кар = concept car); in everyday speech 'concept' is often поняття or концепція."
+ },
+ {
+  "en": "copy",
+  "uk": "копія",
+  "v": "similar",
+  "ce": "copy",
+  "cu": "копія",
+  "note": "-y → -ія."
+ },
+ {
+  "en": "host",
+  "uk": "хост",
+  "v": "identical",
+  "ce": "host",
+  "cu": "хост",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": "Only a host computer in networking; a host of guests or a TV host = господар, ведучий."
+ },
+ {
+  "en": "israel",
+  "uk": "ізраїль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "journal",
+  "uk": "журнал",
+  "v": "partial_false_friend",
+  "ce": "journal",
+  "cu": "журнал",
+  "note": "журнал = mainly a magazine; also a logbook or class register; a diary = щоденник."
+ },
+ {
+  "en": "patient",
+  "uk": "пацієнта",
+  "v": "not_lemma",
+  "ce": "patient",
+  "cu": "пацієнт",
+  "lv": "similar",
+  "note": "case form of пацієнт"
+ },
+ {
+  "en": "patient",
+  "uk": "пацієнт",
+  "v": "similar",
+  "ce": "patient",
+  "cu": "пацієнт",
+  "note": "Noun only (a patient); t → ц; the adjective patient = терплячий."
+ },
+ {
+  "en": "balance",
+  "uk": "баланс",
+  "v": "identical",
+  "ce": "balance",
+  "cu": "баланс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "finance"
+  ],
+  "note": "Also an account balance (bank, phone)."
+ },
+ {
+  "en": "boss",
+  "uk": "бос",
+  "v": "identical",
+  "ce": "boss",
+  "cu": "бос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "informal",
+   "people"
+  ],
+  "note": ""
+ },
+ {
+  "en": "boss",
+  "uk": "босс",
+  "v": "identical",
+  "ce": "boss",
+  "cu": "бос",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "informal",
+   "people"
+  ],
+  "note": "Standard Ukrainian spelling is бос (босс is the Russian-style spelling)."
+ },
+ {
+  "en": "florida",
+  "uk": "флорида",
+  "v": "proper_noun"
+ },
+ {
+  "en": "florida",
+  "uk": "флориді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "magic",
+  "uk": "магія",
+  "v": "similar",
+  "ce": "magic",
+  "cu": "магія",
+  "note": "-ic → -ія."
+ },
+ {
+  "en": "map",
+  "uk": "мапа",
+  "v": "similar",
+  "ce": "map",
+  "cu": "мапа",
+  "note": "Ukrainian adds -а; карта is also common."
+ },
+ {
+  "en": "net",
+  "uk": "нетто",
+  "v": "similar",
+  "ce": "net",
+  "cu": "нетто",
+  "note": "нетто = net (weight, amount), with ending -о; a net (mesh) = сітка."
+ },
+ {
+  "en": "video camera",
+  "uk": "відеокамера",
+  "v": "similar",
+  "ce": "video camera",
+  "cu": "відеокамера",
+  "note": "камера adds -а; written as one word."
+ }
+]

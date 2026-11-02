@@ -1,0 +1,782 @@
+[
+ {
+  "en": "zone",
+  "uk": "зоні",
+  "v": "not_lemma",
+  "ce": "zone",
+  "cu": "зона",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of зона; Ukrainian adds -а"
+ },
+ {
+  "en": "territory",
+  "uk": "територій",
+  "v": "not_lemma",
+  "ce": "territory",
+  "cu": "територія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of територія"
+ },
+ {
+  "en": "group",
+  "uk": "груп",
+  "v": "not_lemma",
+  "ce": "group",
+  "cu": "група",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of група"
+ },
+ {
+  "en": "complexes",
+  "uk": "комплекс",
+  "v": "not_lemma",
+  "ce": "complex",
+  "cu": "комплекс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "English plural form; a building complex or a psychological complex"
+ },
+ {
+  "en": "idea",
+  "uk": "ідеї",
+  "v": "not_lemma",
+  "ce": "idea",
+  "cu": "ідея",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "case/plural form of ідея"
+ },
+ {
+  "en": "meister",
+  "uk": "майстер",
+  "v": "identical",
+  "ce": "meister",
+  "cu": "майстер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "English 'meister' is informal, mostly in compounds (spinmeister); the usual English word is master. Ukrainian майстер also = repairman, foreman."
+ },
+ {
+  "en": "advocate",
+  "uk": "адвокат",
+  "v": "partial_false_friend",
+  "ce": "advocate",
+  "cu": "адвокат",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "адвокат = a lawyer (defense attorney); in English 'advocate' mostly means a supporter of a cause (lawyer sense is formal / Scottish)"
+ },
+ {
+  "en": "ex-president",
+  "uk": "екс-президент",
+  "v": "identical",
+  "ce": "ex-president",
+  "cu": "екс-президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "company",
+  "uk": "компаній",
+  "v": "not_lemma",
+  "ce": "company",
+  "cu": "компанія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of компанія"
+ },
+ {
+  "en": "reform",
+  "uk": "реформ",
+  "v": "not_lemma",
+  "ce": "reform",
+  "cu": "реформа",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of реформа"
+ },
+ {
+  "en": "system",
+  "uk": "систем",
+  "v": "not_lemma",
+  "ce": "system",
+  "cu": "система",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of система"
+ },
+ {
+  "en": "automobile",
+  "uk": "автомобілі",
+  "v": "not_lemma",
+  "ce": "automobile",
+  "cu": "автомобіль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "plural form; in everyday English 'car' is more common"
+ },
+ {
+  "en": "category",
+  "uk": "категорії",
+  "v": "not_lemma",
+  "ce": "category",
+  "cu": "категорія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of категорія"
+ },
+ {
+  "en": "base",
+  "uk": "бази",
+  "v": "not_lemma",
+  "ce": "base",
+  "cu": "база",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of база"
+ },
+ {
+  "en": "vice-president",
+  "uk": "віце-президент",
+  "v": "identical",
+  "ce": "vice president",
+  "cu": "віце-президент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "list",
+  "uk": "лист",
+  "v": "false_friend",
+  "ce": "list",
+  "cu": "лист",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "лист = letter (also leaf, sheet); a list = список"
+ },
+ {
+  "en": "analyses",
+  "uk": "аналіз",
+  "v": "not_lemma",
+  "ce": "analysis",
+  "cu": "аналіз",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "English plural; analysis vs аналіз (no -is)"
+ },
+ {
+  "en": "data",
+  "uk": "дата",
+  "v": "false_friend",
+  "ce": "data",
+  "cu": "дата",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "дата = date (calendar day); data = дані"
+ },
+ {
+  "en": "pluses",
+  "uk": "плюс",
+  "v": "not_lemma",
+  "ce": "plus",
+  "cu": "плюс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "math"
+  ],
+  "note": "English plural; a plus = advantage, also the + sign"
+ },
+ {
+  "en": "rôle",
+  "uk": "ролі",
+  "v": "not_lemma",
+  "ce": "role",
+  "cu": "роль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "case/plural form of роль; rôle is an old spelling of role"
+ },
+ {
+  "en": "justice",
+  "uk": "юстиції",
+  "v": "not_lemma",
+  "ce": "justice",
+  "cu": "юстиція",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "юстиція = the justice system (Міністерство юстиції); justice as fairness = справедливість"
+ },
+ {
+  "en": "energy",
+  "uk": "енергії",
+  "v": "not_lemma",
+  "ce": "energy",
+  "cu": "енергія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of енергія"
+ },
+ {
+  "en": "coded",
+  "uk": "код",
+  "v": "not_lemma",
+  "ce": "code",
+  "cu": "код",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "listed English is the verb form 'coded'; the noun code = код"
+ },
+ {
+  "en": "style",
+  "uk": "стилі",
+  "v": "not_lemma",
+  "ce": "style",
+  "cu": "стиль",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "plural/case form of стиль"
+ },
+ {
+  "en": "sexes",
+  "uk": "секс",
+  "v": "not_lemma",
+  "ce": "sex",
+  "cu": "секс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "Ukrainian секс = sexual activity only; sex as male/female (the sexes) = стать"
+ },
+ {
+  "en": "machine",
+  "uk": "машин",
+  "v": "not_lemma",
+  "ce": "machine",
+  "cu": "машина",
+  "lv": "partial_false_friend",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "машина most often means a car in Ukrainian; also machine"
+ },
+ {
+  "en": "empery",
+  "uk": "імперії",
+  "v": "not_lemma",
+  "ce": "empery",
+  "cu": "імперія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic"
+  ],
+  "note": "archaic/literary English empery = empire; modern English: empire"
+ },
+ {
+  "en": "regime",
+  "uk": "режимі",
+  "v": "not_lemma",
+  "ce": "regime",
+  "cu": "режим",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "Ukrainian режим also = mode/setting (режим польоту = airplane mode) and routine (режим дня)"
+ },
+ {
+  "en": "tonne",
+  "uk": "тонн",
+  "v": "not_lemma",
+  "ce": "ton",
+  "cu": "тонна",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of тонна (metric ton, tonne)"
+ },
+ {
+  "en": "senses",
+  "uk": "сенс",
+  "v": "not_lemma",
+  "ce": "sense",
+  "cu": "сенс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ],
+  "note": "сенс = sense as meaning/point (make sense); the five senses = чуття"
+ },
+ {
+  "en": "theory",
+  "uk": "теорії",
+  "v": "not_lemma",
+  "ce": "theory",
+  "cu": "теорія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of теорія"
+ },
+ {
+  "en": "technology",
+  "uk": "технологій",
+  "v": "not_lemma",
+  "ce": "technology",
+  "cu": "технологія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of технологія"
+ },
+ {
+  "en": "chai",
+  "uk": "чай",
+  "v": "identical",
+  "ce": "chai",
+  "cu": "чай",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": "In English chai usually means spiced Indian milk tea; ordinary tea is 'tea'."
+ },
+ {
+  "en": "commentary",
+  "uk": "коментарі",
+  "v": "not_lemma",
+  "ce": "commentary",
+  "cu": "коментар",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "plural of коментар (comment, commentary)"
+ },
+ {
+  "en": "party",
+  "uk": "партій",
+  "v": "not_lemma",
+  "ce": "party",
+  "cu": "партія",
+  "lv": "partial_false_friend",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "партія = political party, batch, game (chess); a party (celebration) = вечірка"
+ },
+ {
+  "en": "command",
+  "uk": "команд",
+  "v": "not_lemma",
+  "ce": "command",
+  "cu": "команда",
+  "lv": "partial_false_friend",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "команда mostly = team; also command, order"
+ },
+ {
+  "en": "offices",
+  "uk": "офіс",
+  "v": "not_lemma",
+  "ce": "office",
+  "cu": "офіс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "English plural; office as a public position = посада"
+ },
+ {
+  "en": "vino",
+  "uk": "вина",
+  "v": "not_lemma",
+  "ce": "vino",
+  "cu": "вино",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "drinks"
+  ],
+  "note": "вина is genitive of вино (also nominative вина = guilt); English vino is informal for wine"
+ },
+ {
+  "en": "photography",
+  "uk": "фотографії",
+  "v": "not_lemma",
+  "ce": "photography",
+  "cu": "фотографія",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "фотографія = both photography and a photograph"
+ },
+ {
+  "en": "autobus",
+  "uk": "автобус",
+  "v": "identical",
+  "ce": "autobus",
+  "cu": "автобус",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "transport"
+  ],
+  "note": "English autobus is rare; everyday English: bus"
+ },
+ {
+  "en": "misses",
+  "uk": "міс",
+  "v": "not_lemma",
+  "ce": "Miss",
+  "cu": "міс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "only the title Miss (міс Сміт, Міс Світу); the verb 'to miss' is unrelated"
+ },
+ {
+  "en": "mama",
+  "uk": "мами",
+  "v": "not_lemma",
+  "ce": "mama",
+  "cu": "мама",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "case form of мама; in American English mom/mommy is more usual"
+ },
+ {
+  "en": "medicine",
+  "uk": "медицини",
+  "v": "not_lemma",
+  "ce": "medicine",
+  "cu": "медицина",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "медицина = medicine as a field; medicine (drug) = ліки"
+ },
+ {
+  "en": "oho",
+  "uk": "ого",
+  "v": "identical",
+  "ce": "oho",
+  "cu": "ого",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "expresses surprise"
+ },
+ {
+  "en": "camera",
+  "uk": "камеру",
+  "v": "not_lemma",
+  "ce": "camera",
+  "cu": "камера",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "Ukrainian камера also = (prison) cell, chamber, inner tube"
+ },
+ {
+  "en": "program",
+  "uk": "програм",
+  "v": "not_lemma",
+  "ce": "program",
+  "cu": "програма",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of програма"
+ },
+ {
+  "en": "poppa",
+  "uk": "папа",
+  "v": "identical",
+  "ce": "papa",
+  "cu": "папа",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "people"
+  ],
+  "note": "informal for dad (standard Ukrainian: тато); Папа (Римський) also = the Pope"
+ },
+ {
+  "en": "reclame",
+  "uk": "реклами",
+  "v": "not_lemma",
+  "ce": "reclame",
+  "cu": "реклама",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare"
+  ],
+  "note": "rare English réclame = publicity; реклама = advertising, an ad"
+ },
+ {
+  "en": "second",
+  "uk": "секунд",
+  "v": "not_lemma",
+  "ce": "second",
+  "cu": "секунда",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of секунда (unit of time only)"
+ },
+ {
+  "en": "services",
+  "uk": "сервіс",
+  "v": "not_lemma",
+  "ce": "service",
+  "cu": "сервіс",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "English plural; сервіс = customer service, an (online) service; a church service = служба"
+ },
+ {
+  "en": "cereal",
+  "uk": "серіал",
+  "v": "false_friend",
+  "ce": "cereal",
+  "cu": "серіал",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "серіал = TV series (English 'serial'); cereal = пластівці, злаки"
+ },
+ {
+  "en": "technique",
+  "uk": "техніку",
+  "v": "not_lemma",
+  "ce": "technique",
+  "cu": "техніка",
+  "lv": "partial_false_friend",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "техніка also = machinery, equipment, technology"
+ },
+ {
+  "en": "bibliotheca",
+  "uk": "бібліотека",
+  "v": "identical",
+  "ce": "bibliotheca",
+  "cu": "бібліотека",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "places"
+  ],
+  "note": "English bibliotheca is rare (a library or book collection); everyday English: library"
+ },
+ {
+  "en": "propaganda",
+  "uk": "пропаганди",
+  "v": "not_lemma",
+  "ce": "propaganda",
+  "cu": "пропаганда",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "case form of пропаганда"
+ },
+ {
+  "en": "theme",
+  "uk": "тем",
+  "v": "not_lemma",
+  "ce": "theme",
+  "cu": "тема",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "genitive plural of тема"
+ },
+ {
+  "en": "ha-ha",
+  "uk": "ха-ха",
+  "v": "identical",
+  "ce": "ha-ha",
+  "cu": "ха-ха",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "sound of laughter"
+ },
+ {
+  "en": "infrastructure",
+  "uk": "інфраструктури",
+  "v": "not_lemma",
+  "ce": "infrastructure",
+  "cu": "інфраструктура",
+  "lv": "similar",
+  "pos": "noun",
+  "br": false,
+  "lab": [],
+  "note": "case form of інфраструктура"
+ },
+ {
+  "en": "ukases",
+  "uk": "указ",
+  "v": "not_lemma",
+  "ce": "ukase",
+  "cu": "указ",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "law"
+  ],
+  "note": "English ukase (from Russian указ) = an official decree, esp. of a tsar; everyday English: decree"
+ },
+ {
+  "en": "hah",
+  "uk": "ха",
+  "v": "identical",
+  "ce": "ha",
+  "cu": "ха",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "hah is a variant of ha"
+ }
+]

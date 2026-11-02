@@ -11,6 +11,28 @@
   "src": "verify-007.json"
  },
  {
+  "en": "band",
+  "uk": "банда",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "банда = a criminal gang; a music band = гурт",
+  "checked": 1,
+  "src": "verify-003.json"
+ },
+ {
+  "en": "clay",
+  "uk": "клей",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "клей = glue; clay = глина",
+  "checked": 1,
+  "src": "verify-013.json"
+ },
+ {
   "en": "combat",
   "uk": "комбат",
   "pos": "",
@@ -33,6 +55,50 @@
   "src": "verify-000.json"
  },
  {
+  "en": "fantastic",
+  "uk": "фантастика",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "фантастика = science fiction/fantasy (genre); 'fantastic' is фантастичний or чудовий.",
+  "checked": 1,
+  "src": "verify-005.json"
+ },
+ {
+  "en": "frank",
+  "uk": "франк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "frank = honest (відвертий); франк = franc (currency) or a Frank (tribe).",
+  "checked": 1,
+  "src": "verify-005.json"
+ },
+ {
+  "en": "gamma",
+  "uk": "гама",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гама = musical scale or range (of colours); the Greek letter is гамма.",
+  "checked": 1,
+  "src": "verify-032.json"
+ },
+ {
+  "en": "grand",
+  "uk": "гранд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "гранд = a Spanish grandee or a top sports club; grand (great) = величний, грандіозний",
+  "checked": 1,
+  "src": "verify-003.json"
+ },
+ {
   "en": "international",
   "uk": "інтернаціонал",
   "pos": "",
@@ -42,6 +108,61 @@
   "note": "Інтернаціонал = the (Communist) International or its anthem; 'international' is міжнародний.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "magazine",
+  "uk": "магазин",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "магазин = shop; a magazine (publication) is журнал. Both can mean a gun magazine.",
+  "checked": 1,
+  "src": "verify-005.json"
+ },
+ {
+  "en": "marina",
+  "uk": "марина",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "марина = seascape painting (and a girl's name); a boat harbour is яхтова гавань.",
+  "checked": 1,
+  "src": "verify-026.json"
+ },
+ {
+  "en": "martin",
+  "uk": "мартин",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "martin = a swallow-like bird; мартин = gull.",
+  "checked": 1,
+  "src": "verify-005.json"
+ },
+ {
+  "en": "mayor",
+  "uk": "майор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "майор = major (army rank); a mayor = мер",
+  "checked": 1,
+  "src": "verify-006.json"
+ },
+ {
+  "en": "mercy",
+  "uk": "мерсі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "мерсі = 'thanks' (colloquial, from French merci); mercy = милосердя",
+  "checked": 1,
+  "src": "verify-013.json"
  },
  {
   "en": "national",
@@ -55,6 +176,50 @@
   "src": "verify-000.json"
  },
  {
+  "en": "novel",
+  "uk": "новела",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "новела = a short story or novella; a novel = роман",
+  "checked": 1,
+  "src": "verify-006.json"
+ },
+ {
+  "en": "objective",
+  "uk": "об'єктив",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "об'єктив = camera lens; a goal is мета, the adjective is об'єктивний.",
+  "checked": 1,
+  "src": "verify-011.json"
+ },
+ {
+  "en": "oral",
+  "uk": "орал",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "орал = slang noun (oral sex); the adjective oral = усний, оральний",
+  "checked": 1,
+  "src": "verify-013.json"
+ },
+ {
+  "en": "pope",
+  "uk": "поп",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "поп = (colloquial) Orthodox priest, or pop music; the Pope is Папа Римський.",
+  "checked": 1,
+  "src": "verify-011.json"
+ },
+ {
   "en": "public",
   "uk": "паблік",
   "pos": "",
@@ -66,6 +231,28 @@
   "src": "verify-000.json"
  },
  {
+  "en": "roman",
+  "uk": "роман",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "роман = a novel or a love affair; Roman is римський.",
+  "checked": 1,
+  "src": "verify-008.json"
+ },
+ {
+  "en": "storm",
+  "uk": "штурм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "штурм = military assault (storming); a weather storm = шторм, буря",
+  "checked": 1,
+  "src": "verify-006.json"
+ },
+ {
   "en": "time",
   "uk": "тайм",
   "pos": "",
@@ -75,5 +262,27 @@
   "note": "тайм = half/period of a sports match; 'time' is час.",
   "checked": 1,
   "src": "verify-000.json"
+ },
+ {
+  "en": "trans",
+  "uk": "транс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "транс = trance; transgender is трансгендер",
+  "checked": 1,
+  "src": "verify-010.json"
+ },
+ {
+  "en": "vice",
+  "uk": "віце",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "vice = a bad habit (порок); віце- is only the prefix vice- (віце-президент).",
+  "checked": 1,
+  "src": "verify-005.json"
  }
 ]

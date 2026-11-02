@@ -1,0 +1,1171 @@
+[
+ {
+  "en": "abstract",
+  "uk": "абстракт",
+  "v": "partial_false_friend",
+  "ce": "abstract",
+  "cu": "абстракт",
+  "note": "абстракт (rare) = an abstraction; a summary of a paper = анотація, реферат"
+ },
+ {
+  "en": "abstract",
+  "uk": "абстрактний",
+  "v": "similar",
+  "ce": "abstract",
+  "cu": "абстрактний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "accent",
+  "uk": "акцент",
+  "v": "identical",
+  "ce": "accent",
+  "cu": "акцент",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "also 'emphasis' (зробити акцент на = to put emphasis on)"
+ },
+ {
+  "en": "blank",
+  "uk": "бланк",
+  "v": "false_friend",
+  "ce": "blank",
+  "cu": "бланк",
+  "note": "бланк = a printed form to fill in; blank = порожній, чистий"
+ },
+ {
+  "en": "buffalo",
+  "uk": "баффало",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conservatives",
+  "uk": "консерваторів",
+  "v": "not_lemma",
+  "ce": "conservative",
+  "cu": "консерватор",
+  "lv": "similar",
+  "note": "genitive plural of консерватор; Ukrainian has -ор instead of -ive"
+ },
+ {
+  "en": "contacts",
+  "uk": "контакти",
+  "v": "not_lemma",
+  "ce": "contact",
+  "cu": "контакт",
+  "lv": "identical",
+  "note": "plural of контакт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "other"
+  ]
+ },
+ {
+  "en": "corn dog",
+  "uk": "корн-дог",
+  "v": "identical",
+  "ce": "corn dog",
+  "cu": "корн-дог",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": ""
+ },
+ {
+  "en": "depressed",
+  "uk": "депресії",
+  "v": "not_lemma",
+  "ce": "depression",
+  "cu": "депресія",
+  "lv": "similar",
+  "note": "депресії is a form of депресія (depression); depressed = пригнічений"
+ },
+ {
+  "en": "eddie",
+  "uk": "едді",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emily",
+  "uk": "емілі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "emily",
+  "uk": "емілія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "horn",
+  "uk": "горн",
+  "v": "partial_false_friend",
+  "ce": "horn",
+  "cu": "горн",
+  "note": "горн = a forge, or a bugle; an animal's horn = ріг"
+ },
+ {
+  "en": "immune",
+  "uk": "імунний",
+  "v": "similar",
+  "ce": "immune",
+  "cu": "імунний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "immune",
+  "uk": "імунна",
+  "v": "not_lemma",
+  "ce": "immune",
+  "cu": "імунний",
+  "lv": "similar",
+  "note": "feminine form of імунний; adjective ending -ний"
+ },
+ {
+  "en": "ingredients",
+  "uk": "інгредієнти",
+  "v": "not_lemma",
+  "ce": "ingredient",
+  "cu": "інгредієнт",
+  "lv": "identical",
+  "note": "plural of інгредієнт",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ]
+ },
+ {
+  "en": "inspection",
+  "uk": "інспекція",
+  "v": "similar",
+  "ce": "inspection",
+  "cu": "інспекція",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "instruction",
+  "uk": "інструкція",
+  "v": "similar",
+  "ce": "instruction",
+  "cu": "інструкція",
+  "note": "Ukrainian ending -ія; also a user manual"
+ },
+ {
+  "en": "inventory",
+  "uk": "інвентар",
+  "v": "similar",
+  "ce": "inventory",
+  "cu": "інвентар",
+  "note": "no final -y; інвентар mostly = equipment, gear"
+ },
+ {
+  "en": "kyle",
+  "uk": "кайл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "migration",
+  "uk": "міграції",
+  "v": "not_lemma",
+  "ce": "migration",
+  "cu": "міграція",
+  "lv": "similar",
+  "note": "form of міграція; Ukrainian ending -ія"
+ },
+ {
+  "en": "nancy",
+  "uk": "ненсі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "norman",
+  "uk": "норман",
+  "v": "proper_noun"
+ },
+ {
+  "en": "northwest",
+  "uk": "норд-вест",
+  "v": "similar",
+  "ce": "northwest",
+  "cu": "норд-вест",
+  "note": "nautical term from Dutch (д, not т); usual word: північний захід"
+ },
+ {
+  "en": "organ",
+  "uk": "орган",
+  "v": "identical",
+  "ce": "organ",
+  "cu": "орган",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "biology"
+  ],
+  "note": "stress: орга́н = body organ, authority; о́рган = the musical instrument"
+ },
+ {
+  "en": "patrol",
+  "uk": "патруль",
+  "v": "identical",
+  "ce": "patrol",
+  "cu": "патруль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "military"
+  ],
+  "note": "also a police patrol"
+ },
+ {
+  "en": "pearl",
+  "uk": "перл",
+  "v": "identical",
+  "ce": "pearl",
+  "cu": "перл",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "nature"
+  ],
+  "note": "bookish or figurative (a gem); the everyday word is перлина"
+ },
+ {
+  "en": "pearl",
+  "uk": "перли",
+  "v": "not_lemma",
+  "ce": "pearl",
+  "cu": "перл",
+  "lv": "identical",
+  "note": "plural of перл; everyday word: перлини",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "nature"
+  ]
+ },
+ {
+  "en": "pearl",
+  "uk": "перла",
+  "v": "not_lemma",
+  "ce": "pearl",
+  "cu": "перл",
+  "lv": "identical",
+  "note": "form or poetic variant of перл; everyday word: перлина",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "literary",
+   "nature"
+  ]
+ },
+ {
+  "en": "rod",
+  "uk": "род",
+  "v": "unrelated"
+ },
+ {
+  "en": "san jose",
+  "uk": "сан-хосе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "syrian",
+  "uk": "сирійка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tattoo",
+  "uk": "тату",
+  "v": "identical",
+  "ce": "tattoo",
+  "cu": "тату",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "art"
+  ],
+  "note": "indeclinable; also татуювання"
+ },
+ {
+  "en": "tragedy",
+  "uk": "трагедія",
+  "v": "similar",
+  "ce": "tragedy",
+  "cu": "трагедія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "trauma",
+  "uk": "травма",
+  "v": "identical",
+  "ce": "trauma",
+  "cu": "травма",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "medicine"
+  ],
+  "note": "in Ukrainian also the everyday word for any injury"
+ },
+ {
+  "en": "vincent",
+  "uk": "вінсент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "activist",
+  "uk": "активіст",
+  "v": "identical",
+  "ce": "activist",
+  "cu": "активіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "activist",
+  "uk": "активістка",
+  "v": "not_lemma",
+  "ce": "activist",
+  "cu": "активіст",
+  "lv": "identical",
+  "note": "feminine form of активіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "activists",
+  "uk": "активісти",
+  "v": "not_lemma",
+  "ce": "activist",
+  "cu": "активіст",
+  "lv": "identical",
+  "note": "plural of активіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "activists",
+  "uk": "активістів",
+  "v": "not_lemma",
+  "ce": "activist",
+  "cu": "активіст",
+  "lv": "identical",
+  "note": "genitive plural of активіст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "addresses",
+  "uk": "адрес",
+  "v": "not_lemma",
+  "ce": "address",
+  "cu": "адреса",
+  "lv": "similar",
+  "note": "адрес = genitive plural of адреса (also a ceremonial greeting); address = адреса, with -а"
+ },
+ {
+  "en": "cabin",
+  "uk": "кабіна",
+  "v": "partial_false_friend",
+  "ce": "cabin",
+  "cu": "кабіна",
+  "note": "кабіна = cab, cockpit, booth; a log cabin = хатина, a ship's cabin = каюта"
+ },
+ {
+  "en": "cage",
+  "uk": "кейдж",
+  "v": "proper_noun"
+ },
+ {
+  "en": "combine",
+  "uk": "комбайн",
+  "v": "identical",
+  "ce": "combine",
+  "cu": "комбайн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "other"
+  ],
+  "note": "only the noun = combine harvester (also кухонний комбайн = food processor); to combine = поєднувати"
+ },
+ {
+  "en": "combine",
+  "uk": "комбінат",
+  "v": "false_friend",
+  "ce": "combine",
+  "cu": "комбінат",
+  "note": "комбінат = a large industrial plant; to combine = поєднувати"
+ },
+ {
+  "en": "companion",
+  "uk": "компаньйон",
+  "v": "partial_false_friend",
+  "ce": "companion",
+  "cu": "компаньйон",
+  "note": "компаньйон usually = business partner; a companion = супутник, товариш"
+ },
+ {
+  "en": "companion",
+  "uk": "компаньйонка",
+  "v": "not_lemma",
+  "ce": "companion",
+  "cu": "компаньйон",
+  "lv": "partial_false_friend",
+  "note": "feminine form of компаньйон (a lady's companion); компаньйон usually = business partner"
+ },
+ {
+  "en": "companion",
+  "uk": "компаньйона",
+  "v": "not_lemma",
+  "ce": "companion",
+  "cu": "компаньйон",
+  "lv": "partial_false_friend",
+  "note": "genitive of компаньйон; компаньйон usually = business partner"
+ },
+ {
+  "en": "consultant",
+  "uk": "консультант",
+  "v": "identical",
+  "ce": "consultant",
+  "cu": "консультант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ],
+  "note": "also a shop assistant (консультант у магазині)"
+ },
+ {
+  "en": "consultant",
+  "uk": "консультантом",
+  "v": "not_lemma",
+  "ce": "consultant",
+  "cu": "консультант",
+  "lv": "identical",
+  "note": "instrumental case of консультант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ]
+ },
+ {
+  "en": "consultant",
+  "uk": "консультантка",
+  "v": "not_lemma",
+  "ce": "consultant",
+  "cu": "консультант",
+  "lv": "identical",
+  "note": "feminine form of консультант",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "business"
+  ]
+ },
+ {
+  "en": "controller",
+  "uk": "контролер",
+  "v": "identical",
+  "ce": "controller",
+  "cu": "контролер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "also a ticket inspector or quality inspector"
+ },
+ {
+  "en": "cuba",
+  "uk": "куба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "disc",
+  "uk": "диск",
+  "v": "identical",
+  "ce": "disc",
+  "cu": "диск",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": "also spelled disk; диск is also the discus in sport"
+ },
+ {
+  "en": "haven",
+  "uk": "гавань",
+  "v": "similar",
+  "ce": "haven",
+  "cu": "гавань",
+  "note": "гавань = harbor; haven today mostly = a safe place"
+ },
+ {
+  "en": "helicopter",
+  "uk": "гелікоптер",
+  "v": "identical",
+  "ce": "helicopter",
+  "cu": "гелікоптер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "transport"
+  ],
+  "note": "вертоліт is also common"
+ },
+ {
+  "en": "hip-hop",
+  "uk": "хіп-хоп",
+  "v": "identical",
+  "ce": "hip-hop",
+  "cu": "хіп-хоп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "keen",
+  "uk": "кін",
+  "v": "unrelated"
+ },
+ {
+  "en": "kenya",
+  "uk": "кенія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kenya",
+  "uk": "кенії",
+  "v": "proper_noun"
+ },
+ {
+  "en": "liberals",
+  "uk": "лібералів",
+  "v": "not_lemma",
+  "ce": "liberal",
+  "cu": "ліберал",
+  "lv": "identical",
+  "note": "genitive plural of ліберал; the adjective liberal = ліберальний",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "magnetic moment",
+  "uk": "магнітний момент",
+  "v": "similar",
+  "ce": "magnetic moment",
+  "cu": "магнітний момент",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "mechanics",
+  "uk": "механіка",
+  "v": "similar",
+  "ce": "mechanics",
+  "cu": "механіка",
+  "note": "Ukrainian ending -іка"
+ },
+ {
+  "en": "murphy",
+  "uk": "мерфі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nathan",
+  "uk": "натан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "phenomenon",
+  "uk": "феномен",
+  "v": "similar",
+  "ce": "phenomenon",
+  "cu": "феномен",
+  "note": "Ukrainian drops -on; also явище"
+ },
+ {
+  "en": "pittsburgh",
+  "uk": "піттсбург",
+  "v": "proper_noun"
+ },
+ {
+  "en": "profession",
+  "uk": "професія",
+  "v": "similar",
+  "ce": "profession",
+  "cu": "професія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "providers",
+  "uk": "провайдерів",
+  "v": "not_lemma",
+  "ce": "provider",
+  "cu": "провайдер",
+  "lv": "identical",
+  "note": "genitive plural of провайдер; in Ukrainian mostly an internet or telecom provider",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ]
+ },
+ {
+  "en": "putin",
+  "uk": "путін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "putin",
+  "uk": "путіна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sandwich",
+  "uk": "сандвіч",
+  "v": "identical",
+  "ce": "sandwich",
+  "cu": "сендвіч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "сандвіч is a less common spelling; usually сендвіч"
+ },
+ {
+  "en": "sandwich",
+  "uk": "сендвіч",
+  "v": "identical",
+  "ce": "sandwich",
+  "cu": "сендвіч",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "food"
+  ],
+  "note": "also spelled сандвіч"
+ },
+ {
+  "en": "sexually",
+  "uk": "сексуально",
+  "v": "similar",
+  "ce": "sexually",
+  "cu": "сексуально",
+  "note": "adverb ending -но"
+ },
+ {
+  "en": "sterling",
+  "uk": "стерлінг",
+  "v": "identical",
+  "ce": "sterling",
+  "cu": "стерлінг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "finance"
+  ],
+  "note": "usually in фунт стерлінгів = pound sterling"
+ },
+ {
+  "en": "stuart",
+  "uk": "стюарт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "visa",
+  "uk": "віза",
+  "v": "identical",
+  "ce": "visa",
+  "cu": "віза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ],
+  "note": ""
+ },
+ {
+  "en": "visa",
+  "uk": "візи",
+  "v": "not_lemma",
+  "ce": "visa",
+  "cu": "віза",
+  "lv": "identical",
+  "note": "genitive singular or plural of віза",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "travel"
+  ]
+ },
+ {
+  "en": "arabia",
+  "uk": "арабія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "arabia",
+  "uk": "аравія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "banner",
+  "uk": "банер",
+  "v": "identical",
+  "ce": "banner",
+  "cu": "банер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "media"
+  ],
+  "note": "in Ukrainian only an advertising or web banner; a flag = стяг, прапор"
+ },
+ {
+  "en": "brad",
+  "uk": "бред",
+  "v": "unrelated"
+ },
+ {
+  "en": "charm",
+  "uk": "шарм",
+  "v": "identical",
+  "ce": "charm",
+  "cu": "шарм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "emotions"
+  ],
+  "note": "only charm as attractiveness; a magic charm = оберіг, амулет"
+ },
+ {
+  "en": "colony",
+  "uk": "колонія",
+  "v": "similar",
+  "ce": "colony",
+  "cu": "колонія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "cookies",
+  "uk": "куки",
+  "v": "not_lemma",
+  "ce": "cookie",
+  "cu": "кукі",
+  "lv": "identical",
+  "note": "only internet cookies, usually plural (кукі, куки, файли cookie); a sweet cookie = печиво",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "tech"
+  ]
+ },
+ {
+  "en": "deadline",
+  "uk": "дедлайн",
+  "v": "identical",
+  "ce": "deadline",
+  "cu": "дедлайн",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "informal",
+   "business"
+  ],
+  "note": "formal Ukrainian: кінцевий термін"
+ },
+ {
+  "en": "delta",
+  "uk": "дельта",
+  "v": "identical",
+  "ce": "delta",
+  "cu": "дельта",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "nature"
+  ],
+  "note": "also the Greek letter Δ"
+ },
+ {
+  "en": "dive",
+  "uk": "дів",
+  "v": "unrelated"
+ },
+ {
+  "en": "feminist",
+  "uk": "фемініст",
+  "v": "identical",
+  "ce": "feminist",
+  "cu": "фемініст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ],
+  "note": "the adjective feminist = феміністичний"
+ },
+ {
+  "en": "feminist",
+  "uk": "феміністка",
+  "v": "not_lemma",
+  "ce": "feminist",
+  "cu": "фемініст",
+  "lv": "identical",
+  "note": "feminine form of фемініст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "politics"
+  ]
+ },
+ {
+  "en": "ham",
+  "uk": "ам",
+  "v": "unrelated"
+ },
+ {
+  "en": "immune system",
+  "uk": "імунна система",
+  "v": "similar",
+  "ce": "immune system",
+  "cu": "імунна система",
+  "note": "adjective ending -на; система adds -а"
+ },
+ {
+  "en": "interface",
+  "uk": "інтерфейс",
+  "v": "identical",
+  "ce": "interface",
+  "cu": "інтерфейс",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "juan",
+  "uk": "хуан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "julia",
+  "uk": "джулія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "julia",
+  "uk": "юлія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "jungle",
+  "uk": "джунглі",
+  "v": "similar",
+  "ce": "jungle",
+  "cu": "джунглі",
+  "note": "Ukrainian is plural only, ending -і"
+ },
+ {
+  "en": "pension fund",
+  "uk": "пенсійний фонд",
+  "v": "similar",
+  "ce": "pension fund",
+  "cu": "пенсійний фонд",
+  "note": "adjective ending -ійний"
+ },
+ {
+  "en": "pete",
+  "uk": "піт",
+  "v": "unrelated"
+ },
+ {
+  "en": "prof",
+  "uk": "проф",
+  "v": "identical",
+  "ce": "prof",
+  "cu": "проф",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "informal",
+   "education"
+  ],
+  "note": "in Ukrainian mostly the written abbreviation проф. before a name"
+ },
+ {
+  "en": "rap",
+  "uk": "реп",
+  "v": "identical",
+  "ce": "rap",
+  "cu": "реп",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": "only rap music; a knock = стук"
+ },
+ {
+  "en": "resume",
+  "uk": "резюме",
+  "v": "identical",
+  "ce": "résumé",
+  "cu": "резюме",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "business"
+  ],
+  "note": "only the noun résumé (US) = CV, also a summary; the verb to resume = продовжувати"
+ },
+ {
+  "en": "richmond",
+  "uk": "річмонд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "samsung",
+  "uk": "самсунг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sri",
+  "uk": "шрі",
+  "v": "unrelated"
+ },
+ {
+  "en": "xi",
+  "uk": "ксі",
+  "v": "identical",
+  "ce": "xi",
+  "cu": "ксі",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "language"
+  ],
+  "note": "the Greek letter Ξ, ξ"
+ },
+ {
+  "en": "ashley",
+  "uk": "ешлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "athlete",
+  "uk": "атлет",
+  "v": "identical",
+  "ce": "athlete",
+  "cu": "атлет",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "sport"
+  ],
+  "note": "also a strong, muscular man; a sportsperson is also спортсмен"
+ },
+ {
+  "en": "attraction",
+  "uk": "атракціон",
+  "v": "partial_false_friend",
+  "ce": "attraction",
+  "cu": "атракціон",
+  "note": "атракціон = an amusement ride or show; attraction = притягання, a tourist attraction = пам'ятка"
+ },
+ {
+  "en": "canon",
+  "uk": "канон",
+  "v": "identical",
+  "ce": "canon",
+  "cu": "канон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": "also a rule, a literary canon, a musical canon; a church official (canon) = канонік"
+ },
+ {
+  "en": "canon",
+  "uk": "канонік",
+  "v": "similar",
+  "ce": "canon",
+  "cu": "канонік",
+  "note": "a church official (canon); Ukrainian adds -ік"
+ },
+ {
+  "en": "catherine",
+  "uk": "катерина",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cognitive",
+  "uk": "когнітивний",
+  "v": "similar",
+  "ce": "cognitive",
+  "cu": "когнітивний",
+  "note": "adjective ending -ний"
+ },
+ {
+  "en": "connecticut",
+  "uk": "коннектикут",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cross-dressing",
+  "uk": "кросдресинг",
+  "v": "identical",
+  "ce": "cross-dressing",
+  "cu": "кросдресинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "clothing"
+  ],
+  "note": "also spelled крос-дресинг"
+ },
+ {
+  "en": "cross-dressing",
+  "uk": "крос-дресинг",
+  "v": "identical",
+  "ce": "cross-dressing",
+  "cu": "кросдресинг",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "clothing"
+  ],
+  "note": "hyphenated spelling; also кросдресинг"
+ },
+ {
+  "en": "diplomatic",
+  "uk": "дипломатичний",
+  "v": "similar",
+  "ce": "diplomatic",
+  "cu": "дипломатичний",
+  "note": "adjective ending -ичний"
+ },
+ {
+  "en": "editorial",
+  "uk": "едиторіал",
+  "v": "identical",
+  "ce": "editorial",
+  "cu": "едиторіал",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "media"
+  ],
+  "note": "only the noun (an editorial article, also a fashion photo editorial); usual word: редакційна стаття"
+ },
+ {
+  "en": "harmony",
+  "uk": "гармонія",
+  "v": "similar",
+  "ce": "harmony",
+  "cu": "гармонія",
+  "note": "Ukrainian ending -ія"
+ },
+ {
+  "en": "hmm",
+  "uk": "гм",
+  "v": "identical",
+  "ce": "hmm",
+  "cu": "гм",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "also хм"
+ },
+ {
+  "en": "hmm",
+  "uk": "хм",
+  "v": "identical",
+  "ce": "hmm",
+  "cu": "хм",
+  "pos": "interj",
+  "br": false,
+  "lab": [
+   "informal",
+   "emotions"
+  ],
+  "note": "also гм"
+ }
+]

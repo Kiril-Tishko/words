@@ -1,0 +1,150 @@
+like = лайк   | first: identical; pos noun; list level - (lists: conj B1, prep A1, verb A1); british False; labels informal,media; note: Only a 'like' on social media; the verb 'to like' is подобатися.
+time = тайм   | first: false_friend; pos -; list level - (lists: noun A1, verb B2); british False; labels -; note: тайм = half/period of a sports match; 'time' is час.
+time-out = тайм-аут   | first: identical; pos noun; list level - (lists: -); british False; labels sport
+down = даун   | first: false_friend; pos -; list level - (lists: adj B2, adv A1, prep A2); british False; labels -; note: даун = (offensive) person with Down syndrome; 'down' is вниз.
+know-how = ноу-хау   | first: identical; pos noun; list level - (lists: -); british False; labels international,business
+state = штат   | first: partial_false_friend; pos -; list level - (lists: adj B2, noun A2, verb B2); british False; labels -; note: штат = state of a federation (US state) or staff; not 'condition' or 'country'.
+Mr. = м-р   | first: identical; pos abbr; list level A1 (lists: noun A1); british False; labels abbreviation,people; note: Short for містер (mister); Ukrainians usually write містер in full.
+show = шоу   | first: identical; pos noun; list level A2 (lists: noun A2, verb A1); british False; labels international,media; note: Only the noun (a show); 'to show' is показувати.
+lot = лот   | first: identical; pos noun; list level A2 (lists: adv A1, noun A2, pron A1); british False; labels business; note: Only a lot at an auction or sale; 'a lot of' is багато.
+public = паблік   | first: false_friend; pos -; list level - (lists: adj B1, noun A2); british False; labels -; note: Slang: a public page/group on social media.
+top = топ   | first: identical; pos noun; list level A1 (lists: adj B1, noun A1); british False; labels informal,clothing; note: A top (garment) or the top of a ranking (топ-10); the top part of something is верх.
+business = бізнес   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,business; note: Russian spelling; Ukrainian is бізнес.
+start = старт   | first: identical; pos noun; list level A1 (lists: noun A1, verb A1); british False; labels international,sport
+stop = стоп   | first: identical; pos interj; list level - (lists: noun A1, verb A1); british False; labels international,transport; note: Mainly the command 'Stop!'; 'to stop' is зупинятися.
+national = націонал   | first: false_friend; pos -; list level - (lists: adj A2); british False; labels -; note: націонал = colloquial 'nationalist' or part of compounds; 'national' is національний.
+order = ордер   | first: partial_false_friend; pos -; list level - (lists: noun A1, verb A2); british False; labels -; note: ордер = warrant or official permit; not sequence (порядок) or purchase (замовлення).
+order = орден   | first: partial_false_friend; pos -; list level - (lists: noun A1, verb A2); british False; labels -; note: орден = medal/decoration or a knightly/monastic order only.
+service = сервіс   | first: identical; pos noun; list level B1 (lists: noun B1, verb B1); british False; labels international,business; note: Customer service, service industry; military or church service is служба.
+country = кантрі   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels music; note: Only country music; a country (nation) is країна.
+season = сезон   | first: identical; pos noun; list level B1 (lists: noun B1); british False; labels international,time
+general = генерал   | first: identical; pos noun; list level B1 (lists: adj B1, noun B1); british False; labels international,military; note: Only the military rank; the adjective 'general' is загальний.
+president = президент   | first: identical; pos noun; list level B1 (lists: noun B1); british False; labels international,politics
+course = курс   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,education; note: Also exchange rate and year of study; a meal course is страва.
+post = пост   | first: identical; pos noun; list level A1 (lists: noun A1, verb A2); british False; labels media; note: A social-media post or a guard post/position; mail is пошта, a pole is стовп; пост also = religious fast.
+video = відео   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,media
+court = корт   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels sport; note: Only a sports court (tennis etc.); a law court is суд.
+fact = факт   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,other
+control = контроль   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels international,other; note: Also checking/inspection (e.g. ticket control).
+office = офіс   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels business,places; note: An office (workplace); a public office/post is посада.
+university = університет   | first: similar; pos -; list level - (lists: noun A2); british False; labels -; note: Ending -итет instead of -ity.
+bit = біт   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels technical,tech; note: Computing bit (also a music beat); 'a bit' (a little) is трохи.
+hit = хіт   | first: identical; pos noun; list level B1 (lists: noun B1, verb A2); british False; labels international,music; note: A hit (song, film, product); 'to hit' is вдарити.
+class = клас   | first: identical; pos noun; list level A0 (lists: noun A1, verb C1); british False; labels international,education; note: Also a school grade (year); informal клас! = cool!
+idea = ідея   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,other
+international = інтернаціонал   | first: false_friend; pos -; list level - (lists: adj A2); british False; labels -; note: Інтернаціонал = the (Communist) International or its anthem; 'international' is міжнародний.
+million = мільйон   | first: identical; pos num; list level A2 (lists: num A2); british False; labels international,math
+report = рапорт   | first: similar; pos -; list level - (lists: noun A2, verb B1); british False; labels -; note: рапорт = official/military report to a superior; the usual 'report' is звіт.
+check = чек   | first: partial_false_friend; pos -; list level - (lists: noun A1, verb A2); british False; labels -; note: чек = receipt or (bank) check; 'to check' is перевіряти.
+act = акт   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels international,law; note: Also an official certificate/report document.
+major = мажор   | first: partial_false_friend; pos -; list level - (lists: adj A2, noun B2); british False; labels -; note: мажор = major key in music; slang: spoiled rich kid.
+major = майор   | first: identical; pos noun; list level B2 (lists: adj A2, noun B2); british False; labels military; note: Only the military rank; 'major' (main, important) is головний, значний.
+media = медіа   | first: identical; pos noun; list level B2 (lists: noun B2); british False; labels international,media
+art = арт   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels informal,art; note: Informal or in compounds (арт-простір); the usual word for art is мистецтво.
+market = маркет   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels informal,places; note: A (super)market store; an open-air market is ринок.
+plan = план   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,other
+final = фінал   | first: identical; pos noun; list level A2 (lists: adj A2, noun A2); british False; labels international,sport; note: Also 'finale'; the adjective 'final' is фінальний.
+front = фронт   | first: identical; pos noun; list level A2 (lists: adj A1, noun A2); british False; labels international,military; note: A military or weather front, or field of work; the front side of something is перед.
+college = коледж   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels education; note: Usually a vocational college (between school and university).
+type = тип   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,other; note: Colloquially also 'a guy, a character'.
+chance = шанс   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,other
+march = марш   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,military; note: A march (soldiers, protest, music piece); the month March is березень.
+process = процес   | first: identical; pos noun; list level B1 (lists: noun B1, verb B2); british False; labels international,other; note: Also a court trial (судовий процес).
+student = студент   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,education; note: Plural form.
+cost = кошт   | first: similar; pos -; list level - (lists: noun A2, verb A2); british False; labels -; note: кошт = expense (за свій кошт = at one's own cost); кошти = funds; the price of something is вартість.
+moment = момент   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,time
+department = департамент   | first: similar; pos -; list level - (lists: noun B1); british False; labels -; note: Extra -а- (депарТАмент); mostly a government/company department; a university department is кафедра.
+term = термін   | first: similar; pos -; list level - (lists: noun B1); british False; labels -; note: Ending -ін added; also means deadline or time period.
+miss = міс   | first: identical; pos noun; list level A0 (lists: noun A1, verb A1); british False; labels people; note: Only the title Miss (Міс Україна = Miss Ukraine); 'to miss' is пропустити or сумувати.
+project = проєкт   | first: identical; pos noun; list level B2 (lists: noun B2, verb B2); british False; labels international,business; note: Older spelling: проект.
+sex = секс   | first: identical; pos noun; list level B1 (lists: noun B1); british False; labels international,people; note: Only sexual activity; sex as male/female is стать.
+shot = шот   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels slang,drinks; note: Only a shot of strong alcohol; a gunshot is постріл.
+site = сайт   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,tech; note: Usually a website; a building site is ділянка or майданчик.
+account = акаунт   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels tech; note: Only a user account (social media, email); a bank account is рахунок.
+period = період   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,time; note: The punctuation mark (US 'period') is крапка.
+record = рекорд   | first: identical; pos noun; list level B1 (lists: noun B1, verb A2); british False; labels international,sport; note: Only a record (best result); a written record is запис, a vinyl record is платівка.
+club = клуб   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,places; note: A club (association, nightclub); a heavy stick is кийок, a golf club is ключка.
+film = фільм   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels international,media; note: A movie; a thin layer or camera film is плівка.
+center = центр   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,places
+online = онлайн   | first: identical; pos adv; list level A2 (lists: adj A2, adv A2); british False; labels international,tech
+player = плеєр   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels tech,music; note: Only a media player device (MP3 player); a person who plays is гравець.
+sense = сенс   | first: identical; pos noun; list level A2 (lists: noun A2, verb B2); british False; labels other; note: Meaning, point (має сенс = makes sense); the five senses are чуття.
+test = тест   | first: identical; pos noun; list level A1 (lists: noun A1, verb B2); british False; labels international,education
+present = презент   | first: identical; pos noun; list level A1 (lists: adj B1, noun A1, verb B2); british False; labels informal,other; note: Informal, only 'a gift'; the usual word is подарунок.
+sorry = сорі   | first: identical; pos interj; list level - (lists: adj A1); british False; labels slang,other; note: Slang; the standard word is вибачте / пробач.
+training = тренінг   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels business,education; note: A training course or workshop; sports training is тренування.
+design = дизайн   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,art
+interest = інтерес   | first: similar; pos -; list level - (lists: noun A2, verb B1); british False; labels -; note: No final -t; interest on money is відсотки.
+bank = банк   | first: identical; pos noun; list level A1 (lists: noun A1, verb A2); british False; labels international,finance; note: A financial bank; a river bank is берег.
+original = оригінал   | first: identical; pos noun; list level B2 (lists: adj A2, noun B2); british False; labels international,art; note: Noun: the original (document, artwork); the adjective is оригінальний.
+park = парк   | first: identical; pos noun; list level A0 (lists: noun A1, verb A2); british False; labels international,places
+press = прес   | first: identical; pos noun; list level B1 (lists: noun B1, verb B1); british False; labels international,other; note: A press (machine); informally also abs (abdominal muscles). The news press is преса.
+role = роль   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,art
+bill = білль   | first: identical; pos noun; list level A0 (lists: noun A2, verb B1); british False; labels politics,law; note: Old 1928–1933 spelling of білль.
+director = директор   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,people; note: Also a school principal; a film director is режисер.
+OK = ок   | first: identical; pos interj; list level A0 (lists: adj A1, adv A1); british False; labels informal,abbreviation,other; note: Short written form of окей.
+OK = окей   | first: identical; pos interj; list level A0 (lists: adj A1, adv A1); british False; labels informal,abbreviation,international,other
+production = продакшн   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels informal,media; note: Only film/video/music production (a production studio); production in general is виробництво.
+round = раунд   | first: identical; pos noun; list level B1 (lists: adj B1, adv A2, noun B1, prep B2, verb B2); british False; labels international,sport; note: A round in boxing, a game or talks; the shape 'round' is круглий.
+stand = стенд   | first: identical; pos noun; list level A1 (lists: noun A1, verb A2); british False; labels business; note: A display stand or exhibition booth; 'to stand' is стояти.
+child-free = чайлд-фрі   | first: identical; pos adj; list level - (lists: -); british False; labels informal,people
+drive = драйв   | first: identical; pos noun; list level A1 (lists: noun A1, verb A2); british False; labels informal,emotions; note: Energy, thrill, excitement; to drive a car is керувати (автомобілем).
+management = менеджмент   | first: identical; pos noun; list level B1 (lists: noun B1); british False; labels international,business
+match = матч   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,sport; note: Only a sports match; a matchstick is сірник.
+model = модель   | first: identical; pos noun; list level A2 (lists: adj B1, noun A2, verb B1); british False; labels international,other; note: A fashion model, a scale model or a version (model of a car).
+trust = трест   | first: partial_false_friend; pos -; list level - (lists: noun B2, verb A2); british False; labels -; note: трест = a business trust/conglomerate (dated, Soviet era); trust (confidence) is довіра.
+face control = фейсконтроль   | first: identical; pos noun; list level - (lists: -); british False; labels informal,places; note: Selective entry at nightclubs; the term is more common in Ukrainian than in English.
+hey = гей   | first: identical; pos interj; list level A2 (lists: interj A2); british False; labels informal,other; note: Also means 'gay'; in everyday speech ей is common too.
+page = паж   | first: partial_false_friend; pos -; list level - (lists: noun A1); british False; labels -; note: паж = page boy (historical servant) only; a book page is сторінка.
+character = характер   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,people; note: A person's nature or temper; a character in a story is персонаж.
+chief = шеф   | first: similar; pos -; list level - (lists: adj B1, noun B2); british False; labels -; note: From French chef, different vowel; шеф = boss (informal), also a chef (шеф-кухар).
+football = футбол   | first: identical; pos noun; list level A0 (lists: noun A1); british False; labels international,sport; note: Soccer; American football is американський футбол.
+style = стиль   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,art
+business plan = бізнес-план   | first: identical; pos noun; list level - (lists: -); british False; labels international,business
+lord = лорд   | first: identical; pos noun; list level - (lists: -); british False; labels people,politics; note: A British lord (title); the Lord (God) is Господь.
+title = титул   | first: partial_false_friend; pos -; list level - (lists: noun A2); british False; labels -; note: титул = title of nobility or a championship title; the title of a book or film is назва.
+article = артикль   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels technical,language; note: Only the grammar article (a, an, the); a newspaper article is стаття.
+French = френч   | first: false_friend; pos -; list level - (lists: -); british False; labels -; note: френч = a military-style jacket (named after Field Marshal John French); the French language is французька.
+release = реліз   | first: identical; pos noun; list level A2 (lists: noun A2, verb B1); british False; labels media,music; note: A new album, film or software release; also прес-реліз (press release). Release from prison is звільнення.
+website = вебсайт   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels tech; note: Also written веб-сайт (older spelling); often just сайт.
+code = код   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,tech; note: Program code, PIN code, secret code; a code of law is кодекс.
+code = кодекс   | first: similar; pos -; list level - (lists: noun A1); british False; labels -; note: кодекс = code of law or conduct (from Latin codex); program code is код.
+subject = суб'єкт   | first: partial_false_friend; pos -; list level - (lists: noun A1); british False; labels -; note: суб'єкт = subject in law/philosophy/grammar (a person or entity that acts); a topic = тема, a school subject = предмет
+train = трен   | first: partial_false_friend; pos -; list level - (lists: noun A1, verb A2); british False; labels -; note: трен = only the train of a dress (rare; usually шлейф); a railway train = поїзд
+wow = вау   | first: identical; pos interj; list level A0 (lists: -); british False; labels informal,emotions
+author = автор   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,people
+hotel = готель   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,travel
+lady = леді   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels people; note: used for English/titled ladies and перша леді (first lady); an ordinary woman = жінка, пані
+leader = лідер   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,people
+material = матеріал   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,other; note: only the noun; the adjective material = матеріальний
+plus = плюс   | first: identical; pos noun; list level B2 (lists: conj B1, noun B2, prep A2); british False; labels international,math; note: also in sums: два плюс два = two plus two
+product = продукт   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,business; note: the plural продукти also means groceries, food
+secretary = секретар   | first: similar; pos -; list level - (lists: noun A2); british False; labels -; note: no final -y sound (се-кре-тар)
+unit = юніт   | first: partial_false_friend; pos -; list level - (lists: noun A2); british False; labels -; note: юніт = only a unit in computer games (slang); a unit of measure = одиниця, a military unit = підрозділ
+bar = бар   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,places; note: a bar for drinks (also the unit of pressure); a metal bar = брусок, a chocolate bar = плитка
+contract = контракт   | first: identical; pos noun; list level B2 (lists: noun B2, verb C1); british False; labels international,business; note: only the noun; to contract (shrink) = скорочуватися
+image = імідж   | first: partial_false_friend; pos -; list level - (lists: noun A2); british False; labels -; note: імідж = only a public image (reputation); a picture = зображення, образ
+sport = спорт   | first: identical; pos noun; list level A0 (lists: noun A1); british False; labels international,sport; note: sports is the plural of sport
+master = майстер   | first: similar; pos -; list level - (lists: noun B2); british False; labels -; note: different vowel (from German Meister); майстер = craftsman, expert; master = owner is господар
+weekend = вікенд   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels time; note: уїк-енд is an old dictionary spelling; the usual spelling is вікенд
+cash = кеш   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels informal,finance; note: colloquial; the usual word is готівка; кеш also means a computer cache
+fan = фан   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels informal,people; note: only a fan (supporter), also фанат; an electric fan = вентилятор
+secret = секрет   | first: identical; pos noun; list level A2 (lists: adj B1, noun A2); british False; labels other; note: only the noun; the adjective secret = секретний
+senior = сеньйор   | first: partial_false_friend; pos -; list level - (lists: adj A2, noun A2); british False; labels -; note: сеньйор = a feudal lord or Spanish señor (in IT slang, a senior developer); older/higher in rank = старший
+analysis = аналіз   | first: similar; pos -; list level - (lists: noun B1); british False; labels -; note: no final -is
+color = колір   | first: similar; pos -; list level A0 (lists: noun A1, verb A1); british False; labels -; note: vowel o → і (plural кольори)
+finish = фініш   | first: identical; pos noun; list level A1 (lists: noun A1, verb A1); british False; labels sport; note: only the finish of a race (finish line); to finish = закінчувати
+grand = гранд   | first: false_friend; pos -; list level - (lists: adj B2); british False; labels -; note: гранд = a Spanish grandee or a top sports club; grand (great) = величний, грандіозний
+patient = пацієнт   | first: similar; pos -; list level - (lists: adj B1, noun A2); british False; labels -; note: plural of пацієнт; t read as ц (па-ці-єнт)
+skin = скін   | first: partial_false_friend; pos -; list level - (lists: noun B1); british False; labels -; note: скін = only a skin in games/apps or a skinhead (slang); body skin = шкіра
+congress = конгрес   | first: identical; pos noun; list level - (lists: -); british False; labels international,politics
+doctor = доктор   | first: identical; pos noun; list level A1 (lists: noun A1); british False; labels international,medicine; note: for a medical doctor Ukrainians usually say лікар; доктор is also the academic title
+gay = гей   | first: identical; pos noun; list level - (lists: adj B1); british False; labels international,people; note: in Ukrainian a noun (a gay man); the old exclamation гей! = hey!
+professor = професор   | first: identical; pos noun; list level B1 (lists: noun B1); british False; labels international,education
+captain = капітан   | first: similar; pos -; list level - (lists: noun A2); british False; labels -; note: extra і (ка-пі-тан)
+effect = ефект   | first: identical; pos noun; list level A2 (lists: noun A2); british False; labels international,other; note: plural of ефект
+block = блок   | first: identical; pos noun; list level A1 (lists: noun A1, verb B1); british False; labels international,other; note: also a political bloc; a city block = квартал
+Christian = християнин   | first: similar; pos -; list level - (lists: adj B1); british False; labels -; note: plural of християнин
+comment = коментар   | first: similar; pos -; list level - (lists: noun B1, verb B2); british False; labels -; note: ending -ар (from 'commentary')
+camera = камера   | first: identical; pos noun; list level A0 (lists: noun A1); british False; labels international,tech; note: also means a prison cell or a chamber; a photo camera is also фотоапарат
+foot = фут   | first: partial_false_friend; pos -; list level - (lists: noun B1); british False; labels -; note: фут = only the unit of length; the body part = стопа, нога
