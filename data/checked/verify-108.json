@@ -1,0 +1,931 @@
+[
+ {
+  "en": "matterhorn",
+  "uk": "матергорн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mckellen",
+  "uk": "маккеллен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moen",
+  "uk": "моен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "morgenstern",
+  "uk": "моргенштерн",
+  "v": "similar",
+  "ce": "morgenstern",
+  "cu": "моргенштерн",
+  "note": "English says 'st', not 'sht'; usually called 'morning star'."
+ },
+ {
+  "en": "nagorno",
+  "uk": "нагірно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "national bolshevism",
+  "uk": "націонал-більшовизм",
+  "v": "similar",
+  "ce": "National Bolshevism",
+  "cu": "націонал-більшовизм",
+  "note": "Root differs: bolshe- vs більшо-."
+ },
+ {
+  "en": "necropolis",
+  "uk": "некрополь",
+  "v": "similar",
+  "ce": "necropolis",
+  "cu": "некрополь",
+  "note": "English ends in -is."
+ },
+ {
+  "en": "nemanja",
+  "uk": "неманья",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nkrumah",
+  "uk": "нкрума",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nubia",
+  "uk": "нубія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "octavio",
+  "uk": "октавіо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "odometer",
+  "uk": "одометр",
+  "v": "identical",
+  "ce": "odometer",
+  "cu": "одометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "transport"
+  ],
+  "note": "British English also says 'mileometer'."
+ },
+ {
+  "en": "ohl",
+  "uk": "ол",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pabst",
+  "uk": "пабст",
+  "v": "proper_noun"
+ },
+ {
+  "en": "patriarchate",
+  "uk": "патріархат",
+  "v": "identical",
+  "ce": "patriarchate",
+  "cu": "патріархат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "politics"
+  ],
+  "note": "For the social system, English usually says 'patriarchy'; 'patriarchate' is mostly a church office or jurisdiction."
+ },
+ {
+  "en": "patriarchate",
+  "uk": "патріархату",
+  "v": "not_lemma",
+  "ce": "patriarchate",
+  "cu": "патріархат",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion",
+   "politics"
+  ],
+  "note": "For the social system, English usually says 'patriarchy'; 'patriarchate' is mostly a church office or jurisdiction."
+ },
+ {
+  "en": "pindar",
+  "uk": "піндар",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pva",
+  "uk": "пва",
+  "v": "identical",
+  "ce": "PVA",
+  "cu": "ПВА",
+  "pos": "abbr",
+  "br": false,
+  "lab": [
+   "abbreviation",
+   "chemistry",
+   "home"
+  ],
+  "note": "Short for polyvinyl acetate; 'PVA glue' is white craft/wood glue."
+ },
+ {
+  "en": "quartzite",
+  "uk": "кварцит",
+  "v": "identical",
+  "ce": "quartzite",
+  "cu": "кварцит",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "science"
+  ],
+  "note": ""
+ },
+ {
+  "en": "rabi",
+  "uk": "рабі",
+  "v": "unrelated"
+ },
+ {
+  "en": "rak",
+  "uk": "рак",
+  "v": "unrelated"
+ },
+ {
+  "en": "rinpoche",
+  "uk": "рінпоче",
+  "v": "identical",
+  "ce": "rinpoche",
+  "cu": "рінпоче",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "religion"
+  ],
+  "note": "Usually written with a capital letter as a title after a name."
+ },
+ {
+  "en": "sceptics",
+  "uk": "скептики",
+  "v": "not_lemma",
+  "ce": "skeptic",
+  "cu": "скептик",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people"
+  ],
+  "note": "British spelling: sceptic."
+ },
+ {
+  "en": "scylla",
+  "uk": "скілла",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shamanism",
+  "uk": "шаманізм",
+  "v": "identical",
+  "ce": "shamanism",
+  "cu": "шаманізм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "shivaji",
+  "uk": "шиваджі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shlomo",
+  "uk": "шломо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sucre",
+  "uk": "сукре",
+  "v": "identical",
+  "ce": "sucre",
+  "cu": "сукре",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "finance"
+  ],
+  "note": "The former currency of Ecuador (replaced by the US dollar in 2000)."
+ },
+ {
+  "en": "tannin",
+  "uk": "танін",
+  "v": "identical",
+  "ce": "tannin",
+  "cu": "танін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tannin",
+  "uk": "таніни",
+  "v": "not_lemma",
+  "ce": "tannin",
+  "cu": "танін",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "tantalum",
+  "uk": "тантал",
+  "v": "similar",
+  "ce": "tantalum",
+  "cu": "тантал",
+  "note": "English ends in -um."
+ },
+ {
+  "en": "tonality",
+  "uk": "тональність",
+  "v": "similar",
+  "ce": "tonality",
+  "cu": "тональність",
+  "note": "Different suffix: -ity vs -ність."
+ },
+ {
+  "en": "vig",
+  "uk": "віг",
+  "v": "unrelated"
+ },
+ {
+  "en": "viggo",
+  "uk": "вігго",
+  "v": "proper_noun"
+ },
+ {
+  "en": "vma",
+  "uk": "вма",
+  "v": "unrelated"
+ },
+ {
+  "en": "wey",
+  "uk": "вей",
+  "v": "unrelated"
+ },
+ {
+  "en": "witte",
+  "uk": "вітте",
+  "v": "proper_noun"
+ },
+ {
+  "en": "yosef",
+  "uk": "йосеф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zambezi",
+  "uk": "замбезі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "zor",
+  "uk": "зор",
+  "v": "unrelated"
+ },
+ {
+  "en": "abbe",
+  "uk": "аббе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "acetylene",
+  "uk": "ацетилен",
+  "v": "identical",
+  "ce": "acetylene",
+  "cu": "ацетилен",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "acidosis",
+  "uk": "ацидоз",
+  "v": "similar",
+  "ce": "acidosis",
+  "cu": "ацидоз",
+  "note": "English ends in -osis."
+ },
+ {
+  "en": "alkaloid",
+  "uk": "алкалоїд",
+  "v": "identical",
+  "ce": "alkaloid",
+  "cu": "алкалоїд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "alkaloid",
+  "uk": "алкалоїди",
+  "v": "not_lemma",
+  "ce": "alkaloid",
+  "cu": "алкалоїд",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "amano",
+  "uk": "амано",
+  "v": "proper_noun"
+ },
+ {
+  "en": "amide",
+  "uk": "аміди",
+  "v": "not_lemma",
+  "ce": "amide",
+  "cu": "амід",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "astronautics",
+  "uk": "астронавтики",
+  "v": "not_lemma",
+  "ce": "astronautics",
+  "cu": "астронавтика",
+  "lv": "similar",
+  "note": "Ukrainian adds -а; English -ics."
+ },
+ {
+  "en": "atb",
+  "uk": "атб",
+  "v": "unrelated"
+ },
+ {
+  "en": "barroso",
+  "uk": "баррозу",
+  "v": "proper_noun"
+ },
+ {
+  "en": "benelux",
+  "uk": "бенілюкс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bishkek",
+  "uk": "бішкек",
+  "v": "proper_noun"
+ },
+ {
+  "en": "borisov",
+  "uk": "борисов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brabant",
+  "uk": "брабант",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bromine",
+  "uk": "бромний",
+  "v": "not_lemma",
+  "ce": "bromine",
+  "cu": "бром",
+  "lv": "similar",
+  "note": "English ends in -ine."
+ },
+ {
+  "en": "bure",
+  "uk": "бюр",
+  "v": "unrelated"
+ },
+ {
+  "en": "camara",
+  "uk": "камара",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cantata",
+  "uk": "кантата",
+  "v": "identical",
+  "ce": "cantata",
+  "cu": "кантата",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "music"
+  ],
+  "note": ""
+ },
+ {
+  "en": "carli",
+  "uk": "карлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cespedes",
+  "uk": "сеспедес",
+  "v": "proper_noun"
+ },
+ {
+  "en": "charon",
+  "uk": "харон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chartreuse",
+  "uk": "шартрез",
+  "v": "identical",
+  "ce": "chartreuse",
+  "cu": "шартрез",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "drinks"
+  ],
+  "note": "Also the name of a yellowish-green color."
+ },
+ {
+  "en": "colter",
+  "uk": "колтер",
+  "v": "unrelated"
+ },
+ {
+  "en": "cruyff",
+  "uk": "кройф",
+  "v": "proper_noun"
+ },
+ {
+  "en": "culkin",
+  "uk": "калкін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "cyanobacteria",
+  "uk": "ціанобактерії",
+  "v": "not_lemma",
+  "ce": "cyanobacterium",
+  "cu": "ціанобактерія",
+  "lv": "similar",
+  "note": "English singular ends in -um; plural cyanobacteria."
+ },
+ {
+  "en": "dato",
+  "uk": "дато",
+  "v": "proper_noun"
+ },
+ {
+  "en": "duopoly",
+  "uk": "дуополія",
+  "v": "similar",
+  "ce": "duopoly",
+  "cu": "дуополія",
+  "note": "Ukrainian adds -ія."
+ },
+ {
+  "en": "epicentre",
+  "uk": "епіцентр",
+  "v": "identical",
+  "ce": "epicenter",
+  "cu": "епіцентр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "science",
+   "nature"
+  ],
+  "note": "British spelling: epicentre. Also used figuratively: the center of any activity."
+ },
+ {
+  "en": "filo",
+  "uk": "філо",
+  "v": "identical",
+  "ce": "phyllo",
+  "cu": "філо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "food"
+  ],
+  "note": "Also spelled 'filo' (British); usually 'phyllo dough' or 'filo pastry'."
+ },
+ {
+  "en": "fop",
+  "uk": "фоп",
+  "v": "unrelated"
+ },
+ {
+  "en": "forme",
+  "uk": "форме",
+  "v": "not_lemma",
+  "ce": "form",
+  "cu": "форма",
+  "lv": "similar",
+  "note": "'Forme' is an obsolete spelling of 'form'; Ukrainian adds -а."
+ },
+ {
+  "en": "forsberg",
+  "uk": "форсберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "freese",
+  "uk": "фріз",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hakan",
+  "uk": "хакан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hockney",
+  "uk": "гокні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hosni",
+  "uk": "хосні",
+  "v": "proper_noun"
+ },
+ {
+  "en": "humorist",
+  "uk": "гуморист",
+  "v": "identical",
+  "ce": "humorist",
+  "cu": "гуморист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "art"
+  ],
+  "note": "British spelling: humourist."
+ },
+ {
+  "en": "humorist",
+  "uk": "гумористка",
+  "v": "not_lemma",
+  "ce": "humorist",
+  "cu": "гуморист",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "art"
+  ],
+  "note": "British spelling: humourist."
+ },
+ {
+  "en": "idyll",
+  "uk": "ідилія",
+  "v": "similar",
+  "ce": "idyll",
+  "cu": "ідилія",
+  "note": "Ukrainian adds -ія."
+ },
+ {
+  "en": "illusionist",
+  "uk": "ілюзіоніст",
+  "v": "identical",
+  "ce": "illusionist",
+  "cu": "ілюзіоніст",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "people",
+   "art"
+  ],
+  "note": ""
+ },
+ {
+  "en": "indium",
+  "uk": "індій",
+  "v": "similar",
+  "ce": "indium",
+  "cu": "індій",
+  "note": "English ends in -ium."
+ },
+ {
+  "en": "integrations",
+  "uk": "інтеграції",
+  "v": "not_lemma",
+  "ce": "integration",
+  "cu": "інтеграція",
+  "lv": "similar",
+  "note": "Different suffix: -tion vs -ція."
+ },
+ {
+  "en": "joule",
+  "uk": "джоуль",
+  "v": "identical",
+  "ce": "joule",
+  "cu": "джоуль",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "units",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "kikuyu",
+  "uk": "кікуйю",
+  "v": "proper_noun"
+ },
+ {
+  "en": "koa",
+  "uk": "коа",
+  "v": "unrelated"
+ },
+ {
+  "en": "kony",
+  "uk": "коні",
+  "v": "unrelated"
+ },
+ {
+  "en": "landes",
+  "uk": "ланд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lasse",
+  "uk": "лассе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leckie",
+  "uk": "лекі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "macrophage",
+  "uk": "макрофаги",
+  "v": "not_lemma",
+  "ce": "macrophage",
+  "cu": "макрофаг",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mahayana",
+  "uk": "махаяна",
+  "v": "identical",
+  "ce": "Mahayana",
+  "cu": "махаяна",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Written with a capital letter in English."
+ },
+ {
+  "en": "mariel",
+  "uk": "маріель",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marionette",
+  "uk": "маріонетка",
+  "v": "similar",
+  "ce": "marionette",
+  "cu": "маріонетка",
+  "note": "Ukrainian adds -ка."
+ },
+ {
+  "en": "microcontroller",
+  "uk": "мікроконтролер",
+  "v": "identical",
+  "ce": "microcontroller",
+  "cu": "мікроконтролер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "tech"
+  ],
+  "note": ""
+ },
+ {
+  "en": "mitterrand",
+  "uk": "міттеран",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moca",
+  "uk": "мока",
+  "v": "unrelated"
+ },
+ {
+  "en": "morte",
+  "uk": "морт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mukhtar",
+  "uk": "мухтар",
+  "v": "identical",
+  "ce": "mukhtar",
+  "cu": "мухтар",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "people",
+   "politics"
+  ],
+  "note": "A village or neighborhood head in Arab countries, Turkey and Cyprus."
+ },
+ {
+  "en": "neruda",
+  "uk": "неруда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "olli",
+  "uk": "оллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ondo",
+  "uk": "ондо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orlov",
+  "uk": "орлов",
+  "v": "proper_noun"
+ },
+ {
+  "en": "orly",
+  "uk": "орлі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "oud",
+  "uk": "УД",
+  "v": "unrelated"
+ },
+ {
+  "en": "oud",
+  "uk": "ауд",
+  "v": "unrelated"
+ },
+ {
+  "en": "oud",
+  "uk": "уд",
+  "v": "identical",
+  "ce": "oud",
+  "cu": "уд",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "music"
+  ],
+  "note": "Also spelled 'ud'."
+ },
+ {
+  "en": "phoneme",
+  "uk": "фонема",
+  "v": "similar",
+  "ce": "phoneme",
+  "cu": "фонема",
+  "note": "Ukrainian adds -а."
+ },
+ {
+  "en": "plebeian",
+  "uk": "плебей",
+  "v": "similar",
+  "ce": "plebeian",
+  "cu": "плебей",
+  "note": "English ends in -ian; also an adjective."
+ },
+ {
+  "en": "prefectural",
+  "uk": "префектурний",
+  "v": "similar",
+  "ce": "prefectural",
+  "cu": "префектурний",
+  "note": "Ukrainian adjective ending -ний."
+ },
+ {
+  "en": "prichard",
+  "uk": "прічард",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ramiro",
+  "uk": "раміро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rayo",
+  "uk": "райо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reuter",
+  "uk": "рейтер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "rockport",
+  "uk": "рокпорт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "roden",
+  "uk": "роден",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ryback",
+  "uk": "рибак",
+  "v": "unrelated"
+ },
+ {
+  "en": "sapper",
+  "uk": "сапер",
+  "v": "identical",
+  "ce": "sapper",
+  "cu": "сапер",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "military",
+   "people"
+  ],
+  "note": "In American English the usual term is 'combat engineer'."
+ },
+ {
+  "en": "sherbrooke",
+  "uk": "шербрук",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shigeru",
+  "uk": "сігеру",
+  "v": "proper_noun"
+ }
+]

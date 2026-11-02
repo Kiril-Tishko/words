@@ -1,0 +1,809 @@
+[
+ {
+  "en": "kirill",
+  "uk": "кирило",
+  "v": "proper_noun"
+ },
+ {
+  "en": "klee",
+  "uk": "клее",
+  "v": "proper_noun"
+ },
+ {
+  "en": "knut",
+  "uk": "кнут",
+  "v": "unrelated"
+ },
+ {
+  "en": "kwai",
+  "uk": "квай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lech",
+  "uk": "лех",
+  "v": "unrelated"
+ },
+ {
+  "en": "liaoning",
+  "uk": "ляонін",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lich",
+  "uk": "ліч",
+  "v": "unrelated"
+ },
+ {
+  "en": "limpopo",
+  "uk": "лімпопо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lombok",
+  "uk": "ломбок",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marat",
+  "uk": "марат",
+  "v": "proper_noun"
+ },
+ {
+  "en": "maz",
+  "uk": "маз",
+  "v": "unrelated"
+ },
+ {
+  "en": "mertens",
+  "uk": "мертенс",
+  "v": "proper_noun"
+ },
+ {
+  "en": "misa",
+  "uk": "міса",
+  "v": "unrelated"
+ },
+ {
+  "en": "montezuma",
+  "uk": "монтесума",
+  "v": "proper_noun"
+ },
+ {
+  "en": "noma",
+  "uk": "нома",
+  "v": "identical",
+  "ce": "noma",
+  "cu": "нома",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "medicine"
+  ],
+  "note": ""
+ },
+ {
+  "en": "oratorio",
+  "uk": "ораторія",
+  "v": "similar",
+  "ce": "oratorio",
+  "cu": "ораторія",
+  "note": "Ukrainian ends in -ія"
+ },
+ {
+  "en": "pardo",
+  "uk": "пардо",
+  "v": "proper_noun"
+ },
+ {
+  "en": "petrograd",
+  "uk": "петроград",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pickford",
+  "uk": "пікфорд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pizarro",
+  "uk": "пісарро",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pnr",
+  "uk": "пнр",
+  "v": "unrelated"
+ },
+ {
+  "en": "polycarbonate",
+  "uk": "полікарбонат",
+  "v": "identical",
+  "ce": "polycarbonate",
+  "cu": "полікарбонат",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "publican",
+  "uk": "публікани",
+  "v": "not_lemma",
+  "ce": "publican",
+  "cu": "публікан",
+  "lv": "partial_false_friend",
+  "note": "In English mainly the owner of a pub (British); 'tax collector' only in the Bible"
+ },
+ {
+  "en": "ranieri",
+  "uk": "раньєрі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ratner",
+  "uk": "ратнер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "reticulum",
+  "uk": "ретикулум",
+  "v": "identical",
+  "ce": "reticulum",
+  "cu": "ретикулум",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "biology"
+  ],
+  "note": "Plural: reticula. Mostly in 'endoplasmic reticulum'."
+ },
+ {
+  "en": "roca",
+  "uk": "рока",
+  "v": "unrelated"
+ },
+ {
+  "en": "rolland",
+  "uk": "роллан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sambo",
+  "uk": "самбо",
+  "v": "identical",
+  "ce": "sambo",
+  "cu": "самбо",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "sport"
+  ],
+  "note": "Careful: 'sambo' is also an offensive racial slur in English; the sport is often written Sambo or SAMBO."
+ },
+ {
+  "en": "sangria",
+  "uk": "сангрія",
+  "v": "identical",
+  "ce": "sangria",
+  "cu": "сангрія",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": ""
+ },
+ {
+  "en": "selene",
+  "uk": "селена",
+  "v": "proper_noun"
+ },
+ {
+  "en": "shura",
+  "uk": "шура",
+  "v": "unrelated"
+ },
+ {
+  "en": "sila",
+  "uk": "сіла",
+  "v": "unrelated"
+ },
+ {
+  "en": "sublimation",
+  "uk": "сублімація",
+  "v": "similar",
+  "ce": "sublimation",
+  "cu": "сублімація",
+  "note": "Ukrainian ends in -ація"
+ },
+ {
+  "en": "tashkent",
+  "uk": "ташкент",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tirana",
+  "uk": "тирана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "tma",
+  "uk": "тма",
+  "v": "unrelated"
+ },
+ {
+  "en": "tobruk",
+  "uk": "тобрук",
+  "v": "proper_noun"
+ },
+ {
+  "en": "transmembrane",
+  "uk": "трансмембранні",
+  "v": "not_lemma",
+  "ce": "transmembrane",
+  "cu": "трансмембранний",
+  "lv": "similar",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "tsarist",
+  "uk": "царист",
+  "v": "identical",
+  "ce": "tsarist",
+  "cu": "царист",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "More often an adjective in English: tsarist Russia."
+ },
+ {
+  "en": "tsarist",
+  "uk": "царистка",
+  "v": "not_lemma",
+  "ce": "tsarist",
+  "cu": "царист",
+  "lv": "identical",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "rare",
+   "politics"
+  ],
+  "note": "More often an adjective in English: tsarist Russia."
+ },
+ {
+  "en": "vella",
+  "uk": "велья",
+  "v": "proper_noun"
+ },
+ {
+  "en": "veronika",
+  "uk": "вероніка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "wittenberg",
+  "uk": "віттенберг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "abidjan",
+  "uk": "абіджан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "actuary",
+  "uk": "актуарій",
+  "v": "similar",
+  "ce": "actuary",
+  "cu": "актуарій",
+  "note": "Ukrainian ends in -ій"
+ },
+ {
+  "en": "agostino",
+  "uk": "агостіно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "anaphylactic",
+  "uk": "анафілактичний",
+  "v": "similar",
+  "ce": "anaphylactic",
+  "cu": "анафілактичний",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "anaphylactic shock",
+  "uk": "анафілактичний шок",
+  "v": "similar",
+  "ce": "anaphylactic shock",
+  "cu": "анафілактичний шок",
+  "note": "Ukrainian adjective ending -ний"
+ },
+ {
+  "en": "archon",
+  "uk": "архонт",
+  "v": "similar",
+  "ce": "archon",
+  "cu": "архонт",
+  "note": "Ukrainian adds -т"
+ },
+ {
+  "en": "arrondissement",
+  "uk": "арондісман",
+  "v": "identical",
+  "ce": "arrondissement",
+  "cu": "арондисман",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "places"
+  ],
+  "note": "Used for districts of French cities, e.g. Paris."
+ },
+ {
+  "en": "azkaban",
+  "uk": "азкабану",
+  "v": "proper_noun"
+ },
+ {
+  "en": "badr",
+  "uk": "бадр",
+  "v": "proper_noun"
+ },
+ {
+  "en": "barret",
+  "uk": "барре",
+  "v": "unrelated"
+ },
+ {
+  "en": "bata",
+  "uk": "бата",
+  "v": "unrelated"
+ },
+ {
+  "en": "bem",
+  "uk": "бем",
+  "v": "unrelated"
+ },
+ {
+  "en": "blackmore",
+  "uk": "блекмор",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brien",
+  "uk": "браєн",
+  "v": "proper_noun"
+ },
+ {
+  "en": "brno",
+  "uk": "брно",
+  "v": "proper_noun"
+ },
+ {
+  "en": "bundestag",
+  "uk": "бундестаг",
+  "v": "proper_noun"
+ },
+ {
+  "en": "canonization",
+  "uk": "канонізація",
+  "v": "similar",
+  "ce": "canonization",
+  "cu": "канонізація",
+  "note": "Ukrainian ends in -ація"
+ },
+ {
+  "en": "cavanagh",
+  "uk": "кавана",
+  "v": "proper_noun"
+ },
+ {
+  "en": "chianti",
+  "uk": "к'янті",
+  "v": "identical",
+  "ce": "chianti",
+  "cu": "к'янті",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "drinks"
+  ],
+  "note": "Often written with a capital: Chianti."
+ },
+ {
+  "en": "christiansen",
+  "uk": "крістіансен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "conchita",
+  "uk": "кончіта",
+  "v": "proper_noun"
+ },
+ {
+  "en": "dench",
+  "uk": "денч",
+  "v": "proper_noun"
+ },
+ {
+  "en": "egbert",
+  "uk": "егберт",
+  "v": "proper_noun"
+ },
+ {
+  "en": "ehud",
+  "uk": "егуд",
+  "v": "proper_noun"
+ },
+ {
+  "en": "errata",
+  "uk": "еррата",
+  "v": "identical",
+  "ce": "errata",
+  "cu": "ерата",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "media"
+  ],
+  "note": "Plural of erratum; also used for the list of errors itself."
+ },
+ {
+  "en": "fernand",
+  "uk": "фернан",
+  "v": "proper_noun"
+ },
+ {
+  "en": "filipe",
+  "uk": "філіпе",
+  "v": "proper_noun"
+ },
+ {
+  "en": "fon",
+  "uk": "фон",
+  "v": "unrelated"
+ },
+ {
+  "en": "gerontology",
+  "uk": "геронтологія",
+  "v": "similar",
+  "ce": "gerontology",
+  "cu": "геронтологія",
+  "note": "Ukrainian ends in -ія"
+ },
+ {
+  "en": "glutamine",
+  "uk": "глутамін",
+  "v": "identical",
+  "ce": "glutamine",
+  "cu": "глутамін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "glutamine",
+  "uk": "глютамін",
+  "v": "identical",
+  "ce": "glutamine",
+  "cu": "глутамін",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "chemistry"
+  ],
+  "note": ""
+ },
+ {
+  "en": "helmer",
+  "uk": "гельмер",
+  "v": "proper_noun"
+ },
+ {
+  "en": "hippocrates",
+  "uk": "гіппократ",
+  "v": "proper_noun"
+ },
+ {
+  "en": "iloilo",
+  "uk": "ілоїло",
+  "v": "proper_noun"
+ },
+ {
+  "en": "interferometer",
+  "uk": "інтерферометр",
+  "v": "identical",
+  "ce": "interferometer",
+  "cu": "інтерферометр",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "physics"
+  ],
+  "note": ""
+ },
+ {
+  "en": "julianna",
+  "uk": "джуліанна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kamil",
+  "uk": "каміл",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kamil",
+  "uk": "каміль",
+  "v": "proper_noun"
+ },
+ {
+  "en": "karna",
+  "uk": "карна",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kiribati",
+  "uk": "кірибаті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "klitschko",
+  "uk": "кличко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "knudsen",
+  "uk": "кнудсен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "kogan",
+  "uk": "коган",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lamy",
+  "uk": "ламі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leda",
+  "uk": "леда",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lemmon",
+  "uk": "леммон",
+  "v": "proper_noun"
+ },
+ {
+  "en": "leonora",
+  "uk": "леонора",
+  "v": "proper_noun"
+ },
+ {
+  "en": "lumumba",
+  "uk": "лумумба",
+  "v": "proper_noun"
+ },
+ {
+  "en": "malkovich",
+  "uk": "малкович",
+  "v": "proper_noun"
+ },
+ {
+  "en": "marika",
+  "uk": "маріка",
+  "v": "proper_noun"
+ },
+ {
+  "en": "mato",
+  "uk": "мато",
+  "v": "proper_noun"
+ },
+ {
+  "en": "methodism",
+  "uk": "методизм",
+  "v": "identical",
+  "ce": "Methodism",
+  "cu": "методизм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "religion"
+  ],
+  "note": "Written with a capital M."
+ },
+ {
+  "en": "metrology",
+  "uk": "метрології",
+  "v": "not_lemma",
+  "ce": "metrology",
+  "cu": "метрологія",
+  "lv": "similar",
+  "note": "Ukrainian ends in -ія"
+ },
+ {
+  "en": "mirna",
+  "uk": "мирна",
+  "v": "unrelated"
+ },
+ {
+  "en": "monotheism",
+  "uk": "монотеїзм",
+  "v": "identical",
+  "ce": "monotheism",
+  "cu": "монотеїзм",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "religion"
+  ],
+  "note": ""
+ },
+ {
+  "en": "monti",
+  "uk": "монті",
+  "v": "proper_noun"
+ },
+ {
+  "en": "moravia",
+  "uk": "моравія",
+  "v": "proper_noun"
+ },
+ {
+  "en": "morelli",
+  "uk": "мореллі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "motte",
+  "uk": "мотт",
+  "v": "unrelated"
+ },
+ {
+  "en": "narcolepsy",
+  "uk": "нарколепсія",
+  "v": "similar",
+  "ce": "narcolepsy",
+  "cu": "нарколепсія",
+  "note": "Ukrainian ends in -ія"
+ },
+ {
+  "en": "niven",
+  "uk": "нівен",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nostradamus",
+  "uk": "нострадамус",
+  "v": "proper_noun"
+ },
+ {
+  "en": "nowitzki",
+  "uk": "новіцкі",
+  "v": "proper_noun"
+ },
+ {
+  "en": "pareto",
+  "uk": "парето",
+  "v": "proper_noun"
+ },
+ {
+  "en": "poutine",
+  "uk": "путин",
+  "v": "unrelated"
+ },
+ {
+  "en": "poutine",
+  "uk": "путін",
+  "v": "unrelated"
+ },
+ {
+  "en": "renaud",
+  "uk": "рено",
+  "v": "proper_noun"
+ },
+ {
+  "en": "riba",
+  "uk": "ріба",
+  "v": "unrelated"
+ },
+ {
+  "en": "sakai",
+  "uk": "сакаї",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sceptic",
+  "uk": "скептик",
+  "v": "identical",
+  "ce": "skeptic",
+  "cu": "скептик",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "international",
+   "people"
+  ],
+  "note": "British spelling: sceptic."
+ },
+ {
+  "en": "selim",
+  "uk": "селім",
+  "v": "proper_noun"
+ },
+ {
+  "en": "seraphim",
+  "uk": "серафим",
+  "v": "identical",
+  "ce": "seraphim",
+  "cu": "серафим",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "archaic",
+   "religion"
+  ],
+  "note": "Usually the plural of 'seraph'; as a singular it is archaic."
+ },
+ {
+  "en": "shai",
+  "uk": "шай",
+  "v": "proper_noun"
+ },
+ {
+  "en": "sherbet",
+  "uk": "шербет",
+  "v": "partial_false_friend",
+  "ce": "sherbet",
+  "cu": "шербет",
+  "note": "In English mainly a frozen fruit dessert (US) or a fizzy sweet powder (UK)"
+ },
+ {
+  "en": "sissoko",
+  "uk": "сіссоко",
+  "v": "proper_noun"
+ },
+ {
+  "en": "taxon",
+  "uk": "таксон",
+  "v": "identical",
+  "ce": "taxon",
+  "cu": "таксон",
+  "pos": "noun",
+  "br": false,
+  "lab": [
+   "technical",
+   "international",
+   "biology"
+  ],
+  "note": "Plural: taxa."
+ }
+]
