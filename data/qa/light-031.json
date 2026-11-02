@@ -1,0 +1,1432 @@
+{
+ "pop filter": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "image maker": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": "Rare; \"image consultant\" is more common."
+ },
+ "spencer": {
+  "v": "keep",
+  "s": 1,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Most often \"Spencer\" is a surname; a spencer is a short, old-style jacket."
+ },
+ "rope jumping": {
+  "v": "partial_false_friend",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"rope jumping\" means skipping with a jump rope."
+ },
+ "acute": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"acute\" is an adjective: \"acute pain\" (very strong). The mark is an \"acute accent\"."
+ },
+ "maxwell": {
+  "v": "keep",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"Maxwell\" is a name; the maxwell is an old unit of magnetic flux."
+ },
+ "amelia": {
+  "v": "keep",
+  "s": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"Amelia\" is a girl's name; as a medical term it means a missing limb."
+ },
+ "lambert": {
+  "v": "keep",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A lambert is an old unit for measuring brightness.",
+   "Scientists rarely use the lambert today.",
+   "The old book gives the screen brightness in lamberts.",
+   "Convert the value from lamberts to modern units."
+  ],
+  "note": "Most often \"Lambert\" is a surname; the lambert is an old unit of brightness."
+ },
+ "definitive": {
+  "v": "partial_false_friend",
+  "s": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"definitive\" is an adjective: \"a definitive answer\" (final, certain)."
+ },
+ "vice-regent": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Rare and formal word."
+ },
+ "rubin": {
+  "v": "not_english",
+  "s": 1,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; the normal word is \"ruby.\""
+ },
+ "cross-docking": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "taxis": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Science term; in everyday English \"taxis\" means cars for hire."
+ },
+ "alba": {
+  "v": "keep",
+  "s": 1,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "A rare literary term."
+ },
+ "cicero": {
+  "v": "keep",
+  "s": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Rare technical word; most people use \"points\" or \"picas\"."
+ },
+ "eclectic": {
+  "v": "keep",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "note": "Rare as a noun; usually an adjective: \"eclectic taste.\""
+ },
+ "augment": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"augment\" is a verb meaning \"to make bigger\": \"augment your income\"."
+ },
+ "permeate": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In English this is usually a verb: \"the smell permeated the room\"."
+ },
+ "reforming": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"reforming\" is a form of the verb \"reform\" (to change for the better)."
+ },
+ "endemic": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "As a noun it's technical; usually \"endemic species.\""
+ },
+ "aba": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "equatorial": {
+  "v": "keep",
+  "s": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually an adjective, as in \"equatorial mount\"."
+ },
+ "scholastic": {
+  "v": "keep",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "note": "Rare as a noun; usually an adjective meaning \"related to school\"."
+ },
+ "volta": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cross-assembler": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "siemens": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural is also \"siemens.\""
+ },
+ "capping": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"capping\" means putting a limit on something: \"capping prices\"."
+ },
+ "extra brut": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "seton": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hamada": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "va-banque": {
+  "v": "not_english",
+  "pm": 0.01,
+  "reg": [],
+  "ns": false,
+  "note": "Not used in English; say \"go all in\"."
+ },
+ "mezzo-forte": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "renaming": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"renaming\" means giving anything a new name: \"the renaming of a street\"."
+ },
+ "insolvent": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "consequent": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"consequent\" is an adjective meaning \"resulting\": \"the consequent delay\"."
+ },
+ "recombinant": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "egocentric": {
+  "v": "keep",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "note": "Usually an adjective: \"He is very egocentric.\""
+ },
+ "reiter": {
+  "v": "keep",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "muffle": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"muffle\" is a verb meaning \"to make a sound quieter\"."
+ },
+ "tilbury": {
+  "v": "keep",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "telluride": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aureus": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural: aurei."
+ },
+ "sublimate": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Semitism": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The word \"amen\" is a Semitism in English.",
+   "Scholars found a Semitism in the Greek text.",
+   "This Semitism comes from Hebrew grammar.",
+   "Each Semitism in the old book shows Hebrew influence."
+  ],
+  "note": "Rare word; do not confuse with \"anti-Semitism.\""
+ },
+ "forfeiting": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"forfeiting\" is a form of \"forfeit\": to lose something as a penalty."
+ },
+ "trapezoid": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "In British English, a trapezoid has no parallel sides.",
+   "This trapezoid has four sides of different lengths.",
+   "None of the sides of this trapezoid are parallel.",
+   "Draw a trapezoid with no parallel sides."
+  ],
+  "note": "In American English a \"trapezoid\" has one pair of parallel sides."
+ },
+ "rudiment": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"rudiments\" means the basics: \"the rudiments of grammar\"."
+ },
+ "lamer": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Informal slang; \"noob\" is more common today."
+ },
+ "pi-meson": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "etoile": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "extensional": {
+  "v": "not_english",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "alfresco": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"alfresco\" means outdoors: \"We ate alfresco.\""
+ },
+ "berkut": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fulminate": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"fulminate\" is a verb meaning \"to protest angrily\"."
+ },
+ "iterative": {
+  "v": "keep",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "An iterative is a verb form that shows a repeated action.",
+   "Some languages have a special iterative for repeated actions.",
+   "The teacher explained the iterative with examples.",
+   "In this language, you add a suffix to make an iterative."
+  ],
+  "note": "Usually an adjective: \"an iterative process\" (repeated steps)."
+ },
+ "unfollow": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "She got a lot of unfollows after the post.",
+   "One unfollow is not a big problem.",
+   "His joke caused a wave of unfollows.",
+   "The app does not tell you about each unfollow."
+  ],
+  "note": "Mostly used as a verb: \"to unfollow someone\"."
+ },
+ "tanga": {
+  "v": "keep",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quadruplet": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"quadruplets\" are four babies born at the same time."
+ },
+ "reformat": {
+  "v": "false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Mostly a verb: \"reformat the hard drive\"."
+ },
+ "numerator": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The office uses a numerator to stamp numbers on tickets.",
+   "Set the numerator to start at one hundred.",
+   "This numerator prints a new number on each page.",
+   "The bank clerk stamped the form with a numerator."
+  ],
+  "note": "Most often \"numerator\" means the top number in a fraction: \"In 3/4, the numerator is 3.\""
+ },
+ "carbonite": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "peripatetic": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"peripatetic\" is an adjective: moving from place to place."
+ },
+ "melange": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"melange\" means a mixture: \"a melange of styles\"."
+ },
+ "tuco-tuco": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hydroplane": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "The hydroplane landed on the calm lake.",
+   "A hydroplane can take off from water.",
+   "Old photos show a hydroplane near the harbor.",
+   "The pilot flew the hydroplane to the island."
+  ],
+  "note": "Today \"hydroplane\" usually means a fast racing boat; a plane on water is a \"seaplane\"."
+ },
+ "performative": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Wyandotte": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arba": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quadrate": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "Rare; the normal word is \"square\"."
+ },
+ "conto": {
+  "v": "false_friend",
+  "s": 15,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "leveler": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A leveler wanted equal rights for all men in England.",
+   "The levelers asked for votes for ordinary people.",
+   "The leveler wrote pamphlets about freedom.",
+   "Historians still study what each leveler believed."
+  ],
+  "note": "Most often \"leveler\" means something that makes people equal: \"Death is the great leveler.\""
+ },
+ "doyen": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "The doyen of the diplomatic corps spoke for all ambassadors.",
+   "He is the doyen of the diplomatic corps in Kyiv.",
+   "The doyen welcomed the new ambassador to the country.",
+   "As the longest-serving ambassador, he became the doyen."
+  ],
+  "note": "Most often \"doyen\" means the most respected older member of any group."
+ },
+ "molla": {
+  "v": "not_english",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "note": "The English word is \"mullah\"."
+ },
+ "femina": {
+  "v": "not_english",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "holograph": {
+  "v": "not_standard_ukrainian",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "amphitryon": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "Very rare and literary; \"host\" is the everyday word."
+ },
+ "diamant": {
+  "v": "not_english",
+  "s": 20,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "Rare; the normal English word is \"diamond\"."
+ },
+ "disjunct": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "shahi": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ultramodern": {
+  "v": "not_english",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "note": "Only an adjective in English: \"an ultramodern building\"."
+ },
+ "neo-Darwinist": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "attributive": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "extremal": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ergative": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "syrinx": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "wobbler": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "In American English this lure is often called a \"crankbait\"."
+ },
+ "triplex": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"triplex\" is a building with three apartments."
+ },
+ "subito": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Play this note subito piano, suddenly soft.",
+   "The music gets loud subito in the last bar.",
+   "The score says subito forte here.",
+   "Change the volume subito, not slowly."
+  ],
+  "note": "A music word meaning \"suddenly\": \"subito piano\"."
+ },
+ "diamagnetic": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Bactrian": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "note": "Also \"Bactrian camel\"."
+ },
+ "nyasa": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rava": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "augmentative": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "classico": {
+  "v": "not_english",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "akamatsu": {
+  "v": "not_english",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"Japanese red pine\"."
+ },
+ "donator": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": "Rare; the normal English word is \"donor\"."
+ },
+ "lineament": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "idempotent": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "disposer": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Usually called a \"garbage disposal\" in American English."
+ },
+ "aval": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Rare banking term; \"guarantee\" is the everyday word."
+ },
+ "consonance": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diploid": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "impost": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also a formal word for a tax: \"an impost on imports\"."
+ },
+ "flexure": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "extern": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In the US an \"extern\" is usually a student doing short work training."
+ },
+ "chambon": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "triploid": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "misericordia": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Usually spelled \"misericord\" in English."
+ },
+ "lotos": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "Old spelling; the usual word is \"lotus\"."
+ },
+ "constructivist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bivalent": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ferromagnetic": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "phot": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "transversal": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "adamantine": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "discoid": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "thrombolytic": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "doctrinaire": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "optative": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "polyploid": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "federate": {
+  "v": "keep",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Rome made a treaty with each federate.",
+   "The federates fought for Rome against its enemies.",
+   "A federate kept its own leaders but helped Rome in war.",
+   "Each federate had to send soldiers to the army."
+  ],
+  "note": ""
+ },
+ "brahman": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"Brahmin\"."
+ },
+ "helicon": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "agglomerate": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cardan": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In everyday English, say \"driveshaft\" or \"universal joint\"."
+ },
+ "scena": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kreuzer": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chelate": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "antipyretic": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hyaline": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Hyaline is a clear, glassy material in body tissue.",
+   "The doctor saw hyaline in the kidney sample.",
+   "Under the microscope, the hyaline looks pink and smooth.",
+   "The lab report found hyaline in the blood vessels."
+  ],
+  "note": "Usually an adjective: \"hyaline cartilage\"."
+ },
+ "hemostatic": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Often used as an adjective: \"hemostatic gauze\"."
+ },
+ "deictic": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "francoist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Usually capitalized: \"Francoist\"."
+ },
+ "communicant": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"communicant\" means a person who receives Communion in church."
+ },
+ "hajduk": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "antiracist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "covariant": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "facepalm": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "When he forgot his keys again, I did a facepalm.",
+   "She sent a facepalm emoji after my bad joke.",
+   "That silly mistake deserves a big facepalm.",
+   "His answer made the whole class do a facepalm."
+  ],
+  "note": "Informal. Also used as a verb: \"I facepalmed.\""
+ },
+ "concertante": {
+  "v": "similar",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dystrophic": {
+  "v": "not_english",
+  "s": 2,
+  "reg": [
+   "offensive"
+  ],
+  "ns": false,
+  "note": "Only an adjective in English; say \"a person with muscular dystrophy\"."
+ },
+ "primitivist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "reverser": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "monotype": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "perforator": {
+  "v": "false_friend",
+  "s": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "A tool for this is a \"hammer drill\"; a \"perforator\" makes small holes, e.g. in paper."
+ },
+ "hanko": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jansenist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The Jansenist lived a simple and strict life.",
+   "The Jansenist rejected the Jesuits' ideas.",
+   "Many Jansenists lived in France in the 1600s.",
+   "Each Jansenist read the Bible carefully every day."
+  ],
+  "note": "Usually capitalized: Jansenist."
+ },
+ "telemark": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "redactor": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Rare; the normal English word is \"editor\"."
+ },
+ "maremma": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "melos": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "antiqua": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diapason": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "Rare; for range, people usually say \"range\"."
+ },
+ "gourde": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "vocative": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "structuralist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pietist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Usually capitalized: Pietist."
+ },
+ "deponent": {
+  "v": "false_friend",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "spiritist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dragline": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dualist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

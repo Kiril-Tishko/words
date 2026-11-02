@@ -1,0 +1,1369 @@
+{
+ "transferrin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vaccinator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tektite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "irredentist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "appassionata": {
+  "v": "proper_noun",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually the name of a Beethoven piano sonata: \"the Appassionata.\""
+ },
+ "backronym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cermet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "convector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "People often say \"heater.\""
+ },
+ "cryolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyanamide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyclohexyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cytostatic": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "disassembler": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "elastane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "In the US, people usually say \"spandex.\""
+ },
+ "epaulet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"epaulette.\""
+ },
+ "helicoid": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hellenist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "inhibin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "intuitionist": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "karakul": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Also the name of the sheep that gives this fur."
+ },
+ "ketorolac": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kriek": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "negritude": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written with a capital: \"Negritude.\""
+ },
+ "niobate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nitroprusside": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nonet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "oxytetracycline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "phronesis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "polarimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "prophage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "realgar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rhumb": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Mostly used in \"rhumb line,\" a route with one fixed compass direction."
+ },
+ "tonometer": {
+  "v": "partial_false_friend",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Measures eye pressure; for blood pressure say \"blood pressure monitor.\""
+ },
+ "triacetate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "obol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "amoroso": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The word amoroso above the notes means \"play with love.\"",
+   "Our teacher asked us to play the slow part amoroso.",
+   "Amoroso is an Italian music term for tender playing.",
+   "Find the amoroso marking at the start of the song."
+  ]
+ },
+ "filtrate": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diplopia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Double vision\" is the everyday term."
+ },
+ "apomorphine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "peristyle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "neurasthenic": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned medical word."
+ },
+ "megacycle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old word. Today people say \"megahertz.\""
+ },
+ "ara": {
+  "v": "not_english",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "note": "Not a normal English word; the parrot is called a \"macaw.\""
+ },
+ "nominator": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "monosaccharide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "negroid": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "offensive",
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old and offensive racial term; avoid it in modern speech."
+ },
+ "spirograph": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often a toy for drawing curly patterns."
+ },
+ "cabalist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "keynesianism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually written with a capital letter: Keynesianism."
+ },
+ "monophysite": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "polyol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "neorealist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The neorealist filmed real streets with ordinary people.",
+   "He is a neorealist who shows the life of poor families.",
+   "Many Italian neorealists made films right after the war.",
+   "Our film class watched a movie by a famous neorealist."
+  ]
+ },
+ "izba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "A wooden log house in a Russian village."
+ },
+ "autist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "offensive"
+  ],
+  "ns": false,
+  "note": "Often offensive; most people say \"autistic person\" instead.",
+  "ex": [
+   "The article about daily life was written by an autist.",
+   "He calls himself an autist and talks openly about it.",
+   "Some people find the word autist rude.",
+   "An autist may need a quiet place to work."
+  ]
+ },
+ "anonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Rare; say \"anonymous person\" or \"an unnamed writer\"."
+ },
+ "vanitas": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polyimide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "reformism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bipedalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "Pascha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually people in English say \"Easter.\""
+ },
+ "strelets": {
+  "v": "partial_false_friend",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural: \"streltsy\"."
+ },
+ "ablaut": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anaerobe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "apigenin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "arabis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "autostrada": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Used for Italian highways; in the US say \"highway.\""
+ },
+ "ayran": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bimetal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bullmastiff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cambric": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dermoid": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dolina": {
+  "v": "false_friend",
+  "s": 0,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Not a valley; it is a sinkhole in limestone. Usual word: \"sinkhole.\""
+ },
+ "eluent": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glycosaminoglycan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hypercapnia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hypocenter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mucoid": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "necrolysis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ophthalmia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "orthopyroxene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "oxychloride": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pauperism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; people usually say \"poverty.\""
+ },
+ "portamento": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "protamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rhizoctonia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "stilbene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "subjectivist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "A subjectivist believes that truth depends on the person.",
+   "The philosopher was a strong subjectivist.",
+   "As a subjectivist, she says beauty depends on who is looking.",
+   "The subjectivist and the realist had a long debate."
+  ]
+ },
+ "tetraplegia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also called \"quadriplegia\" in the US."
+ },
+ "varactor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "A varactor changes its capacitance when the voltage changes.",
+   "The radio uses a varactor to tune stations.",
+   "Replace the varactor on the circuit board.",
+   "The engineer tested the varactor in the lab."
+  ]
+ },
+ "wollastonite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "zanamivir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "zorb": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "araucaria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "petrolatum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Petroleum jelly\" is more common in daily life."
+ },
+ "nocebo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trunking": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Trunking lets many users share a few radio channels.",
+   "The police use a trunking radio system.",
+   "With trunking, the system finds a free channel for each call.",
+   "Our company installed a digital trunking network for its drivers."
+  ]
+ },
+ "magmatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "thymidine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anticapitalist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "archaism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "monomania": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "phenothiazine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "homolog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "batholith": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kinetoscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "piracetam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Piracetam is a drug that some people take for memory.",
+   "The doctor prescribed piracetam after my grandfather's stroke.",
+   "Piracetam is sold as a medicine in some countries.",
+   "Ask your doctor before you take piracetam."
+  ]
+ },
+ "anhydrite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "karateka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "electrometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kitesurfing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "physalis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gametophyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "isopropanol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "People usually say \"rubbing alcohol.\" Uncountable."
+ },
+ "gradualism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "gyrocopter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "greenscreen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Usually written as two words: \"green screen.\"",
+  "ex": [
+   "The actor stood in front of a greenscreen.",
+   "We replaced the greenscreen with a picture of the beach.",
+   "Many streamers use a greenscreen behind them.",
+   "The studio has a big greenscreen for video shoots."
+  ]
+ },
+ "discriminant": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "suffragan": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aconitine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allicin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cachalot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Old word; the usual name is \"sperm whale.\""
+ },
+ "cholesteryl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually used before another word, as in \"cholesteryl ester.\""
+ },
+ "dialysate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "endomorphism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hemoglobinuria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hypoxanthine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "leitmotiv": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "More common spelling: \"leitmotif.\""
+ },
+ "macrocycle": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "metonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "murza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"mirza.\""
+ },
+ "muscarine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nonius": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usual English term: \"vernier.\""
+ },
+ "ordinariate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "paronychia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pinacoteca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Used in names of Italian galleries; usually say \"art gallery.\""
+ },
+ "planaria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "The usual word for one is \"planarian.\""
+ },
+ "prostacyclin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "quietist": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "solanine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "solipsist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "supercargo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "terpenoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Uniate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Today \"Greek Catholic\" is the preferred word."
+ },
+ "pastoralism": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nomadism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sensualist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "titanite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ichor": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "extremum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural: \"extrema.\""
+ },
+ "cheviot": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "causative": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "artbook": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written \"art book.\""
+ },
+ "ilmenite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bricolage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "clericalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "unilateralism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "kouign-amann": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "pan-iranism": {
+  "v": "keep",
+  "pm": 0.01,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with capitals: \"Pan-Iranism.\""
+ },
+ "louis d'or": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": "Historical word."
+ },
+ "sound producer": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": "Usually \"record producer\" or \"music producer.\""
+ }
+}

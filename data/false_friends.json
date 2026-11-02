@@ -293,6 +293,17 @@
   "src": "rscan-003.json"
  },
  {
+  "en": "barn",
+  "uk": "барн",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "basilica",
   "uk": "базилік",
   "pos": "noun",
@@ -406,6 +417,17 @@
   "note": "бланк = a printed form to fill in; blank = порожній, чистий",
   "checked": 2,
   "src": "verify-017.json"
+ },
+ {
+  "en": "board",
+  "uk": "борд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "bondage",
@@ -595,6 +617,17 @@
   "src": "scan-003.json"
  },
  {
+  "en": "capsule",
+  "uk": "капсуль",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "carabiner",
   "uk": "карабінер",
   "pos": "noun",
@@ -729,6 +762,17 @@
   "note": "en cirque = mountain basin (geology); uk цирк mainly = circus",
   "checked": 2,
   "src": "verify-073.json"
+ },
+ {
+  "en": "city light",
+  "uk": "сіті-лайт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "clay",
@@ -1217,6 +1261,17 @@
   "src": "scan-001.json"
  },
  {
+  "en": "debit",
+  "uk": "дебіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "debutant",
   "uk": "дебатант",
   "pos": "",
@@ -1285,6 +1340,17 @@
   "src": "rscan-009.json"
  },
  {
+  "en": "direct",
+  "uk": "дірект",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "directorate",
   "uk": "директорія",
   "pos": "",
@@ -1305,6 +1371,17 @@
   "note": "діва = maiden, virgin (Діва Марія); diva = celebrated female singer.",
   "checked": 1,
   "src": "scan-005.json"
+ },
+ {
+  "en": "dog hunter",
+  "uk": "дог-хантер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "domestic",
@@ -1386,6 +1463,17 @@
   "note": "електрик = electrician; electric (adj) = електричний.",
   "checked": 1,
   "src": "scan-011.json"
+ },
+ {
+  "en": "elite class",
+  "uk": "еліт-клас",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "energetic",
@@ -1535,6 +1623,17 @@
   "note": "філіал = branch (office) of a company; filial = синівський/дочірній (of a son or daughter)",
   "checked": 1,
   "src": "scan-013.json"
+ },
+ {
+  "en": "fire",
+  "uk": "фаєр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "fiscal",
@@ -1782,6 +1881,28 @@
   "src": "rscan-010.json"
  },
  {
+  "en": "habit",
+  "uk": "габіт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
+  "en": "hard",
+  "uk": "хард",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "herb",
   "uk": "герб",
   "pos": "",
@@ -1835,6 +1956,17 @@
   "note": "гоп is only an interjection ('hop!'); to hop = стрибати",
   "checked": 2,
   "src": "verify-010.json"
+ },
+ {
+  "en": "hunter",
+  "uk": "гунтер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "hydrotechnic",
@@ -1914,6 +2046,17 @@
   "note": "uk only medical (incomplete bone fracture); violation = порушення",
   "checked": 1,
   "src": "verify-077.json"
+ },
+ {
+  "en": "inside",
+  "uk": "інсайд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "insult",
@@ -2046,6 +2189,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-022.json"
+ },
+ {
+  "en": "kora",
+  "uk": "кора",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "lac",
@@ -2393,6 +2547,17 @@
   "note": "масив = massif, array, large block/area (житловий масив); massive = величезний.",
   "checked": 1,
   "src": "scan-008.json"
+ },
+ {
+  "en": "match ball",
+  "uk": "матч-бол",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "matelot",
@@ -2936,6 +3101,17 @@
   "src": "rscan-005.json"
  },
  {
+  "en": "pole",
+  "uk": "поул",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "pope",
   "uk": "поп",
   "pos": "",
@@ -3424,6 +3600,17 @@
   "src": "verify-027.json"
  },
  {
+  "en": "shaping",
+  "uk": "шейпінг",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "shark",
   "uk": "шарк",
   "pos": "",
@@ -3499,6 +3686,17 @@
   "note": "спектр = spectrum; a specter is привид.",
   "checked": 2,
   "src": "scan-004.json"
+ },
+ {
+  "en": "spice",
+  "uk": "спайс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "spine",
@@ -3831,6 +4029,17 @@
   "note": "транс = trance; transgender is трансгендер",
   "checked": 2,
   "src": "verify-010.json"
+ },
+ {
+  "en": "translator",
+  "uk": "транслятор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "transporter",

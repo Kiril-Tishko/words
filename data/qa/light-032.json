@@ -1,0 +1,1444 @@
+{
+ "beton": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Rare; the normal English word is \"concrete\"."
+ },
+ "fluor": {
+  "v": "false_friend",
+  "s": 5,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "ex": [
+   "The old mining book calls this mineral fluor.",
+   "Fluor crystals are often purple or green.",
+   "The museum shows a large piece of fluor.",
+   "Miners found fluor near the lead mine."
+  ],
+  "note": "Old word for the mineral fluorite; the element is \"fluorine\"."
+ },
+ "conceptualist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "luxus": {
+  "v": "not_english",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": "Very rare; \"luxury\" is the normal English word."
+ },
+ "organon": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lightbox": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fricative": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "okara": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: some okara, a lot of okara (not \"an okara\")."
+ },
+ "propagator": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Also often a covered tray for growing plants from seeds."
+ },
+ "nativist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "russophile": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He is a Russophile who loves old Russian novels.",
+   "The Russophile collected Russian books and records for years.",
+   "Some Russophiles changed their views after the war began.",
+   "The newspaper called the politician a Russophile."
+  ],
+  "note": "Usually capitalized: \"Russophile\"."
+ },
+ "biogen": {
+  "v": "not_english",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "disjunctive": {
+  "v": "not_standard_ukrainian",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "repeller": {
+  "v": "not_standard_ukrainian",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "premodern": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The book compares the premodern and the modern world.",
+   "In the premodern, most people lived in small villages.",
+   "Our course moves from the premodern to the present day.",
+   "Historians of the premodern often study church records."
+  ],
+  "note": "Mostly an adjective: \"premodern times\", \"premodern art\"."
+ },
+ "derivate": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Rare; \"derivative\" is the usual English word."
+ },
+ "thiokol": {
+  "v": "proper_noun",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable material."
+ },
+ "nematic": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Mostly an adjective: \"a nematic liquid crystal\"."
+ },
+ "immelmann": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The pilot did an Immelmann over the airfield.",
+   "An Immelmann is a half loop followed by a half roll.",
+   "The crowd cheered when the plane made an Immelmann.",
+   "Students learn the Immelmann in aerobatic flight school."
+  ],
+  "note": "Usually capitalized: \"Immelmann\"."
+ },
+ "localism": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "monetarist": {
+  "v": "keep",
+  "s": 75,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "He is a monetarist who wants to control the money supply.",
+   "Monetarists believe too much money causes inflation.",
+   "The bank hired a monetarist as an advisor.",
+   "A monetarist usually wants low and stable inflation."
+  ],
+  "note": ""
+ },
+ "helion": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "salak": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Neogene": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually with \"the\" and a capital letter."
+ },
+ "oligocene": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually capitalized: the Oligocene."
+ },
+ "maximalist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "empiric": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "An empiric trusts only experience and facts.",
+   "As an empiric, he tests every idea himself.",
+   "The empiric does not accept ideas without proof.",
+   "Our philosophy teacher explained what an empiric believes."
+  ],
+  "note": "Mostly an adjective in modern English; the usual noun is \"empiricist\"."
+ },
+ "obbligato": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anticlerical": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": "Most often an adjective: \"anticlerical laws\"."
+ },
+ "legitimist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "deferent": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "In old astronomy, each planet moved on a deferent.",
+   "The teacher drew a deferent around the Earth.",
+   "A small circle moved along the big deferent.",
+   "Ancient astronomers used the deferent to explain planet paths."
+  ],
+  "note": ""
+ },
+ "lunette": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "corbeil": {
+  "v": "not_standard_ukrainian",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Rare; \"basket\" is the everyday word."
+ },
+ "oppositionist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The oppositionist criticized the government on TV.",
+   "An oppositionist was arrested at the protest.",
+   "She is a well-known oppositionist and journalist.",
+   "Each oppositionist spoke against the new law in parliament."
+  ],
+  "note": ""
+ },
+ "explant": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mercantilist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A mercantilist wants a country to export more than it imports.",
+   "The king listened to his advisers, who were mercantilists.",
+   "Mercantilists believed gold made a nation strong.",
+   "The old mercantilist wrote a book about trade and gold."
+  ],
+  "note": ""
+ },
+ "genderqueer": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Genderqueer is an identity outside just male or female.",
+   "The article explains genderqueer in simple words.",
+   "Some people describe their identity as genderqueer.",
+   "The support group talks about genderqueer and other identities."
+  ],
+  "note": "Mostly an adjective: \"a genderqueer person\"."
+ },
+ "adduct": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "parasitoid": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A parasitoid lays its eggs inside a caterpillar.",
+   "The parasitoid kills its host in the end.",
+   "Farmers use parasitoids to control pests.",
+   "This parasitoid attacks only one kind of fly."
+  ],
+  "note": ""
+ },
+ "obturator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Africanism": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "microsatellite": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "granitoid": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "onager": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cardia": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "winglet": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "functor": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "premix": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hydroid": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "orda": {
+  "v": "not_english",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "In English, \"horde\" is the usual word."
+ },
+ "locative": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "apparat": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Means a political machine; for a device, say \"apparatus\"."
+ },
+ "solidus": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also the name for the slash sign (/)."
+ },
+ "urbanist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anorthosite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "arioso": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "azole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "benzylpenicillin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bicameralism": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "blastula": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "duenna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "An old-fashioned word; today people say chaperone."
+ },
+ "electrophile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fauteuil": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "A rare French word; most people just say armchair."
+ },
+ "fugato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gabion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "garderobe": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "ex": [
+   "In the castle, the lord kept his robes in a garderobe.",
+   "The garderobe was a small room for storing clothes.",
+   "Servants carried the clothes from the garderobe to the bedroom.",
+   "The guide showed us where the old garderobe stood."
+  ],
+  "note": "Mostly a medieval castle toilet; for clothes say \"wardrobe\" or \"closet\"."
+ },
+ "imide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kulturkampf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital K: Kulturkampf."
+ },
+ "melisma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "otoscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "psychopomp": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rivaroxaban": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sarcoid": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "thionyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "thromboplastin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "timar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "triazine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anticlericalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anticodon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "audion": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "citral": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "coherer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cretinism": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Medical term; also used as an insult, so be careful."
+ },
+ "enterotoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "entr'acte": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "During the entr'acte, we bought drinks in the lobby.",
+   "The entr'acte lasts fifteen minutes, so we have time.",
+   "Let's meet near the coat room in the entr'acte.",
+   "Many people go outside during the entr'acte."
+  ],
+  "note": "Also music played between acts; \"intermission\" is the usual word."
+ },
+ "fluorometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "greisen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hitlerism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital H: Hitlerism."
+ },
+ "holoenzyme": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "hominoid": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "idiolect": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lexia": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "logrolling": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Also a sport where people try to stay standing on a log in water."
+ },
+ "nominalist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "parodist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "provitamin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "semiosis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sobor": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "superclub": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Rich superclubs buy the best players in the world.",
+   "Our small team lost to a European superclub.",
+   "Which superclub do you think will win the league?",
+   "Many fans do not like the idea of a superclub league."
+  ],
+  "note": "Also a very large nightclub."
+ },
+ "trichinella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "volvox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "abutilon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aerolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "benzimidazole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "catastrophism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cavatina": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyanidin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyclohexanone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cytometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "electroencephalograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Often shortened to EEG."
+ },
+ "fermata": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "flavone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glucometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often called a blood glucose meter."
+ },
+ "haptoglobin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hemocyanin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hexamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hyperemia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hyperrealism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "institutionalist": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "isoamyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "metalist": {
+  "v": "not_english",
+  "s": 30,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; more common words are metalhead or metal fan."
+ },
+ "microsporidia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural word; the singular is microsporidium."
+ },
+ "multivibrator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tribunate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The tribunate was a government body in ancient Rome.",
+   "In the early 1800s, France also had a tribunate.",
+   "The tribunate protected the rights of ordinary people.",
+   "Our history book has a chapter on the Roman tribunate."
+  ],
+  "note": ""
+ },
+ "addax": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ammoniac": {
+  "v": "false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually \"gum ammoniac\", a plant resin; the gas is \"ammonia\"."
+ },
+ "castoreum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chalcogenide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "chinar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "conventionalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyclamate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dermatosis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ergotism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "flaneur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "flavonol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gasholder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "heliostat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "heptagon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "inclinometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "instrumentalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "jalousie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually means a window with glass slats; for fabric shades say blinds."
+ },
+ "jingoist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lopinavir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "manhua": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "metafile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Save the drawing as a metafile for the presentation.",
+   "A metafile can store both pictures and text.",
+   "The program cannot open this metafile.",
+   "Export the chart as a metafile, not as a photo."
+  ],
+  "note": ""
+ },
+ "methemoglobin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "monarda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "neoplatonist": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A neoplatonist believes everything comes from the One.",
+   "The book follows a neoplatonist teacher in Alexandria.",
+   "Many early Christians read neoplatonist writers.",
+   "Our professor explained what a neoplatonist believes about the soul."
+  ],
+  "note": ""
+ },
+ "phyllite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pianism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "precipitator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "protoplast": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rakia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "roseola": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "savate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ultramontane": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Most often an adjective: \"ultramontane views\"."
+ },
+ "agathis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anorgasmia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "arthroscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "carbinol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ }
+}

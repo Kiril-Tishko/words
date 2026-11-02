@@ -1,0 +1,1532 @@
+{
+ "postmodernism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We studied postmodernism in our art history class.",
+   "Postmodernism often mixes old and new styles.",
+   "This building is a good example of postmodernism.",
+   "Can you explain postmodernism in simple words?"
+  ],
+  "note": ""
+ },
+ "offshore": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The company keeps its money in an offshore account.",
+   "Many rich people move their money to offshore companies.",
+   "He opened an offshore company to pay lower taxes.",
+   "The police found millions of dollars in offshore accounts."
+  ],
+  "note": "Most often \"offshore\" means at sea, away from the coast: \"an offshore wind farm.\""
+ },
+ "progenitor": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Progenitor cells can turn into several types of cells.",
+   "Each progenitor in the bone marrow makes new blood cells.",
+   "Scientists grew the progenitor cells in the lab.",
+   "These progenitors help the body repair damaged tissue."
+  ],
+  "note": "Also means an ancestor or the person who started something."
+ },
+ "osteopath": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "radiograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "The dentist took a radiograph of my teeth.",
+   "The radiograph showed a small break in the bone.",
+   "Can I see the radiograph on the screen?",
+   "The doctor compared two radiographs of my knee."
+  ],
+  "note": ""
+ },
+ "ligand": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The ligand binds to the metal atom in the center.",
+   "Each ligand gives a pair of electrons to the metal.",
+   "The drug acts as a ligand for this receptor.",
+   "Scientists tested a new ligand in the lab."
+  ],
+  "note": ""
+ },
+ "potentate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "tribalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Political tribalism divides people in many countries.",
+   "Tribalism makes it hard to listen to other opinions.",
+   "Sports fans sometimes show a strong kind of tribalism.",
+   "We need less tribalism and more honest talk."
+  ],
+  "note": ""
+ },
+ "retrofit": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The old building needs a retrofit for earthquakes.",
+   "The energy retrofit cut our heating bills in half.",
+   "They did a full retrofit of the old bus.",
+   "How long will the retrofit of the factory take?"
+  ],
+  "note": ""
+ },
+ "velveteen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: some velveteen, a piece of velveteen (not \"a velveteen\")."
+ },
+ "acolyte": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "note": "Also means a loyal follower of a person."
+ },
+ "debutant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "The female form is \"debutante.\""
+ },
+ "colloquialism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "\"Gonna\" is a colloquialism for \"going to.\"",
+   "Avoid colloquialisms in your formal essay, please.",
+   "This dictionary marks every colloquialism very clearly.",
+   "English has many colloquialisms that are hard to learn."
+  ],
+  "note": ""
+ },
+ "adonis": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "Often capitalized: an Adonis. Means a very handsome young man."
+ },
+ "naturalism": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "planetoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Asteroid\" or \"dwarf planet\" is more common."
+ },
+ "nadir": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The nadir is the point directly below an observer.",
+   "The nadir is opposite the zenith in the sky.",
+   "The satellite camera points straight down at the nadir.",
+   "Can you mark the zenith and the nadir on this drawing?"
+  ],
+  "note": "Most often \"nadir\" means the lowest point: \"the nadir of his career.\""
+ },
+ "hydrophone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "oncogene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "An oncogene is a gene that can cause cancer.",
+   "Scientists found a new oncogene in lung cancer cells.",
+   "This oncogene makes cells grow too fast.",
+   "The test looks for oncogenes in the blood sample."
+  ],
+  "note": ""
+ },
+ "aileron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The pilot moves the ailerons to turn the plane.",
+   "Each wing has an aileron near its back edge.",
+   "The left aileron was damaged during landing.",
+   "Check that the ailerons move freely before takeoff."
+  ],
+  "note": ""
+ },
+ "curare": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "podcasting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Podcasting is a fun hobby for many people.",
+   "He makes some extra money from podcasting.",
+   "You don't need expensive gear to start podcasting.",
+   "She started podcasting about cooking last year."
+  ],
+  "note": ""
+ },
+ "trattoria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "regolith": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tandoori": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "myelin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Myelin is a fatty layer that protects nerve fibers.",
+   "Damage to myelin can cause serious diseases.",
+   "Myelin helps nerve signals move much faster.",
+   "Scientists study how myelin grows in babies."
+  ],
+  "note": ""
+ },
+ "karting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We went karting for my brother's birthday.",
+   "Karting is fun for both kids and adults.",
+   "Is there a karting track near the city?",
+   "Many racing drivers started their careers in karting."
+  ],
+  "note": ""
+ },
+ "evaporator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "amoxicillin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The doctor gave me amoxicillin for my ear infection.",
+   "Take amoxicillin three times a day with food.",
+   "Are you allergic to amoxicillin or other antibiotics?",
+   "Finish all the amoxicillin, even if you feel better."
+  ],
+  "note": ""
+ },
+ "stalagmite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A stalagmite grows up from the floor of a cave.",
+   "The guide showed us a stalagmite taller than a man.",
+   "Please don't touch the stalagmites in the cave.",
+   "This stalagmite took thousands of years to form."
+  ],
+  "note": ""
+ },
+ "katsura": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "wolfram": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Tungsten\" is the more common name in English."
+ },
+ "concertina": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arum": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The arum has a big leaf and a strange flower.",
+   "Arum lilies are popular flowers at weddings.",
+   "Keep children away from the poisonous arum berries.",
+   "The arum grows well in shady parts of the garden."
+  ],
+  "note": ""
+ },
+ "colophon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hypervisor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "milliliter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gauss": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "satori": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "biofeedback": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Biofeedback helps people learn to control their stress.",
+   "She uses biofeedback to treat her headaches.",
+   "In biofeedback, sensors measure your heart rate and breathing.",
+   "Does the clinic offer biofeedback sessions for kids?"
+  ],
+  "note": ""
+ },
+ "telpher": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pecorino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "usability": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cotillion": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "copra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lysine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aleph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cyclotron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "medusa": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In everyday English, \"jellyfish\" is the common word."
+ },
+ "beignet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "McCarthyism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "centrist": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "perfectionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My perfectionism makes me work very slowly.",
+   "Perfectionism can cause a lot of stress at work.",
+   "She is trying hard to fight her perfectionism.",
+   "His perfectionism sometimes annoys his coworkers."
+  ],
+  "note": ""
+ },
+ "varus": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "pyrophosphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Some toothpastes contain pyrophosphate to fight tartar.",
+   "Sodium pyrophosphate is used in some baking powders.",
+   "Check the label: this food contains pyrophosphate.",
+   "The lab measured the pyrophosphate in the water sample."
+  ],
+  "note": ""
+ },
+ "pompadour": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He combed his hair into a big pompadour.",
+   "The barber gave me a classic pompadour.",
+   "Use gel to keep your pompadour in place.",
+   "The singer was famous for his tall pompadour."
+  ],
+  "note": ""
+ },
+ "thiamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Thiamine is another name for vitamin B1.",
+   "Whole grains and beans contain a lot of thiamine.",
+   "Low thiamine levels can make you feel tired.",
+   "The doctor told him to take thiamine every day."
+  ],
+  "note": ""
+ },
+ "megalomania": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "selo": {
+  "v": "not_english",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pentameter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sambuca": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "marimba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "taxon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Each taxon in biology has a scientific name.",
+   "A species is one kind of taxon.",
+   "Scientists described the new taxon last year.",
+   "Scientists group living things into different taxa."
+  ],
+  "note": "Plural is usually \"taxa.\""
+ },
+ "phenobarbital": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The vet gave the dog phenobarbital for seizures.",
+   "Phenobarbital can make people feel very sleepy.",
+   "She has taken phenobarbital since she was a child.",
+   "Do not stop taking phenobarbital without asking your doctor."
+  ],
+  "note": ""
+ },
+ "tribune": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": "Historical word; also used in newspaper names."
+ },
+ "passive": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"passive\" is an adjective meaning not active: \"a passive person.\""
+ },
+ "neoliberalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "olivine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Olivine is a common green mineral.",
+   "This beach has green sand made of olivine.",
+   "Olivine is often found in volcanic rock.",
+   "The green gemstone peridot is a kind of olivine."
+  ],
+  "note": ""
+ },
+ "chipset": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "superego": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tetrarch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "laterite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "amaryllis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "orthopedist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "magnesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "clickbait": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "Don't click on that link, it's just clickbait.",
+   "The headline is pure clickbait, the article is boring.",
+   "I really hate videos with clickbait titles.",
+   "Many news websites use clickbait to get more visitors."
+  ],
+  "note": "Uncountable: some clickbait, a lot of clickbait (not \"a clickbait\")."
+ },
+ "pentathlon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wagyu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We ordered a wagyu steak for our anniversary.",
+   "Wagyu beef is very soft and expensive.",
+   "This burger is made with Japanese wagyu.",
+   "Have you ever tried wagyu at a restaurant?"
+  ],
+  "note": ""
+ },
+ "pastis": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "novena": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "presto": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also said when something happens like magic: \"And presto, it's done!\""
+ },
+ "egotist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "megalodon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "isolationism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Isolationism was popular in many countries in the 1930s.",
+   "The country slowly moved toward isolationism after the war.",
+   "Critics say isolationism hurts trade and jobs.",
+   "He argued against isolationism in his speech."
+  ],
+  "note": ""
+ },
+ "spinnaker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cultivar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Technical word; in everyday speech people say \"variety.\""
+ },
+ "destructor": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The destructor frees the memory used by the object.",
+   "In C++, a destructor name starts with a tilde.",
+   "The destructor runs when the object is deleted.",
+   "Don't forget to write a destructor for this class."
+  ],
+  "note": ""
+ },
+ "paleocene": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually written with a capital: the Paleocene."
+ },
+ "pompano": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Plural is usually \"pompano\"."
+ },
+ "comparator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "haka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "generalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Our small company needs a generalist, not a specialist.",
+   "A generalist knows a little about many things.",
+   "He works as a generalist in a large hospital.",
+   "Small teams often prefer to hire generalists."
+  ],
+  "note": ""
+ },
+ "downtempo": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sequencer": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "troponin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "turkman": {
+  "v": "proper_noun",
+  "s": 90,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Usually spelled \"Turkmen\" or \"Turkmen person\"; plural Turkmen."
+ },
+ "malbec": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written with a capital: Malbec."
+ },
+ "canna": {
+  "v": "not_standard_ukrainian",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "polyglot": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He's a polyglot; he speaks six languages.",
+   "I want to become a polyglot one day.",
+   "Polyglots often learn new languages very fast.",
+   "The polyglot gave us tips on learning new words."
+  ],
+  "note": ""
+ },
+ "upwelling": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vacuole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cajon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kobold": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In German stories, a kobold is a small house spirit.",
+   "The kobold in this game steals your gold.",
+   "My son drew a kobold with big ears.",
+   "People believed a kobold helped with housework at night."
+  ],
+  "note": ""
+ },
+ "psalter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "synchrotron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "manioc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"cassava\", which is more common."
+ },
+ "yachtsman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The yachtsman sailed around the world alone.",
+   "He has been an experienced yachtsman for years.",
+   "Yachtsmen always check the weather before leaving port.",
+   "The young yachtsman won his first big race."
+  ],
+  "note": ""
+ },
+ "kickboxer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ableist": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "iota": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "There isn't one iota of truth in that story.",
+   "He didn't change his plan one iota.",
+   "Iota is the ninth letter of the Greek alphabet.",
+   "I don't care one iota what they think."
+  ],
+  "note": "Mostly used in negatives: \"not one iota\" = not at all."
+ },
+ "mongoloid": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "offensive",
+   "dated"
+  ],
+  "ns": false,
+  "note": "Offensive and outdated; avoid using it for people."
+ },
+ "methylene": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "phenyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "scoring": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Most often \"scoring\" means getting points or goals: \"He is good at scoring goals.\""
+ },
+ "yuga": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "In Hindu belief, we live in the Kali Yuga.",
+   "Each yuga lasts many thousands of years.",
+   "The old text describes four different yugas.",
+   "Hindus believe this yuga will end someday."
+  ],
+  "note": ""
+ },
+ "biomarker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "instrumentalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She is both a singer and an instrumentalist.",
+   "The band is looking for a new instrumentalist.",
+   "Every instrumentalist in the orchestra practices daily.",
+   "He is a great instrumentalist on guitar and piano."
+  ],
+  "note": ""
+ },
+ "muscat": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This sweet wine is made from muscat grapes.",
+   "Could we have two glasses of muscat, please?",
+   "Muscat grapes have a strong, fruity smell.",
+   "A cold muscat goes well with fruit desserts."
+  ],
+  "note": "Often \"Muscat\" is the capital city of Oman."
+ },
+ "lumbago": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; \"lower back pain\" is more common."
+ },
+ "protectionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "thane": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": "Old historical word; also spelled \"thegn\"."
+ },
+ "bergamot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This black tea has a light taste of bergamot.",
+   "Bergamot is a sour citrus fruit from Italy.",
+   "This perfume smells of bergamot and lemon.",
+   "I add a few drops of bergamot oil to my bath."
+  ],
+  "note": ""
+ },
+ "diphosphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "maracas": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually plural; one is a \"maraca\"."
+ },
+ "plasmon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "DP": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "ex": [
+   "After the war, my grandfather lived in a DP camp.",
+   "Thousands of DPs could not go back home.",
+   "She was a DP in Germany before moving to Canada.",
+   "The museum tells the stories of DPs after 1945."
+  ],
+  "note": "Means \"displaced person.\" In film, \"DP\" often means \"director of photography.\""
+ },
+ "copolymer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "This plastic is a copolymer of two materials.",
+   "The copolymer is both strong and light.",
+   "The factory makes bottles from a cheap copolymer.",
+   "The lab created a new copolymer for medical use."
+  ],
+  "note": ""
+ },
+ "phial": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Phial is a bit old-fashioned or British; \"vial\" is more common in American English."
+ },
+ "expressionist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She is a famous German expressionist.",
+   "The expressionists used strong colors and strange shapes.",
+   "This museum has many paintings by expressionists.",
+   "Which expressionist painted this picture of the city?"
+  ],
+  "note": ""
+ },
+ "uptime": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "ringgit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "The plural is usually the same: ten ringgit."
+ },
+ "nudism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wampum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "microfiche": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "agonist": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "This drug is an opioid agonist for pain.",
+   "An agonist activates a receptor in the body.",
+   "The doctor prescribed a dopamine agonist for her symptoms.",
+   "Scientists tested a new agonist on mice."
+  ],
+  "note": ""
+ },
+ "IMHO": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; used in texts and online messages."
+ },
+ "gladiolus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"gladioli\" or \"gladioluses\"."
+ },
+ "coproduction": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Also written \"co-production.\""
+ },
+ "cortege": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nai": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "inductor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The inductor stores energy in a magnetic field.",
+   "Replace the burned inductor on the circuit board.",
+   "An inductor is basically a coil of wire.",
+   "This simple circuit has two inductors and a capacitor."
+  ],
+  "note": ""
+ },
+ "defeatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "naming": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"naming\" means giving a name to someone or something: \"naming a baby.\""
+ },
+ "zinnia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polymorphism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyclosporine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "operon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "platonism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital: Platonism."
+ },
+ "thiol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Thiols often smell like rotten eggs.",
+   "Gas companies add a thiol so people notice leaks.",
+   "The lab tested the thiol in the sample.",
+   "Skunk spray contains very strong thiols."
+  ],
+  "note": ""
+ },
+ "kaddish": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Islamism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The book explains the history of Islamism.",
+   "Islamism is a political movement, not a religion.",
+   "Experts discussed Islamism on the evening news.",
+   "She studies Islamism at the university."
+  ],
+  "note": "Means political Islam; the religion itself is \"Islam.\""
+ },
+ "taverna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "moussaka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gerrymandering": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "homonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "\"Bat\" is a homonym: an animal or a stick.",
+   "Homonyms can confuse many English learners.",
+   "Can you think of another homonym in English?",
+   "The teacher gave us a list of homonyms."
+  ],
+  "note": ""
+ },
+ "haloperidol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "novitiate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "shojo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "My sister loves reading shojo manga.",
+   "Shojo stories are often about love and friendship.",
+   "This shojo has beautiful drawings of the characters.",
+   "She buys a new shojo every week."
+  ],
+  "note": "Usually spelled \"shoujo\" or \"shojo.\""
+ },
+ "anabaptist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The Anabaptists believed in baptizing only adults.",
+   "The Amish are one group of Anabaptists.",
+   "His family has been Anabaptist for many generations.",
+   "Many Anabaptists faced hard times in old Europe."
+  ],
+  "note": "Usually written with a capital A."
+ },
+ "hyperthermia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

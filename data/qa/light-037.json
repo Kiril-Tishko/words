@@ -1,0 +1,1430 @@
+{
+ "vulgarism": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "antipyrine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "attentat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "note": "Rare; usually say \"assassination attempt.\""
+ },
+ "bixa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "contrapposto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diethanolamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "emotivism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "entheogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "extensometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "girondist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The Girondists were a group in the French Revolution.",
+   "Our history book has a chapter about the Girondists.",
+   "A Girondist wanted a less powerful government in Paris.",
+   "Many Girondists lost their power in 1793."
+  ],
+  "note": "Usually capitalized: \"Girondist.\""
+ },
+ "hemocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lazaret": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "Rare, old word. Today people say \"quarantine hospital\" or \"field hospital.\""
+ },
+ "meph": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Slang, short for mephedrone."
+ },
+ "negatron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": "Old word. Today people almost always say \"electron.\""
+ },
+ "permalloy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable: some permalloy (not \"a permalloy\")."
+ },
+ "pleuropneumonia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "varistor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "videoblog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "People usually say \"vlog.\""
+ },
+ "addend": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anisocoria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aquathlon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ascomycete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "balletto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Plural: balletti or ballettos."
+ },
+ "barbital": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cytotoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diastase": {
+  "v": "false_friend",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fulgurite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fumigator": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Also a pest-control worker. For mosquitoes, people often say \"plug-in repellent.\""
+ },
+ "hornist": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The hornist played his bugle at the summer camp.",
+   "Every morning the hornist woke us up with his bugle.",
+   "The hornist stood at the flag and played a short call.",
+   "Our scout group needs a new hornist for the morning call."
+  ],
+  "note": "Most often \"hornist\" means a French horn player: \"The hornist played a solo.\""
+ },
+ "kalach": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "micropyle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nomophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "négociant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Often written without the accent: negociant."
+ },
+ "phratry": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pitahaya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Dragon fruit\" is the common everyday name."
+ },
+ "scenographer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "troilite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vulcanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"volcanism,\" which is more common."
+ },
+ "aphorist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "borneol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diapir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dysgeusia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "echinocactus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ectoparasite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "entrecôte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written \"entrecote.\" In the US, people say \"rib-eye steak.\""
+ },
+ "ethiop": {
+  "v": "proper_noun",
+  "s": 5,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "Usually \"Ethiop\" is an old word for a person from Ethiopia. The black powder is \"ethiops.\""
+ },
+ "giaour": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic",
+   "offensive"
+  ],
+  "ns": false,
+  "note": "Old and offensive word. Use only when talking about history or literature."
+ },
+ "heliodor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "longeron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lymphosarcoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": "Doctors now usually say \"lymphoma.\""
+ },
+ "omul": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "palanka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pleochroism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "schematism": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "The critic did not like the schematism of the characters.",
+   "The teacher warned us about schematism in our essays.",
+   "Real life is more complex than the schematism of this plan.",
+   "The novel suffers from schematism: every character is good or bad."
+  ],
+  "note": "Most often \"schematism\" is a term from the philosophy of Kant."
+ },
+ "sepiolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also called \"meerschaum.\""
+ },
+ "trematoda": {
+  "v": "similar",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural group name. One worm is a \"trematode\" or \"fluke.\""
+ },
+ "antimetabolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aquaplane": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Often a verb: a car can aquaplane on a wet road."
+ },
+ "carnallite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "disbalance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Imbalance\" is the usual word; \"disbalance\" is rare."
+ },
+ "disputant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "encyclopedist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An encyclopedist writes articles for an encyclopedia.",
+   "The encyclopedist spent years collecting facts about plants.",
+   "Our school library has a book by a famous encyclopedist.",
+   "As an encyclopedist, she checks every date and name."
+  ],
+  "note": ""
+ },
+ "endoscopist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ethnonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "eutectoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fermium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "furmint": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gorgonia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also called \"sea fan.\" Biologists often say \"gorgonian.\""
+ },
+ "infauna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kamacite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "laccolith": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "marginalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mendelevium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Mendelevium is a radioactive metal made in labs.",
+   "The symbol for mendelevium is Md on the periodic table.",
+   "Mendelevium does not exist in nature.",
+   "Scientists have made only tiny amounts of mendelevium."
+  ],
+  "note": ""
+ },
+ "metamerism": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "microformat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "oligospermia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "osculum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural: oscula."
+ },
+ "photophone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "phototype": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The old book has a phototype of the city.",
+   "A phototype is a printing plate made from a photo.",
+   "The printer made a phototype of the old map.",
+   "This postcard was printed from a phototype in 1900."
+  ],
+  "note": ""
+ },
+ "phytohormone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Plant hormone\" is more common."
+ },
+ "thermosiphon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "voluta": {
+  "v": "similar",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In English, \"volute\" is the usual word."
+ },
+ "kogel mogel": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "abasia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "abrek": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "abulia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "academism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "academist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "accelerograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "acceptant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In English, \"acceptor\" is more common."
+ },
+ "acetochlor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "achate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic"
+  ],
+  "ns": true,
+  "note": "Old word. Today people say \"agate.\""
+ },
+ "achondrite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "achromat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "achromatin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "achromatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "acmeism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Acmeism was a poetry movement in Russia in the 1910s.",
+   "Acmeism liked clear and simple words.",
+   "We read poems of acmeism in our literature class.",
+   "Acmeism was a reaction against unclear, mystical poems."
+  ],
+  "note": ""
+ },
+ "acquisitor": {
+  "v": "false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "note": "Rare word for a person who gets or buys things. A person who finds clients is a \"sales agent.\""
+ },
+ "acrobatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "\"Acrobatics\" is the normal word."
+ },
+ "actant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "actinograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "actinoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also called \"actinide.\""
+ },
+ "actinon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "actionist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "actualism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "adamsite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "adaptogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "adaptometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "addressograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "adiponitrile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "adjika": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "adynaton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aegipan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aegirine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerobe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerocar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aerolith": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aerophoto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The aerophoto shows the whole village and the river.",
+   "Engineers use an aerophoto to plan the new road.",
+   "This old aerophoto of the city was taken from a plane.",
+   "Farmers can check their fields on a fresh aerophoto."
+  ],
+  "note": "People usually say \"aerial photo.\""
+ },
+ "aerophyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Air plant\" is more common."
+ },
+ "aeroplankton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerotaxis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aerotropism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "affinage": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"affinage\" means aging cheese: \"This cheese has six months of affinage.\""
+ },
+ "agalmatolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ageusia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agglomerator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agglutinogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Antigen\" is the more common word."
+ },
+ "agorot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural form. One coin is an \"agora.\""
+ },
+ "agraffe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agrammatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agranulocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agronome": {
+  "v": "not_english",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "In English, \"agronomist\" is the usual word."
+ },
+ "agrotourism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "agrément": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal",
+   "technical"
+  ],
+  "ns": false,
+  "note": "Diplomatic word. Also spelled \"agrement.\""
+ },
+ "ailurophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "alalia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "albedometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "albitite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "alborada": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "albuminoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "alcoholimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "alexandrianism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "algicide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "algolagnia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aligoté": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "alkalimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allantois": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allegorism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allelism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allelomorph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": "Today people say \"allele.\""
+ },
+ "allochthon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allod": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "note": "\"Allodium\" is the more common form."
+ },
+ "allograph": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allonge": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "allopath": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "allophane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allosaur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An allosaur was a large meat-eating dinosaur.",
+   "The museum has a full allosaur skeleton.",
+   "My son has a toy allosaur in his room.",
+   "The allosaur lived millions of years ago."
+  ],
+  "note": ""
+ }
+}

@@ -1,0 +1,1405 @@
+{
+ "polyuria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "quilling": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ressentiment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "A philosophy word; in everyday English people say \"resentment.\""
+ },
+ "rewriter": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stentor": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "Our coach is a real stentor; everyone hears him.",
+   "He spoke like a stentor, and the whole hall heard.",
+   "You don't need a microphone when a stentor is speaking.",
+   "The teacher called him a stentor because of his loud voice."
+  ],
+  "note": "Means a person with a very loud voice."
+ },
+ "subtest": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Taylorism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "affordance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "carnitine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "backtracking": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Most often \"backtracking\" means going back on a promise or going back the way you came."
+ },
+ "lolicon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang",
+   "offensive"
+  ],
+  "ns": true,
+  "note": "Very negative, offensive topic."
+ },
+ "cabochon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Bogomil": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Always write with a capital B."
+ },
+ "kwacha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is usually also \"kwacha.\""
+ },
+ "elastin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "interventionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "animalism": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"animalism\" means animal-like, physical behavior or energy."
+ },
+ "demimonde": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": true,
+  "note": "Usually used with \"the\": the demimonde."
+ },
+ "kilojoule": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diminuendo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ryegrass": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "unobtainium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal joke word for a perfect material or part that doesn't exist."
+ },
+ "prothrombin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "slopestyle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dissector": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "copyleft": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable: say \"copyleft,\" not \"a copyleft.\""
+ },
+ "arborio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written \"Arborio rice,\" with a capital A."
+ },
+ "roentgen": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "note": "An old unit of radiation. A medical picture is an \"X-ray,\" not a \"roentgen.\""
+ },
+ "graffito": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Singular of \"graffiti\"; most people just say \"graffiti\"."
+ },
+ "historicism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fabricator": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The journalist was exposed as a fabricator of stories.",
+   "Nobody trusts him now because he is a known fabricator.",
+   "The court decided the witness was a fabricator of evidence.",
+   "She called the reporter a fabricator of fake quotes."
+  ],
+  "note": "Most often a \"fabricator\" is a worker or company that makes metal parts."
+ },
+ "anatase": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "astatine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "canonist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "chrysocolla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cresol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cromlech": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ecotype": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "epistasis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "herma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also spelled \"herm\"."
+ },
+ "intersexual": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "In older medical books, an intersexual is a person with mixed sex traits.",
+   "Today most doctors say \"intersex person,\" not \"intersexual.\"",
+   "The old hospital report described the patient as an intersexual.",
+   "The article explains why the word \"intersexual\" sounds outdated now."
+  ],
+  "note": "\"Intersex person\" is the preferred term today."
+ },
+ "landtag": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually capitalized: \"Landtag\"."
+ },
+ "larghetto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mesophyll": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pioglitazone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "radiotelegraph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "recuperator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "In homes, Americans usually say \"heat recovery ventilator.\""
+ },
+ "resorcinol": {
+  "v": "similar",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "triplane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "varicocele": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "xeroderma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anosmia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dystocia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "barbette": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glycan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dihydrogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "encomienda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gradualist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "superorganism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ostinato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "neomycin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rhabdomyosarcoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "delineator": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "arabidopsis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "brand book": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"brand guidelines.\""
+ },
+ "ski cross": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stage diving": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "groove metal": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fan coil": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Technical term; often \"fan coil unit\"."
+ },
+ "nu-disco": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "neo-impressionist": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A neo-impressionist paints with tiny dots of pure color.",
+   "Our art teacher showed us how a neo-impressionist used dots.",
+   "This neo-impressionist used bright colors and small brush strokes.",
+   "Look closely: the neo-impressionist made this picture from thousands of dots."
+  ],
+  "note": ""
+ },
+ "avant-gardism": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "theobromine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable."
+ },
+ "dichloride": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aestheticism": {
+  "v": "similar",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Aestheticism is the idea that art should exist only for beauty.",
+   "Aestheticism was popular in England in the 1880s.",
+   "Our art history class studied aestheticism this week.",
+   "The exhibition explores aestheticism in design and fashion."
+  ],
+  "note": ""
+ },
+ "ultramarathon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polytheist": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "grindcore": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "vermiculite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "decima": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also written \"décima.\""
+ },
+ "hepatocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sporangium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nucleoside": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "deciliter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "keratosis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "huaca": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "hryvnia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural: hryvnias, or sometimes hryvnia."
+ },
+ "octant": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Three planes divide space into eight octants.",
+   "The point lies in the first octant of the graph.",
+   "In which octant is the point (2, -1, 3)?",
+   "In the first octant, all three coordinates are positive."
+  ],
+  "note": ""
+ },
+ "screencast": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "archimandrite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fucus": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "minicomputer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old word; today it may also mean a very small PC."
+ },
+ "kyanite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "brilliantine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "catafalque": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "A stand for a coffin. A car that carries a coffin is a \"hearse.\""
+ },
+ "moderato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "prospekt": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": "Used only for wide streets in post-Soviet cities; the usual English word is \"avenue.\""
+ },
+ "catgut": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": "Not made from cats; usually uncountable."
+ },
+ "photoresist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "yat": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aviso": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Rare; \"advice note\" or \"payment notice\" is more common."
+ },
+ "basophil": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bromate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "carsharing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written \"car sharing\" or \"car-sharing.\""
+ },
+ "cybersquatting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "demonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "discussant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "economizer": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "epiblast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gibberellin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glossa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Technical word; in everyday English say \"tongue.\""
+ },
+ "officina": {
+  "v": "false_friend",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "orthophosphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "reserpine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "saccharide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "secretin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sloboda": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "lungo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stearate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "azathioprine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aspirate": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The doctor sent the bone marrow aspirate to the lab.",
+   "The lab found bacteria in the fluid aspirate.",
+   "The nurse used a thin needle to collect the aspirate.",
+   "The aspirate from his knee was clear and yellow."
+  ],
+  "note": "Most often \"aspirate\" is a verb: to breathe something into the lungs or suck out fluid."
+ },
+ "fixator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "deuteron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "astrocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "collectivist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Often an adjective: \"a collectivist culture.\""
+ },
+ "pyridoxine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable. Usually called \"vitamin B6.\""
+ },
+ "nifedipine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "wapiti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "captcha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also written \"CAPTCHA.\""
+ },
+ "superoxide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kelpie": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Also the name of an Australian sheepdog breed."
+ },
+ "moire": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"moiré\"; also a wavy pattern on screens or photos."
+ },
+ "hacktivism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "estragon": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "Rare; the normal English word is \"tarragon\"."
+ },
+ "holism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "allopurinol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "saponin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "scientism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mentalism": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also a stage act where a performer seems to read minds."
+ },
+ "rafflesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tulku": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "touché": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The fencer shouted \"Touché!\" after the hit.",
+   "In fencing, a touché is a hit that scores a point.",
+   "The judge counted the touché for the blue fencer.",
+   "She scored a touché in the last second of the match."
+  ],
+  "note": "Most often said to admit a good point: \"Touché, you're right.\""
+ },
+ "boswellia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "coronagraph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cyclopropane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "demodex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "freediver": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "heliograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hexamer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "indeterminism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "spellchecker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Also written \"spell checker.\""
+ },
+ "trichogramma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vinblastine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diphenyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Today usually called \"biphenyl.\""
+ },
+ "sucre": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fisc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal",
+   "archaic"
+  ],
+  "ns": true,
+  "ex": [
+   "In ancient Rome, some taxes went to the emperor's fisc.",
+   "The new law moved more money from the fisc to the regions.",
+   "Unpaid taxes are a debt that people owe to the fisc.",
+   "Historians studied how the fisc collected land taxes."
+  ],
+  "note": "Rare, formal word; people usually say \"treasury.\""
+ },
+ "tuberculin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "omeprazole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "criterium": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "colorism": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}
