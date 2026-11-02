@@ -1,0 +1,1555 @@
+{
+ "behaviorist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Behaviorists study what people do, not what they think.",
+   "Our psychology teacher is a behaviorist, so she talks about rewards.",
+   "A behaviorist believes we learn our habits from the world around us.",
+   "Is your professor a behaviorist or a cognitive psychologist?"
+  ],
+  "note": "British spelling: behaviourist."
+ },
+ "longlist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "alarmist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "asthmatic": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "neocortex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The neocortex helps us think, plan, and speak.",
+   "Humans have a much larger neocortex than most animals.",
+   "The neocortex is the outer layer of the brain.",
+   "Scientists study the neocortex of mice in the lab."
+  ],
+  "note": ""
+ },
+ "Islamophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "revisionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Historical revisionism can hide the truth about the past.",
+   "Critics accused the author of revisionism in his new book.",
+   "The book shows dangerous revisionism about the war.",
+   "Teachers can fight revisionism with clear facts and documents."
+  ],
+  "note": ""
+ },
+ "vancomycin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The patient got vancomycin for a serious infection.",
+   "In the hospital, vancomycin is often given through a drip.",
+   "The doctor switched him to vancomycin after the first drug failed.",
+   "Some bacteria can now resist even vancomycin."
+  ],
+  "note": ""
+ },
+ "sapiens": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Almost always used in \"Homo sapiens.\""
+ },
+ "quadrillion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A quadrillion is a one with fifteen zeros after it.",
+   "This computer can do a quadrillion calculations per second.",
+   "A quadrillion is a thousand times bigger than a trillion.",
+   "How many zeros does a quadrillion have in American English?"
+  ],
+  "note": ""
+ },
+ "funicular": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We took the funicular up the hill to the old town.",
+   "The funicular is faster than walking up all those stairs.",
+   "Kyiv has a funicular that goes down to the river.",
+   "Where can I buy a ticket for the funicular?"
+  ],
+  "note": ""
+ },
+ "pedagogue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "The book was written by a famous Ukrainian pedagogue.",
+   "As a pedagogue, she believes children learn best through play.",
+   "Our school director is a gifted pedagogue with forty years of experience.",
+   "Is he a good pedagogue, or just a good scientist?"
+  ],
+  "note": "Formal or negative word. Everyday word: teacher."
+ },
+ "shopaholic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal word."
+ },
+ "fatalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "piano": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The teacher told me to play this part piano.",
+   "The music says to play piano here, so play softly.",
+   "The violins start piano and slowly get louder.",
+   "Should we sing the last line piano or forte?"
+  ],
+  "note": "Most often \"piano\" is the instrument: \"She plays the piano.\" As music advice it means \"softly.\""
+ },
+ "allyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ecumenism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ethnocentrism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "renin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "materialist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "maquis": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The hills near the sea are covered in thick maquis.",
+   "Maquis is a mix of low bushes and wild herbs.",
+   "We walked for hours through the maquis on the island.",
+   "In summer, the dry maquis can catch fire easily."
+  ],
+  "note": ""
+ },
+ "arabesque": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The dancer stood in an arabesque on one leg.",
+   "Hold the arabesque for a few seconds, then lower your leg.",
+   "Her arabesque in the final dance was perfect.",
+   "In ballet class, we practice the arabesque at the barre."
+  ],
+  "note": "In ballet, a pose on one leg. \"Arabesque\" can also mean a curly decorative pattern."
+ },
+ "cordite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "freeholder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "photostat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; today say \"photocopy.\""
+ },
+ "lancet": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "urbanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She studies urbanism and wants to plan better cities.",
+   "Modern urbanism tries to make cities good for walking.",
+   "The conference on urbanism discussed parks and public transport.",
+   "Good urbanism puts shops, homes, and schools close together."
+  ],
+  "note": ""
+ },
+ "cysteine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Cysteine is found in eggs, meat, and beans.",
+   "The body uses cysteine to make important proteins.",
+   "Some hair products contain cysteine to make hair stronger.",
+   "Cysteine is an amino acid that contains sulfur."
+  ],
+  "note": ""
+ },
+ "gnu": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "methotrexate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "travertine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "monoid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "In math class, we learned that a monoid has an identity element.",
+   "Joining strings of text together gives a simple example of a monoid.",
+   "A monoid is a simple structure that programmers use too.",
+   "Every group is a monoid, but not every monoid is a group."
+  ],
+  "note": ""
+ },
+ "bowls": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"bowls\" is the plural of \"bowl\": \"Put the bowls on the table.\""
+ },
+ "donna": {
+  "v": "keep",
+  "s": 2,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "In the opera, Donna Anna asks her fiance for help.",
+   "Donna is an old Italian title for a noble lady.",
+   "In the old story, the servant bowed to the donna.",
+   "The rich donna lived in a big house near Rome."
+  ],
+  "note": "Most often \"Donna\" is a girl's name. A \"prima donna\" is a vain, difficult star."
+ },
+ "doner": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"doner kebab.\""
+ },
+ "bondholder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Bondholders usually get paid before shareholders.",
+   "The company pays interest to its bondholders twice a year.",
+   "Many bondholders lost money when the firm went bankrupt.",
+   "Each bondholder received a letter about the new terms."
+  ],
+  "note": ""
+ },
+ "quarterdeck": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "Stalinism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "autoclave": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bakelite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This old phone is made of black bakelite.",
+   "Bakelite was one of the first plastics made in a factory.",
+   "She collects bakelite jewelry from the 1930s.",
+   "The old radio has a brown bakelite case."
+  ],
+  "note": "Often capitalized: Bakelite."
+ },
+ "scratching": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"scratching\" means rubbing skin with your nails: \"Stop scratching your arm.\""
+ },
+ "amiodarone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "percolator": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anorak": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "note": "\"Parka\" or \"rain jacket\" is more common in the US."
+ },
+ "umbra": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anticlimax": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "datura": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acrylate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "webinar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Gaullist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My French grandfather was a Gaullist all his life.",
+   "The Gaullists wanted a strong and independent France.",
+   "As a Gaullist, he did not trust NATO very much.",
+   "Many Gaullists voted for the party's new leader."
+  ],
+  "note": "Also used as an adjective: a Gaullist party."
+ },
+ "zamindar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "protractor": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "note": "Usually the school tool for measuring angles in math class."
+ },
+ "dendrite": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Dendrites receive signals from other nerve cells.",
+   "A single neuron can have many dendrites.",
+   "Under the microscope, a dendrite looks like a tree branch.",
+   "The signal travels along the dendrite to the cell body."
+  ],
+  "note": ""
+ },
+ "fugu": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"pufferfish\" or \"blowfish.\""
+ },
+ "tourmaline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Her ring has a beautiful green tourmaline.",
+   "Tourmaline comes in many colors, from pink to black.",
+   "I bought a tourmaline necklace at the gem shop.",
+   "Pink tourmaline is a popular stone for jewelry."
+  ],
+  "note": ""
+ },
+ "chinook": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": "Also a type of salmon and a military helicopter."
+ },
+ "lindy": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": "Short for \"Lindy Hop.\""
+ },
+ "eta": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": "Don't confuse with ETA, \"estimated time of arrival.\""
+ },
+ "breakdance": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"breakdancing\" or \"breaking.\""
+ },
+ "kudu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "propranolol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The doctor gave me propranolol for my blood pressure.",
+   "Some people take propranolol before speaking in public.",
+   "Propranolol slows down your heart rate.",
+   "Don't stop taking propranolol suddenly without asking your doctor."
+  ],
+  "note": ""
+ },
+ "imprinting": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "superbike": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He rides a superbike on the race track.",
+   "The superbike race on Sunday was really exciting.",
+   "A superbike can go faster than most sports cars.",
+   "She saved for years to buy a red superbike."
+  ],
+  "note": ""
+ },
+ "bradycardia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "stela": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural is \"stelae\"."
+ },
+ "polypeptide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A polypeptide is a long chain of amino acids.",
+   "The cell makes a new polypeptide from the RNA code.",
+   "Proteins are made of one or more polypeptides.",
+   "In biology class, we drew a polypeptide on the board."
+  ],
+  "note": ""
+ },
+ "luminol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glycoprotein": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "basmati": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I always cook basmati rice with chicken curry.",
+   "Basmati rice has a nice smell when it cooks.",
+   "Rinse the basmati in cold water before cooking.",
+   "Can you buy a bag of basmati at the store?"
+  ],
+  "note": ""
+ },
+ "sulfite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "This wine contains sulfites, so read the label.",
+   "Some people are allergic to sulfites in food.",
+   "Check the label for sulfites if you have asthma.",
+   "Dried fruit often has sulfite in it to keep its color."
+  ],
+  "note": ""
+ },
+ "reactant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "setlist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The band posted the setlist online after the show.",
+   "Their setlist had twenty songs and two encores.",
+   "Is this song on the setlist tonight?",
+   "The singer changed the setlist at the last minute."
+  ],
+  "note": ""
+ },
+ "transcriber": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "profiterole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "eucalypt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Koalas eat the leaves of the eucalypt.",
+   "A tall eucalypt grows behind our house.",
+   "Eucalypts grow quickly in warm, dry places.",
+   "The eucalypt smells fresh after the rain."
+  ],
+  "note": "More common word: eucalyptus."
+ },
+ "antipasto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We started dinner with an antipasto of meat and cheese.",
+   "The antipasto plate had olives, salami, and peppers.",
+   "Let's order the antipasto to share at the table.",
+   "She made a big antipasto for the party."
+  ],
+  "note": "Plural: antipasti."
+ },
+ "aneurin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": true,
+  "note": "Old word; \"thiamine\" is the common name today."
+ },
+ "bytecode": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "carboxylate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "centrism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kaizen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "barque": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled bark."
+ },
+ "pascal": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Pressure is measured in pascals in science class.",
+   "One pascal is a very small amount of pressure.",
+   "The tire gauge shows the pressure in pascals.",
+   "How many pascals are there in one bar?"
+  ],
+  "note": ""
+ },
+ "sentimentalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "daikon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "metis": {
+  "v": "proper_noun",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written \"Métis\" with a capital M."
+ },
+ "ampersand": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tremolo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The violinist played a fast tremolo on one note.",
+   "Tremolo makes the sound shake quickly up and down.",
+   "Turn on the tremolo effect on your guitar amp.",
+   "The music shows a tremolo with three short lines."
+  ],
+  "note": ""
+ },
+ "cassoulet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hortensia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Hydrangea\" is the usual English word."
+ },
+ "vamp": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned word for a woman who uses her charm to control men."
+ },
+ "nomen": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "fanfic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "She writes fanfic about her favorite TV show.",
+   "I read fanfic online almost every night.",
+   "His fanfic got thousands of readers in one week.",
+   "Fanfic lets fans continue the story in their own way."
+  ],
+  "note": "Informal; short for \"fan fiction.\" Usually uncountable."
+ },
+ "birdwatcher": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "diminutive": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bilirubin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "High bilirubin can make the skin look yellow.",
+   "The doctor checked the baby's bilirubin after birth.",
+   "Bilirubin is part of the liver test results.",
+   "His bilirubin level is normal, so the liver is fine."
+  ],
+  "note": ""
+ },
+ "rationalist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quickstep": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "troubleshooter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "nebulizer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "betaine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "photoelectron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trolleybus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "banya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "coca": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Coca grows in the mountains of South America.",
+   "Farmers in the Andes grow coca on small farms.",
+   "People there chew coca leaves to fight tiredness.",
+   "The coca plant has small, oval green leaves."
+  ],
+  "note": ""
+ },
+ "niqab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "echinacea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "priming": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also means the first coat of paint."
+ },
+ "adenoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "revisionist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Many historians called the professor a revisionist.",
+   "Revisionists say the old story of the war is wrong.",
+   "The revisionist wrote a new book about the revolution.",
+   "Some revisionists deny facts that are very clear."
+  ],
+  "note": ""
+ },
+ "fossa": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "podcaster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The podcaster interviews a new guest every week.",
+   "She is a popular podcaster with thousands of listeners.",
+   "Many podcasters record their shows at home.",
+   "The podcaster asked her guest great questions."
+  ],
+  "note": ""
+ },
+ "stoma": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "After the surgery, he has a stoma on his belly.",
+   "The nurse showed her how to clean the stoma.",
+   "A stoma bag collects waste from the body.",
+   "Living with a stoma is easier than many people think."
+  ],
+  "note": "In biology, a stoma is also a tiny hole in a leaf. Plural: stomas or stomata."
+ },
+ "hegemon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "The country became the hegemon of the whole region.",
+   "The empire was the hegemon of its time.",
+   "Some people fear a new global hegemon.",
+   "No hegemon can control the world forever."
+  ],
+  "note": ""
+ },
+ "chorale": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The choir sang a beautiful chorale at the end.",
+   "He played a Bach chorale on the church organ.",
+   "A chorale is a slow, simple church song.",
+   "We learned an old German chorale in music class."
+  ],
+  "note": "Also means a choir."
+ },
+ "formalin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sabra": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "drang": {
+  "v": "not_english",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Sturm und Drang was a German literary movement.",
+   "Our literature class studied the Sturm und Drang period.",
+   "The music has the wild feeling of Sturm und Drang.",
+   "Teenage years are often full of Sturm und Drang."
+  ],
+  "note": "Not used alone in English; only in \"Sturm und Drang\" (storm and stress)."
+ },
+ "carotene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Carrots and other orange vegetables are rich in carotene.",
+   "Carotene gives carrots and pumpkins their orange color.",
+   "Your body turns carotene into vitamin A.",
+   "Pumpkins and sweet potatoes have lots of carotene."
+  ],
+  "note": ""
+ },
+ "pion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A pion is a tiny particle made of quarks.",
+   "Pions are produced when particles hit each other.",
+   "The pion lives for a very short time.",
+   "The scientists measured the mass of the pion."
+  ],
+  "note": ""
+ },
+ "parasailing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "glycine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Glycine is the simplest amino acid in the body.",
+   "Some people take glycine to help them sleep.",
+   "Glycine tastes a little sweet, like sugar.",
+   "The body makes glycine on its own every day."
+  ],
+  "note": ""
+ },
+ "reformist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She is a young reformist in the ruling party.",
+   "The reformists want new laws against corruption.",
+   "He won the election as a reformist.",
+   "The reformist promised big changes in the courts."
+  ],
+  "note": ""
+ },
+ "effector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aggregator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "parfum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Perfume\" is the common English word."
+ },
+ "wali": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "folate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Pregnant women need more folate every day.",
+   "Spinach and beans are full of folate.",
+   "The doctor told me to take folate with my vitamins.",
+   "Folate helps your body make new blood cells."
+  ],
+  "note": ""
+ },
+ "recordist": {
+  "v": "false_friend",
+  "s": 0,
+  "reg": [],
+  "ns": false,
+  "note": "A \"recordist\" records sound for film or TV. A person with a sports record is a \"record holder.\""
+ },
+ "prana": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Stalinist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "radioisotope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Doctors use a radioisotope for this kind of scan.",
+   "This radioisotope helps treat thyroid problems.",
+   "The lab stores its radioisotopes in a safe room.",
+   "Every radioisotope gives off some radiation."
+  ],
+  "note": ""
+ },
+ "granuloma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pectin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "distillate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "syllogism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "magneto": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The old motorcycle has a magneto instead of a battery.",
+   "A magneto makes the spark for the engine.",
+   "He fixed the magneto on the lawn mower.",
+   "Many small planes still use a magneto for safety."
+  ],
+  "note": ""
+ },
+ "codon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "reseda": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Usually called \"mignonette\" in everyday English."
+ },
+ "sauropod": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anschluss": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital A."
+ },
+ "knockdown": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sai": {
+  "v": "keep",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tramadol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The doctor gave me tramadol for my back pain.",
+   "Tramadol can make you feel sleepy and dizzy.",
+   "Don't drink alcohol while you take tramadol.",
+   "Tramadol is a strong painkiller, so you need a prescription."
+  ],
+  "note": ""
+ },
+ "humus": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Don't confuse with \"hummus,\" the chickpea dip."
+ },
+ "loa": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "note": "Also spelled \"lwa\"."
+ },
+ "edamame": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acyclovir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "antiphon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kanban": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "monohydrate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aesthete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He is an aesthete who loves fine art and music.",
+   "The aesthete decorated his apartment with great care.",
+   "As an aesthete, she hates ugly buildings.",
+   "Only an aesthete would spend so much on a vase."
+  ],
+  "note": ""
+ },
+ "matcha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hydride": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Some batteries use a metal hydride inside.",
+   "A hydride is a compound that contains hydrogen.",
+   "The car has a nickel-metal hydride battery.",
+   "Scientists use hydrides to store hydrogen safely."
+  ],
+  "note": ""
+ },
+ "hypochondria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ecclesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The ecclesia met in a small house every Sunday.",
+   "In Greek, ecclesia means the community of believers.",
+   "The early ecclesia was small but very active.",
+   "The priest wrote about the role of the ecclesia today."
+  ],
+  "note": ""
+ },
+ "ave": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "The choir sang the \"Ave Maria\" softly at the end.",
+   "The old Latin prayer begins with the word \"ave.\"",
+   "\"Ave\" is a Latin word that means \"hail\" or \"hello.\"",
+   "She learned an old church song that starts with \"ave.\""
+  ],
+  "note": "Most often \"Ave\" is short for \"avenue.\" The greeting is used mainly in \"Ave Maria.\""
+ },
+ "Pekingese": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "celestine": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"celestite.\""
+ },
+ "pentobarbital": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ }
+}

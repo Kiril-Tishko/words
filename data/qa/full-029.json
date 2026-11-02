@@ -1,0 +1,719 @@
+{
+ "canton": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a canton · cantons",
+  "say": "",
+  "note": ""
+ },
+ "showroom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a showroom · showrooms",
+  "say": "",
+  "note": ""
+ },
+ "scalpel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a scalpel · scalpels",
+  "say": "",
+  "note": ""
+ },
+ "Zionist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a Zionist · Zionists",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Zionists wanted a homeland for Jewish people.",
+   "Her grandfather was a Zionist who moved to Israel.",
+   "The early Zionists met at large meetings in Europe.",
+   "Not every Jewish person is a Zionist."
+  ]
+ },
+ "composite": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a composite · composites",
+  "say": "",
+  "note": "Most often \"composite\" is an adjective: \"a composite photo\" (made of several parts).",
+  "ex": [
+   "The bike frame is made of a light composite.",
+   "Many new airplanes are built from strong composites.",
+   "Our new deck is made of wood composite.",
+   "This composite is lighter than steel but just as strong."
+  ]
+ },
+ "networking": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "networking · uncountable",
+  "say": "",
+  "note": "Uncountable. Also means connecting computers: \"computer networking.\"",
+  "ex": [
+   "Networking helped me find my new job.",
+   "The conference is a great place for networking.",
+   "She is very good at networking with clients.",
+   "We have a networking event every month."
+  ]
+ },
+ "buoy": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a buoy · buoys",
+  "say": "",
+  "note": ""
+ },
+ "antisemitism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "antisemitism · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and no plural. Also spelled \"anti-Semitism.\"",
+  "ex": [
+   "The school taught students about antisemitism and racism.",
+   "Many leaders spoke out against antisemitism.",
+   "Antisemitism is still a serious problem today.",
+   "The report shows a rise in antisemitism."
+  ]
+ },
+ "merchandising": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "merchandising · uncountable",
+  "say": "",
+  "note": "Uncountable. Also selling products with a movie or team name: \"movie merchandising.\"",
+  "ex": [
+   "She works in merchandising for a big clothing store.",
+   "Good merchandising helps stores sell more products.",
+   "The merchandising team changes the window displays every week.",
+   "Smart merchandising puts popular items at eye level."
+  ]
+ },
+ "shaker": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a shaker · shakers",
+  "say": "",
+  "note": "Also a \"salt shaker\": a small container for salt at the table.",
+  "ex": [
+   "Put the ice and juice in a shaker.",
+   "The bartender mixed the drink in a shaker.",
+   "Shake the shaker hard for ten seconds.",
+   "I bought a metal shaker for making cocktails."
+  ]
+ },
+ "secretariat": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a secretariat · secretariats",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The conference secretariat is on the second floor.",
+   "She works for the conference secretariat.",
+   "The secretariat will send the papers to all members.",
+   "Contact the secretariat if you have any questions."
+  ]
+ },
+ "chameleon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a chameleon · chameleons",
+  "say": "",
+  "note": ""
+ },
+ "wellness": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "wellness · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and no plural.",
+  "ex": [
+   "Our company has a free wellness program.",
+   "She runs a small wellness center downtown.",
+   "Yoga and good sleep are important for your wellness.",
+   "The hotel offers massages and other wellness treatments."
+  ]
+ },
+ "bao": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a bao · bao",
+  "say": "",
+  "note": "Often called \"bao buns.\" The plural is usually \"bao.\"",
+  "ex": [
+   "We ordered pork bao for lunch.",
+   "The bao is soft because it is steamed.",
+   "She makes bao at home with her kids.",
+   "This bao has sweet bean paste inside."
+  ]
+ },
+ "compressor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a compressor · compressors",
+  "say": "",
+  "note": ""
+ },
+ "phi": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a phi · phis",
+  "say": "",
+  "note": ""
+ },
+ "fauna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "fauna · uncountable",
+  "say": "",
+  "note": "Uncountable; often in \"flora and fauna\" (plants and animals).",
+  "ex": [
+   "The island has rich flora and fauna.",
+   "The local fauna includes deer, foxes, and wolves.",
+   "Pollution is a danger to the fauna of the river.",
+   "Scientists came to study the fauna of the desert."
+  ]
+ },
+ "rave": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a rave · raves",
+  "say": "",
+  "note": "Often \"rave\" means to praise a lot: \"rave reviews,\" \"She raves about this cafe.\"",
+  "ex": [
+   "We went to a rave in an old warehouse.",
+   "The rave went on until the morning.",
+   "He loves electronic music and big raves.",
+   "Thousands of young people came to the rave."
+  ]
+ },
+ "gymnast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gymnast · gymnasts",
+  "say": "",
+  "note": ""
+ },
+ "combatant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a combatant · combatants",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Both combatants agreed to stop fighting.",
+   "The law protects people who are not combatants.",
+   "Many combatants were hurt in the battle.",
+   "Children should never be used as combatants."
+  ]
+ },
+ "modem": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a modem · modems",
+  "say": "",
+  "note": ""
+ },
+ "minus": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a minus · minuses",
+  "say": "",
+  "note": "Also used in math like a preposition: \"Ten minus four is six.\"",
+  "ex": [
+   "Can you tell me what ten minus four is?",
+   "It is minus ten degrees outside this morning.",
+   "The small kitchen is a big minus for this apartment.",
+   "Put a minus sign in front of the number."
+  ]
+ },
+ "caucus": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a caucus · caucuses",
+  "say": "",
+  "note": "Mostly American: a meeting of party members to choose candidates or leaders."
+ },
+ "pinball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "pinball · uncountable",
+  "say": "",
+  "note": "Uncountable for the game: \"play pinball\"; a \"pinball machine.\""
+ },
+ "mainframe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a mainframe · mainframes",
+  "say": "",
+  "note": ""
+ },
+ "monoxide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "monoxide · uncountable",
+  "say": "",
+  "note": "Almost always in \"carbon monoxide,\" a dangerous gas.",
+  "ex": [
+   "Carbon monoxide has no color and no smell.",
+   "Put a carbon monoxide detector in your home.",
+   "The monoxide came from a broken gas heater.",
+   "Carbon monoxide poisoning can kill you while you sleep."
+  ]
+ },
+ "connector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a connector · connectors",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The cable has a USB connector at one end.",
+   "The connector on my charger is broken.",
+   "Push the connector into the port until it clicks.",
+   "This connector fits most new phones and laptops."
+  ]
+ },
+ "kaiser": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "the Kaiser · kaisers",
+  "say": "",
+  "note": "Usually \"the Kaiser,\" with a capital K: the German emperor.",
+  "ex": [
+   "Kaiser was the title of the German emperor.",
+   "Crowds cheered when the Kaiser rode past.",
+   "The Kaiser lived in a grand palace.",
+   "Our history class learned how the Kaiser lost power."
+  ]
+ },
+ "router": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a router · routers",
+  "say": "",
+  "note": ""
+ },
+ "salami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "salami · uncountable",
+  "say": "",
+  "note": "Usually uncountable: some salami, a slice of salami.",
+  "ex": [
+   "I'd like a salami sandwich, please.",
+   "Cut the salami into thin slices.",
+   "We had bread, cheese, and salami for dinner.",
+   "This salami is a little too salty for me."
+  ]
+ },
+ "propane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "propane · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "imperialism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "imperialism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "vertigo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "vertigo · uncountable",
+  "say": "",
+  "note": "Uncountable. Also a fear of high places: \"I get vertigo on tall buildings.\""
+ },
+ "carp": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a carp · carp",
+  "say": "",
+  "note": "The plural is usually \"carp\": two carp."
+ },
+ "scone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a scone · scones",
+  "say": "",
+  "note": ""
+ },
+ "gentry": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the gentry",
+  "say": "",
+  "note": "Plural meaning; used with \"the\" and no \"s\"."
+ },
+ "pepperoni": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "pepperoni · uncountable",
+  "say": "",
+  "note": "Uncountable: some pepperoni, a slice of pepperoni."
+ },
+ "radical": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a radical · radicals",
+  "say": "",
+  "note": "Most often \"radical\" is an adjective: \"a radical change\" (a very big change).",
+  "ex": [
+   "The police are watching a group of radicals.",
+   "He was a radical when he was young.",
+   "The radicals wanted to change everything at once.",
+   "Some radicals left the party after the vote."
+  ]
+ },
+ "construct": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a construct · constructs",
+  "say": "",
+  "note": "Most often \"construct\" is a verb, to build: \"They will construct a new bridge.\"",
+  "ex": [
+   "Many people say that time is a social construct.",
+   "Intelligence is a complex construct that is hard to measure.",
+   "The theory is based on several abstract constructs.",
+   "Researchers measured the construct with a short survey."
+  ]
+ },
+ "conglomerate": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a conglomerate · conglomerates",
+  "say": "",
+  "note": ""
+ },
+ "exorcism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an exorcism · exorcisms",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The priest performed an exorcism in the old house.",
+   "The movie shows a very scary exorcism.",
+   "The family asked the church for an exorcism.",
+   "Some churches still do exorcisms today."
+  ]
+ },
+ "booster": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a booster · boosters",
+  "say": "",
+  "note": "Often a \"booster shot\": an extra dose of a vaccine."
+ },
+ "pasha": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a pasha · pashas",
+  "say": "",
+  "note": ""
+ },
+ "vandal": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a vandal · vandals",
+  "say": "",
+  "note": ""
+ },
+ "industrialist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an industrialist · industrialists",
+  "say": "",
+  "note": ""
+ },
+ "frontman": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a frontman · frontmen",
+  "say": "",
+  "note": ""
+ },
+ "koala": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a koala · koalas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A koala can sleep up to twenty hours a day.",
+   "The koala was holding on to a tree branch.",
+   "Koalas eat the leaves of only a few kinds of trees.",
+   "We saw a baby koala at the zoo."
+  ]
+ },
+ "buffer": {
+  "v": "keep",
+  "s": 45,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a buffer · buffers",
+  "say": "",
+  "note": "Often means protection: \"Savings are a buffer against hard times.\"",
+  "ex": [
+   "Data waits in a buffer before it is sent.",
+   "The program keeps the sound in a small buffer.",
+   "Make the buffer bigger to stop these errors.",
+   "When the buffer is empty, the video stops playing."
+  ]
+ },
+ "totem": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a totem · totems",
+  "say": "",
+  "note": ""
+ },
+ "username": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a username · usernames",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Enter your username and password, please.",
+   "I forgot my username again, so I can't log in.",
+   "Choose a username that is easy to remember.",
+   "Sorry, that username is already taken."
+  ]
+ },
+ "chassis": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a chassis · chassis",
+  "say": "",
+  "note": "The plural is also \"chassis.\" The final \"s\" is silent."
+ },
+ "shalom": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "He said \"shalom\" when he walked in.",
+   "The word \"shalom\" means peace in Hebrew.",
+   "She greeted her friends with a warm \"shalom.\"",
+   "We said \"shalom\" to everyone and went home."
+  ]
+ },
+ "bimbo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a bimbo · bimbos",
+  "say": "",
+  "note": "Rude, insulting word; avoid it.",
+  "ex": [
+   "He called her a bimbo, which was very rude.",
+   "She played a silly bimbo in the comedy.",
+   "Please don't call people bimbos; it's insulting.",
+   "She is very smart, not a bimbo at all."
+  ]
+ },
+ "penicillin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "penicillin · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and no plural.",
+  "ex": [
+   "The doctor gave me penicillin for my sore throat.",
+   "Tell the nurse if you are allergic to penicillin.",
+   "Penicillin was the first real antibiotic.",
+   "Take the penicillin twice a day with food."
+  ]
+ },
+ "corset": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a corset · corsets",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She wore a tight corset under her dress.",
+   "The corset made it hard to breathe.",
+   "Corsets were very popular in the 1800s.",
+   "The shop sells corsets and other old-style clothes."
+  ]
+ },
+ "impeachment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an impeachment · impeachments",
+  "say": "",
+  "note": ""
+ },
+ "camper": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a camper · campers",
+  "say": "",
+  "note": "Often \"camper\" means a person who camps: \"The campers sat around the fire.\""
+ },
+ "endowment": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "an endowment · endowments",
+  "say": "",
+  "note": ""
+ },
+ "risotto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "risotto · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "couture": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "couture · uncountable",
+  "say": "",
+  "note": "Uncountable. Often \"haute couture\": expensive clothes made by hand."
+ }
+}

@@ -1,0 +1,1578 @@
+{
+ "carjacking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Carjacking is a serious crime in many big cities.",
+   "The police caught the man after the carjacking.",
+   "Lock your car doors to help prevent a carjacking.",
+   "There was a carjacking near the gas station last night."
+  ],
+  "note": ""
+ },
+ "favela": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mate": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"mate\" means a friend (British, informal): \"Thanks, mate!\""
+ },
+ "clicker": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The teacher uses a clicker to change the slides.",
+   "Click the clicker when your dog sits down.",
+   "My clicker for the presentation needs new batteries.",
+   "Can I borrow your clicker for my talk today?"
+  ],
+  "note": ""
+ },
+ "manna": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "The Bible says manna fell from the sky every morning.",
+   "The hungry people ate manna in the desert.",
+   "After a long dry month, this rain was like manna from heaven.",
+   "For the poor village, the new money was manna from heaven."
+  ],
+  "note": "Often in the phrase \"manna from heaven\"."
+ },
+ "galleon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A Spanish galleon sank near the island long ago.",
+   "Divers found gold coins from an old galleon.",
+   "The galleon had three tall masts and many sails.",
+   "In the museum, you can see a model of a galleon."
+  ],
+  "note": ""
+ },
+ "sanitizer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "retweet": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "amygdala": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "ellipse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "corgi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My neighbor has a corgi with very short legs.",
+   "The corgi ran around the park after the ball.",
+   "We want to adopt a corgi from the shelter.",
+   "Corgis are friendly dogs and need a lot of walks."
+  ],
+  "note": ""
+ },
+ "mandala": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "microprocessor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pacer": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "storyboard": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "lambda": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aftershock": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "urethra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sloop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "masochist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sulfide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Hydrogen sulfide smells like rotten eggs.",
+   "This rock contains a lot of iron sulfide.",
+   "Sulfide gas can be dangerous in small rooms.",
+   "The water test found sulfide in our well."
+  ],
+  "note": ""
+ },
+ "oxytocin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Oxytocin is often called the love hormone.",
+   "A long hug can make your body release oxytocin.",
+   "Doctors may give oxytocin to a woman during childbirth.",
+   "Oxytocin helps mothers feel close to their babies."
+  ],
+  "note": ""
+ },
+ "absolute": {
+  "v": "keep",
+  "s": 2,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Most often \"absolute\" is an adjective meaning total: \"absolute silence.\""
+ },
+ "FPS": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "emphysema": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gardenia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The white gardenia in the kitchen smells so sweet.",
+   "She wore a white gardenia in her hair.",
+   "I bought a gardenia in a pot for the porch.",
+   "Gardenias need a lot of light and warm air."
+  ],
+  "note": ""
+ },
+ "narcotic": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Usually plural \"narcotics\" for illegal drugs."
+ },
+ "beeper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "Doctors used to carry beepers at work.",
+   "My beeper went off in the middle of dinner.",
+   "Do people still use beepers in hospitals today?",
+   "He checked the phone number on his beeper."
+  ],
+  "note": "Same as \"pager\"."
+ },
+ "chimera": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chevron": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acetone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Use acetone to remove your old nail polish.",
+   "Acetone has a strong smell, so open a window.",
+   "This nail polish remover has no acetone in it.",
+   "Keep the bottle of acetone away from fire."
+  ],
+  "note": "Uncountable: \"some acetone\"."
+ },
+ "dynamo": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hibiscus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "zigzag": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "proof": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ricochet": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He was hit by a ricochet during the shooting.",
+   "A ricochet from the bullet broke a window.",
+   "A ricochet can be very dangerous for everyone nearby.",
+   "The police said the ricochet came off the stone wall."
+  ],
+  "note": ""
+ },
+ "conclave": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The cardinals met in a conclave to choose a new pope.",
+   "The last conclave lasted only two days.",
+   "Everyone in the square waited for news from the conclave.",
+   "The conclave is held in secret in Rome."
+  ],
+  "note": ""
+ },
+ "modulator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "churro": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We bought hot churros at the fair.",
+   "Dip the churro in warm chocolate before you eat it.",
+   "This churro is hot, sweet, and very crispy.",
+   "Kids love churros with a lot of sugar on top."
+  ],
+  "note": ""
+ },
+ "maki": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I ordered salmon maki and a bowl of miso soup.",
+   "Maki are sushi rolls wrapped in seaweed.",
+   "We made maki at home with rice and cucumber.",
+   "This plate has eight pieces of tuna maki."
+  ],
+  "note": ""
+ },
+ "traditionalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pontoon": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hexagon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A hexagon is a shape with six sides.",
+   "The bathroom tiles are shaped like hexagons.",
+   "Draw a hexagon in the middle of your paper.",
+   "Bees build their small cells in a hexagon shape."
+  ],
+  "note": ""
+ },
+ "onyx": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She wears a black onyx ring every day.",
+   "Onyx is a stone that is usually black.",
+   "The table in the hotel has an onyx top.",
+   "He bought onyx earrings for his wife's birthday."
+  ],
+  "note": ""
+ },
+ "bey": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "depositor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "impala": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Plural can be \"impala\" or \"impalas.\""
+ },
+ "fallback": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "If the main server stops, the backup is our fallback.",
+   "We need a fallback in case the payment fails.",
+   "The app uses a simple fallback when there is no internet.",
+   "Keep some cash as a fallback when you travel."
+  ],
+  "note": ""
+ },
+ "filet": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I'll have the beef filet with potatoes, please.",
+   "She cooked a salmon filet for dinner.",
+   "The filet was soft and juicy, and not too dry.",
+   "Buy two chicken filets at the store for dinner."
+  ],
+  "note": "\"Fillet\" is also common, especially for fish."
+ },
+ "khagan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The khagan was the ruler of the Khazar state.",
+   "The khagan lived in a big palace in the capital.",
+   "People had to pay taxes to the khagan.",
+   "In history class, we learned about the first khagan."
+  ],
+  "note": ""
+ },
+ "baronet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He became a baronet after his father died.",
+   "A baronet is called Sir in Britain.",
+   "The baronet lived in a large country house.",
+   "Her husband is a baronet from an old family."
+  ],
+  "note": ""
+ },
+ "medevac": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "The soldier was taken to the hospital by medevac.",
+   "They called for a medevac helicopter after the accident.",
+   "The medevac arrived in ten minutes.",
+   "Bad weather delayed the medevac for several hours."
+  ],
+  "note": ""
+ },
+ "antagonism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "motocross": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My brother races in motocross every weekend.",
+   "Motocross is a very loud and dirty sport.",
+   "He broke his arm at a motocross race.",
+   "We watched motocross on TV last Sunday."
+  ],
+  "note": "Uncountable: \"do motocross\"."
+ },
+ "dengue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "humanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Humanism puts people and their needs at the center.",
+   "We studied Renaissance humanism in history class.",
+   "Many of her ideas come from humanism.",
+   "Humanism values science, reason, and kindness to others."
+  ],
+  "note": ""
+ },
+ "teak": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tuner": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "histamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Histamine causes many allergy symptoms, like sneezing.",
+   "Allergy pills block histamine in your body.",
+   "Your body releases histamine after a bee sting.",
+   "Some foods, like cheese and wine, are high in histamine."
+  ],
+  "note": ""
+ },
+ "klaxon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "benzene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Benzene is a dangerous chemical for people.",
+   "Gasoline contains a small amount of benzene.",
+   "Workers must not breathe benzene in the factory.",
+   "Benzene is a clear liquid with a sweet smell."
+  ],
+  "note": ""
+ },
+ "googol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "A number: 1 followed by 100 zeros."
+ },
+ "booker": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "downtime": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable noun."
+ },
+ "amphitheater": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cathode": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "joule": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A joule is a unit of energy in physics.",
+   "This battery can store many joules of energy.",
+   "In class, we measured the energy in joules.",
+   "One joule is a very small amount of energy."
+  ],
+  "note": ""
+ },
+ "siphon": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ragtime": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He plays ragtime on the old piano.",
+   "Ragtime was very popular around the year 1900.",
+   "The movie has a happy ragtime soundtrack.",
+   "I love the fast and happy sound of ragtime."
+  ],
+  "note": ""
+ },
+ "calla": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She carried white calla lilies at her wedding.",
+   "The calla is a white flower with a long stem.",
+   "Put the callas in a tall glass vase.",
+   "Callas grow well in wet soil near water."
+  ],
+  "note": ""
+ },
+ "epithet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "spinner": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My son loves his new fidget spinner.",
+   "The spinner turned fast on the table.",
+   "Spin the spinner to see how many steps to move.",
+   "This board game comes with a red spinner."
+  ],
+  "note": ""
+ },
+ "bento": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "palanquin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "digital": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "She works in digital marketing at a big company.",
+   "Our shop needs a good digital marketing plan.",
+   "He runs digital ads for small businesses.",
+   "They are looking for a digital manager for the team."
+  ],
+  "note": "Most often \"digital\" means using computers or numbers: \"a digital camera.\""
+ },
+ "ricotta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Add some ricotta to the pasta before serving.",
+   "I made soft pancakes with ricotta for breakfast.",
+   "This cake is made with ricotta cheese.",
+   "Can you buy some ricotta at the store?"
+  ],
+  "note": ""
+ },
+ "brr": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "Brr, it's really cold outside today!",
+   "Brr! Close the window, please, it's freezing.",
+   "Brr, the water in this lake is so cold.",
+   "\"Brr,\" she said, and put on her warm coat."
+  ],
+  "note": ""
+ },
+ "hieroglyph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gnocchi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually plural in use: 'the gnocchi are soft'."
+ },
+ "influencer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "compendium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ethyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "timeshare": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "antihistamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Take an antihistamine for your allergy.",
+   "This antihistamine makes me sleepy in the afternoon.",
+   "I always carry antihistamines with me in spring.",
+   "Can I buy an antihistamine without a prescription?"
+  ],
+  "note": ""
+ },
+ "sorbet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "grunge": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He listened to grunge music in the nineties.",
+   "Grunge bands often wore old flannel shirts.",
+   "She loves grunge style: torn jeans and boots.",
+   "Grunge started in the US in the late 1980s."
+  ],
+  "note": ""
+ },
+ "trimmer": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "octane": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kabuki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We watched kabuki in Tokyo last summer.",
+   "Kabuki actors wear bright and heavy makeup.",
+   "She is taking a class on kabuki theater.",
+   "Kabuki shows can last for several hours."
+  ],
+  "note": ""
+ },
+ "Zionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quasar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sequoia": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "beige": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Beige is a light brown color, like sand.",
+   "She chose beige for the walls of her bedroom.",
+   "Beige goes well with white and dark brown.",
+   "I don't like beige because it's too boring."
+  ],
+  "note": ""
+ },
+ "tropic": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "antifreeze": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Check the antifreeze in your car before winter.",
+   "Add antifreeze so the engine doesn't freeze.",
+   "Antifreeze is poisonous to cats and dogs.",
+   "I bought antifreeze at the gas station."
+  ],
+  "note": "Uncountable."
+ },
+ "diphtheria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Children get a shot against diphtheria.",
+   "Diphtheria is rare now because of vaccines.",
+   "My vaccine card shows diphtheria and tetanus.",
+   "Diphtheria is a dangerous infection of the throat."
+  ],
+  "note": ""
+ },
+ "cliffhanger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "parapet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Yule": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "We light a big candle at Yule every year.",
+   "Yule is an old winter festival in northern Europe.",
+   "The whole family gathers at home for Yule.",
+   "We burned a Yule log in the fireplace."
+  ],
+  "note": ""
+ },
+ "koto": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She plays the koto at the summer festival.",
+   "The koto is a long Japanese string instrument.",
+   "I heard a koto in the Japanese restaurant.",
+   "A koto usually has thirteen strings."
+  ],
+  "note": ""
+ },
+ "telepath": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pastel": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rho": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "minibar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "haggis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We tried haggis on our trip to Scotland.",
+   "Haggis is often served with potatoes and turnips.",
+   "I didn't like the haggis very much.",
+   "Haggis is a traditional Scottish dish made with oats."
+  ],
+  "note": ""
+ },
+ "liana": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "copter": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "My son flies his small copter in the park.",
+   "The copter has four little propellers and a camera.",
+   "Charge the copter's battery before you fly it.",
+   "We filmed the beach from above with a copter."
+  ],
+  "note": "Most often \"copter\" is short for \"helicopter\": \"a news copter.\""
+ },
+ "topper": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "Esperanto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My aunt speaks Esperanto very well.",
+   "Esperanto is quite easy to learn.",
+   "I learned Esperanto with an app on my phone.",
+   "Esperanto was made to be a world language."
+  ],
+  "note": ""
+ },
+ "glycerin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This soap contains glycerin and coconut oil.",
+   "Glycerin helps keep your skin soft.",
+   "Add some glycerin to the bubble mix.",
+   "You can buy glycerin at the pharmacy."
+  ],
+  "note": ""
+ },
+ "Vedanta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He studies Vedanta at a school in India.",
+   "Vedanta is an old Hindu philosophy.",
+   "This book explains Vedanta in simple words.",
+   "She teaches Vedanta and yoga in our town."
+  ],
+  "note": ""
+ },
+ "balaclava": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "transceiver": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "This radio is a transceiver, so it sends and receives.",
+   "Check the transceiver before the trip.",
+   "The network needs a new transceiver.",
+   "The pilot used a transceiver to talk to the tower."
+  ],
+  "note": ""
+ },
+ "berserker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The berserker fought without any fear.",
+   "In the game, I play a berserker with an axe.",
+   "Berserkers were wild warriors in Viking times.",
+   "He ran into battle like a berserker."
+  ],
+  "note": ""
+ },
+ "photojournalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "concealer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I put concealer under my eyes in the morning.",
+   "This concealer covers dark spots well.",
+   "She needs a lighter concealer for her skin.",
+   "Apply concealer before you use powder."
+  ],
+  "note": ""
+ },
+ "grenadier": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "subcontinent": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "analog": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The drug is a cheaper analog of the original medicine.",
+   "Scientists made an analog of the natural hormone.",
+   "This chemical is a close analog of caffeine.",
+   "There is no exact analog of this word in English."
+  ],
+  "note": "Most often \"analog\" is an adjective: \"an analog clock.\""
+ },
+ "palisade": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The old fort had a tall wooden palisade.",
+   "Soldiers built a palisade around the camp.",
+   "The palisade protected the village from attacks.",
+   "Part of the old palisade still stands today."
+  ],
+  "note": ""
+ },
+ "vulva": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Medical word."
+ },
+ "feta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: \"some feta\", often \"feta cheese\"."
+ },
+ "permafrost": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "In the far north, the ground is permafrost.",
+   "Warmer weather is making the permafrost melt.",
+   "It is hard to build houses on permafrost.",
+   "Scientists found an old animal in the permafrost."
+  ],
+  "note": ""
+ },
+ "happening": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"happening\" is a form of \"happen\": \"What is happening?\""
+ },
+ "hymen": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "megawatt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "reprint": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wadi": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cringe": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "ex": [
+   "That old video of me is pure cringe.",
+   "His speech at the party was full of cringe.",
+   "I can't watch this show, it's too much cringe.",
+   "The ad was so bad, it was total cringe."
+  ],
+  "note": "Most often \"cringe\" is a verb: \"I cringe when I hear my voice.\""
+ },
+ "strudel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hwan": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The hwan was the old money of South Korea.",
+   "In 1962, the hwan was replaced by the won.",
+   "This old coin is worth one hwan.",
+   "Prices were in hwan in the 1950s."
+  ],
+  "note": ""
+ },
+ "thesaurus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Use a thesaurus to find another word for \"nice.\"",
+   "I looked for a better word in the thesaurus.",
+   "My phone has a free thesaurus app.",
+   "A thesaurus can help you write better essays."
+  ],
+  "note": ""
+ },
+ "satyr": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A satyr is half man and half goat.",
+   "The satyr played music in the forest.",
+   "The painting shows a dancing satyr.",
+   "Satyrs appear in many old Greek stories."
+  ],
+  "note": ""
+ },
+ "soju": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dreadnought": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "assessor": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dribbling": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dubstep": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He makes dubstep music on his computer.",
+   "The club plays dubstep on Saturday nights.",
+   "I don't like loud dubstep at parties.",
+   "Dubstep was very popular about ten years ago."
+  ],
+  "note": ""
+ },
+ "senor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "\"Thank you, senor,\" said the waiter with a smile.",
+   "Senor Garcia is our new Spanish teacher.",
+   "Good morning, senor, how can I help you?",
+   "The old senor asked us for directions."
+  ],
+  "note": "Spanish word; usually written \"señor.\""
+ },
+ "daiquiri": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I'll have a strawberry daiquiri, please.",
+   "A daiquiri is made with rum and lime.",
+   "We drank daiquiris by the pool.",
+   "This daiquiri is too sweet for me."
+  ],
+  "note": ""
+ },
+ "bambino": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "Look at the cute little bambino in the stroller!",
+   "The bambino was sleeping in his stroller.",
+   "She just had a bambino last month.",
+   "The happy bambino smiled at everyone."
+  ],
+  "note": "Informal; 'baby' or 'kid' is more common."
+ },
+ "barbiturate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Barbiturates were once used as sleeping pills.",
+   "The doctor stopped giving him barbiturates.",
+   "A barbiturate can be very dangerous with alcohol.",
+   "He took too many barbiturates and went to hospital."
+  ],
+  "note": ""
+ },
+ "tuff": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "souffle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"soufflé\"."
+ },
+ "legate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The pope sent a legate to the meeting.",
+   "A Roman legate led the army into battle.",
+   "The legate brought a letter from Rome.",
+   "He was named the pope's legate in France."
+  ],
+  "note": ""
+ },
+ "fatwa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "heparin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The nurse gave him heparin in the hospital.",
+   "Heparin helps stop dangerous blood clots.",
+   "She takes heparin for a week after surgery.",
+   "The doctor checked his heparin dose."
+  ],
+  "note": ""
+ },
+ "break point": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "code review": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "death metal": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "concept art": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "false start": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rock concert": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jazz band": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "national socialist": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The national socialists came to power in 1933.",
+   "He studied national socialist posters in history class.",
+   "National socialists burned many books in public.",
+   "The film is about a former national socialist."
+  ],
+  "note": ""
+ },
+ "glam rock": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "filet mignon": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nouveau riche": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": "Often used as an adjective too, and usually negative."
+ },
+ "cross-dressing": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "bootlegger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The bootlegger sold illegal alcohol at night.",
+   "My great-grandpa was a bootlegger in the 1920s.",
+   "Bootleggers hid whiskey in their cars.",
+   "The movie is about a famous bootlegger."
+  ],
+  "note": ""
+ }
+}

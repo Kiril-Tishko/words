@@ -1,0 +1,1591 @@
+{
+ "misanthrope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "saki": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "naturist": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "friendly": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The people at this hotel are very friendly.",
+   "She always gives me a friendly smile in the morning.",
+   "Is your dog friendly with small children?",
+   "Our new neighbors seem friendly and helpful."
+  ],
+  "note": ""
+ },
+ "shellac": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Paint the old table with a coat of shellac.",
+   "Shellac makes the wooden floor look shiny.",
+   "Let the shellac dry before you touch the chair.",
+   "Where can I buy shellac for this wooden door?"
+  ],
+  "note": ""
+ },
+ "angora": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Also an angora rabbit, goat, or cat."
+ },
+ "stevedore": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "More common everyday word: dockworker."
+ },
+ "glycogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "scopolamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "antitoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "commissariat": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In the Soviet Union, a commissariat was like a ministry.",
+   "He worked in the People's Commissariat of Education.",
+   "Each commissariat was run by a people's commissar.",
+   "In 1946, every commissariat became a ministry."
+  ],
+  "note": "Also an army department that supplies food and equipment."
+ },
+ "halitosis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "The medical word for bad breath."
+ },
+ "sebum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tryptophan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Turkey and milk both contain tryptophan.",
+   "Tryptophan helps the body make serotonin.",
+   "Some people take tryptophan to sleep better.",
+   "Eggs and cheese have tryptophan too."
+  ],
+  "note": ""
+ },
+ "anode": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The anode and the cathode are the two ends of a battery.",
+   "In this experiment, the anode is connected to the plus side.",
+   "Water heaters have a metal anode inside the tank.",
+   "The anode in an old water heater wears out over time."
+  ],
+  "note": ""
+ },
+ "lidar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The new phone has a lidar sensor in the camera.",
+   "Self-driving cars use lidar to see the road.",
+   "Lidar measures distance with pulses of light.",
+   "They made a map of the forest with lidar."
+  ],
+  "note": "Also written LIDAR."
+ },
+ "strongman": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He competes in strongman events every summer.",
+   "The strongman pulled a heavy truck with a rope.",
+   "Strongman training is very hard on your back.",
+   "We watched a strongman contest on TV last night."
+  ],
+  "note": "Also often a leader who rules by force: \"a military strongman.\""
+ },
+ "melissa": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Melissa tea helps me relax at night.",
+   "She grows melissa in her garden.",
+   "The leaves of melissa smell like lemon.",
+   "Add some fresh melissa to the fruit salad."
+  ],
+  "note": "Most often \"Melissa\" is a girl's name; the herb is usually called \"lemon balm.\""
+ },
+ "sou": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; mostly used in \"not a sou.\""
+ },
+ "rinpoche": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "A title of respect; usually written with a capital R."
+ },
+ "flexor": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "He hurt a flexor in his arm at the gym.",
+   "Flexors help you bend your arms and legs.",
+   "Stretch your hip flexors after running.",
+   "The flexor muscle in my wrist feels tight."
+  ],
+  "note": ""
+ },
+ "marsala": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital: Marsala."
+ },
+ "pedant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chinos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Always plural: a pair of chinos."
+ },
+ "highlighter": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She put some highlighter on her cheeks before the party.",
+   "This highlighter makes your skin look bright.",
+   "Can you recommend a good highlighter for dry skin?",
+   "Use a small brush to apply the highlighter."
+  ],
+  "note": "Also a pen for marking text: \"a yellow highlighter.\""
+ },
+ "vindaloo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "shamanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Shamanism is still common in parts of Siberia.",
+   "Shamanism often uses drums, songs, and dance.",
+   "She studies shamanism at the university.",
+   "This book explains the history of shamanism."
+  ],
+  "note": ""
+ },
+ "suplex": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The wrestler lifted his opponent and did a suplex.",
+   "A suplex is a move where you throw someone backward.",
+   "The crowd cheered after a perfect suplex.",
+   "Don't try a suplex at home; it's dangerous."
+  ],
+  "note": ""
+ },
+ "dictaphone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often called a \"voice recorder\" in everyday English."
+ },
+ "rhesus": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The doctor tested her blood for the rhesus factor.",
+   "Her blood type is O, rhesus positive.",
+   "Rhesus negative mothers may need a special shot.",
+   "The rhesus test is part of every pregnancy check."
+  ],
+  "note": "Also a monkey: \"a rhesus monkey.\" In blood types, Americans often say \"Rh.\""
+ },
+ "egotism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: too much egotism (not \"an egotism\")."
+ },
+ "cenotaph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "People placed flowers at the cenotaph in the park.",
+   "The town cenotaph honors soldiers who died in the war.",
+   "Let's meet by the cenotaph in the main square.",
+   "People gather at the cenotaph every year in November."
+  ],
+  "note": ""
+ },
+ "neuralgia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "propylene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Propylene is a gas used in the plastics industry.",
+   "The factory produces propylene for many products.",
+   "Many plastic bottles are made from propylene.",
+   "Propylene is made from oil and natural gas."
+  ],
+  "note": ""
+ },
+ "miasma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kookaburra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sirocco": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "shader": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "geta": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "Same form for singular and plural; \"a pair of geta\" is common."
+ },
+ "aldosterone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Aldosterone helps the body control blood pressure.",
+   "The test measured aldosterone in her blood.",
+   "Too much aldosterone can raise blood pressure.",
+   "Aldosterone is made in the adrenal glands."
+  ],
+  "note": ""
+ },
+ "pyridine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Pyridine is a liquid with a strong, bad smell.",
+   "The chemist added pyridine to the mixture.",
+   "Pyridine is used to make some medicines.",
+   "Always wear gloves when you work with pyridine."
+  ],
+  "note": ""
+ },
+ "llano": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The llanos are wide grassy plains in South America.",
+   "Cattle eat grass on the flat llano.",
+   "The llano floods every year in the rainy season.",
+   "We drove for hours across the hot llano."
+  ],
+  "note": ""
+ },
+ "maharishi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kek": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "ex": [
+   "Kek, that meme is so funny.",
+   "He just wrote 'kek' under my post.",
+   "Kek, I really didn't expect that ending.",
+   "Gamers often type kek in the chat."
+  ],
+  "note": "Internet slang for laughing, like 'lol'."
+ },
+ "superfan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "She's a superfan of that band.",
+   "Superfans waited outside the stadium all night.",
+   "My son is a real soccer superfan.",
+   "The show has many superfans online."
+  ],
+  "note": ""
+ },
+ "truism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "It's a truism that time is money.",
+   "His speech was boring and full of truisms.",
+   "That may be a truism, but it's still true.",
+   "\"Practice makes perfect\" is an old truism."
+  ],
+  "note": ""
+ },
+ "rationalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acetylcholine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Acetylcholine helps nerves send signals to muscles.",
+   "The drug blocks acetylcholine in the body.",
+   "We studied acetylcholine in biology class today.",
+   "Low levels of acetylcholine can affect memory."
+  ],
+  "note": ""
+ },
+ "taka": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The taka is the money of Bangladesh.",
+   "One coffee costs about fifty taka.",
+   "I changed my dollars into taka at the airport.",
+   "The price of this shirt is two hundred taka."
+  ],
+  "note": ""
+ },
+ "camisole": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She wore a silk camisole under her jacket.",
+   "This camisole is perfect for hot summer days.",
+   "I bought a white camisole to wear under my blouse.",
+   "The camisole has thin straps and lace at the top."
+  ],
+  "note": "In everyday American English, people often say \"cami\" or \"tank top\"."
+ },
+ "ageism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Ageism is common in job interviews.",
+   "She faced ageism at work after she turned fifty.",
+   "We must fight ageism in our company.",
+   "Ageism hurts older workers who need a job."
+  ],
+  "note": "Uncountable: a lot of ageism (not \"an ageism\")."
+ },
+ "merengue": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "exhibitionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable noun."
+ },
+ "astigmatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "I have astigmatism in my left eye.",
+   "Astigmatism makes things look a little blurry.",
+   "The eye doctor checked me for astigmatism.",
+   "Glasses or contact lenses can correct astigmatism."
+  ],
+  "note": ""
+ },
+ "abductor": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"abductor\" means a kidnapper: \"The police caught the abductor.\""
+ },
+ "kraft": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Wrap the gift in brown kraft paper.",
+   "These boxes are made of strong kraft paper.",
+   "Kraft paper is cheap and good for packing.",
+   "We put the cookies in small kraft bags."
+  ],
+  "note": "Usually used in \"kraft paper.\""
+ },
+ "tarpon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is usually \"tarpon\"."
+ },
+ "probiotic": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I take a probiotic every morning.",
+   "This yogurt has probiotics in it.",
+   "Probiotics can help your stomach after antibiotics.",
+   "The doctor told me to try a probiotic."
+  ],
+  "note": ""
+ },
+ "mastering": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Mastering is the last step before an album is released.",
+   "He paid a studio for the mastering of his songs.",
+   "Good mastering makes music sound clear and loud.",
+   "The mastering of the new album took two days."
+  ],
+  "note": "Most often \"mastering\" means learning something well: \"mastering a language.\""
+ },
+ "verbena": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Verbena has small purple or pink flowers.",
+   "Lemon verbena tea smells fresh and sweet.",
+   "Plant verbena in a sunny spot in your garden.",
+   "Butterflies love the verbena in our yard."
+  ],
+  "note": ""
+ },
+ "muon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A muon is like an electron, but much heavier.",
+   "Scientists detected a muon with a special machine.",
+   "Many muons reach the earth from space.",
+   "A muon lives for a very short time."
+  ],
+  "note": ""
+ },
+ "majlis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The majlis met to discuss the new law.",
+   "He is an elected member of the majlis.",
+   "The majlis voted on the budget yesterday.",
+   "The new majlis has many young members."
+  ],
+  "note": ""
+ },
+ "bruschetta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chupacabra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gryphon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled griffin, which is more common."
+ },
+ "mezcal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "perovskite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tubulin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Tubulin is a protein that builds parts of the cell.",
+   "Some cancer drugs work by blocking tubulin.",
+   "The lab studied tubulin in brain cells.",
+   "Tubulin helps cells divide in the right way."
+  ],
+  "note": ""
+ },
+ "ombre": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "centime": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "One hundredth of a franc."
+ },
+ "monomer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "batiste": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "trebuchet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cation": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agnostic": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": "Also an adjective: \"She is agnostic about religion.\""
+ },
+ "maiko": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "samsara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Buddhists want to escape from samsara.",
+   "Samsara is the cycle of birth and death.",
+   "The monk spoke about suffering and samsara.",
+   "Good actions help free you from samsara."
+  ],
+  "note": ""
+ },
+ "volcanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Volcanism created these islands millions of years ago.",
+   "Scientists study volcanism on Mars and the moon.",
+   "There is still some volcanism in this region.",
+   "The mountains here are a result of volcanism."
+  ],
+  "note": ""
+ },
+ "subtype": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "biennale": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The city hosts an art biennale every two years.",
+   "We visited the biennale in Venice last summer.",
+   "Her painting was shown at the biennale.",
+   "The next biennale opens in May."
+  ],
+  "note": ""
+ },
+ "dugong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nard": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "ex": [
+   "Nard is a plant with a sweet, strong smell.",
+   "In old times, people made expensive oil from nard.",
+   "The perfume contains nard and other natural oils.",
+   "The old book says nard oil was worth a lot."
+  ],
+  "note": "Also called \"spikenard\"."
+ },
+ "hodja": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "albumin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Her blood test showed low albumin.",
+   "Albumin is a protein found in egg whites.",
+   "The liver makes albumin for the blood.",
+   "The doctor checked his albumin levels."
+  ],
+  "note": ""
+ },
+ "endoscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "switcher": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Often in 'video switcher'."
+ },
+ "croup": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quintal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "imperator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "ex": [
+   "In Rome, imperator was a title for a winning general.",
+   "The soldiers called their general imperator after the victory.",
+   "The old coin shows the word imperator.",
+   "Later, the title imperator came to mean emperor."
+  ],
+  "note": "The usual English word is \"emperor.\""
+ },
+ "magnetometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "My phone has a small magnetometer inside.",
+   "A magnetometer measures the strength of magnetic fields.",
+   "The magnetometer helps the compass app work.",
+   "They used a magnetometer to find metal underground."
+  ],
+  "note": ""
+ },
+ "fanzine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "burpee": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Do ten burpees, and then rest for a minute.",
+   "Burpees are hard but good exercise.",
+   "My trainer made me do fifty burpees.",
+   "I hate burpees, but they really work."
+  ],
+  "note": ""
+ },
+ "formalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "curcumin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dopant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "epitope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "operand": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "In 2 + 3, each number is an operand.",
+   "The plus operator needs two operands.",
+   "This operand must be a number, not text.",
+   "Check the type of each operand in the code."
+  ],
+  "note": ""
+ },
+ "kHz": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Read as \"kilohertz\"; the plural is also \"kilohertz.\""
+ },
+ "augur": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "Also a verb: \"This augurs well\" means it is a good sign."
+ },
+ "sago": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Sago pudding is a sweet dessert.",
+   "Sago is a starch that comes from palm trees.",
+   "Cook the sago in coconut milk for ten minutes.",
+   "Sago looks like tiny white pearls."
+  ],
+  "note": ""
+ },
+ "listeria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Listeria can grow in soft cheese.",
+   "Pregnant women should be careful about listeria.",
+   "The cheese was recalled because of listeria.",
+   "Listeria can make people very sick."
+  ],
+  "note": ""
+ },
+ "niacin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Niacin is one of the B vitamins.",
+   "Fish and chicken are good sources of niacin.",
+   "Too much niacin can make your skin red.",
+   "The doctor told me to take niacin every day."
+  ],
+  "note": ""
+ },
+ "meetup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "seigneur": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "burgher": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The burgher owned a shop in town.",
+   "Rich burghers built big houses near the square.",
+   "The painting shows a proud burgher in black clothes.",
+   "Burghers had special rights in the city."
+  ],
+  "note": ""
+ },
+ "distro": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "informal",
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Which Linux distro do you use?",
+   "This distro is good for beginners.",
+   "I installed a new distro on my laptop.",
+   "Each distro comes with different software."
+  ],
+  "note": ""
+ },
+ "ataxia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Ataxia makes it hard to walk straight.",
+   "She has ataxia after the stroke.",
+   "Ataxia affects your balance and movement.",
+   "The doctor tested him for ataxia."
+  ],
+  "note": ""
+ },
+ "phthalate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "This toy is free of phthalates.",
+   "Phthalates are used to make plastic soft.",
+   "Some phthalates can be harmful to children.",
+   "Check the label to see if it has phthalates."
+  ],
+  "note": ""
+ },
+ "botnet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "barbera": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "spurt": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": "Also means a sudden flow of liquid: \"a spurt of water\"."
+ },
+ "vagus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually \"vagus nerve.\""
+ },
+ "hadji": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pedometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "collegium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "codec": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tandem": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": "Common phrase: \"in tandem\" means together."
+ },
+ "Calvinist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "His whole family were strict Calvinists.",
+   "The Calvinists built a church in this village.",
+   "She grew up as a Calvinist in a small town.",
+   "Many Calvinists believe in hard work and saving money."
+  ],
+  "note": ""
+ },
+ "pergola": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "salo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Salo is salted pork fat, a cold snack.",
+   "We ate salo with black bread and garlic.",
+   "Salo is a traditional Ukrainian food.",
+   "Cut the salo into thin slices, please."
+  ],
+  "note": ""
+ },
+ "cribbage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "moai": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "auxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trypsin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "capybara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gigawatt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aplomb": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Means calm confidence; usually \"with aplomb\"."
+ },
+ "fetishism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The book studies commodity fetishism in modern society.",
+   "Fetishism is a topic in psychology.",
+   "Some old cultures practiced fetishism with magic objects.",
+   "He wrote an article about fetishism in culture."
+  ],
+  "note": ""
+ },
+ "kuru": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yuzu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "beatbox": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He makes drum sounds with his mouth in his beatbox.",
+   "The beatbox battle was the best part of the show.",
+   "She learned beatbox from online videos.",
+   "He added a beatbox to the song while she sang."
+  ],
+  "note": "Also a verb: \"He can beatbox.\" The activity is often called \"beatboxing.\""
+ },
+ "stevia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I use stevia instead of sugar.",
+   "This drink is sweetened with stevia.",
+   "Stevia is sweet but has no calories.",
+   "Add a little stevia to your tea."
+  ],
+  "note": ""
+ },
+ "seismograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "centroid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "prima ballerina": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "krav maga": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "quisling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "omer": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sacrum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hardtop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bukkake": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": "Careful: most often this word is vulgar sexual slang."
+ },
+ "calcite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Calcite is a very common mineral.",
+   "The cave walls are made of calcite.",
+   "Some calcite crystals are clear like glass.",
+   "Chalk is made mostly of calcite."
+  ],
+  "note": ""
+ },
+ "liniment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mirza": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "carboxyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ouroboros": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "antifa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written \"Antifa\" and used without \"the\" or \"a\"."
+ },
+ "sultanate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wunderkind": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "salvia": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Salvia flowers are often purple or blue.",
+   "We planted salvia in the garden.",
+   "Bees love the salvia in our yard.",
+   "Salvia grows well in a sunny place."
+  ],
+  "note": ""
+ },
+ "goji": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "celadon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sculpting": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She does face sculpting with makeup before parties.",
+   "This massage is called body sculpting.",
+   "Use a darker powder for face sculpting.",
+   "The salon offers sculpting treatments for the face."
+  ],
+  "note": "Most often \"sculpting\" means making art from clay, stone, or wood."
+ },
+ "groomer": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ammonite": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "porphyria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "la-la": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "She forgot the words, so she sang \"la-la.\"",
+   "The baby sings la-la all day long.",
+   "He hummed a happy la-la tune while cooking.",
+   "Just sing la-la if you don't know the words."
+  ],
+  "note": ""
+ },
+ "roquefort": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital: Roquefort."
+ },
+ "plutocrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The city is run by a few plutocrats.",
+   "A plutocrat bought the newspaper last year.",
+   "People protested against the greedy plutocrats.",
+   "He became a plutocrat after selling his company."
+  ],
+  "note": ""
+ },
+ "wishlist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ }
+}

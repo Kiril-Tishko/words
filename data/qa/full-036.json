@@ -1,0 +1,567 @@
+{
+ "android": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "an android · androids",
+  "say": "",
+  "note": "Most often \"Android\" means the phone system: \"My phone runs on Android.\""
+ },
+ "hook": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a hook · hooks",
+  "say": "",
+  "note": "Most often \"hook\" means a curved piece for hanging things: \"Hang your coat on the hook.\""
+ },
+ "indigo": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "indigo · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "maharaja": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a maharaja · maharajas",
+  "say": "",
+  "note": ""
+ },
+ "hehe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Informal; used in texts and chats to show quiet laughing.",
+  "ex": [
+   "She texted me \"hehe\" after my silly joke.",
+   "Hehe, I took the last piece of pizza.",
+   "He always ends his funny messages with \"hehe.\"",
+   "Why do you write \"hehe\" in every message?"
+  ]
+ },
+ "fa": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "fa · uncountable",
+  "say": "",
+  "note": "Also spelled \"fah.\" In capitals, \"FA\" often means Football Association: \"the FA Cup.\"",
+  "ex": [
+   "In the scale, fa comes right after mi.",
+   "The singer held the fa note for a long time.",
+   "Our music teacher asked us to sing fa again.",
+   "Can you play fa on the piano for me?"
+  ]
+ },
+ "snowboarding": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "snowboarding · uncountable",
+  "say": "",
+  "note": "Uncountable. We say \"go snowboarding\": \"Let's go snowboarding this weekend.\"",
+  "ex": [
+   "We go snowboarding in the mountains every winter.",
+   "Snowboarding is harder than it looks at first.",
+   "Is there a good place for snowboarding near here?",
+   "My brother hurt his knee while he was snowboarding."
+  ]
+ },
+ "aerosol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aerosol · aerosols",
+  "say": "",
+  "note": ""
+ },
+ "chloroform": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "chloroform · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Doctors once used chloroform to put patients to sleep.",
+   "Chloroform is a clear liquid with a sweet smell.",
+   "In old movies, criminals often put chloroform on a cloth.",
+   "Our chemistry lab keeps chloroform in a locked cabinet."
+  ]
+ },
+ "revue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a revue · revues",
+  "say": "",
+  "note": ""
+ },
+ "accelerator": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "an accelerator · accelerators",
+  "say": "",
+  "note": "In everyday American English, people say \"gas pedal.\"",
+  "ex": [
+   "Press the accelerator gently when the light turns green.",
+   "He put his foot down hard on the accelerator.",
+   "The accelerator is the pedal on the right.",
+   "The car moved forward when she pressed the accelerator."
+  ]
+ },
+ "reflector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a reflector · reflectors",
+  "say": "",
+  "note": ""
+ },
+ "atheism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "atheism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "biotech": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "biotech · uncountable",
+  "say": "",
+  "note": "Informal short form of \"biotechnology.\"",
+  "ex": [
+   "She works for a biotech company near the university.",
+   "Biotech is growing fast in our city.",
+   "Many young scientists want a job in biotech.",
+   "The biotech firm made a new vaccine against flu."
+  ]
+ },
+ "graphite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "graphite · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "filament": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a filament · filaments",
+  "say": "",
+  "note": "Also the thin wire inside a light bulb: \"The bulb's filament broke.\"",
+  "ex": [
+   "My 3D printer uses a roll of plastic filament.",
+   "Which color of filament do you need for this model?",
+   "Store the filament in a dry box after printing.",
+   "Under the microscope, you can see thin filaments inside the cell."
+  ]
+ },
+ "adhesive": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "an adhesive · adhesives",
+  "say": "",
+  "note": "In everyday speech, people usually say \"glue.\""
+ },
+ "hummus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "hummus · uncountable",
+  "say": "",
+  "note": "Uncountable: some hummus, a lot of hummus (not \"a hummus\").",
+  "ex": [
+   "I like to eat hummus with fresh carrots.",
+   "This hummus is very creamy and a little spicy.",
+   "Can you buy some hummus at the store today?",
+   "We had hummus and warm bread for lunch."
+  ]
+ },
+ "fleece": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a fleece · fleeces",
+  "say": "",
+  "note": "Also a sheep's wool. \"A fleece\" is often a warm jacket made of this fabric.",
+  "ex": [
+   "I wear a fleece when it's cold outside.",
+   "This fleece is warm, light, and easy to wash.",
+   "He zipped up his blue fleece before the hike.",
+   "Do you have this fleece in a bigger size?"
+  ]
+ },
+ "biceps": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a biceps · biceps",
+  "say": "",
+  "note": "\"Biceps\" is singular and plural: \"one biceps, two biceps.\""
+ },
+ "nirvana": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "nirvana · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "caliphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a caliphate · caliphates",
+  "say": "",
+  "note": ""
+ },
+ "consonant": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a consonant · consonants",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The letter B is a consonant, and A is a vowel.",
+   "Some English consonants are hard for learners to say.",
+   "How many consonants are there in the word \"street\"?",
+   "This word starts with two consonants together."
+  ]
+ },
+ "snooker": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "snooker · uncountable",
+  "say": "",
+  "note": "Uncountable: \"play snooker\" (not \"play the snooker\").",
+  "ex": [
+   "We played snooker at the pub after work.",
+   "He watches snooker on TV every weekend.",
+   "Snooker is very popular in Britain.",
+   "Can you teach me how to play snooker?"
+  ]
+ },
+ "homophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "homophobia · uncountable",
+  "say": "",
+  "note": "Uncountable."
+ },
+ "tiki": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "a tiki · tikis",
+  "say": "",
+  "note": ""
+ },
+ "resonance": {
+  "v": "keep",
+  "s": 45,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "resonance · uncountable",
+  "say": "",
+  "note": "Also an emotional effect: \"The story has resonance for many people.\""
+ },
+ "hydra": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a hydra · hydras",
+  "say": "",
+  "note": "Also the many-headed monster in Greek myths."
+ },
+ "compost": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "compost · uncountable",
+  "say": "",
+  "note": "Uncountable: some compost, a lot of compost (not \"a compost\")."
+ },
+ "liqueur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a liqueur · liqueurs",
+  "say": "",
+  "note": "Do not confuse with \"liquor,\" which means any strong alcohol."
+ },
+ "poncho": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a poncho · ponchos",
+  "say": "",
+  "note": ""
+ },
+ "tangerine": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "a tangerine · tangerines",
+  "say": "",
+  "note": ""
+ },
+ "gelatin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "gelatin · uncountable",
+  "say": "",
+  "note": "Uncountable: \"some gelatin\" or \"a packet of gelatin.\""
+ },
+ "tuba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tuba · tubas",
+  "say": "",
+  "note": ""
+ },
+ "puma": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a puma · pumas",
+  "say": "",
+  "note": "In the US, this animal is more often called a \"cougar\" or \"mountain lion.\"",
+  "ex": [
+   "A puma was seen near the hiking trail.",
+   "The puma hunts deer high in the mountains.",
+   "In America, pumas are also called cougars or mountain lions.",
+   "Our zoo has a young puma and two bears."
+  ]
+ },
+ "cannibalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cannibalism · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Some animals practice cannibalism when there is little food.",
+   "The movie is about cannibalism on a lonely island.",
+   "Cannibalism happens in some spiders and fish.",
+   "Scientists study cannibalism in insects and other animals."
+  ]
+ },
+ "congresswoman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a congresswoman · congresswomen",
+  "say": "",
+  "note": "A woman in the US Congress. Plural: congresswomen.",
+  "ex": [
+   "The congresswoman visited our school last week.",
+   "I wrote a letter to my congresswoman about the park.",
+   "The congresswoman voted for the new law.",
+   "She was elected congresswoman two years ago."
+  ]
+ },
+ "ivory": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "ivory · uncountable",
+  "say": "",
+  "note": "Most often \"ivory\" means the hard white material of elephant tusks: \"Selling ivory is illegal.\""
+ },
+ "screenshot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a screenshot · screenshots",
+  "say": "",
+  "note": "We say \"take a screenshot.\""
+ },
+ "voila": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "From French; also spelled \"voilà.\""
+ },
+ "proletariat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the proletariat",
+  "say": "",
+  "note": "",
+  "ex": [
+   "In history class, we learned about the proletariat.",
+   "The proletariat is another name for the working class.",
+   "The party said it spoke for the proletariat.",
+   "The book describes the hard life of the proletariat."
+  ]
+ },
+ "tweed": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "tweed · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "He wore an old tweed jacket to the meeting.",
+   "Tweed is a warm, strong cloth made of wool.",
+   "Her winter skirt is made of gray tweed.",
+   "Do you have this coat in brown tweed?"
+  ]
+ },
+ "barter": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "barter · uncountable",
+  "say": "",
+  "note": "Uncountable. Also a verb: \"They barter food for tools.\""
+ },
+ "bushel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bushel · bushels",
+  "say": "",
+  "note": "A unit for measuring grain and fruit, used mainly in the US."
+ },
+ "merch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "merch · uncountable",
+  "say": "",
+  "note": "Informal; short for \"merchandise.\" Uncountable."
+ },
+ "triage": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "triage · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "geyser": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a geyser · geysers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We watched the geyser shoot hot water into the air.",
+   "This geyser erupts about once every hour.",
+   "Iceland has many famous hot geysers.",
+   "Please don't stand too close to the geyser."
+  ]
+ },
+ "azalea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an azalea · azaleas",
+  "say": "",
+  "note": ""
+ },
+ "barman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a barman · barmen",
+  "say": "",
+  "note": "British. In the US, people usually say \"bartender.\" Plural: barmen.",
+  "ex": [
+   "The barman poured us two glasses of beer.",
+   "Can you ask the barman for the menu?",
+   "He works as a barman at a small hotel.",
+   "The friendly barman knows the names of all his guests."
+  ]
+ }
+}

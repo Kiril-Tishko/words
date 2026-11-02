@@ -1,0 +1,720 @@
+{
+ "yacht club": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "a yacht club · yacht clubs",
+  "say": "",
+  "note": ""
+ },
+ "compact disc": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a compact disc · compact discs",
+  "say": "",
+  "note": "Usually just \"CD\" in everyday English."
+ },
+ "promo code": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a promo code · promo codes",
+  "say": "",
+  "ex": [
+   "Enter the promo code at checkout to get a discount.",
+   "This promo code gives you 20% off your order.",
+   "Sorry, this promo code expired yesterday.",
+   "I got a promo code by email from the store."
+  ],
+  "note": ""
+ },
+ "film noir": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a film noir · films noirs",
+  "say": "",
+  "note": ""
+ },
+ "slam dunk": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a slam dunk · slam dunks",
+  "say": "",
+  "ex": [
+   "He jumped high and made a slam dunk.",
+   "The crowd cheered loudly after his slam dunk.",
+   "She practiced her slam dunk every day after school.",
+   "Can you do a slam dunk on this basket?"
+  ],
+  "note": "Also used informally for a sure success."
+ },
+ "ha-ha": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Ha-ha, that's the funniest joke I've heard today!",
+   "\"Ha-ha, very funny,\" she said with a smile.",
+   "He read my message and wrote back, \"Ha-ha.\"",
+   "Ha-ha, I can't believe you really did that!"
+  ],
+  "note": "Often written \"haha\" in texts."
+ },
+ "fundamentalist": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a fundamentalist · fundamentalists",
+  "say": "",
+  "ex": [
+   "Religious fundamentalists protested outside the theater.",
+   "He became a fundamentalist after joining a strict church.",
+   "Fundamentalists believe every word of their holy book.",
+   "The new leader is a fundamentalist who hates any change."
+  ],
+  "note": "Also an adjective: \"a fundamentalist group.\""
+ },
+ "ha-ha-ha": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Used mostly in writing to show laughter."
+ },
+ "fact-checker": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a fact-checker · fact-checkers",
+  "say": "",
+  "note": ""
+ },
+ "a cappella": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "The choir sang the whole song a cappella.",
+   "Our school group sings a cappella, without any instruments.",
+   "Can you sing this song a cappella for us?",
+   "It is hard to sing a cappella and stay in tune."
+  ],
+  "note": ""
+ },
+ "anti-vax": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "anti-vax · uncountable",
+  "say": "",
+  "ex": [
+   "The doctor answered anti-vax claims on her blog.",
+   "Anti-vax posts spread fast on social media.",
+   "My neighbor believes many anti-vax stories from the internet.",
+   "The school talks to parents about anti-vax myths."
+  ],
+  "note": "Informal; usually an adjective (anti-vax posts). A person is an \"anti-vaxxer.\""
+ },
+ "pin-up": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a pin-up · pin-ups",
+  "say": "",
+  "note": ""
+ },
+ "fifty-fifty": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Let's split the restaurant bill fifty-fifty this time.",
+   "My brother and I pay the rent fifty-fifty.",
+   "We shared the cost of the trip fifty-fifty.",
+   "Can we divide the housework fifty-fifty, please?"
+  ],
+  "note": "Informal. Also an adjective: \"a fifty-fifty chance.\""
+ },
+ "pre-eclampsia": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "pre-eclampsia · uncountable",
+  "say": "",
+  "ex": [
+   "She was treated for pre-eclampsia during her pregnancy.",
+   "Pre-eclampsia can cause very high blood pressure in pregnant women.",
+   "Doctors check every pregnant woman for signs of pre-eclampsia.",
+   "Her baby was born early because of pre-eclampsia."
+  ],
+  "note": "Often spelled \"preeclampsia\" in American English."
+ },
+ "anti-Semite": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "gram": "an anti-Semite · anti-Semites",
+  "say": "",
+  "note": ""
+ },
+ "blah-blah": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Informal; usually \"blah, blah, blah\"."
+ },
+ "ex-president": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "an ex-president · ex-presidents",
+  "say": "",
+  "note": "\"Former president\" is more common in news and formal English."
+ },
+ "duty-free": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "the duty-free",
+  "say": "",
+  "note": "Often used as an adjective too: duty-free shop, duty-free goods."
+ },
+ "trade-in": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a trade-in · trade-ins",
+  "say": "",
+  "note": ""
+ },
+ "lore": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "lore · uncountable",
+  "say": "",
+  "ex": [
+   "Fans love learning the lore of this video game.",
+   "The show has deep lore about its fantasy world.",
+   "He knows all the lore of the series by heart.",
+   "Can you explain the lore of this game to me?"
+  ],
+  "note": "Uncountable. Also means old stories and beliefs: \"local lore.\""
+ },
+ "ballast": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "ballast · uncountable",
+  "say": "",
+  "note": "Uncountable: some ballast, a lot of ballast (not \"a ballast\")."
+ },
+ "smog": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "smog · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "husky": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a husky · huskies",
+  "say": "",
+  "ex": [
+   "Our husky has bright blue eyes and thick fur.",
+   "Huskies love cold weather and lots of snow.",
+   "A team of huskies pulled the sled across the ice.",
+   "Our husky needs a long walk every day."
+  ],
+  "note": "Also an adjective: a \"husky\" voice is low and rough."
+ },
+ "neutrino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a neutrino · neutrinos",
+  "say": "",
+  "ex": [
+   "A neutrino can pass right through the whole Earth.",
+   "Scientists built a huge detector to find neutrinos.",
+   "Neutrinos have almost no mass and no charge.",
+   "The sun sends out billions of neutrinos every second."
+  ],
+  "note": ""
+ },
+ "reset": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a reset · resets",
+  "say": "",
+  "note": "Most often \"reset\" is a verb: \"Reset your password here.\""
+ },
+ "koi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a koi · koi",
+  "say": "",
+  "note": "Plural is \"koi,\" the same as the singular."
+ },
+ "piranha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a piranha · piranhas",
+  "say": "",
+  "ex": [
+   "Piranhas have very sharp teeth and strong jaws.",
+   "Don't swim in rivers where piranhas live.",
+   "We saw some piranhas at the city aquarium.",
+   "A piranha bit the fisherman's finger on the boat."
+  ],
+  "note": ""
+ },
+ "macho": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a macho · machos",
+  "say": "",
+  "ex": [
+   "He tries to act macho in front of the girls.",
+   "Real macho guys never ask for directions, he joked.",
+   "She is tired of macho men at the gym.",
+   "The film makes fun of macho heroes and their big guns."
+  ],
+  "note": "Informal; usually an adjective in English: \"a macho man.\""
+ },
+ "phosphate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a phosphate · phosphates",
+  "say": "",
+  "note": ""
+ },
+ "digest": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a digest · digests",
+  "say": "",
+  "note": "Most often \"digest\" is a verb: \"Food takes hours to digest.\""
+ },
+ "tact": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "tact · uncountable",
+  "say": "",
+  "note": "Uncountable: show tact, a lot of tact (not \"a tact\")."
+ },
+ "genesis": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "the genesis",
+  "say": "",
+  "note": "Most often \"Genesis\" is the first book of the Bible. As \"origin,\" the word is formal."
+ },
+ "mahjong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "mahjong · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "steppe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a steppe · steppes",
+  "say": "",
+  "note": ""
+ },
+ "charlatan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a charlatan · charlatans",
+  "say": "",
+  "note": ""
+ },
+ "skateboarding": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "skateboarding · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "banshee": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a banshee · banshees",
+  "say": "",
+  "ex": [
+   "In Irish stories, a banshee cries before someone dies.",
+   "She screamed like a banshee when she saw the spider.",
+   "The kids were yelling like banshees in the backyard.",
+   "The book is about a banshee in an old house."
+  ],
+  "note": ""
+ },
+ "initial": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "an initial · initials",
+  "say": "",
+  "ex": [
+   "Write your initials at the bottom of each page.",
+   "His initials are on the front of his bag.",
+   "Please sign here with your initials, not your full name.",
+   "What do the initials on this ring mean?"
+  ],
+  "note": "Most often \"initial\" is an adjective meaning first: \"the initial plan.\""
+ },
+ "byte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a byte · bytes",
+  "say": "",
+  "ex": [
+   "One byte is made up of eight bits.",
+   "This small text file is only a few bytes.",
+   "Each letter in this text uses one byte.",
+   "Computer memory is measured in bytes."
+  ],
+  "note": ""
+ },
+ "pauper": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a pauper · paupers",
+  "say": "",
+  "note": "Old-fashioned; \"poor person\" is more common."
+ },
+ "lander": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a lander · landers",
+  "say": "",
+  "ex": [
+   "The lander touched down safely on the surface of Mars.",
+   "The lander sent the first photos back to Earth.",
+   "Engineers tested the lunar lander before the mission.",
+   "The lander carried a small robot to the moon."
+  ],
+  "note": ""
+ },
+ "gambit": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a gambit · gambits",
+  "say": "",
+  "note": ""
+ },
+ "express": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "an express · expresses",
+  "say": "",
+  "note": "Most often \"express\" is a verb: \"Express your ideas clearly.\""
+ },
+ "kryptonite": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "kryptonite · uncountable",
+  "say": "",
+  "ex": [
+   "Chocolate is my kryptonite, so I never buy it.",
+   "In the comics, kryptonite makes the hero weak.",
+   "Early mornings are my kryptonite; I always feel tired.",
+   "Sweets are kryptonite for my diet."
+  ],
+  "note": "Often means a weakness: \"Pizza is my kryptonite.\""
+ },
+ "orangutan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an orangutan · orangutans",
+  "say": "",
+  "ex": [
+   "We saw a mother orangutan and her baby at the zoo.",
+   "Orangutans live in the rain forests of Southeast Asia.",
+   "The orangutan slowly ate a banana in the tree.",
+   "Baby orangutans stay with their mothers for years."
+  ],
+  "note": ""
+ },
+ "ravioli": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "ravioli · uncountable",
+  "say": "",
+  "ex": [
+   "I made cheese ravioli for dinner tonight.",
+   "This ravioli has spinach and cheese inside.",
+   "The kids love ravioli with tomato sauce.",
+   "Boil the ravioli for about four minutes."
+  ],
+  "note": "Uncountable: some ravioli, a plate of ravioli."
+ },
+ "hypothermia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "hypothermia · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "barista": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a barista · baristas",
+  "say": "",
+  "note": ""
+ },
+ "businesswoman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a businesswoman · businesswomen",
+  "say": "",
+  "note": "Plural: businesswomen."
+ },
+ "ohm": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an ohm · ohms",
+  "say": "",
+  "ex": [
+   "This resistor has a resistance of one hundred ohms.",
+   "An ohm is the unit of electrical resistance.",
+   "These headphones are rated at thirty-two ohms.",
+   "Use a multimeter to measure the ohms."
+  ],
+  "note": ""
+ },
+ "trance": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a trance · trances",
+  "say": "",
+  "ex": [
+   "She fell into a deep trance during the hypnosis.",
+   "The music put the dancers into a kind of trance.",
+   "The DJ played two hours of trance at the club.",
+   "He stared at the screen as if in a trance."
+  ],
+  "note": "Also a music style: \"The DJ played trance all night.\""
+ },
+ "mousse": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "mousse · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "gameplay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "gameplay · uncountable",
+  "say": "",
+  "ex": [
+   "The gameplay is fun and easy to learn.",
+   "Fans love the fast gameplay of this game.",
+   "He streams his gameplay online every evening.",
+   "The graphics are great, but the gameplay is boring."
+  ],
+  "note": "Uncountable: \"the gameplay is fun\" (not \"a gameplay\")."
+ },
+ "showbiz": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "showbiz · uncountable",
+  "say": "",
+  "note": "Informal; the full form is \"show business.\""
+ },
+ "orca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an orca · orcas",
+  "say": "",
+  "note": ""
+ },
+ "shutdown": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a shutdown · shutdowns",
+  "say": "",
+  "note": "Also any closing of a factory or system: \"a computer shutdown.\""
+ },
+ "freelancer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a freelancer · freelancers",
+  "say": "",
+  "note": ""
+ },
+ "beanie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a beanie · beanies",
+  "say": "",
+  "ex": [
+   "He wore a warm beanie in the snow.",
+   "She knitted a red beanie for her son.",
+   "Put on your beanie because it's cold outside.",
+   "My beanie fell off on the ski lift."
+  ],
+  "note": ""
+ },
+ "underground": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "the underground",
+  "say": "",
+  "note": "Most often \"underground\" means below the ground: \"an underground parking garage.\""
+ },
+ "mandarin": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a mandarin · mandarins",
+  "say": "",
+  "note": "Also called a \"tangerine.\" Capital \"Mandarin\" is a Chinese language."
+ }
+}

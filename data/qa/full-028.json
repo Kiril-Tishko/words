@@ -1,0 +1,646 @@
+{
+ "pro bono": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "ping-pong": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "ping-pong · uncountable",
+  "say": "",
+  "note": "Uncountable; the official name is \"table tennis.\""
+ },
+ "golden retriever": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a golden retriever · golden retrievers",
+  "say": "",
+  "note": ""
+ },
+ "foie gras": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "foie gras · uncountable",
+  "say": "",
+  "note": "Uncountable: some foie gras (not \"a foie gras\")."
+ },
+ "post-production": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "post-production · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "anti-aging": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "anti-aging · uncountable",
+  "say": "",
+  "note": "More often used as an adjective: \"anti-aging cream.\"",
+  "ex": [
+   "My mom buys anti-aging cream at the pharmacy.",
+   "Does this anti-aging cream really work on wrinkles?",
+   "The clinic offers anti-aging treatments for the face.",
+   "Sleep and sunscreen are the best tips for anti-aging."
+  ]
+ },
+ "pro-choice": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Supporting a woman's right to choose abortion; the opposite is \"pro-life.\"",
+  "ex": [
+   "My aunt has always been pro-choice about abortion.",
+   "Pro-choice groups held a big rally downtown today.",
+   "He voted for the pro-choice candidate in the election.",
+   "Are most young voters in your country pro-choice?"
+  ]
+ },
+ "lo-fi": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "lo-fi · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "supermodel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a supermodel · supermodels",
+  "say": "",
+  "note": ""
+ },
+ "estrogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "estrogen · uncountable",
+  "say": "",
+  "note": "American spelling; British English writes \"oestrogen.\"",
+  "ex": [
+   "Estrogen is an important hormone in the female body.",
+   "Her estrogen levels dropped after menopause.",
+   "The doctor prescribed estrogen pills for her symptoms.",
+   "Estrogen helps keep women's bones strong and healthy."
+  ]
+ },
+ "polka": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a polka · polkas",
+  "say": "",
+  "note": "Also in \"polka dots\": round spots on fabric, like on a dress."
+ },
+ "boogie": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a boogie · boogies",
+  "say": "",
+  "note": "Most often a verb meaning to dance: \"Let's boogie!\""
+ },
+ "catheter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a catheter · catheters",
+  "say": "",
+  "note": ""
+ },
+ "conveyor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a conveyor · conveyors",
+  "say": "",
+  "note": "Often \"conveyor belt.\""
+ },
+ "maneuver": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a maneuver · maneuvers",
+  "say": "",
+  "note": "American spelling; British is \"manoeuvre\"."
+ },
+ "sumo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "sumo · uncountable",
+  "say": "",
+  "note": "Uncountable: watch sumo. A fighter is a \"sumo wrestler.\""
+ },
+ "repertoire": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a repertoire · repertoires",
+  "say": "",
+  "note": ""
+ },
+ "apartheid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "apartheid · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "eco": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Informal; \"eco-friendly\" is more common."
+ },
+ "sakura": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "sakura · uncountable",
+  "say": "",
+  "note": "Used mostly about Japan; the usual English name is \"cherry blossom.\""
+ },
+ "tsar": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a tsar · tsars",
+  "say": "",
+  "note": "Also spelled \"czar\"; in US news it can mean a top official, like \"drug czar\".",
+  "ex": [
+   "The museum has a portrait of a Russian tsar.",
+   "The tsar lived in a huge palace with his family.",
+   "People in the village feared the power of the tsar.",
+   "Our history lesson today was about the Russian tsars."
+  ]
+ },
+ "aloha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "A Hawaiian word for \"hello\" and \"goodbye.\""
+ },
+ "elixir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an elixir · elixirs",
+  "say": "",
+  "note": ""
+ },
+ "leverage": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "leverage · uncountable",
+  "say": "",
+  "note": "Most often \"leverage\" means power to influence: \"We have no leverage over them.\"",
+  "ex": [
+   "The company used leverage to buy more property.",
+   "High leverage makes an investment much more risky.",
+   "The bank wants to reduce its leverage this year.",
+   "Leverage can increase your profits, but also your losses."
+  ]
+ },
+ "magma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "magma · uncountable",
+  "say": "",
+  "note": "Uncountable noun: say \"magma\", not \"a magma\"."
+ },
+ "croissant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a croissant · croissants",
+  "say": "",
+  "note": "",
+  "ex": [
+   "I had a croissant and coffee for breakfast.",
+   "This bakery sells fresh croissants every morning.",
+   "Can I get a chocolate croissant, please?",
+   "The croissant was still warm and soft."
+  ]
+ },
+ "equator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the equator",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Ecuador is a country right on the equator.",
+   "It is hot all year near the equator.",
+   "Our ship crossed the equator on the third day.",
+   "The equator divides the earth into two halves."
+  ]
+ },
+ "acronym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an acronym · acronyms",
+  "say": "",
+  "note": "",
+  "ex": [
+   "What does this acronym in the email stand for?",
+   "My new company uses too many acronyms.",
+   "An acronym is a word made from first letters.",
+   "Please write the full name, not just the acronym."
+  ]
+ },
+ "retina": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a retina · retinas",
+  "say": "",
+  "note": ""
+ },
+ "pensioner": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pensioner · pensioners",
+  "say": "",
+  "note": "Mostly British; Americans usually say \"retiree\" or \"senior.\""
+ },
+ "manicure": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a manicure · manicures",
+  "say": "",
+  "note": ""
+ },
+ "contour": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a contour · contours",
+  "say": "",
+  "note": ""
+ },
+ "ringtone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a ringtone · ringtones",
+  "say": "",
+  "note": ""
+ },
+ "minivan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a minivan · minivans",
+  "say": "",
+  "note": ""
+ },
+ "nuance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a nuance · nuances",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The English translation lost some of the nuance.",
+   "She explained the small nuances of the new contract.",
+   "His paintings are simple but full of nuance.",
+   "You need to understand the cultural nuances here."
+  ]
+ },
+ "tortilla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tortilla · tortillas",
+  "say": "",
+  "note": ""
+ },
+ "quark": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a quark · quarks",
+  "say": "",
+  "note": ""
+ },
+ "professionalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "professionalism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "anesthetic": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "an anesthetic · anesthetics",
+  "say": "",
+  "note": "American spelling; British is \"anaesthetic.\"",
+  "ex": [
+   "The dentist gave me a local anesthetic before the filling.",
+   "The anesthetic made my mouth numb for hours.",
+   "Doctors use a general anesthetic for this surgery.",
+   "The anesthetic wore off after a few hours."
+  ]
+ },
+ "placebo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a placebo · placebos",
+  "say": "",
+  "note": ""
+ },
+ "chloride": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "chloride · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "header": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a header · headers",
+  "say": "",
+  "note": "In soccer, a \"header\" is hitting the ball with your head."
+ },
+ "cardigan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cardigan · cardigans",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She wore a warm cardigan over her dress.",
+   "Please button your cardigan, because it is cold outside.",
+   "He has a gray wool cardigan for work.",
+   "I bought a new cardigan for the fall."
+  ]
+ },
+ "collage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a collage · collages",
+  "say": "",
+  "note": ""
+ },
+ "musketeer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a musketeer · musketeers",
+  "say": "",
+  "note": ""
+ },
+ "sigma": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a sigma · sigmas",
+  "say": "",
+  "note": ""
+ },
+ "influenza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "influenza · uncountable",
+  "say": "",
+  "note": "Formal; in everyday speech people say \"flu\"."
+ },
+ "telecom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "telecom · uncountable",
+  "say": "",
+  "note": "Short for \"telecommunications\"; often used before another noun."
+ },
+ "merci": {
+  "v": "not_english",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "French; \"thanks\" is normal in English.",
+  "ex": [
+   "She smiled at the waiter and said, \"Merci.\"",
+   "He jokingly says merci instead of thank you.",
+   "Merci for the coffee, that was very kind!",
+   "My friend learned to say merci in Paris."
+  ]
+ },
+ "kimono": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kimono · kimonos",
+  "say": "",
+  "note": ""
+ },
+ "polio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "polio · uncountable",
+  "say": "",
+  "note": "Uncountable; short for \"poliomyelitis.\"",
+  "ex": [
+   "The polio vaccine has saved millions of children.",
+   "My grandfather had polio when he was a child.",
+   "Polio can cause serious problems with the legs.",
+   "Do children in your country still get polio shots?"
+  ]
+ },
+ "transistor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a transistor · transistors",
+  "say": "",
+  "note": ""
+ },
+ "lager": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a lager · lagers",
+  "say": "",
+  "note": ""
+ },
+ "shogun": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a shogun · shoguns",
+  "say": "",
+  "note": ""
+ },
+ "mackerel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mackerel · mackerel",
+  "say": "",
+  "note": "Plural is usually \"mackerel,\" the same as the singular."
+ },
+ "MILF": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "vulgar",
+   "slang",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a MILF · MILFs",
+  "say": "",
+  "note": "Vulgar slang; avoid it in polite conversation."
+ },
+ "marketplace": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a marketplace · marketplaces",
+  "say": "",
+  "note": "Often means the market in general: \"competition in the global marketplace.\"",
+  "ex": [
+   "I sold my old bike on an online marketplace.",
+   "This marketplace has thousands of sellers from many countries.",
+   "She buys handmade gifts on an online marketplace.",
+   "Is it safe to buy phones on this marketplace?"
+  ]
+ },
+ "detonator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a detonator · detonators",
+  "say": "",
+  "note": ""
+ },
+ "SOS": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "enigma": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an enigma · enigmas",
+  "say": "",
+  "note": ""
+ }
+}

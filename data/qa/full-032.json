@@ -1,0 +1,712 @@
+{
+ "dissident": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a dissident · dissidents",
+  "say": "",
+  "ex": [
+   "The dissident spent ten years in prison for his ideas.",
+   "Many dissidents had to leave the country to stay safe.",
+   "She was a famous dissident and also a writer.",
+   "The government watched the dissidents very closely."
+  ],
+  "note": ""
+ },
+ "pancreas": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "the pancreas · pancreases",
+  "say": "",
+  "ex": [
+   "The pancreas makes insulin to control your blood sugar.",
+   "The doctor checked her pancreas with an ultrasound.",
+   "The pancreas is a small organ behind the stomach.",
+   "He went to the hospital with a problem in his pancreas."
+  ],
+  "note": ""
+ },
+ "carburetor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a carburetor · carburetors",
+  "say": "",
+  "ex": [
+   "The mechanic cleaned the carburetor, and now the car starts.",
+   "Many old cars and motorcycles have a carburetor.",
+   "The carburetor on my lawn mower is dirty again.",
+   "A bad carburetor can make the engine stop."
+  ],
+  "note": ""
+ },
+ "krone": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a krone · kroner",
+  "say": "",
+  "note": ""
+ },
+ "benchmark": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "a benchmark · benchmarks",
+  "say": "",
+  "note": ""
+ },
+ "dispenser": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dispenser · dispensers",
+  "say": "",
+  "note": ""
+ },
+ "sexism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "sexism · uncountable",
+  "say": "",
+  "ex": [
+   "Sexism at work is still a big problem.",
+   "She often speaks against sexism in sports.",
+   "Many people criticized the ad for its sexism.",
+   "Teachers should talk about sexism in schools."
+  ],
+  "note": "Uncountable: a lot of sexism (not \"a sexism\")."
+ },
+ "chalet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a chalet · chalets",
+  "say": "",
+  "note": ""
+ },
+ "compatriot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a compatriot · compatriots",
+  "say": "",
+  "note": "Formal; \"fellow countryman\" or \"people from my country\" is common."
+ },
+ "GMO": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a GMO · GMOs",
+  "say": "",
+  "ex": [
+   "Some people avoid foods that contain GMOs.",
+   "Farmers here are not allowed to grow GMOs.",
+   "The label says the product has no GMOs.",
+   "Scientists still argue about the safety of GMOs."
+  ],
+  "note": ""
+ },
+ "electrolyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an electrolyte · electrolytes",
+  "say": "",
+  "note": ""
+ },
+ "lymphoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a lymphoma · lymphomas",
+  "say": "",
+  "note": ""
+ },
+ "placenta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a placenta · placentas",
+  "say": "",
+  "note": ""
+ },
+ "plankton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "plankton · uncountable",
+  "say": "",
+  "ex": [
+   "Some big whales eat only tiny plankton.",
+   "Plankton lives in oceans, lakes, and rivers.",
+   "Many fish depend on plankton for food.",
+   "You need a microscope to see most plankton."
+  ],
+  "note": "Uncountable: some plankton, a lot of plankton (not \"a plankton\")."
+ },
+ "dan": {
+  "v": "keep",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a dan · dans",
+  "say": "",
+  "ex": [
+   "He has a second dan in karate now.",
+   "She got her first dan after five years of training.",
+   "To get a higher dan, you must train for years.",
+   "Our coach has a fifth dan in judo."
+  ],
+  "note": "Most often \"Dan\" is a man's name (short for Daniel)."
+ },
+ "trapper": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a trapper · trappers",
+  "say": "",
+  "note": ""
+ },
+ "mullah": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mullah · mullahs",
+  "say": "",
+  "note": ""
+ },
+ "biking": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "biking · uncountable",
+  "say": "",
+  "ex": [
+   "We often go biking in the mountains in summer.",
+   "Biking to work saves money and time.",
+   "She loves biking along the river after work.",
+   "Mountain biking can be dangerous without a helmet."
+  ],
+  "note": "Usually means riding a bicycle: \"go biking.\" Uncountable (not \"a biking\")."
+ },
+ "vibrator": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a vibrator · vibrators",
+  "say": "",
+  "ex": [
+   "Workers used a concrete vibrator to remove air bubbles.",
+   "This hand-held vibrator is good for a back massage.",
+   "The game controller has a small vibrator inside it.",
+   "The vibrator in my phone stopped working after I dropped it."
+  ],
+  "note": "In everyday English this word often means a sex toy, so be careful."
+ },
+ "trombone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a trombone · trombones",
+  "say": "",
+  "ex": [
+   "He plays the trombone in the school band.",
+   "The trombone is a loud brass instrument.",
+   "She practices the trombone every evening after school.",
+   "I bought a used trombone online for my son."
+  ],
+  "note": ""
+ },
+ "fiberglass": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "fiberglass · uncountable",
+  "say": "",
+  "note": "Uncountable: some fiberglass (not \"a fiberglass\")."
+ },
+ "melodrama": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a melodrama · melodramas",
+  "say": "",
+  "ex": [
+   "The movie was a silly melodrama about lost love.",
+   "My grandmother loves old black-and-white melodramas.",
+   "This TV series is a melodrama with many tears.",
+   "The show turned into a melodrama in the last season."
+  ],
+  "note": ""
+ },
+ "afro": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "an afro · afros",
+  "say": "",
+  "note": "Usually capitalized: \"Afro.\""
+ },
+ "pilates": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "pilates · uncountable",
+  "say": "",
+  "ex": [
+   "I go to pilates class twice a week.",
+   "Doing pilates every day helps my back pain.",
+   "She teaches pilates at a gym near my house.",
+   "Pilates makes your body stronger and more flexible."
+  ],
+  "note": "Often capitalized. Uncountable: \"do Pilates\" (not \"a Pilates\")."
+ },
+ "consort": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a consort · consorts",
+  "say": "",
+  "note": ""
+ },
+ "nachos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nachos · plural",
+  "say": "",
+  "note": "Usually plural."
+ },
+ "separatist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a separatist · separatists",
+  "say": "",
+  "ex": [
+   "The separatists want to create their own country.",
+   "Separatists attacked a police station near the border.",
+   "He was arrested as a separatist leader.",
+   "The government refused to talk to the separatists."
+  ],
+  "note": ""
+ },
+ "prologue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a prologue · prologues",
+  "say": "",
+  "note": ""
+ },
+ "dodo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dodo · dodos",
+  "say": "",
+  "note": ""
+ },
+ "pinot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pinot · pinots",
+  "say": "",
+  "note": ""
+ },
+ "pecan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pecan · pecans",
+  "say": "",
+  "note": ""
+ },
+ "kiwi": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a kiwi · kiwis",
+  "say": "",
+  "ex": [
+   "I cut a kiwi in half and ate it with a spoon.",
+   "Kiwis are green inside with tiny black seeds.",
+   "She put kiwi slices in the fruit salad.",
+   "Can you buy some kiwis at the market for breakfast?"
+  ],
+  "note": "Also \"kiwi fruit.\" \"Kiwi\" can also mean a bird or a person from New Zealand."
+ },
+ "part-time": {
+  "v": "keep",
+  "pm": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "She has a part-time job at a coffee shop.",
+   "I work part-time while I study at college.",
+   "Are there any part-time jobs for students here?",
+   "My mother works part-time, three days a week."
+  ],
+  "note": "Opposite: \"full-time.\" Say \"a part-time job\" or \"work part-time.\""
+ },
+ "respondent": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a respondent · respondents",
+  "say": "",
+  "note": ""
+ },
+ "thermostat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a thermostat · thermostats",
+  "say": "",
+  "ex": [
+   "Turn down the thermostat before you go to bed.",
+   "We put a smart thermostat in the living room.",
+   "Our office thermostat is always set too low.",
+   "Who changed the thermostat in the kitchen again?"
+  ],
+  "note": ""
+ },
+ "foyer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a foyer · foyers",
+  "say": "",
+  "note": ""
+ },
+ "derivative": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a derivative · derivatives",
+  "say": "",
+  "ex": [
+   "He trades derivatives at a big bank in London.",
+   "Derivatives can be very risky for small investors.",
+   "The bank lost a lot of money on derivatives.",
+   "Options and futures are two kinds of derivatives."
+  ],
+  "note": "Most often it means something made from another thing: \"Gasoline is a derivative of oil.\""
+ },
+ "gazelle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gazelle · gazelles",
+  "say": "",
+  "ex": [
+   "A gazelle can run very fast to escape lions.",
+   "The lion chased the young gazelle across the grass.",
+   "We saw many gazelles on our safari in Africa.",
+   "She is tall and runs like a gazelle."
+  ],
+  "note": ""
+ },
+ "dahlia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a dahlia · dahlias",
+  "say": "",
+  "ex": [
+   "She grows dahlias in her garden every year.",
+   "These dahlia flowers are bright red and very big.",
+   "I bought some dahlias at the market this morning.",
+   "Dahlias bloom in late summer and early fall."
+  ],
+  "note": ""
+ },
+ "emirate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an emirate · emirates",
+  "say": "",
+  "note": ""
+ },
+ "sulfate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a sulfate · sulfates",
+  "say": "",
+  "note": ""
+ },
+ "benefit": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a benefit · benefits",
+  "say": "",
+  "ex": [
+   "Free lunch is one benefit of working here.",
+   "The job pays well and has good benefits.",
+   "Health insurance is the most important benefit for me.",
+   "Does this company offer any benefits to part-time workers?"
+  ],
+  "note": "Most often \"benefit\" means a good result or advantage: \"the benefits of exercise.\""
+ },
+ "sparring": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "sparring · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"sparring\" or \"a sparring session,\" not \"a sparring.\""
+ },
+ "goth": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a goth · goths",
+  "say": "",
+  "note": ""
+ },
+ "dataset": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a dataset · datasets",
+  "say": "",
+  "ex": [
+   "We need a bigger dataset for this project.",
+   "Download the dataset and open it in a spreadsheet.",
+   "The dataset has ten thousand rows of sales data.",
+   "She cleaned the dataset before she started the analysis."
+  ],
+  "note": ""
+ },
+ "kayak": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a kayak · kayaks",
+  "say": "",
+  "note": ""
+ },
+ "centurion": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a centurion · centurions",
+  "say": "",
+  "note": ""
+ },
+ "pseudonym": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pseudonym · pseudonyms",
+  "say": "",
+  "note": ""
+ },
+ "coefficient": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a coefficient · coefficients",
+  "say": "",
+  "note": ""
+ },
+ "mana": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "mana · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of mana (not \"a mana\")."
+ },
+ "squatter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a squatter · squatters",
+  "say": "",
+  "note": ""
+ },
+ "boomerang": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a boomerang · boomerangs",
+  "say": "",
+  "note": ""
+ },
+ "townhouse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a townhouse · townhouses",
+  "say": "",
+  "note": ""
+ },
+ "chardonnay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a chardonnay · chardonnays",
+  "say": "",
+  "note": ""
+ },
+ "buffoon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a buffoon · buffoons",
+  "say": "",
+  "note": ""
+ },
+ "pharma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "pharma · uncountable",
+  "say": "",
+  "ex": [
+   "She got a job in pharma after college.",
+   "Big pharma makes huge profits from new drugs.",
+   "The pharma company is testing a new drug.",
+   "Ads for pharma products are common on TV."
+  ],
+  "note": "Informal; often in \"big pharma.\""
+ },
+ "Urdu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Urdu · uncountable",
+  "say": "",
+  "ex": [
+   "She speaks Urdu with her family at home.",
+   "Urdu is one of the main languages of Pakistan.",
+   "The sign at the station was written in Urdu.",
+   "He is taking an Urdu class at the university."
+  ],
+  "note": "Always capitalized in English: \"Urdu.\""
+ },
+ "steward": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a steward · stewards",
+  "say": "",
+  "ex": [
+   "The steward brought us coffee and some cookies.",
+   "He works as a steward on a big cruise ship.",
+   "Can you ask the steward for an extra blanket?",
+   "The steward showed us to our cabin on the ship."
+  ],
+  "note": "Also means a person who manages or looks after something. On planes, \"flight attendant\" is more common."
+ },
+ "forward": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a forward · forwards",
+  "say": "",
+  "ex": [
+   "He plays forward for our city hockey team.",
+   "The forward scored two goals in the first half.",
+   "Our best forward is injured and can't play today.",
+   "The team needs a fast forward who can score."
+  ],
+  "note": "Most often \"forward\" means toward the front: \"Please move forward.\""
+ },
+ "aggressor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aggressor · aggressors",
+  "say": "",
+  "ex": [
+   "The country was called the aggressor in the war.",
+   "The aggressor attacked the town without any warning.",
+   "The world must work together to stop the aggressor.",
+   "In the fight at school, he was clearly the aggressor."
+  ],
+  "note": ""
+ }
+}

@@ -1,0 +1,1522 @@
+{
+ "isolationist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He is an isolationist who wants to avoid foreign wars.",
+   "The isolationists in parliament voted against the new treaty.",
+   "Isolationists want the country to focus on problems at home.",
+   "As an isolationist, she thinks we should stay out of other wars."
+  ],
+  "note": ""
+ },
+ "oblast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "magister": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "In the US, \"master's degree\" is the usual term."
+ },
+ "regenerator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ziggurat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aul": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "subcontract": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "italic": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Please write the book title in italics.",
+   "This word is in italic to show that it is important.",
+   "Select the text and click the button for italics.",
+   "Italics make the letters lean a little to the right."
+  ],
+  "note": "Usually plural: in italics."
+ },
+ "freesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Freesias have a sweet and fresh smell.",
+   "She carried white freesias in her wedding bouquet.",
+   "I bought yellow freesias at the flower shop.",
+   "The freesia is a popular flower in spring."
+  ],
+  "note": ""
+ },
+ "shaitan": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"shaytan\"; often written with a capital."
+ },
+ "calabash": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tanka": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "enduro": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He rides his motorcycle in enduro races on weekends.",
+   "The enduro race lasted all day in the mountains.",
+   "She bought a new enduro bike for forest trails.",
+   "Enduro riders often go through mud and deep water."
+  ],
+  "note": ""
+ },
+ "abaya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She wears a black abaya when she goes out.",
+   "An abaya is a long, loose dress for women.",
+   "The shop near the mosque sells colorful abayas.",
+   "She put on an abaya over her clothes."
+  ],
+  "note": ""
+ },
+ "pliocene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital letter: Pliocene."
+ },
+ "gaslighting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "perigee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sextet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "garçon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "French word; in English, just say \"waiter.\" Calling \"garçon!\" can sound rude."
+ },
+ "unbundling": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "hydrazine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pediment": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A pediment is a gentle rock slope below a mountain.",
+   "The road crosses a wide pediment below the hills.",
+   "Geologists study how a pediment forms in dry places.",
+   "Water and wind slowly made this pediment over many years."
+  ],
+  "note": "Most often \"pediment\" is the triangle part above the columns of a building."
+ },
+ "mizrahi": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital M."
+ },
+ "cinemascope": {
+  "v": "proper_noun",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written CinemaScope."
+ },
+ "coronavirus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aniline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "microcomputer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "The first microcomputers were sold in the 1970s.",
+   "My dad had a microcomputer at home as a boy.",
+   "A microcomputer was small enough to fit on a desk.",
+   "The museum shows old microcomputers from the eighties."
+  ],
+  "note": ""
+ },
+ "timeslot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Please choose a timeslot for your doctor's appointment.",
+   "The TV show moved to a new timeslot on Friday.",
+   "Is the ten o'clock timeslot still free?",
+   "You can book a delivery timeslot online."
+  ],
+  "note": "Often written as two words: \"time slot.\""
+ },
+ "ethane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Ethane is a gas found in natural gas.",
+   "An ethane molecule has two carbon atoms.",
+   "Factories use ethane to make plastic.",
+   "Ethane burns easily, so keep it away from fire."
+  ],
+  "note": ""
+ },
+ "spermicide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "decile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "homomorphism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tepee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"teepee\" or \"tipi.\""
+ },
+ "dosimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ragout": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polysaccharide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Starch in bread and potatoes is a polysaccharide.",
+   "The body breaks down polysaccharides slowly.",
+   "Fiber in fruit is a type of polysaccharide.",
+   "Plants store energy as a polysaccharide called starch."
+  ],
+  "note": ""
+ },
+ "pseudoephedrine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ampicillin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The doctor started him on ampicillin for the infection.",
+   "Ampicillin treats many infections caused by bacteria.",
+   "Are you allergic to ampicillin or other antibiotics?",
+   "The nurse gave her ampicillin through a drip."
+  ],
+  "note": ""
+ },
+ "ecotourism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Ecotourism helps protect the rainforest and its animals.",
+   "Costa Rica is famous for its ecotourism.",
+   "We booked an ecotourism trip to the mountains.",
+   "Ecotourism brings money to local people."
+  ],
+  "note": ""
+ },
+ "fermi": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A fermi is a very tiny unit of length.",
+   "A proton is about one fermi wide.",
+   "In nuclear physics, sizes are often measured in fermis.",
+   "One fermi is the same as one femtometer."
+  ],
+  "note": ""
+ },
+ "pederast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Very negative. In modern English, \"pedophile\" or \"child abuser\" is more common."
+ },
+ "diphthong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The word \"boy\" has a diphthong in it.",
+   "A diphthong is two vowel sounds said together.",
+   "English diphthongs are hard for some learners.",
+   "Practice saying this diphthong slowly with your teacher."
+  ],
+  "note": ""
+ },
+ "evolutionist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The evolutionist explained how species change over time.",
+   "Evolutionists and creationists often argue about life on Earth.",
+   "She is an evolutionist who studies birds.",
+   "Many famous evolutionists wrote popular books."
+  ],
+  "note": ""
+ },
+ "Holocene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "We live in the Holocene, the current geological epoch.",
+   "The Holocene started about twelve thousand years ago.",
+   "Farming began early in the Holocene.",
+   "The climate was quite stable during the Holocene."
+  ],
+  "note": ""
+ },
+ "hacktivist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "benedictus": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aldehyde": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Some aldehydes have a very strong smell.",
+   "The lab test found an aldehyde in the sample.",
+   "Many perfumes use aldehydes to smell fresh.",
+   "An aldehyde is a type of chemical compound."
+  ],
+  "note": ""
+ },
+ "vlogger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "adenocarcinoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The tests showed an adenocarcinoma in his lung.",
+   "Adenocarcinoma is a common type of cancer.",
+   "He was treated for lung adenocarcinoma last year.",
+   "Early adenocarcinoma can often be treated successfully."
+  ],
+  "note": ""
+ },
+ "dyslexic": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "As a dyslexic, he gets extra time on exams.",
+   "Many dyslexics are very creative and good at art.",
+   "The school has special lessons for young dyslexics.",
+   "She is a dyslexic, so she likes listening to audiobooks."
+  ],
+  "note": "Many prefer \"person with dyslexia\"; the adjective \"dyslexic\" is more common."
+ },
+ "papilloma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chloroplast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Chloroplasts help the plant make its own food.",
+   "A chloroplast is green because of chlorophyll.",
+   "We saw chloroplasts under the microscope in biology class.",
+   "Photosynthesis happens inside the chloroplasts of leaves."
+  ],
+  "note": ""
+ },
+ "arabica": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This coffee is made from 100% arabica beans.",
+   "Arabica tastes milder and sweeter than robusta.",
+   "I buy arabica beans for my coffee at home.",
+   "Arabica grows best high in the mountains."
+  ],
+  "note": ""
+ },
+ "knish": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "organza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "daphnia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is also \"daphnia.\" Also called \"water fleas.\""
+ },
+ "hydroxyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A hydroxyl group has one oxygen and one hydrogen.",
+   "Every alcohol molecule has a hydroxyl group.",
+   "Draw the hydroxyl group on the molecule.",
+   "The hydroxyl group helps it dissolve in water."
+  ],
+  "note": ""
+ },
+ "linotype": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pylorus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The pylorus connects the stomach to the small intestine.",
+   "The baby has a narrow pylorus and vomits often.",
+   "Food passes from the stomach through the pylorus.",
+   "The doctor looked at the pylorus with a camera."
+  ],
+  "note": ""
+ },
+ "puritanism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "accumulator": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": "British word. Americans usually say \"battery\"."
+ },
+ "occultism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rigatoni": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sadomasochism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often shortened to \"S&M\" in everyday talk."
+ },
+ "regress": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "ex": [
+   "Philosophers talk about an infinite regress in arguments.",
+   "After the war, the country saw a regress in living standards.",
+   "A long break can cause a regress in a child's skills.",
+   "Without practice, there may be a regress in your progress."
+  ],
+  "note": "\"Regression\" is more common in everyday English."
+ },
+ "putto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Plural: \"putti.\""
+ },
+ "amadou": {
+  "v": "not_standard_ukrainian",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "meteoroid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "refractor": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He looked at the moon through a small refractor.",
+   "A refractor is a telescope that uses lenses.",
+   "This small refractor is good for beginners.",
+   "The old refractor is now in the museum."
+  ],
+  "note": ""
+ },
+ "imperative": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"imperative\" is an adjective: \"It is imperative to act now.\""
+ },
+ "deltoid": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "vesting": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "doxycycline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I took doxycycline after a tick bite.",
+   "Don't lie down right after taking doxycycline.",
+   "Doxycycline can make your skin sensitive to the sun.",
+   "The doctor prescribed doxycycline for two weeks."
+  ],
+  "note": ""
+ },
+ "metformin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My dad takes metformin for his diabetes.",
+   "Take your metformin with a meal.",
+   "Metformin helps control the level of blood sugar.",
+   "The doctor increased her metformin dose."
+  ],
+  "note": ""
+ },
+ "talib": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A talib is a member of the Taliban movement.",
+   "The soldiers captured a young talib near the border.",
+   "The reporter talked to a talib who wanted peace.",
+   "Each talib in the group carried a rifle."
+  ],
+  "note": "Most often \"talib\" means a student at an Islamic religious school."
+ },
+ "Eocene": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "These fossils come from the Eocene.",
+   "The Eocene was a very warm time on Earth.",
+   "Many new mammals appeared in the Eocene.",
+   "This rock formed during the Eocene."
+  ],
+  "note": ""
+ },
+ "benefice": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The priest received a small benefice in the village.",
+   "He held the benefice for twenty years.",
+   "The benefice included a house and some land.",
+   "The church gave him a new benefice near the city."
+  ],
+  "note": ""
+ },
+ "palimpsest": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vasopressin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "proscenium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "endpoint": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "preceptor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "terroir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "naira": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The price of the phone is fifty thousand naira.",
+   "The naira is the money of Nigeria.",
+   "The naira lost a lot of value this year.",
+   "I changed my dollars into naira at the airport."
+  ],
+  "note": ""
+ },
+ "shogi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acrylamide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "epoxide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "estrus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Everyday term: \"in heat.\""
+ },
+ "laplacian": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pyrimidine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "scholasticism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kvass": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: say \"some kvass\" or \"a glass of kvass\"."
+ },
+ "remastering": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mirabelle": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chlorate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "coltan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Coltan is a black metal ore found in Africa.",
+   "Phones and laptops need metals made from coltan.",
+   "Many coltan mines are in the east of the Congo.",
+   "The price of coltan went up this year."
+  ],
+  "note": ""
+ },
+ "quartzite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "soundcheck": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wavelet": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Engineers use wavelets to compress images.",
+   "The engineer used a wavelet to clean the signal.",
+   "Wavelet methods help scientists analyze sound.",
+   "A wavelet is a small wave-like math function."
+  ],
+  "note": ""
+ },
+ "infarct": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Doctors say \"heart attack\" for a heart infarct in daily talk."
+ },
+ "absorber": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "This filter is a good absorber of bad smells.",
+   "Sunscreen contains an absorber that blocks UV light.",
+   "The panel is a sound absorber for the music room.",
+   "Carbon is a good absorber of harmful gases."
+  ],
+  "note": "Most often used in \"shock absorber,\" a car part."
+ },
+ "mimeograph": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hangul": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Hangul is the alphabet used for Korean.",
+   "I learned to read hangul in one week.",
+   "The sign at the station was in hangul.",
+   "Hangul is easy to learn for beginners."
+  ],
+  "note": ""
+ },
+ "duc": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "In English, \"duke\" is the usual word; use \"duc\" only for French nobles."
+ },
+ "theist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "retouch": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "recidivist": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "linker": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The linker joins the code files into one program.",
+   "I got a linker error when I built the app.",
+   "Check the linker settings in your project.",
+   "The linker could not find the library."
+  ],
+  "note": ""
+ },
+ "meningioma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "shinkansen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Same as \"bullet train\"."
+ },
+ "nativism": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "caries": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Too much sugar can cause dental caries.",
+   "The dentist found caries in two of my teeth.",
+   "Brushing twice a day helps prevent caries.",
+   "Caries is common in young children."
+  ],
+  "note": "Same form for singular and plural; 'tooth decay' is more common."
+ },
+ "calamine": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "alginate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "muezzin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dissonance": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The song has a strange dissonance at the end.",
+   "A little dissonance makes the music feel tense.",
+   "There was a dissonance between his words and his actions.",
+   "The chord sounded harsh because of the dissonance."
+  ],
+  "note": ""
+ },
+ "dualism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Dualism says that mind and body are separate.",
+   "We discussed dualism in our philosophy class.",
+   "The book is about the dualism of good and evil.",
+   "Dualism is a very old idea in religion."
+  ],
+  "note": ""
+ },
+ "lassi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "toolbar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "stromatolite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "big air": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "land art": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "big beat": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "city tour": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "long drink": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "art rock": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He loves art rock from the seventies.",
+   "Their music is closer to art rock than pop.",
+   "Art rock often has long, complex songs.",
+   "This band helped start the art rock scene."
+  ],
+  "note": ""
+ },
+ "power metal": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He loves power metal with fast guitar solos.",
+   "Power metal songs are often about dragons.",
+   "The band from my town plays power metal.",
+   "Power metal is very popular in Europe."
+  ],
+  "note": ""
+ },
+ "content manager": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "take-profit": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Set a take-profit to lock in your gains.",
+   "My take-profit closed the trade automatically.",
+   "He placed a take-profit just above the price.",
+   "My take-profit order filled during the night."
+  ],
+  "note": ""
+ },
+ "J-pop": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "low kick": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "speed metal": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dream pop": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "business angel": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": "In the US \"angel investor\" is more common."
+ },
+ "op art": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "vice-premier": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The vice-premier met foreign leaders today.",
+   "She was named vice-premier last year.",
+   "The vice-premier spoke at the business conference.",
+   "The vice-premier visited the new factory on Monday."
+  ],
+  "note": "In English \"deputy prime minister\" is more common."
+ },
+ "blues rock": {
+  "v": "keep",
+  "pm": 0.6,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cool jazz": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jazz-rock": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The band plays jazz-rock with long solos.",
+   "Jazz-rock was popular in the seventies.",
+   "He loves the sound of jazz-rock guitar.",
+   "This jazz-rock album is a real classic."
+  ],
+  "note": ""
+ },
+ "re-export": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The re-export of goods brings money to the port.",
+   "Re-export is a big part of their trade.",
+   "The company makes money from the re-export of oil.",
+   "Re-exports from the port rose sharply this year."
+  ],
+  "note": ""
+ },
+ "base jumping": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Base jumping is a very dangerous sport.",
+   "He tried base jumping from a high cliff.",
+   "Base jumping is illegal in some parks.",
+   "She loves extreme sports like base jumping."
+  ],
+  "note": "Also \"BASE jumping\"."
+ },
+ "hit parade": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; \"charts\" is more common today."
+ },
+ "PR manager": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acid jazz": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rap battle": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "street workout": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "post-hardcore": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He sings in a post-hardcore band with friends.",
+   "Post-hardcore music is loud but very emotional.",
+   "She discovered post-hardcore in high school.",
+   "This new post-hardcore album is really great."
+  ],
+  "note": ""
+ },
+ "bitter lemon": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable as a drink: \"some bitter lemon\"; common in the UK."
+ },
+ "jazz fusion": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Jazz fusion mixes jazz and rock.",
+   "The band plays jazz fusion with keyboards.",
+   "Jazz fusion was popular in the seventies.",
+   "He loves the guitar sound of jazz fusion."
+  ],
+  "note": ""
+ },
+ "surf rock": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Surf rock has a bright guitar sound.",
+   "The band plays sixties surf rock.",
+   "Surf rock is great summer music.",
+   "He collects old surf rock records."
+  ],
+  "note": ""
+ },
+ "doom metal": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "corps de ballet": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "French phrase; said \"kor-duh-ba-LAY\"."
+ },
+ "free trader": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He is a strong free trader.",
+   "Free traders want lower taxes on imports.",
+   "The senator is known as a free trader.",
+   "Free traders support open markets between countries."
+  ],
+  "note": ""
+ },
+ "royal flush": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "safari park": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": "More common in British English; Americans often say \"wildlife park\"."
+ },
+ "neo-Marxist": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tom yum": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "neo-fascism": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The rise of neo-fascism worries many people.",
+   "The book explains the roots of neo-fascism.",
+   "Neo-fascism spread in parts of Europe.",
+   "Students marched in the city against neo-fascism."
+  ],
+  "note": ""
+ },
+ "cherry brandy": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hard bop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

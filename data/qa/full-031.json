@@ -1,0 +1,667 @@
+{
+ "beret": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a beret · berets",
+  "say": "",
+  "note": ""
+ },
+ "browsing": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "browsing · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "python": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a python · pythons",
+  "say": "",
+  "note": "Most often \"Python\" means a programming language: \"She writes code in Python.\"",
+  "ex": [
+   "The python at the zoo is longer than a car.",
+   "A python is a big snake that squeezes its food.",
+   "Is that python dangerous to small children?",
+   "The python is sleeping under a warm lamp."
+  ]
+ },
+ "blogging": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "blogging · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Blogging is a good way to share your ideas.",
+   "She makes some extra money from blogging about food.",
+   "Blogging became her full-time job last year.",
+   "Is blogging still popular with young people?"
+  ]
+ },
+ "turban": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a turban · turbans",
+  "say": "",
+  "note": "",
+  "ex": [
+   "He wears a turban to work every day.",
+   "The man in the blue turban is my teacher.",
+   "She tied a long scarf around her head like a turban.",
+   "Many Sikh men wear a turban in public."
+  ]
+ },
+ "beagle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a beagle · beagles",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Our beagle loves to smell everything on walks.",
+   "A beagle is a friendly dog for families.",
+   "Is your beagle good with small children?",
+   "The beagle barks loudly when someone is at the door."
+  ]
+ },
+ "kerosene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "kerosene · uncountable",
+  "say": "",
+  "note": "Uncountable: some kerosene (not \"a kerosene\").",
+  "ex": [
+   "We use a kerosene lamp when the power goes out.",
+   "This old heater in the garage runs on kerosene.",
+   "Kerosene has a very strong smell.",
+   "Where can I buy kerosene for my camping stove?"
+  ]
+ },
+ "amphetamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an amphetamine · amphetamines",
+  "say": "",
+  "note": ""
+ },
+ "moderator": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a moderator · moderators",
+  "say": "",
+  "note": ""
+ },
+ "ether": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "ether · uncountable",
+  "say": "",
+  "note": "Uncountable: some ether (not \"a ether\").",
+  "ex": [
+   "Doctors once used ether to put patients to sleep.",
+   "Ether has a strong smell and burns very easily.",
+   "Keep the bottle of ether away from fire.",
+   "The chemist poured some ether into a glass flask."
+  ]
+ },
+ "tenor": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a tenor · tenors",
+  "say": "",
+  "note": ""
+ },
+ "moo": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Usually a sound word; also used as a verb: \"the cows mooed\"."
+ },
+ "masquerade": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a masquerade · masquerades",
+  "say": "",
+  "note": ""
+ },
+ "millennial": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a millennial · millennials",
+  "say": "",
+  "note": ""
+ },
+ "engineering": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "engineering · uncountable",
+  "say": "",
+  "note": "Most often \"engineering\" is the science and job of engineers: \"She studies engineering.\"",
+  "ex": [
+   "The company offers engineering services for new factories.",
+   "We hired a firm to do the engineering for the new bridge.",
+   "Can your company do the engineering for this project?",
+   "The engineering costs were higher than we planned."
+  ]
+ },
+ "bridge": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "bridge · uncountable",
+  "say": "",
+  "note": "Most often \"bridge\" means a road over a river: \"We walked across the bridge.\""
+ },
+ "bastion": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a bastion · bastions",
+  "say": "",
+  "note": ""
+ },
+ "Catholicism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Catholicism · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "creme": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "creme · uncountable",
+  "say": "",
+  "note": "Mostly used in French food names like \"creme brulee\"; otherwise say \"cream.\""
+ },
+ "squash": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "squash · uncountable",
+  "say": "",
+  "note": "Most often \"squash\" is a vegetable like a pumpkin: \"We cooked squash for dinner.\"",
+  "ex": [
+   "We play squash twice a week after work.",
+   "Squash is a fast sport that people play indoors.",
+   "Can I book a squash court for Friday evening?",
+   "You need a racket and a small ball for squash."
+  ]
+ },
+ "lackey": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a lackey · lackeys",
+  "say": "",
+  "note": "Insulting word for a person who obeys others too much."
+ },
+ "paintball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "paintball · uncountable",
+  "say": "",
+  "note": "Uncountable for the game: \"play paintball\"; one shot is a \"paintball\" too.",
+  "ex": [
+   "We played paintball for my birthday last weekend.",
+   "Paintball can hurt if you don't wear protection.",
+   "Do you want to play paintball with us on Saturday?",
+   "The team went to a paintball park outside the city."
+  ]
+ },
+ "cadaver": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a cadaver · cadavers",
+  "say": "",
+  "note": ""
+ },
+ "badminton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "badminton · uncountable",
+  "say": "",
+  "note": "Uncountable: play badminton (not \"a badminton\").",
+  "ex": [
+   "We often play badminton in the backyard in summer.",
+   "She is on the school badminton team this year.",
+   "Badminton is very popular in many Asian countries.",
+   "Can I borrow your badminton racket this weekend?"
+  ]
+ },
+ "keel": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a keel · keels",
+  "say": "",
+  "note": ""
+ },
+ "promenade": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a promenade · promenades",
+  "say": "",
+  "note": ""
+ },
+ "sax": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a sax · saxes",
+  "say": "",
+  "note": "Informal short form of \"saxophone\".",
+  "ex": [
+   "He plays sax in the school jazz band.",
+   "The sax solo in this song is amazing.",
+   "She carries her sax to practice every Tuesday.",
+   "Can you play the sax, or only the piano?"
+  ]
+ },
+ "loyalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a loyalist · loyalists",
+  "say": "",
+  "note": ""
+ },
+ "condor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a condor · condors",
+  "say": "",
+  "note": ""
+ },
+ "prasad": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "prasad · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "bistro": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bistro · bistros",
+  "say": "",
+  "note": ""
+ },
+ "sutra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sutra · sutras",
+  "say": "",
+  "note": ""
+ },
+ "marlin": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a marlin · marlins",
+  "say": "",
+  "note": ""
+ },
+ "autopilot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an autopilot · autopilots",
+  "say": "",
+  "note": ""
+ },
+ "gringo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": false,
+  "gram": "a gringo · gringos",
+  "say": "",
+  "note": "Informal and can be rude."
+ },
+ "khaki": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "khaki · uncountable",
+  "say": "",
+  "note": "Uncountable as a color; \"khakis\" means pants.",
+  "ex": [
+   "The soldiers were dressed in khaki from head to toe.",
+   "Khaki is a good color for hiking clothes.",
+   "Do you have this jacket in khaki or black?",
+   "He bought a light jacket in khaki for the trip."
+  ]
+ },
+ "leprechaun": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a leprechaun · leprechauns",
+  "say": "",
+  "note": ""
+ },
+ "dogma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dogma · dogmas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The church teaches this idea as dogma.",
+   "He refused to accept any political dogma.",
+   "Some old dogmas are slowly changing today.",
+   "Good scientists question dogma and test their ideas."
+  ]
+ },
+ "pheromone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a pheromone · pheromones",
+  "say": "",
+  "note": ""
+ },
+ "alfredo": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "alfredo · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "I made fettuccine alfredo for dinner tonight.",
+   "The alfredo sauce here is rich and creamy.",
+   "Can I get the chicken alfredo without mushrooms?",
+   "You make alfredo with butter, cream, and cheese."
+  ]
+ },
+ "magnolia": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a magnolia · magnolias",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The magnolia in our yard is blooming again.",
+   "Magnolia flowers have a sweet, strong smell.",
+   "She planted a pink magnolia near the house.",
+   "Is that big tree with white flowers a magnolia?"
+  ]
+ },
+ "embargo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an embargo · embargoes",
+  "say": "",
+  "note": ""
+ },
+ "doping": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "doping · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"doping,\" not \"a doping.\""
+ },
+ "sonnet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sonnet · sonnets",
+  "say": "",
+  "note": ""
+ },
+ "proponent": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a proponent · proponents",
+  "say": "",
+  "note": "Formal word; \"supporter\" is more common in everyday speech."
+ },
+ "adieu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "pager": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a pager · pagers",
+  "say": "",
+  "note": ""
+ },
+ "API": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Say each letter: \"an A-P-I\".",
+  "ex": [
+   "The app uses a free weather API.",
+   "Developers can connect to our API with a key.",
+   "The API sends the data back in JSON.",
+   "Please read the API documentation before you start."
+  ]
+ },
+ "parmesan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "parmesan · uncountable",
+  "say": "",
+  "note": "Uncountable: some parmesan (not \"a parmesan\")."
+ },
+ "brokerage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a brokerage · brokerages",
+  "say": "",
+  "note": ""
+ },
+ "microchip": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a microchip · microchips",
+  "say": "",
+  "note": ""
+ },
+ "sphinx": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a sphinx · sphinxes",
+  "say": "",
+  "note": ""
+ },
+ "armada": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an armada · armadas",
+  "say": "",
+  "note": ""
+ },
+ "veranda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a veranda · verandas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We drank tea on the veranda after dinner.",
+   "The house has a wide veranda in front.",
+   "They sat on the veranda and watched the rain.",
+   "Can we eat outside on the veranda today?"
+  ]
+ },
+ "vocal": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "vocals · plural",
+  "say": "",
+  "note": "Usually \"vocals\" for the singing in a song; \"vocal\" is often an adjective: \"vocal cords.\""
+ },
+ "mustang": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a mustang · mustangs",
+  "say": "",
+  "note": "Most often \"Mustang\" is the name of a sports car; \"a mustang\" is a wild horse."
+ },
+ "antichrist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the antichrist",
+  "say": "",
+  "note": ""
+ },
+ "geisha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a geisha · geishas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We saw a geisha walking in the old part of town.",
+   "A geisha entertains guests with music and dance.",
+   "Geishas usually wear beautiful kimonos and white makeup.",
+   "She read a book about a geisha's life in Japan."
+  ]
+ },
+ "artiste": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an artiste · artistes",
+  "say": "",
+  "note": "Often humorous; in daily speech say \"artist\" or \"performer.\""
+ },
+ "syllabus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a syllabus · syllabuses",
+  "say": "",
+  "note": "Plural: \"syllabuses\" or \"syllabi.\""
+ }
+}

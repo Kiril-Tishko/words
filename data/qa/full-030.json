@@ -1,0 +1,647 @@
+{
+ "medalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a medalist · medalists",
+  "say": "",
+  "note": ""
+ },
+ "cameo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a cameo · cameos",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The director makes a short cameo in his own movie.",
+   "Did you see the singer's cameo in that film?",
+   "Fans loved the surprise cameo at the end of the show.",
+   "She has a small cameo in the last episode."
+  ]
+ },
+ "magnum": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a magnum · magnums",
+  "say": "",
+  "note": "Most often in \"magnum opus\": the best work of an artist or writer."
+ },
+ "render": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a render · renders",
+  "say": "",
+  "note": "Most often a verb meaning \"make\" or \"give\": \"The rain rendered the road unsafe.\""
+ },
+ "tiara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tiara · tiaras",
+  "say": "",
+  "note": ""
+ },
+ "opal": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an opal · opals",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She has an opal ring from her grandmother.",
+   "The opal shines with many different colors in the light.",
+   "Is this a real opal or just colored glass?",
+   "Her necklace has a large blue opal in the middle."
+  ]
+ },
+ "anthrax": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "anthrax · uncountable",
+  "say": "",
+  "note": "Uncountable: \"He has anthrax\" (not \"an anthrax\").",
+  "ex": [
+   "Anthrax is a dangerous disease of animals and people.",
+   "Farmers vaccinate their cattle against anthrax every year.",
+   "People can catch anthrax from sick sheep or cows.",
+   "The doctor tested the farmer for anthrax."
+  ]
+ },
+ "RPG": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "an RPG · RPGs",
+  "say": "",
+  "note": "Stands for \"role-playing game\"; can also mean a rocket launcher."
+ },
+ "panorama": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a panorama · panoramas",
+  "say": "",
+  "note": ""
+ },
+ "peri": {
+  "v": "keep",
+  "s": 5,
+  "reg": [
+   "literary"
+  ],
+  "ns": true,
+  "gram": "a peri · peris",
+  "say": "",
+  "note": "A rare word from Persian stories. Most often seen in \"peri-peri\", a hot chili sauce."
+ },
+ "anemia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "anemia · uncountable",
+  "say": "",
+  "note": "Uncountable: \"She has anemia\" (not \"an anemia\"). British spelling: \"anaemia\".",
+  "ex": [
+   "Her tiredness was caused by anemia.",
+   "Eating more iron can help prevent anemia.",
+   "The doctor tested him for anemia last week.",
+   "Anemia is common in women during pregnancy."
+  ]
+ },
+ "archangel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an archangel · archangels",
+  "say": "",
+  "note": ""
+ },
+ "optimist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an optimist · optimists",
+  "say": "",
+  "note": ""
+ },
+ "dojo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a dojo · dojos",
+  "say": "",
+  "note": ""
+ },
+ "electorate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "the electorate",
+  "say": "",
+  "note": "Formal; everyday speech says \"voters\"."
+ },
+ "indie": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "indie · uncountable",
+  "say": "",
+  "note": "Most often used before a noun: \"an indie band\", \"indie games\".",
+  "ex": [
+   "She mostly listens to indie and some old rock.",
+   "This summer festival is great for fans of indie.",
+   "Is this song indie or pop?",
+   "There is a lot of good indie on this radio station."
+  ]
+ },
+ "kiosk": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kiosk · kiosks",
+  "say": "",
+  "note": ""
+ },
+ "eureka": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "\"Eureka! I finally found my car keys!\" she shouted.",
+   "He jumped up and shouted, \"Eureka! The code works!\"",
+   "I had a eureka moment while I was in the shower.",
+   "\"Eureka!\" said Anna when she solved the last puzzle."
+  ]
+ },
+ "detox": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a detox · detoxes",
+  "say": "",
+  "note": ""
+ },
+ "adapter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an adapter · adapters",
+  "say": "",
+  "note": ""
+ },
+ "slash": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "a slash · slashes",
+  "say": "",
+  "note": "Most often a verb: to cut with a long, fast move, or to cut a lot: \"They slashed prices.\""
+ },
+ "hipster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a hipster · hipsters",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The cafe is full of hipsters with laptops.",
+   "He looks like a hipster with that beard and hat.",
+   "Hipsters love vintage clothes and old vinyl records.",
+   "This part of town is popular with young hipsters."
+  ]
+ },
+ "jacuzzi": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a jacuzzi · jacuzzis",
+  "say": "",
+  "note": "In the US, often called a \"hot tub\"."
+ },
+ "activism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "activism · uncountable",
+  "say": "",
+  "note": "Uncountable: \"student activism\" (not \"an activism\")."
+ },
+ "touchscreen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a touchscreen · touchscreens",
+  "say": "",
+  "note": "Also written as two words: \"touch screen\"."
+ },
+ "standby": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "standby · uncountable",
+  "say": "",
+  "note": "Most often \"on standby\": ready to act if needed: \"Doctors are on standby.\"",
+  "ex": [
+   "Press this button to put the TV on standby.",
+   "The printer goes into standby after ten minutes.",
+   "Does the computer use much power on standby?",
+   "Turn the TV off completely, not just to standby."
+  ]
+ },
+ "baht": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a baht · baht",
+  "say": "",
+  "note": "Plural is also \"baht\": \"fifty baht.\""
+ },
+ "cocoon": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a cocoon · cocoons",
+  "say": "",
+  "note": ""
+ },
+ "escalator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an escalator · escalators",
+  "say": "",
+  "note": ""
+ },
+ "omelet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an omelet · omelets",
+  "say": "",
+  "note": "British spelling: \"omelette\"."
+ },
+ "Sanskrit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Sanskrit · uncountable",
+  "say": "",
+  "note": "Always with a capital letter, no article: \"She is learning Sanskrit.\""
+ },
+ "madonna": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a madonna · madonnas",
+  "say": "",
+  "note": "Most often a name. As a word: a picture or statue of Mary; usually \"the Madonna\"."
+ },
+ "oval": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "an oval · ovals",
+  "say": "",
+  "note": "Most often an adjective: \"an oval table\", \"an oval face\"."
+ },
+ "bulldozer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bulldozer · bulldozers",
+  "say": "",
+  "note": ""
+ },
+ "tender": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a tender · tenders",
+  "say": "",
+  "note": "Most often an adjective: soft or gentle: \"tender meat\". In the US, \"bid\" is more common for this.",
+  "ex": [
+   "The city announced a tender for the new bridge.",
+   "Our company won the tender for the school building.",
+   "Five firms took part in the tender this year.",
+   "When does the tender for the road repairs close?"
+  ]
+ },
+ "ethanol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "ethanol · uncountable",
+  "say": "",
+  "note": "Uncountable: \"fuel with ethanol\" (not \"an ethanol\")."
+ },
+ "dashboard": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "a dashboard · dashboards",
+  "say": "",
+  "note": "Also the panel in front of the driver in a car."
+ },
+ "dunk": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a dunk · dunks",
+  "say": "",
+  "note": "Also a verb: to put food into a drink: \"dunk a cookie in milk\"."
+ },
+ "hillbilly": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a hillbilly · hillbillies",
+  "say": "",
+  "note": "Often rude or insulting."
+ },
+ "armageddon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "armageddon · uncountable",
+  "say": "",
+  "note": "Often written with a capital letter: \"Armageddon\"."
+ },
+ "paperback": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a paperback · paperbacks",
+  "say": "",
+  "note": ""
+ },
+ "flannel": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "flannel · uncountable",
+  "say": "",
+  "note": "Uncountable as cloth: \"made of flannel\". In British English, a flannel is also a washcloth.",
+  "ex": [
+   "He wore a warm flannel shirt in the cold.",
+   "Flannel sheets are cozy in the winter.",
+   "This shirt is made of soft, thick flannel.",
+   "Do you have any pajamas made of flannel?"
+  ]
+ },
+ "emoji": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an emoji · emojis",
+  "say": "",
+  "note": "Plural is \"emoji\" or \"emojis\"; both are used."
+ },
+ "transponder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a transponder · transponders",
+  "say": "",
+  "note": ""
+ },
+ "rally": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a rally · rallies",
+  "say": "",
+  "note": "Most often a big public meeting or protest: \"a peace rally in the square.\""
+ },
+ "liner": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a liner · liners",
+  "say": "",
+  "note": "Often \"ocean liner\". It can also mean a thin layer inside something: \"a trash can liner\"."
+ },
+ "tripod": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a tripod · tripods",
+  "say": "",
+  "note": ""
+ },
+ "trolling": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "trolling · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a lot of trolling\" (not \"a trolling\")."
+ },
+ "tarot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "tarot · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "vassal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vassal · vassals",
+  "say": "",
+  "note": ""
+ },
+ "groupie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a groupie · groupies",
+  "say": "",
+  "note": ""
+ },
+ "sonata": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a sonata · sonatas",
+  "say": "",
+  "note": ""
+ },
+ "facade": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a facade · facades",
+  "say": "",
+  "note": "Also spelled \"façade\"."
+ },
+ "raja": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a raja · rajas",
+  "say": "",
+  "note": "Also spelled \"rajah\"."
+ },
+ "edict": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "an edict · edicts",
+  "say": "",
+  "note": "Formal word; \"order\" or \"decree\" is more common."
+ },
+ "directorate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a directorate · directorates",
+  "say": "",
+  "note": ""
+ },
+ "euphoria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "euphoria · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a feeling of euphoria\" (not \"a euphoria\").",
+  "ex": [
+   "The fans were in euphoria after the big win.",
+   "A feeling of euphoria came over her at the finish line.",
+   "The euphoria after the concert did not last long.",
+   "Some runners feel euphoria after a long run."
+  ]
+ },
+ "frisbee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a frisbee · frisbees",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Let's play frisbee in the park after lunch.",
+   "Our dog can catch a frisbee in the air.",
+   "I threw the frisbee too high, and it hit a tree.",
+   "Can you bring the frisbee to the beach tomorrow?"
+  ]
+ },
+ "trouble": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "trouble · uncountable",
+  "say": "",
+  "note": "Usually uncountable: \"have trouble\", not \"a trouble\"."
+ },
+ "carousel": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a carousel · carousels",
+  "say": "",
+  "note": "At airports, a carousel is the moving belt where you get your bags.",
+  "ex": [
+   "The kids rode the carousel at the fair.",
+   "Can we go on the carousel one more time?",
+   "The carousel plays old music while it turns.",
+   "She sat on a white horse on the carousel."
+  ]
+ }
+}

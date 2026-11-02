@@ -1,0 +1,660 @@
+{
+ "collie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a collie · collies",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Our collie helps the farmer move the sheep.",
+   "A collie is a very smart and friendly dog.",
+   "Our collie has long, soft fur, so we brush it often.",
+   "Can we take the collie for a walk in the park?"
+  ]
+ },
+ "burlesque": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "burlesque · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We saw a burlesque show in a small club.",
+   "The burlesque dancers wore bright, funny costumes.",
+   "Burlesque shows mix comedy, music, and dance.",
+   "She took a burlesque dance class just for fun."
+  ]
+ },
+ "newsroom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a newsroom · newsrooms",
+  "say": "",
+  "note": ""
+ },
+ "exorcist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an exorcist · exorcists",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The family asked the church to send an exorcist.",
+   "The exorcist prayed in the old house all night.",
+   "The movie is about a young priest who becomes an exorcist.",
+   "In the story, an exorcist tries to help a sick girl."
+  ]
+ },
+ "polyester": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "polyester · uncountable",
+  "say": "",
+  "note": "Uncountable: \"made of polyester\" (not \"a polyester\").",
+  "ex": [
+   "This shirt is made of cheap polyester.",
+   "Polyester dries very quickly after you wash it.",
+   "The jacket is half cotton and half polyester.",
+   "I don't like polyester because it feels hot in summer."
+  ]
+ },
+ "finale": {
+  "v": "not_standard_ukrainian",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a finale · finales",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The finale of the show was really amazing.",
+   "Everyone on stage sang together in the grand finale.",
+   "The fireworks were a perfect finale to the festival.",
+   "Did you watch the season finale of that series last night?"
+  ]
+ },
+ "illustrator": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an illustrator · illustrators",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The illustrator drew all the pictures for this children's book.",
+   "She works at home as an illustrator for magazines.",
+   "The illustrator likes to paint with watercolors.",
+   "The writer and the illustrator met to talk about the cover."
+  ]
+ },
+ "innovator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an innovator · innovators",
+  "say": "",
+  "note": ""
+ },
+ "kimchi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "kimchi · uncountable",
+  "say": "",
+  "note": "Uncountable: \"some kimchi\" (not \"a kimchi\").",
+  "ex": [
+   "I like to eat kimchi with rice and eggs.",
+   "Kimchi is a spicy Korean dish made from cabbage.",
+   "She makes her own kimchi at home every fall.",
+   "This kimchi is too sour for me."
+  ]
+ },
+ "aorta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an aorta · aortas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The aorta is the biggest blood vessel in the body.",
+   "Blood goes from the heart into the aorta.",
+   "The scan showed a problem with his aorta.",
+   "Doctors did surgery to fix a weak spot in her aorta."
+  ]
+ },
+ "basset": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a basset · bassets",
+  "say": "",
+  "note": "Usually called \"basset hound\".",
+  "ex": [
+   "Our basset has very long ears and short legs.",
+   "The basset slept in the sun all afternoon.",
+   "A basset can smell things from very far away.",
+   "Is your basset friendly with other dogs?"
+  ]
+ },
+ "impulse": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "an impulse · impulses",
+  "say": "",
+  "note": "Most often \"impulse\" means a sudden wish to do something: \"I bought it on impulse.\""
+ },
+ "la": {
+  "v": "keep",
+  "s": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a la · las",
+  "say": "",
+  "note": "Most often \"la\" is a sound in songs (\"la la la\") or part of names like LA. The note is usually called \"A\".",
+  "ex": [
+   "Sing the notes do, re, mi, fa, sol, la.",
+   "In this song, the high note is la.",
+   "La comes after sol and before ti.",
+   "Can you play la on the piano for me?"
+  ]
+ },
+ "iguana": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an iguana · iguanas",
+  "say": "",
+  "note": ""
+ },
+ "yeti": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a yeti · yetis",
+  "say": "",
+  "note": ""
+ },
+ "synod": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a synod · synods",
+  "say": "",
+  "note": ""
+ },
+ "dingo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dingo · dingoes",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The dingo is a wild dog that lives in Australia.",
+   "We saw a dingo near our camp last night.",
+   "Dingoes often hunt together in small groups.",
+   "Please keep your food away from the dingoes."
+  ]
+ },
+ "piccolo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a piccolo · piccolos",
+  "say": "",
+  "note": ""
+ },
+ "winger": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a winger · wingers",
+  "say": "",
+  "note": ""
+ },
+ "rebate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a rebate · rebates",
+  "say": "",
+  "note": ""
+ },
+ "fundraiser": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a fundraiser · fundraisers",
+  "say": "",
+  "note": "Most often \"fundraiser\" means an event to collect money: \"a school fundraiser.\"",
+  "ex": [
+   "She works as a fundraiser for a children's charity.",
+   "The hospital hired a fundraiser to find new donors.",
+   "Our best fundraiser collected ten thousand dollars this year.",
+   "As a fundraiser, he calls many people every day."
+  ]
+ },
+ "amethyst": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an amethyst · amethysts",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She wears a ring with a small amethyst.",
+   "An amethyst is a purple stone used in jewelry.",
+   "I bought amethyst earrings for my mom's birthday.",
+   "The necklace has a large amethyst in the center."
+  ]
+ },
+ "swastika": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a swastika · swastikas",
+  "say": "",
+  "note": ""
+ },
+ "podium": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a podium · podiums",
+  "say": "",
+  "note": "Also the stand a speaker talks from. A fashion show walkway is a \"runway,\" not a podium.",
+  "ex": [
+   "The three winners stood on the podium.",
+   "She finished on the podium in all three races.",
+   "He hopes to get on the podium this year.",
+   "Only the top three runners stand on the podium."
+  ]
+ },
+ "mozzarella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "mozzarella · uncountable",
+  "say": "",
+  "note": "Uncountable: \"some mozzarella\" or \"a ball of mozzarella.\""
+ },
+ "moped": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a moped · mopeds",
+  "say": "",
+  "note": ""
+ },
+ "adjutant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an adjutant · adjutants",
+  "say": "",
+  "note": ""
+ },
+ "euphemism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a euphemism · euphemisms",
+  "say": "",
+  "note": ""
+ },
+ "barbershop": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a barbershop · barbershops",
+  "say": "",
+  "note": ""
+ },
+ "confetti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "confetti · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"some confetti,\" not \"a confetti.\""
+ },
+ "magnate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a magnate · magnates",
+  "say": "",
+  "note": ""
+ },
+ "libido": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a libido · libidos",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Stress and lack of sleep can lower your libido.",
+   "This medicine may affect your libido.",
+   "Regular exercise can improve your energy and libido.",
+   "The doctor asked about changes in her libido."
+  ]
+ },
+ "condominium": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a condominium · condominiums",
+  "say": "",
+  "note": "Often shortened to \"condo\" in everyday speech."
+ },
+ "wiki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a wiki · wikis",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Our team keeps all its notes on a wiki.",
+   "I added a new page to the company wiki.",
+   "Please check the wiki for instructions.",
+   "Anyone on the team can edit this wiki."
+  ]
+ },
+ "tic": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a tic · tics",
+  "say": "",
+  "note": ""
+ },
+ "junta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a junta · juntas",
+  "say": "",
+  "note": ""
+ },
+ "mambo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a mambo · mambos",
+  "say": "",
+  "note": ""
+ },
+ "polygraph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a polygraph · polygraphs",
+  "say": "",
+  "note": ""
+ },
+ "all-in": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Usually \"go all-in\": bet all your money in poker, or put all your effort into something.",
+  "ex": [
+   "He went all-in with a pair of aces.",
+   "She pushed all her chips forward and went all-in.",
+   "Going all-in on the first hand is very risky.",
+   "If you go all-in and lose, you are out of the game."
+  ]
+ },
+ "coming out": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "coming out · uncountable",
+  "say": "",
+  "note": "Often written \"coming-out\". The verb is \"come out\": \"He came out to his parents.\""
+ },
+ "full house": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a full house · full houses",
+  "say": "",
+  "note": "Also means every seat is full: \"The band played to a full house.\""
+ },
+ "check-out": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a check-out · check-outs",
+  "say": "",
+  "note": "Also written \"checkout\". In a store, the \"checkout\" is where you pay."
+ },
+ "art director": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "an art director · art directors",
+  "say": "",
+  "note": ""
+ },
+ "fair play": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "fair play · uncountable",
+  "say": "",
+  "note": "Uncountable: \"show fair play\" (not \"a fair play\").",
+  "ex": [
+   "The coach always teaches the kids about fair play.",
+   "The team won an award for fair play.",
+   "Fair play is more important than winning.",
+   "Pushing another player is against the rules of fair play."
+  ]
+ },
+ "test drive": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a test drive · test drives",
+  "say": "",
+  "note": ""
+ },
+ "music hall": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a music hall · music halls",
+  "say": "",
+  "note": "Mostly British: an old kind of show with songs and comedy, or the theater for it."
+ },
+ "sales manager": {
+  "v": "keep",
+  "pm": 6,
+  "reg": [],
+  "ns": true,
+  "gram": "a sales manager · sales managers",
+  "say": "",
+  "note": ""
+ },
+ "rock band": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a rock band · rock bands",
+  "say": "",
+  "note": ""
+ },
+ "product manager": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a product manager · product managers",
+  "say": "",
+  "note": ""
+ },
+ "web design": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "web design · uncountable",
+  "say": "",
+  "note": "Uncountable: \"good web design\" (not \"a web design\")."
+ },
+ "K-pop": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "K-pop · uncountable",
+  "say": "",
+  "note": "Uncountable: \"listen to K-pop\" (not \"a K-pop\")."
+ },
+ "lunch box": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a lunch box · lunch boxes",
+  "say": "",
+  "note": "Often spelled as one word: \"lunchbox\".",
+  "ex": [
+   "I put a sandwich and an apple in my lunch box.",
+   "Her lunch box has a cartoon cat on it.",
+   "Don't forget to take your lunch box to school!",
+   "He left his lunch box on the bus again."
+  ]
+ },
+ "fact-checking": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "fact-checking · uncountable",
+  "say": "",
+  "note": "Uncountable: \"do fact-checking\" (not \"a fact-checking\")."
+ },
+ "drag queen": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a drag queen · drag queens",
+  "say": "",
+  "note": ""
+ },
+ "punk rock": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "punk rock · uncountable",
+  "say": "",
+  "note": "Uncountable: \"play punk rock\" (not \"a punk rock\")."
+ },
+ "exit poll": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "an exit poll · exit polls",
+  "say": "",
+  "note": ""
+ },
+ "pit bull": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a pit bull · pit bulls",
+  "say": "",
+  "note": ""
+ },
+ "art critic": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "an art critic · art critics",
+  "say": "",
+  "note": ""
+ },
+ "snack bar": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a snack bar · snack bars",
+  "say": "",
+  "note": ""
+ },
+ "cocktail bar": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a cocktail bar · cocktail bars",
+  "say": "",
+  "note": ""
+ }
+}

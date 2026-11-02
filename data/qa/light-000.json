@@ -1,0 +1,1546 @@
+{
+ "backlog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "laureate": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She is a Nobel Prize laureate in physics.",
+   "The young laureate thanked her family on stage.",
+   "Every laureate gets a medal and some money.",
+   "Three laureates will speak at the university today."
+  ],
+  "note": ""
+ },
+ "boa": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "retriever": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Our golden retriever loves to swim in the lake.",
+   "Retrievers are very friendly with small children.",
+   "The retriever brought the ball back to me.",
+   "Is a retriever a good dog for a family?"
+  ],
+  "note": ""
+ },
+ "contaminant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "The lab tested the water for contaminants.",
+   "Lead is a dangerous contaminant in old pipes.",
+   "This filter removes most contaminants from tap water.",
+   "The factory released contaminants into the river."
+  ],
+  "note": ""
+ },
+ "appendix": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The doctor removed his appendix last year.",
+   "Her appendix burst, so she needed surgery.",
+   "The appendix is a small organ near the intestine.",
+   "Pain on the right side can mean a problem with your appendix."
+  ],
+  "note": "Also a part at the end of a book with extra information."
+ },
+ "gatekeeper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "antigen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The test looks for the virus antigen.",
+   "Your body makes antibodies against an antigen.",
+   "A rapid antigen test gives results in minutes.",
+   "Each virus has its own different antigens."
+  ],
+  "note": ""
+ },
+ "cretin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "offensive"
+  ],
+  "ns": false,
+  "note": "Very rude insult; avoid using it about people."
+ },
+ "eon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The rocks in this valley formed over eons.",
+   "It feels like eons since we last met.",
+   "The Earth has changed a lot over many eons.",
+   "I waited for eons at the doctor's office."
+  ],
+  "note": "In daily speech: \"eons\" means a very long time."
+ },
+ "idealist": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bandana": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "collagen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Collagen helps keep your skin firm and young.",
+   "She takes collagen with her coffee every morning.",
+   "Our bones and skin contain a lot of collagen.",
+   "This face cream says it can boost collagen."
+  ],
+  "note": "Uncountable: some collagen, a lot of collagen (not \"a collagen\")."
+ },
+ "EEG": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The doctor ordered an EEG for my headaches.",
+   "An EEG measures activity in your brain.",
+   "The EEG test took about an hour.",
+   "The results of her EEG were normal."
+  ],
+  "note": ""
+ },
+ "synapse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ketamine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pagoda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We visited an old pagoda on our trip.",
+   "The pagoda in the park has five floors.",
+   "There is a small pagoda in the city garden.",
+   "Tourists took photos of the golden pagoda."
+  ],
+  "note": ""
+ },
+ "voyager": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "literary"
+  ],
+  "ns": true,
+  "ex": [
+   "The voyagers sailed across the ocean for months.",
+   "Early voyagers found many new islands in the Pacific.",
+   "He was a brave voyager who loved the sea.",
+   "The old voyager wrote a book about his long journey."
+  ],
+  "note": "Literary word; \"traveler\" is more common."
+ },
+ "confidant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "My sister is my closest confidant.",
+   "He became the boss's most trusted confidant.",
+   "Everyone needs a confidant to talk to.",
+   "She was a trusted confidant of the family."
+  ],
+  "note": ""
+ },
+ "fuselage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "harpoon": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The fisherman threw a harpoon at the big fish.",
+   "Old whaling ships always carried a few harpoons.",
+   "He used a harpoon gun when he was underwater.",
+   "You can see an old harpoon in the museum."
+  ],
+  "note": ""
+ },
+ "scrotum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The doctor examined the boy's scrotum.",
+   "The scrotum is the skin that holds the testicles.",
+   "He noticed some swelling in his scrotum.",
+   "Wear a cup to protect your scrotum during sports."
+  ],
+  "note": ""
+ },
+ "mono": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The old song was recorded in mono.",
+   "Can you switch the speakers to mono, please?",
+   "This record sounds better in mono than in stereo.",
+   "Early radios played all sound in mono."
+  ],
+  "note": "Also short for mononucleosis, an illness."
+ },
+ "microorganism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A microorganism is too small to see without a microscope.",
+   "Bacteria and viruses are kinds of microorganisms.",
+   "Some microorganisms help us digest our food.",
+   "Boiling water kills most harmful microorganisms."
+  ],
+  "note": ""
+ },
+ "hyacinth": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The hyacinths in my garden smell wonderful.",
+   "I bought a pot of blue hyacinths for the kitchen.",
+   "Hyacinths bloom in the garden in early spring.",
+   "She gave me a pink hyacinth for my birthday."
+  ],
+  "note": ""
+ },
+ "diabetic": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "As a diabetic, he checks his blood sugar every day.",
+   "The menu has special options for diabetics.",
+   "She is a diabetic and takes insulin.",
+   "Diabetics should eat regular meals and avoid sugar."
+  ],
+  "note": "Some prefer \"person with diabetes\"."
+ },
+ "ester": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Esters give many fruits their sweet smell.",
+   "The chemist made an ester in the lab.",
+   "This ester smells a lot like bananas.",
+   "Many perfumes and soaps contain esters."
+  ],
+  "note": ""
+ },
+ "contributor": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "He is a top contributor to this open source project.",
+   "Contributors fixed many bugs in the app this month.",
+   "She became a regular contributor to the magazine.",
+   "The project page thanks all its contributors."
+  ],
+  "note": ""
+ },
+ "archetype": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "paprika": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Add a little paprika to the soup.",
+   "This chicken has smoked paprika on it.",
+   "Paprika gives the dish a nice red color.",
+   "We are out of paprika, so please buy some."
+  ],
+  "note": "Uncountable: some paprika (not \"a paprika\"). The vegetable is a \"bell pepper.\""
+ },
+ "curling": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "slime": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bourgeois": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": "More often an adjective; the class is \"the bourgeoisie.\""
+ },
+ "edema": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "She has edema in her legs after the long flight.",
+   "Edema means swelling from extra fluid in the body.",
+   "The doctor checked my feet for edema.",
+   "Too much salt can make edema worse."
+  ],
+  "note": ""
+ },
+ "synopsis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"synopses.\""
+ },
+ "colonialism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "snippet": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Copy this code snippet into your file.",
+   "The search result shows a short snippet of the page.",
+   "Save this snippet so you can use it again.",
+   "The search engine shows a snippet under each link."
+  ],
+  "note": "Also any small piece of something: \"a snippet of news.\""
+ },
+ "tracer": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "delinquent": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The young delinquent was sent to juvenile court.",
+   "A group of delinquents broke the school windows.",
+   "The program helps teenage delinquents find work.",
+   "The police caught the delinquent near the store."
+  ],
+  "note": ""
+ },
+ "business class": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We flew business class to Tokyo last year.",
+   "The seats in business class are much bigger.",
+   "A business class ticket costs a lot of money.",
+   "He always travels in business class for work."
+  ],
+  "note": ""
+ },
+ "room service": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "street food": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "business park": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "street art": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hard rock": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "big band": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "account manager": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "video camera": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He filmed the wedding with a video camera.",
+   "The video camera is in the black bag.",
+   "My dad bought a new video camera.",
+   "Please hold the video camera steady while you film."
+  ],
+  "note": ""
+ },
+ "coffee break": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mountain bike": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tour operator": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "social democrat": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hat trick": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "disc jockey": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Usually shortened to \"DJ\" in everyday speech."
+ },
+ "prima donna": {
+  "v": "keep",
+  "pm": 0.7,
+  "reg": [],
+  "ns": false,
+  "note": "Often negative: a person who is vain and hard to work with."
+ },
+ "art nouveau": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "border collie": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yo-yo": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pinot noir": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Pinot noir goes well with salmon.",
+   "We ordered a bottle of pinot noir with dinner.",
+   "This pinot noir is light and fruity.",
+   "Would you like a glass of pinot noir?"
+  ],
+  "note": ""
+ },
+ "Tex-Mex": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We had Tex-Mex for dinner last night.",
+   "This Tex-Mex restaurant has great tacos.",
+   "Tex-Mex food often has lots of cheese.",
+   "I love spicy Tex-Mex dishes with beans."
+  ],
+  "note": ""
+ },
+ "feng shui": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cabernet sauvignon": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mezzo-soprano": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "piña colada": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tête-à-tête": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "They had a quiet tête-à-tête over coffee.",
+   "The boss wants a short tête-à-tête with you.",
+   "We had a long tête-à-tête after dinner.",
+   "Their tête-à-tête lasted the whole evening."
+  ],
+  "note": ""
+ },
+ "crème brûlée": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jiu-jitsu": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My son does jiu-jitsu after school.",
+   "She has a black belt in jiu-jitsu.",
+   "Jiu-jitsu is a great sport for self-defense.",
+   "I go to jiu-jitsu class twice a week."
+  ],
+  "note": ""
+ },
+ "grooming": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We take our dog for grooming once a month.",
+   "The pet shop offers grooming for cats and dogs.",
+   "Dogs with long hair need regular grooming.",
+   "How much does grooming cost for a small dog?"
+  ],
+  "note": "Also means keeping yourself clean and neat: \"personal grooming.\""
+ },
+ "haiku": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is usually \"haiku,\" the same as the singular."
+ },
+ "cashew": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I love salted cashews as a snack.",
+   "Add some cashews to the chicken and rice.",
+   "Cashew milk tastes good in coffee.",
+   "She is allergic to cashews and other nuts."
+  ],
+  "note": ""
+ },
+ "negative": {
+  "v": "keep",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"negative\" is an adjective: \"a negative answer.\""
+ },
+ "mixtape": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "referral": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "You get ten dollars for each referral to the app.",
+   "Share your referral link with friends to get a discount.",
+   "Most of our new customers come from referrals.",
+   "The referral program gives both friends a free month."
+  ],
+  "note": "Most often a doctor sends you to a specialist: \"I need a referral.\""
+ },
+ "formaldehyde": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Formaldehyde has a very strong smell.",
+   "Some new furniture releases formaldehyde into the air.",
+   "The lab keeps samples in formaldehyde.",
+   "Formaldehyde can be bad for your health."
+  ],
+  "note": ""
+ },
+ "contraceptive": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The doctor recommended a new contraceptive.",
+   "Condoms are a common and cheap contraceptive.",
+   "She takes an oral contraceptive every day.",
+   "The clinic gives free contraceptives to students."
+  ],
+  "note": ""
+ },
+ "hydrant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yin": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In Chinese philosophy, yin is the dark, calm force.",
+   "Yin is linked with the moon and water.",
+   "Yin and yang must stay in balance.",
+   "The symbol shows yin in black and yang in white."
+  ],
+  "note": "Usually in the phrase \"yin and yang.\""
+ },
+ "elector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Each elector casts a vote for president.",
+   "The state has ten electors this year.",
+   "An elector is chosen by the party.",
+   "The electors met in the capital to vote."
+  ],
+  "note": ""
+ },
+ "tundra": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "restart": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "censor": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The censor cut several scenes from the movie.",
+   "A government censor read every newspaper.",
+   "The censors banned the book for ten years.",
+   "The censor did not allow the song on the radio."
+  ],
+  "note": ""
+ },
+ "pedicure": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "merle": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": "Usually an adjective for dogs: \"a blue merle collie.\""
+ },
+ "mako": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "abscess": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I have a tooth abscess and it really hurts.",
+   "The doctor drained the abscess in his office.",
+   "An abscess can be very painful.",
+   "He needs antibiotics for the abscess."
+  ],
+  "note": ""
+ },
+ "pollutant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "minotaur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "extremism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The government is fighting violent extremism.",
+   "Online extremism is growing among young people.",
+   "He wrote a book about political extremism.",
+   "Schools can help young people stay away from extremism."
+  ],
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "primer": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tamale": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "shortstop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kanji": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I learned twenty new kanji this week.",
+   "Kanji are hard to remember at first.",
+   "She can read about two thousand kanji.",
+   "Write the kanji three times in your notebook."
+  ],
+  "note": ""
+ },
+ "spaniel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "milady": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "archaic"
+  ],
+  "ns": false,
+  "ex": [
+   "Your tea is ready now, milady.",
+   "\"This way, milady,\" said the servant at the door.",
+   "The knight bowed and said, \"Good morning, milady.\"",
+   "He jokingly called his wife milady."
+  ],
+  "note": "Old-fashioned or joking. Used to speak to a woman."
+ },
+ "quorum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "jab": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "centimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fixer": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The journalist hired a local fixer in the city.",
+   "Our fixer found us a hotel and a driver.",
+   "He worked as a fixer for foreign TV crews.",
+   "A good fixer speaks the language and knows people."
+  ],
+  "note": ""
+ },
+ "mullet": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "enclave": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cosplay": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stuntman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The stuntman jumped from the roof of the car.",
+   "A stuntman did the dangerous scenes in the movie.",
+   "He works as a stuntman in action films.",
+   "The stuntman wore special clothes to protect him from fire."
+  ],
+  "note": ""
+ },
+ "parton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "periscope": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The submarine raised its periscope above the water.",
+   "Through the periscope, he saw a ship.",
+   "The kids made a periscope from a cardboard box.",
+   "The captain looked through the periscope for a long time."
+  ],
+  "note": ""
+ },
+ "melanoma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "injector": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "meridian": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ashram": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "outsourcing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "sprinter": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gremlin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "matador": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "requiem": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The choir sang a requiem at the funeral.",
+   "We heard a famous requiem at the concert.",
+   "The requiem was very beautiful and sad.",
+   "He wrote a requiem after his father died."
+  ],
+  "note": ""
+ },
+ "swipe": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "One swipe of your finger unlocks the phone.",
+   "A quick swipe to the left deletes the message.",
+   "Close the app with a swipe up.",
+   "With one swipe, she saw all her photos."
+  ],
+  "note": "Most often \"swipe\" is a verb: \"Swipe left to delete it.\""
+ },
+ "bisexual": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He told his friends that he is bisexual.",
+   "The group supports gay and bisexual students.",
+   "Many bisexuals still face unfair ideas about them.",
+   "She came out as bisexual in college."
+  ],
+  "note": "More often used as an adjective: \"she is bisexual\"."
+ },
+ "flamenco": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Yiddish": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mime": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "login": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Enter your login and password to continue.",
+   "I forgot my login for the website.",
+   "The login page won't load on my phone.",
+   "Each employee gets a separate login."
+  ],
+  "note": "As a verb, write two words: \"log in\"."
+ },
+ "hemlock": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A tall hemlock grows behind our house.",
+   "Poison hemlock can kill people and animals.",
+   "Hemlock is a poisonous plant, so don't touch it.",
+   "The forest is full of old hemlock trees."
+  ],
+  "note": ""
+ },
+ "decorum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "note": "Formal."
+ },
+ "ethos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "emigrant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The emigrant left his country to find work.",
+   "Many emigrants sailed to America long ago.",
+   "The emigrant wrote letters to his family back home.",
+   "Emigrants often miss their home country."
+  ],
+  "note": ""
+ },
+ "arrhythmia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "furlong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "placement": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The brand paid for product placement in the movie.",
+   "Product placement is common in TV shows.",
+   "Good ad placement on the page brings more clicks.",
+   "The company spends a lot on online ad placement."
+  ],
+  "note": "Most often \"placement\" means putting in a place or finding a job: \"job placement.\""
+ },
+ "vaudeville": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My grandfather performed in vaudeville as a young man.",
+   "Vaudeville shows had singers, dancers, and comedians.",
+   "The old theater was used for vaudeville.",
+   "Vaudeville was popular before people had movies."
+  ],
+  "note": ""
+ },
+ "bebop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "He plays bebop on the saxophone.",
+   "Bebop is a fast and complex style of jazz.",
+   "We listened to bebop records all night.",
+   "Bebop started in the 1940s in New York."
+  ],
+  "note": ""
+ },
+ "granola": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I eat granola with yogurt for breakfast.",
+   "This granola has nuts and honey.",
+   "She makes her own granola at home.",
+   "A granola bar is a quick snack."
+  ],
+  "note": "Uncountable: some granola, a lot of granola (not \"a granola\")."
+ },
+ "napalm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "zeppelin": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gonorrhea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Gonorrhea is a sexually transmitted infection.",
+   "Doctors can treat gonorrhea with antibiotics.",
+   "He went to the clinic to get tested for gonorrhea.",
+   "Using condoms helps to prevent gonorrhea."
+  ],
+  "note": ""
+ },
+ "baguette": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "proctor": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The proctor at the British university made sure students followed the rules.",
+   "The proctor punished students who broke university rules.",
+   "Each college at the university has its own proctor.",
+   "Students who fight in town may have to see the proctor."
+  ],
+  "note": "In the US, a \"proctor\" is a person who watches students during an exam."
+ },
+ "opportunist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "narcissism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "His narcissism makes him hard to work with.",
+   "Social media can encourage narcissism in young people.",
+   "The doctor talked about narcissism and its signs.",
+   "Her narcissism slowly ruined their friendship."
+  ],
+  "note": ""
+ },
+ "scrolling": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "basilica": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "salmonella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Raw chicken can carry salmonella, so wash your hands.",
+   "He got salmonella from bad eggs.",
+   "Cook meat well to kill salmonella.",
+   "The company recalled the food because of salmonella."
+  ],
+  "note": "Uncountable: say \"salmonella,\" not \"a salmonella.\""
+ },
+ "linguist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The linguist studies how children learn words.",
+   "She is a linguist at the local university.",
+   "A linguist helped write the new dictionary.",
+   "Linguists recorded the old language before it died out."
+  ],
+  "note": ""
+ },
+ "pizzeria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "There is a good pizzeria near my office.",
+   "Let's meet at the pizzeria at seven.",
+   "The pizzeria delivers until midnight every day.",
+   "We ate at a small family pizzeria."
+  ],
+  "note": ""
+ },
+ "eczema": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My son has eczema on his hands.",
+   "This cream helps with eczema and dry skin.",
+   "Her eczema gets worse in winter.",
+   "Dry skin can make eczema worse."
+  ],
+  "note": "Uncountable: say \"I have eczema,\" not \"an eczema.\""
+ },
+ "scrub": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"scrub\" is a verb, to clean hard: \"Scrub the floor.\""
+ },
+ "bazooka": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The soldier carried a bazooka on his back.",
+   "One bazooka shot destroyed the old tank.",
+   "In the game, you can use a bazooka.",
+   "He fired the bazooka at the wall."
+  ],
+  "note": ""
+ },
+ "bluegrass": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We listened to bluegrass at the festival.",
+   "Bluegrass music uses banjos and fiddles.",
+   "He plays guitar in a bluegrass band.",
+   "This bluegrass song is from Kentucky."
+  ],
+  "note": ""
+ },
+ "Marxist": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "domino": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "The game itself is called \"dominoes,\" plural."
+ },
+ "trawler": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bloodhound": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "callback": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Pass a callback to the function as the second argument.",
+   "The callback runs when the download is finished.",
+   "This function takes a callback and calls it later.",
+   "Write a callback to handle errors from the server."
+  ],
+  "note": "Also a phone call back: \"I am waiting for a callback.\""
+ },
+ "hijab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hajj": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "skater": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The skater did a trick on the ramp.",
+   "Skaters filled the skate park after school.",
+   "He is a good skater and rides his skateboard every day.",
+   "The young skater won the skateboard competition."
+  ],
+  "note": "Often means an ice skater: \"a figure skater.\""
+ },
+ "origami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anaconda": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The anaconda is a very large snake.",
+   "Anacondas live in the rivers of South America.",
+   "We saw an anaconda at the zoo.",
+   "The anaconda swam slowly in the river."
+  ],
+  "note": ""
+ },
+ "emo": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "microfilm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "substrate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "brig": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "handball": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

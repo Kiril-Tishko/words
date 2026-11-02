@@ -1,0 +1,1627 @@
+{
+ "separator": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also any mark that separates things, like a comma in a list.",
+  "ex": [
+   "The dairy farm uses a separator to remove cream from milk.",
+   "An oil separator cleans the water before it leaves the factory.",
+   "The separator spins very fast to split the liquid.",
+   "Our old milk separator still works after twenty years."
+  ]
+ },
+ "skateboarder": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hypnotism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Hypnosis\" is more common.",
+  "ex": [
+   "He uses hypnotism to help people stop smoking.",
+   "Do you think hypnotism can really help with stress?",
+   "The show had a funny act with hypnotism.",
+   "She tried hypnotism to feel calm before her surgery."
+  ]
+ },
+ "ethylene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Bananas give off ethylene, which helps other fruit ripen.",
+   "Ethylene is used to make many kinds of plastic.",
+   "Store apples away from bananas because of the ethylene.",
+   "The factory produces ethylene from natural gas."
+  ]
+ },
+ "mafioso": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"mafiosi.\"",
+  "ex": [
+   "The film is about a powerful mafioso in Sicily.",
+   "The police arrested a well-known mafioso last night.",
+   "He looks like a mafioso in that black suit.",
+   "The old mafioso spent many years in prison."
+  ]
+ },
+ "extractor": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "In British English an \"extractor\" is often a kitchen fan.",
+  "ex": [
+   "We use a juice extractor to make fresh orange juice.",
+   "The lab extractor separates oil from the plant seeds.",
+   "The beekeeper puts the frames into a honey extractor.",
+   "Clean the juice extractor right after you use it."
+  ]
+ },
+ "coitus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal",
+   "technical"
+  ],
+  "ns": false,
+  "note": "A formal medical word; people usually say \"sex.\"",
+  "ex": [
+   "The doctor asked about any pain during coitus.",
+   "Coitus is the medical word for sexual intercourse.",
+   "Some infections can spread through coitus without protection.",
+   "The study asked couples about coitus and health."
+  ]
+ },
+ "fundamentalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aliyah": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "scaling": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Also means changing the size of something: \"scaling a drawing.\"",
+  "ex": [
+   "Scaling is hard for small startups with little money.",
+   "The company is now focused on scaling its online store.",
+   "Fast scaling means you need to hire more workers.",
+   "A good plan for scaling can save the business money."
+  ]
+ },
+ "stylus": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gigabyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fandango": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "retrovirus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "blur": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "note": "Most often \"blur\" means something you cannot see clearly: \"Without glasses, it is a blur.\""
+ },
+ "tamarind": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Add a spoon of tamarind to make the sauce sour.",
+   "Tamarind tastes sweet and sour at the same time.",
+   "I tried cold tamarind juice at a market in Thailand.",
+   "You can buy tamarind paste at an Asian food store."
+  ]
+ },
+ "moa": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The moa was a giant bird in New Zealand.",
+   "The moa could not fly because it had no wings.",
+   "People hunted the moa until it died out.",
+   "We saw a moa skeleton at the natural history museum."
+  ]
+ },
+ "chianti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written with a capital: \"Chianti.\"",
+  "ex": [
+   "We had a bottle of chianti with dinner.",
+   "A glass of chianti goes well with pasta.",
+   "This chianti comes from a small farm in Italy.",
+   "Would you like a glass of chianti with your pizza?"
+  ]
+ },
+ "underwriting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Underwriting decides if the bank will give you a loan.",
+   "She works in insurance underwriting at a big company.",
+   "The underwriting process for our mortgage took two weeks.",
+   "Strict underwriting helps the insurance company lower its risk."
+  ]
+ },
+ "antiseptic": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Also an adjective: \"antiseptic cream.\"",
+  "ex": [
+   "Put some antiseptic on the cut before the bandage.",
+   "Clean the wound with antiseptic first.",
+   "We always keep antiseptic in the first aid kit.",
+   "This antiseptic stings a little, but it works well."
+  ]
+ },
+ "arboretum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "caldera": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "showrunner": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "teriyaki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "I'll have the chicken teriyaki with rice, please.",
+   "Teriyaki sauce is sweet and salty at the same time.",
+   "We grilled salmon with teriyaki for dinner.",
+   "This teriyaki is the best I have ever tried."
+  ]
+ },
+ "spiritual": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"spiritual\" is an adjective about the soul or religion: \"a spiritual life.\""
+ },
+ "ratatouille": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "I made ratatouille with summer vegetables from the garden.",
+   "Ratatouille is a French dish of stewed vegetables.",
+   "We ate ratatouille with fresh bread and cheese.",
+   "This ratatouille tastes even better the next day."
+  ]
+ },
+ "xenophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: no \"a\" and no plural."
+ },
+ "abolitionist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yucca": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "grappling": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "epidermis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The epidermis is the top layer of the skin.",
+   "This cream protects the epidermis from dry air.",
+   "The small cut only went through the epidermis.",
+   "Too much sun can damage the epidermis."
+  ]
+ },
+ "tachycardia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "decanter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "switching": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Most often \"switching\" means changing from one thing to another: \"switching jobs.\""
+ },
+ "banyan": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "frieze": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "elastic": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "note": "More often an adjective meaning stretchy: \"elastic skin.\"",
+  "ex": [
+   "The elastic in my old pants is worn out.",
+   "Sew a piece of elastic into the waistband.",
+   "The elastic at the top of this sock is too tight.",
+   "You can buy elastic by the yard at a fabric store."
+  ]
+ },
+ "deva": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "linguine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable, like spaghetti.",
+  "ex": [
+   "I'll have the linguine with clams, please.",
+   "Boil the linguine for about ten minutes.",
+   "Linguine looks like flat, thin spaghetti.",
+   "We made linguine with shrimp and garlic for dinner."
+  ]
+ },
+ "sampling": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "note": "Often means taking a small part to study: \"random sampling.\" Uncountable."
+ },
+ "rhododendron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "A big rhododendron grows next to our house.",
+   "The rhododendrons in the park are blooming now.",
+   "Plant your rhododendron in a place with some shade.",
+   "We have pink and white rhododendrons in the garden."
+  ]
+ },
+ "plotter": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The office has a large plotter for building plans.",
+   "The plotter prints big maps for the city.",
+   "The engineer sent the drawing to the plotter.",
+   "Our plotter needs new ink before the meeting."
+  ]
+ },
+ "panelist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "keto": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; short for \"the keto diet.\"",
+  "ex": [
+   "I have been on keto for three months.",
+   "Keto means eating almost no bread, rice, or sugar.",
+   "Is this bread okay for keto?",
+   "She lost ten pounds on keto this year."
+  ]
+ },
+ "bromance": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal.",
+  "ex": [
+   "The two actors have a real bromance.",
+   "Their bromance started when they were in college.",
+   "Fans love the bromance between the two main characters.",
+   "It's a funny movie about a bromance between neighbors."
+  ]
+ },
+ "telex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "virginal": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Often an adjective meaning pure; the instrument is often called \"virginals.\"",
+  "ex": [
+   "The virginal is a small keyboard instrument like a harpsichord.",
+   "She played an old tune on the virginal.",
+   "The museum has a beautiful painted virginal from England.",
+   "Music for the virginal was popular four hundred years ago."
+  ]
+ },
+ "twerking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Twerking became popular on social media.",
+   "She tried twerking at the party and laughed.",
+   "My mom doesn't understand why people like twerking.",
+   "There is a twerking class at the dance school."
+  ]
+ },
+ "triceratops": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "libertine": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "He lived like a libertine in Paris for years.",
+   "The novel is about a rich libertine and his friends.",
+   "She called him a libertine because of his wild life.",
+   "Libertines did not follow the moral rules of society."
+  ]
+ },
+ "youtuber": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Usually written with a capital: \"YouTuber.\""
+ },
+ "tau": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fakir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "praxis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": "Formal; used in academic writing."
+ },
+ "velum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Also called the \"soft palate.\""
+ },
+ "peer": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"peer\" means a person of the same age or level: \"peer pressure.\""
+ },
+ "catharsis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Crying at the end gave her a feeling of catharsis.",
+   "For many people, writing in a diary is a kind of catharsis.",
+   "The sad movie brought the audience a strong catharsis.",
+   "For him, running every morning is a real catharsis."
+  ]
+ },
+ "impressionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "I love French impressionism and its bright colors.",
+   "The museum has a whole room of impressionism.",
+   "Impressionism shows how light and color change.",
+   "We learned about impressionism in art class."
+  ]
+ },
+ "hominid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "telenovela": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sienna": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "macchiato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sitar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "He plays the sitar beautifully at the concert.",
+   "The sitar is an Indian instrument with many strings.",
+   "I heard a sitar in the background of that song.",
+   "She is learning to play the sitar online."
+  ]
+ },
+ "allegro": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The first part of the symphony is an allegro.",
+   "The allegro is my favorite part of this piece.",
+   "The orchestra played the allegro very well tonight.",
+   "Practice the allegro slowly before you play it fast."
+  ]
+ },
+ "tannin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Red wine has more tannin than white wine.",
+   "Strong black tea has a lot of tannins.",
+   "Tannins make your mouth feel a little dry.",
+   "This red wine has soft tannins and a fruity taste."
+  ]
+ },
+ "inverter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "seraphim": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": "Plural of \"seraph.\"",
+  "ex": [
+   "The seraphim sang around the throne of God.",
+   "In the Bible, seraphim are angels with six wings.",
+   "The old painting shows seraphim in the sky.",
+   "The priest told the children about the seraphim."
+  ]
+ },
+ "conga": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bushman": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "dated",
+   "offensive"
+  ],
+  "ns": false,
+  "note": "Can be offensive about people; \"San\" is often preferred."
+ },
+ "bootleg": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "intelligentsia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Means educated people as a group; often with \"the\".",
+  "ex": [
+   "The intelligentsia often met in cafes to talk.",
+   "The intelligentsia criticized the government in their articles.",
+   "Writers and teachers were part of the intelligentsia.",
+   "The new law angered the intelligentsia of the country."
+  ]
+ },
+ "mutagen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "imitator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "He is a good imitator of famous voices.",
+   "Cheap imitators copy our products and sell them online.",
+   "The imitator at the party made everyone laugh.",
+   "Many imitators tried to copy her style of singing."
+  ]
+ },
+ "dominator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": "",
+  "ex": [
+   "In the story, the dominator wants to control everyone.",
+   "The team was the clear dominator of the league.",
+   "He is a dominator who always wants the last word.",
+   "The game's main villain is a dominator from space."
+  ]
+ },
+ "yachting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable; \"go yachting\".",
+  "ex": [
+   "They go yachting on the lake every summer.",
+   "Yachting is an expensive hobby for most people.",
+   "We watched the yachting race from the shore.",
+   "She loves yachting with her friends on weekends."
+  ]
+ },
+ "doberman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also written \"Doberman\" or \"Doberman pinscher.\"",
+  "ex": [
+   "Our neighbor has a big black doberman.",
+   "The doberman barked loudly at the door.",
+   "Dobermans are smart and loyal dogs.",
+   "A doberman guards the house at night."
+  ]
+ },
+ "butane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "This lighter uses butane as fuel.",
+   "We cooked dinner on a small butane stove.",
+   "Buy a can of butane before the camping trip.",
+   "Butane is a gas that burns very easily."
+  ]
+ },
+ "sadhu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "DMZ": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "peon": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "note": "Today often informal: a low-level worker: \"I'm just a peon here.\"",
+  "ex": [
+   "Peons worked the land for rich landowners in Mexico.",
+   "The peon owed money to the farm owner.",
+   "Many peons could never leave the farm.",
+   "The book tells the hard life of a peon."
+  ]
+ },
+ "fraulein": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "German word; old-fashioned and can sound rude today."
+ },
+ "telekinesis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "patina": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "amphora": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"amphorae\" or \"amphoras.\"",
+  "ex": [
+   "The amphora is over two thousand years old.",
+   "The Greeks stored wine and oil in an amphora.",
+   "Divers found an old amphora at the bottom of the sea.",
+   "The museum has a large collection of amphorae."
+  ]
+ },
+ "altimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The altimeter showed three thousand feet.",
+   "Pilots check the altimeter often during the flight.",
+   "My watch has an altimeter for hiking in the mountains.",
+   "The altimeter stopped working during the flight."
+  ]
+ },
+ "lymphocyte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The doctor said my lymphocyte count is a little low.",
+   "Lymphocytes help your body fight infection.",
+   "The blood test checks the number of lymphocytes.",
+   "A lymphocyte is a type of white blood cell."
+  ]
+ },
+ "aphasia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "After the stroke, he had aphasia for months.",
+   "Aphasia makes it hard to speak and find words.",
+   "She is getting speech therapy for her aphasia.",
+   "Aphasia can also make reading and writing hard."
+  ]
+ },
+ "amaro": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fistula": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The surgeon fixed the fistula in a short operation.",
+   "A fistula can cause pain and infection.",
+   "She had surgery for a fistula last year.",
+   "The doctor found a small fistula during the exam."
+  ]
+ },
+ "tulle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Her wedding dress has a long tulle skirt.",
+   "We need white tulle to decorate the wedding tables.",
+   "Tulle is a light, soft fabric made like a net.",
+   "The little ballerina wore a pink tulle skirt."
+  ]
+ },
+ "rotator": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": "Usually in the phrase \"rotator cuff\" (shoulder muscles)."
+ },
+ "quilting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "",
+  "ex": [
+   "My grandmother loves quilting during the long winter.",
+   "I want to take a quilting class this fall.",
+   "Quilting takes a lot of time and patience.",
+   "She buys colorful fabric for her quilting projects."
+  ]
+ },
+ "calzone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "neurotoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Some snakes have a neurotoxin in their bite.",
+   "This neurotoxin attacks the nerves in your body.",
+   "This fish contains a very dangerous neurotoxin.",
+   "Scientists studied the neurotoxin from a small spider."
+  ]
+ },
+ "krypton": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bouillon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Add a cube of bouillon to the boiling water.",
+   "She made soup with chicken bouillon and noodles.",
+   "Cook the rice in bouillon for more flavor.",
+   "Drink some warm bouillon when you feel sick."
+  ]
+ },
+ "biota": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Uncountable.",
+  "ex": [
+   "The biota of this lake is very rich.",
+   "Pollution from the factory harmed the local biota.",
+   "Scientists studied the biota of the small island.",
+   "The forest biota changed a lot after the fire."
+  ]
+ },
+ "copywriting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "She does copywriting for ads and websites.",
+   "Good copywriting helps a company sell more products.",
+   "He took an online course in copywriting.",
+   "Copywriting is a creative job with a lot of writing."
+  ]
+ },
+ "massager": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "I use a massager when my back hurts.",
+   "This neck massager is great after a long day.",
+   "She bought a foot massager for her mother.",
+   "The massager has three speeds and a heat setting."
+  ]
+ },
+ "prosecco": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "modernist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The house was designed by a famous modernist.",
+   "Modernists broke the old rules of art and writing.",
+   "She is a modernist who writes poems without rhyme.",
+   "Many modernists moved to Paris to work and study."
+  ]
+ },
+ "tartan": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "forehand": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "His forehand is very strong and fast.",
+   "She hit a forehand to win the point.",
+   "Work on your forehand before the next game.",
+   "My forehand is much better than my backhand."
+  ]
+ },
+ "supercharger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "",
+  "ex": [
+   "His car has a supercharger for more power.",
+   "The supercharger makes the engine much louder.",
+   "Adding a supercharger to your car is expensive.",
+   "A supercharger pushes more air into the engine."
+  ]
+ },
+ "rebranding": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The company spent millions on rebranding last year.",
+   "After the rebranding, the logo looks modern.",
+   "The cafe needs a rebranding to attract young people.",
+   "A full rebranding can take many months."
+  ]
+ },
+ "polyurethane": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "timbre": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "extrovert": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"extravert\"; the opposite is \"introvert.\"",
+  "ex": [
+   "She is an extrovert who loves meeting new people.",
+   "As an extrovert, he gets energy from big parties.",
+   "Is your new boss an extrovert or an introvert?",
+   "Extroverts often enjoy jobs where they talk to people."
+  ]
+ },
+ "belvedere": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "veejay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned; \"VJ\" is also used."
+ },
+ "nocturne": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "She played a nocturne on the piano for us.",
+   "This nocturne is calm and beautiful.",
+   "I listen to piano nocturnes before I go to sleep.",
+   "The pianist ended the concert with a quiet nocturne."
+  ]
+ },
+ "copywriter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "She works as a copywriter at an ad agency.",
+   "The copywriter wrote the text for the new ad.",
+   "We need a copywriter for our website.",
+   "He became a freelance copywriter after college."
+  ]
+ },
+ "cassava": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Cassava is a root vegetable that grows in hot countries.",
+   "You must cook cassava well before you eat it.",
+   "In many African countries, people eat cassava every day.",
+   "Can you buy cassava flour at this store?"
+  ]
+ },
+ "mastiff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Our neighbor has a huge brown mastiff.",
+   "Mastiffs are big dogs, but they are very calm.",
+   "The mastiff guards the farm at night.",
+   "A mastiff eats a lot of food every day."
+  ]
+ },
+ "parallax": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ultra": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "note": "Most often \"ultra\" means very or extreme, as in \"ultra-fast,\" or a very long race.",
+  "ex": [
+   "He was a political ultra with very extreme views.",
+   "The ultras in the party wanted no compromise.",
+   "The ultras left the government after the vote.",
+   "The newspaper called the new minister a right-wing ultra."
+  ]
+ },
+ "retractor": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The surgeon used a retractor to hold the cut open.",
+   "The nurse handed the doctor a small retractor.",
+   "A retractor helps doctors see inside during surgery.",
+   "Clean every retractor carefully after the operation."
+  ]
+ },
+ "cravat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "He wore a silk cravat to the wedding.",
+   "A cravat looks very elegant with a suit.",
+   "My grandpa had a red cravat for special days.",
+   "Tie the cravat loosely around your neck."
+  ]
+ },
+ "headlock": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": "",
+  "ex": [
+   "The wrestler put his opponent in a headlock.",
+   "He got out of the headlock very quickly.",
+   "My brother put me in a headlock as a joke.",
+   "A headlock is a common move in wrestling."
+  ]
+ },
+ "caballero": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "autobahn": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "We drove fast on the autobahn in Germany.",
+   "Some parts of the autobahn have no speed limit.",
+   "The autobahn was very busy on Friday evening.",
+   "Take the autobahn if you want to get there fast."
+  ]
+ },
+ "prednisone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The doctor gave me prednisone for my allergy.",
+   "Take your prednisone with food in the morning.",
+   "Prednisone can make it hard to sleep.",
+   "She is taking prednisone for two weeks."
+  ]
+ },
+ "shiraz": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "Also called \"syrah.\"",
+  "ex": [
+   "I'd like a glass of red shiraz, please.",
+   "A good shiraz goes well with steak.",
+   "This shiraz comes from a winery in Australia.",
+   "We bought two bottles of shiraz for the party."
+  ]
+ },
+ "alkaloid": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trickster": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "note": "Often means a person who tricks or cheats people.",
+  "ex": [
+   "The trickster is a common character in old stories.",
+   "In many tales, the fox is a clever trickster.",
+   "The trickster in the story fooled the king.",
+   "Almost every culture has a trickster in its myths."
+  ]
+ },
+ "chronos": {
+  "v": "proper_noun",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": "Usually capitalized: Chronos."
+ },
+ "panini": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": "In English, 'panini' is often used for one sandwich too.",
+  "ex": [
+   "I'll have a ham and cheese panini, please.",
+   "She made a hot panini for lunch.",
+   "This cafe sells great paninis and fresh coffee.",
+   "Toast the panini until the cheese melts."
+  ]
+ },
+ "agar": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "seppuku": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "petting": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "Old-fashioned. \"Petting\" also means stroking an animal: \"a petting zoo.\"",
+  "ex": [
+   "The teens were caught petting in the car.",
+   "Petting means sexual touching without having sex.",
+   "The health class talked about dating and petting.",
+   "Their parents worried about petting at the school dance."
+  ]
+ },
+ "food court": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "video art": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "top model": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "price list": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "full contact": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "top manager": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": "In English \"senior manager\" or \"top executive\" is more common."
+ },
+ "business coach": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "center forward": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "In soccer, \"striker\" is more common today."
+ },
+ "French press": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "event manager": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "unit test": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "black metal": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "Black metal has very dark lyrics and fast drums.",
+   "He listens to black metal at the gym.",
+   "The black metal band wore black and white face paint.",
+   "Black metal started in Norway in the early nineties."
+  ]
+ },
+ "sex shop": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "double-double": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "high kick": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pop rock": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "photo finish": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "brand manager": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pick and roll": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "rock festival": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stop motion": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "Also written \"stop-motion\"."
+ },
+ "spring roll": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "soft rock": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "finger food": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": true,
+  "note": "Uncountable."
+ },
+ "tie-break": {
+  "v": "keep",
+  "pm": 1.0,
+  "reg": [],
+  "ns": false,
+  "note": "In American English \"tiebreaker\" is also common."
+ },
+ "hi-hat": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "",
+  "ex": [
+   "The drummer kept time on the hi-hat.",
+   "He hit the hi-hat softly with his stick.",
+   "The hi-hat makes a short, sharp sound.",
+   "She bought a new hi-hat for her drum kit."
+  ]
+ },
+ "bonus track": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fitness club": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "note": "\"Gym\" is much more common in everyday speech."
+ },
+ "free jazz": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "post-communist": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "note": "More common as an adjective: \"post-communist countries\".",
+  "ex": [
+   "Many post-communists joined new parties after 1991.",
+   "The post-communists won the election in that country.",
+   "He was a post-communist who supported free markets.",
+   "Some post-communists changed their old ideas completely."
+  ]
+ }
+}
