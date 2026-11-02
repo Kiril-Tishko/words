@@ -1,97 +1,414 @@
 [
 {
-"en": "stop",
-"heard": "And stop.",
-"score": 73
-},
-{
-"en": "face",
-"heard": "Vase.",
-"score": 50
-},
-{
-"en": "class",
-"heard": "A glass.",
-"score": 73
-},
-{
-"en": "OK",
-"heard": "Okay.",
-"score": 67
-},
-{
-"en": "site",
-"heard": "A sight.",
-"score": 60
-},
-{
-"en": "college",
-"heard": "Colored.",
-"score": 57
-},
-{
-"en": "match",
-"heard": "Mad.",
-"score": 50
-},
-{
-"en": "role",
-"heard": "Roll.",
-"score": 75
-},
-{
-"en": "park",
-"heard": "Mark.",
-"score": 75
-},
-{
 "en": "photo",
-"heard": "Phone.",
-"score": 60
+"heard": "Foul"
 },
 {
-"en": "text",
-"heard": "Next.",
-"score": 75
+"en": "Mrs.",
+"heard": "Misses"
 },
 {
-"en": "march",
-"heard": "MART.",
-"score": 67
+"en": "hall",
+"heard": "Call."
 },
 {
-"en": "sex",
-"heard": "Is X.",
-"score": 67
+"en": "ex",
+"heard": "X"
 },
 {
-"en": "sense",
-"heard": "It stands.",
-"score": 46
+"en": "ha",
+"heard": "Huh?"
 },
 {
-"en": "safe",
-"heard": "And save.",
-"score": 55
+"en": "la",
+"heard": "Lie"
 },
 {
-"en": "article",
-"heard": "Artica.",
-"score": 77
+"en": "ex-",
+"heard": "X"
 },
 {
-"en": "coach",
-"heard": "Code.",
-"score": 44
+"en": "hook",
+"heard": "Okay."
 },
 {
-"en": "message",
-"heard": "Mass it.",
-"score": 46
+"en": "CD",
+"heard": "Say day."
 },
 {
-"en": "cent",
-"heard": "It's sent.",
-"score": 55
+"en": "cricket",
+"heard": "Cricut"
+},
+{
+"en": "mi",
+"heard": "me"
+},
+{
+"en": "barrel",
+"heard": "Beryl"
+},
+{
+"en": "sauce",
+"heard": "Zoss."
+},
+{
+"en": "ha-ha",
+"heard": "Karthai?"
+},
+{
+"en": "huh",
+"heard": "Hi."
+},
+{
+"en": "mama",
+"heard": "Momma"
+},
+{
+"en": "trader",
+"heard": "Traitor"
+},
+{
+"en": "em",
+"heard": "M"
+},
+{
+"en": "khan",
+"heard": "CON"
+},
+{
+"en": "Tory",
+"heard": "Tori"
+},
+{
+"en": "xi",
+"heard": "Zai"
+},
+{
+"en": "hmm",
+"heard": "Emil."
+},
+{
+"en": "ha-ha-ha",
+"heard": "What's that, eh?"
+},
+{
+"en": "sequel",
+"heard": "SQL"
+},
+{
+"en": "chi",
+"heard": "Kai"
+},
+{
+"en": "watt",
+"heard": "What?"
+},
+{
+"en": "atom",
+"heard": "Adam"
+},
+{
+"en": "herald",
+"heard": "Harold"
+},
+{
+"en": "fifty-fifty",
+"heard": "50-50"
+},
+{
+"en": "caliph",
+"heard": "Kalef"
+},
+{
+"en": "beth",
+"heard": "Bae it."
+},
+{
+"en": "tract",
+"heard": "Tracked"
+},
+{
+"en": "veto",
+"heard": "via"
+},
+{
+"en": "mu",
+"heard": "Meeo"
+},
+{
+"en": "cola",
+"heard": "Kole"
+},
+{
+"en": "coma",
+"heard": "Kome."
+},
+{
+"en": "duel",
+"heard": "Do you all?"
+},
+{
+"en": "cache",
+"heard": "cash"
+},
+{
+"en": "fest",
+"heard": "Vest"
+},
+{
+"en": "gin",
+"heard": "JIN"
+},
+{
+"en": "sol",
+"heard": "Sal"
+},
+{
+"en": "yuan",
+"heard": "You on?"
+},
+{
+"en": "chic",
+"heard": "A sheikah."
+},
+{
+"en": "XL",
+"heard": "Excel"
+},
+{
+"en": "heh",
+"heard": "Hathi."
+},
+{
+"en": "rouge",
+"heard": "Rose"
+},
+{
+"en": "typhoon",
+"heard": "Tae Foon"
+},
+{
+"en": "meth",
+"heard": "M.A.S.T."
+},
+{
+"en": "nu",
+"heard": "Now."
+},
+{
+"en": "emir",
+"heard": "Amir"
+},
+{
+"en": "geo-",
+"heard": "Jia"
+},
+{
+"en": "hostel",
+"heard": "Hostile"
+},
+{
+"en": "Tao",
+"heard": "tau"
+},
+{
+"en": "phi",
+"heard": "Fie"
+},
+{
+"en": "byte",
+"heard": "bite"
+},
+{
+"en": "trance",
+"heard": "trans"
+},
+{
+"en": "quasi",
+"heard": "Quasar"
+},
+{
+"en": "Reich",
+"heard": "Right."
+},
+{
+"en": "barrister",
+"heard": "Barista"
+},
+{
+"en": "nu jazz",
+"heard": "New jazz."
+},
+{
+"en": "bazaar",
+"heard": "Bizarre."
+},
+{
+"en": "primate",
+"heard": "Prime it."
+},
+{
+"en": "liter",
+"heard": "Leader"
+},
+{
+"en": "psi",
+"heard": "Tsai"
+},
+{
+"en": "haram",
+"heard": "Hurrahm."
+},
+{
+"en": "comma",
+"heard": "Kame."
+},
+{
+"en": "burrito",
+"heard": "Berea"
+},
+{
+"en": "etiquette",
+"heard": "Atticate"
+},
+{
+"en": "psst",
+"heard": "I'm stuck."
+},
+{
+"en": "rajah",
+"heard": "Roger."
+},
+{
+"en": "tenor",
+"heard": "Tenner"
+},
+{
+"en": "carat",
+"heard": "Carrot"
+},
+{
+"en": "orc",
+"heard": "Ork"
+},
+{
+"en": "mage",
+"heard": "Mad."
+},
+{
+"en": "eta",
+"heard": "ADA"
+},
+{
+"en": "kart",
+"heard": "Cart"
+},
+{
+"en": "tai chi",
+"heard": "Taikai"
+},
+{
+"en": "junta",
+"heard": "Conte"
+},
+{
+"en": "bey",
+"heard": "Bae"
+},
+{
+"en": "farce",
+"heard": "VARs"
+},
+{
+"en": "aba",
+"heard": "Bye."
+},
+{
+"en": "raja",
+"heard": "Roger."
+},
+{
+"en": "ef",
+"heard": "F"
+},
+{
+"en": "keel",
+"heard": "Kiehl"
+},
+{
+"en": "sari",
+"heard": "Sorry."
+},
+{
+"en": "axel",
+"heard": "Axle"
+},
+{
+"en": "ara",
+"heard": "Areth."
+},
+{
+"en": "petit four",
+"heard": "Petty 4"
+},
+{
+"en": "Herr",
+"heard": "Hair"
+},
+{
+"en": "BIOS",
+"heard": "by us"
+},
+{
+"en": "Urdu",
+"heard": "or do"
+},
+{
+"en": "bao",
+"heard": "Bow."
+},
+{
+"en": "edict",
+"heard": "edX"
+},
+{
+"en": "lager",
+"heard": "Blogger"
+},
+{
+"en": "GIS",
+"heard": "Gheez"
+},
+{
+"en": "sax",
+"heard": "Zax"
+},
+{
+"en": "shaheed",
+"heard": "Shahid"
+},
+{
+"en": "mullah",
+"heard": "M'leh"
+},
+{
+"en": "chow chow",
+"heard": "Ciao Ciao"
+},
+{
+"en": "emu",
+"heard": "Emo"
+},
+{
+"en": "kHz",
+"heard": "K.I.D.C."
+},
+{
+"en": "revue",
+"heard": "Review"
+},
+{
+"en": "tact",
+"heard": "Tagged"
 }
 ]

@@ -14,7 +14,10 @@ Open `index.html` in a browser. It works offline, and it also works on GitHub Pa
 ## Audio
 - Every word is recorded with the open neural voice model Kokoro-82M (`tools/make_audio.py`): an American voice, and a British voice for British-only words.
 - Clips are packed into bundles of 250 (`audio/chunk-NNN.mp3`, positions in `audio/manifest.json`). The page loads a bundle the first time a word from it is played.
-- `tools/check_audio.py` runs a speech recognizer over the clips of common words to flag words that don't come out clearly.
+- Voice: Kokoro "af_heart", chosen over 5 other voices by a speech-recognition test.
+- Each word is said as a short sentence ("Face.") at normal speed, which makes word edges clearer. Abbreviations that collide with words are spelled out (IT → "I.T."), and accented and unit words get respellings (kHz → "kilohertz").
+- `tools/fix_audio.py` checks the clips of the 2,756 most used words with a speech recognizer (Whisper small.en). Unclear words are re-recorded with af_bella or af_nicole when that voice is clearer (82 words, `data/audio-voices.json`).
+- Words still flagged are listed in `data/audio-check.json`. Most of them are homophones (byte/bite, cache/cash) or interjections.
 
 ## Examples
 - 4 example sentences in the card's meaning, plus an English-only usage note where a learner might misuse the word (`data/examples/*.json`, `tools/workflows/examples.js`). Done for the 2,756 most used words (Top 400 … Top 20K).

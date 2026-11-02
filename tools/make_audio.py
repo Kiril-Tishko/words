@@ -25,7 +25,8 @@ VOICE_US, VOICE_GB = 'af_heart', 'bf_emma'
 
 # respellings for words the pronunciation dictionary gets wrong
 OVERRIDES = {'déjà vu': 'deja vu', 'château': 'chateau', 'jalapeño': 'jalapeno', 'tête-à-tête': 'tet a tet',
-             'prêt-à-porter': 'pret a porter', 'IT': 'I.T.', 'ID': 'I.D.'}
+             'prêt-à-porter': 'pret a porter', 'IT': 'I.T.', 'ID': 'I.D.', 'kHz': 'kilohertz', 'MHz': 'megahertz',
+             'GHz': 'gigahertz', 'CD': 'C. D.'}
 # all-caps words that are said as words, not letter by letter
 WORDLIKE = {'COVID', 'BIOS', 'LAN', 'MILF', 'OLED', 'NATO', 'PIN', 'LOL', 'FAQ', 'OK', 'SaaS', 'DevOps', 'IMHO', 'WTF', 'OMG'}
 COMMON = set()
