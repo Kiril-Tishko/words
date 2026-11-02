@@ -1,0 +1,1464 @@
+{
+ "panopticon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dropdown": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "supercluster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "duplicator": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "forwarder": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": "often \"freight forwarder\""
+ },
+ "doxing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "uncountable; also spelled \"doxxing\""
+ },
+ "kinesis": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "logit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "peristome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "polytetrafluoroethylene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "reblog": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "resampling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "rewilding": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "uncountable"
+ },
+ "synthwave": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "unicast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "yakiniku": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We went out for yakiniku and grilled the meat at our table.",
+   "Yakiniku is a Japanese style of grilling small pieces of meat.",
+   "Can we book a table at the yakiniku place tonight?",
+   "Dip the yakiniku in the sweet sauce before you eat it."
+  ],
+  "note": ""
+ },
+ "cogito": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "apsara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An apsara is a beautiful female spirit in Hindu and Buddhist stories.",
+   "The temple walls show carvings of dancing apsaras.",
+   "Each apsara in the picture wears jewelry and a tall crown.",
+   "The dancer played an apsara in the traditional show."
+  ],
+  "note": ""
+ },
+ "catarrh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "mainly British; uncountable"
+ },
+ "chakram": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "diamorphine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "barramundi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "shitpost": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "vulgar",
+   "slang"
+  ],
+  "ns": true,
+  "note": "vulgar slang; avoid in polite or formal writing"
+ },
+ "speedrun": {
+  "v": "keep",
+  "s": 65,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "dybbuk": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "scherzo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The third movement is a lively scherzo.",
+   "A scherzo is a quick, playful piece of music.",
+   "She played a short scherzo at the school concert.",
+   "The orchestra loved the fast scherzo."
+  ],
+  "note": ""
+ },
+ "ancap": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "informal short form of \"anarcho-capitalist\""
+ },
+ "chlorpyrifos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "keygen": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "A keygen makes fake keys to unlock paid software.",
+   "Do not download a keygen, because it often contains viruses.",
+   "The website shared a keygen for the new game illegally.",
+   "Using a keygen to get free software is against the law."
+  ],
+  "note": ""
+ },
+ "silane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "turbodiesel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "webchat": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "You can ask the bank a question through the webchat.",
+   "Click the webchat button to talk to our support team.",
+   "The webchat is open from nine to five on weekdays.",
+   "I fixed my internet problem quickly using the webchat."
+  ],
+  "note": ""
+ },
+ "mudra": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "In yoga, a mudra is a special hand position.",
+   "Touch your thumb and finger to make this mudra.",
+   "The old statue shows a calm mudra.",
+   "The teacher taught us a mudra for focus."
+  ],
+  "note": ""
+ },
+ "fufu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dagoba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A dagoba is a dome-shaped Buddhist shrine.",
+   "The white dagoba stands on the hill.",
+   "Pilgrims walk around the dagoba.",
+   "The dagoba holds holy relics."
+  ],
+  "note": ""
+ },
+ "webtoon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bibliophile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ethnos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tegu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "oberleutnant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An oberleutnant was a lieutenant in the German army.",
+   "The oberleutnant gave orders to his small group of soldiers.",
+   "In the film, the oberleutnant leads his men across the river.",
+   "The museum shows the uniform of an oberleutnant from the war."
+  ],
+  "note": ""
+ },
+ "chiefdom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "tomatillo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A tomatillo looks like a small green tomato in a paper skin.",
+   "Remove the dry skin before you cook the tomatillo.",
+   "Green salsa is often made with tomatillos and chili peppers.",
+   "Can you find tomatillos at the farmers market this week?"
+  ],
+  "note": ""
+ },
+ "motet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The choir sang a motet in Latin.",
+   "A motet is a short choral piece, often religious.",
+   "The composer wrote this motet for six voices.",
+   "We practiced the motet before the service."
+  ],
+  "note": ""
+ },
+ "spheroid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sorus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "irregular plural: sori"
+ },
+ "balayage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Balayage is a way to color hair by painting it by hand.",
+   "I want balayage to make my hair look lighter at the ends.",
+   "How much does balayage cost at this salon?",
+   "Her balayage looks natural, like hair lightened by the sun."
+  ],
+  "note": ""
+ },
+ "dinucleotide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "docetaxel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Docetaxel is a cancer medicine given through a drip.",
+   "The doctor explained the side effects of docetaxel.",
+   "She gets docetaxel at the hospital every three weeks.",
+   "Docetaxel can cause hair loss and make you feel tired."
+  ],
+  "note": ""
+ },
+ "eurobeat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Eurobeat is fast dance music with strong synthesizer sounds.",
+   "The racing game has a great eurobeat soundtrack.",
+   "We listened to eurobeat on the long drive.",
+   "Eurobeat was very popular in Japan in the 1990s."
+  ],
+  "note": ""
+ },
+ "killcam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "pedalboard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "photocall": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The actors posed for photographers at the photocall.",
+   "The photocall starts at six, before the premiere.",
+   "Journalists waited at the photocall to take pictures of the team.",
+   "After the photocall, the players answered questions from the press."
+  ],
+  "note": ""
+ },
+ "polyolefin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "suzerain": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "étude": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She practices a piano étude every morning.",
+   "An étude is a piece written to train a skill.",
+   "He played a difficult étude at the competition.",
+   "The teacher gave me a new étude for my left hand."
+  ],
+  "note": "also written \"etude\""
+ },
+ "brexiteer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Often written with a capital letter: \"Brexiteer\". Informal."
+ },
+ "anxiolytic": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vizsla": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A vizsla is a hunting dog with a short reddish coat.",
+   "Our vizsla needs a long walk every day.",
+   "The vizsla is a friendly dog that loves people.",
+   "Is a vizsla a good dog for a family with children?"
+  ],
+  "note": ""
+ },
+ "legionella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mortadella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cooldown": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "caipirinha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A caipirinha is a Brazilian cocktail made with lime and sugar.",
+   "Can I have a caipirinha with extra ice, please?",
+   "The bartender crushed the lime to make a caipirinha.",
+   "We drank a caipirinha on the beach at sunset."
+  ],
+  "note": ""
+ },
+ "teleprinter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "note": "British word; \"teletype\" is more common in American English"
+ },
+ "passepartout": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Put a white passepartout around the photo before framing.",
+   "The passepartout makes the picture look bigger.",
+   "You can buy a passepartout at any frame shop.",
+   "Cut the passepartout a little smaller than the frame."
+  ],
+  "note": "In American English, \"mat\" is the more common word."
+ },
+ "priapism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "limburger": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ibogaine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "riddim": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "okonomiyaki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Okonomiyaki is a Japanese pancake with cabbage and meat.",
+   "We cooked okonomiyaki on a hot plate at our table.",
+   "Put some sauce and mayonnaise on top of the okonomiyaki.",
+   "Is there a good okonomiyaki restaurant near here?"
+  ],
+  "note": ""
+ },
+ "krump": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Krump is a fast and powerful street dance.",
+   "He learned krump at a dance school in his city.",
+   "Krump dancers use strong movements to show their feelings.",
+   "The krump battle was the best part of the show."
+  ],
+  "note": ""
+ },
+ "cereus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "qubit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bralette": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "guanosine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "feminazi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "offensive",
+   "slang"
+  ],
+  "ns": true,
+  "note": "offensive; do not use it"
+ },
+ "griot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lamin": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "prerelease": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "adzuki": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lugger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "koan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yakisoba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "crostini": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "usually plural; singular is \"crostino\""
+ },
+ "lignite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "ecotone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "halon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Halon is a gas that was used to put out fires.",
+   "Many old computer rooms had halon fire systems.",
+   "Halon harms the ozone layer, so it is now banned in many places.",
+   "The ship still uses halon to protect the engine room."
+  ],
+  "note": ""
+ },
+ "bolas": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hydromorphone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "beep-beep": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "note": "informal, often used by or to children"
+ },
+ "freeware": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "uncountable"
+ },
+ "erlang": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Most often \"Erlang\" is the name of a programming language."
+ },
+ "dropshipping": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "scudetto": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "tenofovir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Tenofovir is a medicine used to treat HIV and hepatitis B.",
+   "The doctor told him to take tenofovir every day.",
+   "Tenofovir can also help prevent HIV infection.",
+   "Ask your pharmacist how to store tenofovir."
+  ],
+  "note": ""
+ },
+ "synthpop": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "quine": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "agouti": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "decalogue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mixin": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "chlorpromazine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "baud": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "plural is also \"baud\""
+ },
+ "caravanserai": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "citronella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hominin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "medtech": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "bhajan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "acrophobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Acrophobia is a strong fear of high places.",
+   "Because of her acrophobia, she never takes glass elevators.",
+   "He has acrophobia and cannot climb ladders.",
+   "Some people treat acrophobia with virtual reality therapy."
+  ],
+  "note": ""
+ },
+ "natron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Natron is a natural salt that people used to dry bodies in ancient Egypt.",
+   "The priests covered the body with natron for forty days.",
+   "Natron was also used for cleaning and making glass.",
+   "The museum explains how natron helped make mummies."
+  ],
+  "note": ""
+ },
+ "hamachi": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Hamachi is a Japanese name for yellowtail fish.",
+   "I ordered hamachi sushi and a bowl of miso soup.",
+   "Fresh hamachi has a soft texture and a mild taste.",
+   "The chef served thin slices of raw hamachi with lemon."
+  ],
+  "note": ""
+ },
+ "episcopate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "namaskar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "\"Namaskar,\" she said and put her hands together.",
+   "In India, people often greet guests with namaskar.",
+   "The yoga teacher started the class with a quiet namaskar.",
+   "He said namaskar to the old man and bowed his head."
+  ],
+  "note": ""
+ },
+ "succinylcholine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cella": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "moscato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bloatware": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "My new laptop came with a lot of bloatware.",
+   "Remove the bloatware to make your phone faster.",
+   "Bloatware takes up space and you never use it.",
+   "Can I delete this bloatware without breaking the phone?"
+  ],
+  "note": ""
+ },
+ "erythritol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Erythritol is a sweetener with almost no calories.",
+   "This sugar-free chocolate is made with erythritol.",
+   "You can use erythritol instead of sugar in cakes.",
+   "Too much erythritol can upset your stomach."
+  ],
+  "note": ""
+ },
+ "imatinib": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Imatinib is a medicine used to treat some types of leukemia.",
+   "He takes imatinib as a pill every day.",
+   "Imatinib changed the treatment of this blood cancer.",
+   "The doctor checks his blood often while he takes imatinib."
+  ],
+  "note": ""
+ },
+ "metroidvania": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A metroidvania is a game where you explore one large connected map.",
+   "In a metroidvania, new skills open new parts of the world.",
+   "I am playing an indie metroidvania with beautiful pixel art.",
+   "Can you suggest a good metroidvania for beginners?"
+  ],
+  "note": ""
+ },
+ "toolchain": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "midrash": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The rabbi taught a midrash about a story from the Torah.",
+   "A midrash explains stories from the Hebrew Bible.",
+   "We read a midrash in our study group.",
+   "The book is a collection of midrash for children."
+  ],
+  "note": ""
+ },
+ "talma": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "A talma was a long cape worn in the nineteenth century.",
+   "The actress wore a dark velvet talma on stage.",
+   "The museum has a silk talma with a high collar.",
+   "In old novels, women often wear a talma over their dresses."
+  ],
+  "note": ""
+ },
+ "grenache": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "firkin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "colobus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cascara": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Cascara is a tea made from dried coffee cherries.",
+   "Can I try the cascara with a little honey?",
+   "Cascara tastes fruity and has less caffeine than coffee.",
+   "The café sells cold cascara drinks in summer."
+  ],
+  "note": ""
+ },
+ "zouk": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "wingsuit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "marabout": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "MOBA": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "bentonite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "expansionism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "uncountable"
+ },
+ "pilaster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "epigraph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cosmodrome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mandu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "embouchure": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cardo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "senet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Senet is a board game from ancient Egypt.",
+   "Archaeologists found a senet board in the old tomb.",
+   "Players move pieces across thirty squares in senet.",
+   "Nobody knows the exact rules of senet today."
+  ],
+  "note": ""
+ },
+ "acinetobacter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "clathrin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "dystrophin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "femicide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Femicide is the killing of a woman because she is a woman.",
+   "The report shows that femicide is rising in some countries.",
+   "People marched in the city to protest against femicide.",
+   "The new law treats femicide as a separate crime."
+  ],
+  "note": ""
+ },
+ "hardtail": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "kerning": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kwaito": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mifepristone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "papercraft": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "superfight": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "synuclein": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tifo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "theine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Means the same as caffeine; \"caffeine\" is more common."
+ },
+ "dogmatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "emollient": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "puttanesca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Puttanesca is a pasta sauce with tomatoes, olives, and capers.",
+   "I'll have the spaghetti puttanesca, please.",
+   "Puttanesca is quick to make with food from your kitchen.",
+   "Add a few anchovies to the puttanesca for more flavor."
+  ],
+  "note": ""
+ },
+ "ecru": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rangoli": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A rangoli is a colorful pattern made on the floor with powder or flowers.",
+   "We made a rangoli at the front door for the festival.",
+   "The children used rice and colored sand for their rangoli.",
+   "Each family drew a rangoli to welcome guests."
+  ],
+  "note": ""
+ },
+ "mohel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "A mohel performs circumcisions in Jewish families.",
+   "The family invited a mohel to the ceremony.",
+   "The mohel said a blessing before the ritual.",
+   "A mohel often has medical training too."
+  ],
+  "note": ""
+ },
+ "gyoza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "topspin": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "methylphenidate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ }
+}

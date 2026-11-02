@@ -56,7 +56,7 @@
  },
  {
   "en": "ace",
-  "uk": "ейс",
+  "uk": "ейс",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -69,7 +69,7 @@
  },
  {
   "en": "acquiring",
-  "uk": "еквайринг",
+  "uk": "еквайринг",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -228,7 +228,7 @@
  },
  {
   "en": "agile",
-  "uk": "аджайл",
+  "uk": "аджайл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -253,7 +253,7 @@
  },
  {
   "en": "airdrop",
-  "uk": "ейрдроп",
+  "uk": "ейрдроп",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -393,6 +393,17 @@
   "note": "Most often used as 'be anathema to someone' = be strongly disliked by them.",
   "checked": 2,
   "src": "verify-084.json"
+ },
+ {
+  "en": "anchor",
+  "uk": "анкер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
  },
  {
   "en": "anecdote",
@@ -791,7 +802,7 @@
  },
  {
   "en": "baby",
-  "uk": "бейбі",
+  "uk": "бейбі",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -854,7 +865,7 @@
  },
  {
   "en": "bailiff",
-  "uk": "бальї",
+  "uk": "бальї",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -873,17 +884,6 @@
   "note": "бал = a formal dance (ball) or a point/grade score; a ball to play with is м'яч",
   "checked": 2,
   "src": "verify-002.json"
- },
- {
-  "en": "balloon",
-  "uk": "балон",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "Ukrainian балон is mainly a gas cylinder / aerosol can (also a tyre); a toy or air balloon is повітряна кулька.",
-  "checked": 1,
-  "src": "scan-015.json"
  },
  {
   "en": "balsam",
@@ -965,7 +965,7 @@
  },
  {
   "en": "basin",
-  "uk": "басейн",
+  "uk": "басейн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1017,7 +1017,7 @@
  },
  {
   "en": "bayonet",
-  "uk": "байонет",
+  "uk": "байонет",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1122,7 +1122,7 @@
  },
  {
   "en": "bike",
-  "uk": "байк",
+  "uk": "байк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -1278,7 +1278,7 @@
  },
  {
   "en": "bobtail",
-  "uk": "бобтейл",
+  "uk": "бобтейл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1394,7 +1394,7 @@
  },
  {
   "en": "break",
-  "uk": "брейк",
+  "uk": "брейк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -1443,7 +1443,7 @@
  },
  {
   "en": "broiler",
-  "uk": "бройлер",
+  "uk": "бройлер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -1614,7 +1614,7 @@
  },
  {
   "en": "butterfly",
-  "uk": "батерфляй",
+  "uk": "батерфляй",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1627,7 +1627,7 @@
  },
  {
   "en": "buyer",
-  "uk": "байєр",
+  "uk": "байєр",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -1652,7 +1652,7 @@
  },
  {
   "en": "bye-bye",
-  "uk": "бай-бай",
+  "uk": "бай-бай",
   "pos": "interj",
   "british": false,
   "lvl": null,
@@ -1663,7 +1663,7 @@
  },
  {
   "en": "bypass",
-  "uk": "байпас",
+  "uk": "байпас",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1924,7 +1924,7 @@
  },
  {
   "en": "case",
-  "uk": "кейс",
+  "uk": "кейс",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -2049,7 +2049,7 @@
  },
  {
   "en": "chai",
-  "uk": "чай",
+  "uk": "чай",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -2251,7 +2251,7 @@
  },
  {
   "en": "checkpoint",
-  "uk": "чекпойнт",
+  "uk": "чекпойнт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -2297,7 +2297,7 @@
  },
  {
   "en": "chignon",
-  "uk": "шиньйон",
+  "uk": "шиньйон",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2555,7 +2555,7 @@
  },
  {
   "en": "coin",
-  "uk": "коїн",
+  "uk": "коїн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2772,7 +2772,7 @@
  },
  {
   "en": "companion",
-  "uk": "компаньйон",
+  "uk": "компаньйон",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2851,7 +2851,7 @@
  },
  {
   "en": "concrete",
-  "uk": "конкретний",
+  "uk": "конкретний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2894,7 +2894,7 @@
   "lvl": null,
   "labels": [],
   "note": "кондуктор = ticket conductor on a bus/tram only; orchestra conductor = диригент, electrical conductor = провідник",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-027.json"
  },
  {
@@ -3221,6 +3221,17 @@
   "src": "verify-049.json"
  },
  {
+  "en": "courage",
+  "uk": "кураж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "cover",
   "uk": "кавер",
   "pos": "noun",
@@ -3306,7 +3317,7 @@
  },
  {
   "en": "crate",
-  "uk": "крейт",
+  "uk": "крейт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -3614,7 +3625,7 @@
  },
  {
   "en": "deployment",
-  "uk": "деплоймент",
+  "uk": "деплоймент",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -3760,7 +3771,7 @@
  },
  {
   "en": "dislike",
-  "uk": "дизлайк",
+  "uk": "дизлайк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4053,7 +4064,7 @@
  },
  {
   "en": "drive",
-  "uk": "драйв",
+  "uk": "драйв",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4067,7 +4078,7 @@
  },
  {
   "en": "driver",
-  "uk": "драйвер",
+  "uk": "драйвер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4301,7 +4312,7 @@
  },
  {
   "en": "exploit",
-  "uk": "експлойт",
+  "uk": "експлойт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4386,7 +4397,7 @@
  },
  {
   "en": "familiar",
-  "uk": "фамільярний",
+  "uk": "фамільярний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4498,7 +4509,7 @@
  },
  {
   "en": "fighting",
-  "uk": "файтинг",
+  "uk": "файтинг",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4559,7 +4570,7 @@
  },
  {
   "en": "five o'clock",
-  "uk": "файв-о-клок",
+  "uk": "файв-о-клок",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4572,7 +4583,7 @@
  },
  {
   "en": "flame",
-  "uk": "флейм",
+  "uk": "флейм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4706,7 +4717,7 @@
  },
  {
   "en": "fluid",
-  "uk": "флюїд",
+  "uk": "флюїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4754,7 +4765,7 @@
  },
  {
   "en": "foresight",
-  "uk": "форсайт",
+  "uk": "форсайт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4817,7 +4828,7 @@
  },
  {
   "en": "foundation",
-  "uk": "фаундейшн",
+  "uk": "фаундейшн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4828,7 +4839,7 @@
  },
  {
   "en": "frame",
-  "uk": "фрейм",
+  "uk": "фрейм",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4840,21 +4851,8 @@
   "src": "rscan-001.json"
  },
  {
-  "en": "framework",
-  "uk": "фреймворк",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "technology"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-000.json"
- },
- {
   "en": "free fight",
-  "uk": "фрі-файт",
+  "uk": "фрі-файт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5013,7 +5011,7 @@
  },
  {
   "en": "gainer",
-  "uk": "гейнер",
+  "uk": "гейнер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5048,7 +5046,7 @@
  },
  {
   "en": "game",
-  "uk": "гейм",
+  "uk": "гейм",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -5099,7 +5097,7 @@
  },
  {
   "en": "gate",
-  "uk": "гейт",
+  "uk": "гейт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5112,7 +5110,7 @@
  },
  {
   "en": "gateway",
-  "uk": "гейтвей",
+  "uk": "гейтвей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5167,6 +5165,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-021.json"
+ },
+ {
+  "en": "gloria",
+  "uk": "глорія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
  },
  {
   "en": "go",
@@ -5249,7 +5258,7 @@
  },
  {
   "en": "grade",
-  "uk": "грейд",
+  "uk": "грейд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5260,7 +5269,7 @@
  },
  {
   "en": "grader",
-  "uk": "грейдер",
+  "uk": "грейдер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -5307,6 +5316,17 @@
   "src": "rscan-001.json"
  },
  {
+  "en": "gross",
+  "uk": "грос",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "gryph",
   "uk": "гриф",
   "pos": "noun",
@@ -5333,7 +5353,7 @@
  },
  {
   "en": "guide",
-  "uk": "гайд",
+  "uk": "гайд",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -5554,7 +5574,7 @@
  },
  {
   "en": "hi",
-  "uk": "хай",
+  "uk": "хай",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5594,7 +5614,7 @@
  },
  {
   "en": "hightech",
-  "uk": "хайтек",
+  "uk": "хайтек",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5908,7 +5928,7 @@
  },
  {
   "en": "infighting",
-  "uk": "інфайтинг",
+  "uk": "інфайтинг",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -5947,7 +5967,7 @@
  },
  {
   "en": "inline",
-  "uk": "інлайн",
+  "uk": "інлайн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5955,6 +5975,17 @@
   "note": "",
   "checked": 2,
   "src": "gap-fullscan.json"
+ },
+ {
+  "en": "insert",
+  "uk": "інсерт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
  },
  {
   "en": "instance",
@@ -6074,7 +6105,7 @@
  },
  {
   "en": "jailbreak",
-  "uk": "джейлбрейк",
+  "uk": "джейлбрейк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6123,6 +6154,20 @@
   "note": "In Ukrainian mainly the Javelin anti-tank missile; the sports javelin is спис.",
   "checked": 1,
   "src": "scan-020.json"
+ },
+ {
+  "en": "joint",
+  "uk": "джойнт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other",
+   "slang"
+  ],
+  "note": "Only a marijuana cigarette; a body joint is суглоб, 'joint' (shared) is спільний.",
+  "checked": 2,
+  "src": "verify-005.json"
  },
  {
   "en": "journal",
@@ -6223,7 +6268,7 @@
  },
  {
   "en": "kif",
-  "uk": "кайф",
+  "uk": "кайф",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6260,7 +6305,7 @@
  },
  {
   "en": "kite",
-  "uk": "кайт",
+  "uk": "кайт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6299,7 +6344,7 @@
  },
  {
   "en": "label",
-  "uk": "лейбл",
+  "uk": "лейбл",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6312,7 +6357,7 @@
  },
  {
   "en": "laika",
-  "uk": "лайка",
+  "uk": "лайка",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6507,6 +6552,17 @@
   "src": "gap-fullscan.json"
  },
  {
+  "en": "look",
+  "uk": "лук",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "loop",
   "uk": "луп",
   "pos": "",
@@ -6670,7 +6726,7 @@
  },
  {
   "en": "mail",
-  "uk": "мейл",
+  "uk": "мейл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6681,7 +6737,7 @@
  },
  {
   "en": "maillot",
-  "uk": "майо",
+  "uk": "майо",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6692,7 +6748,7 @@
  },
  {
   "en": "major",
-  "uk": "мейджор",
+  "uk": "мейджор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6714,7 +6770,7 @@
  },
  {
   "en": "maker",
-  "uk": "мейкер",
+  "uk": "мейкер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6831,7 +6887,7 @@
  },
  {
   "en": "matchmaking",
-  "uk": "метчмейкінг",
+  "uk": "метчмейкінг",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6911,7 +6967,7 @@
  },
  {
   "en": "merchandise",
-  "uk": "мерчендайз",
+  "uk": "мерчендайз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7073,7 +7129,7 @@
  },
  {
   "en": "miner",
-  "uk": "майнер",
+  "uk": "майнер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7097,7 +7153,7 @@
  },
  {
   "en": "mining",
-  "uk": "майнінг",
+  "uk": "майнінг",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -7446,7 +7502,7 @@
  },
  {
   "en": "neutral",
-  "uk": "нейтраль",
+  "uk": "нейтраль",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7479,7 +7535,7 @@
  },
  {
   "en": "nickname",
-  "uk": "нікнейм",
+  "uk": "нікнейм",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -7517,7 +7573,7 @@
  },
  {
   "en": "noname",
-  "uk": "ноунейм",
+  "uk": "ноунейм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7669,7 +7725,7 @@
  },
  {
   "en": "offsite",
-  "uk": "офсайт",
+  "uk": "офсайт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7680,7 +7736,7 @@
  },
  {
   "en": "oldtimer",
-  "uk": "олдтаймер",
+  "uk": "олдтаймер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7691,7 +7747,7 @@
  },
  {
   "en": "open-air",
-  "uk": "опен-ейр",
+  "uk": "опен-ейр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7704,7 +7760,7 @@
  },
  {
   "en": "operational",
-  "uk": "оперативний",
+  "uk": "оперативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7759,7 +7815,7 @@
  },
  {
   "en": "organizer",
-  "uk": "органайзер",
+  "uk": "органайзер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -7831,7 +7887,7 @@
  },
  {
   "en": "outsider",
-  "uk": "аутсайдер",
+  "uk": "аутсайдер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -7856,7 +7912,7 @@
  },
  {
   "en": "overnight",
-  "uk": "овернайт",
+  "uk": "овернайт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -7869,7 +7925,7 @@
  },
  {
   "en": "oversight",
-  "uk": "оверсайт",
+  "uk": "оверсайт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7880,7 +7936,7 @@
  },
  {
   "en": "overtime",
-  "uk": "овертайм",
+  "uk": "овертайм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8010,7 +8066,7 @@
  },
  {
   "en": "paper",
-  "uk": "пейпер",
+  "uk": "пейпер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8119,7 +8175,7 @@
   "lvl": null,
   "labels": [],
   "note": "uk пафос = fervor, high emotion, also pomposity; en pathos = quality evoking pity; th→ф",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-082.json"
  },
  {
@@ -8180,6 +8236,19 @@
   "note": "",
   "checked": 2,
   "src": "rscan-003.json"
+ },
+ {
+  "en": "penalty",
+  "uk": "пенальті",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "пенальті means only a penalty kick (football); other penalties are штраф or покарання.",
+  "checked": 2,
+  "src": "verify-009.json"
  },
  {
   "en": "performance",
@@ -8293,9 +8362,9 @@
   "british": false,
   "lvl": null,
   "labels": [],
-  "note": "Ukrainian персона = an (important) person; English persona = public image or role; shared: persona non grata.",
-  "checked": 1,
-  "src": "scan-010.json"
+  "note": "Ukrainian персона = (important) person; English persona = public image or role. Shared only in persona non grata.",
+  "checked": 2,
+  "src": "scan-009.json"
  },
  {
   "en": "personage",
@@ -8346,7 +8415,7 @@
  },
  {
   "en": "pipeline",
-  "uk": "пайплайн",
+  "uk": "пайплайн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8475,7 +8544,7 @@
  },
  {
   "en": "playback",
-  "uk": "плейбек",
+  "uk": "плейбек",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8597,7 +8666,7 @@
  },
  {
   "en": "pointer",
-  "uk": "пойнтер",
+  "uk": "пойнтер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8827,7 +8896,7 @@
  },
  {
   "en": "price",
-  "uk": "прайс",
+  "uk": "прайс",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -8838,7 +8907,7 @@
  },
  {
   "en": "pride",
-  "uk": "прайд",
+  "uk": "прайд",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9183,7 +9252,7 @@
  },
  {
   "en": "raider",
-  "uk": "рейдер",
+  "uk": "рейдер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9197,7 +9266,7 @@
  },
  {
   "en": "railing",
-  "uk": "рейлінг",
+  "uk": "рейлінг",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9210,7 +9279,7 @@
  },
  {
   "en": "raise",
-  "uk": "рейз",
+  "uk": "рейз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9250,7 +9319,7 @@
  },
  {
   "en": "rate",
-  "uk": "рейт",
+  "uk": "рейт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9288,7 +9357,7 @@
  },
  {
   "en": "ready-made",
-  "uk": "реді-мейд",
+  "uk": "реді-мейд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9305,7 +9374,7 @@
   "lvl": null,
   "labels": [],
   "note": "реаліті = only reality TV (реаліті-шоу); reality = реальність",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-003.json"
  },
  {
@@ -9580,7 +9649,7 @@
  },
  {
   "en": "rider",
-  "uk": "райдер",
+  "uk": "райдер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9617,7 +9686,7 @@
  },
  {
   "en": "riser",
-  "uk": "райзер",
+  "uk": "райзер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9698,7 +9767,7 @@
  },
  {
   "en": "rosary",
-  "uk": "розарій",
+  "uk": "розарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9767,7 +9836,7 @@
  },
  {
   "en": "samoyed",
-  "uk": "самоїд",
+  "uk": "самоїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9824,7 +9893,7 @@
  },
  {
   "en": "save",
-  "uk": "сейв",
+  "uk": "сейв",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9877,7 +9946,7 @@
   "lvl": null,
   "labels": [],
   "note": "скотч mainly = sticky tape (Scotch tape); it can also mean Scotch whisky.",
-  "checked": 1,
+  "checked": 2,
   "src": "scan-010.json"
  },
  {
@@ -9908,7 +9977,7 @@
  },
  {
   "en": "scraper",
-  "uk": "скрейпер",
+  "uk": "скрейпер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9919,7 +9988,7 @@
  },
  {
   "en": "scraping",
-  "uk": "скрейпінг",
+  "uk": "скрейпінг",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10102,7 +10171,7 @@
  },
  {
   "en": "senior",
-  "uk": "сеньйор",
+  "uk": "сеньйор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10175,7 +10244,7 @@
  },
  {
   "en": "session",
-  "uk": "сейшн",
+  "uk": "сейшн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10197,7 +10266,7 @@
  },
  {
   "en": "shake",
-  "uk": "шейк",
+  "uk": "шейк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10258,6 +10327,17 @@
   "src": "verify-020.json"
  },
  {
+  "en": "shell",
+  "uk": "шелл",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "shelter",
   "uk": "шелтер",
   "pos": "noun",
@@ -10305,7 +10385,7 @@
  },
  {
   "en": "showcase",
-  "uk": "шоукейс",
+  "uk": "шоукейс",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10378,7 +10458,7 @@
  },
  {
   "en": "skate",
-  "uk": "скейт",
+  "uk": "скейт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10507,7 +10587,7 @@
  },
  {
   "en": "slave",
-  "uk": "слейв",
+  "uk": "слейв",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10518,7 +10598,7 @@
  },
  {
   "en": "slay",
-  "uk": "слей",
+  "uk": "слей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10554,7 +10634,7 @@
  },
  {
   "en": "slide film",
-  "uk": "слайд-фільм",
+  "uk": "слайд-фільм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10613,7 +10693,7 @@
  },
  {
   "en": "smile",
-  "uk": "смайл",
+  "uk": "смайл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10813,7 +10893,7 @@
   "lvl": null,
   "labels": [],
   "note": "спектакль = a theater play/performance; an impressive sight is видовище",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-036.json"
  },
  {
@@ -10926,7 +11006,7 @@
  },
  {
   "en": "sprite",
-  "uk": "спрайт",
+  "uk": "спрайт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -11221,7 +11301,7 @@
  },
  {
   "en": "striker",
-  "uk": "страйкер",
+  "uk": "страйкер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11310,7 +11390,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-003.json"
  },
  {
@@ -11588,6 +11668,17 @@
   "src": "scan-019.json"
  },
  {
+  "en": "term",
+  "uk": "терм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "terror",
   "uk": "терор",
   "pos": "",
@@ -11840,7 +11931,7 @@
  },
  {
   "en": "tough guy",
-  "uk": "тафгай",
+  "uk": "тафгай",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11873,7 +11964,7 @@
  },
  {
   "en": "trade",
-  "uk": "трейд",
+  "uk": "трейд",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -11884,17 +11975,6 @@
   "note": "In Ukrainian mostly sports jargon (a player trade) and трейд-ін; general trade = торгівля.",
   "checked": 2,
   "src": "scan-011.json"
- },
- {
-  "en": "trail",
-  "uk": "трейл",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-000.json"
  },
  {
   "en": "train",
@@ -11909,7 +11989,7 @@
  },
  {
   "en": "tramway",
-  "uk": "трамвай",
+  "uk": "трамвай",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12005,7 +12085,7 @@
  },
  {
   "en": "tribal",
-  "uk": "трайбл",
+  "uk": "трайбл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12102,7 +12182,7 @@
  },
  {
   "en": "trolley",
-  "uk": "тролей",
+  "uk": "тролей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12420,7 +12500,7 @@
  },
  {
   "en": "wager",
-  "uk": "вейджер",
+  "uk": "вейджер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -12468,19 +12548,6 @@
   "note": "Gamer/IT slang; the everyday word for a wizard is чарівник.",
   "checked": 2,
   "src": "verify-023.json"
- },
- {
-  "en": "workout",
-  "uk": "воркаут",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [
-   "sport"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-005.json"
  },
  {
   "en": "wrestler",

@@ -189,7 +189,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   };
-  const mine = new Set(store.get('sw.mine', []));
+  // saved ids are normalized (older builds wrote й/ї as two code points)
+  const mine = new Set(store.get('sw.mine', []).map(id => String(id).normalize ? String(id).normalize('NFC') : String(id)));
   const state = { level: LEVELS[0], prev: LEVELS[0], view: store.get('sw.view', 'grid'), order: null, shuffled: false, idx: 0, topic: '', hideNs: store.get('sw.hideNs2', true) };
   const byLevel = {};
   LEVELS.forEach(l => byLevel[l] = []);

@@ -1,0 +1,1596 @@
+{
+ "pemmican": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "valproate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trochanter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "trichloroethylene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "guyot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "havarti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Havarti is a soft, mild cheese from Denmark.",
+   "Can I have a havarti sandwich, please?",
+   "Havarti melts well, so it is good for toast.",
+   "The store sells havarti with dill."
+  ],
+  "note": ""
+ },
+ "relativist": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bonang": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A bonang is a set of small gongs from Java.",
+   "The musician hits the bonang with two sticks.",
+   "The bonang plays the main melody in a gamelan.",
+   "Students can try the bonang at the music class."
+  ],
+  "note": ""
+ },
+ "contango": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Contango means future prices are higher than today's price.",
+   "Oil markets were in contango for most of the year.",
+   "In contango, storing the product can make money.",
+   "The report explains contango in simple words."
+  ],
+  "note": ""
+ },
+ "ecocide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hyperlapse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A hyperlapse is a fast video taken while moving.",
+   "She made a hyperlapse of her walk through the city.",
+   "Can your phone record a hyperlapse?",
+   "Hold the camera steady when you shoot a hyperlapse."
+  ],
+  "note": ""
+ },
+ "isobutyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Isobutyl is a chemical group with four carbon atoms.",
+   "Isobutyl acetate smells a bit like fruit.",
+   "The paint thinner contains isobutyl alcohol.",
+   "Keep products with isobutyl away from fire."
+  ],
+  "note": ""
+ },
+ "kashrut": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Kashrut is the set of Jewish food laws.",
+   "Under kashrut, meat and milk are not eaten together.",
+   "The restaurant follows kashrut, so there is no pork.",
+   "A rabbi checks the kitchen for kashrut."
+  ],
+  "note": ""
+ },
+ "langar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A langar is a free community kitchen at a Sikh temple.",
+   "Anyone can eat at the langar for free.",
+   "Volunteers cook rice and lentils for the langar.",
+   "We sat on the floor and ate at the langar."
+  ],
+  "note": ""
+ },
+ "mutator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pentane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "pickleball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Pickleball is like tennis on a smaller court.",
+   "Do you want to play pickleball after work?",
+   "You need a paddle and a plastic ball for pickleball.",
+   "The park has six new pickleball courts."
+  ],
+  "note": ""
+ },
+ "rotoscoping": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Rotoscoping means drawing over real video, frame by frame.",
+   "The music video used rotoscoping to look like a cartoon.",
+   "Rotoscoping takes many hours of careful work.",
+   "She learned rotoscoping in her animation course."
+  ],
+  "note": ""
+ },
+ "triennale": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yohimbine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Yohimbine comes from the bark of an African tree.",
+   "Some fat-burning supplements contain yohimbine.",
+   "Yohimbine can raise your heart rate and blood pressure.",
+   "Ask your doctor before you take yohimbine."
+  ],
+  "note": ""
+ },
+ "kalbi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Also spelled \"galbi\"."
+ },
+ "copy-paster": {
+  "v": "keep",
+  "pm": 0.01,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal."
+ },
+ "mass spectroscope": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "\"Mass spectrometer\" is the more common term."
+ },
+ "biosimilar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "osteoclast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "licentiate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "oligosaccharide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "laksa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ghostwriting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cadherin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "vinyasa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "showreel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dynamometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "homeschooler": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "centralism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "biltong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Biltong is dried, salted meat from South Africa.",
+   "Can I buy some beef biltong for the trip?",
+   "Biltong is a good snack for long hikes.",
+   "The shop sells biltong in small bags."
+  ],
+  "note": ""
+ },
+ "constitutionalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "escherichia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Escherichia is a group of bacteria that includes E. coli.",
+   "Escherichia bacteria live in the human gut.",
+   "The water test found Escherichia, so we boiled our water.",
+   "Most Escherichia strains in the gut are harmless."
+  ],
+  "note": ""
+ },
+ "alyssum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "annexin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "burkini": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "communitarianism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "corticotropin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "crassula": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "diacetate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diisocyanate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ferredoxin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "formatter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "formyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "glutaraldehyde": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "goldendoodle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "homeobox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "nikaya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ondansetron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rubisco": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "sibutramine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "siloxane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Siloxane is a compound of silicon and oxygen.",
+   "Many shampoos and creams contain siloxane.",
+   "Siloxane makes the sealant soft and waterproof.",
+   "The label lists a siloxane as the second ingredient."
+  ],
+  "note": ""
+ },
+ "sympathomimetic": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A sympathomimetic is a drug that acts like adrenaline.",
+   "Many cold medicines contain a sympathomimetic for a stuffy nose.",
+   "A sympathomimetic can raise your blood pressure.",
+   "The doctor stopped the sympathomimetic because of his heart."
+  ],
+  "note": "Often used as an adjective: \"sympathomimetic drugs.\""
+ },
+ "thiazide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tribulus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "zidovudine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "shiso": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "spironolactone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "shoegaze": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "headbanging": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dripper": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arepa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cabrio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "note": "\"Convertible\" is the usual American word."
+ },
+ "pupusa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "izakaya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An izakaya is a Japanese bar that serves small dishes.",
+   "Let's go to the izakaya after work.",
+   "We ordered grilled chicken and beer at the izakaya.",
+   "Is there a good izakaya near the station?"
+  ],
+  "note": ""
+ },
+ "backlink": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "wireframe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "cron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "promethazine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "calendula": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "Dadaism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fascinator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A fascinator is a small decorative hat with feathers.",
+   "She wore a blue fascinator to the wedding.",
+   "Can I wear a fascinator instead of a big hat?",
+   "The shop sells fascinators for the horse races."
+  ],
+  "note": ""
+ },
+ "acetoacetate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "aminoacyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anti-vaxxer": {
+  "v": "keep",
+  "pm": 0.6,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal and often negative."
+ },
+ "bupivacaine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Bupivacaine is a local anesthetic that numbs the body.",
+   "The dentist used bupivacaine because it lasts longer.",
+   "Bupivacaine was injected into her back before the birth.",
+   "The numbness from bupivacaine can last for hours."
+  ],
+  "note": ""
+ },
+ "chillwave": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Chillwave is calm electronic music with a dreamy sound.",
+   "I listen to chillwave when I work late.",
+   "The band plays chillwave with soft synths.",
+   "This chillwave playlist is great for a slow evening."
+  ],
+  "note": ""
+ },
+ "dangdut": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Dangdut is a popular kind of dance music from Indonesia.",
+   "The wedding band played dangdut all night.",
+   "Dangdut mixes Indian, Arabic, and Malay sounds.",
+   "My Indonesian friend taught me to dance to dangdut."
+  ],
+  "note": ""
+ },
+ "dehydroepiandrosterone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Dehydroepiandrosterone is a hormone made by the adrenal glands.",
+   "Dehydroepiandrosterone is usually called DHEA.",
+   "The blood test measured her dehydroepiandrosterone level.",
+   "Levels of dehydroepiandrosterone fall as people get older."
+  ],
+  "note": ""
+ },
+ "fingerpicking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Fingerpicking means playing guitar strings with your fingers.",
+   "She uses fingerpicking for quiet folk songs.",
+   "Fingerpicking is hard for beginners at first.",
+   "Can you teach me some easy fingerpicking patterns?"
+  ],
+  "note": ""
+ },
+ "glycosyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A glycosyl group comes from a sugar molecule.",
+   "The enzyme moves a glycosyl group to a protein.",
+   "Glycosyl groups help cells recognize each other.",
+   "The lecture explained glycosyl transfer in simple steps."
+  ],
+  "note": ""
+ },
+ "ijtihad": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Ijtihad means independent thinking in Islamic law.",
+   "Scholars use ijtihad when old texts give no clear answer.",
+   "The book discusses ijtihad in the modern world.",
+   "Some reformers want more ijtihad in religious education."
+  ],
+  "note": ""
+ },
+ "medroxyprogesterone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Medroxyprogesterone is a hormone used in birth control shots.",
+   "She gets a medroxyprogesterone injection every three months.",
+   "Medroxyprogesterone can also treat heavy periods.",
+   "The doctor explained the side effects of medroxyprogesterone."
+  ],
+  "note": ""
+ },
+ "muscovado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Muscovado is dark brown sugar with a strong taste.",
+   "Use muscovado to make the cookies soft and rich.",
+   "Muscovado tastes a little like toffee.",
+   "Can I use muscovado instead of white sugar?"
+  ],
+  "note": ""
+ },
+ "prefetch": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "shibori": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Shibori is a Japanese way of dyeing cloth.",
+   "She made a blue shibori scarf in the workshop.",
+   "In shibori, you fold and tie the fabric before dyeing.",
+   "The shop sells shibori pillow covers."
+  ],
+  "note": ""
+ },
+ "silyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A silyl group contains a silicon atom.",
+   "Chemists use a silyl group to protect the molecule.",
+   "The reaction removes the silyl group at the end.",
+   "The paper describes a new silyl compound."
+  ],
+  "note": ""
+ },
+ "singletrack": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A singletrack is a narrow trail for one bike.",
+   "We rode the forest singletrack on our mountain bikes.",
+   "The singletrack is steep and full of roots.",
+   "Is this singletrack open to hikers too?"
+  ],
+  "note": ""
+ },
+ "tadalafil": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Tadalafil is a medicine for erectile problems.",
+   "Tadalafil can also help men with prostate problems.",
+   "Do not take tadalafil with nitrate heart pills.",
+   "The doctor explained how long tadalafil works."
+  ],
+  "note": ""
+ },
+ "takfir": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Takfir means calling another Muslim an unbeliever.",
+   "Most Muslim scholars reject extreme takfir.",
+   "Extremist groups use takfir to justify violence.",
+   "The lecture explained the history of takfir."
+  ],
+  "note": ""
+ },
+ "tokusatsu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Tokusatsu is Japanese film or TV with special effects.",
+   "Giant monster movies are a type of tokusatsu.",
+   "He watches tokusatsu shows with heroes in colorful suits.",
+   "Tokusatsu often uses actors in rubber monster costumes."
+  ],
+  "note": ""
+ },
+ "vardenafil": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Vardenafil is a medicine for erectile problems.",
+   "Take vardenafil about an hour before you need it.",
+   "Vardenafil can cause headaches in some men.",
+   "Do not take vardenafil with nitrate heart pills."
+  ],
+  "note": ""
+ },
+ "kriya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A kriya is a yoga exercise for body and mind.",
+   "The teacher showed us a breathing kriya.",
+   "Do this kriya every morning for ten minutes.",
+   "Each kriya uses breath, movement, and sound."
+  ],
+  "note": ""
+ },
+ "vlogging": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kathak": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "prajna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "irrigator": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": "Also \"water flosser\" in everyday speech."
+ },
+ "resolver": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "noisette": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Noisette means hazelnut in French cooking.",
+   "This chocolate has a soft noisette filling.",
+   "Cook the butter until it turns brown and noisette.",
+   "Can I have a café noisette with a little milk?"
+  ],
+  "note": "\"Noisette\" can also mean a small round piece of meat, like \"lamb noisettes.\""
+ },
+ "citalopram": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hutong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "billon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "diethylamide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "spinifex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Spinifex is a spiky grass that grows in Australian deserts.",
+   "The hills were covered in yellow spinifex.",
+   "Spinifex helps hold the sand in place.",
+   "Wear long pants because spinifex can scratch your legs."
+  ],
+  "note": ""
+ },
+ "secco": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Secco is painting on dry plaster.",
+   "The artist added the details in secco.",
+   "Secco paint can flake off the wall over time.",
+   "The church has frescoes and some secco work."
+  ],
+  "note": ""
+ },
+ "babymoon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "A babymoon is a trip before the baby is born.",
+   "We went to the sea for our babymoon.",
+   "Many hotels offer special babymoon packages.",
+   "Plan your babymoon before the last months of pregnancy."
+  ],
+  "note": ""
+ },
+ "shashlik": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "glucan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "anandamide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Anandamide is a natural chemical in the brain.",
+   "Anandamide helps control mood and pain.",
+   "Exercise may raise anandamide levels in the body.",
+   "Scientists study anandamide to understand appetite."
+  ],
+  "note": ""
+ },
+ "antifouling": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Antifouling is a special paint for the bottom of boats.",
+   "We put new antifouling on the boat every spring.",
+   "Antifouling stops plants and shells from growing on the hull.",
+   "Some antifouling is harmful to sea life."
+  ],
+  "note": ""
+ },
+ "dakimakura": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "eSIM": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "footgolf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kraton": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually spelled \"craton.\" \"Kraton\" also means a palace in Java."
+ },
+ "logline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A logline is a one-sentence summary of a movie.",
+   "Write a short logline for your script.",
+   "The producer liked the logline and asked for the script.",
+   "A good logline shows the hero and the problem."
+  ],
+  "note": ""
+ },
+ "magnox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "oloroso": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "particularism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pothos": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sattva": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "silicide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "A silicide is a compound of silicon and a metal.",
+   "Computer chips use metal silicide in their contacts.",
+   "Nickel silicide helps electricity flow well.",
+   "The engineers tested a new silicide layer."
+  ],
+  "note": ""
+ },
+ "softbox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "sostenuto": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "survivalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "urbex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; short for \"urban exploration\"."
+ },
+ "wastegate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "manhwa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "uptrend": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "gabber": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Gabber is very fast and loud electronic dance music.",
+   "Gabber started in the Netherlands in the 1990s.",
+   "The club plays gabber on Friday nights.",
+   "Gabber fans often dance very fast."
+  ],
+  "note": "Also informal: a person who talks a lot."
+ },
+ "montgolfier": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "A montgolfier is an old type of hot-air balloon.",
+   "The museum has a model of a montgolfier.",
+   "A montgolfier rises because hot air is lighter.",
+   "The festival ended with a flight of a paper montgolfier."
+  ],
+  "note": "Most often \"Montgolfier\" is the name of the French brothers who made the first hot-air balloon."
+ },
+ "lambic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "havildar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A havildar is a sergeant in the Indian army.",
+   "The havildar trained the young soldiers.",
+   "He was promoted to havildar after ten years.",
+   "The havildar checked the soldiers' uniforms."
+  ],
+  "note": ""
+ },
+ "zarzuela": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A zarzuela is a Spanish light opera with songs and speech.",
+   "We saw a zarzuela at the theater in Madrid.",
+   "A zarzuela mixes singing, dancing, and comedy.",
+   "Her grandmother loves the music from old zarzuelas."
+  ],
+  "note": "\"Zarzuela\" can also mean a Spanish seafood stew."
+ },
+ "overclocking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "animatic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "agaric": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "An agaric is a mushroom with gills under the cap.",
+   "The red fly agaric is very poisonous.",
+   "Do not eat any agaric you cannot identify.",
+   "The book shows many kinds of agaric."
+  ],
+  "note": ""
+ },
+ "tessera": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A tessera is a small piece of stone or glass in a mosaic.",
+   "Each tessera in the floor is a different color.",
+   "The artist glued every tessera by hand.",
+   "One gold tessera was missing from the old mosaic."
+  ],
+  "note": ""
+ },
+ "panicker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "note": "Informal."
+ },
+ "countertenor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A countertenor is a man who sings very high.",
+   "The countertenor sang the role of the angel.",
+   "Countertenors often sing old church music.",
+   "Our choir needs a countertenor for this piece."
+  ],
+  "note": ""
+ },
+ "retargeting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "minigun": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cyberstalking": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rubato": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "ahegao": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Slang with a sexual meaning; avoid in formal situations."
+ },
+ "ashwagandha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "balun": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "berberine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "biomonitoring": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "canyoning": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "diethylstilbestrol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Diethylstilbestrol is a man-made form of estrogen.",
+   "Doctors once gave diethylstilbestrol to pregnant women.",
+   "Diethylstilbestrol is often called DES.",
+   "Diethylstilbestrol caused health problems in the children of these women."
+  ],
+  "note": ""
+ },
+ "duiker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A duiker is a small African antelope.",
+   "The duiker hides in thick bushes.",
+   "We saw a duiker on our safari.",
+   "A duiker eats leaves, fruit, and flowers."
+  ],
+  "note": ""
+ },
+ "ephod": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "An ephod is a special robe worn by priests in the Bible.",
+   "The high priest wore a golden ephod.",
+   "The ephod had two stones on the shoulders.",
+   "The story describes the ephod in detail."
+  ],
+  "note": ""
+ },
+ "epigenome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "The epigenome controls which genes are turned on or off.",
+   "Diet and stress can change the epigenome.",
+   "Scientists mapped the epigenome of blood cells.",
+   "Your epigenome changes as you get older."
+  ],
+  "note": ""
+ },
+ "flexbox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Flexbox is a CSS tool for page layout.",
+   "Use flexbox to put the buttons in one row.",
+   "Flexbox makes it easy to center a box.",
+   "The menu breaks on phones, so check the flexbox settings."
+  ],
+  "note": ""
+ },
+ "harmonizer": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

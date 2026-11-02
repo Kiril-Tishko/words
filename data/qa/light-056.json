@@ -1,0 +1,1285 @@
+{
+ "achtung": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "A German word; English speakers use it only as a joke."
+ },
+ "beatboxing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "diffuser": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "manitou": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polyvinyl chloride": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "hollandaise": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "baklava": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "provolone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ladyboy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "note": "Can be offensive; \"trans woman\" is more respectful."
+ },
+ "wonton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rockabilly": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "debug": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "ex": [
+   "Turn on debug mode to see all the errors.",
+   "I need a quick debug before we send the update.",
+   "The debug log shows a problem with the login page.",
+   "Can you run a debug on this part of the code?"
+  ],
+  "note": "More often a verb: \"debug the code.\" As a noun, \"debugging\" is more common."
+ },
+ "butyl acetate": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Butyl acetate is used in many nail polishes.",
+   "Butyl acetate smells a bit like bananas.",
+   "Store butyl acetate away from heat and open flames.",
+   "This paint contains butyl acetate as a solvent."
+  ],
+  "note": ""
+ },
+ "aphorism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "waitlist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "AMOLED": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cyclin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "xylophone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chutzpah": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "It took real chutzpah to ask the boss for a raise.",
+   "He has a lot of chutzpah for a beginner.",
+   "She showed some chutzpah by speaking up first at the meeting.",
+   "I really admire your chutzpah, but please be careful."
+  ],
+  "note": ""
+ },
+ "terrarium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "imperium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "fisting": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "vulgar"
+  ],
+  "ns": true,
+  "note": "Sexual term; avoid in polite conversation."
+ },
+ "buttercream": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "individualist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "taipan": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "reiki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ficus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hoverboard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chiller": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "balsa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kea": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "katsu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "anatta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "parquet": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "parachutist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "methyl ethyl ketone": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tilapia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ghosting": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "lich": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "electromagnetism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "palomino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "basilisk": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "trilobite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "darshan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "polygamist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The documentary is about a polygamist and his three wives.",
+   "In many countries, a polygamist can go to prison.",
+   "He was arrested as a polygamist last year.",
+   "The polygamist lived with his large family on a farm."
+  ],
+  "note": ""
+ },
+ "shandy": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "I'll have a shandy because it's too hot for beer.",
+   "A shandy is beer mixed with lemonade.",
+   "She ordered a lemon shandy at the bar.",
+   "A cold shandy is a nice light drink for summer."
+  ],
+  "note": "Beer mixed with lemonade or lemon soda; more common in British English."
+ },
+ "yorkie": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "New Ager": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "shar-pei": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "The shar-pei has lots of wrinkles on its face.",
+   "Our shar-pei is calm and very loyal.",
+   "A shar-pei puppy needs special skin care.",
+   "The shar-pei is a dog breed from China."
+  ],
+  "note": ""
+ },
+ "julep": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chronometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "telemarketing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "compactor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mouton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "doubloon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cheesesteak": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "mochi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She bought strawberry mochi at the Asian market.",
+   "Mochi is a soft and chewy rice cake.",
+   "Mango mochi ice cream is my favorite dessert.",
+   "We made mochi together for the New Year."
+  ],
+  "note": ""
+ },
+ "bodysuit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "bhangra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "boilerplate": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The project comes with boilerplate for a basic website.",
+   "I copied some boilerplate code to save time.",
+   "Most of this contract is just standard boilerplate.",
+   "Remove the boilerplate and write your own text."
+  ],
+  "note": ""
+ },
+ "pavlova": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We made a pavlova with fresh berries for dessert.",
+   "A pavlova is crisp outside and soft inside.",
+   "Top the pavlova with whipped cream and fruit.",
+   "My pavlova cracked in the oven last night."
+  ],
+  "note": ""
+ },
+ "crepe de chine": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "inositol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "whitelist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sextant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "biplane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "escargot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Have you ever tried escargot in garlic butter?",
+   "We ordered escargot as a starter at dinner.",
+   "Escargot is a famous French dish made from snails.",
+   "The escargot came on a special plate with small holes."
+  ],
+  "note": ""
+ },
+ "romcom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "Let's watch a romcom at home tonight.",
+   "She loves romcoms with happy endings.",
+   "The new romcom in theaters is very funny.",
+   "This romcom is perfect for a date night."
+  ],
+  "note": ""
+ },
+ "strap-on": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "vulgar"
+  ],
+  "ns": true,
+  "note": "Sexual term; avoid in polite conversation."
+ },
+ "grappa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "time-lapse": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "crunk": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Slang. Also an adjective meaning \"very excited\" or \"drunk.\""
+ },
+ "fata morgana": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bezel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jambalaya": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "redoubt": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "peridot": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "boogaloo": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fullscreen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "sifu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mistral": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "whippet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "voyeurism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "jitterbug": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pilsner": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lorazepam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "softcore": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ersatz product": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "accelerometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cross-dresser": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "stepper": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "note": "Also called a \"stair climber\" or \"step machine.\""
+ },
+ "caisson": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rebbe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "flanker": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "brasserie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "phage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "rial": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bobsleigh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "In American English, usually \"bobsled.\""
+ },
+ "looper": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "chauvinism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "nitrite anion": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "damask": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "kuna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "internist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ankh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "troubleshooting": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "trike": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "cubism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Cubism shows objects from many angles at once.",
+   "Cubism started in Paris in the early 1900s.",
+   "The museum has a new exhibit on cubism.",
+   "She studied cubism in her art history class."
+  ],
+  "note": ""
+ },
+ "praetor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "reseller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "bindi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fader": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "barbican": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ribeye": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "toucan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "parabola": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hindutva": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mass spectrograph": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "honeypot": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "note": "Also \"honey pot\": a pot for honey, or something that attracts people."
+ },
+ "heliport": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "shiatsu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "auto-tune": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "The singer uses too much auto-tune on this album.",
+   "Auto-tune can make a voice sound like a robot.",
+   "This song sounds great without any auto-tune.",
+   "Can you add some auto-tune to the chorus?"
+  ],
+  "note": "Often written as Auto-Tune, a brand name."
+ },
+ "hypermarket": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "maca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "maraca": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "beta spectrograph": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "tesseract": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A tesseract is a cube in four dimensions.",
+   "The teacher showed us a model of a tesseract.",
+   "It's very hard to imagine a real tesseract.",
+   "This computer drawing shows a tesseract turning slowly."
+  ],
+  "note": ""
+ },
+ "shuffleboard": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "rollback": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "borax": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "macadam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "autocrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "al dente": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aspartame": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "apogee": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "despotism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "brulee": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "For dessert, I'll have the creme brulee, please.",
+   "Crack the sugar top of the brulee with a spoon.",
+   "This vanilla brulee is rich and creamy.",
+   "She makes brulee with a small kitchen torch."
+  ],
+  "note": "Usually part of \"creme brulee\": a cream dessert with burnt sugar on top."
+ },
+ "prepper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "lavage": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "superfood": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Blueberries are often called a superfood.",
+   "She adds superfoods like chia seeds to her breakfast.",
+   "Kale is a popular superfood in many salads.",
+   "Don't believe every superfood ad you see online."
+  ],
+  "note": ""
+ },
+ "pula": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "presidium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "lulz": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "ex": [
+   "He posted the silly picture just for the lulz.",
+   "They did it for the lulz, not to hurt anyone.",
+   "That video in the group chat was pure lulz.",
+   "Some trolls online only care about the lulz."
+  ],
+  "note": "Very informal internet slang."
+ },
+ "Mameluke": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "croton": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stalactite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "alcazar": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fettuccine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "scheduler": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "habanero": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gurdwara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "slo-mo": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "technocrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "infuser": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "autoplay": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "pampa": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "outro": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "erg": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "septicemia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "oryx": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ }
+}

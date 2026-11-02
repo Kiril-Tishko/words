@@ -1,0 +1,46 @@
+{
+ "chancellor": {
+  "v": "similar",
+  "why": "different root shape: chancellor vs канцлер (German Kanzler)"
+ },
+ "rava": {
+  "v": "not_english",
+  "why": "precision audit: both judges, not an English word"
+ },
+ "premier division": {
+  "v": "proper_noun",
+  "why": "precision audit: a league name, not a word"
+ },
+ "DAISY player": {
+  "v": "proper_noun",
+  "why": "precision audit: product name"
+ },
+ "carapace": {
+  "v": "similar",
+  "why": "precision audit: carapace vs карапакс"
+ },
+ "hellenism": {
+  "v": "similar",
+  "why": "precision audit: hellen- vs еллін-"
+ },
+ "Bordeaux": {
+  "v": "proper_noun",
+  "why": "precision audit: place name"
+ },
+ "PC": {
+  "v": "false_friend",
+  "why": "precision audit: ПК is the Ukrainian abbreviation of персональний комп'ютер, not a borrowing"
+ },
+ "round": {
+  "v": "partial_false_friend",
+  "why": "precision audit: раунд is only a round of a fight or talks; round is mostly круглий / коло"
+ },
+ "yard": {
+  "v": "partial_false_friend",
+  "why": "precision audit: yard mostly means двір"
+ },
+ "titan": {
+  "v": "partial_false_friend",
+  "why": "precision audit: титан is mostly the metal titanium"
+ }
+}

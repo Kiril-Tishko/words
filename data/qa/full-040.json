@@ -1,0 +1,601 @@
+{
+ "output": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "an output · outputs",
+  "say": "",
+  "note": "Most often \"output\" means the amount made: \"The factory's output grew this year.\"",
+  "ex": [
+   "Check the output of the program for errors.",
+   "The program shows its output on the screen.",
+   "Please save the output to a text file.",
+   "Why is the output of my code empty?"
+  ]
+ },
+ "streak": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a streak · streaks",
+  "say": "",
+  "note": ""
+ },
+ "internet meme": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet meme · internet memes",
+  "say": "",
+  "note": "Usually just called a \"meme\"."
+ },
+ "lounge bar": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a lounge bar · lounge bars",
+  "say": "",
+  "note": "In American English often just \"lounge\" or \"cocktail lounge\"."
+ },
+ "jazz rhythm": {
+  "v": "not_standard_ukrainian",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a jazz rhythm · jazz rhythms",
+  "say": "",
+  "note": ""
+ },
+ "copy-paste": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "copy-paste · uncountable",
+  "say": "",
+  "note": "Informal. As a verb people often say \"copy and paste the text.\"",
+  "ex": [
+   "The report was mostly copy-paste from last year.",
+   "Is this essay your own work or just copy-paste?",
+   "Copy-paste saves a lot of time with long addresses.",
+   "Too much copy-paste makes your code hard to fix."
+  ]
+ },
+ "batch": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a batch · batches",
+  "say": "",
+  "note": "Most often \"batch\" means things made together: \"a batch of cookies.\""
+ },
+ "video blogger": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a video blogger · video bloggers",
+  "say": "",
+  "note": "Often shortened to \"vlogger\"."
+ },
+ "sierra": {
+  "v": "keep",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a sierra · sierras",
+  "say": "",
+  "note": "Most often \"Sierra\" is part of a name: \"the Sierra Nevada\" mountains in California."
+ },
+ "touchdown": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a touchdown · touchdowns",
+  "say": "",
+  "note": "Also means a plane landing: \"The touchdown was smooth.\""
+ },
+ "travel blogger": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a travel blogger · travel bloggers",
+  "say": "",
+  "note": ""
+ },
+ "grill bar": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a grill bar · grill bars",
+  "say": "",
+  "note": "\"Bar and grill\" is the more common American phrase."
+ },
+ "bot account": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a bot account · bot accounts",
+  "say": "",
+  "note": ""
+ },
+ "layout": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a layout · layouts",
+  "say": "",
+  "note": "Also the plan of a room or building: \"the layout of the apartment.\""
+ },
+ "bot farm": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a bot farm · bot farms",
+  "say": "",
+  "note": ""
+ },
+ "disco club": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a disco club · disco clubs",
+  "say": "",
+  "note": "Americans usually say \"nightclub\" or \"club\"."
+ },
+ "water polo": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "water polo · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "sovereign": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a sovereign · sovereigns",
+  "say": "",
+  "note": "Most often \"sovereign\" is an adjective meaning independent: \"a sovereign country.\""
+ },
+ "disco bar": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a disco bar · disco bars",
+  "say": "",
+  "note": ""
+ },
+ "eco club": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an eco club · eco clubs",
+  "say": "",
+  "note": ""
+ },
+ "eco-center": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "an eco-center · eco-centers",
+  "say": "",
+  "note": ""
+ },
+ "VIP client": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a VIP client · VIP clients",
+  "say": "",
+  "note": ""
+ },
+ "prank video": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a prank video · prank videos",
+  "say": "",
+  "note": ""
+ },
+ "diesel generator": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a diesel generator · diesel generators",
+  "say": "",
+  "note": ""
+ },
+ "rewrite": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a rewrite · rewrites",
+  "say": "",
+  "note": "Most often \"rewrite\" is a verb: \"Please rewrite this sentence.\""
+ },
+ "rebound": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a rebound · rebounds",
+  "say": "",
+  "note": "Also a return to a better level: \"a rebound in prices.\" Often a verb too."
+ },
+ "life hacker": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a life hacker · life hackers",
+  "say": "",
+  "note": "Rare and informal.",
+  "ex": [
+   "My roommate is a true life hacker at home.",
+   "The life hacker shared tips for saving time.",
+   "Every life hacker loves a good shortcut.",
+   "She follows a life hacker who organizes small kitchens."
+  ]
+ },
+ "sticker pack": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a sticker pack · sticker packs",
+  "say": "",
+  "note": ""
+ },
+ "rage bait": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "rage bait · uncountable",
+  "say": "",
+  "note": "Informal; uncountable: \"That post is rage bait.\""
+ },
+ "circular": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a circular · circulars",
+  "say": "",
+  "note": "Most often \"circular\" is an adjective meaning round: \"a circular table.\""
+ },
+ "hiking": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "hiking · uncountable",
+  "say": "",
+  "note": "Uncountable; we say \"go hiking\" (not \"do a hiking\")."
+ },
+ "junkie": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a junkie · junkies",
+  "say": "",
+  "note": "Informal and offensive; \"drug addict\" is more neutral. Also \"a news junkie\" (a big fan)."
+ },
+ "merge": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a merge · merges",
+  "say": "",
+  "note": "Most often \"merge\" is a verb: \"The two roads merge here.\""
+ },
+ "expo center": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "an expo center · expo centers",
+  "say": "",
+  "note": ""
+ },
+ "jazz fest": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a jazz fest · jazz fests",
+  "say": "",
+  "note": "Informal for \"jazz festival\"."
+ },
+ "vibe coding": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "vibe coding · uncountable",
+  "say": "",
+  "note": "Informal; uncountable."
+ },
+ "revival": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a revival · revivals",
+  "say": "",
+  "note": "Also a return to strength: \"an economic revival.\""
+ },
+ "IQ": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an IQ · IQs",
+  "say": "",
+  "note": "Say \"an IQ\": it starts with a vowel sound."
+ },
+ "glitter": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "glitter · uncountable",
+  "say": "",
+  "note": "Uncountable: some glitter, a lot of glitter (not \"a glitter\")."
+ },
+ "stokes": {
+  "v": "keep",
+  "s": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a stokes · stokes",
+  "say": "",
+  "note": "Most often \"stokes\" is a verb form: \"He stokes the fire.\" It is also a surname.",
+  "ex": [
+   "The stokes is a unit for how thick a liquid is.",
+   "Engineers sometimes measure motor oil in stokes.",
+   "Honey has a much higher value in stokes than water.",
+   "Today most engineers use other units instead of stokes."
+  ]
+ },
+ "telecom operator": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a telecom operator · telecom operators",
+  "say": "",
+  "note": ""
+ },
+ "sex show": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a sex show · sex shows",
+  "say": "",
+  "note": ""
+ },
+ "face art": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "face art · uncountable",
+  "say": "",
+  "note": "Americans usually say \"face painting\"."
+ },
+ "case management": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "case management · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "book value": {
+  "v": "not_standard_ukrainian",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a book value · book values",
+  "say": "",
+  "note": ""
+ },
+ "sound art": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "sound art · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "sex club": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a sex club · sex clubs",
+  "say": "",
+  "note": ""
+ },
+ "sex film": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a sex film · sex films",
+  "say": "",
+  "note": "\"Adult film\" is more common."
+ },
+ "city manager": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a city manager · city managers",
+  "say": "",
+  "note": ""
+ },
+ "light contact": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "light contact · uncountable",
+  "say": "",
+  "note": "Also any gentle touch: \"light contact with the skin.\""
+ },
+ "space rock": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "space rock · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "beat club": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a beat club · beat clubs",
+  "say": "",
+  "note": "Dated: a 1960s club with beat music; today people just say \"club\"."
+ },
+ "speed test": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a speed test · speed tests",
+  "say": "",
+  "note": ""
+ },
+ "live score": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a live score · live scores",
+  "say": "",
+  "note": ""
+ },
+ "gas oil": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "gas oil · uncountable",
+  "say": "",
+  "note": "Technical; in everyday American English people usually say \"diesel\"."
+ },
+ "dark store": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a dark store · dark stores",
+  "say": "",
+  "note": ""
+ },
+ "ice bar": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an ice bar · ice bars",
+  "say": "",
+  "note": ""
+ },
+ "skin effect": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the skin effect",
+  "say": "",
+  "note": ""
+ },
+ "brand voice": {
+  "v": "not_standard_ukrainian",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a brand voice · brand voices",
+  "say": "",
+  "note": ""
+ },
+ "tea light": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a tea light · tea lights",
+  "say": "",
+  "note": ""
+ }
+}

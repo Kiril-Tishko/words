@@ -87,7 +87,8 @@ USAGE = {'archaic', 'obsolete', 'dated', 'literary', 'informal', 'slang', 'abbre
 
 def clean_uk(s):
     s = unicodedata.normalize('NFC', (s or '').strip()).replace('’', "'").replace('ʼ', "'")
-    return ''.join(ch for ch in unicodedata.normalize('NFD', s) if ch != '́').strip()
+    # drop stress marks, then recompose: й and ї must stay single letters (NFC), not и/і + a combining mark
+    return unicodedata.normalize('NFC', ''.join(ch for ch in unicodedata.normalize('NFD', s) if ch != '́')).strip()
 
 
 def clean_en(s):
@@ -194,7 +195,7 @@ def main():
         try:
             for k, v in json.load(open(f, encoding='utf-8')).items():
                 if isinstance(v, dict):
-                    qa[k] = v
+                    qa[k] = {**qa.get(k, {}), **v}   # later files (e.g. zz-*.json review fixes) refine earlier ones
         except Exception as e:
             print('skip broken', f, e, file=sys.stderr)
     for k, v in qa.items():          # the QA's share estimate (with the card's meaning in view) wins

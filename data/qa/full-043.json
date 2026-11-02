@@ -1,0 +1,620 @@
+{
+ "redesign": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a redesign · redesigns",
+  "say": "",
+  "note": "Also a verb: \"They redesigned the website.\""
+ },
+ "vacuum compressor": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a vacuum compressor · vacuum compressors",
+  "say": "",
+  "note": ""
+ },
+ "adjunct professor": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an adjunct professor · adjunct professors",
+  "say": "",
+  "note": "In the US, a part-time college teacher, usually paid per class."
+ },
+ "redneck": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a redneck · rednecks",
+  "say": "",
+  "note": "Informal and often offensive: a poor white person from the US countryside."
+ },
+ "topping": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a topping · toppings",
+  "say": "",
+  "note": "Also a form of the verb \"top\": \"The song is topping the charts.\""
+ },
+ "mayday": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "The international radio call for help, said three times: \"Mayday, mayday, mayday!\""
+ },
+ "ganja": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "ganja · uncountable",
+  "say": "",
+  "note": "Slang. The common word is marijuana or weed."
+ },
+ "milkshake": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a milkshake · milkshakes",
+  "say": "",
+  "note": ""
+ },
+ "slut shaming": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "slut shaming · uncountable",
+  "say": "",
+  "note": "Often written \"slut-shaming\"."
+ },
+ "hustler": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a hustler · hustlers",
+  "say": "",
+  "note": "Informal; can mean a cheater or a very hardworking person."
+ },
+ "intercom": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an intercom · intercoms",
+  "say": "",
+  "note": ""
+ },
+ "torrent tracker": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a torrent tracker · torrent trackers",
+  "say": "",
+  "note": ""
+ },
+ "floss": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "floss · uncountable",
+  "say": "",
+  "note": "Uncountable: some floss, a piece of floss. Also a verb: \"Floss your teeth.\""
+ },
+ "alma mater": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "an alma mater · alma maters",
+  "say": "",
+  "note": ""
+ },
+ "gin tonic": {
+  "v": "not_english",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a gin tonic · gin tonics",
+  "say": "",
+  "note": "In English the drink is called \"gin and tonic\"."
+ },
+ "antigen test": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "an antigen test · antigen tests",
+  "say": "",
+  "note": ""
+ },
+ "fax modem": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical",
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a fax modem · fax modems",
+  "say": "",
+  "note": ""
+ },
+ "mitzvah": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a mitzvah · mitzvahs",
+  "say": "",
+  "note": "Often in \"bar mitzvah\": a Jewish ceremony for a boy who turns 13."
+ },
+ "ad blocker": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "an ad blocker · ad blockers",
+  "say": "",
+  "note": ""
+ },
+ "Balkan beat": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "Balkan beat · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "They played Balkan beat all night at the party.",
+   "Balkan beat mixes brass band music with electronic dance music.",
+   "I love dancing to Balkan beat at summer festivals.",
+   "Do you know any good Balkan beat songs for a party?"
+  ]
+ },
+ "synth": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a synth · synths",
+  "say": "",
+  "note": "Informal short form of synthesizer."
+ },
+ "gamma photon": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a gamma photon · gamma photons",
+  "say": "",
+  "note": ""
+ },
+ "silica gel": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "silica gel · uncountable",
+  "say": "",
+  "note": "Uncountable: a bag of silica gel (not \"a silica gel\")."
+ },
+ "ultraviolet": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "ultraviolet · uncountable",
+  "say": "",
+  "note": "Mostly an adjective: \"ultraviolet light,\" \"ultraviolet rays.\" Often shortened to UV."
+ },
+ "bonjour": {
+  "v": "not_english",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "French greeting; used jokingly in English."
+ },
+ "street skateboarding": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "street skateboarding · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "gel peeling": {
+  "v": "not_english",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "gram": "a gel peeling · gel peelings",
+  "say": "",
+  "note": "In English this is usually a \"gel peel\" or a \"peeling gel\"."
+ },
+ "jukebox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a jukebox · jukeboxes",
+  "say": "",
+  "note": ""
+ },
+ "proto-Renaissance": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the proto-Renaissance",
+  "say": "",
+  "note": "Often written \"Proto-Renaissance\".",
+  "ex": [
+   "We studied the proto-Renaissance in our art history class.",
+   "The proto-Renaissance began in Italy in the thirteenth century.",
+   "Proto-Renaissance artists painted more natural faces and bodies.",
+   "This museum room shows paintings from the proto-Renaissance."
+  ]
+ },
+ "linebacker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a linebacker · linebackers",
+  "say": "",
+  "note": "A defensive player in American football."
+ },
+ "follow-up": {
+  "v": "keep",
+  "pm": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "a follow-up · follow-ups",
+  "say": "",
+  "note": "The verb is two words: \"I will follow up on your email.\""
+ },
+ "duplex process": {
+  "v": "keep",
+  "pm": 0.01,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a duplex process · duplex processes",
+  "say": "",
+  "note": ""
+ },
+ "gif": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a gif · gifs",
+  "say": "",
+  "note": "Also written GIF."
+ },
+ "routing": {
+  "v": "keep",
+  "s": 35,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "routing · uncountable",
+  "say": "",
+  "note": "Also planning routes for trucks or deliveries, and a US bank \"routing number\".",
+  "ex": [
+   "The router handles routing for all computers in the office.",
+   "Bad routing can make your internet connection slow.",
+   "He fixed a routing problem on the company network.",
+   "Routing decides which way data travels across the internet."
+  ]
+ },
+ "picker": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "a picker · pickers",
+  "say": "",
+  "note": "Also a person who picks fruit: \"an apple picker.\""
+ },
+ "in-folio": {
+  "v": "not_english",
+  "pm": 0.01,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an in-folio · in-folios",
+  "say": "",
+  "note": "In English such a large book is called a \"folio\"."
+ },
+ "inbox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an inbox · inboxes",
+  "say": "",
+  "note": ""
+ },
+ "Scotch terrier": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a Scotch terrier · Scotch terriers",
+  "say": "",
+  "note": "Also called a Scottish terrier or a \"Scottie\"."
+ },
+ "improv": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "improv · uncountable",
+  "say": "",
+  "note": "Informal short form of improvisation."
+ },
+ "piazza": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a piazza · piazzas",
+  "say": "",
+  "note": "Used for a public square, especially in an Italian town."
+ },
+ "keynote": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a keynote · keynotes",
+  "say": "",
+  "note": "Often \"keynote speech\" or \"keynote speaker\"."
+ },
+ "quaker": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a Quaker · Quakers",
+  "say": "",
+  "note": "Usually written with a capital Q: Quaker."
+ },
+ "lite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Informal spelling of light, used on products."
+ },
+ "crucifix": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a crucifix · crucifixes",
+  "say": "",
+  "note": ""
+ },
+ "shoplifting": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "shoplifting · uncountable",
+  "say": "",
+  "note": "Uncountable. The person is a \"shoplifter\"; the verb is \"shoplift\"."
+ },
+ "gopher": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a gopher · gophers",
+  "say": "",
+  "note": ""
+ },
+ "bass clarinet": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a bass clarinet · bass clarinets",
+  "say": "",
+  "note": ""
+ },
+ "close-up": {
+  "v": "keep",
+  "pm": 15,
+  "reg": [],
+  "ns": true,
+  "gram": "a close-up · close-ups",
+  "say": "",
+  "note": ""
+ },
+ "caddy": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a caddy · caddies",
+  "say": "",
+  "note": "Also spelled caddie. A \"tea caddy\" is a small box for tea."
+ },
+ "QR code": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a QR code · QR codes",
+  "say": "",
+  "note": ""
+ },
+ "demos": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the demos",
+  "say": "",
+  "note": "Most often \"demos\" is the plural of \"demo\": \"The band sent us two demos.\""
+ },
+ "tropics": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "the tropics · plural",
+  "say": "",
+  "note": "Always plural and usually with the."
+ },
+ "runtime": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a runtime · runtimes",
+  "say": "",
+  "note": "Also the length of a movie: \"The film has a runtime of two hours.\""
+ },
+ "caddie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a caddie · caddies",
+  "say": "",
+  "note": "Also spelled caddy."
+ },
+ "diss": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a diss · disses",
+  "say": "",
+  "note": "Slang. Also a verb: \"Don't diss my friends.\""
+ },
+ "loafer": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a loafer · loafers",
+  "say": "",
+  "note": "Also, less often, a lazy person."
+ },
+ "trio sonata": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a trio sonata · trio sonatas",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A trio sonata is often played by four musicians.",
+   "We heard a lovely trio sonata at the church concert.",
+   "This trio sonata is written for two violins and a cello.",
+   "Can your group play a trio sonata at our wedding?"
+  ]
+ },
+ "ice revue": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": true,
+  "gram": "an ice revue · ice revues",
+  "say": "",
+  "note": "Today usually called an \"ice show\"."
+ },
+ "zenith telescope": {
+  "v": "keep",
+  "pm": 0.01,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a zenith telescope · zenith telescopes",
+  "say": "",
+  "note": ""
+ },
+ "correlate": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a correlate · correlates",
+  "say": "",
+  "note": "Most often a verb: \"Sleep correlates with good health.\"",
+  "ex": [
+   "Sleep is an important correlate of good health.",
+   "Researchers found a correlate of happiness in the brain.",
+   "Income is a strong correlate of education level.",
+   "Scientists are looking for a brain correlate of fear."
+  ]
+ }
+}

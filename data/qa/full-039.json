@@ -1,0 +1,608 @@
+{
+ "business climate": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "the business climate · usually singular",
+  "say": "",
+  "note": ""
+ },
+ "Big Tech": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "Big Tech · no article",
+  "say": "",
+  "note": ""
+ },
+ "fast fashion": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "fast fashion · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "internet traffic": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "internet traffic · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of internet traffic (not \"an internet traffic\")."
+ },
+ "climate control": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "climate control · uncountable",
+  "say": "",
+  "ex": [
+   "Does this car have climate control?",
+   "Can you turn down the climate control, please?",
+   "The climate control in our office is broken.",
+   "Climate control keeps the car cool in summer."
+  ],
+  "note": ""
+ },
+ "grand hotel": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a grand hotel · grand hotels",
+  "say": "",
+  "ex": [
+   "We stayed at an old grand hotel by the sea.",
+   "The grand hotel has a big, beautiful dining room.",
+   "Can we have coffee at the grand hotel?",
+   "Their wedding was in a grand hotel downtown."
+  ],
+  "note": ""
+ },
+ "double-click": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a double-click · double-clicks",
+  "say": "",
+  "note": "More often a verb: \"Double-click the icon to open it.\""
+ },
+ "stress test": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a stress test · stress tests",
+  "say": "",
+  "ex": [
+   "The doctor wants me to do a stress test.",
+   "The stress test showed that his heart is healthy.",
+   "All big banks must pass a stress test every year.",
+   "The stress test checks if a bank can survive a crisis."
+  ],
+  "note": ""
+ },
+ "car sharing": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "car sharing · uncountable",
+  "say": "",
+  "ex": [
+   "I use car sharing to get around the city.",
+   "Car sharing is cheaper than owning a car.",
+   "Is there a car sharing app in this city?",
+   "Car sharing is popular with students and young workers."
+  ],
+  "note": "Also written \"carsharing\"."
+ },
+ "stress management": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "stress management · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "tech lead": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a tech lead · tech leads",
+  "say": "",
+  "note": ""
+ },
+ "urban art": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "urban art · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "body painting": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "gram": "body painting · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "urban design": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "urban design · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "urban park": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an urban park · urban parks",
+  "say": "",
+  "note": "People usually just say \"city park\" or \"park\"."
+ },
+ "risk factor": {
+  "v": "keep",
+  "pm": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a risk factor · risk factors",
+  "say": "",
+  "note": ""
+ },
+ "retail business": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a retail business · retail businesses",
+  "say": "",
+  "note": ""
+ },
+ "shopping tour": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "a shopping tour · shopping tours",
+  "say": "",
+  "note": ""
+ },
+ "bike show": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a bike show · bike shows",
+  "say": "",
+  "note": ""
+ },
+ "motor show": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a motor show · motor shows",
+  "say": "",
+  "note": "British; Americans usually say \"auto show\" or \"car show\"."
+ },
+ "wow factor": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "the wow factor · usually singular",
+  "say": "",
+  "note": "Often with \"have\": \"This room has the wow factor.\""
+ },
+ "grace period": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a grace period · grace periods",
+  "say": "",
+  "note": ""
+ },
+ "duty-free shop": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": true,
+  "gram": "a duty-free shop · duty-free shops",
+  "say": "",
+  "note": ""
+ },
+ "food porn": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "food porn · uncountable",
+  "say": "",
+  "note": "Informal and humorous; means attractive photos or videos of food."
+ },
+ "street racing": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "street racing · uncountable",
+  "say": "",
+  "ex": [
+   "Street racing is illegal and very dangerous.",
+   "Police stopped a group of young men for street racing.",
+   "The movie is about street racing in Los Angeles.",
+   "The city added cameras to stop street racing."
+  ],
+  "note": ""
+ },
+ "auto club": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "an auto club · auto clubs",
+  "say": "",
+  "note": "In the US, often a group that helps drivers when their car breaks down."
+ },
+ "game designer": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a game designer · game designers",
+  "say": "",
+  "note": ""
+ },
+ "touch panel": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a touch panel · touch panels",
+  "say": "",
+  "note": ""
+ },
+ "urban festival": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "an urban festival · urban festivals",
+  "say": "",
+  "note": ""
+ },
+ "audio album": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "gram": "an audio album · audio albums",
+  "say": "",
+  "note": "Usually just called an \"album\"."
+ },
+ "business forum": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a business forum · business forums",
+  "say": "",
+  "note": ""
+ },
+ "stand-up comic": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": false,
+  "gram": "a stand-up comic · stand-up comics",
+  "say": "",
+  "note": "Also called a \"stand-up comedian\"."
+ },
+ "name-dropping": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "name-dropping · uncountable",
+  "say": "",
+  "note": "Usually negative."
+ },
+ "internet resource": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet resource · internet resources",
+  "say": "",
+  "note": "\"Online resource\" is more common."
+ },
+ "baby boom": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a baby boom · baby booms",
+  "say": "",
+  "note": ""
+ },
+ "trip hop": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "trip hop · uncountable",
+  "say": "",
+  "ex": [
+   "Trip hop has slow beats and a dark mood.",
+   "She listens to trip hop late at night.",
+   "The band mixes trip hop and jazz.",
+   "Trip hop was very popular in the 1990s."
+  ],
+  "note": "Also written \"trip-hop\"."
+ },
+ "sex symbol": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a sex symbol · sex symbols",
+  "say": "",
+  "note": ""
+ },
+ "strip bar": {
+  "v": "keep",
+  "pm": 0.4,
+  "reg": [],
+  "ns": false,
+  "gram": "a strip bar · strip bars",
+  "say": "",
+  "ex": [
+   "A new strip bar opened near the highway.",
+   "People in the area don't want a strip bar there.",
+   "His friends took him to a strip bar before the wedding.",
+   "You must be eighteen or older to enter a strip bar."
+  ],
+  "note": "\"Strip club\" is more common."
+ },
+ "chill-out": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "chill-out · uncountable",
+  "say": "",
+  "ex": [
+   "The cafe plays chill-out music all day.",
+   "I listen to chill-out music when I study.",
+   "Can you put on some chill-out music, please?",
+   "Chill-out is perfect for a quiet evening at home."
+  ],
+  "note": "Usually used before \"music\": \"chill-out music\"."
+ },
+ "BASE jumping": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "BASE jumping · uncountable",
+  "say": "",
+  "ex": [
+   "BASE jumping is a very dangerous sport.",
+   "He tried BASE jumping from a high cliff.",
+   "BASE jumping is not allowed in some national parks.",
+   "She loves extreme sports like BASE jumping and skydiving."
+  ],
+  "note": "BASE stands for building, antenna, span, earth: places people jump from."
+ },
+ "beta test": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a beta test · beta tests",
+  "say": "",
+  "note": ""
+ },
+ "opinion maker": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "an opinion maker · opinion makers",
+  "say": "",
+  "note": "\"Opinion leader\" or \"influencer\" is more common."
+ },
+ "HR manager": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "gram": "an HR manager · HR managers",
+  "say": "",
+  "note": "HR means \"human resources\". Say \"an HR manager\"."
+ },
+ "gay parade": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a gay parade · gay parades",
+  "say": "",
+  "note": "\"Pride parade\" is the more common phrase today."
+ },
+ "content provider": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a content provider · content providers",
+  "say": "",
+  "note": ""
+ },
+ "cafe bar": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a cafe bar · cafe bars",
+  "say": "",
+  "note": "Used mostly in British English."
+ },
+ "brain drain": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a brain drain · no plural",
+  "say": "",
+  "note": ""
+ },
+ "compact camera": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a compact camera · compact cameras",
+  "say": "",
+  "note": ""
+ },
+ "input": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "input · uncountable",
+  "say": "",
+  "note": "Most often \"input\" means ideas or advice: \"Thanks for your input.\""
+ },
+ "caps lock": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "caps lock · no article",
+  "say": "",
+  "note": ""
+ },
+ "diving club": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a diving club · diving clubs",
+  "say": "",
+  "note": ""
+ },
+ "scam": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a scam · scams",
+  "say": "",
+  "note": ""
+ },
+ "mass shooter": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a mass shooter · mass shooters",
+  "say": "",
+  "note": ""
+ },
+ "holder": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a holder · holders",
+  "say": "",
+  "note": "Most often \"holder\" is a person who has something: \"a ticket holder\", \"the record holder\"."
+ },
+ "guinea": {
+  "v": "keep",
+  "s": 10,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a guinea · guineas",
+  "say": "",
+  "note": "Most often in \"guinea pig\", a small pet animal. A guinea was an old British gold coin."
+ },
+ "outlet center": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an outlet center · outlet centers",
+  "say": "",
+  "note": "Americans often say \"outlet mall\"."
+ },
+ "grand slam": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a grand slam · grand slams",
+  "say": "",
+  "note": "In baseball, it means a home run with the bases full."
+ },
+ "audio disc": {
+  "v": "keep",
+  "pm": 0.02,
+  "reg": [],
+  "ns": false,
+  "gram": "an audio disc · audio discs",
+  "say": "",
+  "note": "People usually say \"CD\"."
+ },
+ "internet portal": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "an internet portal · internet portals",
+  "say": "",
+  "note": "People usually just say \"portal\" or \"website\"."
+ },
+ "break dancer": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [],
+  "ns": false,
+  "gram": "a break dancer · break dancers",
+  "say": "",
+  "note": "Also called a \"breakdancer\" or \"b-boy\"."
+ }
+}

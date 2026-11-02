@@ -1,0 +1,1390 @@
+{
+ "parsec": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "One parsec is about 3.26 light-years.",
+   "The nearest star is a little more than one parsec away.",
+   "Astronomers often measure long distances in parsecs.",
+   "The galaxy is millions of parsecs away from us."
+  ],
+  "note": ""
+ },
+ "bocce": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "boombox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arrivederci": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "He waved and said \"arrivederci\" as he left the restaurant.",
+   "\"Arrivederci, see you next summer!\" she called from the train.",
+   "Our Italian teacher always ends class with \"arrivederci.\"",
+   "Say arrivederci to your friends before we go home."
+  ],
+  "note": "Italian for \"goodbye\"; used in English as a fun way to say goodbye."
+ },
+ "atomizer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ridesharing": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "la-la-la": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "She forgot the words and just sang \"la-la-la.\"",
+   "\"La-la-la, I can't hear you!\" he joked.",
+   "The chorus of this song is just \"la-la-la\" again.",
+   "The kids sang \"la-la-la\" all the way home."
+  ],
+  "note": ""
+ },
+ "conger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "tanuki": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "escudo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "drow": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "impeller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "daf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "oxfords": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "note": "Usually plural: a pair of oxfords."
+ },
+ "syndicalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hetman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "arak": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "They served cold arak with the meal at dinner.",
+   "Arak turns white when you add water to it.",
+   "Arak tastes a lot like anise or licorice.",
+   "He brought a bottle of arak home from Lebanon."
+  ],
+  "note": ""
+ },
+ "derringer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cabriolet": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "We rented a cabriolet for our trip along the coast.",
+   "Can you put the roof down on the cabriolet?",
+   "A cabriolet is really fun to drive in summer.",
+   "He wants to buy a red cabriolet next year."
+  ],
+  "note": ""
+ },
+ "ayurveda": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "She follows ayurveda when she plans her meals.",
+   "Ayurveda is a traditional system of medicine from India.",
+   "The spa offers massage and other ayurveda treatments.",
+   "In ayurveda, doctors use herbs, oils, and special diets."
+  ],
+  "note": ""
+ },
+ "asura": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gimbal": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "maglev": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "offshoring": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Offshoring moved many factory jobs to other countries.",
+   "The company saved a lot of money through offshoring.",
+   "Many workers are angry about the offshoring of their jobs.",
+   "Offshoring IT support is very common today."
+  ],
+  "note": ""
+ },
+ "señorita": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yokai": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ho-ho-ho": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "ex": [
+   "Santa laughed \"ho-ho-ho\" and gave out the gifts.",
+   "Dad said \"ho-ho-ho\" in a deep, funny voice.",
+   "The kids heard a loud \"ho-ho-ho\" from downstairs.",
+   "\"Ho-ho-ho, Merry Christmas to everyone!\" he shouted."
+  ],
+  "note": ""
+ },
+ "bhang": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "bustier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "candela": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "calvados": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "fansub": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "I watched the new anime episode with a fansub.",
+   "The fansub came out one day after the show.",
+   "Fansubs are usually made by fans for free.",
+   "This fansub has a lot of translation mistakes."
+  ],
+  "note": ""
+ },
+ "trappist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Trappist monks live a quiet life in the monastery.",
+   "Trappist monks make beer and cheese to sell.",
+   "We bought a bottle of trappist beer at the abbey.",
+   "A trappist spends much of the day in prayer and work."
+  ],
+  "note": ""
+ },
+ "palindrome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "\"Racecar\" is a palindrome because it reads the same backward.",
+   "A palindrome reads the same backward and forward.",
+   "Can you think of a palindrome in your language?",
+   "\"Never odd or even\" is a funny palindrome."
+  ],
+  "note": ""
+ },
+ "self-help": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "absenteeism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "mascarpone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Tiramisu is made with mascarpone, coffee, and cookies.",
+   "Mix the mascarpone with sugar and a little vanilla.",
+   "Mascarpone is a soft and creamy Italian cheese.",
+   "Serve the berries with a spoon of mascarpone."
+  ],
+  "note": "Uncountable: some mascarpone, not \"a mascarpone.\""
+ },
+ "carpooling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Carpooling saves us a lot of money on gas.",
+   "We started carpooling to work with our neighbors.",
+   "The city wants more people to try carpooling.",
+   "Do you want to try carpooling to school this week?"
+  ],
+  "note": ""
+ },
+ "pyrite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "relativism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "Relativism says that truth depends on your point of view.",
+   "Moral relativism is a popular topic in philosophy class.",
+   "He doesn't agree with relativism about right and wrong.",
+   "Cultural relativism helps us understand other cultures better."
+  ],
+  "note": ""
+ },
+ "clubber": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "schizoid": {
+  "v": "keep",
+  "s": 15,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": "Usually an adjective; as a noun it can sound rude."
+ },
+ "carillon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "griffon": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "note": "The animal from myths is more often spelled \"griffin\"; \"griffon\" is also a dog breed."
+ },
+ "next-gen": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "malachite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "essayist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pancetta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "\"Pancetta\" is uncountable: some pancetta, not \"a pancetta.\""
+ },
+ "collab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal word, short for \"collaboration.\""
+ },
+ "taiko": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "power-up": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "polypropylene": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "bindu": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "proconsul": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chateaubriand": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "muggle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal word for a person without special skills or knowledge."
+ },
+ "chetnik": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wimax": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": "Usually written \"WiMAX.\""
+ },
+ "woofer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "velodrome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "webmaster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "cyberbullying": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: no \"a cyberbullying.\""
+ },
+ "hemophilia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "aioli": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dongle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "FOMO": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal; means \"fear of missing out.\""
+ },
+ "bezant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "journaling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "artemisia": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "contouring": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "ouzo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "magnetite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "yajna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "primula": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "metalhead": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal."
+ },
+ "papier-mache": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable. Also spelled \"papier-mâché.\""
+ },
+ "bouillabaisse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ASCII": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "anthracite": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "castellan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "humidor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "libero": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "ECMO": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "essentialism": {
+  "v": "keep",
+  "s": 75,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Essentialism says that things have a fixed, true nature.",
+   "In philosophy class, we discussed essentialism and its critics.",
+   "Many scientists reject essentialism about race and gender.",
+   "The professor gave a long lecture on essentialism in Plato."
+  ],
+  "note": ""
+ },
+ "senora": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Often written \"señora\"; used for a Spanish-speaking woman."
+ },
+ "swingman": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "maraschino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "wushu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gondolier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "self-made": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "My uncle is a self-made businessman from a small town.",
+   "She's a self-made millionaire who started with nothing.",
+   "He's very proud to be a self-made man.",
+   "Many self-made people work very long hours."
+  ],
+  "note": ""
+ },
+ "qigong": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "veganism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "leghorn": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "datasheet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "chocolatier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "smartwatch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "My smartwatch counts my steps every day.",
+   "I got a text on my smartwatch during the meeting.",
+   "Don't forget to charge your smartwatch every night.",
+   "This smartwatch can also track how well you sleep."
+  ],
+  "note": ""
+ },
+ "terrine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "midazolam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "AWACS": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "finito": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "Sign here, and the deal is finito.",
+   "After this last exam, school is finito for the summer.",
+   "Our old car is finito, so we need a new one.",
+   "When the money runs out, the project is finito."
+  ],
+  "note": "Informal; means \"finished\" or \"over.\""
+ },
+ "paneer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Uncountable: some paneer, not \"a paneer.\""
+ },
+ "pianoforte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "ex": [
+   "The pianoforte in the museum is over 200 years old.",
+   "Many classical composers wrote music for the pianoforte.",
+   "She played a sonata on an old pianoforte.",
+   "An old pianoforte sounds softer than a modern piano."
+  ],
+  "note": "Old word; today people usually just say \"piano.\""
+ },
+ "meson": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "samovar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "bicolor": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "note": "Most often an adjective: \"a bicolor cat.\""
+ },
+ "upvote": {
+  "v": "keep",
+  "s": 50,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "Give this post an upvote if you agree with it.",
+   "My comment got over a hundred upvotes in one day.",
+   "Thanks for the upvote on my question!",
+   "The answer with the most upvotes appears at the top."
+  ],
+  "note": "Also a verb: \"Please upvote my post.\""
+ },
+ "umami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "pumpernickel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "stria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "Each stria on her skin faded after a year.",
+   "The doctor said the striae came from fast growth.",
+   "A stria is a thin line on the skin, like a scar.",
+   "This cream may help make the striae look lighter."
+  ],
+  "note": "Plural is \"striae\"; in daily life people say \"stretch marks.\""
+ },
+ "billabong": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "note": "Australian English word."
+ },
+ "pangolin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "A pangolin rolls into a ball when it's scared.",
+   "The pangolin is covered in hard, brown scales.",
+   "Pangolins eat ants and termites with their long tongues.",
+   "Many pangolins are in danger because people hunt them."
+  ],
+  "note": ""
+ },
+ "ersatz": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "note": "More often used as an adjective: \"ersatz coffee.\""
+ },
+ "armagnac": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "After dinner, he poured a small glass of armagnac.",
+   "Armagnac is a kind of brandy from southwest France.",
+   "This bottle of armagnac is twenty years old.",
+   "We tasted armagnac at a small farm in France."
+  ],
+  "note": ""
+ },
+ "kitsune": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "cyclocross": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "gamertag": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "paclitaxel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "ex": [
+   "She got paclitaxel as part of her cancer treatment.",
+   "Paclitaxel is given slowly through a vein in the hospital.",
+   "The doctor explained the side effects of paclitaxel.",
+   "Paclitaxel can cause hair loss and tiredness."
+  ],
+  "note": ""
+ },
+ "tabata": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "boho": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "ex": [
+   "She has a boho style with long skirts and beads.",
+   "I really love your new boho dress!",
+   "The café has a relaxed boho look with lots of plants.",
+   "Boho bags are very popular this summer."
+  ],
+  "note": "Informal; short for \"bohemian.\""
+ },
+ "burek": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "moksha": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "dragster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chimichanga": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "hasid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"hasidim.\" Often written \"Hasid.\""
+ },
+ "bioterrorism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "geoengineering": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Some scientists think geoengineering could slow global warming.",
+   "Geoengineering is still very risky and not well tested.",
+   "The talk was about the dangers of geoengineering.",
+   "People strongly disagree about using geoengineering to cool the planet."
+  ],
+  "note": ""
+ },
+ "consigliere": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "denialism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "labradoodle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "Our labradoodle loves to swim in the lake.",
+   "A labradoodle is a mix of a Labrador and a poodle.",
+   "Labradoodles are usually very friendly with children.",
+   "We take our labradoodle to the groomer every month."
+  ],
+  "note": ""
+ },
+ "bassline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "chaparral": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "longboard": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "butthurt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "slang",
+   "vulgar"
+  ],
+  "ns": true,
+  "note": "Very informal and a bit rude; say \"upset\" in polite talk."
+ },
+ "militarist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "maser": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "kapo": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "integrator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "spectrograph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "macguffin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Usually written \"MacGuffin.\""
+ },
+ "organum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "regen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": "Informal, short for \"regeneration.\""
+ },
+ "downlink": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "half-pipe": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "He did a great jump on the half-pipe.",
+   "The skate park in our town has a new half-pipe.",
+   "She won a gold medal in the snowboard half-pipe.",
+   "Be careful on the half-pipe because it's very steep."
+  ],
+  "note": ""
+ },
+ "cenote": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "polyvinyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "shuriken": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": ""
+ },
+ "canasta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "ex": [
+   "My grandparents play canasta every Friday night.",
+   "Canasta is a card game for two or four players.",
+   "Do you know the rules of canasta?",
+   "We played canasta at the kitchen table until midnight."
+  ],
+  "note": ""
+ },
+ "staycation": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "note": ""
+ },
+ "gank": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Gamer slang."
+ },
+ "batik": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "speedball": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "note": "Most often a dangerous mix of drugs."
+ },
+ "fellah": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "note": "Plural is \"fellahin\" or \"fellahs.\""
+ },
+ "tyrannosaur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "hematite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "scrunchie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "ex": [
+   "She tied her hair back with a pink scrunchie.",
+   "I always lose my scrunchies at the gym.",
+   "Scrunchies are back in fashion again this year.",
+   "Can I borrow a scrunchie for my hair?"
+  ],
+  "note": "Also spelled \"scrunchy.\""
+ },
+ "selva": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "mu-meson": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [
+   "dated",
+   "technical"
+  ],
+  "ns": false,
+  "note": "Old term; scientists now say \"muon.\""
+ },
+ "codicil": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "note": ""
+ },
+ "separatism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "note": ""
+ },
+ "chemtrail": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "note": "Used about a conspiracy theory; the real word for plane trails is \"contrail.\""
+ }
+}

@@ -1,7 +1,7 @@
 [
  {
   "en": "a priori",
-  "uk": "апріорний",
+  "uk": "апріорний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -36,7 +36,7 @@
  },
  {
   "en": "abdominal",
-  "uk": "абдомінальний",
+  "uk": "абдомінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -47,7 +47,7 @@
  },
  {
   "en": "abecedary",
-  "uk": "абецедарій",
+  "uk": "абецедарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -104,7 +104,7 @@
  },
  {
   "en": "absolute",
-  "uk": "абсолютний",
+  "uk": "абсолютний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -115,7 +115,7 @@
  },
  {
   "en": "abstract",
-  "uk": "абстрактний",
+  "uk": "абстрактний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -151,7 +151,7 @@
  },
  {
   "en": "absurd",
-  "uk": "абсурдний",
+  "uk": "абсурдний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -263,7 +263,7 @@
  },
  {
   "en": "acquirer",
-  "uk": "еквайр",
+  "uk": "еквайр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -274,7 +274,7 @@
  },
  {
   "en": "acrobatic",
-  "uk": "акробатичний",
+  "uk": "акробатичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -329,7 +329,7 @@
  },
  {
   "en": "acrylic",
-  "uk": "акриловий",
+  "uk": "акриловий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -340,7 +340,7 @@
  },
  {
   "en": "actinide",
-  "uk": "актиноїд",
+  "uk": "актиноїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -373,7 +373,7 @@
  },
  {
   "en": "active",
-  "uk": "активний",
+  "uk": "активний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -417,7 +417,7 @@
  },
  {
   "en": "actuary",
-  "uk": "актуарій",
+  "uk": "актуарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -450,7 +450,7 @@
  },
  {
   "en": "adaptive",
-  "uk": "адаптивний",
+  "uk": "адаптивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -472,7 +472,7 @@
  },
  {
   "en": "adequate",
-  "uk": "адекватний",
+  "uk": "адекватний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -494,7 +494,7 @@
  },
  {
   "en": "administrative",
-  "uk": "адміністративний",
+  "uk": "адміністративний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -505,7 +505,7 @@
  },
  {
   "en": "adrenalinic",
-  "uk": "адреналіновий",
+  "uk": "адреналіновий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -538,7 +538,7 @@
  },
  {
   "en": "aerodynamic",
-  "uk": "аеродинамічний",
+  "uk": "аеродинамічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -584,7 +584,7 @@
  },
  {
   "en": "affine",
-  "uk": "афінний",
+  "uk": "афінний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -639,7 +639,7 @@
  },
  {
   "en": "agglutinative",
-  "uk": "аглютинативний",
+  "uk": "аглютинативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -661,7 +661,7 @@
  },
  {
   "en": "aggressive",
-  "uk": "агресивний",
+  "uk": "агресивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -727,7 +727,7 @@
  },
  {
   "en": "agrarian",
-  "uk": "аграрний",
+  "uk": "аграрний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -757,6 +757,17 @@
   "note": "Adds -а; rare, the usual word is сільське господарство.",
   "checked": 1,
   "src": "verify-011.json"
+ },
+ {
+  "en": "agrofirm",
+  "uk": "агрофірма",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
  },
  {
   "en": "agronomy",
@@ -793,7 +804,7 @@
  },
  {
   "en": "ailanthus",
-  "uk": "айлант",
+  "uk": "айлант",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -815,7 +826,7 @@
  },
  {
   "en": "air hockey",
-  "uk": "аерохокей",
+  "uk": "аерохокей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -850,7 +861,7 @@
  },
  {
   "en": "airliner",
-  "uk": "авіалайнер",
+  "uk": "авіалайнер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -942,7 +953,7 @@
  },
  {
   "en": "algebraic",
-  "uk": "алгебраїчний",
+  "uk": "алгебраїчний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -953,7 +964,7 @@
  },
  {
   "en": "algorithmic",
-  "uk": "алгоритмічний",
+  "uk": "алгоритмічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1008,7 +1019,7 @@
  },
  {
   "en": "allergic",
-  "uk": "алергійний",
+  "uk": "алергійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1131,7 +1142,7 @@
  },
  {
   "en": "alternative",
-  "uk": "альтернативний",
+  "uk": "альтернативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1153,7 +1164,7 @@
  },
  {
   "en": "althaea",
-  "uk": "алтей",
+  "uk": "алтей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1186,7 +1197,7 @@
  },
  {
   "en": "altruistic",
-  "uk": "альтруїстичний",
+  "uk": "альтруїстичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1197,7 +1208,7 @@
  },
  {
   "en": "aluminium",
-  "uk": "алюміній",
+  "uk": "алюміній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1208,7 +1219,7 @@
  },
  {
   "en": "aluminum",
-  "uk": "алюміній",
+  "uk": "алюміній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1265,7 +1276,7 @@
  },
  {
   "en": "ambulatory",
-  "uk": "амбулаторний",
+  "uk": "амбулаторний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1287,7 +1298,7 @@
  },
  {
   "en": "americium",
-  "uk": "америцій",
+  "uk": "америцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1357,7 +1368,7 @@
  },
  {
   "en": "ammonium",
-  "uk": "амоній",
+  "uk": "амоній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1449,7 +1460,7 @@
  },
  {
   "en": "amyloidosis",
-  "uk": "амілоїдоз",
+  "uk": "амілоїдоз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1482,7 +1493,7 @@
  },
  {
   "en": "anal",
-  "uk": "анальний",
+  "uk": "анальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1493,7 +1504,7 @@
  },
  {
   "en": "anal sex",
-  "uk": "анальний секс",
+  "uk": "анальний секс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1592,7 +1603,7 @@
  },
  {
   "en": "anaphylactic",
-  "uk": "анафілактичний",
+  "uk": "анафілактичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1603,7 +1614,7 @@
  },
  {
   "en": "anaphylactic shock",
-  "uk": "анафілактичний шок",
+  "uk": "анафілактичний шок",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1919,7 +1930,7 @@
  },
  {
   "en": "anthropogenic",
-  "uk": "антропогенний",
+  "uk": "антропогенний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1952,7 +1963,7 @@
  },
  {
   "en": "anti-Semitic",
-  "uk": "антисемітський",
+  "uk": "антисемітський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2086,7 +2097,7 @@
  },
  {
   "en": "aphelion",
-  "uk": "афелій",
+  "uk": "афелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2220,7 +2231,7 @@
  },
  {
   "en": "apostolic",
-  "uk": "апостольський",
+  "uk": "апостольський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2286,7 +2297,7 @@
  },
  {
   "en": "aquamarine",
-  "uk": "аквамаринний",
+  "uk": "аквамаринний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2297,7 +2308,7 @@
  },
  {
   "en": "aquamarine",
-  "uk": "аквамариновий",
+  "uk": "аквамариновий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2354,7 +2365,7 @@
  },
  {
   "en": "Arabian jasmine",
-  "uk": "арабський жасмин",
+  "uk": "арабський жасмин",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2411,7 +2422,7 @@
  },
  {
   "en": "archaea",
-  "uk": "археї",
+  "uk": "археї",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2457,7 +2468,7 @@
  },
  {
   "en": "archean",
-  "uk": "архей",
+  "uk": "архей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2490,7 +2501,7 @@
  },
  {
   "en": "archespore",
-  "uk": "археспорій",
+  "uk": "археспорій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2523,7 +2534,7 @@
  },
  {
   "en": "architectural",
-  "uk": "архітектурний",
+  "uk": "архітектурний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2580,7 +2591,7 @@
  },
  {
   "en": "aristocratic",
-  "uk": "аристократичний",
+  "uk": "аристократичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2819,7 +2830,7 @@
  },
  {
   "en": "assertive",
-  "uk": "асертивний",
+  "uk": "асертивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2940,7 +2951,7 @@
  },
  {
   "en": "astronomical",
-  "uk": "астрономічний",
+  "uk": "астрономічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2973,7 +2984,7 @@
  },
  {
   "en": "asymmetric",
-  "uk": "асиметричний",
+  "uk": "асиметричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2995,7 +3006,7 @@
  },
  {
   "en": "asynchronous",
-  "uk": "асинхронний",
+  "uk": "асинхронний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3050,7 +3061,7 @@
  },
  {
   "en": "atmospheric",
-  "uk": "атмосферний",
+  "uk": "атмосферний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3061,7 +3072,7 @@
  },
  {
   "en": "atomic",
-  "uk": "атомний",
+  "uk": "атомний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3264,7 +3275,7 @@
  },
  {
   "en": "aviary",
-  "uk": "авіарій",
+  "uk": "авіарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3400,7 +3411,7 @@
  },
  {
   "en": "bacterial",
-  "uk": "бактеріальний",
+  "uk": "бактеріальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3435,7 +3446,7 @@
  },
  {
   "en": "bagel",
-  "uk": "байґель",
+  "uk": "байґель",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3446,7 +3457,7 @@
  },
  {
   "en": "baijiu",
-  "uk": "байцзю",
+  "uk": "байцзю",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3569,7 +3580,7 @@
  },
  {
   "en": "banal",
-  "uk": "банальний",
+  "uk": "банальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3690,7 +3701,7 @@
  },
  {
   "en": "baptistery",
-  "uk": "баптистерій",
+  "uk": "баптистерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3701,7 +3712,7 @@
  },
  {
   "en": "baptistry",
-  "uk": "баптистерій",
+  "uk": "баптистерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3736,7 +3747,7 @@
  },
  {
   "en": "barium",
-  "uk": "барій",
+  "uk": "барій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3835,7 +3846,7 @@
  },
  {
   "en": "beneficiary",
-  "uk": "бенефіціарій",
+  "uk": "бенефіціарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -3860,7 +3871,7 @@
  },
  {
   "en": "Bengal tiger",
-  "uk": "бенгальський тигр",
+  "uk": "бенгальський тигр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3895,7 +3906,7 @@
  },
  {
   "en": "beryllium",
-  "uk": "берилій",
+  "uk": "берилій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3906,7 +3917,7 @@
  },
  {
   "en": "bestiary",
-  "uk": "бестіарій",
+  "uk": "бестіарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3939,7 +3950,7 @@
  },
  {
   "en": "biblical",
-  "uk": "біблійний",
+  "uk": "біблійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4019,7 +4030,7 @@
  },
  {
   "en": "binary",
-  "uk": "бінарний",
+  "uk": "бінарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4076,7 +4087,7 @@
  },
  {
   "en": "biological",
-  "uk": "біологічний",
+  "uk": "біологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4120,7 +4131,7 @@
  },
  {
   "en": "biometric",
-  "uk": "біометричний",
+  "uk": "біометричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4211,7 +4222,7 @@
  },
  {
   "en": "bisexual",
-  "uk": "бісексуальний",
+  "uk": "бісексуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4329,7 +4340,7 @@
  },
  {
   "en": "bobak",
-  "uk": "байбак",
+  "uk": "байбак",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4391,7 +4402,7 @@
  },
  {
   "en": "bohemian",
-  "uk": "богемний",
+  "uk": "богемний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4437,7 +4448,7 @@
  },
  {
   "en": "Boolean",
-  "uk": "булевий",
+  "uk": "булевий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4519,7 +4530,7 @@
  },
  {
   "en": "boy band",
-  "uk": "бойз-бенд",
+  "uk": "бойз-бенд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4574,7 +4585,7 @@
  },
  {
   "en": "breviary",
-  "uk": "бревіарій",
+  "uk": "бревіарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4596,7 +4607,7 @@
  },
  {
   "en": "brigadier general",
-  "uk": "бригадний генерал",
+  "uk": "бригадний генерал",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4708,7 +4719,7 @@
  },
  {
   "en": "brutal",
-  "uk": "брутальний",
+  "uk": "брутальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4831,6 +4842,17 @@
   "src": "gap-audit.json"
  },
  {
+  "en": "business landscape",
+  "uk": "бізнес-ландшафт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "bust",
   "uk": "бюст",
   "pos": "noun",
@@ -4879,7 +4901,7 @@
  },
  {
   "en": "cadmium",
-  "uk": "кадмій",
+  "uk": "кадмій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4890,7 +4912,7 @@
  },
  {
   "en": "cafeteria",
-  "uk": "кафетерій",
+  "uk": "кафетерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4901,7 +4923,7 @@
  },
  {
   "en": "caffeine",
-  "uk": "кофеїн",
+  "uk": "кофеїн",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -4915,7 +4937,7 @@
  },
  {
   "en": "calcium",
-  "uk": "кальцій",
+  "uk": "кальцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -4928,7 +4950,7 @@
  },
  {
   "en": "calendar year",
-  "uk": "календарний рік",
+  "uk": "календарний рік",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5153,7 +5175,7 @@
  },
  {
   "en": "capillary",
-  "uk": "капілярний",
+  "uk": "капілярний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5197,7 +5219,7 @@
  },
  {
   "en": "capital investment",
-  "uk": "капітальні інвестиції",
+  "uk": "капітальні інвестиції",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5219,7 +5241,7 @@
  },
  {
   "en": "capitol",
-  "uk": "капітолій",
+  "uk": "капітолій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5241,7 +5263,7 @@
  },
  {
   "en": "capoeirista",
-  "uk": "капоейрист",
+  "uk": "капоейрист",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5318,7 +5340,7 @@
  },
  {
   "en": "captain-lieutenant",
-  "uk": "капітан-лейтенант",
+  "uk": "капітан-лейтенант",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5373,7 +5395,7 @@
  },
  {
   "en": "caravansary",
-  "uk": "караван-сарай",
+  "uk": "караван-сарай",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -5400,7 +5422,7 @@
  },
  {
   "en": "carbonari",
-  "uk": "карбонарій",
+  "uk": "карбонарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5656,7 +5678,7 @@
  },
  {
   "en": "catalytic",
-  "uk": "каталітичний",
+  "uk": "каталітичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5700,7 +5722,7 @@
  },
  {
   "en": "catastrophic",
-  "uk": "катастрофічний",
+  "uk": "катастрофічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -5989,7 +6011,7 @@
  },
  {
   "en": "cerium",
-  "uk": "церій",
+  "uk": "церій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6013,7 +6035,7 @@
  },
  {
   "en": "cesium",
-  "uk": "цезій",
+  "uk": "цезій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6026,7 +6048,7 @@
  },
  {
   "en": "cessionary",
-  "uk": "цесіонарій",
+  "uk": "цесіонарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6038,19 +6060,8 @@
   "src": "rscan-015.json"
  },
  {
-  "en": "chancellor",
-  "uk": "канцлер",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "",
-  "checked": 2,
-  "src": "gap-audit3.json"
- },
- {
   "en": "chapelmaster",
-  "uk": "капельмейстер",
+  "uk": "капельмейстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6061,7 +6072,7 @@
  },
  {
   "en": "chapelmaster",
-  "uk": "капельмайстер",
+  "uk": "капельмайстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6270,6 +6281,17 @@
   "src": "gap-sweep-r1b.json"
  },
  {
+  "en": "chocolate",
+  "uk": "шоколад",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "choir",
   "uk": "хор",
   "pos": "",
@@ -6282,7 +6304,7 @@
  },
  {
   "en": "choirmaster",
-  "uk": "хормейстер",
+  "uk": "хормейстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6293,7 +6315,7 @@
  },
  {
   "en": "choirmaster",
-  "uk": "хормайстер",
+  "uk": "хормайстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6420,7 +6442,7 @@
  },
  {
   "en": "chromosomal",
-  "uk": "хромосомний",
+  "uk": "хромосомний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6536,7 +6558,7 @@
  },
  {
   "en": "cladode",
-  "uk": "кладодій",
+  "uk": "кладодій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6617,7 +6639,7 @@
  },
  {
   "en": "climactery",
-  "uk": "клімактерій",
+  "uk": "клімактерій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -6696,7 +6718,7 @@
  },
  {
   "en": "cnidaria",
-  "uk": "кнідарії",
+  "uk": "кнідарії",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6718,7 +6740,7 @@
  },
  {
   "en": "coaxial",
-  "uk": "коаксіальний",
+  "uk": "коаксіальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6766,7 +6788,7 @@
  },
  {
   "en": "cocktail",
-  "uk": "коктейл",
+  "uk": "коктейл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6799,7 +6821,7 @@
  },
  {
   "en": "cognitive",
-  "uk": "когнітивний",
+  "uk": "когнітивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6810,7 +6832,7 @@
  },
  {
   "en": "cognitive dissonance",
-  "uk": "когнітивний дисонанс",
+  "uk": "когнітивний дисонанс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6898,7 +6920,7 @@
  },
  {
   "en": "collective",
-  "uk": "колективний",
+  "uk": "колективний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -6966,7 +6988,7 @@
  },
  {
   "en": "colonial",
-  "uk": "колоніальний",
+  "uk": "колоніальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7021,7 +7043,7 @@
  },
  {
   "en": "colossal",
-  "uk": "колосальний",
+  "uk": "колосальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7032,7 +7054,7 @@
  },
  {
   "en": "columbarium",
-  "uk": "колумбарій",
+  "uk": "колумбарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7111,7 +7133,7 @@
  },
  {
   "en": "comfortable",
-  "uk": "комфортабельний",
+  "uk": "комфортабельний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7235,7 +7257,7 @@
  },
  {
   "en": "communal",
-  "uk": "комунальний",
+  "uk": "комунальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7268,7 +7290,7 @@
  },
  {
   "en": "communicative",
-  "uk": "комунікативний",
+  "uk": "комунікативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7279,7 +7301,7 @@
  },
  {
   "en": "commutative",
-  "uk": "комутативний",
+  "uk": "комутативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7301,7 +7323,7 @@
  },
  {
   "en": "compact",
-  "uk": "компактний",
+  "uk": "компактний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7356,7 +7378,7 @@
  },
  {
   "en": "competent",
-  "uk": "компетентний",
+  "uk": "компетентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7380,7 +7402,7 @@
  },
  {
   "en": "complex",
-  "uk": "комплексний",
+  "uk": "комплексний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7415,7 +7437,7 @@
  },
  {
   "en": "compulsive",
-  "uk": "компульсивний",
+  "uk": "компульсивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7448,7 +7470,7 @@
  },
  {
   "en": "concertmaster",
-  "uk": "концертмейстер",
+  "uk": "концертмейстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7562,7 +7584,7 @@
  },
  {
   "en": "confidential",
-  "uk": "конфіденційний",
+  "uk": "конфіденційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7573,7 +7595,7 @@
  },
  {
   "en": "confidentiality",
-  "uk": "конфіденційність",
+  "uk": "конфіденційність",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7685,7 +7707,7 @@
  },
  {
   "en": "conservative",
-  "uk": "консервативний",
+  "uk": "консервативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7784,7 +7806,7 @@
  },
  {
   "en": "constitutional",
-  "uk": "конституційний",
+  "uk": "конституційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7795,7 +7817,7 @@
  },
  {
   "en": "constitutional monarchy",
-  "uk": "конституційна монархія",
+  "uk": "конституційна монархія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7817,7 +7839,7 @@
  },
  {
   "en": "constructive",
-  "uk": "конструктивний",
+  "uk": "конструктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7861,7 +7883,7 @@
  },
  {
   "en": "contact",
-  "uk": "контактний",
+  "uk": "контактний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7883,7 +7905,7 @@
  },
  {
   "en": "continental",
-  "uk": "континентальний",
+  "uk": "континентальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7894,7 +7916,7 @@
  },
  {
   "en": "continental shelf",
-  "uk": "континентальний шельф",
+  "uk": "континентальний шельф",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7927,7 +7949,7 @@
  },
  {
   "en": "contrasting",
-  "uk": "контрастний",
+  "uk": "контрастний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -7938,7 +7960,7 @@
  },
  {
   "en": "control",
-  "uk": "контрольний",
+  "uk": "контрольний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8028,7 +8050,7 @@
  },
  {
   "en": "cooperative",
-  "uk": "кооперативний",
+  "uk": "кооперативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8061,7 +8083,7 @@
  },
  {
   "en": "coordinating",
-  "uk": "координаційний",
+  "uk": "координаційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8105,7 +8127,7 @@
  },
  {
   "en": "copyist",
-  "uk": "копіїст",
+  "uk": "копіїст",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8182,7 +8204,7 @@
  },
  {
   "en": "correct",
-  "uk": "коректний",
+  "uk": "коректний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8307,7 +8329,7 @@
  },
  {
   "en": "cosmopolitan",
-  "uk": "космополітичний",
+  "uk": "космополітичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8408,7 +8430,7 @@
  },
  {
   "en": "counterproductive",
-  "uk": "контрпродуктивний",
+  "uk": "контрпродуктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8441,7 +8463,7 @@
  },
  {
   "en": "creative",
-  "uk": "креативний",
+  "uk": "креативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8452,7 +8474,7 @@
  },
  {
   "en": "credit",
-  "uk": "кредитний",
+  "uk": "кредитний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8485,7 +8507,7 @@
  },
  {
   "en": "crematorium",
-  "uk": "крематорій",
+  "uk": "крематорій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8496,7 +8518,7 @@
  },
  {
   "en": "crematory",
-  "uk": "крематорій",
+  "uk": "крематорій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -8507,7 +8529,7 @@
  },
  {
   "en": "criminal",
-  "uk": "кримінальний",
+  "uk": "кримінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8551,7 +8573,7 @@
  },
  {
   "en": "criterion",
-  "uk": "критерій",
+  "uk": "критерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8617,7 +8639,7 @@
  },
  {
   "en": "cruiser",
-  "uk": "крейсер",
+  "uk": "крейсер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8709,7 +8731,7 @@
  },
  {
   "en": "cryptographic",
-  "uk": "криптографічний",
+  "uk": "криптографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8742,7 +8764,7 @@
  },
  {
   "en": "crystalline",
-  "uk": "кристалічний",
+  "uk": "кристалічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8764,7 +8786,7 @@
  },
  {
   "en": "culinary",
-  "uk": "кулінарний",
+  "uk": "кулінарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8819,7 +8841,7 @@
  },
  {
   "en": "culture shock",
-  "uk": "культурний шок",
+  "uk": "культурний шок",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8863,7 +8885,7 @@
  },
  {
   "en": "curium",
-  "uk": "кюрій",
+  "uk": "кюрій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -8964,7 +8986,7 @@
  },
  {
   "en": "cybernetic",
-  "uk": "кібернетичний",
+  "uk": "кібернетичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9284,7 +9306,7 @@
  },
  {
   "en": "declarative",
-  "uk": "декларативний",
+  "uk": "декларативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9328,7 +9350,7 @@
  },
  {
   "en": "decorative",
-  "uk": "декоративний",
+  "uk": "декоративний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9451,7 +9473,7 @@
  },
  {
   "en": "delirium",
-  "uk": "делірій",
+  "uk": "делірій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9473,7 +9495,7 @@
  },
  {
   "en": "demarcation line",
-  "uk": "демаркаційна лінія",
+  "uk": "демаркаційна лінія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9517,7 +9539,7 @@
  },
  {
   "en": "democratic",
-  "uk": "демократичний",
+  "uk": "демократичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9539,7 +9561,7 @@
  },
  {
   "en": "demographic",
-  "uk": "демографічний",
+  "uk": "демографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9594,7 +9616,7 @@
  },
  {
   "en": "dendritic",
-  "uk": "дендритний",
+  "uk": "дендритний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9626,19 +9648,8 @@
   "src": "verify-062.json"
  },
  {
-  "en": "department",
-  "uk": "департамент",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "Extra -а- (депарТАмент); mostly a government/company department; a university department is кафедра.",
-  "checked": 2,
-  "src": "verify-001.json"
- },
- {
   "en": "deploy",
-  "uk": "деплой",
+  "uk": "деплой",
   "pos": "verb",
   "british": false,
   "lvl": null,
@@ -9662,7 +9673,7 @@
  },
  {
   "en": "depositary",
-  "uk": "депозитарій",
+  "uk": "депозитарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -9684,7 +9695,7 @@
  },
  {
   "en": "depressive",
-  "uk": "депресивний",
+  "uk": "депресивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9796,7 +9807,7 @@
  },
  {
   "en": "destructive",
-  "uk": "деструктивний",
+  "uk": "деструктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9829,7 +9840,7 @@
  },
  {
   "en": "deviant",
-  "uk": "девіантний",
+  "uk": "девіантний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9898,7 +9909,7 @@
  },
  {
   "en": "diagnostic",
-  "uk": "діагностичний",
+  "uk": "діагностичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9920,7 +9931,7 @@
  },
  {
   "en": "diagonal",
-  "uk": "діагональний",
+  "uk": "діагональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9953,7 +9964,7 @@
  },
  {
   "en": "dialect continuum",
-  "uk": "діалектний континуум",
+  "uk": "діалектний континуум",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -9977,7 +9988,7 @@
  },
  {
   "en": "dialectical materialism",
-  "uk": "діалектичний матеріалізм",
+  "uk": "діалектичний матеріалізм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10060,7 +10071,7 @@
  },
  {
   "en": "diary",
-  "uk": "діарій",
+  "uk": "діарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10082,7 +10093,7 @@
  },
  {
   "en": "dictatorial",
-  "uk": "диктаторський",
+  "uk": "диктаторський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10195,7 +10206,7 @@
  },
  {
   "en": "dinothere",
-  "uk": "динотерій",
+  "uk": "динотерій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10253,7 +10264,7 @@
  },
  {
   "en": "diplomatic",
-  "uk": "дипломатичний",
+  "uk": "дипломатичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10264,7 +10275,7 @@
  },
  {
   "en": "diplomatic immunity",
-  "uk": "дипломатичний імунітет",
+  "uk": "дипломатичний імунітет",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10354,7 +10365,7 @@
  },
  {
   "en": "discrete",
-  "uk": "дискретний",
+  "uk": "дискретний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10387,7 +10398,7 @@
  },
  {
   "en": "discriminatory",
-  "uk": "дискримінаційний",
+  "uk": "дискримінаційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10433,7 +10444,7 @@
  },
  {
   "en": "disk jockey",
-  "uk": "диск-жокей",
+  "uk": "диск-жокей",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10447,7 +10458,7 @@
  },
  {
   "en": "dislike",
-  "uk": "дизлайк",
+  "uk": "дизлайк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10461,7 +10472,7 @@
  },
  {
   "en": "dispensary",
-  "uk": "диспенсарій",
+  "uk": "диспенсарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10586,7 +10597,7 @@
  },
  {
   "en": "documentary",
-  "uk": "документальний",
+  "uk": "документальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10632,7 +10643,7 @@
  },
  {
   "en": "dolphinarium",
-  "uk": "дельфінарій",
+  "uk": "дельфінарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10643,7 +10654,7 @@
  },
  {
   "en": "domicile",
-  "uk": "доміцилій",
+  "uk": "доміцилій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10678,7 +10689,7 @@
  },
  {
   "en": "donate",
-  "uk": "донейт",
+  "uk": "донейт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -10848,7 +10859,7 @@
  },
  {
   "en": "duralumin",
-  "uk": "дюралюміній",
+  "uk": "дюралюміній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10929,7 +10940,7 @@
  },
  {
   "en": "dysprosium",
-  "uk": "диспрозій",
+  "uk": "диспрозій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -10997,7 +11008,7 @@
  },
  {
   "en": "ecological",
-  "uk": "екологічний",
+  "uk": "екологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11100,7 +11111,7 @@
  },
  {
   "en": "effective",
-  "uk": "ефективний",
+  "uk": "ефективний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11133,7 +11144,7 @@
  },
  {
   "en": "egalitarian",
-  "uk": "егалітарний",
+  "uk": "егалітарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11245,7 +11256,7 @@
  },
  {
   "en": "electromagnetic",
-  "uk": "електромагнітний",
+  "uk": "електромагнітний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11256,7 +11267,7 @@
  },
  {
   "en": "electromagnetic pulse",
-  "uk": "електромагнітний імпульс",
+  "uk": "електромагнітний імпульс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11267,7 +11278,7 @@
  },
  {
   "en": "electromagnetic spectrum",
-  "uk": "електромагнітний спектр",
+  "uk": "електромагнітний спектр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11278,7 +11289,7 @@
  },
  {
   "en": "electron microscope",
-  "uk": "електронний мікроскоп",
+  "uk": "електронний мікроскоп",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11289,7 +11300,7 @@
  },
  {
   "en": "electronic",
-  "uk": "електронний",
+  "uk": "електронний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11344,7 +11355,7 @@
  },
  {
   "en": "electrostatic",
-  "uk": "електростатичний",
+  "uk": "електростатичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11366,7 +11377,7 @@
  },
  {
   "en": "elegant",
-  "uk": "елегантний",
+  "uk": "елегантний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11388,7 +11399,7 @@
  },
  {
   "en": "elementary",
-  "uk": "елементарний",
+  "uk": "елементарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11445,7 +11456,7 @@
  },
  {
   "en": "email",
-  "uk": "мейл",
+  "uk": "мейл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11467,7 +11478,7 @@
  },
  {
   "en": "emblematic",
-  "uk": "емблематичний",
+  "uk": "емблематичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11515,7 +11526,7 @@
  },
  {
   "en": "embryonic",
-  "uk": "ембріональний",
+  "uk": "ембріональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11631,7 +11642,7 @@
  },
  {
   "en": "emporium",
-  "uk": "емпорій",
+  "uk": "емпорій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11686,7 +11697,7 @@
  },
  {
   "en": "endive",
-  "uk": "ендивій",
+  "uk": "ендивій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11721,7 +11732,7 @@
  },
  {
   "en": "endocrine",
-  "uk": "ендокринний",
+  "uk": "ендокринний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11778,7 +11789,7 @@
  },
  {
   "en": "endometrium",
-  "uk": "ендометрій",
+  "uk": "ендометрій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11811,7 +11822,7 @@
  },
  {
   "en": "energetic",
-  "uk": "енергетичний",
+  "uk": "енергетичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -11958,7 +11969,7 @@
  },
  {
   "en": "epic",
-  "uk": "епічний",
+  "uk": "епічний",
   "pos": "adj",
   "british": false,
   "lvl": null,
@@ -12005,7 +12016,7 @@
  },
  {
   "en": "epidemiological",
-  "uk": "епідеміологічний",
+  "uk": "епідеміологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12084,7 +12095,7 @@
  },
  {
   "en": "epigenetic",
-  "uk": "епігенетичний",
+  "uk": "епігенетичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12106,7 +12117,7 @@
  },
  {
   "en": "epileptic",
-  "uk": "епілептичний",
+  "uk": "епілептичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12117,7 +12128,7 @@
  },
  {
   "en": "epileptoid",
-  "uk": "епілептоїд",
+  "uk": "епілептоїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12205,7 +12216,7 @@
  },
  {
   "en": "epithelium",
-  "uk": "епітелій",
+  "uk": "епітелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12230,7 +12241,7 @@
  },
  {
   "en": "equivalent",
-  "uk": "еквівалентний",
+  "uk": "еквівалентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12241,7 +12252,7 @@
  },
  {
   "en": "erbium",
-  "uk": "ербій",
+  "uk": "ербій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12461,7 +12472,7 @@
  },
  {
   "en": "estuary",
-  "uk": "естуарій",
+  "uk": "естуарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12575,7 +12586,7 @@
  },
  {
   "en": "europium",
-  "uk": "європій",
+  "uk": "європій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12610,7 +12621,7 @@
  },
  {
   "en": "evolutionary biology",
-  "uk": "еволюційна біологія",
+  "uk": "еволюційна біологія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12746,7 +12757,7 @@
  },
  {
   "en": "experimental",
-  "uk": "експериментальний",
+  "uk": "експериментальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12768,7 +12779,7 @@
  },
  {
   "en": "expert",
-  "uk": "експертний",
+  "uk": "експертний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12804,7 +12815,7 @@
  },
  {
   "en": "extraordinary",
-  "uk": "екстраординарний",
+  "uk": "екстраординарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12837,7 +12848,7 @@
  },
  {
   "en": "facultative",
-  "uk": "факультативний",
+  "uk": "факультативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12894,7 +12905,7 @@
  },
  {
   "en": "fantastic",
-  "uk": "фантастичний",
+  "uk": "фантастичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12954,7 +12965,7 @@
  },
  {
   "en": "fasciitis",
-  "uk": "фасциїт",
+  "uk": "фасциїт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12987,7 +12998,7 @@
  },
  {
   "en": "federal",
-  "uk": "федеральний",
+  "uk": "федеральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -12998,7 +13009,7 @@
  },
  {
   "en": "federal state",
-  "uk": "федеральний штат",
+  "uk": "федеральний штат",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13042,7 +13053,7 @@
  },
  {
   "en": "feria",
-  "uk": "ферії",
+  "uk": "ферії",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -13131,7 +13142,7 @@
  },
  {
   "en": "fiduciary",
-  "uk": "фідуціарій",
+  "uk": "фідуціарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -13243,7 +13254,7 @@
  },
  {
   "en": "financial instrument",
-  "uk": "фінансовий інструмент",
+  "uk": "фінансовий інструмент",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13267,7 +13278,7 @@
  },
  {
   "en": "fine",
-  "uk": "файний",
+  "uk": "файний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13300,7 +13311,7 @@
  },
  {
   "en": "fiscal",
-  "uk": "фіскальний",
+  "uk": "фіскальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13335,7 +13346,7 @@
  },
  {
   "en": "flautist",
-  "uk": "флейтист",
+  "uk": "флейтист",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13407,7 +13418,7 @@
  },
  {
   "en": "flutist",
-  "uk": "флейтист",
+  "uk": "флейтист",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13477,7 +13488,7 @@
  },
  {
   "en": "formal",
-  "uk": "формальний",
+  "uk": "формальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13602,7 +13613,7 @@
  },
  {
   "en": "franchisor",
-  "uk": "франчайзер",
+  "uk": "франчайзер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13615,7 +13626,7 @@
  },
  {
   "en": "francium",
-  "uk": "францій",
+  "uk": "францій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -13639,7 +13650,7 @@
  },
  {
   "en": "fraulein",
-  "uk": "фрейлейн",
+  "uk": "фрейлейн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13785,7 +13796,7 @@
  },
  {
   "en": "fundamental",
-  "uk": "фундаментальний",
+  "uk": "фундаментальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13829,7 +13840,7 @@
  },
  {
   "en": "gallant",
-  "uk": "галантний",
+  "uk": "галантний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13862,7 +13873,7 @@
  },
  {
   "en": "gallium",
-  "uk": "галій",
+  "uk": "галій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13873,7 +13884,7 @@
  },
  {
   "en": "gallium",
-  "uk": "ґалій",
+  "uk": "ґалій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13906,7 +13917,7 @@
  },
  {
   "en": "ganglion",
-  "uk": "ганглій",
+  "uk": "ганглій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -13928,7 +13939,7 @@
  },
  {
   "en": "gargoyle",
-  "uk": "гаргуйль",
+  "uk": "гаргуйль",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -14075,7 +14086,7 @@
  },
  {
   "en": "gender",
-  "uk": "гендерний",
+  "uk": "гендерний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14108,7 +14119,7 @@
  },
  {
   "en": "general",
-  "uk": "генеральний",
+  "uk": "генеральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14119,7 +14130,7 @@
  },
  {
   "en": "general secretary",
-  "uk": "генеральний секретар",
+  "uk": "генеральний секретар",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14174,7 +14185,7 @@
  },
  {
   "en": "genetic code",
-  "uk": "генетичний код",
+  "uk": "генетичний код",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14220,7 +14231,7 @@
  },
  {
   "en": "genitalia",
-  "uk": "геніталії",
+  "uk": "геніталії",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14231,7 +14242,7 @@
  },
  {
   "en": "genius",
-  "uk": "геній",
+  "uk": "геній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14277,7 +14288,7 @@
  },
  {
   "en": "geographic",
-  "uk": "географічний",
+  "uk": "географічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14323,7 +14334,7 @@
  },
  {
   "en": "geometric",
-  "uk": "геометричний",
+  "uk": "геометричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14378,7 +14389,7 @@
  },
  {
   "en": "geothermal",
-  "uk": "геотермальний",
+  "uk": "геотермальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14389,7 +14400,7 @@
  },
  {
   "en": "Germanic",
-  "uk": "германський",
+  "uk": "германський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14400,7 +14411,7 @@
  },
  {
   "en": "germanium",
-  "uk": "германій",
+  "uk": "германій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14422,7 +14433,7 @@
  },
  {
   "en": "gerund",
-  "uk": "герундій",
+  "uk": "герундій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14455,7 +14466,7 @@
  },
  {
   "en": "gigantic",
-  "uk": "гігантський",
+  "uk": "гігантський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14548,7 +14559,7 @@
  },
  {
   "en": "global",
-  "uk": "глобальний",
+  "uk": "глобальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14616,7 +14627,7 @@
  },
  {
   "en": "glossary",
-  "uk": "глосарій",
+  "uk": "глосарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14742,7 +14753,7 @@
  },
  {
   "en": "grammatical",
-  "uk": "граматичний",
+  "uk": "граматичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14830,7 +14841,7 @@
  },
  {
   "en": "gravitational",
-  "uk": "гравітаційний",
+  "uk": "гравітаційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14841,7 +14852,7 @@
  },
  {
   "en": "gravitational singularity",
-  "uk": "гравітаційна сингулярність",
+  "uk": "гравітаційна сингулярність",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -14918,7 +14929,7 @@
  },
  {
   "en": "group sex",
-  "uk": "груповий секс",
+  "uk": "груповий секс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15030,7 +15041,7 @@
  },
  {
   "en": "gymnastic",
-  "uk": "гімнастичний",
+  "uk": "гімнастичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15201,7 +15212,7 @@
  },
  {
   "en": "harmonica",
-  "uk": "гармонійка",
+  "uk": "гармонійка",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15245,7 +15256,7 @@
  },
  {
   "en": "heboid",
-  "uk": "гебоїд",
+  "uk": "гебоїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15278,7 +15289,7 @@
  },
  {
   "en": "helium",
-  "uk": "гелій",
+  "uk": "гелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15335,7 +15346,7 @@
  },
  {
   "en": "hemorrhoid",
-  "uk": "геморой",
+  "uk": "геморой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15392,7 +15403,7 @@
  },
  {
   "en": "herbarium",
-  "uk": "гербарій",
+  "uk": "гербарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15414,7 +15425,7 @@
  },
  {
   "en": "hero",
-  "uk": "герой",
+  "uk": "герой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15425,7 +15436,7 @@
  },
  {
   "en": "heroic",
-  "uk": "геройський",
+  "uk": "геройський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15436,7 +15447,7 @@
  },
  {
   "en": "heroine",
-  "uk": "героїня",
+  "uk": "героїня",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15480,7 +15491,7 @@
  },
  {
   "en": "heterosexual",
-  "uk": "гетеросексуальний",
+  "uk": "гетеросексуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15491,7 +15502,7 @@
  },
  {
   "en": "hexagonal",
-  "uk": "гексагональний",
+  "uk": "гексагональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15515,7 +15526,7 @@
  },
  {
   "en": "hey",
-  "uk": "ей",
+  "uk": "ей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15617,7 +15628,7 @@
  },
  {
   "en": "Himalayan",
-  "uk": "гімалайський",
+  "uk": "гімалайський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15639,7 +15650,7 @@
  },
  {
   "en": "Hinduism",
-  "uk": "індуїзм",
+  "uk": "індуїзм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15764,7 +15775,7 @@
  },
  {
   "en": "holmium",
-  "uk": "гольмій",
+  "uk": "гольмій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15832,7 +15843,7 @@
  },
  {
   "en": "homophobic",
-  "uk": "гомофобний",
+  "uk": "гомофобний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15854,7 +15865,7 @@
  },
  {
   "en": "homosexual",
-  "uk": "гомосексуальний",
+  "uk": "гомосексуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15931,7 +15942,7 @@
  },
  {
   "en": "horizontal",
-  "uk": "горизонтальний",
+  "uk": "горизонтальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -15953,7 +15964,7 @@
  },
  {
   "en": "hormonal",
-  "uk": "гормональний",
+  "uk": "гормональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16043,7 +16054,7 @@
  },
  {
   "en": "humane",
-  "uk": "гуманний",
+  "uk": "гуманний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16054,7 +16065,7 @@
  },
  {
   "en": "humanistic",
-  "uk": "гуманістичний",
+  "uk": "гуманістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16065,7 +16076,7 @@
  },
  {
   "en": "humanitarian",
-  "uk": "гуманітарний",
+  "uk": "гуманітарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16076,7 +16087,7 @@
  },
  {
   "en": "humanitarian corridor",
-  "uk": "гуманітарний коридор",
+  "uk": "гуманітарний коридор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16111,7 +16122,7 @@
  },
  {
   "en": "hybrid",
-  "uk": "гібридний",
+  "uk": "гібридний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16133,7 +16144,7 @@
  },
  {
   "en": "hydroelectric",
-  "uk": "гідроелектричний",
+  "uk": "гідроелектричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16179,7 +16190,7 @@
  },
  {
   "en": "hydrophilic",
-  "uk": "гідрофільний",
+  "uk": "гідрофільний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16190,7 +16201,7 @@
  },
  {
   "en": "hydrostatic",
-  "uk": "гідростатичний",
+  "uk": "гідростатичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16223,7 +16234,7 @@
  },
  {
   "en": "hyperactive",
-  "uk": "гіперактивний",
+  "uk": "гіперактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16256,7 +16267,7 @@
  },
  {
   "en": "hyperbolic",
-  "uk": "гіперболічний",
+  "uk": "гіперболічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16267,7 +16278,7 @@
  },
  {
   "en": "hyperborean",
-  "uk": "гіперборей",
+  "uk": "гіперборей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16522,7 +16533,7 @@
  },
  {
   "en": "hypothetical",
-  "uk": "гіпотетичний",
+  "uk": "гіпотетичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16667,7 +16678,7 @@
  },
  {
   "en": "ideal",
-  "uk": "ідеальний",
+  "uk": "ідеальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16689,7 +16700,7 @@
  },
  {
   "en": "idealistic",
-  "uk": "ідеалістичний",
+  "uk": "ідеалістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16711,7 +16722,7 @@
  },
  {
   "en": "ideological",
-  "uk": "ідеологічний",
+  "uk": "ідеологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16859,7 +16870,7 @@
  },
  {
   "en": "immune",
-  "uk": "імунний",
+  "uk": "імунний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -16984,7 +16995,7 @@
  },
  {
   "en": "impotent",
-  "uk": "імпотентний",
+  "uk": "імпотентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17006,7 +17017,7 @@
  },
  {
   "en": "incompetent",
-  "uk": "некомпетентний",
+  "uk": "некомпетентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17039,7 +17050,7 @@
  },
  {
   "en": "incremental",
-  "uk": "інкрементний",
+  "uk": "інкрементний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17061,7 +17072,7 @@
  },
  {
   "en": "incubatory",
-  "uk": "інкубаторій",
+  "uk": "інкубаторій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17107,7 +17118,7 @@
  },
  {
   "en": "indium",
-  "uk": "індій",
+  "uk": "індій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17118,7 +17129,7 @@
  },
  {
   "en": "individual",
-  "uk": "індивідуальний",
+  "uk": "індивідуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17140,7 +17151,7 @@
  },
  {
   "en": "individualistic",
-  "uk": "індивідуалістичний",
+  "uk": "індивідуалістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17173,7 +17184,7 @@
  },
  {
   "en": "inductive",
-  "uk": "індуктивний",
+  "uk": "індуктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17195,7 +17206,7 @@
  },
  {
   "en": "industrial",
-  "uk": "індустріальний",
+  "uk": "індустріальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17206,7 +17217,7 @@
  },
  {
   "en": "industrial park",
-  "uk": "індустріальний парк",
+  "uk": "індустріальний парк",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17239,7 +17250,7 @@
  },
  {
   "en": "inert",
-  "uk": "інертний",
+  "uk": "інертний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17261,7 +17272,7 @@
  },
  {
   "en": "inertial",
-  "uk": "інерційний",
+  "uk": "інерційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17283,7 +17294,7 @@
  },
  {
   "en": "infantile",
-  "uk": "інфантильний",
+  "uk": "інфантильний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17318,7 +17329,7 @@
  },
  {
   "en": "infographic",
-  "uk": "інфографічний",
+  "uk": "інфографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17373,7 +17384,7 @@
  },
  {
   "en": "information age",
-  "uk": "інформаційна ера",
+  "uk": "інформаційна ера",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17384,7 +17395,7 @@
  },
  {
   "en": "information system",
-  "uk": "інформаційна система",
+  "uk": "інформаційна система",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17395,7 +17406,7 @@
  },
  {
   "en": "information technology",
-  "uk": "інформаційна технологія",
+  "uk": "інформаційна технологія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17406,7 +17417,7 @@
  },
  {
   "en": "informational",
-  "uk": "інформаційний",
+  "uk": "інформаційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17417,7 +17428,7 @@
  },
  {
   "en": "informative",
-  "uk": "інформативний",
+  "uk": "інформативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17463,7 +17474,7 @@
  },
  {
   "en": "inhuman",
-  "uk": "негуманний",
+  "uk": "негуманний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17529,7 +17540,7 @@
  },
  {
   "en": "insectarium",
-  "uk": "інсектарій",
+  "uk": "інсектарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17540,7 +17551,7 @@
  },
  {
   "en": "insectary",
-  "uk": "інсектарій",
+  "uk": "інсектарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17551,7 +17562,7 @@
  },
  {
   "en": "insignia",
-  "uk": "інсигнії",
+  "uk": "інсигнії",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -17599,7 +17610,7 @@
  },
  {
   "en": "instinctive",
-  "uk": "інстинктивний",
+  "uk": "інстинктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17643,7 +17654,7 @@
  },
  {
   "en": "institutional",
-  "uk": "інституційний",
+  "uk": "інституційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17676,7 +17687,7 @@
  },
  {
   "en": "instrumental",
-  "uk": "інструментальний",
+  "uk": "інструментальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17720,7 +17731,7 @@
  },
  {
   "en": "intellectual",
-  "uk": "інтелектуальний",
+  "uk": "інтелектуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17742,7 +17753,7 @@
  },
  {
   "en": "intensive",
-  "uk": "інтенсивний",
+  "uk": "інтенсивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17753,7 +17764,7 @@
  },
  {
   "en": "interactive",
-  "uk": "інтерактивний",
+  "uk": "інтерактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17863,7 +17874,7 @@
  },
  {
   "en": "interstice",
-  "uk": "інтерстицій",
+  "uk": "інтерстицій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17964,7 +17975,7 @@
  },
  {
   "en": "intuitive",
-  "uk": "інтуїтивний",
+  "uk": "інтуїтивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17975,7 +17986,7 @@
  },
  {
   "en": "intuitively",
-  "uk": "інтуїтивно",
+  "uk": "інтуїтивно",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -17986,7 +17997,7 @@
  },
  {
   "en": "intuitiveness",
-  "uk": "інтуїтивність",
+  "uk": "інтуїтивність",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18030,7 +18041,7 @@
  },
  {
   "en": "ionic",
-  "uk": "іонний",
+  "uk": "іонний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18065,7 +18076,7 @@
  },
  {
   "en": "iridium",
-  "uk": "іридій",
+  "uk": "іридій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18109,7 +18120,7 @@
  },
  {
   "en": "Islamic",
-  "uk": "ісламський",
+  "uk": "ісламський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18271,6 +18282,17 @@
   "src": "rscan-016.json"
  },
  {
+  "en": "jeans",
+  "uk": "джинси",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "jelly",
   "uk": "желе",
   "pos": "",
@@ -18283,7 +18305,7 @@
  },
  {
   "en": "Jesuit",
-  "uk": "єзуїт",
+  "uk": "єзуїт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18294,7 +18316,7 @@
  },
  {
   "en": "jockey",
-  "uk": "жокей",
+  "uk": "жокей",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -18319,7 +18341,7 @@
  },
  {
   "en": "journalistic",
-  "uk": "журналістський",
+  "uk": "журналістський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18330,7 +18352,7 @@
  },
  {
   "en": "Judaism",
-  "uk": "юдаїзм",
+  "uk": "юдаїзм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18341,7 +18363,7 @@
  },
  {
   "en": "Judaism",
-  "uk": "іудаїзм",
+  "uk": "іудаїзм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18363,7 +18385,7 @@
  },
  {
   "en": "judoist",
-  "uk": "дзюдоїст",
+  "uk": "дзюдоїст",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18431,7 +18453,7 @@
  },
  {
   "en": "justiciary",
-  "uk": "юстиціарій",
+  "uk": "юстиціарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18453,7 +18475,7 @@
  },
  {
   "en": "kaiju",
-  "uk": "кайдзю",
+  "uk": "кайдзю",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18508,7 +18530,7 @@
  },
  {
   "en": "kawaiiness",
-  "uk": "кавайність",
+  "uk": "кавайність",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18541,7 +18563,7 @@
  },
  {
   "en": "Keynesian",
-  "uk": "кейнсіанський",
+  "uk": "кейнсіанський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18666,7 +18688,7 @@
  },
  {
   "en": "kosher",
-  "uk": "кошерний",
+  "uk": "кошерний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18688,7 +18710,7 @@
  },
  {
   "en": "lackey",
-  "uk": "льокай",
+  "uk": "льокай",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18758,7 +18780,7 @@
  },
  {
   "en": "lanthanide",
-  "uk": "лантаноїди",
+  "uk": "лантаноїди",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18859,7 +18881,7 @@
  },
  {
   "en": "lectionary",
-  "uk": "лекціонарій",
+  "uk": "лекціонарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18883,7 +18905,7 @@
  },
  {
   "en": "legal",
-  "uk": "легальний",
+  "uk": "легальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18938,7 +18960,7 @@
  },
  {
   "en": "legendary",
-  "uk": "легендарний",
+  "uk": "легендарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -18960,7 +18982,7 @@
  },
  {
   "en": "leitmotif",
-  "uk": "лейтмотив",
+  "uk": "лейтмотив",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19028,7 +19050,7 @@
  },
  {
   "en": "lesbian",
-  "uk": "лесбійка",
+  "uk": "лесбійка",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19039,7 +19061,7 @@
  },
  {
   "en": "lethal",
-  "uk": "летальний",
+  "uk": "летальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19061,7 +19083,7 @@
  },
  {
   "en": "leu",
-  "uk": "лей",
+  "uk": "лей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19072,7 +19094,7 @@
  },
  {
   "en": "leukosis",
-  "uk": "лейкоз",
+  "uk": "лейкоз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19116,7 +19138,7 @@
  },
  {
   "en": "liberal",
-  "uk": "ліберальний",
+  "uk": "ліберальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19138,7 +19160,7 @@
  },
  {
   "en": "libertarian socialism",
-  "uk": "лібертарний соціалізм",
+  "uk": "лібертарний соціалізм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19149,7 +19171,7 @@
  },
  {
   "en": "libertarian socialist",
-  "uk": "лібертарний соціаліст",
+  "uk": "лібертарний соціаліст",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19226,7 +19248,7 @@
  },
  {
   "en": "linear algebra",
-  "uk": "лінійна алгебра",
+  "uk": "лінійна алгебра",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19347,7 +19369,7 @@
  },
  {
   "en": "lithium",
-  "uk": "літій",
+  "uk": "літій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19417,7 +19439,7 @@
  },
  {
   "en": "livermorium",
-  "uk": "ліверморій",
+  "uk": "ліверморій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19428,7 +19450,7 @@
  },
  {
   "en": "local",
-  "uk": "локальний",
+  "uk": "локальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19544,7 +19566,7 @@
  },
  {
   "en": "lotion",
-  "uk": "лосьйон",
+  "uk": "лосьйон",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19577,7 +19599,7 @@
  },
  {
   "en": "loyal",
-  "uk": "лояльний",
+  "uk": "лояльний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19599,7 +19621,7 @@
  },
  {
   "en": "lutetium",
-  "uk": "лютецій",
+  "uk": "лютецій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19612,7 +19634,7 @@
  },
  {
   "en": "lyceum",
-  "uk": "ліцей",
+  "uk": "ліцей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19625,7 +19647,7 @@
  },
  {
   "en": "lycée",
-  "uk": "ліцей",
+  "uk": "ліцей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19734,7 +19756,7 @@
  },
  {
   "en": "machine",
-  "uk": "машинний",
+  "uk": "машинний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19770,7 +19792,7 @@
  },
  {
   "en": "macroeconomic",
-  "uk": "макроекономічний",
+  "uk": "макроекономічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19852,7 +19874,7 @@
  },
  {
   "en": "magnesium",
-  "uk": "магній",
+  "uk": "магній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19876,7 +19898,7 @@
  },
  {
   "en": "magnetic equator",
-  "uk": "магнітний екватор",
+  "uk": "магнітний екватор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19887,7 +19909,7 @@
  },
  {
   "en": "magnetic moment",
-  "uk": "магнітний момент",
+  "uk": "магнітний момент",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -19955,7 +19977,7 @@
  },
  {
   "en": "mandatary",
-  "uk": "мандатарій",
+  "uk": "мандатарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -20136,7 +20158,7 @@
  },
  {
   "en": "marginal",
-  "uk": "маргінальний",
+  "uk": "маргінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20237,7 +20259,7 @@
  },
  {
   "en": "masonic",
-  "uk": "масонський",
+  "uk": "масонський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20270,7 +20292,7 @@
  },
  {
   "en": "master",
-  "uk": "майстер",
+  "uk": "майстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20281,7 +20303,7 @@
  },
  {
   "en": "master class",
-  "uk": "майстер-клас",
+  "uk": "майстер-клас",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20292,7 +20314,7 @@
  },
  {
   "en": "master class",
-  "uk": "майстерклас",
+  "uk": "майстерклас",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20303,7 +20325,7 @@
  },
  {
   "en": "master plan",
-  "uk": "майстер-план",
+  "uk": "майстер-план",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20347,7 +20369,7 @@
  },
  {
   "en": "material",
-  "uk": "матеріальний",
+  "uk": "матеріальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20358,7 +20380,7 @@
  },
  {
   "en": "maternal",
-  "uk": "матерній",
+  "uk": "матерній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20369,7 +20391,7 @@
  },
  {
   "en": "mathematical",
-  "uk": "математичний",
+  "uk": "математичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20432,12 +20454,12 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rscan-000.json"
  },
  {
   "en": "mausoleum",
-  "uk": "мавзолей",
+  "uk": "мавзолей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20450,7 +20472,7 @@
  },
  {
   "en": "maximal",
-  "uk": "максимальний",
+  "uk": "максимальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20494,7 +20516,7 @@
  },
  {
   "en": "median",
-  "uk": "медіанний",
+  "uk": "медіанний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20560,7 +20582,7 @@
  },
  {
   "en": "megalithic",
-  "uk": "мегалітичний",
+  "uk": "мегалітичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20571,7 +20593,7 @@
  },
  {
   "en": "megathere",
-  "uk": "мегатерій",
+  "uk": "мегатерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20582,7 +20604,7 @@
  },
  {
   "en": "meiosis",
-  "uk": "мейоз",
+  "uk": "мейоз",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -20595,7 +20617,7 @@
  },
  {
   "en": "melancholic",
-  "uk": "меланхолічний",
+  "uk": "меланхолічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20617,7 +20639,7 @@
  },
  {
   "en": "meldonium",
-  "uk": "мельдоній",
+  "uk": "мельдоній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20630,7 +20652,7 @@
  },
  {
   "en": "melodic",
-  "uk": "мелодійний",
+  "uk": "мелодійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20689,7 +20711,7 @@
  },
  {
   "en": "memorial",
-  "uk": "меморіальний",
+  "uk": "меморіальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20746,7 +20768,7 @@
  },
  {
   "en": "menstrual",
-  "uk": "менструальний",
+  "uk": "менструальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20790,7 +20812,7 @@
  },
  {
   "en": "mesentery",
-  "uk": "мезентерій",
+  "uk": "мезентерій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20823,7 +20845,7 @@
  },
  {
   "en": "Mesozoic",
-  "uk": "мезозой",
+  "uk": "мезозой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20834,7 +20856,7 @@
  },
  {
   "en": "messianic",
-  "uk": "месіанський",
+  "uk": "месіанський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20845,7 +20867,7 @@
  },
  {
   "en": "metabolic",
-  "uk": "метаболічний",
+  "uk": "метаболічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20867,7 +20889,7 @@
  },
  {
   "en": "metallic",
-  "uk": "металевий",
+  "uk": "металевий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -20878,7 +20900,7 @@
  },
  {
   "en": "metallurgical",
-  "uk": "металургійний",
+  "uk": "металургійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21131,7 +21153,7 @@
  },
  {
   "en": "microscopic",
-  "uk": "мікроскопічний",
+  "uk": "мікроскопічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21164,7 +21186,7 @@
  },
  {
   "en": "microsporangium",
-  "uk": "мікроспорангій",
+  "uk": "мікроспорангій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21219,7 +21241,7 @@
  },
  {
   "en": "millionth",
-  "uk": "мільйонний",
+  "uk": "мільйонний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21252,7 +21274,7 @@
  },
  {
   "en": "mine",
-  "uk": "мінний",
+  "uk": "мінний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21263,7 +21285,7 @@
  },
  {
   "en": "mineral",
-  "uk": "мінеральний",
+  "uk": "мінеральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21296,7 +21318,7 @@
  },
  {
   "en": "minimal",
-  "uk": "мінімальний",
+  "uk": "мінімальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21329,7 +21351,7 @@
  },
  {
   "en": "ministerial",
-  "uk": "міністерський",
+  "uk": "міністерський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21408,7 +21430,7 @@
  },
  {
   "en": "mitochondrial",
-  "uk": "мітохондріальний",
+  "uk": "мітохондріальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21619,7 +21641,7 @@
  },
  {
   "en": "monochrome",
-  "uk": "монохромний",
+  "uk": "монохромний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21674,7 +21696,7 @@
  },
  {
   "en": "monolithic",
-  "uk": "монолітний",
+  "uk": "монолітний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21718,7 +21740,7 @@
  },
  {
   "en": "monsignor",
-  "uk": "монсеньйор",
+  "uk": "монсеньйор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21751,7 +21773,7 @@
  },
  {
   "en": "monumental",
-  "uk": "монументальний",
+  "uk": "монументальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21762,7 +21784,7 @@
  },
  {
   "en": "moral",
-  "uk": "моральний",
+  "uk": "моральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21773,7 +21795,7 @@
  },
  {
   "en": "moratorium",
-  "uk": "мораторій",
+  "uk": "мораторій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -21821,7 +21843,7 @@
  },
  {
   "en": "moscovium",
-  "uk": "московій",
+  "uk": "московій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21876,7 +21898,7 @@
  },
  {
   "en": "motorbike",
-  "uk": "мотобайк",
+  "uk": "мотобайк",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21922,7 +21944,7 @@
  },
  {
   "en": "mufti",
-  "uk": "муфтій",
+  "uk": "муфтій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -21955,7 +21977,7 @@
  },
  {
   "en": "multicultural",
-  "uk": "мультикультурний",
+  "uk": "мультикультурний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -21966,7 +21988,7 @@
  },
  {
   "en": "multimedia",
-  "uk": "мультимедійний",
+  "uk": "мультимедійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22010,7 +22032,7 @@
  },
  {
   "en": "museum",
-  "uk": "музей",
+  "uk": "музей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22121,6 +22143,17 @@
   "note": "мутації = genitive/plural of мутація; Ukrainian ending -ія.",
   "checked": 2,
   "src": "verify-035.json"
+ },
+ {
+  "en": "mycelium",
+  "uk": "міцелій",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
  },
  {
   "en": "mycobacterium",
@@ -22385,7 +22418,7 @@
  },
  {
   "en": "national interest",
-  "uk": "національний інтерес",
+  "uk": "національний інтерес",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22407,7 +22440,7 @@
  },
  {
   "en": "natural",
-  "uk": "натуральний",
+  "uk": "натуральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22521,7 +22554,7 @@
  },
  {
   "en": "negative",
-  "uk": "негативний",
+  "uk": "негативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22681,7 +22714,7 @@
  },
  {
   "en": "neurodegenerative",
-  "uk": "нейродегенеративний",
+  "uk": "нейродегенеративний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22692,7 +22725,7 @@
  },
  {
   "en": "neurofibromatosis",
-  "uk": "нейрофіброматоз",
+  "uk": "нейрофіброматоз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22703,7 +22736,7 @@
  },
  {
   "en": "neuroglia",
-  "uk": "нейроглія",
+  "uk": "нейроглія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22738,7 +22771,7 @@
  },
  {
   "en": "neurophysiology",
-  "uk": "нейрофізіологія",
+  "uk": "нейрофізіологія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22760,7 +22793,7 @@
  },
  {
   "en": "neurosurgeon",
-  "uk": "нейрохірург",
+  "uk": "нейрохірург",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22795,7 +22828,7 @@
  },
  {
   "en": "neutron",
-  "uk": "нейтронний",
+  "uk": "нейтронний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22817,7 +22850,7 @@
  },
  {
   "en": "nicotinic",
-  "uk": "нікотиновий",
+  "uk": "нікотиновий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22839,7 +22872,7 @@
  },
  {
   "en": "niobium",
-  "uk": "ніобій",
+  "uk": "ніобій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22861,7 +22894,7 @@
  },
  {
   "en": "nobelium",
-  "uk": "нобелій",
+  "uk": "нобелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22883,7 +22916,7 @@
  },
  {
   "en": "nominal",
-  "uk": "номінальний",
+  "uk": "номінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22942,7 +22975,7 @@
  },
  {
   "en": "normal",
-  "uk": "нормальний",
+  "uk": "нормальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22975,7 +23008,7 @@
  },
  {
   "en": "normative",
-  "uk": "нормативний",
+  "uk": "нормативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -22997,7 +23030,7 @@
  },
  {
   "en": "notary",
-  "uk": "нотарій",
+  "uk": "нотарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23043,7 +23076,7 @@
  },
  {
   "en": "novice",
-  "uk": "новіцій",
+  "uk": "новіцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23071,7 +23104,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rverify-011.json"
  },
  {
@@ -23102,7 +23135,7 @@
  },
  {
   "en": "nuncio",
-  "uk": "нунцій",
+  "uk": "нунцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23196,7 +23229,7 @@
  },
  {
   "en": "obsessive",
-  "uk": "обсесивний",
+  "uk": "обсесивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23218,7 +23251,7 @@
  },
  {
   "en": "occult",
-  "uk": "окультний",
+  "uk": "окультний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23229,7 +23262,7 @@
  },
  {
   "en": "oceanic",
-  "uk": "океанський",
+  "uk": "океанський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23308,7 +23341,7 @@
  },
  {
   "en": "offshore",
-  "uk": "офшорний",
+  "uk": "офшорний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23379,7 +23412,7 @@
  },
  {
   "en": "olympic",
-  "uk": "олімпійський",
+  "uk": "олімпійський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23447,7 +23480,7 @@
  },
  {
   "en": "operating",
-  "uk": "операційний",
+  "uk": "операційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23458,7 +23491,7 @@
  },
  {
   "en": "operating system",
-  "uk": "операційна система",
+  "uk": "операційна система",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23493,7 +23526,7 @@
  },
  {
   "en": "opium",
-  "uk": "опій",
+  "uk": "опій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -23518,7 +23551,7 @@
  },
  {
   "en": "optimal",
-  "uk": "оптимальний",
+  "uk": "оптимальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23529,7 +23562,7 @@
  },
  {
   "en": "optimistic",
-  "uk": "оптимістичний",
+  "uk": "оптимістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23564,7 +23597,7 @@
  },
  {
   "en": "oral",
-  "uk": "оральний",
+  "uk": "оральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23575,7 +23608,7 @@
  },
  {
   "en": "oral sex",
-  "uk": "оральний секс",
+  "uk": "оральний секс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23652,7 +23685,7 @@
  },
  {
   "en": "organizational",
-  "uk": "організаційний",
+  "uk": "організаційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23696,7 +23729,7 @@
  },
  {
   "en": "original",
-  "uk": "оригінальний",
+  "uk": "оригінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23753,7 +23786,7 @@
  },
  {
   "en": "orthogonal",
-  "uk": "ортогональний",
+  "uk": "ортогональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23764,7 +23797,7 @@
  },
  {
   "en": "orthopedic",
-  "uk": "ортопедичний",
+  "uk": "ортопедичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23788,7 +23821,7 @@
  },
  {
   "en": "osmium",
-  "uk": "осмій",
+  "uk": "осмій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23812,7 +23845,7 @@
  },
  {
   "en": "ossuary",
-  "uk": "осуарій",
+  "uk": "осуарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -23987,7 +24020,7 @@
  },
  {
   "en": "Paleolithic",
-  "uk": "палеолітичний",
+  "uk": "палеолітичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24031,7 +24064,7 @@
  },
  {
   "en": "Paleozoic",
-  "uk": "палеозой",
+  "uk": "палеозой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24042,7 +24075,7 @@
  },
  {
   "en": "palladium",
-  "uk": "паладій",
+  "uk": "паладій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24053,7 +24086,7 @@
  },
  {
   "en": "palliative",
-  "uk": "паліативний",
+  "uk": "паліативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24064,7 +24097,7 @@
  },
  {
   "en": "pallium",
-  "uk": "паллій",
+  "uk": "паллій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24154,7 +24187,7 @@
  },
  {
   "en": "panoramic",
-  "uk": "панорамний",
+  "uk": "панорамний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24211,7 +24244,7 @@
  },
  {
   "en": "paper tiger",
-  "uk": "паперовий тигр",
+  "uk": "паперовий тигр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24233,7 +24266,7 @@
  },
  {
   "en": "parabolic",
-  "uk": "параболічний",
+  "uk": "параболічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24277,7 +24310,7 @@
  },
  {
   "en": "parallel",
-  "uk": "паралельний",
+  "uk": "паралельний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24299,7 +24332,7 @@
  },
  {
   "en": "paralympic",
-  "uk": "паралімпійський",
+  "uk": "паралімпійський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24310,7 +24343,7 @@
  },
  {
   "en": "parametric",
-  "uk": "параметричний",
+  "uk": "параметричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24321,7 +24354,7 @@
  },
  {
   "en": "paranoia",
-  "uk": "паранойя",
+  "uk": "паранойя",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24332,7 +24365,7 @@
  },
  {
   "en": "paranoiac",
-  "uk": "параноїк",
+  "uk": "параноїк",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -24343,7 +24376,7 @@
  },
  {
   "en": "paranoid",
-  "uk": "параноїк",
+  "uk": "параноїк",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24354,7 +24387,7 @@
  },
  {
   "en": "paranoid schizophrenia",
-  "uk": "параноїдна шизофренія",
+  "uk": "параноїдна шизофренія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24409,7 +24442,7 @@
  },
  {
   "en": "parhelion",
-  "uk": "паргелій",
+  "uk": "паргелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24420,7 +24453,7 @@
  },
  {
   "en": "parliamentary",
-  "uk": "парламентський",
+  "uk": "парламентський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24527,7 +24560,7 @@
  },
  {
   "en": "pathogenic",
-  "uk": "патогенний",
+  "uk": "патогенний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24562,7 +24595,7 @@
  },
  {
   "en": "patriarchal",
-  "uk": "патріарший",
+  "uk": "патріарший",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24584,7 +24617,7 @@
  },
  {
   "en": "patrician",
-  "uk": "патрицій",
+  "uk": "патрицій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24597,7 +24630,7 @@
  },
  {
   "en": "patriotic",
-  "uk": "патріотичний",
+  "uk": "патріотичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24714,7 +24747,7 @@
  },
  {
   "en": "penitentiary",
-  "uk": "пенітенціарний",
+  "uk": "пенітенціарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24725,7 +24758,7 @@
  },
  {
   "en": "pension fund",
-  "uk": "пенсійний фонд",
+  "uk": "пенсійний фонд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24782,7 +24815,7 @@
  },
  {
   "en": "perihelion",
-  "uk": "перигелій",
+  "uk": "перигелій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24848,7 +24881,7 @@
  },
  {
   "en": "personal",
-  "uk": "персональний",
+  "uk": "персональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24892,7 +24925,7 @@
  },
  {
   "en": "pessary",
-  "uk": "песарій",
+  "uk": "песарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24905,7 +24938,7 @@
  },
  {
   "en": "pessimistic",
-  "uk": "песимістичний",
+  "uk": "песимістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -24938,7 +24971,7 @@
  },
  {
   "en": "peyote",
-  "uk": "пейотль",
+  "uk": "пейотль",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -25089,7 +25122,7 @@
  },
  {
   "en": "phenomenological",
-  "uk": "феноменологічний",
+  "uk": "феноменологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25135,7 +25168,7 @@
  },
  {
   "en": "philanthropic",
-  "uk": "філантропічний",
+  "uk": "філантропічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25216,7 +25249,7 @@
  },
  {
   "en": "philosophical",
-  "uk": "філософський",
+  "uk": "філософський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25295,7 +25328,7 @@
  },
  {
   "en": "photogenic",
-  "uk": "фотогенічний",
+  "uk": "фотогенічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25328,7 +25361,7 @@
  },
  {
   "en": "photographic",
-  "uk": "фотографічний",
+  "uk": "фотографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25383,7 +25416,7 @@
  },
  {
   "en": "photosynthetic",
-  "uk": "фотосинтетичний",
+  "uk": "фотосинтетичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25463,6 +25496,17 @@
   "src": "verify-012.json"
  },
  {
+  "en": "pier",
+  "uk": "пірс",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-audit3.json"
+ },
+ {
   "en": "pierogi",
   "uk": "пироги",
   "pos": "",
@@ -25489,7 +25533,7 @@
  },
  {
   "en": "piezoelectric",
-  "uk": "п'єзоелектричний",
+  "uk": "п'єзоелектричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25579,7 +25623,7 @@
  },
  {
   "en": "planetarium",
-  "uk": "планетарій",
+  "uk": "планетарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -25592,7 +25636,7 @@
  },
  {
   "en": "planetary",
-  "uk": "планетарний",
+  "uk": "планетарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25625,7 +25669,7 @@
  },
  {
   "en": "plasmodium",
-  "uk": "плазмодій",
+  "uk": "плазмодій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25684,7 +25728,7 @@
  },
  {
   "en": "plebeian",
-  "uk": "плебей",
+  "uk": "плебей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25706,7 +25750,7 @@
  },
  {
   "en": "plenary",
-  "uk": "пленарний",
+  "uk": "пленарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25750,7 +25794,7 @@
  },
  {
   "en": "plutonium",
-  "uk": "плутоній",
+  "uk": "плутоній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -25977,7 +26021,7 @@
  },
  {
   "en": "polymorphic",
-  "uk": "поліморфний",
+  "uk": "поліморфний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26010,7 +26054,7 @@
  },
  {
   "en": "polytechnic",
-  "uk": "політехнічний",
+  "uk": "політехнічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26122,7 +26166,7 @@
  },
  {
   "en": "pornographic",
-  "uk": "порнографічний",
+  "uk": "порнографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26155,7 +26199,7 @@
  },
  {
   "en": "port wine",
-  "uk": "портвейн",
+  "uk": "портвейн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26210,7 +26254,7 @@
  },
  {
   "en": "positive",
-  "uk": "позитивний",
+  "uk": "позитивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26256,7 +26300,7 @@
  },
  {
   "en": "potassium",
-  "uk": "калій",
+  "uk": "калій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26266,17 +26310,6 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1b.json"
- },
- {
-  "en": "potential",
-  "uk": "потенціал",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "t → ц (потенціал)",
-  "checked": 2,
-  "src": "verify-002.json"
  },
  {
   "en": "practice",
@@ -26326,7 +26359,7 @@
  },
  {
   "en": "pragmatic",
-  "uk": "прагматичний",
+  "uk": "прагматичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26383,7 +26416,7 @@
  },
  {
   "en": "prefectural",
-  "uk": "префектурний",
+  "uk": "префектурний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26405,7 +26438,7 @@
  },
  {
   "en": "prefrontal",
-  "uk": "префронтальний",
+  "uk": "префронтальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26438,7 +26471,7 @@
  },
  {
   "en": "preliminary",
-  "uk": "прелімінарії",
+  "uk": "прелімінарії",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26471,7 +26504,7 @@
  },
  {
   "en": "presidential",
-  "uk": "президентський",
+  "uk": "президентський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26561,7 +26594,7 @@
  },
  {
   "en": "primitive",
-  "uk": "примітивний",
+  "uk": "примітивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26594,7 +26627,7 @@
  },
  {
   "en": "private",
-  "uk": "приватний",
+  "uk": "приватний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26605,7 +26638,7 @@
  },
  {
   "en": "private detective",
-  "uk": "приватний детектив",
+  "uk": "приватний детектив",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26640,7 +26673,7 @@
  },
  {
   "en": "privilege",
-  "uk": "привілей",
+  "uk": "привілей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26651,7 +26684,7 @@
  },
  {
   "en": "proactive",
-  "uk": "проактивний",
+  "uk": "проактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26732,7 +26765,7 @@
  },
  {
   "en": "productive",
-  "uk": "продуктивний",
+  "uk": "продуктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26776,7 +26809,7 @@
  },
  {
   "en": "professional",
-  "uk": "професіональний",
+  "uk": "професіональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26787,7 +26820,7 @@
  },
  {
   "en": "professional",
-  "uk": "професійний",
+  "uk": "професійний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26798,7 +26831,7 @@
  },
  {
   "en": "professorial",
-  "uk": "професорський",
+  "uk": "професорський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26855,7 +26888,7 @@
  },
  {
   "en": "progressive",
-  "uk": "прогресивний",
+  "uk": "прогресивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26866,7 +26899,7 @@
  },
  {
   "en": "proletarian",
-  "uk": "пролетарський",
+  "uk": "пролетарський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26901,7 +26934,7 @@
  },
  {
   "en": "proletary",
-  "uk": "пролетарій",
+  "uk": "пролетарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -26925,7 +26958,7 @@
  },
  {
   "en": "promethium",
-  "uk": "прометій",
+  "uk": "прометій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -26980,7 +27013,7 @@
  },
  {
   "en": "prophylactic",
-  "uk": "профілактичний",
+  "uk": "профілактичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27092,7 +27125,7 @@
  },
  {
   "en": "protea",
-  "uk": "протей",
+  "uk": "протей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27103,7 +27136,7 @@
  },
  {
   "en": "proteinuria",
-  "uk": "протеїнурія",
+  "uk": "протеїнурія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27125,7 +27158,7 @@
  },
  {
   "en": "proterozoic",
-  "uk": "протерозой",
+  "uk": "протерозой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27149,7 +27182,7 @@
  },
  {
   "en": "proverbial",
-  "uk": "провербіальний",
+  "uk": "провербіальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27193,7 +27226,7 @@
  },
  {
   "en": "provocative",
-  "uk": "провокативний",
+  "uk": "провокативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27263,7 +27296,7 @@
  },
  {
   "en": "psychiatric",
-  "uk": "психіатричний",
+  "uk": "психіатричний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27296,7 +27329,7 @@
  },
  {
   "en": "psychoactive",
-  "uk": "психоактивний",
+  "uk": "психоактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27331,7 +27364,7 @@
  },
  {
   "en": "psychological",
-  "uk": "психологічний",
+  "uk": "психологічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27364,7 +27397,7 @@
  },
  {
   "en": "psychopathic",
-  "uk": "психопатичний",
+  "uk": "психопатичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27386,7 +27419,7 @@
  },
  {
   "en": "psychosomatic",
-  "uk": "психосоматичний",
+  "uk": "психосоматичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27476,7 +27509,7 @@
  },
  {
   "en": "punctual",
-  "uk": "пунктуальний",
+  "uk": "пунктуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27531,7 +27564,7 @@
  },
  {
   "en": "pygmy",
-  "uk": "пігмей",
+  "uk": "пігмей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27654,7 +27687,7 @@
  },
  {
   "en": "qualifying",
-  "uk": "кваліфайн",
+  "uk": "кваліфайн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27711,7 +27744,7 @@
  },
  {
   "en": "quartermaster",
-  "uk": "квартирмейстер",
+  "uk": "квартирмейстер",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -27724,7 +27757,7 @@
  },
  {
   "en": "queer",
-  "uk": "квірний",
+  "uk": "квірний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27801,7 +27834,7 @@
  },
  {
   "en": "radical",
-  "uk": "радикальний",
+  "uk": "радикальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27858,7 +27891,7 @@
  },
  {
   "en": "radioactive",
-  "uk": "радіоактивний",
+  "uk": "радіоактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -27904,7 +27937,7 @@
  },
  {
   "en": "radium",
-  "uk": "радій",
+  "uk": "радій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28007,7 +28040,7 @@
  },
  {
   "en": "rave culture",
-  "uk": "рейв-культура",
+  "uk": "рейв-культура",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28018,7 +28051,7 @@
  },
  {
   "en": "reactionary",
-  "uk": "реакційний",
+  "uk": "реакційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28029,7 +28062,7 @@
  },
  {
   "en": "reactive",
-  "uk": "реактивний",
+  "uk": "реактивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28040,7 +28073,7 @@
  },
  {
   "en": "real",
-  "uk": "реальний",
+  "uk": "реальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28062,7 +28095,7 @@
  },
  {
   "en": "realistic",
-  "uk": "реалістичний",
+  "uk": "реалістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28174,7 +28207,7 @@
  },
  {
   "en": "recursive",
-  "uk": "рекурсивний",
+  "uk": "рекурсивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28251,7 +28284,7 @@
  },
  {
   "en": "regalia",
-  "uk": "регалії",
+  "uk": "регалії",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -28264,7 +28297,7 @@
  },
  {
   "en": "regional",
-  "uk": "регіональний",
+  "uk": "регіональний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28308,7 +28341,7 @@
  },
  {
   "en": "regressive",
-  "uk": "регресивний",
+  "uk": "регресивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28319,7 +28352,7 @@
  },
  {
   "en": "regulatory",
-  "uk": "регуляторний",
+  "uk": "регуляторний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28385,7 +28418,7 @@
  },
  {
   "en": "relational",
-  "uk": "реляційний",
+  "uk": "реляційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28396,7 +28429,7 @@
  },
  {
   "en": "relational model",
-  "uk": "реляційна модель",
+  "uk": "реляційна модель",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28440,7 +28473,7 @@
  },
  {
   "en": "reliquary",
-  "uk": "релікварій",
+  "uk": "релікварій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28508,7 +28541,7 @@
  },
  {
   "en": "repertory",
-  "uk": "репертуарний",
+  "uk": "репертуарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28541,7 +28574,7 @@
  },
  {
   "en": "repository",
-  "uk": "репозитарій",
+  "uk": "репозитарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -28554,7 +28587,7 @@
  },
  {
   "en": "repository",
-  "uk": "репозиторій",
+  "uk": "репозиторій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -28589,7 +28622,7 @@
  },
  {
   "en": "reproductive",
-  "uk": "репродуктивний",
+  "uk": "репродуктивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28600,7 +28633,7 @@
  },
  {
   "en": "reproductive",
-  "uk": "репродукційний",
+  "uk": "репродукційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28666,7 +28699,7 @@
  },
  {
   "en": "respiratory",
-  "uk": "респіраторний",
+  "uk": "респіраторний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28782,7 +28815,7 @@
  },
  {
   "en": "revolutionary",
-  "uk": "революційний",
+  "uk": "революційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28828,7 +28861,7 @@
  },
  {
   "en": "rhenium",
-  "uk": "реній",
+  "uk": "реній",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28876,7 +28909,7 @@
  },
  {
   "en": "rhodium",
-  "uk": "родій",
+  "uk": "родій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -28968,7 +29001,7 @@
  },
  {
   "en": "ritual",
-  "uk": "ритуальний",
+  "uk": "ритуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29058,7 +29091,7 @@
  },
  {
   "en": "Romance",
-  "uk": "романський",
+  "uk": "романський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29080,7 +29113,7 @@
  },
  {
   "en": "Romanesque",
-  "uk": "романський",
+  "uk": "романський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29168,7 +29201,7 @@
  },
  {
   "en": "routine",
-  "uk": "рутинний",
+  "uk": "рутинний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29179,7 +29212,7 @@
  },
  {
   "en": "rubidium",
-  "uk": "рубідій",
+  "uk": "рубідій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29212,7 +29245,7 @@
  },
  {
   "en": "ruin",
-  "uk": "руїна",
+  "uk": "руїна",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -29269,7 +29302,7 @@
  },
  {
   "en": "russki",
-  "uk": "рускій",
+  "uk": "рускій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29302,7 +29335,7 @@
  },
  {
   "en": "sacral",
-  "uk": "сакральний",
+  "uk": "сакральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29324,7 +29357,7 @@
  },
  {
   "en": "sadistic",
-  "uk": "садистський",
+  "uk": "садистський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29346,7 +29379,7 @@
  },
  {
   "en": "saiga",
-  "uk": "сайгак",
+  "uk": "сайгак",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29381,7 +29414,7 @@
  },
  {
   "en": "samarium",
-  "uk": "самарій",
+  "uk": "самарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29392,7 +29425,7 @@
  },
  {
   "en": "same",
-  "uk": "самий",
+  "uk": "самий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29403,7 +29436,7 @@
  },
  {
   "en": "sanatorium",
-  "uk": "санаторій",
+  "uk": "санаторій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29436,7 +29469,7 @@
  },
  {
   "en": "sanitary",
-  "uk": "санітарний",
+  "uk": "санітарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29447,7 +29480,7 @@
  },
  {
   "en": "sapphire",
-  "uk": "сапфірний",
+  "uk": "сапфірний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29458,7 +29491,7 @@
  },
  {
   "en": "sarcastic",
-  "uk": "саркастичний",
+  "uk": "саркастичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29469,7 +29502,7 @@
  },
  {
   "en": "sarcoidosis",
-  "uk": "саркоїдоз",
+  "uk": "саркоїдоз",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29548,7 +29581,7 @@
  },
  {
   "en": "saturnalia",
-  "uk": "сатурналії",
+  "uk": "сатурналії",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29559,7 +29592,7 @@
  },
  {
   "en": "Scandinavian",
-  "uk": "скандинавський",
+  "uk": "скандинавський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29570,7 +29603,7 @@
  },
  {
   "en": "scandium",
-  "uk": "скандій",
+  "uk": "скандій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29581,7 +29614,7 @@
  },
  {
   "en": "scapular",
-  "uk": "скапулярій",
+  "uk": "скапулярій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29592,7 +29625,7 @@
  },
  {
   "en": "scarab",
-  "uk": "скарабей",
+  "uk": "скарабей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29614,7 +29647,7 @@
  },
  {
   "en": "scenario",
-  "uk": "сценарій",
+  "uk": "сценарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -29693,7 +29726,7 @@
  },
  {
   "en": "schizophrenic",
-  "uk": "шизофренічний",
+  "uk": "шизофренічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29772,7 +29805,7 @@
  },
  {
   "en": "scriptorium",
-  "uk": "скрипторій",
+  "uk": "скрипторій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29820,7 +29853,7 @@
  },
  {
   "en": "secret",
-  "uk": "секретний",
+  "uk": "секретний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29831,7 +29864,7 @@
  },
  {
   "en": "secretarial",
-  "uk": "секретарський",
+  "uk": "секретарський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29875,7 +29908,7 @@
  },
  {
   "en": "sedative",
-  "uk": "седативний",
+  "uk": "седативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29943,7 +29976,7 @@
  },
  {
   "en": "Semitic",
-  "uk": "семітський",
+  "uk": "семітський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29954,7 +29987,7 @@
  },
  {
   "en": "sensory",
-  "uk": "сенсорний",
+  "uk": "сенсорний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -29976,7 +30009,7 @@
  },
  {
   "en": "septic shock",
-  "uk": "септичний шок",
+  "uk": "септичний шок",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30101,7 +30134,7 @@
  },
  {
   "en": "sesterce",
-  "uk": "сестерцій",
+  "uk": "сестерцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30125,7 +30158,7 @@
  },
  {
   "en": "sexual",
-  "uk": "сексуальний",
+  "uk": "сексуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30362,7 +30395,7 @@
  },
  {
   "en": "skeletal",
-  "uk": "скелетний",
+  "uk": "скелетний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30443,7 +30476,7 @@
  },
  {
   "en": "smiley",
-  "uk": "смайл",
+  "uk": "смайл",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30456,7 +30489,7 @@
  },
  {
   "en": "smiley",
-  "uk": "смайлик",
+  "uk": "смайлик",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30480,7 +30513,7 @@
  },
  {
   "en": "snowy",
-  "uk": "сніговий",
+  "uk": "сніговий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30558,7 +30591,7 @@
   "lvl": null,
   "labels": [],
   "note": "English soloist has an extra -o- (solo + ist).",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-087.json"
  },
  {
@@ -30623,7 +30656,7 @@
  },
  {
   "en": "spartan",
-  "uk": "спартанський",
+  "uk": "спартанський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30656,7 +30689,7 @@
  },
  {
   "en": "spectral",
-  "uk": "спектральний",
+  "uk": "спектральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30713,7 +30746,7 @@
  },
  {
   "en": "speculative",
-  "uk": "спекулятивний",
+  "uk": "спекулятивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30768,7 +30801,7 @@
  },
  {
   "en": "spermatozoon",
-  "uk": "сперматозоїд",
+  "uk": "сперматозоїд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30834,7 +30867,7 @@
  },
  {
   "en": "spiral",
-  "uk": "спіральний",
+  "uk": "спіральний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -30867,7 +30900,7 @@
  },
  {
   "en": "sporting",
-  "uk": "спортивний",
+  "uk": "спортивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31056,7 +31089,7 @@
  },
  {
   "en": "stationary",
-  "uk": "стаціонарний",
+  "uk": "стаціонарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31127,7 +31160,7 @@
  },
  {
   "en": "sterile",
-  "uk": "стерильний",
+  "uk": "стерильний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31195,7 +31228,7 @@
  },
  {
   "en": "Stockholm syndrome",
-  "uk": "стокгольмський синдром",
+  "uk": "стокгольмський синдром",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31283,7 +31316,7 @@
  },
  {
   "en": "strategic",
-  "uk": "стратегічний",
+  "uk": "стратегічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31384,7 +31417,7 @@
  },
  {
   "en": "strontium",
-  "uk": "стронцій",
+  "uk": "стронцій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31395,7 +31428,7 @@
  },
  {
   "en": "structural",
-  "uk": "структурний",
+  "uk": "структурний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31428,7 +31461,7 @@
  },
  {
   "en": "stylistic",
-  "uk": "стилістичний",
+  "uk": "стилістичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31529,7 +31562,7 @@
  },
  {
   "en": "Sufi",
-  "uk": "суфій",
+  "uk": "суфій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -31575,7 +31608,7 @@
  },
  {
   "en": "superhero",
-  "uk": "супергерой",
+  "uk": "супергерой",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31586,7 +31619,7 @@
  },
  {
   "en": "suppository",
-  "uk": "супозиторій",
+  "uk": "супозиторій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31630,7 +31663,7 @@
  },
  {
   "en": "symbiotic",
-  "uk": "симбіотичний",
+  "uk": "симбіотичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31674,7 +31707,7 @@
  },
  {
   "en": "symphony orchestra",
-  "uk": "симфонічний оркестр",
+  "uk": "симфонічний оркестр",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31685,7 +31718,7 @@
  },
  {
   "en": "symposium",
-  "uk": "симпосій",
+  "uk": "симпосій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31696,7 +31729,7 @@
  },
  {
   "en": "symptomatic",
-  "uk": "симптоматичний",
+  "uk": "симптоматичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31830,7 +31863,7 @@
  },
  {
   "en": "systematic",
-  "uk": "систематичний",
+  "uk": "систематичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31852,7 +31885,7 @@
  },
  {
   "en": "systemic",
-  "uk": "системний",
+  "uk": "системний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31909,7 +31942,7 @@
  },
  {
   "en": "talaria",
-  "uk": "таларії",
+  "uk": "таларії",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -31999,7 +32032,7 @@
  },
  {
   "en": "taxonomic",
-  "uk": "таксономічний",
+  "uk": "таксономічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32032,7 +32065,7 @@
  },
  {
   "en": "technetium",
-  "uk": "технецій",
+  "uk": "технецій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32124,7 +32157,7 @@
  },
  {
   "en": "telephone",
-  "uk": "телефонний",
+  "uk": "телефонний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32146,7 +32179,7 @@
  },
  {
   "en": "telephone number",
-  "uk": "телефонний номер",
+  "uk": "телефонний номер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32168,7 +32201,7 @@
  },
  {
   "en": "telescopic",
-  "uk": "телескопічний",
+  "uk": "телескопічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32179,7 +32212,7 @@
  },
  {
   "en": "television program",
-  "uk": "телевізійна програма",
+  "uk": "телевізійна програма",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32269,7 +32302,7 @@
  },
  {
   "en": "tennis court",
-  "uk": "тенісний корт",
+  "uk": "тенісний корт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32346,7 +32379,7 @@
  },
  {
   "en": "terrarium",
-  "uk": "терарій",
+  "uk": "терарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32357,7 +32390,7 @@
  },
  {
   "en": "territorial",
-  "uk": "територіальний",
+  "uk": "територіальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32414,7 +32447,7 @@
  },
  {
   "en": "thallium",
-  "uk": "талій",
+  "uk": "талій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32493,7 +32526,7 @@
  },
  {
   "en": "theoretical",
-  "uk": "теоретичний",
+  "uk": "теоретичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32563,7 +32596,7 @@
  },
  {
   "en": "thermal",
-  "uk": "термальний",
+  "uk": "термальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32574,7 +32607,7 @@
  },
  {
   "en": "thermodynamic",
-  "uk": "термодинамічний",
+  "uk": "термодинамічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32596,7 +32629,7 @@
  },
  {
   "en": "thorium",
-  "uk": "торій",
+  "uk": "торій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32662,7 +32695,7 @@
  },
  {
   "en": "thulium",
-  "uk": "тулій",
+  "uk": "тулій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32695,7 +32728,7 @@
  },
  {
   "en": "Tibetan mastiff",
-  "uk": "тибетський мастиф",
+  "uk": "тибетський мастиф",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32717,7 +32750,7 @@
  },
  {
   "en": "titular",
-  "uk": "титульний",
+  "uk": "титульний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32739,7 +32772,7 @@
  },
  {
   "en": "tolerant",
-  "uk": "толерантний",
+  "uk": "толерантний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32862,7 +32895,7 @@
  },
  {
   "en": "topographic",
-  "uk": "топографічний",
+  "uk": "топографічний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -32952,7 +32985,7 @@
  },
  {
   "en": "totalitarian",
-  "uk": "тоталітарний",
+  "uk": "тоталітарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33066,7 +33099,7 @@
  },
  {
   "en": "traditional",
-  "uk": "традиційний",
+  "uk": "традиційний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33099,7 +33132,7 @@
  },
  {
   "en": "tram",
-  "uk": "трамвай",
+  "uk": "трамвай",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33125,7 +33158,7 @@
  },
  {
   "en": "transatlantic",
-  "uk": "трансатлантичний",
+  "uk": "трансатлантичний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33193,7 +33226,7 @@
  },
  {
   "en": "transitive",
-  "uk": "транзитивний",
+  "uk": "транзитивний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33226,7 +33259,7 @@
  },
  {
   "en": "transmembrane",
-  "uk": "трансмембранний",
+  "uk": "трансмембранний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33367,7 +33400,7 @@
  },
  {
   "en": "triforium",
-  "uk": "трифорій",
+  "uk": "трифорій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33411,7 +33444,7 @@
  },
  {
   "en": "triumphal",
-  "uk": "тріумфальний",
+  "uk": "тріумфальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33433,7 +33466,7 @@
  },
  {
   "en": "trivial",
-  "uk": "тривіальний",
+  "uk": "тривіальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33455,7 +33488,7 @@
  },
  {
   "en": "troika",
-  "uk": "трійка",
+  "uk": "трійка",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -33482,7 +33515,7 @@
  },
  {
   "en": "trophy",
-  "uk": "трофей",
+  "uk": "трофей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33583,7 +33616,7 @@
  },
  {
   "en": "turbulent",
-  "uk": "турбулентний",
+  "uk": "турбулентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33696,7 +33729,7 @@
  },
  {
   "en": "ukraino-",
-  "uk": "українсько-",
+  "uk": "українсько-",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33707,7 +33740,7 @@
  },
  {
   "en": "ukraino-",
-  "uk": "україно-",
+  "uk": "україно-",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33718,7 +33751,7 @@
  },
  {
   "en": "ukrainophilia",
-  "uk": "українофілія",
+  "uk": "українофілія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33729,7 +33762,7 @@
  },
  {
   "en": "ukrainophobia",
-  "uk": "українофобія",
+  "uk": "українофобія",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33777,7 +33810,7 @@
  },
  {
   "en": "unitary",
-  "uk": "унітарний",
+  "uk": "унітарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33788,7 +33821,7 @@
  },
  {
   "en": "universal",
-  "uk": "універсальний",
+  "uk": "універсальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -33992,7 +34025,7 @@
  },
  {
   "en": "vacant",
-  "uk": "вакантний",
+  "uk": "вакантний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34027,7 +34060,7 @@
  },
  {
   "en": "vaginal",
-  "uk": "вагінальний",
+  "uk": "вагінальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34106,7 +34139,7 @@
  },
  {
   "en": "vanadium",
-  "uk": "ванадій",
+  "uk": "ванадій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34253,7 +34286,7 @@
  },
  {
   "en": "vegetative",
-  "uk": "вегетативний",
+  "uk": "вегетативний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34264,7 +34297,7 @@
  },
  {
   "en": "verbal",
-  "uk": "вербальний",
+  "uk": "вербальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34321,7 +34354,7 @@
  },
  {
   "en": "vertical",
-  "uk": "вертикальний",
+  "uk": "вертикальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34365,7 +34398,7 @@
  },
  {
   "en": "vicar",
-  "uk": "вікарій",
+  "uk": "вікарій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34422,7 +34455,7 @@
  },
  {
   "en": "viral marketing",
-  "uk": "вірусний маркетинг",
+  "uk": "вірусний маркетинг",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34446,7 +34479,7 @@
  },
  {
   "en": "virtual",
-  "uk": "віртуальний",
+  "uk": "віртуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34514,7 +34547,7 @@
  },
  {
   "en": "vocal",
-  "uk": "вокальний",
+  "uk": "вокальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34547,7 +34580,7 @@
  },
  {
   "en": "voronezhian",
-  "uk": "воронезький",
+  "uk": "воронезький",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34558,7 +34591,7 @@
  },
  {
   "en": "vulgar",
-  "uk": "вульгарний",
+  "uk": "вульгарний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34626,7 +34659,7 @@
  },
  {
   "en": "webmaster",
-  "uk": "вебмайстер",
+  "uk": "вебмайстер",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34707,7 +34740,7 @@
  },
  {
   "en": "worthy",
-  "uk": "вартий",
+  "uk": "вартий",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34729,7 +34762,7 @@
  },
  {
   "en": "xenophobic",
-  "uk": "ксенофобський",
+  "uk": "ксенофобський",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34795,7 +34828,7 @@
  },
  {
   "en": "xylospongium",
-  "uk": "ксилоспонгій",
+  "uk": "ксилоспонгій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34855,7 +34888,7 @@
  },
  {
   "en": "yiddishism",
-  "uk": "їдишизм",
+  "uk": "їдишизм",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34866,7 +34899,7 @@
  },
  {
   "en": "yogi",
-  "uk": "йог",
+  "uk": "йог",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -34899,7 +34932,7 @@
  },
  {
   "en": "ytterbium",
-  "uk": "ітербій",
+  "uk": "ітербій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34934,7 +34967,7 @@
  },
  {
   "en": "zaporizhian",
-  "uk": "запорізький",
+  "uk": "запорізький",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34945,7 +34978,7 @@
  },
  {
   "en": "zaporozhian",
-  "uk": "запорозький",
+  "uk": "запорозький",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -34991,7 +35024,7 @@
  },
  {
   "en": "zirconium",
-  "uk": "цирконій",
+  "uk": "цирконій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -35015,7 +35048,7 @@
  },
  {
   "en": "zloty",
-  "uk": "злотий",
+  "uk": "злотий",
   "pos": "noun",
   "british": false,
   "lvl": null,

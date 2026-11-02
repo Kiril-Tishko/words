@@ -34,7 +34,7 @@
  },
  {
   "en": "accurate",
-  "uk": "акуратний",
+  "uk": "акуратний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -56,7 +56,7 @@
  },
  {
   "en": "actual",
-  "uk": "актуальний",
+  "uk": "актуальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -247,6 +247,17 @@
   "src": "rscan-007.json"
  },
  {
+  "en": "balloon",
+  "uk": "балон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "Ukrainian балон is mainly a gas cylinder / aerosol can (also a tyre); a toy or air balloon is повітряна кулька.",
+  "checked": 2,
+  "src": "scan-015.json"
+ },
+ {
   "en": "band",
   "uk": "банда",
   "pos": "noun",
@@ -374,7 +385,7 @@
  },
  {
   "en": "billion",
-  "uk": "більйон",
+  "uk": "більйон",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -530,7 +541,7 @@
  },
  {
   "en": "bullion",
-  "uk": "бульйон",
+  "uk": "бульйон",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -705,7 +716,7 @@
   "lvl": null,
   "labels": [],
   "note": "",
-  "checked": 1,
+  "checked": 2,
   "src": "rverify-005.json"
  },
  {
@@ -765,7 +776,7 @@
  },
  {
   "en": "city light",
-  "uk": "сіті-лайт",
+  "uk": "сіті-лайт",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -776,7 +787,7 @@
  },
  {
   "en": "clay",
-  "uk": "клей",
+  "uk": "клей",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -923,7 +934,7 @@
  },
  {
   "en": "concurrent",
-  "uk": "конкурентний",
+  "uk": "конкурентний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -945,7 +956,7 @@
  },
  {
   "en": "conduit",
-  "uk": "кондуїт",
+  "uk": "кондуїт",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -991,7 +1002,7 @@
  },
  {
   "en": "confinement",
-  "uk": "конфайнмент",
+  "uk": "конфайнмент",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1764,7 +1775,7 @@
  },
  {
   "en": "genial",
-  "uk": "геніальний",
+  "uk": "геніальний",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -1926,7 +1937,7 @@
  },
  {
   "en": "heroine",
-  "uk": "героїн",
+  "uk": "героїн",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -2049,7 +2060,7 @@
  },
  {
   "en": "inside",
-  "uk": "інсайд",
+  "uk": "інсайд",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2148,7 +2159,7 @@
  },
  {
   "en": "kailo",
-  "uk": "кайло",
+  "uk": "кайло",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2236,7 +2247,7 @@
  },
  {
   "en": "lapidary",
-  "uk": "лапідарій",
+  "uk": "лапідарій",
   "pos": "noun",
   "british": false,
   "lvl": null,
@@ -2473,7 +2484,7 @@
  },
  {
   "en": "make",
-  "uk": "мейк",
+  "uk": "мейк",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2583,7 +2594,7 @@
  },
  {
   "en": "mayor",
-  "uk": "майор",
+  "uk": "майор",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2594,7 +2605,7 @@
  },
  {
   "en": "mercury",
-  "uk": "меркурій",
+  "uk": "меркурій",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -2944,17 +2955,6 @@
  },
  {
   "en": "persona",
-  "uk": "персона",
-  "pos": "noun",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "Ukrainian персона = (important) person; English persona = public image or role. Shared only in persona non grata.",
-  "checked": 1,
-  "src": "scan-009.json"
- },
- {
-  "en": "persona",
   "uk": "персонаж",
   "pos": "",
   "british": false,
@@ -3207,7 +3207,7 @@
   "lvl": null,
   "labels": [],
   "note": "Ukrainian псевдо = a pseudonym or call sign; English pseudo = fake, a pretentious person",
-  "checked": 1,
+  "checked": 2,
   "src": "verify-036.json"
  },
  {
@@ -3601,7 +3601,7 @@
  },
  {
   "en": "shaping",
-  "uk": "шейпінг",
+  "uk": "шейпінг",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3689,7 +3689,7 @@
  },
  {
   "en": "spice",
-  "uk": "спайс",
+  "uk": "спайс",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3755,7 +3755,7 @@
  },
  {
   "en": "stein",
-  "uk": "штейн",
+  "uk": "штейн",
   "pos": "",
   "british": false,
   "lvl": null,
@@ -3953,7 +3953,7 @@
  },
  {
   "en": "time",
-  "uk": "тайм",
+  "uk": "тайм",
   "pos": "noun",
   "british": false,
   "lvl": null,

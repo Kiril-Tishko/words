@@ -1,0 +1,47 @@
+{
+ "en": {
+  "sample": 1000,
+  "claimed": 148,
+  "found": 96,
+  "real_misses": 14,
+  "recall": 0.873,
+  "found_common": 63,
+  "real_misses_common": 7,
+  "recall_common": 0.9,
+  "misses": [
+   "trail=трейл",
+   "stasis=стазис",
+   "motherfucker=мазафакер",
+   "ramekin=рамекін",
+   "go-go=гоу-гоу",
+   "potential=потенціал",
+   "workout=воркаут",
+   "chancellor=канцлер",
+   "cheating=читинг",
+   "shortcut=шорткат",
+   "zein=зеїн",
+   "prompter=промптер",
+   "sirdar=сердар",
+   "shutout=шатаут"
+  ]
+ },
+ "uk": {
+  "sample": 1000,
+  "claimed": 132,
+  "found": 93,
+  "real_misses": 7,
+  "recall": 0.93,
+  "found_common": 58,
+  "real_misses_common": 5,
+  "recall_common": 0.921,
+  "misses": [
+   "national liberalism=націонал-лібералізм",
+   "sex theater=секс-театр",
+   "revanchism=реваншизм",
+   "national liberal=націонал-ліберал",
+   "sport bar=спорт-бар",
+   "wiki project=вікі-проєкт",
+   "subtropics=субтропіки"
+  ]
+ }
+}
