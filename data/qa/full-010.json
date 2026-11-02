@@ -1,0 +1,744 @@
+{
+ "carnival": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a carnival · carnivals",
+  "say": "",
+  "note": "In the US, a carnival is also a traveling fair with rides and games.",
+  "ex": [
+   "Our town has a big carnival every February.",
+   "We wore masks and bright costumes to the carnival.",
+   "Are you going to the carnival parade on Saturday?",
+   "Music and dancing filled the streets during the carnival."
+  ]
+ },
+ "reactor": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a reactor · reactors",
+  "say": "",
+  "note": ""
+ },
+ "rehab": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "rehab · uncountable",
+  "say": "",
+  "note": "Informal; usually no article: \"go to rehab,\" \"be in rehab.\"",
+  "ex": [
+   "He went to rehab to stop drinking.",
+   "She spent two months in rehab last year.",
+   "The rehab center is outside the city.",
+   "Is your brother still in rehab for drugs?"
+  ]
+ },
+ "dime": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a dime · dimes",
+  "say": "",
+  "note": "A US or Canadian coin worth ten cents.",
+  "ex": [
+   "I found a dime under the couch cushion.",
+   "A dime is worth ten cents in the US.",
+   "Can you lend me a dime for the parking meter?",
+   "I need two dimes and a quarter for the machine."
+  ]
+ },
+ "pony": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a pony · ponies",
+  "say": "",
+  "note": ""
+ },
+ "battalion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a battalion · battalions",
+  "say": "",
+  "note": ""
+ },
+ "marshal": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a marshal · marshals",
+  "say": "",
+  "note": "Most often a marshal is a US police officer or an official at an event: \"a fire marshal.\""
+ },
+ "organic": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We only buy organic vegetables at the market.",
+   "Is organic food really better for your health?",
+   "The farm near our town grows organic apples.",
+   "She prefers organic milk for her kids."
+  ]
+ },
+ "elf": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an elf · elves",
+  "say": "",
+  "note": "Irregular plural: \"elves\".",
+  "ex": [
+   "The elf in the story had pointed ears.",
+   "She dressed up as an elf for Christmas.",
+   "In this game, you can play as an elf.",
+   "Elves live in the forest in many old stories."
+  ]
+ },
+ "barrel": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a barrel · barrels",
+  "say": "",
+  "note": "Also a big round container for wine or water, and the tube of a gun.",
+  "ex": [
+   "Oil prices rose to ninety dollars a barrel.",
+   "The country produces a million barrels a day.",
+   "The price of a barrel of oil fell.",
+   "How many liters are in one barrel of oil?"
+  ]
+ },
+ "narrative": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a narrative · narratives",
+  "say": "",
+  "note": ""
+ },
+ "disc": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a disc · discs",
+  "say": "",
+  "note": "\"Disc\" is usual for CDs and DVDs; \"disk\" for computer disks."
+ },
+ "hacker": {
+  "v": "keep",
+  "s": 97,
+  "reg": [],
+  "ns": false,
+  "gram": "a hacker · hackers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A hacker stole thousands of passwords from the site.",
+   "Hackers attacked the bank's website last night.",
+   "He used to be a hacker as a teen.",
+   "Use a strong password to protect your account from hackers."
+  ]
+ },
+ "spray": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a spray · sprays",
+  "say": "",
+  "note": "Also a verb: \"spray the plants.\" It can mean small drops of water: \"sea spray.\"",
+  "ex": [
+   "Use bug spray before you go camping.",
+   "She bought a can of hair spray.",
+   "This cleaning spray smells like lemons.",
+   "Can you recommend a good spray for a sore throat?"
+  ]
+ },
+ "mhm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Informal; used in speaking or chat to mean \"yes\" or \"I'm listening.\""
+ },
+ "organism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an organism · organisms",
+  "say": "",
+  "note": "For the human body, say \"body\": \"Sleep is good for your body.\"",
+  "ex": [
+   "Bacteria are tiny organisms that live almost everywhere.",
+   "Every living organism needs water and energy.",
+   "The lake is full of small living organisms.",
+   "Scientists found a new organism deep in the ocean."
+  ]
+ },
+ "gallon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gallon · gallons",
+  "say": "",
+  "note": "Used mainly in the US; one gallon is about 3.8 liters.",
+  "ex": [
+   "Gas costs four dollars a gallon.",
+   "We bought a gallon of milk.",
+   "Our car's tank holds about fifteen gallons.",
+   "Drink half a gallon of water a day."
+  ]
+ },
+ "scan": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a scan · scans",
+  "say": "",
+  "note": "Often a verb: \"scan the code.\" Also a medical test: \"a brain scan.\"",
+  "ex": [
+   "Send me a scan of your passport, please.",
+   "Can you make a scan of this document?",
+   "I saved the scan as a PDF file.",
+   "The scan of the contract is in your email."
+  ]
+ },
+ "printer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a printer · printers",
+  "say": "",
+  "note": ""
+ },
+ "franc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a franc · francs",
+  "say": "",
+  "note": "Today the franc is used mainly in Switzerland.",
+  "ex": [
+   "The Swiss franc is a very stable currency.",
+   "Lunch in Zurich cost us thirty francs.",
+   "France used the franc before the euro.",
+   "How many francs do I get for one hundred dollars?"
+  ]
+ },
+ "ring": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a ring · rings",
+  "say": "",
+  "note": "Most often a \"ring\" is jewelry for your finger, or a verb: \"The phone is ringing.\""
+ },
+ "nim": {
+  "v": "proper_noun",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "nim · uncountable",
+  "say": "",
+  "note": "Usually a name. As a word, nim is a math game: players take turns taking objects from piles.",
+  "ex": [
+   "Nim is a game for two players with small objects.",
+   "In nim, each player takes some stones from a pile.",
+   "Our math teacher showed us how to play nim.",
+   "The player who takes the last stone wins at nim."
+  ]
+ },
+ "solo": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a solo · solos",
+  "say": "",
+  "note": "Also means \"alone\": \"She traveled solo,\" \"a solo album.\"",
+  "ex": [
+   "She played a long guitar solo at the concert.",
+   "The drum solo was the best part of the show.",
+   "He sang a solo in the school show.",
+   "Can you play the piano solo for us again?"
+  ]
+ },
+ "lobster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a lobster · lobsters",
+  "say": "",
+  "note": ""
+ },
+ "player": {
+  "v": "partial_false_friend",
+  "s": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a player · players",
+  "say": "",
+  "note": "Most often a \"player\" is a person who plays a sport or game: \"a tennis player.\""
+ },
+ "tag": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a tag · tags",
+  "say": "",
+  "note": "Often a small label: \"a price tag,\" \"a name tag.\" Also a verb: \"tag a friend.\""
+ },
+ "genre": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a genre · genres",
+  "say": "",
+  "note": "",
+  "ex": [
+   "What genre of music do you like best?",
+   "Jazz is my favorite music genre.",
+   "She writes books in many different genres.",
+   "Horror is a very popular genre with teenagers."
+  ]
+ },
+ "reef": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a reef · reefs",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We went snorkeling on the coral reef.",
+   "The reef is full of colorful fish.",
+   "Our boat almost hit a reef near the island.",
+   "Is it safe to swim near the reef?"
+  ]
+ },
+ "shot": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a shot · shots",
+  "say": "",
+  "note": "Most often \"shot\" means firing a gun, a try, or a vaccine: \"a flu shot.\"",
+  "ex": [
+   "Let's order a round of shots for everyone.",
+   "He drank a shot of tequila at the bar.",
+   "Two shots of vodka are enough for me tonight.",
+   "Can we get three shots of tequila, please?"
+  ]
+ },
+ "samurai": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a samurai · samurai",
+  "say": "",
+  "note": "Plural is usually \"samurai\"."
+ },
+ "distress": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "distress · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of distress (not \"a distress\").",
+  "ex": [
+   "She was in great distress after the bad news.",
+   "The loud noise caused the dog a lot of distress.",
+   "Call a doctor if the patient shows signs of distress.",
+   "Talking to a friend can help reduce emotional distress."
+  ]
+ },
+ "telescope": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a telescope · telescopes",
+  "say": "",
+  "note": ""
+ },
+ "jeep": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a jeep · jeeps",
+  "say": "",
+  "note": "\"Jeep\" is also a brand; for any such car say \"SUV\" or \"four-wheel drive\".",
+  "ex": [
+   "We drove an old jeep through the desert.",
+   "The jeep got stuck in the mud.",
+   "He rented a jeep for the mountain trip.",
+   "The soldiers rode in an open army jeep."
+  ]
+ },
+ "clip": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a clip · clips",
+  "say": "",
+  "note": "Also a small thing that holds things: \"a paper clip.\" A song's video is a \"music video.\""
+ },
+ "musical": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a musical · musicals",
+  "say": "",
+  "note": "Most often \"musical\" is an adjective: \"musical instruments,\" \"a musical family.\"",
+  "ex": [
+   "We saw a great musical in the city theater.",
+   "She sang in the school musical last spring.",
+   "The musical has some really great songs.",
+   "Do you want to see a musical this weekend?"
+  ]
+ },
+ "detector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a detector · detectors",
+  "say": "",
+  "note": ""
+ },
+ "alpha": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an alpha · alphas",
+  "say": "",
+  "note": "Also a first test version (\"alpha version\") and a leader (\"alpha male\")."
+ },
+ "coupon": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a coupon · coupons",
+  "say": "",
+  "note": ""
+ },
+ "tractor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tractor · tractors",
+  "say": "",
+  "note": ""
+ },
+ "superstar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a superstar · superstars",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She became a superstar after her first album.",
+   "The superstar signed autographs for his fans.",
+   "He is a soccer superstar in his country.",
+   "Everyone wanted a photo with the superstar."
+  ]
+ },
+ "drill": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a drill · drills",
+  "say": "",
+  "note": "Also a practice exercise: \"a fire drill.\" As a verb: \"drill a hole.\"",
+  "ex": [
+   "He used a drill to make a hole in the wall.",
+   "Can I borrow your drill this weekend?",
+   "This old drill is very loud.",
+   "She bought a new electric drill at the store."
+  ]
+ },
+ "sticker": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sticker · stickers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "My daughter put stickers on her notebook.",
+   "His laptop is covered with funny stickers.",
+   "Remove the price sticker before you give the gift.",
+   "The teacher gave him a gold sticker for good work."
+  ]
+ },
+ "badge": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a badge · badges",
+  "say": "",
+  "note": "Often a police badge or a small pin. A card with your name is often a \"name tag.\"",
+  "ex": [
+   "Please wear your badge at all times.",
+   "Show your badge at the entrance, please.",
+   "The guard at the door checked my badge.",
+   "I lost my badge on the first day of the conference."
+  ]
+ },
+ "coaching": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "coaching · uncountable",
+  "say": "",
+  "note": "Often about sports: \"The team needs better coaching.\" Uncountable.",
+  "ex": [
+   "She offers career coaching to young managers online.",
+   "Coaching helped him become a better manager.",
+   "The company pays for coaching for its team leaders.",
+   "Do you think life coaching really works?"
+  ]
+ },
+ "madame": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a madame · mesdames",
+  "say": "",
+  "note": "In English \"madam\" is more common; \"madame\" sounds French.",
+  "ex": [
+   "\"Madame, your table is ready,\" said the waiter.",
+   "\"Good evening, madame,\" the hotel worker said politely.",
+   "Excuse me, madame, is this your bag?",
+   "The waiter asked, \"Would madame like some coffee?\""
+  ]
+ },
+ "cement": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "cement · uncountable",
+  "say": "",
+  "note": "Uncountable: some cement, a bag of cement (not \"a cement\").",
+  "ex": [
+   "The workers mixed the cement with sand and water.",
+   "The cement needs a full day to dry.",
+   "We bought ten bags of cement for the garage.",
+   "Is the floor in the basement made of cement?"
+  ]
+ },
+ "bracelet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bracelet · bracelets",
+  "say": "",
+  "note": ""
+ },
+ "gin": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "gin · uncountable",
+  "say": "",
+  "note": "Uncountable: some gin, a glass of gin; in a bar, \"a gin\" means one drink.",
+  "ex": [
+   "He ordered a gin and tonic at the bar.",
+   "This gin tastes a bit like pine trees.",
+   "Add a little lime to your gin.",
+   "She doesn't drink gin or whiskey."
+  ]
+ },
+ "auto": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an auto · autos",
+  "say": "",
+  "note": "Mostly used before other words: \"auto parts.\" In everyday speech, people say \"car.\"",
+  "ex": [
+   "He works in an auto repair shop.",
+   "The auto industry is growing fast this year.",
+   "Auto insurance is very expensive in this city.",
+   "She bought auto parts online for her old car."
+  ]
+ },
+ "disk": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a disk · disks",
+  "say": "",
+  "note": "\"Disk\" is usual for computers; for CDs and DVDs, \"disc\" is more common."
+ },
+ "microphone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a microphone · microphones",
+  "say": "",
+  "note": "Often shortened to \"mic\"."
+ },
+ "magnet": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a magnet · magnets",
+  "say": "",
+  "note": ""
+ },
+ "hydrogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "hydrogen · uncountable",
+  "say": "",
+  "note": "Uncountable: hydrogen (not \"a hydrogen\").",
+  "ex": [
+   "Water is made of hydrogen and oxygen.",
+   "Hydrogen is the lightest gas in the world.",
+   "This new bus runs on hydrogen instead of diesel.",
+   "The sun is made mostly of hydrogen."
+  ]
+ },
+ "kris": {
+  "v": "proper_noun",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a kris · krises",
+  "say": "",
+  "note": "Most often \"Kris\" is a first name. A kris is a wavy dagger from Indonesia.",
+  "ex": [
+   "A kris is a small dagger with a wavy blade.",
+   "The museum has an old kris from Indonesia.",
+   "He bought a kris as a gift on his trip.",
+   "The kris hangs on the wall in their living room."
+  ]
+ },
+ "banking": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "banking · uncountable",
+  "say": "",
+  "note": "Uncountable: online banking (not \"a banking\").",
+  "ex": [
+   "She has worked in banking for ten years.",
+   "Mobile banking is fast and easy.",
+   "He chose a career in banking.",
+   "This app makes online banking simple and safe."
+  ]
+ },
+ "terminal": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a terminal · terminals",
+  "say": "",
+  "note": "As an adjective, \"terminal\" means causing death: \"a terminal illness.\""
+ },
+ "duel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a duel · duels",
+  "say": "",
+  "note": ""
+ },
+ "HR": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Short for \"human resources,\" the department that hires people. Usually no article: \"talk to HR.\""
+ },
+ "racism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "racism · uncountable",
+  "say": "",
+  "note": "Uncountable: racism (not \"a racism\")."
+ },
+ "reserve": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a reserve · reserves",
+  "say": "",
+  "note": "Often a verb: \"reserve a table.\" A nature reserve is a protected area for animals."
+ }
+}

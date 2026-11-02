@@ -408,6 +408,17 @@
   "src": "verify-017.json"
  },
  {
+  "en": "bondage",
+  "uk": "бондаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "bondar",
   "uk": "бондар",
   "pos": "",
@@ -417,6 +428,28 @@
   "note": "",
   "checked": 1,
   "src": "rverify-016.json"
+ },
+ {
+  "en": "boolean",
+  "uk": "булеан",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
+  "en": "bort",
+  "uk": "борт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "bouton",
@@ -1993,6 +2026,17 @@
   "src": "rscan-003.json"
  },
  {
+  "en": "kolo",
+  "uk": "коло",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "kolovrat",
   "uk": "коловорот",
   "pos": "",
@@ -2283,6 +2327,17 @@
   "note": "",
   "checked": 1,
   "src": "rscan-003.json"
+ },
+ {
+  "en": "mall",
+  "uk": "мол",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "mangal",
@@ -2688,6 +2743,17 @@
   "note": "патріархія = patriarchate (church governed by a patriarch, its office); patriarchy (social system) = патріархат",
   "checked": 1,
   "src": "scan-013.json"
+ },
+ {
+  "en": "patronage",
+  "uk": "патронаж",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "pension",

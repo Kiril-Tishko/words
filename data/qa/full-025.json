@@ -1,0 +1,614 @@
+{
+ "carat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a carat · carats",
+  "say": "",
+  "ex": [
+   "How many carats is this diamond?",
+   "She wears a two-carat diamond ring.",
+   "This small stone weighs half a carat.",
+   "The price of a diamond depends on its carats."
+  ],
+  "note": "For gold, American English usually spells it \"karat\": 18-karat gold."
+ },
+ "medallion": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a medallion · medallions",
+  "say": "",
+  "ex": [
+   "She wore a gold medallion on a long chain.",
+   "Each winner got a silver medallion and a prize.",
+   "He bought a small medallion as a gift for his mom.",
+   "The medallion has a picture of a lion on it."
+  ],
+  "note": ""
+ },
+ "desktop": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a desktop · desktops",
+  "say": "",
+  "ex": [
+   "I use a desktop at work and a laptop at home.",
+   "Is a desktop cheaper than a good laptop?",
+   "Our office bought ten new desktops this year.",
+   "My old desktop is too slow for new games."
+  ],
+  "note": "Also the main computer screen with icons: \"Save the file to your desktop.\""
+ },
+ "theta": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a theta · thetas",
+  "say": "",
+  "note": ""
+ },
+ "snob": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a snob · snobs",
+  "say": "",
+  "ex": [
+   "My cousin is a real coffee snob.",
+   "Don't be a snob about cheap restaurants.",
+   "She became a bit of a snob after moving to the city.",
+   "Only a snob would laugh at his old car."
+  ],
+  "note": ""
+ },
+ "colonist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a colonist · colonists",
+  "say": "",
+  "note": ""
+ },
+ "ping": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a ping · pings",
+  "say": "",
+  "note": "Most often \"ping\" is a short high sound or a quick message: \"Send me a ping.\""
+ },
+ "gibbon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a gibbon · gibbons",
+  "say": "",
+  "note": ""
+ },
+ "henry": {
+  "v": "keep",
+  "s": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a henry · henries",
+  "say": "",
+  "note": "Most often \"Henry\" is a man's name. The unit is written with a small h: \"two henries.\""
+ },
+ "labyrinth": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a labyrinth · labyrinths",
+  "say": "",
+  "note": ""
+ },
+ "tariff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tariff · tariffs",
+  "say": "",
+  "note": "Usually a tax on goods from other countries. A phone price plan is a \"plan,\" not a \"tariff.\""
+ },
+ "doctorate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a doctorate · doctorates",
+  "say": "",
+  "note": "The most common doctorate is a PhD: \"She has a PhD in biology.\""
+ },
+ "complex": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a complex · complexes",
+  "say": "",
+  "note": "Most often \"complex\" is an adjective meaning difficult: \"a complex problem.\""
+ },
+ "reggae": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "reggae · uncountable",
+  "say": "",
+  "note": "Uncountable: listen to reggae (not \"a reggae\")."
+ },
+ "cholera": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cholera · uncountable",
+  "say": "",
+  "note": "Uncountable: get cholera, a cholera outbreak (not \"a cholera\")."
+ },
+ "pigment": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pigment · pigments",
+  "say": "",
+  "note": ""
+ },
+ "kebab": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kebab · kebabs",
+  "say": "",
+  "note": ""
+ },
+ "anus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an anus · anuses",
+  "say": "",
+  "note": ""
+ },
+ "chi": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a chi · chis",
+  "say": "",
+  "ex": [
+   "Chi is the 22nd letter of the Greek alphabet.",
+   "The Greek letter chi looks like the letter X.",
+   "Our math teacher wrote chi on the board.",
+   "In statistics, we often use the chi-square test."
+  ],
+  "note": "Said like \"kai.\" Most often \"chi\" means life energy in Chinese ideas, as in \"tai chi.\""
+ },
+ "salaam": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "A Muslim greeting that means \"peace\"; often in \"salaam alaikum.\""
+ },
+ "bestseller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bestseller · bestsellers",
+  "say": "",
+  "note": ""
+ },
+ "fudge": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "fudge · uncountable",
+  "say": "",
+  "note": "Uncountable: a piece of fudge (not \"a fudge\")."
+ },
+ "cheesecake": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cheesecake · cheesecakes",
+  "say": "",
+  "note": ""
+ },
+ "ballerina": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a ballerina · ballerinas",
+  "say": "",
+  "note": ""
+ },
+ "lacrosse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "lacrosse · uncountable",
+  "say": "",
+  "note": "Uncountable: play lacrosse (no \"a\" or \"the\")."
+ },
+ "safari": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a safari · safaris",
+  "say": "",
+  "note": "Usually \"go on a safari.\""
+ },
+ "denim": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "denim · uncountable",
+  "say": "",
+  "note": "Uncountable: made of denim (not \"a denim\")."
+ },
+ "checkup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a checkup · checkups",
+  "say": "",
+  "note": "Also spelled \"check-up.\""
+ },
+ "firewall": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a firewall · firewalls",
+  "say": "",
+  "note": ""
+ },
+ "checklist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a checklist · checklists",
+  "say": "",
+  "ex": [
+   "Make a checklist before your trip.",
+   "The pilot went through the safety checklist.",
+   "I check off each item on my checklist.",
+   "Here is a checklist for your first day at work."
+  ],
+  "note": ""
+ },
+ "fiasco": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a fiasco · fiascos",
+  "say": "",
+  "note": ""
+ },
+ "soul": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "soul · uncountable",
+  "say": "",
+  "note": "Most often \"soul\" means the spirit of a person: \"She has a kind soul.\""
+ },
+ "phoenix": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a phoenix · phoenixes",
+  "say": "",
+  "note": "Most often \"Phoenix\" is a big US city in Arizona. The bird is written \"phoenix.\""
+ },
+ "nonstop": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "nylon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nylon · uncountable",
+  "say": "",
+  "note": "Uncountable: made of nylon. \"Nylons\" (plural) are women's stockings."
+ },
+ "ozone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "ozone · uncountable",
+  "say": "",
+  "note": "Uncountable: the ozone layer (not \"an ozone\")."
+ },
+ "exclusive": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "an exclusive · exclusives",
+  "say": "",
+  "note": "Most often \"exclusive\" is an adjective: \"an exclusive club,\" \"an exclusive interview.\""
+ },
+ "blockbuster": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a blockbuster · blockbusters",
+  "say": "",
+  "note": ""
+ },
+ "paparazzi": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "paparazzi · plural",
+  "say": "",
+  "note": "Plural noun; one photographer is a \"paparazzo.\""
+ },
+ "hooligan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hooligan · hooligans",
+  "say": "",
+  "ex": [
+   "Soccer hooligans fought outside the stadium after the game.",
+   "The police arrested several hooligans last night.",
+   "A group of hooligans broke the bus windows.",
+   "Why are those hooligans shouting in the street?"
+  ],
+  "note": ""
+ },
+ "insurgent": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": true,
+  "gram": "an insurgent · insurgents",
+  "say": "",
+  "note": ""
+ },
+ "mirage": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a mirage · mirages",
+  "say": "",
+  "note": ""
+ },
+ "cardio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "cardio · uncountable",
+  "say": "",
+  "note": "Uncountable: do cardio (not \"a cardio\")."
+ },
+ "shawl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a shawl · shawls",
+  "say": "",
+  "note": ""
+ },
+ "cougar": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a cougar · cougars",
+  "say": "",
+  "note": "Also called a \"mountain lion\" or \"puma.\""
+ },
+ "Sheikh ul-Islam": {
+  "v": "keep",
+  "pm": 0.05,
+  "reg": [],
+  "ns": true,
+  "gram": "the Sheikh ul-Islam",
+  "say": "",
+  "ex": [
+   "The Sheikh ul-Islam was the top religious leader in the Ottoman Empire.",
+   "In the past, the sultan chose the Sheikh ul-Islam.",
+   "The Sheikh ul-Islam gave advice on questions of Islamic law.",
+   "Our guide showed us where the Sheikh ul-Islam once lived."
+  ],
+  "note": "A title for a top Muslim religious leader, mostly in the Ottoman Empire."
+ },
+ "booklet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a booklet · booklets",
+  "say": "",
+  "note": ""
+ },
+ "jogging": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "jogging · uncountable",
+  "say": "",
+  "note": "Uncountable. Usually \"go jogging\" (not \"do a jogging\")."
+ },
+ "cleric": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a cleric · clerics",
+  "say": "",
+  "note": ""
+ },
+ "campaign": {
+  "v": "not_standard_ukrainian",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a campaign · campaigns",
+  "say": "",
+  "ex": [
+   "The new ad campaign starts next week.",
+   "Our team planned a social media campaign for the shop.",
+   "The campaign helped us sell more phones this year.",
+   "How much did the TV ad campaign cost?"
+  ],
+  "note": "Most often a \"campaign\" is a plan of actions to win an election or change something."
+ },
+ "provider": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a provider · providers",
+  "say": "",
+  "note": "Most often \"provider\" means any company or person giving a service: \"a health care provider.\""
+ },
+ "hyena": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hyena · hyenas",
+  "say": "",
+  "note": ""
+ },
+ "sociopath": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sociopath · sociopaths",
+  "say": "",
+  "ex": [
+   "The villain in the movie is a cold sociopath.",
+   "A sociopath often does not feel guilt.",
+   "She thought her old boss was a real sociopath.",
+   "Doctors say a sociopath can seem very charming."
+  ],
+  "note": ""
+ },
+ "antidepressant": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an antidepressant · antidepressants",
+  "say": "",
+  "note": ""
+ },
+ "alderman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an alderman · aldermen",
+  "say": "",
+  "note": "In some US cities, a member of the city council."
+ },
+ "poodle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a poodle · poodles",
+  "say": "",
+  "note": ""
+ },
+ "citadel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a citadel · citadels",
+  "say": "",
+  "note": ""
+ },
+ "Frau": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a Frau · Frauen",
+  "say": "",
+  "note": "A German word, used as a title for German women, like \"Mrs.\""
+ },
+ "silicone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "silicone · uncountable",
+  "say": "",
+  "note": "Uncountable. Don't confuse with \"silicon,\" the element used in computer chips."
+ },
+ "piercing": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a piercing · piercings",
+  "say": "",
+  "note": "Also an adjective: \"a piercing scream\" (very loud and high)."
+ }
+}

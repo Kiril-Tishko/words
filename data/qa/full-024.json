@@ -1,0 +1,690 @@
+{
+ "sprint": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a sprint · sprints",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She won the 100-meter sprint at the school competition.",
+   "He finished the race with a fast sprint at the end.",
+   "The runners train for the sprint every morning.",
+   "I made a short sprint to catch the bus."
+  ]
+ },
+ "tonic": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "tonic · uncountable",
+  "say": "",
+  "note": "Often called \"tonic water.\" A drink with it: \"a gin and tonic.\""
+ },
+ "playlist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a playlist · playlists",
+  "say": "",
+  "note": ""
+ },
+ "bureaucrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bureaucrat · bureaucrats",
+  "say": "",
+  "note": "Often negative: an official who cares too much about rules and forms."
+ },
+ "milligram": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a milligram · milligrams",
+  "say": "",
+  "note": "Short form: mg (\"10 mg\")."
+ },
+ "recruiting": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "recruiting · uncountable",
+  "say": "",
+  "note": "Uncountable. Most often a verb form: \"The company is recruiting new staff.\"",
+  "ex": [
+   "She works in recruiting at a big tech company.",
+   "Our recruiting team reads hundreds of resumes every week.",
+   "Online recruiting helps companies find workers faster.",
+   "He wants a job in recruiting after college."
+  ]
+ },
+ "nationalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nationalism · uncountable",
+  "say": "",
+  "note": "Uncountable: no \"a\" and usually no plural."
+ },
+ "pixel": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a pixel · pixels",
+  "say": "",
+  "note": "",
+  "ex": [
+   "This photo is 1,000 pixels wide and 600 pixels tall.",
+   "Zoom in and you can see each pixel.",
+   "This new screen has more pixels than my old one.",
+   "One pixel on my monitor is always black."
+  ]
+ },
+ "ambassador": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "an ambassador · ambassadors",
+  "say": "",
+  "note": "Most often \"ambassador\" is a top diplomat: \"the US ambassador to Ukraine.\" Here: a brand ambassador."
+ },
+ "bailiff": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a bailiff · bailiffs",
+  "say": "",
+  "note": "In the US, a court officer who keeps order; in the UK, also someone who takes things for unpaid debts."
+ },
+ "template": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a template · templates",
+  "say": "",
+  "note": ""
+ },
+ "tampon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tampon · tampons",
+  "say": "",
+  "note": ""
+ },
+ "ogre": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an ogre · ogres",
+  "say": "",
+  "note": "Also used for a cruel, scary person: \"My boss is an ogre.\"",
+  "ex": [
+   "In the fairy tale, an ogre lives under the bridge.",
+   "The ogre in the story was big, green, and grumpy.",
+   "The children ran away from the hungry ogre.",
+   "My son wore an ogre costume to the party."
+  ]
+ },
+ "suspense": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "suspense · uncountable",
+  "say": "",
+  "note": "Uncountable. Common phrase: \"keep someone in suspense.\"",
+  "ex": [
+   "The movie kept me in suspense until the very end.",
+   "I love books with a lot of suspense.",
+   "Please tell us the news and don't keep us in suspense.",
+   "The suspense in the last scene was too much for me."
+  ]
+ },
+ "cube": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a cube · cubes",
+  "say": "",
+  "note": "Often a small block: \"an ice cube,\" \"a sugar cube.\" In math: \"the cube of 2 is 8.\""
+ },
+ "extremist": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "an extremist · extremists",
+  "say": "",
+  "note": "Also an adjective: \"extremist groups.\"",
+  "ex": [
+   "The police arrested two extremists near the airport.",
+   "He was arrested as a dangerous political extremist.",
+   "Extremists often spread hate and fear online.",
+   "The group was led by a religious extremist."
+  ]
+ },
+ "thermometer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a thermometer · thermometers",
+  "say": "",
+  "note": ""
+ },
+ "bloc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bloc · blocs",
+  "say": "",
+  "note": "A group of countries or parties that work together. Not the same as \"block.\""
+ },
+ "LGBT": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Also written \"LGBTQ\" or \"LGBTQ+.\"",
+  "ex": [
+   "The city holds an LGBT pride parade every June.",
+   "She works for a group that protects LGBT rights.",
+   "The school started a support club for LGBT students.",
+   "Many LGBT people still face problems at work."
+  ]
+ },
+ "caiman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a caiman · caimans",
+  "say": "",
+  "note": "Also spelled \"cayman.\""
+ },
+ "primate": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a primate · primates",
+  "say": "",
+  "note": ""
+ },
+ "LSD": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "He tried LSD once when he was in college.",
+   "LSD can make people see things that are not there.",
+   "Scientists are studying LSD as a possible medicine.",
+   "LSD is an illegal drug in most countries."
+  ]
+ },
+ "hobbit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hobbit · hobbits",
+  "say": "",
+  "note": ""
+ },
+ "nomad": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a nomad · nomads",
+  "say": "",
+  "note": "\"Digital nomad\": a person who works online while traveling.",
+  "ex": [
+   "The nomads moved their tents with the seasons.",
+   "He lives like a nomad and never stays long in one place.",
+   "Desert nomads often travel with camels and goats.",
+   "Digital nomads work from cafes in different countries."
+  ]
+ },
+ "utopia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a utopia · utopias",
+  "say": "",
+  "note": ""
+ },
+ "storytelling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "storytelling · uncountable",
+  "say": "",
+  "note": "Uncountable: good storytelling (not \"a storytelling\").",
+  "ex": [
+   "Good storytelling keeps people listening until the end.",
+   "She teaches storytelling to kids at the library.",
+   "Storytelling is an important skill in marketing and sales.",
+   "The movie is a great example of visual storytelling."
+  ]
+ },
+ "caesar": {
+  "v": "proper_noun",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a caesar · caesars",
+  "say": "",
+  "note": "Most often \"Caesar\" is the name of Julius Caesar, or a \"Caesar salad.\" Usually capitalized.",
+  "ex": [
+   "In ancient Rome, each new emperor took the title Caesar.",
+   "The Roman Senate was afraid of the new Caesar.",
+   "Coins from that time show the face of the Caesar.",
+   "The Caesar ruled a huge empire from Rome."
+  ]
+ },
+ "Buddhist": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a Buddhist · Buddhists",
+  "say": "",
+  "note": "Most often an adjective: \"a Buddhist temple.\" Always capitalized.",
+  "ex": [
+   "He is a Buddhist and meditates every morning.",
+   "Buddhists celebrate this holiday in the spring.",
+   "She became a Buddhist after a long trip to Asia.",
+   "Many Buddhists do not eat meat."
+  ]
+ },
+ "hospice": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hospice · hospices",
+  "say": "",
+  "note": "In the US, also the care itself: \"She is in hospice.\""
+ },
+ "militant": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": true,
+  "gram": "a militant · militants",
+  "say": "",
+  "note": "Also an adjective: \"a militant group.\""
+ },
+ "temperament": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a temperament · temperaments",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She has a calm temperament and rarely gets angry.",
+   "This dog breed has a gentle temperament.",
+   "His patient temperament makes him a good teacher.",
+   "The two sisters have very different temperaments."
+  ]
+ },
+ "consortium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a consortium · consortiums",
+  "say": "",
+  "note": "Plural: \"consortia\" or \"consortiums\"."
+ },
+ "pelican": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pelican · pelicans",
+  "say": "",
+  "note": ""
+ },
+ "crossword": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a crossword · crosswords",
+  "say": "",
+  "note": "We say \"do a crossword.\" Also \"crossword puzzle.\""
+ },
+ "pretext": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": true,
+  "gram": "a pretext · pretexts",
+  "say": "",
+  "note": "Common: \"on/under the pretext of,\" \"a pretext for.\""
+ },
+ "ultimatum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an ultimatum · ultimatums",
+  "say": "",
+  "note": "Usually \"give someone an ultimatum.\"",
+  "ex": [
+   "The boss gave him an ultimatum: work harder or leave.",
+   "The government ignored the ultimatum from the workers.",
+   "She gave her boyfriend an ultimatum about his smoking.",
+   "The ultimatum ends at midnight on Friday."
+  ]
+ },
+ "c'est la vie": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "French for \"that's life\"; said when something bad happens that you cannot change.",
+  "ex": [
+   "We missed the last train home, but c'est la vie.",
+   "It rained all week on our vacation, but c'est la vie.",
+   "I didn't get the job, but c'est la vie.",
+   "My phone broke again. C'est la vie, I guess."
+  ]
+ },
+ "machete": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a machete · machetes",
+  "say": "",
+  "note": ""
+ },
+ "cache": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a cache · caches",
+  "say": "",
+  "note": "Pronounced like \"cash.\" Also a hidden store: \"a cache of weapons.\""
+ },
+ "gluten": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "gluten · uncountable",
+  "say": "",
+  "note": "Uncountable. Often used as \"gluten-free.\""
+ },
+ "gnome": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a gnome · gnomes",
+  "say": "",
+  "note": "The \"g\" is silent: /nohm/."
+ },
+ "dispatcher": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dispatcher · dispatchers",
+  "say": "",
+  "note": ""
+ },
+ "continuum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a continuum · continuums",
+  "say": "",
+  "note": "Plural: \"continua\" or \"continuums.\" Common: \"on a continuum.\""
+ },
+ "symposium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a symposium · symposiums",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She gave a talk at a medical symposium last month.",
+   "The university hosts a symposium on climate change every year.",
+   "Experts from many countries attended the symposium.",
+   "The symposium will last three days."
+  ]
+ },
+ "mayonnaise": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "mayonnaise · uncountable",
+  "say": "",
+  "note": "Uncountable: some mayonnaise (not \"a mayonnaise\"). Often \"mayo.\"",
+  "ex": [
+   "Can you add some mayonnaise to my sandwich?",
+   "I don't like mayonnaise on my fries.",
+   "Mix the tuna with a spoon of mayonnaise.",
+   "The jar of mayonnaise is in the fridge."
+  ]
+ },
+ "micro": {
+  "v": "not_standard_ukrainian",
+  "s": 50,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Usually used as a prefix: microchip, microwave."
+ },
+ "mannequin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mannequin · mannequins",
+  "say": "",
+  "note": ""
+ },
+ "folklore": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "folklore · uncountable",
+  "say": "",
+  "note": "Uncountable: no plural \"folklores.\""
+ },
+ "lasagna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "lasagna · uncountable",
+  "say": "",
+  "note": "Usually uncountable: some lasagna. British spelling: \"lasagne.\"",
+  "ex": [
+   "My mom makes lasagna for dinner every Sunday.",
+   "This lasagna has three kinds of cheese.",
+   "Heat the lasagna in the oven for twenty minutes.",
+   "Can I have another piece of lasagna, please?"
+  ]
+ },
+ "perimeter": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a perimeter · perimeters",
+  "say": "",
+  "note": ""
+ },
+ "zinc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "zinc · uncountable",
+  "say": "",
+  "note": "Uncountable: some zinc (not \"a zinc\").",
+  "ex": [
+   "Zinc helps your body fight colds and infections.",
+   "The old roof is made of zinc.",
+   "Nuts, meat, and beans contain a lot of zinc.",
+   "Zinc is used to protect steel from rust."
+  ]
+ },
+ "charisma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "charisma · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of charisma (not \"a charisma\")."
+ },
+ "pathogen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a pathogen · pathogens",
+  "say": "",
+  "note": ""
+ },
+ "icing": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "icing · uncountable",
+  "say": "",
+  "note": "Uncountable. In American English, \"frosting\" is more common for soft cake icing."
+ },
+ "plugin": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a plugin · plugins",
+  "say": "",
+  "note": "Also spelled \"plug-in.\""
+ },
+ "vocalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vocalist · vocalists",
+  "say": "",
+  "note": "\"Singer\" is more common in everyday speech."
+ },
+ "omega": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "an omega · omegas",
+  "say": "",
+  "note": "Often in \"omega-3\" (healthy fats in fish) and \"alpha and omega\" (the beginning and the end)."
+ },
+ "COVID": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "COVID · uncountable",
+  "say": "",
+  "note": "Also written \"Covid\" or \"COVID-19\"; used without \"the\".",
+  "ex": [
+   "She stayed home for two weeks with COVID.",
+   "He got COVID last winter and lost his sense of smell.",
+   "Many schools closed because of COVID in 2020.",
+   "Do I need a COVID test before the trip?"
+  ]
+ },
+ "adjective": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an adjective · adjectives",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The word \"happy\" is an adjective.",
+   "Use an adjective to describe the noun in this sentence.",
+   "Circle every adjective in the first paragraph.",
+   "In English, an adjective usually comes before the noun."
+  ]
+ },
+ "vandalism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "vandalism · uncountable",
+  "say": "",
+  "note": "Uncountable: an act of vandalism (not \"a vandalism\").",
+  "ex": [
+   "The school was closed after an act of vandalism.",
+   "Vandalism in the park costs the city a lot of money.",
+   "The police arrested two teenagers for vandalism.",
+   "New cameras helped reduce vandalism downtown."
+  ]
+ }
+}

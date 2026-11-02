@@ -1,0 +1,742 @@
+{
+ "shah": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a shah · shahs",
+  "say": "",
+  "ex": [
+   "The shah was the king of Iran.",
+   "We read about the old shahs of Persia in class.",
+   "The museum shows the shah's crown and jewels.",
+   "Which shah built this beautiful palace in Tehran?"
+  ],
+  "note": ""
+ },
+ "smartphone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a smartphone · smartphones",
+  "say": "",
+  "note": "People often just say \"phone\": \"Call me on my phone.\""
+ },
+ "rodeo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a rodeo · rodeos",
+  "say": "",
+  "note": ""
+ },
+ "titan": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a titan · titans",
+  "say": "",
+  "note": "Also \"Titan\": a giant god in Greek myths, and a moon of Saturn."
+ },
+ "blackout": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a blackout · blackouts",
+  "say": "",
+  "note": ""
+ },
+ "karaoke": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "karaoke · uncountable",
+  "say": "",
+  "ex": [
+   "We sang karaoke with friends until midnight.",
+   "Let's go to a karaoke bar on Friday.",
+   "She always sings the same song at karaoke.",
+   "Is there a karaoke night at this bar?"
+  ],
+  "note": "Uncountable: \"sing karaoke\", \"a karaoke bar\"."
+ },
+ "hostel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hostel · hostels",
+  "say": "",
+  "note": ""
+ },
+ "premium": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "We bought premium tickets with better seats.",
+   "This store sells premium coffee from Colombia.",
+   "Premium members don't see any ads in the app.",
+   "Does the hotel have premium rooms with a view?"
+  ],
+  "note": "As a noun, \"premium\" often means money you pay for insurance: \"a monthly premium.\""
+ },
+ "autism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "autism · uncountable",
+  "say": "",
+  "ex": [
+   "Her son was diagnosed with autism last year.",
+   "Autism affects how people talk and make friends.",
+   "The school has a program for kids with autism.",
+   "Where can I learn more about autism in children?"
+  ],
+  "note": "Uncountable: \"a child with autism\" (not \"an autism\")."
+ },
+ "peso": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a peso · pesos",
+  "say": "",
+  "note": ""
+ },
+ "cholesterol": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cholesterol · uncountable",
+  "say": "",
+  "note": "Uncountable: \"high cholesterol\" (not \"a cholesterol\")."
+ },
+ "bourbon": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "bourbon · uncountable",
+  "say": "",
+  "ex": [
+   "He ordered a bourbon with ice at the bar.",
+   "Bourbon is a kind of American whiskey.",
+   "She added a little bourbon to the cake.",
+   "Can I get a glass of bourbon, please?"
+  ],
+  "note": "Uncountable, but \"a bourbon\" means a glass of it."
+ },
+ "mascot": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a mascot · mascots",
+  "say": "",
+  "note": ""
+ },
+ "paradox": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a paradox · paradoxes",
+  "say": "",
+  "note": ""
+ },
+ "mix": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a mix · mixes",
+  "say": "",
+  "note": "Most often \"mix\" is a verb: \"Mix the flour and eggs.\" As a noun: \"a mix of styles.\""
+ },
+ "metropolis": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a metropolis · metropolises",
+  "say": "",
+  "note": ""
+ },
+ "screening": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a screening · screenings",
+  "say": "",
+  "note": "Also a showing of a film: \"a screening of the new movie.\""
+ },
+ "element": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an element · elements",
+  "say": "",
+  "ex": [
+   "Oxygen and hydrogen are the elements in water.",
+   "Trust is an important element of any friendship.",
+   "Gold is a chemical element with the symbol Au.",
+   "What are the key elements of a good resume?"
+  ],
+  "note": ""
+ },
+ "alligator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an alligator · alligators",
+  "say": "",
+  "note": ""
+ },
+ "aquarium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aquarium · aquariums",
+  "say": "",
+  "note": "An aquarium at home is also called a \"fish tank\"."
+ },
+ "caliph": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a caliph · caliphs",
+  "say": "",
+  "note": ""
+ },
+ "mandate": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a mandate · mandates",
+  "say": "",
+  "note": "Often a verb: \"The law mandates seat belts\" (= requires). Also an order: \"a mask mandate.\""
+ },
+ "brunch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a brunch · brunches",
+  "say": "",
+  "note": "Usually no article: \"have brunch\", \"for brunch\"."
+ },
+ "algebra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "algebra · uncountable",
+  "say": "",
+  "ex": [
+   "Algebra was my favorite subject in school.",
+   "Can you help me with my algebra homework?",
+   "Basic algebra is useful in everyday life.",
+   "We have an algebra test on Friday."
+  ],
+  "note": "Uncountable: \"study algebra\" (not \"an algebra\")."
+ },
+ "sarcasm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "sarcasm · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"a lot of sarcasm\", not \"a sarcasm\"."
+ },
+ "revolver": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a revolver · revolvers",
+  "say": "",
+  "ex": [
+   "The detective always carried a revolver in his coat.",
+   "A revolver usually holds six bullets.",
+   "He kept an old revolver in a locked drawer.",
+   "The police found a revolver in the car."
+  ],
+  "note": ""
+ },
+ "mass start": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a mass start · mass starts",
+  "say": "",
+  "ex": [
+   "The biathlon mass start begins at two o'clock.",
+   "In a mass start, all the skiers start together.",
+   "She won a gold medal in the mass start.",
+   "Are you going to watch the mass start on TV?"
+  ],
+  "note": "A sports term: a race where all athletes start together."
+ },
+ "lead manager": {
+  "v": "false_friend",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a lead manager · lead managers",
+  "say": "",
+  "ex": [
+   "The lead manager is responsible for the whole project.",
+   "Our lead manager plans the work for the team.",
+   "Who is the lead manager on this deal?",
+   "The bank acted as lead manager for the bond sale."
+  ],
+  "note": "\"Lead manager\" means the main manager of a project or a deal."
+ },
+ "flag captain": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a flag captain · flag captains",
+  "say": "",
+  "ex": [
+   "The flag captain commanded the admiral's ship.",
+   "In old navies, the flag captain worked closely with the admiral.",
+   "The flag captain stood next to the admiral on deck.",
+   "Who was the flag captain of this famous ship?"
+  ],
+  "note": "A naval term: the captain of the ship that carries the admiral."
+ },
+ "scan code": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a scan code · scan codes",
+  "say": "",
+  "ex": [
+   "Each key on the keyboard sends its own scan code.",
+   "The computer reads the scan code and shows a letter.",
+   "This program shows the scan code of every key you press.",
+   "What is the scan code for the Enter key?"
+  ],
+  "note": "A computer term: the code a keyboard sends when you press a key."
+ },
+ "general admiral": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a general admiral · general admirals",
+  "say": "",
+  "ex": [
+   "A general admiral was the highest rank in some old navies.",
+   "The tsar made his brother general admiral of the fleet.",
+   "The general admiral controlled all the ships of the empire.",
+   "Was the general admiral higher than a normal admiral?"
+  ],
+  "note": "A historical rank: the top admiral in some old navies."
+ },
+ "rally raid": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [],
+  "ns": false,
+  "gram": "a rally raid · rally raids",
+  "say": "",
+  "ex": [
+   "A rally raid can last for two weeks in the desert.",
+   "The trucks in this rally raid drive across sand and rocks.",
+   "He drives a car in a famous rally raid every year.",
+   "Would you like to watch the rally raid on TV?"
+  ],
+  "note": "A long off-road car race, often across a desert."
+ },
+ "delta operator": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a delta operator · delta operators",
+  "say": "",
+  "ex": [
+   "The delta operator shows the change between two values.",
+   "In this class, we use the delta operator for differences.",
+   "Write the delta operator with the Greek letter Δ.",
+   "Can you explain how the delta operator works?"
+  ],
+  "note": "A math term: an operator for differences, written with the Greek letter Δ."
+ },
+ "general field marshal": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [],
+  "ns": false,
+  "gram": "a general field marshal · general field marshals",
+  "say": "",
+  "ex": [
+   "A general field marshal was the top rank in the old army.",
+   "The empress made him a general field marshal after the war.",
+   "Only a few officers ever became general field marshal.",
+   "Is a general field marshal higher than a general?"
+  ],
+  "note": "A historical rank in old Russian and German armies; English usually says \"field marshal\"."
+ },
+ "vacuum meter": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a vacuum meter · vacuum meters",
+  "say": "",
+  "ex": [
+   "The vacuum meter shows the pressure inside the tank.",
+   "Check the vacuum meter before you start the pump.",
+   "Our lab bought a new digital vacuum meter.",
+   "Why is the vacuum meter showing zero?"
+  ],
+  "note": "Also called a \"vacuum gauge\", which is more common."
+ },
+ "black rot": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "black rot · uncountable",
+  "say": "",
+  "ex": [
+   "Black rot can destroy a whole crop of grapes.",
+   "Wet summers often bring black rot to the vineyard.",
+   "These black spots on the leaves are black rot.",
+   "How can I protect my cabbage from black rot?"
+  ],
+  "note": "A plant disease. Uncountable: \"The vines have black rot.\""
+ },
+ "null vector": {
+  "v": "keep",
+  "pm": 0.2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the null vector",
+  "say": "",
+  "ex": [
+   "The null vector has a length of zero.",
+   "Adding the null vector does not change a vector.",
+   "In this problem, the answer is the null vector.",
+   "Can a null vector have a direction?"
+  ],
+  "note": "Also called the \"zero vector\"."
+ },
+ "fascist": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a fascist · fascists",
+  "say": "",
+  "ex": [
+   "The fascists took power in Italy in the 1920s.",
+   "He was called a fascist by his political enemies.",
+   "The fascists closed all the free newspapers.",
+   "My grandfather fought against the fascists in the war."
+  ],
+  "note": "Also an adjective: \"a fascist government.\" Often an insult for a very strict person."
+ },
+ "hosting": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "hosting · uncountable",
+  "say": "",
+  "ex": [
+   "We pay for website hosting every year.",
+   "This company offers cheap hosting for small websites.",
+   "Our hosting provider had problems this morning.",
+   "Which hosting do you use for your online store?"
+  ],
+  "note": "Uncountable. Also a form of \"host\": \"She is hosting a party tonight.\""
+ },
+ "martini": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a martini · martinis",
+  "say": "",
+  "ex": [
+   "He ordered a dry martini with an olive.",
+   "She drank a martini at the hotel bar.",
+   "Can we have two martinis, please?",
+   "This martini is too strong for me."
+  ],
+  "note": "Usually a cocktail of gin or vodka and vermouth, often with an olive."
+ },
+ "beta": {
+  "v": "keep",
+  "s": 40,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a beta · betas",
+  "say": "",
+  "note": "Also the Greek letter β. \"In beta\" means a program is still being tested."
+ },
+ "goblin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a goblin · goblins",
+  "say": "",
+  "note": ""
+ },
+ "alphabet": {
+  "v": "not_standard_ukrainian",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "an alphabet · alphabets",
+  "say": "",
+  "ex": [
+   "Children learn the alphabet in kindergarten.",
+   "The English alphabet has twenty-six letters.",
+   "Can you say the alphabet backward?",
+   "The Ukrainian alphabet has thirty-three letters."
+  ],
+  "note": ""
+ },
+ "voodoo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "voodoo · uncountable",
+  "say": "",
+  "note": "Uncountable: \"believe in voodoo\" (not \"a voodoo\")."
+ },
+ "opium": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "opium · uncountable",
+  "say": "",
+  "ex": [
+   "Opium is made from a kind of poppy.",
+   "In the past, doctors used opium for pain.",
+   "The police found opium hidden in the truck.",
+   "Opium is illegal in most countries today."
+  ],
+  "note": "Uncountable: \"some opium\" (not \"an opium\")."
+ },
+ "manga": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a manga · manga",
+  "say": "",
+  "ex": [
+   "My son reads manga every night before bed.",
+   "This manga was made into a TV show.",
+   "She draws her own manga in a notebook.",
+   "Where can I find the manga section in this store?"
+  ],
+  "note": "Plural is usually also \"manga\": \"I have ten manga.\""
+ },
+ "antidote": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an antidote · antidotes",
+  "say": "",
+  "ex": [
+   "The doctor gave him an antidote to the poison.",
+   "There is no antidote for this snake bite.",
+   "Does the hospital have an antidote for this poison?",
+   "They found the antidote just in time."
+  ],
+  "note": "Use \"to\" or \"for\": \"an antidote to the poison\"."
+ },
+ "morgue": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a morgue · morgues",
+  "say": "",
+  "note": ""
+ },
+ "bouquet": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a bouquet · bouquets",
+  "say": "",
+  "ex": [
+   "He gave her a bouquet of roses.",
+   "At the wedding, the bride threw her bouquet.",
+   "A bouquet of flowers stood on the table.",
+   "Can I order a bouquet for my mom's birthday?"
+  ],
+  "note": ""
+ },
+ "receptor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a receptor · receptors",
+  "say": "",
+  "note": ""
+ },
+ "cylinder": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a cylinder · cylinders",
+  "say": "",
+  "note": "Also a part of a car engine, and a metal tank: \"a gas cylinder\"."
+ },
+ "Latin": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "Latin · uncountable",
+  "say": "",
+  "ex": [
+   "He studied Latin for two years in school.",
+   "Many English words come from Latin.",
+   "Nobody speaks Latin as a first language today.",
+   "What does this phrase in Latin mean?"
+  ],
+  "note": "Most often \"Latin\" is an adjective about Latin America: \"Latin music\", \"Latin dance\"."
+ },
+ "lobby": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a lobby · lobbies",
+  "say": "",
+  "ex": [
+   "The oil lobby is very powerful in the capital.",
+   "A strong farm lobby fought against the new law.",
+   "The gun lobby spent millions on the election campaign.",
+   "Environmental lobbies want stricter rules for factories."
+  ],
+  "note": "Most often \"lobby\" means an entrance hall: \"Meet me in the hotel lobby.\""
+ },
+ "padre": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a padre · padres",
+  "say": "",
+  "note": "Informal: a priest, often an army chaplain. The usual word is \"priest\"."
+ },
+ "raccoon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a raccoon · raccoons",
+  "say": "",
+  "note": ""
+ },
+ "referendum": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a referendum · referendums",
+  "say": "",
+  "note": ""
+ },
+ "cockpit": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cockpit · cockpits",
+  "say": "",
+  "note": ""
+ },
+ "interviewer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an interviewer · interviewers",
+  "say": "",
+  "note": ""
+ },
+ "boxer": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a boxer · boxers",
+  "say": "",
+  "note": "Also a dog breed. \"Boxers\" or \"boxer shorts\" are men's underwear."
+ },
+ "tsunami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a tsunami · tsunamis",
+  "say": "",
+  "ex": [
+   "The earthquake caused a huge tsunami.",
+   "A tsunami warning was issued for the coast.",
+   "The tsunami destroyed many homes near the beach.",
+   "What should we do if there is a tsunami?"
+  ],
+  "note": ""
+ }
+}

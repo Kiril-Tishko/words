@@ -92,6 +92,17 @@
   "src": "gap-sweep-r1b.json"
  },
  {
+  "en": "absinthe",
+  "uk": "абсент",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "absolute",
   "uk": "абсолютний",
   "pos": "",
@@ -1075,6 +1086,17 @@
   "src": "rscan-003.json"
  },
  {
+  "en": "altar",
+  "uk": "алтар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "alteration",
   "uk": "альтерація",
   "pos": "",
@@ -1716,6 +1738,17 @@
   "note": "",
   "checked": 1,
   "src": "rscan-007.json"
+ },
+ {
+  "en": "angiogenesis",
+  "uk": "ангіогенез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "anhedonia",
@@ -4053,6 +4086,17 @@
   "src": "verify-077.json"
  },
  {
+  "en": "biosynthesis",
+  "uk": "біосинтез",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "biotechnology",
   "uk": "біотехнологія",
   "pos": "",
@@ -5086,6 +5130,17 @@
   "src": "verify-066.json"
  },
  {
+  "en": "caprice",
+  "uk": "каприз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "capstan",
   "uk": "кабестан",
   "pos": "",
@@ -5733,6 +5788,17 @@
   "src": "rscan-015.json"
  },
  {
+  "en": "centimetre",
+  "uk": "сантиметр",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "centipoise",
   "uk": "сантипуаз",
   "pos": "",
@@ -5838,6 +5904,17 @@
   "note": "",
   "checked": 2,
   "src": "rscan-015.json"
+ },
+ {
+  "en": "chancellor",
+  "uk": "канцлер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "chapelmaster",
@@ -6018,12 +6095,10 @@
   "pos": "",
   "british": false,
   "lvl": null,
-  "labels": [
-   "medicine"
-  ],
+  "labels": [],
   "note": "",
   "checked": 2,
-  "src": "gap-sweep-r1b.json"
+  "src": "gap-fullscan.json"
  },
  {
   "en": "chirurgy",
@@ -7014,6 +7089,17 @@
   "note": "-sion → -сія",
   "checked": 2,
   "src": "verify-003.json"
+ },
+ {
+  "en": "committee",
+  "uk": "комітет",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "communal",
@@ -8734,6 +8820,17 @@
   "src": "verify-098.json"
  },
  {
+  "en": "cyclase",
+  "uk": "циклаза",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "cyclogram",
   "uk": "циклограма",
   "pos": "",
@@ -8835,6 +8932,17 @@
   "note": "",
   "checked": 1,
   "src": "rscan-016.json"
+ },
+ {
+  "en": "cystitis",
+  "uk": "цистит",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "cytologist",
@@ -9019,6 +9127,17 @@
   "note": "Ukrainian adjective ending -ний",
   "checked": 1,
   "src": "verify-095.json"
+ },
+ {
+  "en": "declination",
+  "uk": "деклінація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "decolonization",
@@ -10497,6 +10616,17 @@
   "src": "verify-096.json"
  },
  {
+  "en": "dromedary",
+  "uk": "дромедар",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "druggist",
   "uk": "дрогіст",
   "pos": "",
@@ -10835,6 +10965,17 @@
   "note": "adjective ending -ний",
   "checked": 1,
   "src": "verify-066.json"
+ },
+ {
+  "en": "egalitarianism",
+  "uk": "егалітаризм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "electric",
@@ -11945,6 +12086,17 @@
   "src": "verify-088.json"
  },
  {
+  "en": "eroticism",
+  "uk": "еротизм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "erotomania",
   "uk": "еротоманія",
   "pos": "",
@@ -12325,6 +12477,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-017.json"
+ },
+ {
+  "en": "exfoliation",
+  "uk": "ексфоліація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "existentialist",
@@ -12916,6 +13079,17 @@
   "src": "verify-001.json"
  },
  {
+  "en": "firework",
+  "uk": "феєрверк",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "firm",
   "uk": "фірма",
   "pos": "",
@@ -13280,6 +13454,17 @@
   "src": "verify-006.json"
  },
  {
+  "en": "fries",
+  "uk": "фрі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "frigate",
   "uk": "фрегат",
   "pos": "",
@@ -13612,6 +13797,17 @@
   "note": "Ukrainian adds -н",
   "checked": 1,
   "src": "verify-076.json"
+ },
+ {
+  "en": "gendarmerie",
+  "uk": "жандармерія",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "gender",
@@ -16457,6 +16653,17 @@
   "src": "verify-048.json"
  },
  {
+  "en": "incrimination",
+  "uk": "інкримінація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "incubatory",
   "uk": "інкубаторій",
   "pos": "",
@@ -17635,6 +17842,17 @@
   "src": "rscan-016.json"
  },
  {
+  "en": "jelly",
+  "uk": "желе",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "Jesuit",
   "uk": "єзуїт",
   "pos": "",
@@ -17658,6 +17876,17 @@
   "note": "ж instead of дж.",
   "checked": 1,
   "src": "scan-020.json"
+ },
+ {
+  "en": "jojoba",
+  "uk": "жожоба",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "journalistic",
@@ -17794,6 +18023,17 @@
   "src": "rverify-001.json"
  },
  {
+  "en": "kaiju",
+  "uk": "кайдзю",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "kalach",
   "uk": "колач",
   "pos": "",
@@ -17928,6 +18168,17 @@
   "note": "Native Ukrainian pet word for a cat; ending -я, т → ц.",
   "checked": 1,
   "src": "verify-021.json"
+ },
+ {
+  "en": "koji",
+  "uk": "кодзі",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "kolkhoznik",
@@ -20905,6 +21156,28 @@
   "src": "verify-053.json"
  },
  {
+  "en": "monsignor",
+  "uk": "монсеньйор",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
+  "en": "monsoon",
+  "uk": "мусон",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "monstera",
   "uk": "монстера",
   "pos": "",
@@ -21074,6 +21347,17 @@
   "note": "мото- instead of motor-",
   "checked": 1,
   "src": "verify-088.json"
+ },
+ {
+  "en": "motorsport",
+  "uk": "мотоспорт",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "mufti",
@@ -22175,6 +22459,17 @@
   "src": "rscan-012.json"
  },
  {
+  "en": "nucleation",
+  "uk": "нуклеація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "nucleosynthesis",
   "uk": "нуклеосинтез",
   "pos": "",
@@ -23062,6 +23357,17 @@
   "src": "verify-006.json"
  },
  {
+  "en": "pajama",
+  "uk": "піжама",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "pajamas",
   "uk": "піжама",
   "pos": "noun",
@@ -23822,6 +24128,17 @@
   "note": "adjective ending -ійний",
   "checked": 2,
   "src": "verify-017.json"
+ },
+ {
+  "en": "perfume",
+  "uk": "парфум",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "pericardium",
@@ -25947,6 +26264,17 @@
   "src": "scan-020.json"
  },
  {
+  "en": "prolongation",
+  "uk": "пролонгація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "promethium",
   "uk": "прометій",
   "pos": "",
@@ -25956,6 +26284,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-013.json"
+ },
+ {
+  "en": "promulgation",
+  "uk": "промульгація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "propene",
@@ -27295,6 +27634,17 @@
   "note": "Ukrainian adjective ending -ний.",
   "checked": 1,
   "src": "verify-014.json"
+ },
+ {
+  "en": "regurgitation",
+  "uk": "регургітація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "rehabilitate",
@@ -29160,6 +29510,17 @@
   "src": "verify-078.json"
  },
  {
+  "en": "shonen",
+  "uk": "сьонен",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "shorts",
   "uk": "шорти",
   "pos": "",
@@ -29346,6 +29707,17 @@
   "note": "",
   "checked": 2,
   "src": "gap-sweep-r1b.json"
+ },
+ {
+  "en": "sneaker",
+  "uk": "снікер",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "snowy",
@@ -29634,6 +30006,17 @@
   "note": "",
   "checked": 1,
   "src": "rverify-015.json"
+ },
+ {
+  "en": "spermatozoon",
+  "uk": "сперматозоїд",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "sphagnum",
@@ -31710,6 +32093,17 @@
   "src": "verify-057.json"
  },
  {
+  "en": "totalitarianism",
+  "uk": "тоталітаризм",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
+ },
+ {
   "en": "toxic masculinity",
   "uk": "токсична маскулінність",
   "pos": "",
@@ -31765,6 +32159,17 @@
   "note": "",
   "checked": 1,
   "src": "scan-019.json"
+ },
+ {
+  "en": "toxoplasmosis",
+  "uk": "токсоплазмоз",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "tract",
@@ -32636,6 +33041,17 @@
   "note": "ending -ія",
   "checked": 1,
   "src": "verify-083.json"
+ },
+ {
+  "en": "usurpation",
+  "uk": "узурпація",
+  "pos": "",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "gap-fullscan.json"
  },
  {
   "en": "utilitarianism",

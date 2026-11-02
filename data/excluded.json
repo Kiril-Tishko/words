@@ -1103,5 +1103,455 @@
 "en": "canotier",
 "uk": "канотьє",
 "why": "no English dictionary or corpus evidence"
+},
+{
+"en": "level",
+"uk": "левел",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "coach",
+"uk": "коуч",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "general",
+"uk": "генерал",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "drink",
+"uk": "дрінк",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "hate",
+"uk": "хейт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "brief",
+"uk": "бриф",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "title",
+"uk": "тайтл",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "security",
+"uk": "сек'юриті",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "take",
+"uk": "тейк",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "applicant",
+"uk": "аплікант",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "welfare",
+"uk": "велфер",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "campaign",
+"uk": "кампейн",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "tutor",
+"uk": "тьютор",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "freeway",
+"uk": "фривей",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "complex",
+"uk": "комплекс",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "sort",
+"uk": "сорт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "pack",
+"uk": "пак",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "pass",
+"uk": "пас",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "traffic",
+"uk": "трафік",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "reverse",
+"uk": "реверс",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "single",
+"uk": "сингл",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "set",
+"uk": "сет",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "original",
+"uk": "оригінал",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "transfer",
+"uk": "трансфер",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "like",
+"uk": "лайк",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "light",
+"uk": "лайт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "true",
+"uk": "тру",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "print",
+"uk": "принт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "metropolis",
+"uk": "метрополіс",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "intern",
+"uk": "інтерн",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "live",
+"uk": "лайв",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "top",
+"uk": "топ",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "country",
+"uk": "кантрі",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "court",
+"uk": "корт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "hit",
+"uk": "хіт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "act",
+"uk": "акт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "major",
+"uk": "майор",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "market",
+"uk": "маркет",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "front",
+"uk": "фронт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "march",
+"uk": "марш",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "shot",
+"uk": "шот",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "record",
+"uk": "рекорд",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "player",
+"uk": "плеєр",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "present",
+"uk": "презент",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "production",
+"uk": "продакшн",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "stand",
+"uk": "стенд",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "article",
+"uk": "артикль",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "hospital",
+"uk": "госпіталь",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "safe",
+"uk": "сейф",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "western",
+"uk": "вестерн",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "image",
+"uk": "імідж",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "finish",
+"uk": "фініш",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "ring",
+"uk": "ринг",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "soul",
+"uk": "соул",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "roll",
+"uk": "рол",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "joint",
+"uk": "джойнт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "don",
+"uk": "дон",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "em",
+"uk": "ем",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "lift",
+"uk": "ліфт",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "junior",
+"uk": "джуніор",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "jury",
+"uk": "журі",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "killer",
+"uk": "кілер",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "moral",
+"uk": "мораль",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "penalty",
+"uk": "пенальті",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "romantic",
+"uk": "романтик",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "ambassador",
+"uk": "амбасадор",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "marshal",
+"uk": "маршал",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "amateur",
+"uk": "аматор",
+"why": "final expert pass: similar"
+},
+{
+"en": "patch",
+"uk": "патч",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "elephant",
+"uk": "елефант",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "micro",
+"uk": "мікро",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "shooter",
+"uk": "шутер",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "bust",
+"uk": "бюст",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "starter",
+"uk": "стартер",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "alphabet",
+"uk": "альфабет",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "Yankee",
+"uk": "янкі",
+"why": "final expert pass: proper_noun"
+},
+{
+"en": "check",
+"uk": "чек",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "Reich",
+"uk": "рейх",
+"why": "final expert pass: proper_noun"
+},
+{
+"en": "ornament",
+"uk": "орнамент",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "shrapnel",
+"uk": "шрапнель",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "nim",
+"uk": "нім",
+"why": "final expert pass: proper_noun"
+},
+{
+"en": "kris",
+"uk": "кріс",
+"why": "final expert pass: proper_noun"
+},
+{
+"en": "vortex",
+"uk": "вортекс",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "techno artist",
+"uk": "техно-артист",
+"why": "final expert pass: not_english"
+},
+{
+"en": "lead manager",
+"uk": "лід-менеджер",
+"why": "final expert pass: false_friend"
+},
+{
+"en": "cap",
+"uk": "кеп",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
+"en": "internet consultant",
+"uk": "інтернет-консультант",
+"why": "final expert pass: not_english"
+},
+{
+"en": "brandy cola",
+"uk": "бренді-кола",
+"why": "final expert pass: not_english"
+},
+{
+"en": "SR",
+"uk": "есер",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "caesar",
+"uk": "цезар",
+"why": "final expert pass: proper_noun"
 }
 ]

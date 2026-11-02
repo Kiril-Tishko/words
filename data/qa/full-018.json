@@ -1,0 +1,711 @@
+{
+ "latte": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a latte · lattes",
+  "say": "",
+  "note": ""
+ },
+ "neuron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a neuron · neurons",
+  "say": "",
+  "ex": [
+   "The brain has billions of tiny neurons.",
+   "Each neuron sends signals to other cells in the body.",
+   "In biology class, we looked at a neuron under a microscope.",
+   "Some diseases damage the neurons in the brain."
+  ],
+  "note": ""
+ },
+ "ornament": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "an ornament · ornaments",
+  "say": "",
+  "ex": [
+   "The old door has beautiful carved ornaments.",
+   "The plates have a simple blue ornament around the edge.",
+   "Modern buildings usually have very little ornament.",
+   "The artist painted a gold ornament around the frame."
+  ],
+  "note": "Most often \"ornament\" means a small decoration: \"We hung ornaments on the Christmas tree.\""
+ },
+ "bagel": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bagel · bagels",
+  "say": "",
+  "ex": [
+   "I eat a bagel with cream cheese for breakfast.",
+   "This bakery makes fresh bagels every morning.",
+   "Can I get a toasted bagel with butter, please?",
+   "Let's buy some coffee and bagels before work."
+  ],
+  "note": ""
+ },
+ "arsenal": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "an arsenal · arsenals",
+  "say": "",
+  "note": "Also used for a set of skills or tools: \"She has a big arsenal of recipes.\""
+ },
+ "sedan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sedan · sedans",
+  "say": "",
+  "note": "American English; in British English it is a \"saloon\"."
+ },
+ "blend": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a blend · blends",
+  "say": "",
+  "note": "Most often a verb: \"Blend the fruit and milk\" means mix them well."
+ },
+ "pavilion": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pavilion · pavilions",
+  "say": "",
+  "note": ""
+ },
+ "sense": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a sense · senses",
+  "say": "",
+  "ex": [
+   "Your idea makes sense to me.",
+   "There is no sense in waiting for the bus.",
+   "Does this sentence make sense in English?",
+   "In a sense, we are all students here."
+  ],
+  "note": "Most often \"sense\" means a feeling or ability: \"a sense of humor,\" \"a sense of smell.\""
+ },
+ "electron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an electron · electrons",
+  "say": "",
+  "ex": [
+   "An electron has a negative electric charge.",
+   "Electrons move around the center of an atom.",
+   "Electricity is a flow of electrons through a wire.",
+   "An electron is much smaller than an atom."
+  ],
+  "note": ""
+ },
+ "aura": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aura · auras",
+  "say": "",
+  "note": ""
+ },
+ "voucher": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a voucher · vouchers",
+  "say": "",
+  "note": "In the US, \"gift card\" or \"coupon\" is often more common."
+ },
+ "billing": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "billing · uncountable",
+  "say": "",
+  "note": "Uncountable: \"monthly billing,\" \"a billing error\" (not \"a billing\")."
+ },
+ "projector": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a projector · projectors",
+  "say": "",
+  "note": ""
+ },
+ "microscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a microscope · microscopes",
+  "say": "",
+  "note": ""
+ },
+ "billboard": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a billboard · billboards",
+  "say": "",
+  "note": ""
+ },
+ "bungalow": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bungalow · bungalows",
+  "say": "",
+  "note": ""
+ },
+ "marker": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a marker · markers",
+  "say": "",
+  "ex": [
+   "Can I borrow your black marker for a minute?",
+   "Write your name on the box with a marker.",
+   "The teacher uses a red marker on the whiteboard.",
+   "This marker is almost dry, so I need a new one."
+  ],
+  "note": "Also often a sign that shows a place or fact: \"a mile marker,\" \"a genetic marker.\""
+ },
+ "flashback": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a flashback · flashbacks",
+  "say": "",
+  "note": ""
+ },
+ "meme": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a meme · memes",
+  "say": "",
+  "ex": [
+   "He sent me a funny meme about cats.",
+   "This meme is all over the internet this week.",
+   "My friends share memes in our group chat every day.",
+   "Can you make a meme for our school page?"
+  ],
+  "note": ""
+ },
+ "talk show": {
+  "v": "keep",
+  "pm": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a talk show · talk shows",
+  "say": "",
+  "note": ""
+ },
+ "field goal": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a field goal · field goals",
+  "say": "",
+  "note": "A term from American football and basketball."
+ },
+ "project manager": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a project manager · project managers",
+  "say": "",
+  "note": ""
+ },
+ "high-tech": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "high-tech · uncountable",
+  "say": "",
+  "ex": [
+   "My sister has worked in high-tech for ten years.",
+   "Many young people want good jobs in high-tech.",
+   "High-tech is a big part of the local economy.",
+   "Salaries in high-tech are usually higher than in other fields."
+  ],
+  "note": "Usually an adjective in English: a high-tech phone. As a noun, \"tech\" is more common."
+ },
+ "cookie": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a cookie · cookies",
+  "say": "",
+  "note": "Most often \"cookie\" means a small sweet cake: \"Can I have a chocolate cookie?\""
+ },
+ "baby boomer": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a baby boomer · baby boomers",
+  "say": "",
+  "ex": [
+   "My father is a baby boomer, born in 1955.",
+   "Many baby boomers are retiring this year.",
+   "A lot of baby boomers own big houses.",
+   "This ad is for baby boomers, not teenagers."
+  ],
+  "note": ""
+ },
+ "stand-up": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "stand-up · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "add-on": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "an add-on · add-ons",
+  "say": "",
+  "note": ""
+ },
+ "spin-off": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a spin-off · spin-offs",
+  "say": "",
+  "ex": [
+   "The popular show got its own spin-off last year.",
+   "The spin-off follows a side character from the movie.",
+   "Have you watched the new spin-off of that series?",
+   "Fans did not like the new spin-off very much."
+  ],
+  "note": ""
+ },
+ "de jure": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Formal; used mostly in law and politics. Opposite: \"de facto.\""
+ },
+ "time-out": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a time-out · time-outs",
+  "say": "",
+  "ex": [
+   "The coach called a time-out to talk to his players.",
+   "Each team can take two time-outs in every half.",
+   "After the time-out, our team scored three points.",
+   "I need a time-out from work for a few days."
+  ],
+  "note": "Also spelled \"timeout.\""
+ },
+ "déjà vu": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "déjà vu · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"a feeling of déjà vu,\" not \"a déjà vu.\""
+ },
+ "pro-life": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Means against abortion; the opposite is \"pro-choice.\""
+ },
+ "low-cost": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Used before a noun: a low-cost airline. \"Budget\" is a common synonym."
+ },
+ "cosmos": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "gram": "the cosmos",
+  "say": "",
+  "note": "Means the whole universe. For the area outside Earth, say \"space\": \"fly into space.\""
+ },
+ "malaria": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "malaria · uncountable",
+  "say": "",
+  "ex": [
+   "Mosquitoes spread malaria in many hot countries.",
+   "He got malaria during a trip to Africa.",
+   "Malaria kills many children every year.",
+   "Take these pills to protect yourself from malaria."
+  ],
+  "note": "Uncountable: \"get malaria,\" \"have malaria\" (not \"a malaria\")."
+ },
+ "deluxe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "sulfur": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "sulfur · uncountable",
+  "say": "",
+  "note": "Uncountable: some sulfur (not \"a sulfur\"). British spelling: \"sulphur.\""
+ },
+ "reflex": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a reflex · reflexes",
+  "say": "",
+  "ex": [
+   "The doctor tested the reflex in my knee.",
+   "Closing your eyes in bright light is a reflex.",
+   "Goalkeepers need very fast reflexes to stop the ball.",
+   "He caught the falling glass by reflex."
+  ],
+  "note": ""
+ },
+ "fetish": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a fetish · fetishes",
+  "say": "",
+  "ex": [
+   "In some old religions, a fetish was a holy object.",
+   "The museum shows a wooden fetish from West Africa.",
+   "He has a real fetish for expensive sneakers.",
+   "Our boss has a fetish about clean desks."
+  ],
+  "note": "Often has a sexual meaning; use carefully."
+ },
+ "discomfort": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "discomfort · uncountable",
+  "say": "",
+  "ex": [
+   "You may feel some discomfort after the shot.",
+   "These new shoes cause me discomfort all day.",
+   "Tell the doctor if you feel any discomfort.",
+   "She tried to hide her discomfort during the meeting."
+  ],
+  "note": "Usually uncountable: \"some discomfort,\" \"a lot of discomfort.\""
+ },
+ "maestro": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a maestro · maestros",
+  "say": "",
+  "ex": [
+   "The maestro raised his hand, and the music began.",
+   "The orchestra watched the maestro very carefully.",
+   "He is a true maestro of Italian opera.",
+   "The maestro bowed to the audience after the concert."
+  ],
+  "note": ""
+ },
+ "typhoon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a typhoon · typhoons",
+  "say": "",
+  "ex": [
+   "A typhoon hit the coast last night.",
+   "The typhoon brought heavy rain and strong winds.",
+   "Our flights were canceled because of the typhoon.",
+   "Typhoons are common in this part of Asia."
+  ],
+  "note": ""
+ },
+ "dividend": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a dividend · dividends",
+  "say": "",
+  "note": ""
+ },
+ "mindset": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a mindset · mindsets",
+  "say": "",
+  "note": ""
+ },
+ "aria": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an aria · arias",
+  "say": "",
+  "note": ""
+ },
+ "cluster": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a cluster · clusters",
+  "say": "",
+  "ex": [
+   "The company runs its website on a cluster of servers.",
+   "Doctors found a cluster of flu cases at the school.",
+   "The city has a large cluster of tech companies.",
+   "Each cluster in the network has ten computers."
+  ],
+  "note": "Most often a small group of things close together: \"a cluster of houses.\""
+ },
+ "gamer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gamer · gamers",
+  "say": "",
+  "note": ""
+ },
+ "margarita": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a margarita · margaritas",
+  "say": "",
+  "note": "The pizza is spelled differently: \"margherita.\""
+ },
+ "techno artist": {
+  "v": "not_english",
+  "pm": 0.1,
+  "reg": [],
+  "ns": true,
+  "gram": "a techno artist · techno artists",
+  "say": "",
+  "ex": [
+   "The techno artist played a long set at the club.",
+   "This techno artist makes music on old machines.",
+   "We bought tickets to see a techno artist from Berlin.",
+   "Which techno artist is playing at the festival tonight?"
+  ],
+  "note": ""
+ },
+ "set": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a set · sets",
+  "say": "",
+  "ex": [
+   "She won the first set six to two.",
+   "The tennis match lasted five long sets.",
+   "The band played a short set before the main show.",
+   "The DJ played a two-hour set at the club."
+  ],
+  "note": "Most often \"set\" is a verb: \"set the table,\" \"set an alarm\"; or \"a set of keys.\""
+ },
+ "caliber": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a caliber · calibers",
+  "say": "",
+  "ex": [
+   "The police found a small caliber bullet at the scene.",
+   "What caliber is this hunting rifle?",
+   "The team needs players of a higher caliber.",
+   "This school attracts teachers of very high caliber."
+  ],
+  "note": "American spelling; British is \"calibre\"."
+ },
+ "zebra": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a zebra · zebras",
+  "say": "",
+  "ex": [
+   "A zebra has black and white stripes.",
+   "We saw a group of zebras at the zoo.",
+   "The lion is running after a young zebra.",
+   "The zebras are drinking water at the river."
+  ],
+  "note": ""
+ },
+ "tart": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a tart · tarts",
+  "say": "",
+  "ex": [
+   "She baked an apple tart for the party.",
+   "We had a lemon tart for dessert.",
+   "This bakery sells small fruit tarts every morning.",
+   "Could you cut the tart into eight pieces?"
+  ],
+  "note": ""
+ },
+ "spiral": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a spiral · spirals",
+  "say": "",
+  "note": ""
+ },
+ "checkpoint": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "a checkpoint · checkpoints",
+  "say": "",
+  "note": ""
+ },
+ "surfer": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a surfer · surfers",
+  "say": "",
+  "note": ""
+ },
+ "softball": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "softball · uncountable",
+  "say": "",
+  "ex": [
+   "She plays softball on the school team.",
+   "We watched a softball game in the park.",
+   "Softball is a lot like baseball, but the ball is bigger.",
+   "Do you want to join our softball team this summer?"
+  ],
+  "note": "The game is uncountable: \"play softball.\" \"A softball\" is the ball."
+ },
+ "OMG": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal",
+   "slang"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "OMG, I just passed my driving test!",
+   "She texted me, \"OMG, did you see that?\"",
+   "OMG, this chocolate cake is really amazing.",
+   "OMG, I left my keys at home again."
+  ],
+  "note": "Very informal; mostly used in texting."
+ },
+ "visual": {
+  "v": "keep",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a visual · visuals",
+  "say": "",
+  "ex": [
+   "The designer made a bright visual for the ad.",
+   "The video has great visuals and good music.",
+   "We need a strong visual for the new poster.",
+   "The visuals in this game look really amazing."
+  ],
+  "note": "Most often an adjective: \"visual arts,\" \"a visual memory.\" As a noun, usually plural: visuals."
+ }
+}

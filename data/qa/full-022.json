@@ -1,0 +1,680 @@
+{
+ "browser": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a browser · browsers",
+  "say": "",
+  "ex": [
+   "Open this link in your web browser, please.",
+   "Which browser do you use on your phone?",
+   "My browser is slow, so I need to update it.",
+   "You can save this page in your browser."
+  ],
+  "note": ""
+ },
+ "underdog": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an underdog · underdogs",
+  "say": "",
+  "note": ""
+ },
+ "sculptor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sculptor · sculptors",
+  "say": "",
+  "note": ""
+ },
+ "goalkeeper": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a goalkeeper · goalkeepers",
+  "say": "",
+  "note": "Informally also called a \"goalie.\""
+ },
+ "bazaar": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a bazaar · bazaars",
+  "say": "",
+  "note": ""
+ },
+ "stigma": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a stigma · stigmas",
+  "say": "",
+  "note": ""
+ },
+ "quartet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a quartet · quartets",
+  "say": "",
+  "ex": [
+   "A string quartet played music at our wedding.",
+   "The quartet has two violins, a viola, and a cello.",
+   "She sings in a small jazz quartet on weekends.",
+   "Tickets for the quartet's concert cost twenty dollars."
+  ],
+  "note": ""
+ },
+ "photon": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a photon · photons",
+  "say": "",
+  "ex": [
+   "A photon is a tiny particle of light.",
+   "The laser sends out one photon at a time.",
+   "Photons have no mass and move very fast.",
+   "In physics class, we learned what a photon is."
+  ],
+  "note": ""
+ },
+ "feminism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "feminism · uncountable",
+  "say": "",
+  "ex": [
+   "She wrote her school essay on feminism.",
+   "Feminism fights for equal rights for women.",
+   "This book is a classic of modern feminism.",
+   "We talked about feminism in our history class."
+  ],
+  "note": ""
+ },
+ "jihad": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a jihad · jihads",
+  "say": "",
+  "note": ""
+ },
+ "noir": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "noir · uncountable",
+  "say": "",
+  "ex": [
+   "This movie is a classic example of noir.",
+   "In noir, a detective often walks through rainy streets.",
+   "She likes crime novels, especially dark noir.",
+   "Do you prefer comedy or noir for movie night?"
+  ],
+  "note": "Often \"film noir.\""
+ },
+ "parallel": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a parallel · parallels",
+  "say": "",
+  "ex": [
+   "There are clear parallels between these two stories.",
+   "Kyiv is just north of the 50th parallel.",
+   "Can you see any parallels between the two cases?",
+   "The teacher drew a parallel between the two wars."
+  ],
+  "note": "Most often \"parallel\" is an adjective: \"Draw two parallel lines.\""
+ },
+ "admin": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "an admin · admins",
+  "say": "",
+  "note": "Short for \"administrator.\""
+ },
+ "tofu": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "tofu · uncountable",
+  "say": "",
+  "ex": [
+   "She cooked tofu with rice and vegetables.",
+   "Tofu is made from soybeans and water.",
+   "I'd like the spicy tofu soup, please.",
+   "Can you buy some tofu at the store?"
+  ],
+  "note": "Uncountable: some tofu, a piece of tofu (not \"a tofu\")."
+ },
+ "quartz": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "quartz · uncountable",
+  "say": "",
+  "note": "Uncountable: a piece of quartz (not \"a quartz\")."
+ },
+ "barrister": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a barrister · barristers",
+  "say": "",
+  "note": "British; Americans usually say \"lawyer\" or \"attorney.\""
+ },
+ "anarchist": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "an anarchist · anarchists",
+  "say": "",
+  "ex": [
+   "An anarchist believes we do not need any government.",
+   "A group of anarchists protested outside the bank.",
+   "He read many books by famous anarchists.",
+   "She was an anarchist when she was young."
+  ],
+  "note": ""
+ },
+ "banjo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a banjo · banjos",
+  "say": "",
+  "note": ""
+ },
+ "durian": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a durian · durians",
+  "say": "",
+  "note": ""
+ },
+ "promoter": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a promoter · promoters",
+  "say": "",
+  "note": ""
+ },
+ "etiquette": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "etiquette · uncountable",
+  "say": "",
+  "note": "Uncountable: good etiquette (not \"a etiquette\")."
+ },
+ "giveaway": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a giveaway · giveaways",
+  "say": "",
+  "ex": [
+   "She won a free phone in an online giveaway.",
+   "The new store has a giveaway for its first customers.",
+   "How do I join the giveaway on your page?",
+   "The winner of our giveaway gets two concert tickets."
+  ],
+  "note": "Also a clue that shows a secret: \"His smile was a dead giveaway.\""
+ },
+ "nicotine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nicotine · uncountable",
+  "say": "",
+  "ex": [
+   "Cigarettes contain nicotine, which is bad for you.",
+   "Nicotine is very addictive, so quitting is hard.",
+   "He chews nicotine gum to stop smoking.",
+   "Does this vape have any nicotine in it?"
+  ],
+  "note": "Uncountable: a lot of nicotine (not \"a nicotine\")."
+ },
+ "yakuza": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the yakuza",
+  "say": "",
+  "note": ""
+ },
+ "shooter": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a shooter · shooters",
+  "say": "",
+  "note": "Most often \"shooter\" means a person who shoots a gun: \"Police caught the shooter.\""
+ },
+ "brief": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a brief · briefs",
+  "say": "",
+  "note": "Most often \"brief\" is an adjective meaning short: \"a brief meeting.\""
+ },
+ "groove": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a groove · grooves",
+  "say": "",
+  "note": "Most often \"groove\" means a long, narrow cut in a surface: \"a groove in the wood.\""
+ },
+ "realtor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a realtor · realtors",
+  "say": "",
+  "note": "American word; also \"real estate agent.\""
+ },
+ "expo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an expo · expos",
+  "say": "",
+  "note": ""
+ },
+ "stylist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a stylist · stylists",
+  "say": "",
+  "note": ""
+ },
+ "yeoman": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a yeoman · yeomen",
+  "say": "",
+  "ex": [
+   "In old England, a yeoman owned and farmed his own land.",
+   "A yeoman was richer than a poor farm worker.",
+   "Many yeomen lived in the villages near the castle.",
+   "The museum has a room about the life of a yeoman."
+  ],
+  "note": "Also in \"yeoman's work\": hard, useful work."
+ },
+ "mystic": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a mystic · mystics",
+  "say": "",
+  "note": ""
+ },
+ "branding": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "branding · uncountable",
+  "say": "",
+  "note": "Uncountable: good branding (not \"a branding\")."
+ },
+ "MC": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Short for \"master of ceremonies\"; in hip-hop, an MC is a rapper."
+ },
+ "electrode": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an electrode · electrodes",
+  "say": "",
+  "ex": [
+   "The nurse placed electrodes on my chest.",
+   "Every battery has two electrodes inside it.",
+   "The electrode sends a small electric current.",
+   "Please clean the electrodes before you use them."
+  ],
+  "note": ""
+ },
+ "blender": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a blender · blenders",
+  "say": "",
+  "note": ""
+ },
+ "sahib": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "dated"
+  ],
+  "ns": true,
+  "gram": "a sahib · sahibs",
+  "say": "",
+  "ex": [
+   "In the old story, the servant called him sahib.",
+   "The old sahib lived in a big white house.",
+   "\"Yes, sahib,\" said the driver, and opened the door.",
+   "The sahib gave orders to the workers every morning."
+  ],
+  "note": ""
+ },
+ "developer": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a developer · developers",
+  "say": "",
+  "note": "Most often \"developer\" means a software developer: \"She is a web developer.\""
+ },
+ "aeroplane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "an aeroplane · aeroplanes",
+  "say": "",
+  "note": "British spelling; American English uses \"airplane.\""
+ },
+ "ciao": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "Ciao, see you tomorrow at work!",
+   "She waved at us and said, \"Ciao!\"",
+   "Okay, I have to go now. Ciao!",
+   "He always says ciao instead of goodbye."
+  ],
+  "note": "Informal; \"bye\" or \"see you\" are more common in English."
+ },
+ "sapphire": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a sapphire · sapphires",
+  "say": "",
+  "ex": [
+   "Her ring has a small blue sapphire.",
+   "Sapphires are very hard and expensive stones.",
+   "He gave her sapphire earrings for her birthday.",
+   "How much does this sapphire necklace cost?"
+  ],
+  "note": ""
+ },
+ "cooperative": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a cooperative · cooperatives",
+  "say": "",
+  "ex": [
+   "The farmers in our village formed a cooperative.",
+   "She buys fresh food at a local cooperative.",
+   "The cooperative is owned by all its members.",
+   "He lives in an apartment in a housing cooperative."
+  ],
+  "note": "Most often \"cooperative\" is an adjective meaning helpful: \"The staff were very cooperative.\""
+ },
+ "freestyle": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a freestyle · freestyles",
+  "say": "",
+  "note": ""
+ },
+ "blazer": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a blazer · blazers",
+  "say": "",
+  "note": ""
+ },
+ "oasis": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an oasis · oases",
+  "say": "",
+  "ex": [
+   "The travelers stopped at an oasis in the desert.",
+   "An oasis has water and palm trees.",
+   "This small park is a green oasis in the city.",
+   "The camels drank water at the oasis."
+  ],
+  "note": "Irregular plural: \"oases.\""
+ },
+ "cyanide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cyanide · uncountable",
+  "say": "",
+  "ex": [
+   "Cyanide is a very dangerous poison.",
+   "In the movie, the spy carried a cyanide pill.",
+   "Apple seeds contain a small amount of cyanide.",
+   "Tests found traces of cyanide in the river water."
+  ],
+  "note": "Uncountable: a small amount of cyanide (not \"a cyanide\")."
+ },
+ "dharma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "dharma · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "ramen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "ramen · uncountable",
+  "say": "",
+  "note": "Uncountable: a bowl of ramen (not \"a ramen\")."
+ },
+ "rocker": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a rocker · rockers",
+  "say": "",
+  "note": ""
+ },
+ "simulator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a simulator · simulators",
+  "say": "",
+  "note": ""
+ },
+ "broadcaster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a broadcaster · broadcasters",
+  "say": "",
+  "note": ""
+ },
+ "roll": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a roll · rolls",
+  "say": "",
+  "ex": [
+   "I'd like a salmon roll and green tea, please.",
+   "These sushi rolls are fresh and a little spicy.",
+   "Can we order two more rolls for the table?",
+   "She makes sushi rolls with rice and fish at home."
+  ],
+  "note": "Most often \"roll\" is a verb: \"The ball rolled under the table.\""
+ },
+ "cracker": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a cracker · crackers",
+  "say": "",
+  "note": ""
+ },
+ "premier": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a premier · premiers",
+  "say": "",
+  "note": "Most often \"premier\" is an adjective meaning best or leading: \"a premier hotel.\""
+ },
+ "spoiler": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a spoiler · spoilers",
+  "say": "",
+  "ex": [
+   "Don't tell me the ending, that's a spoiler!",
+   "This review has spoilers, so be careful.",
+   "I stay off social media to avoid spoilers.",
+   "Is it a spoiler if I tell you who wins?"
+  ],
+  "note": ""
+ },
+ "polymer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a polymer · polymers",
+  "say": "",
+  "note": ""
+ },
+ "vegan": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a vegan · vegans",
+  "say": "",
+  "note": "Most often \"vegan\" is an adjective: \"vegan food,\" \"a vegan restaurant.\""
+ },
+ "brahmin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a Brahmin · Brahmins",
+  "say": "",
+  "ex": [
+   "The Brahmin led the prayers at the temple.",
+   "His family belongs to the Brahmin caste.",
+   "A Brahmin read from the old holy books.",
+   "In the past, Brahmins were priests and teachers."
+  ],
+  "note": "Usually written with a capital letter: \"Brahmin.\""
+ },
+ "cabaret": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cabaret · cabarets",
+  "say": "",
+  "note": ""
+ },
+ "brandy cola": {
+  "v": "not_english",
+  "pm": 0.05,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "In English, usually \"brandy and Coke\" or \"brandy and cola.\""
+ }
+}

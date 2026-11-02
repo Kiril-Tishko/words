@@ -1,0 +1,704 @@
+{
+ "promo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a promo · promos",
+  "say": "",
+  "note": "Informal short form of \"promotion\"."
+ },
+ "tabloid": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a tabloid · tabloids",
+  "say": "",
+  "note": ""
+ },
+ "commandant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a commandant · commandants",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The commandant of the base gave new orders.",
+   "The camp commandant was very strict with everyone.",
+   "Soldiers must report to the commandant every morning.",
+   "The new commandant visited the base last week."
+  ]
+ },
+ "SR": {
+  "v": "partial_false_friend",
+  "s": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "an SR · SRs",
+  "say": "",
+  "note": "Here SR = Socialist Revolutionary (Russia, 1917). \"Sr.\" after a name means \"Senior\".",
+  "ex": [
+   "An SR was a member of the Socialist Revolutionary Party.",
+   "The SRs were a large party in Russia in 1917.",
+   "Many peasants voted for the SRs in the elections.",
+   "Our history book has a chapter about the SRs."
+  ]
+ },
+ "USB": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "estimate": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "an estimate · estimates",
+  "say": "",
+  "note": "Often a verb: \"Can you estimate the cost?\" The noun ends like \"-mit\": an ES-ti-mit."
+ },
+ "oxide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an oxide · oxides",
+  "say": "",
+  "note": ""
+ },
+ "guitarist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a guitarist · guitarists",
+  "say": "",
+  "note": ""
+ },
+ "saloon": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a saloon · saloons",
+  "say": "",
+  "note": "An Old West bar. In British English, also a car (US: \"sedan\")."
+ },
+ "rendezvous": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a rendezvous · rendezvous",
+  "say": "",
+  "note": "Say \"RON-day-voo\". The plural is spelled the same: \"rendezvous\"."
+ },
+ "anesthesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "anesthesia · uncountable",
+  "say": "",
+  "note": "Uncountable: \"under general anesthesia\" (not \"an anesthesia\")."
+ },
+ "volt": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a volt · volts",
+  "say": "",
+  "note": "",
+  "ex": [
+   "This small battery gives one and a half volts.",
+   "Most wall outlets in Europe use 230 volts.",
+   "This phone charger works at five volts.",
+   "How many volts does this lamp need?"
+  ]
+ },
+ "Chinatown": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a Chinatown · Chinatowns",
+  "say": "",
+  "note": "Always written with a capital C: \"Chinatown\"."
+ },
+ "Reich": {
+  "v": "proper_noun",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "the Reich",
+  "say": "",
+  "note": "Used mostly for Nazi Germany, as \"the Third Reich.\""
+ },
+ "puzzle": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "a puzzle · puzzles",
+  "say": "",
+  "note": "Often any game or problem to solve, like a crossword puzzle. A picture one is a \"jigsaw puzzle\"."
+ },
+ "patriotism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "patriotism · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of patriotism (not \"a patriotism\")."
+ },
+ "plasma": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "plasma · uncountable",
+  "say": "",
+  "note": "Uncountable: \"hot plasma\", \"blood plasma\" (not \"a plasma\")."
+ },
+ "romantic": {
+  "v": "partial_false_friend",
+  "s": 8,
+  "reg": [],
+  "ns": false,
+  "gram": "a romantic · romantics",
+  "say": "",
+  "note": "Most often an adjective: \"a romantic dinner\", \"a romantic movie\"."
+ },
+ "textile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a textile · textiles",
+  "say": "",
+  "note": "Usually plural: \"textiles\". One kind of cloth is \"a fabric\"."
+ },
+ "remake": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a remake · remakes",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The remake is better than the original movie.",
+   "They announced a remake of the old video game.",
+   "I didn't like the remake at all.",
+   "Studios make too many remakes of old films these days."
+  ]
+ },
+ "slang": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "slang · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a slang word\", not \"a slang\".",
+  "ex": [
+   "\"Cool\" is common slang for \"good\".",
+   "Teenagers use a lot of slang when they text.",
+   "This word is old slang from the 1990s.",
+   "I don't understand all the new slang my kids use."
+  ]
+ },
+ "taboo": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a taboo · taboos",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Talking about money is a taboo in some families.",
+   "There is a strong taboo against eating pork there.",
+   "Death is still a taboo for many people.",
+   "She broke a social taboo by speaking out."
+  ]
+ },
+ "paladin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a paladin · paladins",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The paladin rode out to defend the king.",
+   "The twelve paladins appear in many old French legends.",
+   "In this game, I usually play as a paladin.",
+   "The paladin raised his shield and charged."
+  ]
+ },
+ "retard": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "offensive"
+  ],
+  "ns": true,
+  "gram": "a retard · retards",
+  "say": "",
+  "note": "Highly offensive slur; do not use it."
+ },
+ "Tao": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "the Tao",
+  "say": "",
+  "note": "Usually \"the Tao\": in Chinese thought, the natural way of the world."
+ },
+ "reboot": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": true,
+  "gram": "a reboot · reboots",
+  "say": "",
+  "note": "Also a computer restart: \"The computer needs a reboot.\" Often a verb too.",
+  "ex": [
+   "The studio is making a reboot of the old series.",
+   "Fans did not like the reboot of their favorite show.",
+   "Is this movie a reboot or a sequel?",
+   "The reboot has new actors and a darker story."
+  ]
+ },
+ "OS": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Short for \"operating system\". Say \"oh-ES\"."
+ },
+ "cyclone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cyclone · cyclones",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A strong cyclone hit the island last night.",
+   "The cyclone destroyed hundreds of homes near the coast.",
+   "Many people left their homes before the cyclone arrived.",
+   "Cyclones bring strong winds and heavy rain."
+  ]
+ },
+ "march": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a march · marches",
+  "say": "",
+  "note": "Most often \"March\" is the month: \"My birthday is in March.\" Also a verb: \"to march\".",
+  "ex": [
+   "The soldiers went on a long march through the hills.",
+   "Thousands of people joined the peace march downtown.",
+   "The army band played a march at the parade.",
+   "The march lasted three days without a break."
+  ]
+ },
+ "kappa": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a kappa · kappas",
+  "say": "",
+  "note": ""
+ },
+ "vending": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "vending · uncountable",
+  "say": "",
+  "note": "Usually in \"vending machine\": a machine that sells snacks or drinks."
+ },
+ "camouflage": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "camouflage · uncountable",
+  "say": "",
+  "note": "Uncountable: some camouflage (not \"a camouflage\")."
+ },
+ "ruble": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a ruble · rubles",
+  "say": "",
+  "note": "British spelling: \"rouble\"."
+ },
+ "raft": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a raft · rafts",
+  "say": "",
+  "note": "Often a flat boat made of logs: \"They built a raft.\" Also \"a raft of\" = a lot of.",
+  "ex": [
+   "We went down the river in a rubber raft.",
+   "Everyone in the raft must wear a helmet.",
+   "The raft hit a rock in the fast water.",
+   "Ten people can fit in this big raft."
+  ]
+ },
+ "capitalist": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a capitalist · capitalists",
+  "say": "",
+  "note": "Also an adjective: \"a capitalist country\".",
+  "ex": [
+   "He is a rich capitalist who owns three factories.",
+   "Capitalists invest money to make a profit.",
+   "The workers protested against the capitalists.",
+   "She calls herself a proud capitalist."
+  ]
+ },
+ "bong": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a bong · bongs",
+  "say": "",
+  "note": "A water pipe for smoking drugs. Also the deep sound of a big bell.",
+  "ex": [
+   "Police found a bong in his room.",
+   "This shop sells glass bongs and pipes.",
+   "He hid the bong before his parents came home.",
+   "A bong is a pipe that uses water."
+  ]
+ },
+ "cheeseburger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cheeseburger · cheeseburgers",
+  "say": "",
+  "note": ""
+ },
+ "hybrid": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a hybrid · hybrids",
+  "say": "",
+  "note": "Also an adjective: \"a hybrid car\", \"hybrid work\"."
+ },
+ "veto": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a veto · vetoes",
+  "say": "",
+  "note": "Plural: \"vetoes\". Also a verb: \"to veto a law\".",
+  "ex": [
+   "The president used his veto to stop the new law.",
+   "Each member country has a veto on this decision.",
+   "My mom has a veto over where we go on vacation.",
+   "The governor's veto stopped the tax plan."
+  ]
+ },
+ "zodiac": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "the zodiac",
+  "say": "",
+  "note": "Usually \"the zodiac\". Your sign is your \"zodiac sign\" or \"star sign\".",
+  "ex": [
+   "There are twelve signs in the zodiac.",
+   "Which sign of the zodiac were you born under?",
+   "She checks her zodiac sign in a magazine every week.",
+   "The zodiac is based on groups of stars."
+  ]
+ },
+ "encyclopedia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an encyclopedia · encyclopedias",
+  "say": "",
+  "note": "British spelling: \"encyclopaedia\"."
+ },
+ "canon": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a canon · canons",
+  "say": "",
+  "note": "Do not mix it up with \"cannon\", a big gun. In fan talk, \"canon\" is the official story.",
+  "ex": [
+   "This novel is now part of the literary canon.",
+   "The church still follows canon law on marriage.",
+   "The choir sang a canon, with voices starting one by one.",
+   "These old texts are not part of the official canon."
+  ]
+ },
+ "decor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "decor · uncountable",
+  "say": "",
+  "note": "Uncountable: the decor, some decor (not \"a decor\"). Also spelled \"décor\".",
+  "ex": [
+   "I love the decor in this restaurant.",
+   "The decor is simple and modern.",
+   "She changed the decor of her living room.",
+   "The decor in our hotel room looks very old."
+  ]
+ },
+ "sonar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "sonar · uncountable",
+  "say": "",
+  "note": "Usually uncountable: \"use sonar\", \"on sonar\"."
+ },
+ "invoice": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "an invoice · invoices",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Please send me the invoice by Friday.",
+   "The invoice is due in thirty days.",
+   "I paid the last invoice online this morning.",
+   "The invoice shows all the costs for the repair."
+  ]
+ },
+ "regent": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a regent · regents",
+  "say": "",
+  "note": ""
+ },
+ "dildo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "vulgar"
+  ],
+  "ns": true,
+  "gram": "a dildo · dildos",
+  "say": "",
+  "note": "Vulgar; avoid in polite conversation."
+ },
+ "handmade": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "An adjective in English: \"handmade soap\". It is not used alone as a noun.",
+  "ex": [
+   "She sells handmade jewelry on her website.",
+   "This handmade sweater was a gift from my grandma.",
+   "I always buy handmade soap at the market.",
+   "The small shop near our school sells handmade toys."
+  ]
+ },
+ "Buddhism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Buddhism · uncountable",
+  "say": "",
+  "note": "Always written with a capital B: \"Buddhism\".",
+  "ex": [
+   "Buddhism started in India about 2,500 years ago.",
+   "She became interested in Buddhism after a trip to Asia.",
+   "Buddhism teaches peace and kindness to all living things.",
+   "Many people in Thailand practice Buddhism."
+  ]
+ },
+ "joker": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a joker · jokers",
+  "say": "",
+  "note": "Also a person who likes to joke or play tricks: \"He's a real joker.\"",
+  "ex": [
+   "In this game, the joker can replace any card.",
+   "He played his joker at the last moment.",
+   "A normal deck of cards has two jokers.",
+   "I got the joker and won the game."
+  ]
+ },
+ "propeller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a propeller · propellers",
+  "say": "",
+  "note": ""
+ },
+ "farce": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a farce · farces",
+  "say": "",
+  "note": ""
+ },
+ "cannibal": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cannibal · cannibals",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The movie is about a tribe of cannibals.",
+   "The cannibal was caught by police.",
+   "Some spiders are cannibals and eat other spiders.",
+   "The story about cannibals scared the kids."
+  ]
+ },
+ "easy": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Also in \"Take it easy\" = relax, don't worry.",
+  "ex": [
+   "This test was easy, so I finished early.",
+   "Is it easy to get to the station from here?",
+   "The recipe is quick and easy to make.",
+   "This game is too easy for me now."
+  ]
+ },
+ "superman": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a superman · supermen",
+  "say": "",
+  "note": "Most often \"Superman\" is the comic book hero. As a common noun: a very strong, able man."
+ },
+ "millimeter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a millimeter · millimeters",
+  "say": "",
+  "note": "British spelling is \"millimetre.\""
+ },
+ "affidavit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "an affidavit · affidavits",
+  "say": "",
+  "note": ""
+ },
+ "cyborg": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cyborg · cyborgs",
+  "say": "",
+  "note": ""
+ },
+ "mantra": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a mantra · mantras",
+  "say": "",
+  "note": ""
+ },
+ "caviar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "caviar · uncountable",
+  "say": "",
+  "note": "Uncountable: some caviar, a lot of caviar (not \"a caviar\").",
+  "ex": [
+   "We tried black caviar at the party.",
+   "Real caviar is very expensive in most stores.",
+   "She served caviar on small crackers.",
+   "The restaurant is famous for its caviar."
+  ]
+ }
+}

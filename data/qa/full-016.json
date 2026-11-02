@@ -1,0 +1,675 @@
+{
+ "granite": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "granite · uncountable",
+  "say": "",
+  "note": "Uncountable: made of granite, a granite floor (not \"a granite\").",
+  "ex": [
+   "Our new kitchen counters are made of granite.",
+   "Granite is a very hard and heavy stone.",
+   "The old steps in front of the bank are granite.",
+   "Is granite more expensive than wood for a table?"
+  ]
+ },
+ "economist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an economist · economists",
+  "say": "",
+  "note": ""
+ },
+ "Catholic": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a Catholic · Catholics",
+  "say": "",
+  "note": "Most often \"Catholic\" is an adjective: \"a Catholic church.\" Always write it with a capital C.",
+  "ex": [
+   "Her family are Catholics and go to church every Sunday.",
+   "Is he a Catholic or a Protestant?",
+   "Many Catholics in this town go to the same church.",
+   "My grandmother is a Catholic, and she prays every morning."
+  ]
+ },
+ "antique": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "an antique · antiques",
+  "say": "",
+  "note": "Often an adjective: \"an antique table\" (old and valuable).",
+  "ex": [
+   "This old clock is a valuable antique.",
+   "My grandmother collects antiques from all over the country.",
+   "You can buy antiques at the market on Sundays.",
+   "Is this chair a real antique or a copy?"
+  ]
+ },
+ "mil": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a mil · mils",
+  "say": "",
+  "note": "Most often \"mil\" is informal for \"million\": \"ten mil\". As a unit, it is 1/1000 of an inch.",
+  "ex": [
+   "Buy plastic sheeting that is at least six mil thick.",
+   "These heavy trash bags are three mil thick.",
+   "Is this plastic film four mil or six mil?",
+   "The paint should be about two mils thick when dry."
+  ]
+ },
+ "dialect": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dialect · dialects",
+  "say": "",
+  "note": ""
+ },
+ "derby": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a derby · derbies",
+  "say": "",
+  "note": "Also a big horse race, and in the US a round hard hat (a \"bowler\")."
+ },
+ "quiz": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a quiz · quizzes",
+  "say": "",
+  "note": "In US schools, a \"quiz\" is also a short test: \"a math quiz.\"",
+  "ex": [
+   "We go to a quiz night at the bar every Thursday.",
+   "Our team won the quiz by two points.",
+   "She made a fun quiz for her friend's birthday party.",
+   "Do you want to join our team for the quiz?"
+  ]
+ },
+ "present": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a present · presents",
+  "say": "",
+  "note": "Most often \"present\" means \"here\" or \"now\": \"All students are present.\" It is also a verb."
+ },
+ "quota": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a quota · quotas",
+  "say": "",
+  "note": ""
+ },
+ "insider": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an insider · insiders",
+  "say": "",
+  "note": ""
+ },
+ "gram": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a gram · grams",
+  "say": "",
+  "note": "British spelling: \"gramme\"."
+ },
+ "biker": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a biker · bikers",
+  "say": "",
+  "note": "Usually a motorcycle rider; in the US sometimes also a person on a bicycle."
+ },
+ "cycle": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a cycle · cycles",
+  "say": "",
+  "note": "As a verb, \"cycle\" means to ride a bike: \"I cycle to work.\"",
+  "ex": [
+   "The washing machine has a short cycle for light clothes.",
+   "The life cycle of a frog has four stages.",
+   "Sleep has several cycles every night.",
+   "The cycle of the seasons repeats every year."
+  ]
+ },
+ "bio": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a bio · bios",
+  "say": "",
+  "note": "Informal; short for \"biography\"."
+ },
+ "thriller": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a thriller · thrillers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We watched a scary thriller last night.",
+   "This thriller kept me awake until two in the morning.",
+   "She writes crime thrillers about a young police officer.",
+   "Do you prefer thrillers or comedies on weekends?"
+  ]
+ },
+ "ketchup": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "ketchup · uncountable",
+  "say": "",
+  "note": "Uncountable: some ketchup, a lot of ketchup (not \"a ketchup\")."
+ },
+ "cedar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cedar · cedars",
+  "say": "",
+  "note": "",
+  "ex": [
+   "A tall cedar grows in the corner of our yard.",
+   "The old wooden chest is made of cedar.",
+   "Cedar trees have a fresh and pleasant smell.",
+   "They planted a row of cedars along the road."
+  ]
+ },
+ "finalist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a finalist · finalists",
+  "say": "",
+  "note": ""
+ },
+ "boost": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": true,
+  "gram": "a boost · boosts",
+  "say": "",
+  "note": "Most often \"boost\" is a verb: \"Coffee boosts my energy.\""
+ },
+ "leasing": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "leasing · uncountable",
+  "say": "",
+  "note": "For one contract, say \"a lease\": \"We signed a two-year lease.\"",
+  "ex": [
+   "Leasing a car can cost less each month than buying.",
+   "The company offers leasing for office equipment.",
+   "We chose leasing because we didn't have enough money.",
+   "Is leasing a better choice for a small business?"
+  ]
+ },
+ "clone": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a clone · clones",
+  "say": "",
+  "note": "Also a verb: \"Scientists cloned a sheep.\""
+ },
+ "vinyl": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "vinyl · uncountable",
+  "say": "",
+  "note": "Uncountable: records are \"on vinyl\" (not \"a vinyl\")."
+ },
+ "babysitter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a babysitter · babysitters",
+  "say": "",
+  "note": ""
+ },
+ "PR": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "hype": {
+  "v": "keep",
+  "s": 75,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "hype · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of hype (not \"a hype\").",
+  "ex": [
+   "There is a lot of hype around the new phone.",
+   "The movie was good, but not as good as the hype.",
+   "Don't believe all the hype about this diet.",
+   "Is the new restaurant worth the hype?"
+  ]
+ },
+ "cola": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cola · colas",
+  "say": "",
+  "note": "In the US, any sweet fizzy drink is often called \"soda.\"",
+  "ex": [
+   "Can I have a cola with ice, please?",
+   "He drinks too much cola and not enough water.",
+   "We ordered a pizza and two large colas.",
+   "This cola is too sweet for me."
+  ]
+ },
+ "prestige": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "prestige · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of prestige (not \"a prestige\").",
+  "ex": [
+   "A job at this hospital brings a lot of prestige.",
+   "The university has great prestige around the world.",
+   "He lost his prestige after the scandal.",
+   "For her, money matters more than prestige."
+  ]
+ },
+ "canoe": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a canoe · canoes",
+  "say": "",
+  "note": ""
+ },
+ "gala": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a gala · galas",
+  "say": "",
+  "note": ""
+ },
+ "loft": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a loft · lofts",
+  "say": "",
+  "note": "In British English, \"loft\" also means the room under the roof (an attic)."
+ },
+ "compliance": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "compliance · uncountable",
+  "say": "",
+  "note": "Uncountable. Often \"in compliance with\": \"in compliance with the rules.\""
+ },
+ "recorder": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a recorder · recorders",
+  "say": "",
+  "note": "Also a simple musical instrument you blow into, like a small flute."
+ },
+ "hormone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hormone · hormones",
+  "say": "",
+  "note": ""
+ },
+ "lockdown": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a lockdown · lockdowns",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The whole city was in lockdown for two months.",
+   "We worked from home during the lockdown.",
+   "All schools closed during the first lockdown.",
+   "Are shops open during the lockdown?"
+  ]
+ },
+ "blogger": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a blogger · bloggers",
+  "say": "",
+  "note": ""
+ },
+ "psst": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Psst, come over here and look at this!",
+   "Psst, I think your shoe is untied.",
+   "Psst, can you pass me a pen, please?",
+   "Psst, don't tell anyone about the surprise party."
+  ]
+ },
+ "flyer": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a flyer · flyers",
+  "say": "",
+  "note": "Also a person who travels by plane: \"a frequent flyer.\""
+ },
+ "recycling": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "recycling · uncountable",
+  "say": "",
+  "note": "Uncountable: \"put it in the recycling\" (not \"a recycling\").",
+  "ex": [
+   "Our city has a good recycling program for plastic.",
+   "Please put the empty bottles in the recycling.",
+   "Recycling helps reduce the amount of waste we make.",
+   "Which day do they pick up the recycling here?"
+  ]
+ },
+ "bulldog": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a bulldog · bulldogs",
+  "say": "",
+  "note": ""
+ },
+ "aspirin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aspirin · aspirins",
+  "say": "",
+  "note": "Both \"an aspirin\" (one pill) and \"some aspirin\" are correct."
+ },
+ "bumper": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a bumper · bumpers",
+  "say": "",
+  "note": ""
+ },
+ "graffiti": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "graffiti · uncountable",
+  "say": "",
+  "note": "Uncountable: some graffiti, a lot of graffiti (not \"a graffiti\").",
+  "ex": [
+   "The wall near the station is covered with graffiti.",
+   "Some kids painted graffiti on the old bridge.",
+   "The city cleans graffiti off buildings every week.",
+   "Some people think graffiti is a kind of art."
+  ]
+ },
+ "deacon": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a deacon · deacons",
+  "say": "",
+  "note": ""
+ },
+ "startup": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a startup · startups",
+  "say": "",
+  "note": ""
+ },
+ "take": {
+  "v": "partial_false_friend",
+  "s": 0.2,
+  "reg": [],
+  "ns": true,
+  "gram": "a take · takes",
+  "say": "",
+  "note": "Most often \"take\" is a verb: \"Take the bus.\" \"Take a photo.\""
+ },
+ "abdomen": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal",
+   "technical"
+  ],
+  "ns": true,
+  "gram": "an abdomen · abdomens",
+  "say": "",
+  "note": "Formal; in everyday speech people say \"stomach\" or \"belly\"."
+ },
+ "soundtrack": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a soundtrack · soundtracks",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The soundtrack of this movie is amazing.",
+   "I listen to the game soundtrack while I work.",
+   "She bought the soundtrack on vinyl.",
+   "Who wrote the soundtrack for this film?"
+  ]
+ },
+ "replay": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": true,
+  "gram": "a replay · replays",
+  "say": "",
+  "note": "Also a verb: \"They replayed the goal.\" In US sports TV, often \"instant replay.\"",
+  "ex": [
+   "Let's watch the replay of the goal again.",
+   "The replay showed that the ball was out.",
+   "You can watch a replay of the game online.",
+   "The referee checked the video replay before his decision."
+  ]
+ },
+ "kangaroo": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kangaroo · kangaroos",
+  "say": "",
+  "note": ""
+ },
+ "stereotype": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a stereotype · stereotypes",
+  "say": "",
+  "note": ""
+ },
+ "cobra": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a cobra · cobras",
+  "say": "",
+  "note": ""
+ },
+ "consulate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a consulate · consulates",
+  "say": "",
+  "note": ""
+ },
+ "swami": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a swami · swamis",
+  "say": "",
+  "note": ""
+ },
+ "substitute": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "a substitute · substitutes",
+  "say": "",
+  "note": "Often a verb: \"You can substitute honey for sugar.\" Also a replacement teacher or player."
+ },
+ "catering": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "catering · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "messiah": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a messiah · messiahs",
+  "say": "",
+  "note": "In religion, written with a capital: \"the Messiah.\""
+ },
+ "anime": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "anime · uncountable",
+  "say": "",
+  "note": "Usually uncountable: \"I watch anime.\" For one show: \"an anime series.\""
+ },
+ "quarantine": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "quarantine · uncountable",
+  "say": "",
+  "note": "Usually \"in quarantine\": \"The dog is in quarantine.\"",
+  "ex": [
+   "The travelers had to stay in quarantine for a week.",
+   "Our quarantine lasted fourteen days, and we stayed home.",
+   "They put the sick dog in quarantine.",
+   "We cooked a lot of new dishes during quarantine."
+  ]
+ },
+ "retailer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a retailer · retailers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "This retailer sells clothes online and in stores.",
+   "The retailer cut prices before the holidays.",
+   "Many small retailers closed their stores this year.",
+   "Is it better to buy from an official retailer?"
+  ]
+ }
+}

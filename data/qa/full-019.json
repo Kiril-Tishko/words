@@ -1,0 +1,670 @@
+{
+ "hostess": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a hostess · hostesses",
+  "say": "",
+  "note": "Also a woman who has guests at her home: \"Thank the hostess for dinner.\"",
+  "ex": [
+   "The hostess showed us to a table by the window.",
+   "Ask the hostess if there is a free table.",
+   "The hostess at the door said the wait is twenty minutes.",
+   "She works as a hostess in a busy restaurant."
+  ]
+ },
+ "songwriter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a songwriter · songwriters",
+  "say": "",
+  "note": ""
+ },
+ "porno": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "a porno · pornos",
+  "say": "",
+  "note": "Informal; the neutral word is \"porn\" or \"pornography.\""
+ },
+ "migraine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a migraine · migraines",
+  "say": "",
+  "note": ""
+ },
+ "salsa": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "salsa · uncountable",
+  "say": "",
+  "note": "In the US, \"salsa\" is very often a spicy tomato sauce; it is also a dance."
+ },
+ "joint": {
+  "v": "partial_false_friend",
+  "s": 4,
+  "reg": [
+   "slang"
+  ],
+  "ns": true,
+  "gram": "a joint · joints",
+  "say": "",
+  "note": "Most often \"joint\" means shared (\"a joint account\") or a body part like the knee."
+ },
+ "optimism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "optimism · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of optimism (not \"an optimism\").",
+  "ex": [
+   "Her optimism helped the team stay strong.",
+   "There is new optimism about the economy this year.",
+   "I like your optimism, but we need a plan.",
+   "His optimism makes him a great person to work with."
+  ]
+ },
+ "knockout": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a knockout · knockouts",
+  "say": "",
+  "note": ""
+ },
+ "liter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a liter · liters",
+  "say": "",
+  "note": "British spelling is \"litre.\""
+ },
+ "mademoiselle": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mademoiselle · mademoiselles",
+  "say": "",
+  "note": "A French title for a young woman; in English it is used mostly about France.",
+  "ex": [
+   "\"Thank you, mademoiselle,\" said the waiter with a smile.",
+   "In Paris, the shop assistant called her mademoiselle.",
+   "The hotel staff greeted her with \"Bonjour, mademoiselle.\"",
+   "In the novel, the young mademoiselle lives in Paris."
+  ]
+ },
+ "creditor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a creditor · creditors",
+  "say": "",
+  "note": ""
+ },
+ "khan": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a khan · khans",
+  "say": "",
+  "note": "Most often \"Khan\" is a family name; as a title for a ruler it is historical.",
+  "ex": [
+   "The khan ruled a huge empire on the steppe.",
+   "Each tribe was led by its own khan.",
+   "The khan's army crossed the river in winter.",
+   "In the museum, we saw the khan's golden throne."
+  ]
+ },
+ "pickup": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a pickup · pickups",
+  "say": "",
+  "note": "Also called a \"pickup truck.\" It can also mean collecting: \"The pickup time is 5 p.m.\"",
+  "ex": [
+   "He drives an old pickup to work every day.",
+   "Put the boxes in the back of the pickup.",
+   "My dad bought a new pickup last month.",
+   "A pickup is great for work on a farm."
+  ]
+ },
+ "genome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a genome · genomes",
+  "say": "",
+  "note": ""
+ },
+ "pianist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pianist · pianists",
+  "say": "",
+  "note": ""
+ },
+ "challenger": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": true,
+  "gram": "a challenger · challengers",
+  "say": "",
+  "note": ""
+ },
+ "computing": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "computing · uncountable",
+  "say": "",
+  "note": "Uncountable: cloud computing (not \"a computing\")."
+ },
+ "telegraph": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "a telegraph · telegraphs",
+  "say": "",
+  "note": "",
+  "ex": [
+   "In the past, important news came by telegraph.",
+   "The telegraph changed the way people communicated.",
+   "He sent a message to his family by telegraph.",
+   "Telegraph lines ran along the railroad tracks."
+  ]
+ },
+ "junior": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a junior · juniors",
+  "say": "",
+  "note": "Most often \"junior\" means younger or lower in rank: \"a junior manager.\"",
+  "ex": [
+   "Our company is hiring two juniors for the web team.",
+   "As a junior, she learns a lot from senior developers.",
+   "The junior asked the team lead to check his code.",
+   "He worked as a junior for a year before his promotion."
+  ]
+ },
+ "sort": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a sort · sorts",
+  "say": "",
+  "note": "Most often \"sort\" means kind: \"What sort of music do you like?\" For plants, \"variety\" is usual.",
+  "ex": [
+   "What sort of apples do you grow in your garden?",
+   "This sort of tomato grows well in a cold climate.",
+   "The shop sells three sorts of coffee beans.",
+   "Which sort of grape is best for making wine?"
+  ]
+ },
+ "fest": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a fest · fests",
+  "say": "",
+  "note": "Informal; \"festival\" is more common."
+ },
+ "funk": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "funk · uncountable",
+  "say": "",
+  "note": "Uncountable. \"In a funk\" means in a sad mood."
+ },
+ "pesticide": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pesticide · pesticides",
+  "say": "",
+  "note": ""
+ },
+ "syndicate": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a syndicate · syndicates",
+  "say": "",
+  "note": ""
+ },
+ "mainstream": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "the mainstream",
+  "say": "",
+  "note": "Most often used before a noun: \"mainstream music,\" \"mainstream media.\"",
+  "ex": [
+   "Her music slowly became part of the mainstream.",
+   "These ideas are now part of the mainstream.",
+   "The band was too strange for the mainstream.",
+   "Electric cars are quickly moving into the mainstream."
+  ]
+ },
+ "paranoia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "paranoia · uncountable",
+  "say": "",
+  "note": "Uncountable: a lot of paranoia (not \"a paranoia\")."
+ },
+ "idol": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "an idol · idols",
+  "say": "",
+  "note": "Most often \"idol\" means a famous person many people love: \"He was my childhood idol.\""
+ },
+ "enthusiast": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an enthusiast · enthusiasts",
+  "say": "",
+  "note": ""
+ },
+ "tanker": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a tanker · tankers",
+  "say": "",
+  "note": ""
+ },
+ "penthouse": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a penthouse · penthouses",
+  "say": "",
+  "note": ""
+ },
+ "programmer": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a programmer · programmers",
+  "say": "",
+  "note": "Also \"developer\" or \"software engineer\"."
+ },
+ "atheist": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "an atheist · atheists",
+  "say": "",
+  "note": ""
+ },
+ "socialist": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a socialist · socialists",
+  "say": "",
+  "note": "Most often used as an adjective: \"a socialist party,\" \"socialist ideas.\""
+ },
+ "homage": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "an homage · homages",
+  "say": "",
+  "note": "Common phrase: \"pay homage to\" someone or something.",
+  "ex": [
+   "The movie is an homage to old westerns.",
+   "Her new album is an homage to eighties pop music.",
+   "His painting pays homage to the great masters.",
+   "The restaurant's menu is an homage to his grandmother's cooking."
+  ]
+ },
+ "glamour": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "glamour · uncountable",
+  "say": "",
+  "note": "Uncountable. Also spelled \"glamor\" in the US, but \"glamour\" is more common.",
+  "ex": [
+   "Many young people dream of the glamour of Hollywood.",
+   "The party had an air of glamour and style.",
+   "She loves the glamour of big fashion shows.",
+   "The job has little glamour, but the pay is good."
+  ]
+ },
+ "cactus": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cactus · cacti",
+  "say": "",
+  "note": "Plural: \"cacti\" or \"cactuses\".",
+  "ex": [
+   "A cactus needs very little water to grow.",
+   "I have a small cactus on my desk at work.",
+   "Don't touch the cactus because it has sharp spines.",
+   "The desert is full of tall cacti."
+  ]
+ },
+ "inning": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an inning · innings",
+  "say": "",
+  "note": "Baseball: \"inning\"; cricket: \"innings\" (same singular and plural)."
+ },
+ "SI": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "SI has several uses; in science it is the metric system of units: \"SI units.\"",
+  "ex": [
+   "The meter is the SI unit of length.",
+   "Please use SI units in your lab report.",
+   "SI stands for the International System of Units.",
+   "The kilogram is one of the SI base units."
+  ]
+ },
+ "metabolism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a metabolism · metabolisms",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Regular exercise speeds up your metabolism.",
+   "My metabolism slowed down after I turned forty.",
+   "Some people have a fast metabolism and stay thin.",
+   "Poor sleep can slow down your metabolism."
+  ]
+ },
+ "jumper": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a jumper · jumpers",
+  "say": "",
+  "note": "British for a sweater; in the US a \"jumper\" is a dress, and \"sweater\" is the usual word."
+ },
+ "highlight": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a highlight · highlights",
+  "say": "",
+  "note": "Often a verb: \"Highlight the key words.\" As a noun, it is the best part of something."
+ },
+ "fundraising": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "fundraising · uncountable",
+  "say": "",
+  "note": "Uncountable."
+ },
+ "avatar": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "an avatar · avatars",
+  "say": "",
+  "note": ""
+ },
+ "retro": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "true": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Most often \"true\" means correct, not false: \"Is it true?\" \"That is not true.\"",
+  "ex": [
+   "He is a true fan and never misses a game.",
+   "She found her true love in college.",
+   "A true friend helps you when things are hard.",
+   "This small restaurant serves true Italian pizza."
+  ]
+ },
+ "patch": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a patch · patches",
+  "say": "",
+  "note": "Most often \"patch\" is a small area or piece: \"a patch of grass,\" \"a patch on a jacket.\""
+ },
+ "burrito": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a burrito · burritos",
+  "say": "",
+  "note": ""
+ },
+ "hashtag": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hashtag · hashtags",
+  "say": "",
+  "note": ""
+ },
+ "consulting": {
+  "v": "keep",
+  "s": 55,
+  "reg": [],
+  "ns": false,
+  "gram": "consulting · uncountable",
+  "say": "",
+  "note": "Uncountable: work in consulting (not \"a consulting\")."
+ },
+ "vortex": {
+  "v": "not_standard_ukrainian",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a vortex · vortices",
+  "say": "",
+  "note": "Plural: \"vortices\" or \"vortexes\".",
+  "ex": [
+   "The water made a vortex as it went down the drain.",
+   "A tornado is a powerful vortex of spinning air.",
+   "The small boat was pulled into a vortex in the river.",
+   "Scientists study how a vortex forms behind airplane wings."
+  ]
+ },
+ "remix": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a remix · remixes",
+  "say": "",
+  "note": ""
+ },
+ "squire": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a squire · squires",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The squire owned most of the land around the village.",
+   "The old squire lived in a large house on the hill.",
+   "Everyone in the village knew and respected the squire.",
+   "In the novel, the squire invites the doctor to dinner."
+  ]
+ },
+ "IP": {
+  "v": "keep",
+  "s": 55,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Every device on a network has an IP address.",
+   "The website blocked my IP after too many logins.",
+   "Can you check your IP address for me?",
+   "The company traced the attack to a foreign IP."
+  ]
+ },
+ "amnesia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "amnesia · uncountable",
+  "say": "",
+  "note": "Uncountable."
+ },
+ "healer": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "a healer · healers",
+  "say": "",
+  "note": ""
+ },
+ "shaman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a shaman · shamans",
+  "say": "",
+  "note": ""
+ },
+ "intellect": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an intellect · intellects",
+  "say": "",
+  "note": ""
+ },
+ "hater": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a hater · haters",
+  "say": "",
+  "note": "Informal."
+ },
+ "curator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a curator · curators",
+  "say": "",
+  "note": ""
+ },
+ "pack": {
+  "v": "partial_false_friend",
+  "s": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a pack · packs",
+  "say": "",
+  "note": "Most often \"pack\" is a verb: \"Pack your bag.\" As a noun: \"a pack of gum.\""
+ }
+}

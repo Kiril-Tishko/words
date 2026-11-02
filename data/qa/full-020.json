@@ -1,0 +1,714 @@
+{
+ "domain": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a domain · domains",
+  "say": "",
+  "ex": [
+   "We bought a domain for our new website.",
+   "The domain name costs ten dollars a year.",
+   "Can you check if this domain is still free?",
+   "He owns several domains for his small business."
+  ],
+  "note": "Most often \"domain\" means an area of work or knowledge: \"Cooking is her domain.\""
+ },
+ "gladiator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a gladiator · gladiators",
+  "say": "",
+  "note": ""
+ },
+ "sensei": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sensei · senseis",
+  "say": "",
+  "note": ""
+ },
+ "leukemia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "leukemia · uncountable",
+  "say": "",
+  "note": "Uncountable: leukemia (not \"a leukemia\"). British spelling: leukaemia."
+ },
+ "neon": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "neon · uncountable",
+  "say": "",
+  "ex": [
+   "Neon lights glowed above the bar all night.",
+   "Neon is a gas used in bright signs.",
+   "The sign over the shop is pink neon.",
+   "The old neon sign outside the cafe is broken."
+  ],
+  "note": "Uncountable (not \"a neon\"). Also used for very bright colors: neon green."
+ },
+ "brownie": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a brownie · brownies",
+  "say": "",
+  "ex": [
+   "She baked chocolate brownies for the party.",
+   "I'd like a brownie with ice cream, please.",
+   "These brownies are soft in the middle.",
+   "Cut the brownies into small squares before serving."
+  ],
+  "note": ""
+ },
+ "espresso": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an espresso · espressos",
+  "say": "",
+  "ex": [
+   "I need a strong espresso after lunch.",
+   "She ordered a double espresso at the cafe.",
+   "This machine makes very good espresso.",
+   "He drinks three espressos a day at work."
+  ],
+  "note": "Not \"expresso.\""
+ },
+ "sari": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a sari · saris",
+  "say": "",
+  "note": "Also spelled saree."
+ },
+ "mu": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a mu · mus",
+  "say": "",
+  "ex": [
+   "Mu is a letter of the Greek alphabet.",
+   "The letter mu often means \"micro\" in science.",
+   "In this formula, mu stands for the average.",
+   "Can you show me how to type mu on my phone?"
+  ],
+  "note": ""
+ },
+ "methane": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "methane · uncountable",
+  "say": "",
+  "ex": [
+   "Cows produce a lot of methane every day.",
+   "Methane is a strong greenhouse gas.",
+   "The gas for our stove is mostly methane.",
+   "The leak released methane into the air."
+  ],
+  "note": "Uncountable: methane, a lot of methane (not \"a methane\")."
+ },
+ "nickel": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "nickel · uncountable",
+  "say": "",
+  "note": "The metal is uncountable. In the US, \"a nickel\" is also a 5-cent coin: \"Do you have a nickel?\""
+ },
+ "primaries": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a primary · primaries",
+  "say": "",
+  "note": "Plural of \"primary\"; one election is a \"primary.\""
+ },
+ "grizzly": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a grizzly · grizzlies",
+  "say": "",
+  "ex": [
+   "A grizzly crossed the road in front of our car.",
+   "The grizzly caught a fish in the river.",
+   "Grizzlies live in the mountains of Alaska and Canada.",
+   "If you see a grizzly, never run away."
+  ],
+  "note": "Also \"grizzly bear\"."
+ },
+ "kale": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "kale · uncountable",
+  "say": "",
+  "ex": [
+   "I added some kale to my smoothie.",
+   "Kale is a healthy green vegetable.",
+   "She made a kale salad for lunch today.",
+   "Cook the kale with a little garlic and oil."
+  ],
+  "note": "Uncountable: some kale, a lot of kale (not \"a kale\")."
+ },
+ "establishment": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "the establishment",
+  "say": "",
+  "note": "Most often it means starting something or a business place: \"the establishment of a new school.\""
+ },
+ "toaster": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a toaster · toasters",
+  "say": "",
+  "note": ""
+ },
+ "exterior": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "an exterior · exteriors",
+  "say": "",
+  "ex": [
+   "The exterior of the house is painted white.",
+   "They washed the exterior of the car on Sunday.",
+   "The building has a modern glass exterior.",
+   "The exterior of our school needs new paint."
+  ],
+  "note": "Also an adjective: exterior walls, an exterior door."
+ },
+ "iceberg": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an iceberg · icebergs",
+  "say": "",
+  "ex": [
+   "The ship hit an iceberg and sank.",
+   "Most of an iceberg is under the water.",
+   "We saw huge icebergs near the coast of Greenland.",
+   "Ships must watch out for icebergs in the north."
+  ],
+  "note": ""
+ },
+ "duet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a duet · duets",
+  "say": "",
+  "note": ""
+ },
+ "tutorial": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a tutorial · tutorials",
+  "say": "",
+  "note": ""
+ },
+ "testosterone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "testosterone · uncountable",
+  "say": "",
+  "note": "Uncountable: testosterone (not \"a testosterone\")."
+ },
+ "folk": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": false,
+  "gram": "folk · uncountable",
+  "say": "",
+  "ex": [
+   "She plays folk on her guitar every evening.",
+   "I prefer folk to pop music.",
+   "The festival has folk, jazz, and blues bands.",
+   "Do you listen to folk, or do you prefer rock?"
+  ],
+  "note": "Most often \"folk\" means people: \"country folk.\" \"Folks\" is informal for people or parents."
+ },
+ "charter": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a charter · charters",
+  "say": "",
+  "ex": [
+   "We flew to Turkey on a cheap charter.",
+   "Our charter leaves at six in the morning.",
+   "Charter flights are often cheaper than regular ones.",
+   "They booked a boat charter for the whole day."
+  ],
+  "note": "Most often \"charter\" is an official document of rights or rules: \"a city charter.\""
+ },
+ "locomotive": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a locomotive · locomotives",
+  "say": "",
+  "note": ""
+ },
+ "neutron": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a neutron · neutrons",
+  "say": "",
+  "note": ""
+ },
+ "nostalgia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "nostalgia · uncountable",
+  "say": "",
+  "ex": [
+   "Old songs fill me with nostalgia.",
+   "He felt nostalgia for his school days.",
+   "The movie is full of eighties nostalgia.",
+   "Looking at old photos gives me a feeling of nostalgia."
+  ],
+  "note": "Uncountable: \"a feeling of nostalgia\", not \"a nostalgia\"."
+ },
+ "protagonist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a protagonist · protagonists",
+  "say": "",
+  "note": "Formal; \"main character\" is more common in speech."
+ },
+ "pedophile": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pedophile · pedophiles",
+  "say": "",
+  "note": ""
+ },
+ "broccoli": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "broccoli · uncountable",
+  "say": "",
+  "ex": [
+   "Please eat your broccoli because it is good for you.",
+   "I steamed some broccoli for dinner.",
+   "Broccoli is a green vegetable with a lot of vitamins.",
+   "Can you add some broccoli to the pasta?"
+  ],
+  "note": "Uncountable: \"some broccoli\", not \"a broccoli\"."
+ },
+ "meow": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "ex": [
+   "\"Meow,\" said the kitten when it wanted food.",
+   "The cat says meow when it is hungry.",
+   "My little son says \"meow\" every time he sees a cat.",
+   "Meow! Our cat is waiting by the door again."
+  ],
+  "note": "Also a noun and a verb: \"The cat gave a loud meow.\" British spelling: miaow."
+ },
+ "lama": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a lama · lamas",
+  "say": "",
+  "note": "Don't confuse with \"llama\", the animal."
+ },
+ "cortex": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": true,
+  "gram": "a cortex · cortices",
+  "say": "",
+  "note": "Plural: cortices (or cortexes)."
+ },
+ "boomer": {
+  "v": "keep",
+  "s": 85,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a boomer · boomers",
+  "say": "",
+  "ex": [
+   "My grandpa is a boomer, born in 1955.",
+   "Many boomers are retiring from work now.",
+   "Boomers grew up after the Second World War.",
+   "Is your grandmother a boomer or older?"
+  ],
+  "note": "Informal, short for \"baby boomer\"; can sound rude (\"OK, boomer\")."
+ },
+ "reverse": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "reverse · uncountable",
+  "say": "",
+  "ex": [
+   "Put the car in reverse to leave the parking space.",
+   "The car is stuck in reverse and won't go forward.",
+   "She shifted into reverse to park near the store.",
+   "The back of a coin is called the reverse."
+  ],
+  "note": "Most often \"reverse\" is a verb or adjective: \"reverse a decision\", \"in reverse order\"."
+ },
+ "calculator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a calculator · calculators",
+  "say": "",
+  "note": ""
+ },
+ "penalty": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a penalty · penalties",
+  "say": "",
+  "ex": [
+   "The referee gave a penalty in the last minute.",
+   "He scored the winning penalty for his team.",
+   "Our goalkeeper saved the penalty and the fans cheered.",
+   "The game ended in a penalty shootout."
+  ],
+  "note": "Most often \"penalty\" means a punishment or fine: \"a penalty for late payment.\""
+ },
+ "starter": {
+  "v": "partial_false_friend",
+  "s": 12,
+  "reg": [],
+  "ns": false,
+  "gram": "a starter · starters",
+  "say": "",
+  "note": "Often \"starter\" means a player who starts a game, or (UK) the first course of a meal."
+ },
+ "mule": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a mule · mules",
+  "say": "",
+  "note": ""
+ },
+ "ace": {
+  "v": "keep",
+  "s": 20,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "an ace · aces",
+  "say": "",
+  "ex": [
+   "He was a famous flying ace in the war.",
+   "She is an ace at math and helps her friends.",
+   "My brother is an ace with computers.",
+   "Ask our neighbor; he is an ace at fixing cars."
+  ],
+  "note": "Most often an \"ace\" is a playing card: \"the ace of hearts.\" To \"ace a test\" means to do very well."
+ },
+ "turbo": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a turbo · turbos",
+  "say": "",
+  "note": "Short for \"turbocharger\"."
+ },
+ "radiator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a radiator · radiators",
+  "say": "",
+  "note": ""
+ },
+ "shilling": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a shilling · shillings",
+  "say": "",
+  "note": ""
+ },
+ "fascism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "fascism · uncountable",
+  "say": "",
+  "ex": [
+   "Fascism spread across Europe in the 1930s.",
+   "Millions of people died fighting fascism in the war.",
+   "This book explains the rise of fascism in Italy.",
+   "Fascism is the opposite of democracy."
+  ],
+  "note": "Uncountable: fascism (not \"a fascism\")."
+ },
+ "proton": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a proton · protons",
+  "say": "",
+  "ex": [
+   "A proton has a positive electric charge.",
+   "A hydrogen atom has just one proton.",
+   "Protons are found in the center of an atom.",
+   "The number of protons tells you the element."
+  ],
+  "note": ""
+ },
+ "scalp": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a scalp · scalps",
+  "say": "",
+  "ex": [
+   "This shampoo is good for a dry scalp.",
+   "She has a dry, itchy scalp in winter.",
+   "Massage your scalp gently when you wash your hair.",
+   "Wear a hat to protect your scalp from the sun."
+  ],
+  "note": ""
+ },
+ "meteorite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a meteorite · meteorites",
+  "say": "",
+  "note": ""
+ },
+ "ensemble": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "an ensemble · ensembles",
+  "say": "",
+  "note": ""
+ },
+ "avocado": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an avocado · avocados",
+  "say": "",
+  "ex": [
+   "I put avocado on my toast every morning.",
+   "This avocado is not ripe yet.",
+   "Cut the avocado in half and remove the seed.",
+   "Avocados are rich in healthy fats."
+  ],
+  "note": ""
+ },
+ "discourse": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "discourse · uncountable",
+  "say": "",
+  "note": "Formal, mostly uncountable; in daily speech use \"discussion\" or \"debate\"."
+ },
+ "patio": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a patio · patios",
+  "say": "",
+  "note": ""
+ },
+ "fanatic": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a fanatic · fanatics",
+  "say": "",
+  "ex": [
+   "He is a football fanatic who watches every game.",
+   "She is a fitness fanatic and runs every day.",
+   "My brother is a fanatic about clean cars.",
+   "Religious fanatics attacked the small town."
+  ],
+  "note": ""
+ },
+ "mural": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a mural · murals",
+  "say": "",
+  "note": ""
+ },
+ "cider": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cider · uncountable",
+  "say": "",
+  "note": "In the US, \"cider\" often means non-alcoholic juice; alcoholic is \"hard cider\"."
+ },
+ "attribute": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "an attribute · attributes",
+  "say": "",
+  "ex": [
+   "Patience is an important attribute for a teacher.",
+   "Honesty is his best attribute as a manager.",
+   "What attributes make a good leader?",
+   "Each file has attributes like size and date."
+  ],
+  "note": "Often \"attribute\" is a verb (stress on -TRIB-): \"She attributes her success to hard work.\""
+ },
+ "abbot": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "an abbot · abbots",
+  "say": "",
+  "note": ""
+ },
+ "contrast": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a contrast · contrasts",
+  "say": "",
+  "ex": [
+   "This photo has very strong contrast.",
+   "Turn up the contrast on your screen, please.",
+   "There is a big contrast between city and village life.",
+   "I like the contrast between the black and white walls."
+  ],
+  "note": "Common phrase: \"in contrast to\" (= unlike)."
+ },
+ "imam": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an imam · imams",
+  "say": "",
+  "note": ""
+ },
+ "sauna": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sauna · saunas",
+  "say": "",
+  "note": ""
+ },
+ "smoothie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a smoothie · smoothies",
+  "say": "",
+  "note": ""
+ },
+ "hoodie": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hoodie · hoodies",
+  "say": "",
+  "ex": [
+   "He wore a gray hoodie and jeans.",
+   "Put on your hoodie because it's cold outside.",
+   "She bought a hoodie with the school logo.",
+   "My favorite hoodie has a big front pocket."
+  ],
+  "note": ""
+ }
+}

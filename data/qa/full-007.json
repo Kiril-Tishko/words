@@ -1,0 +1,750 @@
+{
+ "cricket": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "cricket · uncountable",
+  "say": "play cricket · a cricket match",
+  "ex": [
+   "They play cricket in the park every Sunday.",
+   "Cricket is very popular in India and England.",
+   "Do you want to watch a cricket match?",
+   "My brother plays cricket for his school team."
+  ],
+  "note": "As a sport it is uncountable: play cricket. It is also a small insect."
+ },
+ "beat": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": true,
+  "gram": "a beat · beats",
+  "say": "dance to the beat · a strong beat",
+  "ex": [
+   "This song has a really great beat.",
+   "He makes beats for rappers on his laptop.",
+   "Can you hear the beat of the drums?",
+   "We danced to the fast beat all night."
+  ],
+  "note": "Most often \"beat\" is a verb: \"Our team beat them 3–0\" (won against) or \"beat a drum\" (hit)."
+ },
+ "dessert": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dessert · desserts",
+  "say": "for dessert · have dessert",
+  "ex": [
+   "What do you want for dessert tonight?",
+   "We had ice cream for dessert yesterday.",
+   "She makes a great chocolate dessert on Sundays.",
+   "I'm too full to eat any dessert now."
+  ],
+  "note": "Often no article: \"What's for dessert?\" Do not confuse with \"desert\" (a dry, sandy place)."
+ },
+ "max": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "ten minutes max · up to max",
+  "ex": [
+   "The trip takes twenty minutes max by bus.",
+   "We can spend fifty dollars max on the gift.",
+   "Turn the heat up to max, please.",
+   "Can we invite ten people max to the party?"
+  ],
+  "note": "Informal short for \"maximum\": \"ten minutes max\". \"Max\" is also a common boy's name."
+ },
+ "hip-hop artist": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "a hip-hop artist · hip-hop artists",
+  "say": "a famous hip-hop artist",
+  "ex": [
+   "My brother wants to be a hip-hop artist.",
+   "Which hip-hop artist do you listen to most?",
+   "The hip-hop artist played three new songs at the concert.",
+   "Many young hip-hop artists share their music online."
+  ],
+  "note": "Here \"artist\" means a music performer; \"artist\" alone often means a painter."
+ },
+ "hobby": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hobby · hobbies",
+  "say": "have a hobby · as a hobby",
+  "ex": [
+   "My favorite hobby is taking photos of nature.",
+   "Do you have any hobbies in your free time?",
+   "She started painting as a hobby last year.",
+   "Fishing is a relaxing hobby for many people."
+  ],
+  "note": ""
+ },
+ "continent": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a continent · continents",
+  "say": "on every continent · on the continent",
+  "note": ""
+ },
+ "web": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "the web",
+  "say": "on the web · search the web",
+  "note": "Also the net a spider makes: \"a spider web\"."
+ },
+ "memorial": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a memorial · memorials",
+  "say": "a war memorial · a memorial to sb",
+  "note": "Often before a noun: \"a memorial service\" is a ceremony for someone who died."
+ },
+ "publisher": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "a publisher · publishers",
+  "say": "a book publisher · a game publisher",
+  "note": ""
+ },
+ "insight": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an insight · insights",
+  "say": "insight into sth · give an insight",
+  "note": ""
+ },
+ "cotton": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "gram": "cotton · uncountable",
+  "say": "made of cotton · a cotton shirt",
+  "ex": [
+   "This shirt is made of soft cotton.",
+   "Cotton is cool and comfortable in summer.",
+   "Do you have this dress in cotton?",
+   "These socks are one hundred percent cotton."
+  ],
+  "note": "Uncountable: some cotton, a lot of cotton (not \"a cotton\")."
+ },
+ "gay": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a gay man · gay people",
+  "say": "gay people · come out as gay",
+  "ex": [
+   "My brother is gay and lives with his partner.",
+   "The city has a big festival for gay people.",
+   "Many gay couples live in this part of town.",
+   "She told her parents that she is gay."
+  ],
+  "note": "Usually an adjective: \"He is gay\", \"gay people\". \"A gay\" as a noun can sound rude."
+ },
+ "discount": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a discount · discounts",
+  "say": "get a discount · a discount on sth",
+  "note": ""
+ },
+ "instrument": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "an instrument · instruments",
+  "say": "play an instrument · a musical instrument",
+  "ex": [
+   "Do you play a musical instrument?",
+   "The piano is my favorite instrument to play.",
+   "She can play three different instruments well.",
+   "My son wants to learn a new instrument."
+  ],
+  "note": "Most often a musical instrument or a device for measuring. A hammer is a \"tool\", not an \"instrument\"."
+ },
+ "debut": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a debut · debuts",
+  "say": "make your debut · a debut album",
+  "ex": [
+   "This is her debut album, and I love it.",
+   "He made his debut in a film last year.",
+   "Their debut song was a big hit on the radio.",
+   "The young player made her debut for the team today."
+  ],
+  "note": "Pronounced \"day-BYOO\"; the t is silent."
+ },
+ "dinosaur": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "a dinosaur · dinosaurs",
+  "say": "dinosaur bones",
+  "note": ""
+ },
+ "GPS": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "turn on the GPS · use GPS",
+  "note": ""
+ },
+ "goal": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a goal · goals",
+  "say": "score a goal",
+  "ex": [
+   "He scored a goal in the last minute.",
+   "Our team won the game by two goals.",
+   "What a great goal by the young player!",
+   "Who scored the first goal of the game?"
+  ],
+  "note": "Most often \"goal\" means an aim: \"My goal is to learn English.\""
+ },
+ "pearl": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": true,
+  "gram": "a pearl · pearls",
+  "say": "a pearl necklace · pearl earrings",
+  "note": ""
+ },
+ "massage": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a massage · massages",
+  "say": "get a massage · give sb a massage",
+  "note": ""
+ },
+ "bicycle": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": true,
+  "gram": "a bicycle · bicycles",
+  "say": "ride a bicycle · by bicycle",
+  "note": "\"Bike\" is more common in everyday speech."
+ },
+ "syndrome": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a syndrome · syndromes",
+  "say": "a rare syndrome · have a syndrome",
+  "ex": [
+   "The doctor said he has a rare syndrome.",
+   "This syndrome makes people feel tired all the time.",
+   "The doctor explained the syndrome to his parents.",
+   "Many children with this syndrome go to regular schools."
+  ],
+  "note": ""
+ },
+ "pastor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a pastor · pastors",
+  "say": "the pastor of a church",
+  "ex": [
+   "The pastor spoke to everyone after the service.",
+   "Our pastor visits sick people in the hospital.",
+   "She asked the pastor for advice about her family.",
+   "The pastor married them in a small church."
+  ],
+  "note": ""
+ },
+ "poker": {
+  "v": "keep",
+  "s": 98,
+  "reg": [],
+  "ns": false,
+  "gram": "poker · uncountable",
+  "say": "play poker · win at poker",
+  "note": "Uncountable: play poker (not \"a poker\")."
+ },
+ "yoga": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "yoga · uncountable",
+  "say": "do yoga · a yoga class",
+  "note": "Uncountable: do yoga, a yoga class (not \"a yoga\")."
+ },
+ "tumor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a tumor · tumors",
+  "say": "a brain tumor · remove a tumor",
+  "ex": [
+   "The doctors found a small tumor in his brain.",
+   "Good news: the tumor is not cancer.",
+   "She had surgery to remove the tumor last month.",
+   "The tumor grew slowly over many years."
+  ],
+  "note": "British spelling: \"tumour\"."
+ },
+ "profile": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a profile · profiles",
+  "say": "on your profile · update your profile",
+  "note": "Also a short article about a person, or a side view of a face. \"High-profile\" means well-known."
+ },
+ "verdict": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a verdict · verdicts",
+  "say": "reach a verdict · a guilty verdict",
+  "ex": [
+   "The jury reached a verdict after two days.",
+   "The verdict was \"not guilty,\" and he went home.",
+   "Everyone in the room waited quietly for the verdict.",
+   "His lawyer was not happy with the verdict."
+  ],
+  "note": ""
+ },
+ "rap": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "rap · uncountable",
+  "say": "listen to rap · rap music",
+  "note": ""
+ },
+ "ego": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an ego · egos",
+  "say": "a big ego · hurt sb's ego",
+  "ex": [
+   "His ego is too big to admit his mistakes.",
+   "Winning the game was good for her ego.",
+   "Don't let your ego stop you from asking for help.",
+   "The bad review really hurt his ego."
+  ],
+  "note": ""
+ },
+ "deadline": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a deadline · deadlines",
+  "say": "meet a deadline · miss a deadline",
+  "note": ""
+ },
+ "cocaine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cocaine · uncountable",
+  "say": "take cocaine · sell cocaine",
+  "ex": [
+   "The police found cocaine in his car.",
+   "Cocaine is an illegal and very dangerous drug.",
+   "He went to prison for selling cocaine.",
+   "Many people cannot stop using cocaine without help."
+  ],
+  "note": "Uncountable: some cocaine (not \"a cocaine\")."
+ },
+ "monitoring": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "monitoring · uncountable",
+  "say": "careful monitoring · monitoring of sth",
+  "ex": [
+   "After the operation, he needs careful monitoring for a day.",
+   "Air quality monitoring is important in big cities.",
+   "The company uses software for network monitoring.",
+   "Daily monitoring of the river helps prevent floods."
+  ],
+  "note": "Uncountable: careful monitoring (not \"a monitoring\")."
+ },
+ "concept car": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a concept car · concept cars",
+  "say": "",
+  "ex": [
+   "The company showed a new concept car at the auto show.",
+   "This concept car can drive itself without a driver.",
+   "Most concept cars never go into real production.",
+   "We took photos of the shiny concept car."
+  ],
+  "note": "A car made to show new ideas and designs; it is usually not sold."
+ },
+ "rating list": {
+  "v": "keep",
+  "pm": 0.1,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a rating list · rating lists",
+  "say": "",
+  "ex": [
+   "Her name is near the top of the rating list.",
+   "The new chess rating list comes out every month.",
+   "He moved up twenty places on the rating list.",
+   "Check the rating list to see the best players."
+  ],
+  "note": "Mostly used in chess: a list of players in order of their rating."
+ },
+ "multi-touch": {
+  "v": "keep",
+  "pm": 0.3,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "multi-touch · uncountable",
+  "say": "",
+  "ex": [
+   "This screen has multi-touch, so you can use two fingers.",
+   "Multi-touch lets you zoom in on photos with two fingers.",
+   "Does this old laptop support multi-touch?",
+   "Multi-touch works on most phones and tablets today."
+  ],
+  "note": "Often used before a noun: \"a multi-touch screen\"."
+ },
+ "pit lane": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "the pit lane",
+  "say": "",
+  "ex": [
+   "The driver stopped in the pit lane for new tires.",
+   "Fans are not allowed to walk in the pit lane.",
+   "Cars must drive slowly in the pit lane.",
+   "His team made a mistake in the pit lane."
+  ],
+  "note": "In car racing, the road next to the track where cars stop for new tires or repairs."
+ },
+ "marijuana": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "marijuana · uncountable",
+  "say": "",
+  "ex": [
+   "Marijuana is legal in some countries but not here.",
+   "Some doctors give medical marijuana to people in pain.",
+   "The police found marijuana in his car.",
+   "The smell of marijuana filled the whole room."
+  ],
+  "note": "Uncountable: some marijuana (not \"a marijuana\")."
+ },
+ "punk": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "punk · uncountable",
+  "say": "",
+  "note": "As music it is uncountable; \"a punk\" is a punk fan. In US slang also a rude young man."
+ },
+ "consultant": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a consultant · consultants",
+  "say": "",
+  "ex": [
+   "The company hired a consultant to cut costs.",
+   "She works as a business consultant in the city.",
+   "The consultant gave us some very good advice.",
+   "You should ask a tax consultant for help."
+  ],
+  "note": "A worker who helps you in a store is a \"sales assistant\", not a \"consultant\"."
+ },
+ "yard": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a yard · yards",
+  "say": "",
+  "ex": [
+   "He kicked the ball about forty yards.",
+   "The store is about a hundred yards from here.",
+   "He ran fifty yards in six seconds.",
+   "One yard is a little shorter than a meter."
+  ],
+  "note": "Most often \"yard\" means the land around a house: \"The kids play in the yard.\""
+ },
+ "backup": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": true,
+  "gram": "a backup · backups",
+  "say": "",
+  "note": "Also extra help or a spare: \"The police called for backup.\" \"We need a backup plan.\""
+ },
+ "downtown": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "downtown · no article",
+  "say": "",
+  "ex": [
+   "We live about ten minutes from downtown.",
+   "Downtown is very busy during the day.",
+   "Is there a good, cheap hotel downtown?",
+   "Parking downtown is very expensive on weekdays."
+  ],
+  "note": "American English, often with no \"the\": \"I work downtown.\" British English says \"the town center\"."
+ },
+ "cleaning": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "cleaning · uncountable",
+  "say": "",
+  "note": "Uncountable. Also the -ing form of \"clean\": \"She is cleaning the kitchen.\""
+ },
+ "donor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a donor · donors",
+  "say": "",
+  "note": ""
+ },
+ "generator": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a generator · generators",
+  "say": "",
+  "ex": [
+   "We used a generator when the power went out.",
+   "Our generator runs on gas, so buy some more.",
+   "Turn on the generator if the lights go off.",
+   "The hospital has a big backup generator."
+  ],
+  "note": ""
+ },
+ "rating": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a rating · ratings",
+  "say": "",
+  "ex": [
+   "This movie has a very high rating online.",
+   "The hotel got a five-star rating from guests.",
+   "Always check the ratings before you buy something.",
+   "The TV show lost viewers, and its ratings fell."
+  ],
+  "note": ""
+ },
+ "plus": {
+  "v": "keep",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a plus · pluses",
+  "say": "",
+  "note": "Most often \"plus\" means \"and\" or \"+\": \"two plus two\", \"ten dollars plus tax\"."
+ },
+ "hardware": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "hardware · uncountable",
+  "say": "",
+  "ex": [
+   "The problem is with the hardware, not the software.",
+   "He sells computer hardware and phones online.",
+   "Our office needs new hardware this year.",
+   "The hardware is old, so the games run slowly."
+  ],
+  "note": "Uncountable. Also tools and metal things: a \"hardware store\" sells tools."
+ },
+ "drone": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a drone · drones",
+  "say": "",
+  "note": ""
+ },
+ "champ": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a champ · champs",
+  "say": "",
+  "ex": [
+   "He is the new world boxing champ.",
+   "The champ won his title fight again tonight.",
+   "Hey, champ, you played a great game today!",
+   "She has been the chess champ for three years."
+  ],
+  "note": "Informal; the full word is \"champion\"."
+ },
+ "baron": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a baron · barons",
+  "say": "",
+  "note": "Also a rich, powerful businessman: \"a media baron\", \"a drug baron\"."
+ },
+ "content": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "content · uncountable",
+  "say": "",
+  "note": "Stress CON-tent. Also what is inside: \"the contents of a box\". Con-TENT means happy."
+ },
+ "forum": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a forum · forums",
+  "say": "",
+  "note": ""
+ },
+ "server": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a server · servers",
+  "say": "",
+  "ex": [
+   "The server is down, so the site doesn't work.",
+   "Our website runs on a fast server.",
+   "All your files are saved on the server.",
+   "The company bought three new servers this year."
+  ],
+  "note": "In the US, a \"server\" is also a waiter or waitress in a restaurant."
+ },
+ "heroin": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "heroin · uncountable",
+  "say": "",
+  "ex": [
+   "Heroin is a very dangerous and illegal drug.",
+   "He was addicted to heroin for many years.",
+   "The police found heroin at the border.",
+   "She went to a clinic to stop using heroin."
+  ],
+  "note": "Uncountable. Do not confuse with \"heroine\" (a female hero)."
+ },
+ "corridor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a corridor · corridors",
+  "say": "",
+  "note": "\"Hallway\" or \"hall\" is more common in homes."
+ },
+ "cult": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "a cult · cults",
+  "say": "",
+  "ex": [
+   "The leader built a cult of personality around himself.",
+   "In ancient Egypt, there was a cult of the sun god.",
+   "Some people say there is a cult of beauty today.",
+   "The country had a strong cult of its first king."
+  ],
+  "note": "Most often a strange religious group: \"He left the cult.\" Also \"a cult movie\" (loved by fans)."
+ },
+ "feedback": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "feedback · uncountable",
+  "say": "",
+  "note": "Uncountable: some feedback, not \"a feedback\" or \"feedbacks\"."
+ }
+}

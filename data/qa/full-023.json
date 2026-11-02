@@ -1,0 +1,721 @@
+{
+ "soprano": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a soprano · sopranos",
+  "say": "",
+  "note": ""
+ },
+ "acne": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "acne · uncountable",
+  "say": "",
+  "note": "Uncountable: bad acne, a lot of acne (not \"an acne\").",
+  "ex": [
+   "Many teenagers have problems with acne at school.",
+   "This cream helps to treat acne on your face.",
+   "Stress and bad sleep can make your acne worse.",
+   "He went to a doctor about his acne last week."
+  ]
+ },
+ "limousine": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a limousine · limousines",
+  "say": "",
+  "note": "Often shortened to \"limo\" in informal English."
+ },
+ "mixer": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": false,
+  "gram": "a mixer · mixers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "I use an electric mixer to make cakes.",
+   "Our new kitchen mixer is very loud.",
+   "The DJ turned up the sound on the mixer.",
+   "Put the eggs and sugar in the mixer."
+  ]
+ },
+ "auditor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "an auditor · auditors",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The auditor checked all the company's accounts.",
+   "An auditor from another company checks our finances every year.",
+   "She works as an auditor for a big firm.",
+   "The auditors found several mistakes in the report."
+  ]
+ },
+ "silhouette": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a silhouette · silhouettes",
+  "say": "",
+  "note": ""
+ },
+ "truffle": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a truffle · truffles",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The pasta was served with black truffle and cheese.",
+   "Dogs can find truffles under the ground in forests.",
+   "Real truffles are very expensive in most stores.",
+   "She ordered fries with truffle oil at the cafe."
+  ]
+ },
+ "quadrant": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a quadrant · quadrants",
+  "say": "",
+  "note": ""
+ },
+ "techno": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "techno · uncountable",
+  "say": "",
+  "note": "Uncountable: \"listen to techno\" (not \"a techno\")."
+ },
+ "old-school": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Informal: old-fashioned, often in a good or cool way.",
+  "ex": [
+   "He has an old-school way of teaching math.",
+   "I really love old-school hip-hop from the nineties.",
+   "Writing letters by hand feels very old-school now.",
+   "My grandpa still uses an old-school phone with buttons."
+  ]
+ },
+ "show business": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "show business · uncountable",
+  "say": "",
+  "note": "Uncountable; informally also \"show biz\".",
+  "ex": [
+   "She has worked in show business for many years.",
+   "It is very hard to get a job in show business.",
+   "He left show business to become a school teacher.",
+   "Many young people dream of a career in show business."
+  ]
+ },
+ "home office": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": true,
+  "gram": "a home office · home offices",
+  "say": "",
+  "note": "A room at home where you work. For the way of working, say \"work from home\".",
+  "ex": [
+   "I work from my home office three days a week.",
+   "He set up a small home office in the bedroom.",
+   "My home office has a big desk and a window.",
+   "A quiet home office helps me focus on work."
+  ]
+ },
+ "business plan": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": false,
+  "gram": "a business plan · business plans",
+  "say": "",
+  "note": ""
+ },
+ "business process": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a business process · business processes",
+  "say": "",
+  "note": "",
+  "ex": [
+   "We need to improve our business processes this year.",
+   "This software makes the business process much faster.",
+   "Every business process in the company should be clear.",
+   "She helps big companies change their business processes."
+  ]
+ },
+ "reality show": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a reality show · reality shows",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She was on a cooking reality show last year.",
+   "I don't watch reality shows on TV anymore.",
+   "The new reality show is filmed on an island.",
+   "He became famous after winning a reality show."
+  ]
+ },
+ "prime time": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "prime time · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The show is on TV during prime time on Thursdays.",
+   "Ads during prime time are very expensive.",
+   "Most families watch TV together in prime time.",
+   "The best shows usually start in prime time."
+  ]
+ },
+ "road trip": {
+  "v": "keep",
+  "pm": 5,
+  "reg": [],
+  "ns": true,
+  "gram": "a road trip · road trips",
+  "say": "",
+  "note": ""
+ },
+ "wild card": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "a wild card · wild cards",
+  "say": "",
+  "note": "Also a person or thing you cannot predict: \"He is a wild card.\"",
+  "ex": [
+   "The team got a wild card to play in the tournament.",
+   "She entered the tennis tournament with a wild card.",
+   "The wild card team surprised everyone and won the title.",
+   "He received a wild card for the big race."
+  ]
+ },
+ "tight end": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": true,
+  "gram": "a tight end · tight ends",
+  "say": "",
+  "note": "A player position in American football.",
+  "ex": [
+   "The tight end caught the ball and ran forward.",
+   "He plays tight end for his college football team.",
+   "Our tight end blocked well during the whole game.",
+   "The tight end scored a touchdown in the last minute."
+  ]
+ },
+ "boy scout": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "a boy scout · boy scouts",
+  "say": "",
+  "note": "Often written \"Boy Scout\"; can also mean a very honest, good man.",
+  "ex": [
+   "My son became a boy scout this year.",
+   "The boy scouts went camping in the forest.",
+   "He was a boy scout when he was a kid.",
+   "The boy scouts helped clean the park on Saturday."
+  ]
+ },
+ "rhythm and blues": {
+  "v": "keep",
+  "pm": 0.5,
+  "reg": [],
+  "ns": false,
+  "gram": "rhythm and blues · uncountable",
+  "say": "",
+  "note": "Usually shortened to \"R&B\"; uncountable."
+ },
+ "blah blah blah": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Informal; used to skip boring talk.",
+  "ex": [
+   "He talked about work all evening, blah blah blah.",
+   "She said she was sorry again, blah blah blah.",
+   "It's always the same boring speech, blah blah blah.",
+   "My boss talked about rules and deadlines, blah blah blah."
+  ]
+ },
+ "tai chi": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "tai chi · uncountable",
+  "say": "",
+  "note": "",
+  "ex": [
+   "My grandparents do tai chi in the park every morning.",
+   "Tai chi is slow, quiet, and very relaxing.",
+   "She takes a tai chi class on Mondays.",
+   "Doctors say tai chi helps older people with balance."
+  ]
+ },
+ "chateau": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a chateau · chateaux",
+  "say": "",
+  "note": "Also spelled \"château\"; plural \"chateaux\" or \"chateaus\"."
+ },
+ "pro forma": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [
+   "formal",
+   "technical"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Please send me a pro forma invoice first.",
+   "The bank needs a pro forma budget for next year.",
+   "We got the pro forma invoice by email yesterday.",
+   "This meeting is just pro forma, so nothing will change."
+  ]
+ },
+ "a priori": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Formal word, used mostly in science and philosophy."
+ },
+ "know-how": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "know-how · uncountable",
+  "say": "",
+  "note": "Uncountable: practical skill and knowledge, not an invention (not \"a know-how\")."
+ },
+ "check-in": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "a check-in · check-ins",
+  "say": "",
+  "note": "The verb is two words: \"check in at the hotel\".",
+  "ex": [
+   "Hotel check-in starts at three o'clock.",
+   "The airport check-in was very slow today.",
+   "You can do online check-in a day early.",
+   "We waited in line at the check-in desk."
+  ]
+ },
+ "buy-in": {
+  "v": "keep",
+  "pm": 0.8,
+  "reg": [],
+  "ns": true,
+  "gram": "a buy-in · buy-ins",
+  "say": "",
+  "note": "In business, \"buy-in\" often means support: \"We need buy-in from the team.\""
+ },
+ "tax-free": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "self-harm": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "self-harm · uncountable",
+  "say": "",
+  "note": "Uncountable. Also a verb: \"to self-harm\"."
+ },
+ "must-have": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a must-have · must-haves",
+  "say": "",
+  "note": "Informal."
+ },
+ "jasmine": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "jasmine · uncountable",
+  "say": "",
+  "note": "Often a girl's name, \"Jasmine\"; as a plant: \"jasmine tea\", \"jasmine rice\".",
+  "ex": [
+   "The garden smells of jasmine in the evening.",
+   "Can I have a cup of jasmine tea, please?",
+   "White jasmine grows next to our front door.",
+   "This candle has a sweet jasmine smell."
+  ]
+ },
+ "aristocrat": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an aristocrat · aristocrats",
+  "say": "",
+  "note": "",
+  "ex": [
+   "He was born into a family of aristocrats.",
+   "The old aristocrat lived in a huge castle.",
+   "Many aristocrats lost their land after the revolution.",
+   "She acts like an aristocrat, but her family is poor."
+  ]
+ },
+ "bluff": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "a bluff · bluffs",
+  "say": "",
+  "note": "Often a verb: \"Is he bluffing?\" \"Bluff\" can also mean a high, steep bank by a river.",
+  "ex": [
+   "His big bet in the poker game was just a bluff.",
+   "I knew his threat to leave was only a bluff.",
+   "Is he serious, or is it a bluff?",
+   "Her angry message was a bluff to get a better price."
+  ]
+ },
+ "brunette": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a brunette · brunettes",
+  "say": "",
+  "note": "Mostly used for women; for men, \"He has dark hair\" is more usual.",
+  "ex": [
+   "The brunette in the red coat is my sister.",
+   "She was a brunette, but now her hair is blond.",
+   "Two brunettes and a redhead came into the cafe.",
+   "The actress is a brunette with green eyes."
+  ]
+ },
+ "kilogram": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a kilogram · kilograms",
+  "say": "",
+  "note": "Often shortened to \"kilo\" or \"kg\"; in the US people usually use pounds."
+ },
+ "futures": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "futures · plural",
+  "say": "",
+  "note": "Always plural in this meaning: \"futures\"."
+ },
+ "playboy": {
+  "v": "keep",
+  "s": 45,
+  "reg": [],
+  "ns": false,
+  "gram": "a playboy · playboys",
+  "say": "",
+  "note": "Also the name of a magazine; as a common noun: a rich man who lives for fun and parties."
+ },
+ "monologue": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a monologue · monologues",
+  "say": "",
+  "note": "Also spelled \"monolog\" in American English."
+ },
+ "iris": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "an iris · irises",
+  "say": "",
+  "note": "Often \"iris\" means the colored part of the eye around the pupil."
+ },
+ "boycott": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a boycott · boycotts",
+  "say": "",
+  "note": "Also a verb: \"to boycott a store\"."
+ },
+ "coding": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": true,
+  "gram": "coding · uncountable",
+  "say": "",
+  "note": "Uncountable: \"learn coding\"."
+ },
+ "horoscope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a horoscope · horoscopes",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She reads her horoscope every morning with coffee.",
+   "My horoscope says I will have a lucky week.",
+   "Do you really believe in horoscopes and stars?",
+   "The magazine has a horoscope page at the back."
+  ]
+ },
+ "boutique": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a boutique · boutiques",
+  "say": "",
+  "note": ""
+ },
+ "columnist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a columnist · columnists",
+  "say": "",
+  "note": "",
+  "ex": [
+   "She is a columnist for a local newspaper.",
+   "The columnist writes about money and jobs every week.",
+   "I always read that columnist on Sundays.",
+   "The columnist got many angry letters from readers."
+  ]
+ },
+ "mod": {
+  "v": "keep",
+  "s": 45,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a mod · mods",
+  "say": "",
+  "note": "Also short for \"moderator\", a person who controls a chat or forum."
+ },
+ "cleaner": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "a cleaner · cleaners",
+  "say": "",
+  "note": "Often \"cleaner\" means more clean (\"cleaner air\") or a product: \"glass cleaner\"."
+ },
+ "herpes": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "herpes · uncountable",
+  "say": "",
+  "note": "Uncountable; takes a singular verb."
+ },
+ "amulet": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an amulet · amulets",
+  "say": "",
+  "note": ""
+ },
+ "jingle": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a jingle · jingles",
+  "say": "",
+  "note": "Also the sound of small bells or keys: \"the jingle of keys\"; also a verb."
+ },
+ "instrumental": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": true,
+  "gram": "an instrumental · instrumentals",
+  "say": "",
+  "note": "Most often an adjective: \"She was instrumental in our success\" (she helped a lot)."
+ },
+ "asphalt": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "asphalt · uncountable",
+  "say": "",
+  "note": "Uncountable: fresh asphalt (not \"an asphalt\")."
+ },
+ "Ebola": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Ebola · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "comma": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a comma · commas",
+  "say": "",
+  "note": ""
+ },
+ "inhibitor": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an inhibitor · inhibitors",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The new medicine is an inhibitor that slows the virus.",
+   "Rust inhibitors help protect the metal pipes.",
+   "This inhibitor stops the reaction from going too fast.",
+   "Scientists tested a new inhibitor in the lab."
+  ]
+ },
+ "light": {
+  "v": "partial_false_friend",
+  "s": 1,
+  "reg": [],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Most often \"light\" means brightness: \"Turn on the light.\" It also means not heavy.",
+  "ex": [
+   "I'll have a light beer with my dinner, please.",
+   "Do you have light mayo for this sandwich?",
+   "This light yogurt has less sugar and fat.",
+   "She buys light cream cheese to eat healthier."
+  ]
+ },
+ "Bluetooth": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Bluetooth · uncountable",
+  "say": "",
+  "note": "Usually no article: \"turn on Bluetooth\".",
+  "ex": [
+   "Turn on Bluetooth to connect the speaker.",
+   "My new headphones connect to my phone with Bluetooth.",
+   "The Bluetooth on my phone isn't working today.",
+   "Can you connect the keyboard through Bluetooth, please?"
+  ]
+ },
+ "pricing": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "pricing · uncountable",
+  "say": "",
+  "note": "Uncountable: \"our pricing\" (not \"a pricing\")."
+ },
+ "topless": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ }
+}

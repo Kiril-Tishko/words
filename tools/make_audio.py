@@ -18,7 +18,7 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUDIO = os.path.join(REPO, 'audio')
 CACHE = os.environ.get('AUDIO_CACHE', '/home/user/audio-cache')
 SR = 24000
-CHUNK = 250
+CHUNK = int(os.environ.get('AUDIO_CHUNK', '100'))
 GAP = 0.3
 SPEED = 1.0
 VOICE_US, VOICE_GB = 'af_heart', 'bf_emma'
@@ -140,6 +140,12 @@ def main():
     mpath = os.path.join(AUDIO, 'manifest.json')
     man = json.load(open(mpath, encoding='utf-8')) if os.path.exists(mpath) else \
         {'voice': f'Kokoro-82M {VOICE_US} (US), {VOICE_GB} for British-only words', 'chunks': [], 'words': {}}
+    if '--rebundle' in sys.argv:
+        # start the bundles over (current words, current frequency order); recorded clips are reused from the cache
+        for f in os.listdir(AUDIO):
+            if f.startswith('chunk-') and f.endswith('.mp3'):
+                os.remove(os.path.join(AUDIO, f))
+        man = {'voice': man.get('voice'), 'chunks': [], 'words': {}}
     todo = [w for w in words if w['en'] not in man['words']]   # words.json is already in frequency order
     print(len(words), 'words,', len(todo), 'to record', flush=True)
     with Pool(workers, initializer=_init) as pool:

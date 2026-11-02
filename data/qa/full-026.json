@@ -1,0 +1,647 @@
+{
+ "rotor": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a rotor · rotors",
+  "say": "",
+  "note": "",
+  "ex": [
+   "The helicopter's rotor makes a very loud noise.",
+   "The wind turbine has a huge rotor with three blades.",
+   "Stay away from the rotor when the engine is running.",
+   "The engineer checked the rotor of the electric motor."
+  ]
+ },
+ "shrapnel": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "shrapnel · uncountable",
+  "say": "",
+  "note": "Most often \"shrapnel\" means metal pieces from a bomb: \"He has shrapnel in his leg.\"",
+  "ex": [
+   "In World War I, armies fired shrapnel at soldiers in open fields.",
+   "A shrapnel shell was full of small lead balls.",
+   "The museum shows an old shrapnel shell from 1915.",
+   "The shrapnel shell opened in the air above the soldiers."
+  ]
+ },
+ "vendetta": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a vendetta · vendettas",
+  "say": "",
+  "note": ""
+ },
+ "skateboard": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a skateboard · skateboards",
+  "say": "",
+  "note": ""
+ },
+ "rand": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": false,
+  "gram": "a rand · rand",
+  "say": "",
+  "note": "Often \"Rand\" is a name. As money, the plural is also \"rand\": \"fifty rand.\""
+ },
+ "polo": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "polo · uncountable",
+  "say": "",
+  "note": "Often \"polo\" means a polo shirt: \"He wore a white polo.\"",
+  "ex": [
+   "They watched a polo match on Sunday afternoon.",
+   "In polo, players ride horses and hit a ball.",
+   "He learned to play polo when he lived abroad.",
+   "The polo team practiced on the field all morning."
+  ]
+ },
+ "MMA": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": "Stands for \"mixed martial arts\"."
+ },
+ "florist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a florist · florists",
+  "say": "",
+  "note": ""
+ },
+ "samba": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a samba · sambas",
+  "say": "",
+  "note": ""
+ },
+ "default": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a default · defaults",
+  "say": "",
+  "note": "Most often \"default\" means a standard setting: \"by default\", \"the default password.\""
+ },
+ "sprinkler": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sprinkler · sprinklers",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Turn on the sprinkler to water the lawn.",
+   "The kids ran through the sprinkler on a hot day.",
+   "The fire sprinklers came on in the hall.",
+   "Our garden sprinkler runs every morning at six."
+  ]
+ },
+ "offline": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "termite": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a termite · termites",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Termites damaged the wooden floor in our kitchen.",
+   "We called a company to get rid of the termites.",
+   "Termites eat wood and can destroy a house.",
+   "The inspector found termites in the old garage."
+  ]
+ },
+ "dossier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a dossier · dossiers",
+  "say": "",
+  "note": ""
+ },
+ "prefect": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a prefect · prefects",
+  "say": "",
+  "note": "In British schools, a \"prefect\" is an older student who helps keep order."
+ },
+ "skeptic": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a skeptic · skeptics",
+  "say": "",
+  "note": "British spelling is \"sceptic.\""
+ },
+ "shredder": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a shredder · shredders",
+  "say": "",
+  "note": "",
+  "ex": [
+   "Put the old bills in the shredder, please.",
+   "The office shredder is full again.",
+   "We bought a small paper shredder for home.",
+   "The shredder jammed again this morning."
+  ]
+ },
+ "lobbyist": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a lobbyist · lobbyists",
+  "say": "",
+  "note": ""
+ },
+ "recruiter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a recruiter · recruiters",
+  "say": "",
+  "note": ""
+ },
+ "commodore": {
+  "v": "keep",
+  "s": 75,
+  "reg": [],
+  "ns": false,
+  "gram": "a commodore · commodores",
+  "say": "",
+  "note": ""
+ },
+ "mania": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a mania · manias",
+  "say": "",
+  "note": ""
+ },
+ "harem": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a harem · harems",
+  "say": "",
+  "note": ""
+ },
+ "cognac": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cognac · uncountable",
+  "say": "",
+  "note": "Usually uncountable: a glass of cognac. \"A cognac\" can mean one glass."
+ },
+ "styling": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "styling · uncountable",
+  "say": "",
+  "note": "Uncountable: some styling, a lot of styling (not \"a styling\")."
+ },
+ "WTF": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "vulgar",
+   "slang"
+  ],
+  "ns": true,
+  "gram": "",
+  "say": "",
+  "note": "Very rude slang; use only in texts with close friends."
+ },
+ "nectar": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "nectar · uncountable",
+  "say": "",
+  "note": "Uncountable: some nectar, a lot of nectar (not \"a nectar\").",
+  "ex": [
+   "Bees collect nectar from flowers to make honey.",
+   "Hummingbirds drink nectar from bright red flowers.",
+   "These flowers are full of sweet nectar in spring.",
+   "She ordered a glass of peach nectar with breakfast."
+  ]
+ },
+ "sacrament": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a sacrament · sacraments",
+  "say": "",
+  "note": ""
+ },
+ "atlas": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "an atlas · atlases",
+  "say": "",
+  "note": ""
+ },
+ "Sikh": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a Sikh · Sikhs",
+  "say": "",
+  "note": "Always capitalized: \"a Sikh\", \"Sikhs\".",
+  "ex": [
+   "Many Sikhs wear a turban as part of their faith.",
+   "My classmate is a Sikh from northern India.",
+   "The Sikh temple serves free meals to everyone.",
+   "Sikhs follow the teachings of ten gurus."
+  ]
+ },
+ "stretching": {
+  "v": "keep",
+  "s": 35,
+  "reg": [],
+  "ns": false,
+  "gram": "stretching · uncountable",
+  "say": "",
+  "note": "Often a form of \"stretch\": \"The road is stretching for miles.\" Uncountable: do some stretching."
+ },
+ "nitrate": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a nitrate · nitrates",
+  "say": "",
+  "note": ""
+ },
+ "em": {
+  "v": "partial_false_friend",
+  "s": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "an em · ems",
+  "say": "",
+  "note": "Most often \"em\" is short for \"them\" in speech: \"Let's get 'em!\"",
+  "ex": [
+   "In English, the letter M is called \"em.\"",
+   "Is that an em or an en on the form?",
+   "The word \"summer\" has a double em in the middle.",
+   "She wrote a big red em on the board."
+  ]
+ },
+ "Baptist": {
+  "v": "keep",
+  "s": 65,
+  "reg": [],
+  "ns": false,
+  "gram": "a Baptist · Baptists",
+  "say": "",
+  "note": "Always capitalized. \"John the Baptist\" is a name from the Bible.",
+  "ex": [
+   "He grew up as a Baptist in a small town.",
+   "The Baptists built a new church in our town.",
+   "My grandmother is a Baptist and goes to church every Sunday.",
+   "Baptists usually baptize adults, not babies."
+  ]
+ },
+ "latex": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "latex · uncountable",
+  "say": "",
+  "note": "Uncountable: some latex, a lot of latex (not \"a latex\").",
+  "ex": [
+   "Some people are allergic to latex gloves.",
+   "The nurse put on a pair of latex gloves.",
+   "Natural latex comes from the sap of rubber trees.",
+   "This mattress is made of soft natural latex."
+  ]
+ },
+ "unison": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "unison · uncountable",
+  "say": "",
+  "note": "Almost always in the phrase \"in unison\": \"They sang in unison.\"",
+  "ex": [
+   "The choir sang the first line in unison.",
+   "The students answered the teacher in unison.",
+   "The two guitars played the melody in unison.",
+   "The whole crowd shouted the team's name in unison."
+  ]
+ },
+ "pedestal": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a pedestal · pedestals",
+  "say": "",
+  "note": "\"Put someone on a pedestal\" means to admire them too much."
+ },
+ "mascara": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "mascara · uncountable",
+  "say": "",
+  "note": "Uncountable: some mascara, a lot of mascara (not \"a mascara\")."
+ },
+ "yak": {
+  "v": "keep",
+  "s": 80,
+  "reg": [],
+  "ns": false,
+  "gram": "a yak · yaks",
+  "say": "",
+  "note": ""
+ },
+ "hectare": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hectare · hectares",
+  "say": "",
+  "note": "In the US, \"acre\" is far more common than \"hectare\"."
+ },
+ "talisman": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a talisman · talismans",
+  "say": "",
+  "note": ""
+ },
+ "nationalist": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a nationalist · nationalists",
+  "say": "",
+  "note": ""
+ },
+ "ghoul": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a ghoul · ghouls",
+  "say": "",
+  "note": ""
+ },
+ "concierge": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a concierge · concierges",
+  "say": "",
+  "note": ""
+ },
+ "druid": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a druid · druids",
+  "say": "",
+  "note": ""
+ },
+ "Ramadan": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "Ramadan · no article",
+  "say": "",
+  "note": "Always capitalized, no article: \"during Ramadan.\""
+ },
+ "lira": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "a lira · lira",
+  "say": "",
+  "note": "Plural: \"lira\" for Turkish money; for old Italian money, \"lire.\"",
+  "ex": [
+   "This coffee costs fifty lira in Istanbul.",
+   "I changed euros into Turkish lira at the bank.",
+   "The lira lost a lot of value this year.",
+   "How many lira does a bus ticket cost?"
+  ]
+ },
+ "incest": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "incest · uncountable",
+  "say": "",
+  "note": "Uncountable: some incest, a lot of incest (not \"a incest\")."
+ },
+ "Mormon": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a Mormon · Mormons",
+  "say": "",
+  "note": "Always capitalized."
+ },
+ "zoning": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "zoning · uncountable",
+  "say": "",
+  "note": "Uncountable: some zoning, a lot of zoning (not \"a zoning\")."
+ },
+ "citrus": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "citrus · uncountable",
+  "say": "",
+  "note": "Often used before a noun: \"citrus fruit\".",
+  "ex": [
+   "Lemons, limes, and oranges are all citrus fruits.",
+   "I love the fresh smell of citrus in the morning.",
+   "Citrus trees grow well in warm, sunny places.",
+   "Add a little citrus juice to the salad."
+  ]
+ },
+ "imbecile": {
+  "v": "keep",
+  "s": 80,
+  "reg": [
+   "offensive"
+  ],
+  "ns": false,
+  "gram": "an imbecile · imbeciles",
+  "say": "",
+  "note": "A rude insult; avoid using it about people."
+ },
+ "orc": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "an orc · orcs",
+  "say": "",
+  "note": ""
+ },
+ "alcoholism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "alcoholism · uncountable",
+  "say": "",
+  "note": "Uncountable: some alcoholism, a lot of alcoholism (not \"a alcoholism\")."
+ },
+ "bison": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a bison · bison",
+  "say": "",
+  "note": "Plural is usually also \"bison.\""
+ },
+ "prompt": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a prompt · prompts",
+  "say": "",
+  "note": "Most often \"prompt\" means quick or \"to cause\": \"a prompt reply\", \"What prompted this?\""
+ },
+ "intro": {
+  "v": "keep",
+  "s": 70,
+  "reg": [
+   "informal"
+  ],
+  "ns": false,
+  "gram": "an intro · intros",
+  "say": "",
+  "note": "Informal short form of \"introduction\"."
+ },
+ "quilt": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a quilt · quilts",
+  "say": "",
+  "note": ""
+ },
+ "heroism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "heroism · uncountable",
+  "say": "",
+  "note": "Uncountable: some heroism, a lot of heroism (not \"a heroism\")."
+ },
+ "chakra": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a chakra · chakras",
+  "say": "",
+  "note": ""
+ },
+ "tract": {
+  "v": "keep",
+  "s": 45,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "a tract · tracts",
+  "say": "",
+  "note": "Usually with a word before it: \"digestive tract\".",
+  "ex": [
+   "The digestive tract is about nine meters long.",
+   "She had an infection in her urinary tract.",
+   "Food moves slowly through the digestive tract.",
+   "The doctor checked his upper respiratory tract."
+  ]
+ }
+}

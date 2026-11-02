@@ -1,0 +1,647 @@
+{
+ "zoom": {
+  "v": "keep",
+  "s": 20,
+  "reg": [],
+  "ns": false,
+  "gram": "a zoom · zooms",
+  "say": "",
+  "note": "Most often a verb: \"zoom in\" (make a picture bigger) or \"zoom\" (move very fast)."
+ },
+ "scouting": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "scouting · uncountable",
+  "say": "",
+  "ex": [
+   "My son loves scouting because he goes camping with friends.",
+   "Scouting teaches children useful skills like making a fire.",
+   "She has been active in scouting since she was eight.",
+   "Is there a scouting group for kids in our town?"
+  ],
+  "note": ""
+ },
+ "abuser": {
+  "v": "keep",
+  "s": 70,
+  "reg": [],
+  "ns": true,
+  "gram": "an abuser · abusers",
+  "say": "",
+  "ex": [
+   "The abuser was arrested after the neighbors called the police.",
+   "It took her years to finally leave her abuser.",
+   "This program helps people who live with an abuser.",
+   "An abuser often tries to control who you can see."
+  ],
+  "note": "Also a person who uses drugs or alcohol too much: \"a drug abuser\"."
+ },
+ "homosexual": {
+  "v": "keep",
+  "s": 25,
+  "reg": [
+   "dated",
+   "offensive"
+  ],
+  "ns": false,
+  "gram": "a homosexual · homosexuals",
+  "say": "",
+  "ex": [
+   "In the past, many homosexuals had to hide their private lives.",
+   "The old law sent homosexuals to prison.",
+   "The study compared homosexuals and heterosexuals of the same age.",
+   "Some countries still treat homosexuals as criminals."
+  ],
+  "note": "Mostly an adjective. As a noun it can sound offensive; say \"a gay man\" or \"a gay person\"."
+ },
+ "mage": {
+  "v": "keep",
+  "s": 95,
+  "reg": [
+   "literary"
+  ],
+  "ns": false,
+  "gram": "a mage · mages",
+  "say": "",
+  "note": "Used mainly in fantasy; \"wizard\" is more common."
+ },
+ "lineup": {
+  "v": "keep",
+  "s": 25,
+  "reg": [],
+  "ns": true,
+  "gram": "a lineup · lineups",
+  "say": "",
+  "ex": [
+   "The festival lineup was announced on the website today.",
+   "This year's lineup includes many young local bands.",
+   "Who is the main act in the lineup on Saturday?",
+   "The concert lineup looks great, so let's buy tickets now."
+  ],
+  "note": "Often the players chosen for a game (\"the starting lineup\") or a set of products."
+ },
+ "cheddar": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cheddar · uncountable",
+  "say": "",
+  "note": "Uncountable: some cheddar, a slice of cheddar. Often \"cheddar cheese\"."
+ },
+ "homestead": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "a homestead · homesteads",
+  "say": "",
+  "ex": [
+   "The family lived on a small homestead far from town.",
+   "The old homestead still stands at the end of the road.",
+   "They built their homestead by hand from wood and stone.",
+   "Settlers got free land to start a homestead in the West."
+  ],
+  "note": ""
+ },
+ "microbe": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a microbe · microbes",
+  "say": "",
+  "note": ""
+ },
+ "coping": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": true,
+  "gram": "coping · uncountable",
+  "say": "",
+  "note": "Mostly used in \"coping skills/strategies\" or \"coping with\"."
+ },
+ "sportsman": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a sportsman · sportsmen",
+  "say": "",
+  "ex": [
+   "The young sportsman trains every day for the big race.",
+   "He was a great sportsman and won many medals.",
+   "A good sportsman shakes hands after losing a game.",
+   "My grandfather was a sportsman who played soccer and tennis."
+  ],
+  "note": "Often a man who hunts or fishes. For people who play sports, \"athlete\" is more common."
+ },
+ "bust": {
+  "v": "partial_false_friend",
+  "s": 10,
+  "reg": [],
+  "ns": false,
+  "gram": "a bust · busts",
+  "say": "",
+  "note": "Most often informal: \"bust\" = break or arrest; \"go bust\" = lose all your money."
+ },
+ "grapefruit": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a grapefruit · grapefruits",
+  "say": "",
+  "note": ""
+ },
+ "cappuccino": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cappuccino · cappuccinos",
+  "say": "",
+  "ex": [
+   "I'd like a large cappuccino and a croissant, please.",
+   "She drinks a cappuccino at the cafe every morning.",
+   "This little cafe near the station makes great cappuccinos.",
+   "Can I get a cappuccino with oat milk to go?"
+  ],
+  "note": ""
+ },
+ "isotope": {
+  "v": "keep",
+  "s": 100,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "an isotope · isotopes",
+  "say": "",
+  "ex": [
+   "Carbon has several isotopes with different numbers of neutrons.",
+   "Doctors use this isotope to take pictures inside the body.",
+   "A radioactive isotope slowly breaks down over time.",
+   "Scientists measured the isotopes in the rock to find its age."
+  ],
+  "note": ""
+ },
+ "saxophone": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a saxophone · saxophones",
+  "say": "",
+  "note": ""
+ },
+ "plateau": {
+  "v": "keep",
+  "s": 50,
+  "reg": [],
+  "ns": false,
+  "gram": "a plateau · plateaus",
+  "say": "",
+  "note": "Also a time with no growth or change: \"Sales reached a plateau.\""
+ },
+ "phobia": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a phobia · phobias",
+  "say": "",
+  "note": ""
+ },
+ "blackjack": {
+  "v": "keep",
+  "s": 90,
+  "reg": [],
+  "ns": false,
+  "gram": "blackjack · uncountable",
+  "say": "",
+  "note": "Uncountable: play blackjack, a game of blackjack (not \"a blackjack\")."
+ },
+ "cliché": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a cliché · clichés",
+  "say": "",
+  "note": "Often written \"cliche\" without the accent."
+ },
+ "keg": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": true,
+  "gram": "a keg · kegs",
+  "say": "",
+  "ex": [
+   "We bought a keg of beer for the party.",
+   "The keg is already empty, so we need another one.",
+   "Can you help me carry the keg to the car?",
+   "The bar puts in a new beer keg every night."
+  ],
+  "note": ""
+ },
+ "flamingo": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": false,
+  "gram": "a flamingo · flamingos",
+  "say": "",
+  "note": ""
+ },
+ "converter": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a converter · converters",
+  "say": "",
+  "note": ""
+ },
+ "skepticism": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "skepticism · uncountable",
+  "say": "",
+  "note": "American spelling; British is \"scepticism\". Uncountable."
+ },
+ "combo": {
+  "v": "keep",
+  "s": 30,
+  "reg": [
+   "informal"
+  ],
+  "ns": true,
+  "gram": "a combo · combos",
+  "say": "",
+  "note": "Most often any mix of things: \"a great combo\"; also a meal set: \"a burger combo\"."
+ },
+ "darts": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "darts · uncountable",
+  "say": "",
+  "ex": [
+   "We played darts at the bar after work.",
+   "Darts is a popular game in British pubs.",
+   "He is very good at darts and often wins.",
+   "Do you want to play a game of darts?"
+  ],
+  "note": "Takes a singular verb: \"Darts is fun.\""
+ },
+ "spasm": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a spasm · spasms",
+  "say": "",
+  "note": ""
+ },
+ "detergent": {
+  "v": "keep",
+  "s": 95,
+  "reg": [],
+  "ns": true,
+  "gram": "detergent · uncountable",
+  "say": "",
+  "note": "Usually uncountable: some detergent, laundry detergent, dish detergent."
+ },
+ "minion": {
+  "v": "keep",
+  "s": 60,
+  "reg": [],
+  "ns": false,
+  "gram": "a minion · minions",
+  "say": "",
+  "note": "Usually negative or joking: a servant of a powerful person."
+ },
+ "dong": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a dong · dong",
+  "say": "",
+  "note": "Plural: \"dong\". Also the sound of a big bell; in slang it is a rude word."
+ },
+ "cheerleading": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "cheerleading · uncountable",
+  "say": "",
+  "ex": [
+   "She joined the cheerleading team at her high school.",
+   "Cheerleading needs a lot of strength and skill.",
+   "The cheerleading competition is on Saturday afternoon.",
+   "He hurt his arm at cheerleading practice yesterday."
+  ],
+  "note": ""
+ },
+ "dandy": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "dated"
+  ],
+  "ns": false,
+  "gram": "a dandy · dandies",
+  "say": "",
+  "note": ""
+ },
+ "Protestant": {
+  "v": "keep",
+  "s": 30,
+  "reg": [],
+  "ns": false,
+  "gram": "a Protestant · Protestants",
+  "say": "",
+  "note": "Most often an adjective: \"a Protestant church\". Always written with a capital P."
+ },
+ "hammock": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a hammock · hammocks",
+  "say": "",
+  "note": ""
+ },
+ "intern": {
+  "v": "partial_false_friend",
+  "s": 15,
+  "reg": [],
+  "ns": false,
+  "gram": "an intern · interns",
+  "say": "",
+  "ex": [
+   "The intern helped the doctor during the night shift.",
+   "She is a medical intern at a big city hospital.",
+   "Every intern in this hospital works very long hours.",
+   "Ask the intern to check the patient's blood pressure."
+  ],
+  "note": "Most often a student who works for a short time to learn a job: \"a summer intern\"."
+ },
+ "memorandum": {
+  "v": "keep",
+  "s": 60,
+  "reg": [
+   "formal"
+  ],
+  "ns": false,
+  "gram": "a memorandum · memoranda",
+  "say": "",
+  "ex": [
+   "The two countries signed a memorandum on trade.",
+   "The government and the union signed a memorandum of understanding.",
+   "The memorandum explains how the two companies will work together.",
+   "The lawyers read the memorandum carefully before the meeting."
+  ],
+  "note": "Plural: \"memoranda\" or \"memorandums\"; an office note is usually a \"memo\"."
+ },
+ "chihuahua": {
+  "v": "keep",
+  "s": 85,
+  "reg": [],
+  "ns": false,
+  "gram": "a chihuahua · chihuahuas",
+  "say": "",
+  "note": ""
+ },
+ "possum": {
+  "v": "keep",
+  "s": 40,
+  "reg": [],
+  "ns": true,
+  "gram": "a possum · possums",
+  "say": "",
+  "ex": [
+   "In Australia, a possum often lives in a tree near houses.",
+   "A possum ran across our roof in Sydney last night.",
+   "The possum sleeps during the day and eats at night.",
+   "We saw a cute possum with big eyes in the park."
+  ],
+  "note": "In the US \"possum\" usually means an opossum, a different animal from the Australian possum."
+ },
+ "syphilis": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "syphilis · uncountable",
+  "say": "",
+  "note": "Uncountable: say \"syphilis,\" not \"a syphilis.\""
+ },
+ "terrier": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a terrier · terriers",
+  "say": "",
+  "ex": [
+   "Our terrier barks at every car that drives past.",
+   "The little terrier chased a rat across the yard.",
+   "Terriers are small dogs with a lot of energy.",
+   "She has two terriers and a cat at home."
+  ],
+  "note": ""
+ },
+ "eunuch": {
+  "v": "keep",
+  "s": 100,
+  "reg": [],
+  "ns": false,
+  "gram": "a eunuch · eunuchs",
+  "say": "",
+  "note": ""
+ },
+ "GIS": {
+  "v": "keep",
+  "s": 90,
+  "reg": [
+   "technical"
+  ],
+  "ns": false,
+  "gram": "",
+  "say": "",
+  "note": ""
+ },
+ "new age": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "new age · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "team building": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "team building · uncountable",
+  "say": "",
+  "note": "Uncountable: \"We do team building,\" not \"a team building.\""
+ },
+ "time management": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "time management · uncountable",
+  "say": "",
+  "note": "Uncountable: \"good time management\" (not \"a time management\")."
+ },
+ "front office": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": false,
+  "gram": "a front office · front offices",
+  "say": "",
+  "note": ""
+ },
+ "call center": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "a call center · call centers",
+  "say": "",
+  "note": "British spelling: \"call centre\"."
+ },
+ "mass media": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "the mass media",
+  "say": "",
+  "note": ""
+ },
+ "mass market": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "the mass market",
+  "say": "",
+  "note": "Often an adjective: \"mass-market books\"."
+ },
+ "new wave": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "new wave · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "dress code": {
+  "v": "keep",
+  "pm": 4,
+  "reg": [],
+  "ns": false,
+  "gram": "a dress code · dress codes",
+  "say": "",
+  "note": ""
+ },
+ "heavy metal": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "heavy metal · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "online banking": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "online banking · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "bubble gum": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": true,
+  "gram": "bubble gum · uncountable",
+  "say": "",
+  "note": "Uncountable: \"a piece of bubble gum\", not \"a bubble gum\"."
+ },
+ "alter ego": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "an alter ego · alter egos",
+  "say": "",
+  "note": ""
+ },
+ "roast beef": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "roast beef · uncountable",
+  "say": "",
+  "note": "Uncountable: \"some roast beef\"."
+ },
+ "jet lag": {
+  "v": "keep",
+  "pm": 3,
+  "reg": [],
+  "ns": false,
+  "gram": "jet lag · uncountable",
+  "say": "",
+  "note": "Uncountable: \"I have jet lag\", not \"a jet lag\"."
+ },
+ "ginger ale": {
+  "v": "keep",
+  "pm": 1.5,
+  "reg": [],
+  "ns": true,
+  "gram": "ginger ale · uncountable",
+  "say": "",
+  "note": "Uncountable: a glass of ginger ale, a can of ginger ale."
+ },
+ "Art Deco": {
+  "v": "keep",
+  "pm": 1,
+  "reg": [],
+  "ns": false,
+  "gram": "Art Deco · uncountable",
+  "say": "",
+  "note": ""
+ },
+ "kung fu": {
+  "v": "keep",
+  "pm": 2,
+  "reg": [],
+  "ns": false,
+  "gram": "kung fu · uncountable",
+  "say": "",
+  "note": ""
+ }
+}
