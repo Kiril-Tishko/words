@@ -12296,29 +12296,6 @@
   "band": "top-10k"
  },
  {
-  "en": "organic",
-  "uk": "органік",
-  "pos": "adj",
-  "british": false,
-  "labels": [
-   "food",
-   "informal",
-   "international"
-  ],
-  "note": "Ukrainian органік is informal/marketing (organic products); the standard adjective is органічний.",
-  "checked": 2,
-  "src": "scan-019.json",
-  "zipf": 4.4,
-  "list_level": "B1",
-  "level": "B1",
-  "rank": 6066,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 4096,
-  "share": 55.0,
-  "band": "top-10k"
- },
- {
   "en": "nerd",
   "uk": "нерд",
   "pos": "noun",
@@ -12493,28 +12470,6 @@
   "langs": 9,
   "rank_raw": 5940,
   "share": 95.0,
-  "band": "top-10k"
- },
- {
-  "en": "estimate",
-  "uk": "естімейт",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "business",
-   "slang"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-010.json",
-  "zipf": 4.29,
-  "list_level": "B2",
-  "level": "B2",
-  "rank": 6136,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 3630,
-  "share": 45.0,
   "band": "top-10k"
  },
  {
@@ -12831,28 +12786,6 @@
   "langs": 9,
   "rank_raw": 5595,
   "share": 85.0,
-  "band": "top-10k"
- },
- {
-  "en": "sentiment",
-  "uk": "сентимент",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "emotions",
-   "international"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-006.json",
-  "zipf": 4.03,
-  "list_level": "C1",
-  "level": "C1",
-  "rank": 6225,
-  "rank_est": false,
-  "langs": 6,
-  "rank_raw": 5822,
-  "share": 90.0,
   "band": "top-10k"
  },
  {
@@ -14884,37 +14817,6 @@
   "band": "top-10k"
  },
  {
-  "en": "rabbi",
-  "uk": "рабі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "archaic",
-   "international",
-   "people",
-   "religion"
-  ],
-  "note": "Used mainly as a title before a name (рабі Аківа); the usual noun is рабин.",
-  "checked": 2,
-  "src": "verify-032.json",
-  "uk_alt": [
-   "раббі",
-   "рабин"
-  ],
-  "also": [
-   "rabbin"
-  ],
-  "zipf": 3.69,
-  "list_level": null,
-  "level": "C1",
-  "rank": 7081,
-  "rank_est": false,
-  "langs": 9,
-  "rank_raw": 7082,
-  "share": 100.0,
-  "band": "top-10k"
- },
- {
   "en": "perimeter",
   "uk": "периметр",
   "pos": "noun",
@@ -16552,29 +16454,6 @@
   "langs": 9,
   "rank_raw": 7205,
   "share": 90.0,
-  "band": "top-10k"
- },
- {
-  "en": "jersey",
-  "uk": "джерсі",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "clothing",
-   "international",
-   "sport"
-  ],
-  "note": "In Ukrainian mainly the knit fabric or a sports team shirt; a sweater = светр",
-  "checked": 2,
-  "src": "verify-006.json",
-  "zipf": 4.66,
-  "list_level": "C1",
-  "level": "C1",
-  "rank": 7655,
-  "rank_est": true,
-  "langs": 9,
-  "rank_raw": 2634,
-  "share": 20.0,
   "band": "top-10k"
  },
  {
@@ -104084,31 +103963,6 @@
   "langs": 9,
   "rank_raw": 6225,
   "books_pm": 0.025,
-  "band": "top-50k"
- },
- {
-  "en": "samsara",
-  "uk": "сансара",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "international",
-   "religion"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-004.json",
-  "uk_alt": [
-   "самсара"
-  ],
-  "zipf": 2.33,
-  "list_level": null,
-  "level": "C2",
-  "rank": 40993,
-  "rank_est": false,
-  "langs": 5,
-  "rank_raw": 41001,
-  "share": 100.0,
   "band": "top-50k"
  },
  {
@@ -214336,28 +214190,6 @@
   "langs": 9,
   "rank_raw": 38084,
   "share": 5.0,
-  "band": "rare"
- },
- {
-  "en": "sublimate",
-  "uk": "сублімат",
-  "pos": "noun",
-  "british": false,
-  "labels": [
-   "science",
-   "technical"
-  ],
-  "note": "",
-  "checked": 2,
-  "src": "rscan-014.json",
-  "zipf": 2.0,
-  "list_level": null,
-  "level": "C2",
-  "rank": 100001,
-  "rank_est": true,
-  "langs": 0,
-  "rank_raw": 38111,
-  "share": 10.0,
   "band": "rare"
  },
  {

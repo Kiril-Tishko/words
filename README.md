@@ -81,6 +81,10 @@ Measured on random samples by independent agents who never saw the list (`data/a
   - Rarer words: 89.5% by both, 96% by at least one.
   - Overall about 93%.
   - The pairs both judges rejected were removed.
+- **After the precision sweep**, a fresh audit of 400 random cards from the final list:
+  - rarer bands: 96% accepted by both judges, 99% by at least one
+  - common bands: 88.5% by both, 95.5% by at least one
+  - In common words, most rejections are cards whose meaning is a large but not the main sense of the English word, such as cream = крем (face cream) or director = директор. These stay on the site with a "Most often…" note. The clear errors were removed.
 
 ## Data
 - `data/words.json`: all site words with rank, share, band, labels and sources. The site uses the generated `words.js` (cards), `details-<band>.js` (examples, notes, grammar; loaded per band) and `audio/`.

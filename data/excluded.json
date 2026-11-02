@@ -1480,6 +1480,11 @@
 "why": "final expert pass: similar"
 },
 {
+"en": "samsara",
+"uk": "сансара",
+"why": "final expert pass: similar"
+},
+{
 "en": "femina",
 "uk": "феміна",
 "why": "final expert pass: not_english"
@@ -1713,6 +1718,11 @@
 "en": "javel",
 "uk": "жавель",
 "why": "final expert pass: not_english"
+},
+{
+"en": "sentiment",
+"uk": "сентимент",
+"why": "final expert pass: partial_false_friend"
 },
 {
 "en": "skater",
@@ -2213,6 +2223,11 @@
 "en": "erythrite",
 "uk": "еритрит",
 "why": "final expert pass: partial_false_friend"
+},
+{
+"en": "estimate",
+"uk": "естімейт",
+"why": "final expert pass: not_standard_ukrainian"
 },
 {
 "en": "etalon",
@@ -2738,6 +2753,11 @@
 "en": "stenograph",
 "uk": "стенограф",
 "why": "final expert pass: false_friend"
+},
+{
+"en": "sublimate",
+"uk": "сублімат",
+"why": "final expert pass: partial_false_friend"
 },
 {
 "en": "cinemascope",
@@ -3615,6 +3635,11 @@
 "why": "final expert pass: partial_false_friend"
 },
 {
+"en": "rabbi",
+"uk": "рабі",
+"why": "final expert pass: not_standard_ukrainian"
+},
+{
 "en": "condensator",
 "uk": "конденсатор",
 "why": "final expert pass: not_english"
@@ -3662,6 +3687,11 @@
 {
 "en": "scalp",
 "uk": "скальп",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "organic",
+"uk": "органік",
 "why": "final expert pass: partial_false_friend"
 },
 {
@@ -3892,6 +3922,11 @@
 {
 "en": "initial",
 "uk": "ініціал",
+"why": "final expert pass: partial_false_friend"
+},
+{
+"en": "jersey",
+"uk": "джерсі",
 "why": "final expert pass: partial_false_friend"
 },
 {

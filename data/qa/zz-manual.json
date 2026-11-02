@@ -46,5 +46,33 @@
  "photo": {
   "tags": [],
   "why": "linguist review: \"photo\" is not informal"
+ },
+ "rabbi": {
+  "v": "not_standard_ukrainian",
+  "why": "final precision audit, both judges: the standard Ukrainian word is рабин"
+ },
+ "organic": {
+  "v": "partial_false_friend",
+  "why": "final precision audit, both judges: English adjective; органік is slang for organic food"
+ },
+ "estimate": {
+  "v": "not_standard_ukrainian",
+  "why": "final precision audit, both judges: естімейт is narrow IT jargon"
+ },
+ "jersey": {
+  "v": "partial_false_friend",
+  "why": "final precision audit, both judges: jersey is mostly a sports shirt; джерсі is the fabric"
+ },
+ "sentiment": {
+  "v": "partial_false_friend",
+  "why": "final precision audit, both judges"
+ },
+ "sublimate": {
+  "v": "partial_false_friend",
+  "why": "final precision audit, both judges"
+ },
+ "samsara": {
+  "v": "similar",
+  "why": "final precision audit, both judges: m vs н (сансара)"
  }
 }
