@@ -20,7 +20,7 @@ CACHE = os.environ.get('AUDIO_CACHE', '/home/user/audio-cache')
 SR = 24000
 CHUNK = 250
 GAP = 0.3
-SPEED = 0.9
+SPEED = 1.0
 VOICE_US, VOICE_GB = 'af_heart', 'bf_emma'
 
 # respellings for words the pronunciation dictionary gets wrong
@@ -32,6 +32,16 @@ COMMON = set()
 
 
 def tts_text(en):
+    """Say the word as a short sentence ("Face.") — the voice articulates word edges more clearly that way."""
+    t = _tts_text(en)
+    if t[:1].islower():
+        t = t[0].upper() + t[1:]
+    if t[-1:] not in '.!?':
+        t += '.'
+    return t
+
+
+def _tts_text(en):
     if en in OVERRIDES:
         return OVERRIDES[en]
     out = []
@@ -86,9 +96,16 @@ def trim_and_level(x):
     return x
 
 
+VOICE_FIX = {}   # per-word voice chosen by tools/fix_audio.py when the default voice is unclear for that word
+
+
+def voice_for(en, british):
+    return VOICE_FIX.get(en) or (VOICE_GB if british else VOICE_US)
+
+
 def render(item):
-    en, british = item
-    voice = VOICE_GB if british else VOICE_US
+    en, british = item[0], item[1]
+    voice = item[2] if len(item) > 2 and item[2] else voice_for(en, british)
     p = cache_path(en, voice)
     if os.path.exists(p):
         return en, p
@@ -108,6 +125,9 @@ def encode(pcm, path):
 
 def main():
     workers = int(sys.argv[sys.argv.index('--workers') + 1]) if '--workers' in sys.argv else 2
+    vf = os.path.join(REPO, 'data', 'audio-voices.json')
+    if os.path.exists(vf):
+        VOICE_FIX.update(json.load(open(vf, encoding='utf-8')))
     os.makedirs(AUDIO, exist_ok=True)
     os.makedirs(CACHE, exist_ok=True)
     for line in open(os.path.join(REPO, 'data', 'levels', 'en-rank.tsv'), encoding='utf-8'):
@@ -124,7 +144,8 @@ def main():
     with Pool(workers, initializer=_init) as pool:
         for i in range(0, len(todo), CHUNK):
             group = todo[i:i + CHUNK]
-            done = dict(pool.map(render, [(w['en'], bool(w.get('british'))) for w in group], chunksize=4))
+            done = dict(pool.map(render, [(w['en'], bool(w.get('british')), voice_for(w['en'], bool(w.get('british'))))
+                                         for w in group], chunksize=4))
             n = len(man['chunks'])
             name = f'chunk-{n:03d}.mp3'
             gap = np.zeros(int(GAP * SR), np.float32)
