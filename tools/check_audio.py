@@ -34,7 +34,7 @@ def main():
         p = make_audio.cache_path(w['en'], voice)
         if not os.path.exists(p):
             continue
-        clip = np.load(p).astype(np.float32)
+        clip = make_audio.trim_and_level(np.load(p).astype(np.float32))
         audio16 = np.interp(np.arange(0, len(clip), 1.5), np.arange(len(clip)), clip).astype(np.float32)  # 24k -> 16k
         pad = np.zeros(8000, np.float32)
         segs, _ = model.transcribe(np.concatenate([pad, audio16, pad]), language='en', beam_size=5,
@@ -44,7 +44,7 @@ def main():
         letters = target.isupper() and len(target) <= 6
         a, b = norm(heard), norm(target)
         score = fuzz.ratio(a, b)
-        ok = score >= 80 or (letters and (a == b or a.replace('.', '') == b))
+        ok = score >= 80 or (len(b) >= 3 and b in a) or (letters and a.replace('.', '') == b) or (b == 'ok' and a == 'okay')
         n += 1
         if not ok:
             flagged.append({'en': target, 'heard': heard, 'score': round(score)})

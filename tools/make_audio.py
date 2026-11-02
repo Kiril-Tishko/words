@@ -44,7 +44,7 @@ def tts_text(en):
 
 
 def cache_path(en, voice):
-    return os.path.join(CACHE, hashlib.sha1(f'{voice}|{en}'.encode()).hexdigest()[:20] + '.npy')
+    return os.path.join(CACHE, 'raw-' + hashlib.sha1(f'{voice}|{en}'.encode()).hexdigest()[:20] + '.npy')
 
 
 _pipes = {}
@@ -59,18 +59,26 @@ def _init():
 
 
 def trim_and_level(x):
+    """Cut leading/trailing silence without touching quiet consonants (f, s, p, ch), then even out loudness.
+    Frame energy (10 ms) is compared with the loudest frame; anything above -50 dB counts as speech,
+    and generous margins are kept (150 ms before, 220 ms after) so soft word endings are never clipped."""
     x = np.asarray(x, dtype=np.float32)
     if not len(x):
         return x
+    hop = int(0.01 * SR)
+    frames = len(x) // hop
+    if frames > 2:
+        e = np.sqrt(np.mean(x[:frames * hop].reshape(frames, hop) ** 2, axis=1)) + 1e-9
+        db = 20 * np.log10(e / e.max())
+        idx = np.where(db > -50)[0]
+        if len(idx):
+            a = max(0, idx[0] * hop - int(0.15 * SR))
+            b = min(len(x), (idx[-1] + 1) * hop + int(0.22 * SR))
+            x = x[a:b]
     peak = float(np.max(np.abs(x))) or 1.0
-    idx = np.where(np.abs(x) > 0.03 * peak)[0]
-    if len(idx):
-        a = max(0, idx[0] - int(0.04 * SR))
-        b = min(len(x), idx[-1] + int(0.08 * SR))
-        x = x[a:b]
     rms = float(np.sqrt(np.mean(x ** 2))) or 1e-6
-    x = x * min(0.1 / rms, 0.95 / peak)       # even loudness, never clipping
-    fade = min(len(x) // 4, int(0.01 * SR))
+    x = x * min(0.08 / rms, 0.95 / peak)       # even loudness, never clipping
+    fade = min(len(x) // 4, int(0.005 * SR))
     if fade:
         ramp = np.linspace(0, 1, fade, dtype=np.float32)
         x[:fade] *= ramp
@@ -86,8 +94,8 @@ def render(item):
         return en, p
     pipe = _pipes['b' if british else 'a']
     parts = [a.numpy() if hasattr(a, 'numpy') else np.asarray(a) for _, _, a in pipe(tts_text(en), voice=voice, speed=SPEED)]
-    audio = trim_and_level(np.concatenate(parts) if parts else np.zeros(1, np.float32))
-    np.save(p, audio)
+    raw = np.concatenate(parts) if parts else np.zeros(1, np.float32)
+    np.save(p, raw.astype(np.float16))          # cache the untrimmed voice; trimming happens when bundling
     return en, p
 
 
@@ -123,7 +131,7 @@ def main():
             pcm, t = [gap], GAP
             entries = {}
             for w in group:
-                clip = np.load(done[w['en']])
+                clip = trim_and_level(np.load(done[w['en']]).astype(np.float32))
                 entries[w['en']] = [n, round(t, 3), round(len(clip) / SR, 3)]
                 pcm += [clip, gap]
                 t += len(clip) / SR + GAP
