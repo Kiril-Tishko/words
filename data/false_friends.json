@@ -220,6 +220,33 @@
   "src": "scan-010.json"
  },
  {
+  "en": "autocar",
+  "uk": "автокар",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-006.json"
+ },
+ {
+  "en": "bagger",
+  "uk": "багер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-007.json"
+ },
+ {
   "en": "band",
   "uk": "банда",
   "pos": "noun",
@@ -253,6 +280,19 @@
   "src": "rscan-004.json"
  },
  {
+  "en": "baptism",
+  "uk": "баптизм",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "religion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-003.json"
+ },
+ {
   "en": "basilica",
   "uk": "базилік",
   "pos": "noun",
@@ -262,6 +302,20 @@
   "note": "базилік = basil (herb); basilica = базиліка.",
   "checked": 1,
   "src": "scan-018.json"
+ },
+ {
+  "en": "bassinet",
+  "uk": "басинет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "military",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-007.json"
  },
  {
   "en": "baton",
@@ -306,6 +360,19 @@
   "note": "Ukrainian білет = ticket (exam ticket, membership card); English billet = soldiers' lodging or a metal bar.",
   "checked": 1,
   "src": "scan-015.json"
+ },
+ {
+  "en": "billion",
+  "uk": "більйон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-005.json"
  },
  {
   "en": "biscuit",
@@ -495,6 +562,32 @@
   "src": "scan-003.json"
  },
  {
+  "en": "carabiner",
+  "uk": "карабінер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sports"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "carbonade",
+  "uk": "карбонад",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-005.json"
+ },
+ {
   "en": "carcass",
   "uk": "каркас",
   "pos": "noun",
@@ -583,17 +676,6 @@
   "src": "scan-001.json"
  },
  {
-  "en": "chacha",
-  "uk": "чача",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "",
-  "checked": 1,
-  "src": "rscan-003.json"
- },
- {
   "en": "chagrin",
   "uk": "шагрень",
   "pos": "",
@@ -614,6 +696,19 @@
   "note": "клей = glue; clay = глина",
   "checked": 1,
   "src": "verify-013.json"
+ },
+ {
+  "en": "clerical",
+  "uk": "клерикал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-010.json"
  },
  {
   "en": "click",
@@ -693,6 +788,19 @@
   "src": "scan-000.json"
  },
  {
+  "en": "commissioner",
+  "uk": "комісіонер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "work"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
+ },
+ {
   "en": "complement",
   "uk": "комплімент",
   "pos": "noun",
@@ -745,6 +853,19 @@
   "labels": [],
   "note": "",
   "checked": 1,
+  "src": "rscan-010.json"
+ },
+ {
+  "en": "conduit",
+  "uk": "кондуїт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
   "src": "rscan-010.json"
  },
  {
@@ -924,6 +1045,19 @@
   "src": "verify-103.json"
  },
  {
+  "en": "crackle",
+  "uk": "кракле",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-011.json"
+ },
+ {
   "en": "crocket",
   "uk": "крокет",
   "pos": "",
@@ -944,6 +1078,19 @@
   "note": "крос = cross-country race (also a boxing cross); a cross is хрест",
   "checked": 2,
   "src": "verify-002.json"
+ },
+ {
+  "en": "crossing",
+  "uk": "кросинг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "genetics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-011.json"
  },
  {
   "en": "cubit",
@@ -999,6 +1146,20 @@
   "note": "",
   "checked": 1,
   "src": "rscan-002.json"
+ },
+ {
+  "en": "dancing",
+  "uk": "дансинг",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "dated",
+   "places"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
  },
  {
   "en": "data",
@@ -1067,6 +1228,19 @@
   "src": "scan-007.json"
  },
  {
+  "en": "digestive",
+  "uk": "дигестив",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "drinks"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
+ },
+ {
   "en": "directorate",
   "uk": "директорія",
   "pos": "",
@@ -1087,6 +1261,19 @@
   "note": "діва = maiden, virgin (Діва Марія); diva = celebrated female singer.",
   "checked": 1,
   "src": "scan-005.json"
+ },
+ {
+  "en": "domestic",
+  "uk": "доместик",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "sport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
  },
  {
   "en": "dorado",
@@ -1133,6 +1320,19 @@
   "src": "scan-018.json"
  },
  {
+  "en": "egret",
+  "uk": "егрет",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
+ },
+ {
   "en": "electric",
   "uk": "електрик",
   "pos": "noun",
@@ -1142,17 +1342,6 @@
   "note": "електрик = electrician; electric (adj) = електричний.",
   "checked": 1,
   "src": "scan-011.json"
- },
- {
-  "en": "ellipsis",
-  "uk": "еліпсис",
-  "pos": "",
-  "british": false,
-  "lvl": null,
-  "labels": [],
-  "note": "еліпс = ellipse (curve); ellipsis is еліпсис, the mark is три крапки.",
-  "checked": 1,
-  "src": "verify-109.json"
  },
  {
   "en": "energetic",
@@ -1199,6 +1388,19 @@
   "src": "scan-014.json"
  },
  {
+  "en": "exponent",
+  "uk": "експонент",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "math"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-002.json"
+ },
+ {
   "en": "fabric",
   "uk": "фабрика",
   "pos": "noun",
@@ -1208,6 +1410,19 @@
   "note": "фабрика = factory; fabric = тканина.",
   "checked": 1,
   "src": "scan-010.json"
+ },
+ {
+  "en": "fagot",
+  "uk": "фаґот",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
  },
  {
   "en": "fagot",
@@ -1241,6 +1456,19 @@
   "note": "фасон = cut or style of a garment; fashion = мода.",
   "checked": 2,
   "src": "verify-004.json"
+ },
+ {
+  "en": "federal",
+  "uk": "федерал",
+  "pos": "adj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "politics"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
  },
  {
   "en": "fiber",
@@ -1285,6 +1513,32 @@
   "note": "флагман = flagship (lead ship, or a leading company/product); English flagman = a person who signals with a flag.",
   "checked": 1,
   "src": "scan-012.json"
+ },
+ {
+  "en": "flint",
+  "uk": "флінт",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
+ },
+ {
+  "en": "folia",
+  "uk": "фолія",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
  },
  {
   "en": "frank",
@@ -1375,6 +1629,19 @@
   "src": "scan-012.json"
  },
  {
+  "en": "gasoline",
+  "uk": "газолін",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-006.json"
+ },
+ {
   "en": "genial",
   "uk": "геніальний",
   "pos": "",
@@ -1395,6 +1662,20 @@
   "note": "",
   "checked": 1,
   "src": "rscan-005.json"
+ },
+ {
+  "en": "grana",
+  "uk": "грена",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "biology",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-009.json"
  },
  {
   "en": "grand",
@@ -1430,6 +1711,19 @@
   "src": "scan-002.json"
  },
  {
+  "en": "grave",
+  "uk": "граве",
+  "pos": "adv",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "music"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-002.json"
+ },
+ {
   "en": "grip",
   "uk": "грип",
   "pos": "noun",
@@ -1439,6 +1733,20 @@
   "note": "грип = flu; grip = хватка, захват.",
   "checked": 1,
   "src": "scan-006.json"
+ },
+ {
+  "en": "grot",
+  "uk": "грот",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "literary",
+   "nature"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rverify-010.json"
  },
  {
   "en": "gyrant",
@@ -1549,6 +1857,19 @@
   "note": "",
   "checked": 1,
   "src": "rverify-002.json"
+ },
+ {
+  "en": "imperial",
+  "uk": "імперіал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "history"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
  },
  {
   "en": "infant",
@@ -1727,6 +2048,19 @@
   "src": "rscan-011.json"
  },
  {
+  "en": "lapidary",
+  "uk": "лапідарій",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "art"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-005.json"
+ },
+ {
   "en": "lapis",
   "uk": "ляпіс",
   "pos": "",
@@ -1793,6 +2127,19 @@
   "src": "rscan-004.json"
  },
  {
+  "en": "lighter",
+  "uk": "ліхтер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "maritime"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-011.json"
+ },
+ {
   "en": "lipa",
   "uk": "липа",
   "pos": "",
@@ -1857,6 +2204,19 @@
   "note": "luger = luge racer (or the Luger pistol); люгер = lugger, a small sailing ship.",
   "checked": 1,
   "src": "verify-096.json"
+ },
+ {
+  "en": "luminal",
+  "uk": "люмінал",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-011.json"
  },
  {
   "en": "lunatic",
@@ -1980,6 +2340,17 @@
   "src": "scan-008.json"
  },
  {
+  "en": "matelot",
+  "uk": "мателот",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-011.json"
+ },
+ {
   "en": "maxima",
   "uk": "максима",
   "pos": "",
@@ -2044,6 +2415,20 @@
   "note": "Ukrainian міна mainly = explosive mine; also facial expression",
   "checked": 1,
   "src": "verify-049.json"
+ },
+ {
+  "en": "minuscule",
+  "uk": "мінускул",
+  "pos": "adj",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "language",
+   "technical"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-012.json"
  },
  {
   "en": "miracle",
@@ -2121,6 +2506,19 @@
   "note": "",
   "checked": 1,
   "src": "rscan-006.json"
+ },
+ {
+  "en": "motorist",
+  "uk": "моторист",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "transport"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-001.json"
  },
  {
   "en": "multiplication",
@@ -2242,6 +2640,19 @@
   "note": "",
   "checked": 1,
   "src": "rverify-006.json"
+ },
+ {
+  "en": "panzer",
+  "uk": "панцер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "mil"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-004.json"
  },
  {
   "en": "parliamentarian",
@@ -2389,6 +2800,19 @@
   "src": "verify-075.json"
  },
  {
+  "en": "piston",
+  "uk": "пістон",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "tech"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-013.json"
+ },
+ {
   "en": "plaid",
   "uk": "плед",
   "pos": "",
@@ -2431,6 +2855,19 @@
   "note": "",
   "checked": 1,
   "src": "rscan-012.json"
+ },
+ {
+  "en": "pocketbook",
+  "uk": "покет-бук",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "other"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-005.json"
  },
  {
   "en": "pope",
@@ -2732,6 +3169,19 @@
   "src": "verify-008.json"
  },
  {
+  "en": "rondel",
+  "uk": "рондель",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "lit"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-004.json"
+ },
+ {
   "en": "rosetta",
   "uk": "розетка",
   "pos": "",
@@ -2864,6 +3314,19 @@
   "src": "rscan-001.json"
  },
  {
+  "en": "serviceman",
+  "uk": "сервісмен",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "people"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-014.json"
+ },
+ {
   "en": "shah",
   "uk": "шаг",
   "pos": "",
@@ -2906,6 +3369,17 @@
   "note": "",
   "checked": 1,
   "src": "rscan-002.json"
+ },
+ {
+  "en": "sinus",
+  "uk": "синус",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-000.json"
  },
  {
   "en": "smoking",
@@ -3216,6 +3690,19 @@
   "src": "scan-004.json"
  },
  {
+  "en": "trafficker",
+  "uk": "трафікер",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "law"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
+ },
+ {
   "en": "tragic",
   "uk": "трагік",
   "pos": "",
@@ -3282,6 +3769,20 @@
   "src": "scan-019.json"
  },
  {
+  "en": "trefa",
+  "uk": "трефа",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "food",
+   "religion"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
+ },
+ {
   "en": "trek",
   "uk": "трек",
   "pos": "",
@@ -3291,6 +3792,32 @@
   "note": "трек = track (song, race track, GPS track); a trek is похід (trekking = трекінг).",
   "checked": 2,
   "src": "scan-004.json"
+ },
+ {
+  "en": "triol",
+  "uk": "тріоль",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "chemistry"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
+ },
+ {
+  "en": "tubage",
+  "uk": "тюбаж",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "medicine"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
  },
  {
   "en": "tumbler",
@@ -3313,6 +3840,19 @@
   "note": "типографія = printing house; typography (type design) = типографіка.",
   "checked": 1,
   "src": "verify-070.json"
+ },
+ {
+  "en": "uniformist",
+  "uk": "уніформіст",
+  "pos": "noun",
+  "british": false,
+  "lvl": null,
+  "labels": [
+   "science"
+  ],
+  "note": "",
+  "checked": 2,
+  "src": "rscan-015.json"
  },
  {
   "en": "valet",

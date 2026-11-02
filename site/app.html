@@ -152,7 +152,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     science: 'Science', medicine: 'Medicine', chemistry: 'Chemistry', physics: 'Physics', biology: 'Biology', math: 'Math',
     transport: 'Transport', clothing: 'Clothing', home: 'Home', business: 'Business', finance: 'Finance', politics: 'Politics',
     law: 'Law', military: 'Military', religion: 'Religion', education: 'Education', people: 'People', nature: 'Nature',
-    places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions', other: 'Other' };
+    places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions',
+    history: 'History', philosophy: 'Philosophy', other: 'Other' };
   const byLevel = {};
   LEVELS.forEach(l => byLevel[l] = []);
   WORDS.forEach(w => { (byLevel[w.level] || (byLevel[w.level] = [])).push(w); });
@@ -197,7 +198,10 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 
   // labels that change how the pair should be read; shown small on the card front
   const FRONT_LABELS = ['slang', 'archaic', 'obsolete', 'dated', 'informal', 'rare'];
-  function usage(w) { return (w.tags || []).filter(t => FRONT_LABELS.indexOf(t) >= 0).slice(0, 2).join(' · '); }
+  function usage(w) {
+    // in C2 almost every word is rare in English, so "rare" on the front only marks a rare Ukrainian form
+    return (w.tags || []).filter(t => FRONT_LABELS.indexOf(t) >= 0 && !(t === 'rare' && w.level === 'C2')).slice(0, 2).join(' · ');
+  }
 
   function cardHTML(w, opts) {
     opts = opts || {};

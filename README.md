@@ -33,11 +33,14 @@ No word list comes from memory. Each step is a script or a recorded check.
 6. Topic sweeps (`data/checked/sweep-*.json`) look for words the matcher missed. Every suggestion must exist in both the English and the Ukrainian dictionaries (`tools/check_gaps.py`), and it is then verified like everything else.
 7. `tools/build_site.py` merges everything into `data/words.json` and builds `words.js` and `index.html`.
 
+## Status
+10,812 identical words, all checked twice. See `PROGRESS.md`.
+
 ## Levels
 - **A0**: Cambridge English Pre A1 Starters word list (`data/levels/pre-a1-starters.json`).
 - **A1–B2**: CEFR-J Vocabulary Profile. **C1–C2**: Octanove Vocabulary Profile (`data/levels/cefr.json`, CC BY-SA 4.0).
 - Levels are matched by part of speech. The second check raises the level when the shared meaning is a narrower sense (e.g. *front* = фронт, the military front).
-- Words in no list go to C2. Uncommon ones are labelled `rare`.
+- Words in no list get a level from the second check: everyday B1–B2, specialised C1, technical/rare/archaic C2. Rare words in no list go to C2 and are labelled `rare`.
 
 ## Labels
 - Usage: `international`, `archaic`, `obsolete`, `dated`, `literary`, `informal`, `slang`, `abbreviation`, `technical`, `rare`.

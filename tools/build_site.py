@@ -60,6 +60,42 @@ def load_checked():
     return first, cross, gap
 
 
+TOPICS = {'food', 'drinks', 'sport', 'music', 'art', 'media', 'tech', 'science', 'medicine', 'chemistry', 'physics',
+          'biology', 'math', 'transport', 'clothing', 'home', 'business', 'finance', 'politics', 'law', 'military',
+          'religion', 'education', 'people', 'nature', 'places', 'travel', 'games', 'language', 'units', 'time',
+          'emotions', 'history', 'philosophy', 'other'}
+# agents sometimes invented their own topic names; fold them into the fixed list
+TOPIC_MAP = {'med': 'medicine', 'pharmacology': 'medicine', 'anatomy': 'medicine', 'psychology': 'medicine', 'psy': 'medicine',
+             'chem': 'chemistry', 'biochemistry': 'chemistry', 'materials': 'chemistry', 'minerals': 'chemistry',
+             'mineralogy': 'chemistry', 'botany': 'nature', 'bot': 'nature', 'plants': 'nature', 'zoology': 'nature',
+             'zoo': 'nature', 'animals': 'nature', 'agriculture': 'nature', 'bio': 'biology', 'genetics': 'biology',
+             'paleontology': 'biology', 'geology': 'science', 'geo': 'science', 'geography': 'science', 'astronomy': 'science',
+             'linguistics': 'language', 'literature': 'language', 'lit': 'language', 'grammar': 'language',
+             'phil': 'philosophy', 'logic': 'philosophy', 'technology': 'tech', 'computing': 'tech', 'internet': 'tech',
+             'it': 'tech', 'electronics': 'tech', 'mathematics': 'math', 'statistics': 'math', 'num': 'math',
+             'measurement': 'units', 'society': 'people', 'sociology': 'people', 'anthropology': 'people',
+             'culture': 'art', 'folklore': 'art', 'mythology': 'religion', 'economics': 'finance', 'fin': 'finance',
+             'biz': 'business', 'work': 'business', 'textiles': 'clothing', 'cloth': 'clothing', 'fashion': 'clothing',
+             'arts': 'art', 'theater': 'art', 'dance': 'art', 'printing': 'art', 'film': 'media', 'sports': 'sport',
+             'martial arts': 'sport', 'rel': 'religion', 'pol': 'politics', 'hist': 'history', 'historical': 'history',
+             'archaeology': 'history', 'architecture': 'places', 'aviation': 'transport', 'nautical': 'transport',
+             'crime': 'law', 'colloquial': 'informal', 'arch': 'archaic'}
+NONSTANDARD = {'slang', 'informal', 'archaic', 'obsolete', 'dated'}
+
+
+def norm_labels(labels):
+    out = set()
+    for l in labels:
+        l = TOPIC_MAP.get(l, l)
+        if l in USAGE or l in TOPICS:
+            out.add(l)
+    if not out & TOPICS:
+        out.add('other')
+    elif len(out & TOPICS) > 1:
+        out.discard('other')
+    return sorted(out)
+
+
 POS_NAMES = {'adjective': 'adj', 'adverb': 'adv', 'interjection': 'interj', 'abbreviation': 'abbr', 'numeral': 'num',
              'preposition': 'prep', 'conjunction': 'conj', 'pronoun': 'pron'}
 POS_ALIASES = {'abbr': None, 'phrase': None, 'interj': 'interj', 'num': 'num'}
@@ -165,7 +201,12 @@ def main():
         w['labels'] = sorted(labs)
         w['langs'] = hits
 
-    final.sort(key=lambda w: (LEVELS.index(w['level']) if w['level'] in LEVELS else 9, -w['zipf'], w['en'].lower()))
+    for w in final:
+        w['labels'] = norm_labels(w['labels'])
+    # within a level: standard words first, then slang/archaic/rare-in-Ukrainian ones; then most common first
+    def odd(w):
+        return bool(set(w['labels']) & NONSTANDARD) or ('rare' in w['labels'] and w['level'] != 'C2')
+    final.sort(key=lambda w: (LEVELS.index(w['level']) if w['level'] in LEVELS else 9, odd(w), -w['zipf'], w['en'].lower()))
     json.dump(final, open(f'{D}/words.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     for name, v in (('similar', 'similar'), ('false_friends', 'false_friend'), ('partial_false_friends', 'partial_false_friend')):
         rows = sorted(buckets[v].values(), key=lambda w: w['en'].lower())
