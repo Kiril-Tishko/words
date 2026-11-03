@@ -1,0 +1,562 @@
+[
+{
+"level": "A1",
+"section": "Sport",
+"title": "The big match",
+"words": [
+{
+"en": "fan",
+"uk": "фан",
+"level": "A1",
+"band": "top-1000",
+"pos": "noun",
+"ex": "I am a big fan."
+},
+{
+"en": "club",
+"uk": "клуб",
+"level": "A1",
+"band": "top-1000",
+"pos": "noun",
+"ex": "I go to a sports club."
+},
+{
+"en": "start",
+"uk": "старт",
+"level": "A1",
+"band": "top-2000",
+"pos": "noun",
+"ex": "Where is the start of the race?"
+},
+{
+"en": "fight",
+"uk": "файт",
+"level": "A1",
+"band": "top-2000",
+"pos": "noun",
+"ex": "Is the fight on TV today?"
+},
+{
+"en": "match",
+"uk": "матч",
+"level": "A1",
+"band": "top-3000",
+"pos": "noun",
+"ex": "Did you watch the match last night?"
+},
+{
+"en": "goal",
+"uk": "гол",
+"level": "A1",
+"band": "top-5000",
+"pos": "noun",
+"ex": "He scored a goal in the last minute."
+},
+{
+"en": "volleyball",
+"uk": "волейбол",
+"level": "A1",
+"band": "top-10k",
+"pos": "noun",
+"ex": "We play volleyball on the beach every summer."
+}
+],
+"id": "a1-11"
+},
+{
+"level": "A2",
+"section": "Food and drink",
+"title": "Breakfast at the café",
+"words": [
+{
+"en": "menu",
+"uk": "меню",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Can I see the menu, please?"
+},
+{
+"en": "toast",
+"uk": "тост",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "I have toast and eggs for breakfast."
+},
+{
+"en": "jam",
+"uk": "джем",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "I spread strawberry jam on my toast."
+},
+{
+"en": "omelet",
+"uk": "омлет",
+"level": "A2",
+"band": "top-20k",
+"pos": "noun",
+"ex": "I made an omelet with cheese for breakfast."
+},
+{
+"en": "cola",
+"uk": "кола",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "Can I have a cola with ice, please?"
+},
+{
+"en": "snack",
+"uk": "снек",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "I usually eat a small snack after work."
+},
+{
+"en": "dessert",
+"uk": "десерт",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "What do you want for dessert tonight?"
+},
+{
+"en": "sauce",
+"uk": "соус",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Would you like some tomato sauce with that?"
+}
+],
+"id": "a2-01"
+},
+{
+"level": "A2",
+"section": "Food and drink",
+"title": "What's for dinner?",
+"words": [
+{
+"en": "pasta",
+"uk": "паста",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "We are having pasta for dinner tonight."
+},
+{
+"en": "spaghetti",
+"uk": "спагеті",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "We had spaghetti with meatballs for dinner."
+},
+{
+"en": "curry",
+"uk": "каррі",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "I made chicken curry for dinner."
+},
+{
+"en": "chili",
+"uk": "чилі",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "Add a chili for extra heat."
+},
+{
+"en": "steak",
+"uk": "стейк",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "I'd like my steak medium rare, please."
+},
+{
+"en": "barbecue",
+"uk": "барбекю",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "We're having a barbecue in the backyard on Saturday."
+},
+{
+"en": "fast food",
+"uk": "фастфуд",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "I try not to eat fast food."
+}
+],
+"id": "a2-02"
+},
+{
+"level": "A2",
+"section": "Town and shopping",
+"title": "A new sweater",
+"words": [
+{
+"en": "sweater",
+"uk": "светр",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "It's cold outside, so wear a warm sweater."
+},
+{
+"en": "brand",
+"uk": "бренд",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "What brand is your phone?"
+},
+{
+"en": "sale",
+"uk": "сейл",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "These shoes were on sale for half price."
+},
+{
+"en": "cash",
+"uk": "кеш",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "Do you have any cash for the taxi?"
+},
+{
+"en": "cent",
+"uk": "цент",
+"level": "A2",
+"band": "top-3000",
+"pos": "noun",
+"ex": "This candy costs fifty cents."
+},
+{
+"en": "material",
+"uk": "матеріал",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "This material is soft."
+},
+{
+"en": "model",
+"uk": "модель",
+"level": "A2",
+"band": "top-1000",
+"pos": "noun",
+"ex": "Do you have this model in blue?"
+},
+{
+"en": "product",
+"uk": "продукт",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "This is a new product."
+}
+],
+"id": "a2-03"
+},
+{
+"level": "A2",
+"section": "Town and shopping",
+"title": "At the barber's",
+"words": [
+{
+"en": "barber",
+"uk": "барбер",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "I go to the barber once a month."
+},
+{
+"en": "blonde",
+"uk": "блонд",
+"level": "A2",
+"band": "top-10k",
+"pos": "adj",
+"ex": "She has long blonde hair and blue eyes."
+},
+{
+"en": "style",
+"uk": "стиль",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "I like your style."
+},
+{
+"en": "cream",
+"uk": "крем",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "Put some cream on your hands every night."
+},
+{
+"en": "teenager",
+"uk": "тінейджер",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "I moved to Kyiv as a teenager."
+},
+{
+"en": "secret",
+"uk": "секрет",
+"level": "A2",
+"band": "top-1000",
+"pos": "noun",
+"ex": "Can you keep a secret?"
+},
+{
+"en": "crazy",
+"uk": "крейзі",
+"level": "A2",
+"band": "top-1000",
+"pos": "adj",
+"ex": "This is a crazy idea!"
+}
+],
+"id": "a2-04"
+},
+{
+"level": "A2",
+"section": "Home",
+"title": "A busy Saturday",
+"words": [
+{
+"en": "drill",
+"uk": "дриль",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "He used a drill to make a hole in the wall."
+},
+{
+"en": "metal",
+"uk": "метал",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "This chair is made of metal."
+},
+{
+"en": "container",
+"uk": "контейнер",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Put the leftovers in a plastic container."
+},
+{
+"en": "cleaner",
+"uk": "клінер",
+"level": "A2",
+"band": "top-20k",
+"pos": "noun",
+"ex": "We hired a cleaner to come twice a week."
+},
+{
+"en": "trouble",
+"uk": "трабл",
+"level": "A2",
+"band": "top-1000",
+"pos": "noun",
+"ex": "Are you in trouble?"
+},
+{
+"en": "clown",
+"uk": "клоун",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "We hired a clown for her birthday party."
+},
+{
+"en": "dinosaur",
+"uk": "динозавр",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "My son loves books about dinosaurs."
+},
+{
+"en": "forever",
+"uk": "форева",
+"level": "A2",
+"band": "top-2000",
+"pos": "adv",
+"ex": "I will remember this day forever."
+}
+],
+"id": "a2-05"
+},
+{
+"level": "A2",
+"section": "Travel",
+"title": "At the airport",
+"words": [
+{
+"en": "ID",
+"uk": "айді",
+"level": "A2",
+"band": "top-3000",
+"pos": "abbr",
+"ex": "Can I see your ID, please?"
+},
+{
+"en": "control",
+"uk": "контроль",
+"level": "A2",
+"band": "top-1000",
+"pos": "noun",
+"ex": "Where is passport control?"
+},
+{
+"en": "pilot",
+"uk": "пілот",
+"level": "A2",
+"band": "top-3000",
+"pos": "noun",
+"ex": "Do you want to be a pilot?"
+},
+{
+"en": "alarm",
+"uk": "аларм",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "The fire alarm is very loud in our building."
+},
+{
+"en": "policeman",
+"uk": "полісмен",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Excuse me, where can I find a policeman?"
+},
+{
+"en": "gender",
+"uk": "гендер",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Please write your name, age, and gender."
+},
+{
+"en": "detail",
+"uk": "деталь",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "Send me the details, please."
+},
+{
+"en": "contact",
+"uk": "контакт",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "Let's stay in contact after the trip."
+}
+],
+"id": "a2-06"
+},
+{
+"level": "A2",
+"section": "Travel",
+"title": "A city tour",
+"words": [
+{
+"en": "tour",
+"uk": "тур",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "We took a bus tour of the city."
+},
+{
+"en": "tourist",
+"uk": "турист",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Kyiv is full of tourists in the summer."
+},
+{
+"en": "visitor",
+"uk": "візитер",
+"level": "A2",
+"band": "top-3000",
+"pos": "noun",
+"ex": "We had visitors last weekend."
+},
+{
+"en": "center",
+"uk": "центр",
+"level": "A2",
+"band": "top-1000",
+"pos": "noun",
+"ex": "The hotel is in the city center."
+},
+{
+"en": "escalator",
+"uk": "ескалатор",
+"level": "A2",
+"band": "top-20k",
+"pos": "noun",
+"ex": "Take the escalator to the second floor."
+},
+{
+"en": "angel",
+"uk": "ангел",
+"level": "A2",
+"band": "top-2000",
+"pos": "noun",
+"ex": "My little girl is an angel."
+},
+{
+"en": "strike",
+"uk": "страйк",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Is there a train strike tomorrow?"
+},
+{
+"en": "portrait",
+"uk": "портрет",
+"level": "A2",
+"band": "top-5000",
+"pos": "noun",
+"ex": "Can you take a portrait of me by the window?"
+},
+{
+"en": "contrast",
+"uk": "контраст",
+"level": "A2",
+"band": "top-10k",
+"pos": "noun",
+"ex": "This photo has very strong contrast."
+}
+],
+"id": "a2-07"
+}
+]

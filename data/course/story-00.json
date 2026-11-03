@@ -1,0 +1,115 @@
+{
+ "a0-01": {
+  "title": "My family photo",
+  "order": [
+   "photo",
+   "people",
+   "cousin",
+   "friend",
+   "Miss",
+   "baby",
+   "face"
+  ],
+  "story": "Max, look at my [[photo]]. Six [[people]] are in it. This is my [[cousin]], Mila. This is my [[friend]] Lisa. This is [[Miss]] Green, my teacher. The [[baby]] has a funny [[face]]. It is my brother Taras!",
+  "drop": []
+ },
+ "a0-02": {
+  "title": "Fruit for lunch",
+  "order": [
+   "lunch",
+   "rice",
+   "lemonade",
+   "lemon",
+   "lime",
+   "mango",
+   "kiwi"
+  ],
+  "story": "It is [[lunch]] time. Anna has [[rice]] and fish. Max wants [[lemonade]]. He likes [[lemon]] and [[lime]] in it. Anna has a yellow [[mango]]. Max has a green [[kiwi]]. Max wants Anna's fruit, too!",
+  "drop": []
+ },
+ "a0-03": {
+  "title": "A rainy day at home",
+  "order": [
+   "sofa",
+   "robot",
+   "computer",
+   "radio",
+   "poster",
+   "monster",
+   "camera"
+  ],
+  "story": "Taras is on the [[sofa]]. He has a red [[robot]]. Anna has a [[computer]] and a [[radio]]. Look at the [[poster]]! It is a big green [[monster]]! Taras has a [[camera]]. He wants a photo of it!",
+  "drop": []
+ },
+ "a0-04": {
+  "title": "Sport after class",
+  "order": [
+   "sport",
+   "football",
+   "hobby",
+   "basketball",
+   "class",
+   "baseball"
+  ],
+  "story": "Max likes [[sport]]. [[Football|football]] is his [[hobby]]. Anna likes [[basketball]]. They want to play after [[class]]. Max has a ball. Oh no, it is a [[baseball]]! This ball is too small!",
+  "drop": []
+ },
+ "a0-05": {
+  "title": "Tennis and skateboards",
+  "order": [
+   "tennis",
+   "badminton",
+   "hockey",
+   "skateboard",
+   "skateboarding"
+  ],
+  "story": "Lisa likes [[tennis]]. Ira likes [[badminton]]. Max has a [[hockey]] stick. Anna has a new [[skateboard]]. She likes [[skateboarding]] in the park. Look, Anna can jump! Good job, Anna!",
+  "drop": []
+ },
+ "a0-06": {
+  "title": "A day at the zoo",
+  "order": [
+   "park",
+   "tiger",
+   "zebra",
+   "crocodile",
+   "helicopter",
+   "hall"
+  ],
+  "story": "The zoo is in a big [[park]]. Look at the [[tiger]]! The [[zebra]] is black and white. The [[crocodile]] has big teeth. Taras, look at the red [[helicopter]]! Dad has ice cream in the [[hall]].",
+  "drop": []
+ },
+ "a1-01": {
+  "title": "Nice to meet you",
+  "order": [
+   "student",
+   "Mrs.",
+   "hair",
+   "partner",
+   "character",
+   "please",
+   "boyfriend",
+   "mister",
+   "sir",
+   "nice"
+  ],
+  "story": "Anna is a [[student]] at an English club. Her teacher, [[Mrs.]] Bell, has long red [[hair]]. \"Find a [[partner]] and talk about their [[character]], [[please]].\" Anna works with Sofia's [[boyfriend]], Leo. A man at the door drops his hat. Leo calls, \"Hey, [[mister]], your hat!\" Then he smiles: \"Sorry, I mean, excuse me, [[sir]]!\" The man laughs: \"What a [[nice]] boy!\"",
+  "drop": []
+ },
+ "a1-02": {
+  "title": "Lunch at the cafe",
+  "order": [
+   "cafe",
+   "pizza",
+   "soup",
+   "sandwich",
+   "burger",
+   "hamburger",
+   "yogurt",
+   "bar",
+   "supermarket"
+  ],
+  "story": "Anna and Max are at a small [[cafe]]. There is [[pizza]], [[soup]], and a chicken [[sandwich]]. Max asks for a [[burger]]. \"Sorry, we only have a [[hamburger]],\" says the waiter. Max laughs: \"It is the same thing!\" Anna has [[yogurt]] with fruit and honey. Then they go to the juice [[bar]] next door. They buy milk for Mama at the [[supermarket]].",
+  "drop": []
+ }
+}

@@ -4,88 +4,156 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Literata:opsz,wght@7..72,500;7..72,600&display=swap">
 <style>
-/* Layout: one quiet toolbar (frequency bands + view), then cards — a 4-column grid or a single card. */
+/* Same Words — three places: Learn (levels -> lessons with a story), Words (search the whole list), My words. */
 :root {
-  --bg: #f4f5f7;
+  --bg: #f5f6f8;
   --card: #ffffff;
-  --fg: #16191f;
-  --muted: #6a7180;
-  --line: #dfe2e8;
+  --fg: #15181e;
+  --muted: #687080;
+  --line: #e0e3e9;
   --accent: #1f5fbf;
-  --accent-soft: #e6eefb;
+  --accent-soft: #e7eefb;
+  --ok: #1e8a57;
   --word: "Literata", "PT Serif", Georgia, "Times New Roman", serif;
   --ui: "Golos Text", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
-  --shadow: 0 1px 2px rgba(20, 28, 45, .06), 0 2px 8px rgba(20, 28, 45, .05);
+  --shadow: 0 1px 2px rgba(20, 28, 45, .05), 0 3px 10px rgba(20, 28, 45, .04);
+  --a0: #2a9d68; --a1: #2687b8; --a2: #3b68d4; --b1: #7656d2; --b2: #b84f93; --c1: #cf7a22;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #111317; --card: #1b1e24; --fg: #eceef2; --muted: #9aa1ae; --line: #2c3039;
-    --accent: #7eaaf0; --accent-soft: #1d2a40; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+    --bg: #101216; --card: #1a1d23; --fg: #eceef2; --muted: #9aa1ae; --line: #2b2f38;
+    --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #111317; --card: #1b1e24; --fg: #eceef2; --muted: #9aa1ae; --line: #2c3039;
-  --accent: #7eaaf0; --accent-soft: #1d2a40; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+  --bg: #101216; --card: #1a1d23; --fg: #eceef2; --muted: #9aa1ae; --line: #2b2f38;
+  --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-body {
-  background: var(--bg); color: var(--fg); font-family: var(--ui); font-size: 15px;
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
-  padding-block: 20px 48px;
-}
-.wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+html { scroll-padding-top: 76px; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 var(--ui); }
+a { color: var(--accent); text-decoration: none; }
 button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
-button:focus-visible, .card:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; justify-content: space-between; }
-.brand { font-family: var(--word); font-weight: 600; font-size: 20px; letter-spacing: -.01em; }
+/* top bar */
+.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 90%, transparent);
+  -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+.top-in { max-width: 1080px; margin: 0 auto; padding: 10px max(16px, env(safe-area-inset-left, 0px)); display: flex; align-items: center; gap: 12px; }
+.brand { font-family: var(--word); font-weight: 600; font-size: 19px; color: var(--fg); white-space: nowrap; margin-right: auto; }
 .brand span { color: var(--muted); font-weight: 500; }
-.bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
-.chip {
-  padding: 6px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--card);
-  font-size: 14px; font-variant-numeric: tabular-nums; white-space: nowrap;
-}
-.chip small { color: var(--muted); font-size: 12px; margin-left: 4px; }
-.chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
-.chip[aria-pressed="true"] small { color: inherit; opacity: .7; }
-.sep { width: 1px; height: 22px; background: var(--line); margin: 0 2px; flex: 0 0 auto; }
-@media (max-width: 1100px) and (min-width: 641px) { .sep { display: none; } }
-.tools { display: flex; gap: 6px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
-.count { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
-select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; cursor: pointer; font: inherit; font-size: 14px; color: var(--fg);
-  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
-  background-position: calc(100% - 15px) 52%, calc(100% - 10px) 52%; background-size: 5px 5px; background-repeat: no-repeat; max-width: 60vw; }
-@media (max-width: 640px) {
-  /* one swipeable row of bands on phones, so the cards start on the first screen */
-  #levels { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; width: calc(100% + 32px); margin-inline: -16px; padding-inline: 16px; scroll-padding-inline: 16px; }
-  #levels::-webkit-scrollbar { display: none; }
-}
+.menu { display: flex; gap: 2px; }
+.menu a { padding: 7px 13px; border-radius: 999px; color: var(--muted); font-weight: 500; white-space: nowrap; }
+.menu a:hover { color: var(--fg); }
+.menu a[aria-current="page"] { color: var(--fg); background: var(--card); box-shadow: var(--shadow); }
+.menu small { color: var(--muted); font-size: 12px; margin-left: 4px; font-variant-numeric: tabular-nums; }
+@media (max-width: 560px) { .brand span { display: none; } .menu a { padding: 7px 10px; } }
 
-/* cards */
+main { max-width: 1080px; margin: 0 auto; padding: 28px max(16px, env(safe-area-inset-left, 0px)) 40px; min-height: 70vh; }
+h1 { font-family: var(--word); font-weight: 600; font-size: clamp(26px, 4vw, 34px); line-height: 1.15; letter-spacing: -.01em; margin: 0 0 8px; }
+h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12px; }
+.lead { color: var(--muted); font-size: 16px; max-width: 62ch; margin: 0 0 26px; }
+.crumbs { font-size: 13.5px; color: var(--muted); margin: 0 0 10px; display: flex; gap: 6px; flex-wrap: wrap; }
+.blank { color: var(--muted); text-align: center; padding: 48px 0; }
+.foot { max-width: 1080px; margin: 0 auto; padding: 8px 16px 32px; color: var(--muted); font-size: 12px; text-align: center; opacity: .85; }
+.btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 16px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--card); font-weight: 500; color: var(--fg); white-space: nowrap; }
+.btn:hover { border-color: var(--muted); }
+.btn.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; background: var(--card); padding: 2px; }
+.seg button { padding: 6px 12px; border-radius: 999px; font-size: 13.5px; color: var(--muted); }
+.seg button[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
+
+/* Learn: levels */
+.levels { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin: 0 0 40px; }
+@media (max-width: 900px) { .levels { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .levels { grid-template-columns: minmax(0, 1fr); } }
+.lv { display: flex; gap: 14px; padding: 18px; background: var(--card); border: 1px solid var(--line); border-radius: 18px;
+  box-shadow: var(--shadow); color: inherit; min-width: 0; }
+.lv:hover { border-color: var(--lc); }
+.lv .code { flex: none; width: 54px; height: 54px; border-radius: 15px; display: grid; place-items: center; color: #fff;
+  font: 600 21px var(--word); background: var(--lc); }
+.lv .body { min-width: 0; flex: 1; }
+.lv .name { font: 600 18px var(--word); }
+.lv .about { color: var(--muted); font-size: 13.5px; line-height: 1.4; margin-top: 2px; }
+.lv .stats { color: var(--muted); font-size: 12.5px; margin-top: 8px; font-variant-numeric: tabular-nums; }
+.prog { height: 4px; border-radius: 4px; background: var(--line); margin-top: 6px; overflow: hidden; }
+.prog i { display: block; height: 100%; background: var(--lc); border-radius: 4px; }
+.cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 900px) { .cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.col { display: flex; flex-direction: column; gap: 4px; text-align: left; padding: 16px; background: var(--card); border: 1px solid var(--line);
+  border-radius: 16px; box-shadow: var(--shadow); color: inherit; min-width: 0; }
+.col:hover { border-color: var(--accent); }
+.col b { font: 600 16.5px var(--word); }
+.col span { color: var(--muted); font-size: 13px; line-height: 1.4; }
+
+/* level page: sections of lessons */
+.lvhead { display: flex; gap: 16px; align-items: center; margin-bottom: 6px; }
+.lvhead .code { width: 50px; height: 50px; border-radius: 14px; display: grid; place-items: center; color: #fff; font: 600 20px var(--word); background: var(--lc); flex: none; }
+.lvhead h1 { margin: 0; }
+.secnav { display: flex; gap: 6px; flex-wrap: wrap; margin: 0 0 26px; }
+.secnav button { padding: 5px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); font-size: 13px; color: var(--muted); }
+.secnav button:hover { color: var(--fg); }
+.sec { margin: 0 0 30px; scroll-margin-top: 76px; }
+.lessons { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 900px) { .lessons { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .lessons { grid-template-columns: minmax(0, 1fr); } }
+.ls { display: flex; flex-direction: column; gap: 3px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; box-shadow: var(--shadow); color: inherit; min-width: 0; }
+.ls:hover { border-color: var(--lc, var(--accent)); }
+.ls .n { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.ls .n .ok { color: var(--ok); font-weight: 500; }
+.ls b { font: 600 16.5px var(--word); line-height: 1.25; }
+.ls .w { color: var(--muted); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* lesson page */
+.lesson-meta { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13.5px; margin-bottom: 6px; }
+.pill { display: inline-block; padding: 1px 9px; border-radius: 999px; color: #fff; font-size: 12.5px; font-weight: 600; background: var(--lc, var(--accent)); }
+.story { font-size: 18px; line-height: 1.72; max-width: 68ch; white-space: pre-line; background: var(--card); border: 1px solid var(--line);
+  border-radius: 18px; padding: 20px 24px; margin: 14px 0 18px; box-shadow: var(--shadow); }
+@media (max-width: 560px) { .story { font-size: 17px; padding: 16px 18px; } }
+.story .sw { font-weight: 600; color: var(--fg); background: var(--accent-soft); border-radius: 5px; padding: 0 4px; cursor: pointer; }
+.story .sw:hover { color: var(--accent); }
+.story-hint { color: var(--muted); font-size: 13px; margin: -10px 0 18px; }
+.actions { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 0 0 16px; }
+.actions .spacer { flex: 1; }
+.btn.done { color: var(--ok); border-color: var(--ok); }
+.pager { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 26px; font-size: 14.5px; }
+
+/* Words: search and filters */
+.search-row { position: relative; margin: 0 0 12px; }
+.search-row svg { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; color: var(--muted); pointer-events: none; }
+.search { width: 100%; padding: 13px 16px 13px 44px; font: inherit; font-size: 16px; color: var(--fg); border-radius: 14px;
+  border: 1px solid var(--line); background: var(--card); box-shadow: var(--shadow); }
+.search:focus { outline: none; border-color: var(--accent); }
+.filters { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 0 0 16px; }
+.sel { appearance: none; -webkit-appearance: none; padding: 7px 30px 7px 12px; border-radius: 999px; border: 1px solid var(--line); cursor: pointer;
+  font: inherit; font-size: 14px; color: var(--fg); max-width: 70vw;
+  background: var(--card) linear-gradient(45deg, transparent 50%, var(--muted) 50%) no-repeat calc(100% - 16px) 52% / 5px 5px,
+              var(--card) linear-gradient(135deg, var(--muted) 50%, transparent 50%) no-repeat calc(100% - 11px) 52% / 5px 5px; }
+.chk { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); padding: 6px 4px; cursor: pointer; }
+.count { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+.filters .count { margin-left: auto; }
+
+/* cards (flip) */
 .grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
 @media (max-width: 900px) { .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } .grid .card { aspect-ratio: 3 / 4; } }
 @media (max-width: 640px) { .grid { grid-template-columns: minmax(0, 440px); justify-content: center; } .grid .card { aspect-ratio: 4 / 5; } }
-
 .card { position: relative; perspective: 1000px; aspect-ratio: 4 / 5; cursor: pointer; border-radius: 14px; max-width: 100%; container-type: inline-size; }
 .inner { position: absolute; inset: 0; transition: transform .45s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
 .card.flipped .inner { transform: rotateY(180deg); }
-.face {
-  position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+.face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
   background: var(--card); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
-  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px;
-  padding: 14px; text-align: center; min-width: 0;
-}
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; padding: 14px; text-align: center; min-width: 0; }
 .back { transform: rotateY(180deg); justify-content: flex-start; align-items: stretch; text-align: left; gap: 8px; overflow-y: auto; scrollbar-width: thin; }
 .back.more-below { -webkit-mask-image: linear-gradient(#000 calc(100% - 22px), transparent); mask-image: linear-gradient(#000 calc(100% - 22px), transparent); }
-/* the word is sized from the card width and its longest part, so long words never break mid-word */
 .en, .uk { font-family: var(--word); line-height: 1.12; overflow-wrap: break-word; hyphens: manual; max-width: 100%; }
 .en { font-size: clamp(24px, 2.9vw, 34px); font-size: clamp(22px, min(16cqi, 150cqi / var(--n, 6)), var(--max-en, 60px)); font-weight: 600; }
 .uk { font-size: clamp(21px, 2.5vw, 29px); font-size: clamp(19px, min(13.5cqi, 135cqi / var(--n, 6)), var(--max-uk, 50px)); font-weight: 500; color: var(--muted); }
 .eq { color: var(--muted); font-size: 18px; font-size: clamp(16px, 6cqi, 26px); line-height: 1.1; margin: .12em 0; }
 .st { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .16em; text-decoration-color: var(--accent); }
-.more { display: flex; justify-content: center; padding-top: 8px; }
+.more { display: flex; justify-content: center; padding-top: 12px; }
 .flag { position: absolute; top: 12px; left: 12px; width: 22px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 .icon { position: absolute; width: 32px; height: 32px; border-radius: 8px; display: grid; place-items: center; color: var(--muted); }
 @media (hover: hover) { .icon:hover { background: var(--accent-soft); color: var(--accent); } }
@@ -100,8 +168,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .add { top: 6px; right: 6px; }
 .add.on { color: var(--accent); }
 @media (pointer: coarse) { .icon { width: 44px; height: 44px; } .say { bottom: 2px; left: 2px; } .add { top: 2px; right: 2px; } }
-
-/* back of the card: picture place + word, then examples and note */
+.card.flash .face { box-shadow: 0 0 0 3px var(--accent); transition: box-shadow .2s; }
 .back .top { display: flex; flex-direction: column; gap: 8px; flex: none; }
 .back .pic { flex: none; width: 100%; aspect-ratio: 3 / 1; border-radius: 10px; border: 1px solid var(--line); display: grid; place-items: center; overflow: hidden; color: var(--line); }
 .back .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
@@ -116,7 +183,6 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .back .meta { font-size: 12.5px; color: var(--muted); }
 .back .head .say-btn { position: static; flex: none; width: 28px; height: 28px; margin-left: auto; }
 .back .rank { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; }
-/* grids with several columns: a small square picture beside the word, so the examples fit on the card */
 @media (min-width: 641px) {
   .grid .back .top { flex-direction: row; align-items: flex-start; gap: 10px; }
   .grid .back .pic { width: 30%; aspect-ratio: 1; }
@@ -131,8 +197,6 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag { font: 400 11.5px var(--ui); letter-spacing: .02em; color: var(--muted); border: 1px solid var(--line); border-radius: 6px; padding: 1px 6px; }
 .loading { color: var(--muted); font-size: 13px; }
-
-/* single view */
 .single { display: flex; flex-direction: column; align-items: center; gap: 16px; --max-en: 84px; --max-uk: 70px; }
 .single .card { width: min(620px, 100%); aspect-ratio: 3 / 2; touch-action: pan-y; }
 .single .back { display: grid; grid-template-columns: 38% minmax(0, 1fr); grid-template-rows: auto 1fr; gap: 8px 16px; align-content: start; }
@@ -148,47 +212,16 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   .single .back .pic { aspect-ratio: 3 / 1; height: auto; }
 }
 .nav { display: flex; gap: 10px; align-items: center; }
-.nav .chip { min-width: 44px; text-align: center; }
+.nav .btn { min-width: 48px; justify-content: center; }
 
-/* training */
+/* practice */
 .train { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; --max-en: 84px; --max-uk: 70px; }
 .train .card { width: min(520px, 100%); aspect-ratio: 3 / 2; cursor: default; }
 .train .uk { color: var(--fg); font-weight: 600; }
 .train .en { color: var(--accent); }
-.train .hint { color: var(--muted); font-size: 13px; max-width: 46ch; }
+.train .hint { color: var(--muted); font-size: 13.5px; max-width: 50ch; }
 .row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
-.big { padding: 10px 18px; font-size: 15px; }
-.big.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
-.score { font-family: var(--word); font-size: 28px; }
-
-/* stories: chapters of words that make a little story */
-.toc { display: flex; flex-direction: column; gap: 26px; }
-.toc h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 2px; }
-.toc section { scroll-margin-top: 12px; }
-.toc .parts .chip { font-size: 13px; padding: 5px 10px; }
-.toc .about { color: var(--muted); font-size: 13.5px; margin: 0 0 10px; }
-.tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
-@media (max-width: 900px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 480px) { .tiles { grid-template-columns: minmax(0, 1fr); } }
-.tile { display: flex; flex-direction: column; gap: 3px; text-align: left; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line);
-  background: var(--card); box-shadow: var(--shadow); color: inherit; text-decoration: none; min-width: 0; }
-.tile:hover { border-color: var(--accent); }
-.tile .tn { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
-.tile b { font-family: var(--word); font-weight: 600; font-size: 16px; line-height: 1.25; }
-.tile .tw { color: var(--muted); font-size: 12.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.chapter { display: flex; flex-direction: column; gap: 14px; }
-.ch-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; color: var(--muted); font-size: 13px; }
-.ch-top a, .ch-nav a { color: var(--accent); text-decoration: none; }
-.chapter h2 { font-family: var(--word); font-weight: 600; font-size: clamp(22px, 3vw, 28px); margin: 0; }
-.story { font-size: 17px; line-height: 1.65; max-width: 70ch; margin: 0; white-space: pre-line; }
-.story .sw { font-weight: 600; color: var(--fg); background: var(--accent-soft); border-radius: 4px; padding: 0 3px; cursor: pointer; }
-.story .sw:hover { color: var(--accent); }
-.ch-actions { display: flex; gap: 8px; flex-wrap: wrap; }
-.ch-nav { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding-top: 6px; font-size: 14px; }
-.card.flash .face { box-shadow: 0 0 0 3px var(--accent); transition: box-shadow .2s; }
-
-.blank { color: var(--muted); text-align: center; padding: 48px 0; }
-.foot { color: var(--muted); font-size: 12px; text-align: center; padding-top: 28px; opacity: .8; }
+.score { font-family: var(--word); font-size: 30px; }
 @media (prefers-reduced-motion: reduce) { .inner { transition: none; } }
 </style>
 
@@ -196,24 +229,16 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   <clipPath id="fc"><path d="M0,0 v30 h60 v-30 z"/></clipPath>
   <clipPath id="ft"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath>
 </defs></svg>
-<div class="wrap">
-  <header>
-    <div class="brand">Same Words <span lang="uk">· Однакові слова</span></div>
-    <nav class="bar" id="levels" aria-label="How often the English word is used"></nav>
-  </header>
-  <div class="tools">
-    <div class="bar" id="views" role="group" aria-label="View">
-      <button class="chip" id="v-grid" data-view="grid">Grid</button>
-      <button class="chip" id="v-single" data-view="single">One by one</button>
-      <button class="chip" id="v-shuffle" aria-pressed="false" title="Shuffle the cards (press again for frequency order)">Shuffle</button>
-      <select class="chip" id="topic" aria-label="Topic"></select>
-      <button class="chip" id="f-ns" aria-pressed="true" title="Hide pairs where the Ukrainian word is slang or rare (піпл, френд) and rude English words">Hide slang</button>
-    </div>
-    <div class="count" id="count" aria-live="polite"></div>
-  </div>
-  <main id="main"></main>
-  <footer class="foot">Pictures: Noto Emoji by Google (Apache 2.0) · Voice: Kokoro-82M</footer>
-</div>
+<header class="top"><div class="top-in">
+  <a class="brand" href="#learn">Same Words <span lang="uk">· Однакові слова</span></a>
+  <nav class="menu" aria-label="Main">
+    <a href="#learn" data-nav="learn">Learn</a>
+    <a href="#words" data-nav="words">Words</a>
+    <a href="#mine" data-nav="mine">My words<small id="mine-n"></small></a>
+  </nav>
+</div></header>
+<main id="main"></main>
+<footer class="foot">Pictures: Noto Emoji by Google (Apache 2.0) · Voice: Kokoro-82M</footer>
 
 <script src="words.js"></script>
 <script>
@@ -221,33 +246,30 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   'use strict';
   const WORDS = (window.WORDS || []).map(w => Object.assign({ id: w.id || (w.en + '|' + w.uk) }, w));
   const BY_ID = new Map(WORDS.map(w => [w.id, w]));
-  // categories = how often the English word is used in the card's meaning
-  const LEVELS = ['top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k', 'top-20k', 'top-50k', 'top-100k', 'rare'];
-  const LEVEL_NAMES = { 'top-1000': 'Top 1000', 'top-2000': 'Top 2000', 'top-3000': 'Top 3000', 'top-5000': 'Top 5000',
+  const BY_EN = new Map(WORDS.map(w => [w.en, w]));
+  const BANDS = ['top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k', 'top-20k', 'top-50k', 'top-100k', 'rare'];
+  const BAND_NAMES = { 'top-1000': 'Top 1000', 'top-2000': 'Top 2000', 'top-3000': 'Top 3000', 'top-5000': 'Top 5000',
     'top-10k': 'Top 10K', 'top-20k': 'Top 20K', 'top-50k': 'Top 50K', 'top-100k': 'Top 100K', 'rare': 'Rare' };
-  const BAND_TIP = { 'top-1000': 'Among the 1,000 most used English words', 'top-2000': 'English words ranked 1,001–2,000',
-    'top-3000': 'Ranked 2,001–3,000', 'top-5000': 'Ranked 3,001–5,000', 'top-10k': 'Ranked 5,001–10,000',
-    'top-20k': 'Ranked 10,001–20,000', 'top-50k': 'Ranked 20,001–50,000', 'top-100k': 'Ranked 50,001–100,000',
-    'rare': 'Less common than the 100,000 most used English words' };
   const TOPIC_NAMES = { food: 'Food', drinks: 'Drinks', sport: 'Sport', music: 'Music', art: 'Art', media: 'Media', tech: 'Tech',
     science: 'Science', medicine: 'Medicine', chemistry: 'Chemistry', physics: 'Physics', biology: 'Biology', math: 'Math',
     transport: 'Transport', clothing: 'Clothing', home: 'Home', business: 'Business', finance: 'Finance', politics: 'Politics',
     law: 'Law', military: 'Military', religion: 'Religion', education: 'Education', people: 'People', nature: 'Nature',
     places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions',
     history: 'History', philosophy: 'Philosophy', other: 'Other' };
-  const PAGE = 120;
   const MARKS = { s: ['★ English too', 'Surprise: you might not expect this word to exist in English'],
                   a: ['anglicism', 'Ukrainians use this as an English word (like містер, стаф)'] };
+  const PAGE = 120;
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   };
-  // saved ids are normalized (older builds wrote й/ї as two code points)
-  const mine = new Set(store.get('sw.mine', []).map(id => String(id).normalize ? String(id).normalize('NFC') : String(id)));
-  const state = { level: LEVELS[0], prev: LEVELS[0], view: store.get('sw.view', 'grid'), order: null, shuffled: false, idx: 0, topic: '', hideNs: store.get('sw.hideNs2', true) };
-  const byLevel = {};
-  LEVELS.forEach(l => byLevel[l] = []);
-  WORDS.forEach(w => (byLevel[w.band] || (byLevel[w.band] = [])).push(w));
+  const norm = s => String(s).normalize ? String(s).normalize('NFC') : String(s);
+  const mine = new Set(store.get('sw.mine', []).map(norm));
+  const done = new Set(store.get('sw.done', []));
+  const saved = store.get('sw.filters', {});
+  const state = { route: 'learn', arg: '', view: store.get('sw.view', 'grid'), idx: 0, list: [],
+    q: '', band: saved.band || '', topic: saved.topic || '', kind: saved.kind || '', hideNs: store.get('sw.hideNs2', true),
+    pool: null, poolTitle: '', poolLesson: '' };
 
   const $ = s => document.querySelector(s);
   const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -257,27 +279,45 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   const PLUS = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>';
   const CHECK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
   const PIC = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="M5 17l4.5-4.5 3 3 2.5-2.5L19 17"/></svg>';
+  const SEARCH = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>';
 
-  function shuffleIdx(n) {   // Fisher–Yates
-    const a = Array.from({ length: n }, (_, i) => i);
-    for (let i = n - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; const t = a[i]; a[i] = a[j]; a[j] = t; }
+  function shuffled(a) {   // Fisher–Yates
+    a = a.slice();
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; const t = a[i]; a[i] = a[j]; a[j] = t; }
     return a;
+  }
+  function loadScript(src) {
+    return new Promise((res, rej) => {
+      const s = document.createElement('script');
+      s.src = src; s.async = true; s.onload = res; s.onerror = rej;
+      document.head.appendChild(s);
+    });
   }
 
   // ---------- details (examples, notes, grammar) load per band, on first need
   const DET = window.DETAILS = window.DETAILS || {};
   const detLoads = {};
   function loadDetails(band) {
-    if (!detLoads[band]) {
-      detLoads[band] = new Promise((res, rej) => {
-        const s = document.createElement('script');
-        s.src = 'details-' + band + '.js'; s.async = true;
-        s.onload = res; s.onerror = () => { delete detLoads[band]; rej(); };
-        document.head.appendChild(s);
-      });
-    }
+    if (!detLoads[band]) detLoads[band] = loadScript('details-' + band + '.js').catch(e => { delete detLoads[band]; throw e; });
     return detLoads[band];
   }
+  // ---------- the course (levels, lessons, stories), loaded when Learn is opened
+  let courseLoad = null;
+  function loadCourse() {
+    if (!courseLoad) courseLoad = window.COURSE ? Promise.resolve() : loadScript('course.js').catch(e => { courseLoad = null; throw e; });
+    return courseLoad;
+  }
+  const C = () => window.COURSE;
+  const lessonsOf = lv => C().lessons.filter(l => l.level === lv);
+  const findLesson = id => {
+    const co = C();
+    let i = co.lessons.findIndex(l => l.id === id);
+    if (i >= 0) return { l: co.lessons[i], list: co.lessons.filter(x => x.level === co.lessons[i].level) };
+    i = co.exclamations.findIndex(l => l.id === id);
+    if (i >= 0) return { l: co.exclamations[i], list: co.exclamations };
+    return null;
+  };
+  const lc = code => 'var(--' + String(code || 'a1').toLowerCase() + ')';
 
   // ---------- audio: recorded words in bundles; each word knows [bundle, start, duration]
   const AUDIO = window.AUDIO || null;
@@ -297,9 +337,9 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   }
   function audioCtx() {
     if (!actx) {
-      const C = window.AudioContext || window.webkitAudioContext;
-      if (!C) return null;
-      try { actx = new C({ sampleRate: 24000 }); } catch (e) { actx = new C(); }
+      const Ctx = window.AudioContext || window.webkitAudioContext;
+      if (!Ctx) return null;
+      try { actx = new Ctx({ sampleRate: 24000 }); } catch (e) { actx = new Ctx(); }
       try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {}
     }
     return actx;
@@ -331,73 +371,26 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     if (c.state === 'suspended') c.resume();
     const my = ++seq;
     if (btn) btn.classList.add('busy');
-    const done = () => { if (btn) btn.classList.remove('busy'); };
+    const fin = () => { if (btn) btn.classList.remove('busy'); };
     loadBundle(w.au[0]).then(buf => {
-      done();
+      fin();
       if (my !== seq) return;               // a newer tap wins
       if (playing) { try { playing.stop(); } catch (e) {} }
       const src = c.createBufferSource();
       src.buffer = buf; src.connect(c.destination);
       src.start(0, Math.max(0, w.au[1] - 0.05), w.au[2] + 0.12);
       playing = src;
-    }).catch(() => { done(); playViaElement(w); });
+    }).catch(() => { fin(); playViaElement(w); });
   }
   const canPlay = w => (AUDIO && w.au) || canSpeak;
 
-  // ---------- stories: chapters of words in story order (stories.js, loaded when the tab is opened)
-  const BY_EN = new Map(WORDS.map(w => [w.en, w]));
-  let storiesLoad = null;
-  function loadStories() {
-    if (!storiesLoad) {
-      storiesLoad = window.STORIES ? Promise.resolve() : new Promise((res, rej) => {
-        const s = document.createElement('script');
-        s.src = 'stories.js'; s.async = true;
-        s.onload = res; s.onerror = () => { storiesLoad = null; rej(); };
-        document.head.appendChild(s);
-      });
-    }
-    return storiesLoad;
-  }
-  const isStory = level => /^story-/.test(level || '');
-  function chapterOf(level) {
-    const S = window.STORIES;
-    if (!S || !isStory(level)) return null;
-    const id = level.slice(6);
-    const i = S.chapters.findIndex(c => c.id.toLowerCase() === id);
-    return i < 0 ? null : { c: S.chapters[i], i: i };
-  }
-
-  // ---------- lists
-  function baseList(level) {
-    if (isStory(level)) {   // a story keeps all its words, in story order
-      const ch = chapterOf(level);
-      return ch ? ch.c.words.map(en => BY_EN.get(en)).filter(Boolean) : [];
-    }
-    let l = level === 'mine' ? WORDS.filter(w => mine.has(w.id)) : (byLevel[level] || []);
-    if (state.hideNs) l = l.filter(w => !w.ns && !w.rude);
-    return l;
-  }
-  function listFor(level) {
-    const l = baseList(level);
-    if (state.topic === '@s' || state.topic === '@a') return l.filter(w => w.mk === state.topic[1]);
-    return state.topic ? l.filter(w => (w.topics || []).indexOf(state.topic) >= 0) : l;
-  }
-  function current() {
-    const list = listFor(state.level);
-    if (state.shuffled) {
-      if (!state.order || state.order.length !== list.length) state.order = shuffleIdx(list.length);
-      return state.order.map(i => list[i]);
-    }
-    return list;
-  }
-
-  // ---------- card text helpers
+  // ---------- card helpers
   function rankText(w) {
     if (!w.rank || w.band === 'rare') return 'Rare in English';
-    if (w.approx) return 'About ' + LEVEL_NAMES[w.band].replace('Top', 'top') + ' word';
+    if (w.approx) return 'About ' + BAND_NAMES[w.band].replace('Top', 'top') + ' word';
     return '#' + w.rank.toLocaleString('en-US') + ' most used word';
   }
-  function stressed(w) {   // underline the stressed vowel (CMU pronouncing dictionary)
+  function stressed(w) {   // underline the stressed vowel, as the recording says it
     if (!w.st) return esc(w.en);
     return esc(w.en.slice(0, w.st[0])) + '<span class="st">' + esc(w.en.slice(w.st[0], w.st[1])) + '</span>' + esc(w.en.slice(w.st[1]));
   }
@@ -418,9 +411,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
       return html.replace(re, '$1<b>$2</b>');
     } catch (e) { return html; }
   }
-
-  function cardHTML(w, opts) {
-    opts = opts || {};
+  function cardHTML(w) {
     const on = mine.has(w.id);
     return '<div class="card" role="group" aria-roledescription="flip card" tabindex="0" data-id="' + esc(w.id) + '">' +
       '<div class="inner">' +
@@ -430,7 +421,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
           '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div>' +
           (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
           (w.mk && MARKS[w.mk] ? '<span class="mk mk-' + w.mk + '" title="' + esc(MARKS[w.mk][1]) + '">' + esc(MARKS[w.mk][0]) + '</span>' : '') +
-          (opts.noAdd ? '' : '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Remove from my words' : 'Add to my words') + '">' + (on ? CHECK : PLUS) + '</button>') +
+          '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Remove from my words' : 'Add to my words') + '">' + (on ? CHECK : PLUS) + '</button>' +
         '</div>' +
         '<div class="face back" inert></div>' +    // filled on first flip
       '</div></div>';
@@ -461,10 +452,7 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
   function fillBack(card) {
     const w = BY_ID.get(card.dataset.id), back = card.querySelector('.back');
     if (!w || !back) return;
-    const draw = () => {
-      back.innerHTML = backHTML(w);
-      back.classList.toggle('more-below', back.scrollHeight > back.clientHeight + 2);
-    };
+    const draw = () => { back.innerHTML = backHTML(w); back.classList.toggle('more-below', back.scrollHeight > back.clientHeight + 2); };
     draw();
     if (!DET[w.id]) loadDetails(w.band).then(draw).catch(() => { const l = back.querySelector('.loading'); if (l) l.textContent = ''; });
   }
@@ -476,250 +464,356 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     back.inert = !f;
   }
 
-  // ---------- header
-  function renderLevels() {
-    const items = LEVELS.filter(l => (byLevel[l] || []).length).map(l => [l, LEVEL_NAMES[l], null])
-      .concat([['stories', 'Stories', null], ['mine', 'My words', baseList('mine').length], ['train', 'Train', null]]);
-    const on = key => state.level === key || (key === 'stories' && isStory(state.level));
-    $('#levels').innerHTML = items.map(([key, label, n]) =>
-      (key === 'stories' ? '<span class="sep"></span>' : '') +
-      '<button class="chip" id="lv-' + key + '" data-level="' + key + '" aria-pressed="' + on(key) + '"' +
-      (BAND_TIP[key] ? ' title="' + BAND_TIP[key] + '"' : '') + '>' + label + (n !== null ? '<small>' + n + '</small>' : '') + '</button>').join('');
-    const a = $('#levels [aria-pressed="true"]');
-    if (a && a.scrollIntoView && window.innerWidth <= 640) a.scrollIntoView({ inline: 'center', block: 'nearest' });
+  // ---------- a list of cards: grid (loads more while scrolling) or one by one
+  function viewSwitch() {
+    return '<div class="seg" role="group" aria-label="View">' +
+      '<button data-view="grid" aria-pressed="' + (state.view === 'grid') + '">Grid</button>' +
+      '<button data-view="single" aria-pressed="' + (state.view === 'single') + '">One by one</button></div>';
   }
-  function renderTopics() {
-    const counts = {};
-    baseList(state.level).forEach(w => (w.topics || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
-    const base = baseList(state.level), ns = base.filter(w => w.mk === 's').length, na = base.filter(w => w.mk === 'a').length;
-    if (state.topic && state.topic[0] !== '@' && !counts[state.topic]) state.topic = '';
-    if ((state.topic === '@s' && !ns) || (state.topic === '@a' && !na)) state.topic = '';
-    const keys = Object.keys(counts).sort((a, b) => (a === 'other') - (b === 'other') || counts[b] - counts[a]);
-    $('#topic').innerHTML = '<option value="">All topics</option>' +
-      (ns ? '<option value="@s"' + (state.topic === '@s' ? ' selected' : '') + '>★ English too · ' + ns + '</option>' : '') +
-      (na ? '<option value="@a"' + (state.topic === '@a' ? ' selected' : '') + '>Anglicisms · ' + na + '</option>' : '') +
-      keys.map(k =>
-      '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' + (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
-    $('#topic').hidden = !keys.length && !ns && !na;
-  }
-
-  // ---------- main view
-  function emptyMessage() {
-    const all = state.level === 'mine' ? WORDS.filter(w => mine.has(w.id)).length : (byLevel[state.level] || []).length;
-    if (!all) return state.level === 'mine' ? 'No words yet. Press + on a card to add it here.' : 'No words in this group yet.';
-    return 'All cards here are hidden by "Hide slang" or the topic.';
-  }
-  function storyHTML(text) {   // [[word]] or [[form|word]] -> a highlighted, clickable word
-    const unesc = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
-    return esc(text).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, form, en) => {
-      const key = unesc((en || form).trim());
-      const w = BY_EN.get(key);
-      return w ? '<b class="sw" tabindex="0" lang="en" title="' + esc(w.en + ' = ' + w.uk) + '" data-sw="' + esc(key) + '">' + form + '</b>' : form;
-    });
-  }
-  function renderTOC() {
-    const S = window.STORIES;
-    $('#count').textContent = plural(S.chapters.length, 'story');
-    const used = S.parts.filter(p => S.chapters.some(c => c.part === p.id));
-    $('#main').innerHTML = '<div class="toc">' +
-      '<nav class="bar parts" aria-label="Parts">' + used.map(p => '<button class="chip" data-part="' + esc(p.id) + '">' + esc(p.title) + '</button>').join('') + '</nav>' +
-      used.map(p => {
-      const cs = S.chapters.filter(c => c.part === p.id);
-      return '<section id="part-' + esc(p.id) + '"><h2>' + esc(p.title) + '</h2>' + (p.about ? '<p class="about">' + esc(p.about) + '</p>' : '') +
-        '<div class="tiles">' + cs.map(c => '<a class="tile" href="#story-' + esc(c.id.toLowerCase()) + '">' +
-          '<span class="tn">' + (S.chapters.indexOf(c) + 1) + (c.level ? ' · ' + esc(c.level) : '') + ' · ' + plural(c.words.length, 'word') + '</span>' +
-          '<b>' + esc(c.title) + '</b><span class="tw">' + esc(c.words.slice(0, 6).join(' · ')) + '</span></a>').join('') +
-        '</div></section>';
-    }).join('') + '</div>';
-  }
-  function chapterTop(ch) {
-    const S = window.STORIES, c = ch.c, part = S.parts.find(p => p.id === c.part);
-    return '<div class="chapter">' +
-      '<div class="ch-top"><a href="#stories">← All stories</a><span>' + esc(part ? part.title : '') + ' · ' + (ch.i + 1) + ' / ' + S.chapters.length + '</span></div>' +
-      '<h2>' + esc(c.title) + '</h2>' +
-      (c.story ? '<p class="story">' + storyHTML(c.story) + '</p>' : '') +
-      '<div class="ch-actions"><button class="chip" id="ch-train">Train these words</button></div></div>';
-  }
-  function chapterNav(ch) {
-    const S = window.STORIES, prev = S.chapters[ch.i - 1], next = S.chapters[ch.i + 1];
-    return '<div class="ch-nav">' + (prev ? '<a href="#story-' + esc(prev.id.toLowerCase()) + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
-      (next ? '<a href="#story-' + esc(next.id.toLowerCase()) + '">' + esc(next.title) + ' →</a>' : '') + '</div>';
-  }
-  function storyWord(en) {   // a word in the story: say it and show its card
-    const w = BY_EN.get(en); if (!w) return;
-    playWord(w);
-    if (state.view === 'single') {
-      const i = current().indexOf(w);
-      if (i >= 0 && i !== state.idx) { state.idx = i; render(); }
-    }
-    const card = Array.from(document.querySelectorAll('.card')).find(c => c.dataset.id === w.id);
-    if (!card) return;
-    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 1200);
-  }
-  function render() {
-    renderLevels();
-    const training = state.level === 'train', toc = state.level === 'stories', story = isStory(state.level);
-    if ((toc || story) && !window.STORIES) {
-      $('#views').hidden = true; $('#count').textContent = '';
-      $('#main').innerHTML = '<div class="blank">Loading stories…</div>';
-      loadStories().then(render).catch(() => { $('#main').innerHTML = '<div class="blank">Stories could not be loaded.</div>'; });
-      return;
-    }
-    if (!training && !toc && !story) renderTopics();
-    $('#views').hidden = training || toc;
-    ['v-shuffle', 'topic', 'f-ns'].forEach(id => { $('#' + id).style.display = story ? 'none' : ''; });   // a story keeps its order and all its words
-    ['grid', 'single'].forEach(v => $('#v-' + v).setAttribute('aria-pressed', state.view === v));
-    $('#v-shuffle').setAttribute('aria-pressed', state.shuffled);
-    $('#f-ns').setAttribute('aria-pressed', state.hideNs);
-    if (training) return renderTrain();
-    if (toc) return renderTOC();
-    const ch = story ? chapterOf(state.level) : null;
-    if (story && !ch) { $('#count').textContent = ''; $('#main').innerHTML = '<div class="blank">This story was not found. <a href="#stories">All stories</a></div>'; return; }
-    const top = ch ? chapterTop(ch) : '', bottom = ch ? chapterNav(ch) : '';
-    const list = current();
-    $('#count').textContent = list.length ? plural(list.length, 'word') : '';
-    if (!list.length) { $('#main').innerHTML = top + '<div class="blank">' + emptyMessage() + '</div>' + bottom; return; }
-    if (story) Array.from(new Set(list.map(w => w.band))).forEach(b => loadDetails(b).catch(() => {}));
-    else if (state.level !== 'mine') loadDetails(state.level).catch(() => {});
+  function showCards(list) {
+    state.list = list;
+    const box = $('#cards');
+    if (!box) return;
+    if (!list.length) { box.innerHTML = '<div class="blank">No words here.</div>'; return; }
     if (state.view === 'grid') {
-      $('#main').innerHTML = top + '<div class="grid" id="grid"></div><div class="more" id="more"></div>' + bottom;
+      box.innerHTML = '<div class="grid" id="grid"></div><div class="more" id="more"></div>';
       appendCards();
     } else {
       state.idx = Math.max(0, Math.min(state.idx, list.length - 1));
-      $('#main').innerHTML = top + '<div class="single">' + cardHTML(list[state.idx]) +
-        '<div class="nav"><button class="chip" id="prev" aria-label="Previous">←</button>' +
+      box.innerHTML = '<div class="single">' + cardHTML(list[state.idx]) +
+        '<div class="nav"><button class="btn" id="prev" aria-label="Previous">←</button>' +
         '<span class="count">' + (state.idx + 1) + ' / ' + list.length + '</span>' +
-        '<button class="chip" id="next" aria-label="Next">→</button></div></div>' + bottom;
+        '<button class="btn" id="next" aria-label="Next">→</button></div></div>';
     }
   }
   const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => {
-    if (es.some(e => e.isIntersecting) && state.view === 'grid' && state.level !== 'train') appendCards();
+    if (es.some(e => e.isIntersecting) && state.view === 'grid') appendCards();
   }, { rootMargin: '1200px 0px' }) : null;
   function appendCards() {
     const g = $('#grid'), more = $('#more');
     if (!g) return;
-    const list = current(), from = g.children.length, to = Math.min(list.length, from + PAGE);
+    const list = state.list, from = g.children.length, to = Math.min(list.length, from + PAGE);
     if (from >= to) return;
-    g.insertAdjacentHTML('beforeend', list.slice(from, to).map(w => cardHTML(w)).join(''));
+    g.insertAdjacentHTML('beforeend', list.slice(from, to).map(cardHTML).join(''));
     if (to < list.length) {
-      more.innerHTML = '<button class="chip" id="show-more">Show more · ' + (list.length - to) + '</button>';
+      more.innerHTML = '<button class="btn" id="show-more">Show more · ' + (list.length - to).toLocaleString('en-US') + '</button>';
       if (io) { io.disconnect(); io.observe(more); }
     } else { more.innerHTML = ''; if (io) io.disconnect(); }
   }
-
-  // ---------- training (basic): see the Ukrainian word, recall the English word
-  let tr = null;
-  function startTrain() {
-    let pool, note = '';
-    if (state.trainPool) { pool = state.trainPool; note = 'Words from the story "' + state.trainTitle + '".'; }
-    else {
-      pool = baseList('mine');
-      if (!pool.length) {
-        pool = baseList(state.prev || LEVELS[0]).slice(0, 10);
-        note = 'Sample words from ' + (LEVEL_NAMES[state.prev] || 'this group') + '. Add your own with + on any card.';
-      }
-    }
-    pool = shuffleIdx(pool.length).map(i => pool[i]);
-    tr = { queue: pool, i: 0, shown: false, known: 0, again: [], missed: new Set(), note: note, total: pool.length, round: 1 };
+  function move(d) {
+    const n = state.list.length; if (!n) return;
+    state.idx = (state.idx + d + n) % n; showCards(state.list);
+    const c = document.querySelector('.single .card'); if (c) c.focus({ preventScroll: true });
   }
-  function renderTrain() {
-    if (!tr) startTrain();
-    $('#count').textContent = '';
-    if (!tr.total) { $('#main').innerHTML = '<div class="blank">No words to train yet.</div>'; return; }
+
+  // ---------- Learn: levels
+  function viewLearn() {
+    const co = C();
+    const lv = co.levels.map(L => {
+      const ls = lessonsOf(L.code), n = ls.reduce((s, l) => s + l.words.length, 0), d = ls.filter(l => done.has(l.id)).length;
+      const sample = [].concat(...ls.slice(0, 3).map(l => l.words.slice(0, 2))).slice(0, 4).join(' · ');
+      return '<a class="lv" href="#level/' + L.id + '" style="--lc:' + lc(L.code) + '"><span class="code">' + esc(L.code) + '</span>' +
+        '<span class="body"><span class="name">' + esc(L.name) + '</span><div class="about">' + esc(L.about) + '</div>' +
+        '<div class="stats">' + plural(ls.length, 'lesson') + ' · ' + plural(n, 'word') + (d ? ' · ' + d + ' learned' : '') + '</div>' +
+        '<div class="prog"><i style="width:' + Math.round(100 * d / Math.max(1, ls.length)) + '%"></i></div>' +
+        '<div class="about" style="margin-top:8px">' + esc(sample) + '</div></span></a>';
+    }).join('');
+    const ns = WORDS.filter(w => w.mk === 's').length, na = WORDS.filter(w => w.mk === 'a').length;
+    $('#main').innerHTML =
+      '<h1>English words you already know</h1>' +
+      '<p class="lead">Every word here is the same in Ukrainian: taxi = таксі, hotel = готель. ' +
+      'Learn them level by level. Each lesson is a short story at your level, then the cards.</p>' +
+      '<div class="levels">' + lv + '</div>' +
+      '<h2>Collections</h2><div class="cols">' +
+        '<a class="col" href="#ex"><b>Exclamations</b><span>wow, oops, hmm, bravo, ciao — little words in short dialogues</span></a>' +
+        '<button class="col" data-collect="s"><b>★ English too</b><span>' + ns.toLocaleString('en-US') + ' words you would not expect in English: tsar, hooligan, bazaar</span></button>' +
+        '<button class="col" data-collect="a"><b>Anglicisms</b><span>' + na.toLocaleString('en-US') + ' English words Ukrainians use: містер, вікенд, фідбек</span></button>' +
+        '<a class="col" href="#words"><b>All words</b><span>Search all ' + WORDS.length.toLocaleString('en-US') + ' words by English or Ukrainian</span></a>' +
+      '</div>';
+  }
+  function viewLevel(id) {
+    const co = C(), L = co.levels.find(x => x.id === id);
+    if (!L) return viewLearn();
+    const ls = lessonsOf(L.code), secs = [];
+    ls.forEach(l => { let s = secs.find(x => x.name === l.section); if (!s) secs.push(s = { name: l.section, items: [] }); s.items.push(l); });
+    const n = ls.reduce((s, l) => s + l.words.length, 0);
+    $('#main').innerHTML =
+      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span><span>' + esc(L.code + ' ' + L.name) + '</span></div>' +
+      '<div class="lvhead" style="--lc:' + lc(L.code) + '"><span class="code">' + esc(L.code) + '</span><div><h1>' + esc(L.name) + '</h1></div></div>' +
+      '<p class="lead">' + esc(L.about) + ' ' + plural(ls.length, 'lesson') + ', ' + plural(n, 'word') + '.</p>' +
+      (ls.length > 24
+        ? '<div class="secnav">' + secs.map((s, i) => '<button data-sec="' + i + '">' + esc(s.name) + '</button>').join('') + '</div>' +
+          secs.map((s, i) => '<section class="sec" id="sec-' + i + '"><h2>' + esc(s.name) + '</h2><div class="lessons">' +
+            s.items.map(l => lessonTile(l, ls, L, false)).join('') + '</div></section>').join('')
+        : '<div class="lessons">' + ls.map(l => lessonTile(l, ls, L, true)).join('') + '</div>');   // small levels: one grid, topic on each tile
+  }
+  function lessonTile(l, ls, L, withSection) {
+    return '<a class="ls" href="#lesson/' + l.id + '" style="--lc:' + lc(L.code) + '">' +
+      '<span class="n">Lesson ' + (ls.indexOf(l) + 1) + (withSection ? ' · ' + esc(l.section) : '') + ' · ' + plural(l.words.length, 'word') +
+      (done.has(l.id) ? ' · <span class="ok">✓ learned</span>' : '') + '</span>' +
+      '<b>' + esc(l.title) + '</b><span class="w">' + esc(l.words.join(' · ')) + '</span></a>';
+  }
+  function viewExclamations() {
+    const ls = C().exclamations;
+    $('#main').innerHTML =
+      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span><span>Exclamations</span></div>' +
+      '<h1>Exclamations</h1><p class="lead">Little words for talking, feelings, laughter and sounds. Each set is a short dialogue.</p>' +
+      '<div class="lessons">' + ls.map((l, i) => '<a class="ls" href="#lesson/' + l.id + '"><span class="n">' + (i + 1) + ' · ' + plural(l.words.length, 'word') + '</span>' +
+        '<b>' + esc(l.title) + '</b><span class="w">' + esc(l.words.join(' · ')) + '</span></a>').join('') + '</div>';
+  }
+  function storyHTML(text) {   // [[word]] or [[form|word]] -> a highlighted, clickable word
+    const unesc = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+    return esc(text).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, form, en) => {
+      const w = BY_EN.get(unesc((en || form).trim()));
+      return w ? '<b class="sw" tabindex="0" lang="en" title="' + esc(w.en + ' = ' + w.uk) + '" data-sw="' + esc(w.en) + '">' + form + '</b>' : form;
+    });
+  }
+  function viewLesson(id) {
+    const f = findLesson(id);
+    if (!f) return viewLearn();
+    const l = f.l, i = f.list.indexOf(l), co = C();
+    const L = co.levels.find(x => x.code === l.level);
+    const prev = f.list[i - 1], next = f.list[i + 1];
+    const words = l.words.map(en => BY_EN.get(en)).filter(Boolean);
+    const isEx = !l.level;
+    $('#main').innerHTML =
+      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span>' +
+        (isEx ? '<a href="#ex">Exclamations</a>' : '<a href="#level/' + L.id + '">' + esc(L.code + ' ' + L.name) + '</a>') + '</div>' +
+      '<div class="lesson-meta">' + (isEx ? '' : '<span class="pill" style="--lc:' + lc(l.level) + '">' + esc(l.level) + '</span>') +
+        '<span>' + (isEx ? 'Set ' : 'Lesson ') + (i + 1) + ' of ' + f.list.length + (l.section && !isEx ? ' · ' + esc(l.section) : '') + '</span></div>' +
+      '<h1>' + esc(l.title) + '</h1>' +
+      (l.story ? '<div class="story">' + storyHTML(l.story) + '</div><p class="story-hint">Tap a highlighted word to hear it and see its card.</p>' : '') +
+      '<div class="actions"><button class="btn primary" id="practice">Practice these words</button>' +
+        (isEx ? '' : '<button class="btn' + (done.has(l.id) ? ' done' : '') + '" id="learned">' + (done.has(l.id) ? '✓ Learned' : 'Mark as learned') + '</button>') +
+        '<span class="spacer"></span>' + viewSwitch() + '</div>' +
+      '<div id="cards"></div>' +
+      '<div class="pager">' + (prev ? '<a href="#lesson/' + prev.id + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
+        (next ? '<a href="#lesson/' + next.id + '">' + esc(next.title) + ' →</a>' : '') + '</div>';
+    state.idx = 0;
+    Array.from(new Set(words.map(w => w.band))).forEach(b => loadDetails(b).catch(() => {}));
+    showCards(words);
+  }
+
+  // ---------- Words: search and filters over the whole list
+  const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’ʼ]/g, "'");
+  WORDS.forEach(w => { w._k = fold(w.en) + '\n' + fold(w.uk); });
+  function wordsBase() {
+    let l = state.band ? WORDS.filter(w => w.band === state.band) : WORDS;
+    if (state.hideNs) l = l.filter(w => !w.ns && !w.rude);
+    if (state.kind === 's' || state.kind === 'a') l = l.filter(w => w.mk === state.kind);
+    else if (state.kind === 'x') l = l.filter(w => w.pos === 'interj');
+    return l;
+  }
+  function wordsList() {
+    let l = wordsBase();
+    if (state.topic) l = l.filter(w => (w.topics || []).indexOf(state.topic) >= 0);
+    const q = fold(state.q.trim());
+    if (q) {
+      const starts = [], has = [];
+      l.forEach(w => { const i = w._k.indexOf(q); if (i === 0 || w._k.indexOf('\n' + q) >= 0) starts.push(w); else if (i > 0) has.push(w); });
+      l = starts.concat(has);
+    }
+    return l;
+  }
+  function topicOptions() {
+    const counts = {};
+    wordsBase().forEach(w => (w.topics || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
+    if (state.topic && !counts[state.topic]) state.topic = '';
+    const keys = Object.keys(counts).sort((a, b) => (a === 'other') - (b === 'other') || counts[b] - counts[a]);
+    return '<option value="">All topics</option>' + keys.map(k => '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' +
+      (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
+  }
+  function viewWords() {
+    const opt = (v, label, cur) => '<option value="' + v + '"' + (v === cur ? ' selected' : '') + '>' + label + '</option>';
+    $('#main').innerHTML =
+      '<h1>All words</h1>' +
+      '<p class="lead">Search all ' + WORDS.length.toLocaleString('en-US') + ' words. Sorted by how often the English word is used, most common first.</p>' +
+      '<div class="search-row">' + SEARCH + '<input class="search" id="q" type="search" placeholder="Search in English or Ukrainian" autocomplete="off" value="' + esc(state.q) + '"></div>' +
+      '<div class="filters">' +
+        '<select class="sel" id="f-band" aria-label="How common">' + opt('', 'All frequencies', state.band) +
+          BANDS.map(b => opt(b, BAND_NAMES[b], state.band)).join('') + '</select>' +
+        '<select class="sel" id="f-topic" aria-label="Topic"></select>' +
+        '<select class="sel" id="f-kind" aria-label="Kind">' + opt('', 'All kinds', state.kind) + opt('s', '★ English too', state.kind) +
+          opt('a', 'Anglicisms', state.kind) + opt('x', 'Exclamations', state.kind) + '</select>' +
+        '<label class="chk" title="Hide pairs where the Ukrainian word is slang or rare (піпл, френд) and rude English words">' +
+          '<input type="checkbox" id="f-ns"' + (state.hideNs ? ' checked' : '') + '> Hide slang</label>' +
+        viewSwitch() + '<span class="count" id="count"></span></div>' +
+      '<div id="cards"></div>';
+    refreshWords();
+  }
+  function refreshWords(keepIdx) {
+    const t = $('#f-topic'); if (t) t.innerHTML = topicOptions();
+    const list = wordsList();
+    $('#count').textContent = plural(list.length, 'word');
+    if (!keepIdx) state.idx = 0;
+    showCards(list);
+    store.set('sw.filters', { band: state.band, topic: state.topic, kind: state.kind });
+  }
+
+  // ---------- My words
+  function viewMine() {
+    const list = WORDS.filter(w => mine.has(w.id));
+    $('#main').innerHTML = '<h1>My words</h1>' +
+      (list.length
+        ? '<p class="lead">' + plural(list.length, 'word') + ' saved in this browser. Press ✓ on a card to remove it.</p>' +
+          '<div class="actions"><button class="btn primary" id="practice">Practice my words</button><span class="spacer"></span>' + viewSwitch() + '</div><div id="cards"></div>'
+        : '<p class="lead">Press + on any card to save it here, then practice your words.</p>' +
+          '<div class="actions"><a class="btn primary" href="#learn">Start learning</a><a class="btn" href="#words">Browse all words</a></div>');
+    state.idx = 0;
+    if (list.length) showCards(list);
+  }
+
+  // ---------- Practice: see the Ukrainian word, recall the English word
+  let tr = null;
+  function startPractice(words, title, lesson) {
+    state.pool = words.slice(); state.poolTitle = title; state.poolLesson = lesson || '';
+    tr = null;
+    if (location.hash !== '#practice') location.hash = 'practice'; else viewPractice();
+  }
+  function viewPractice() {
+    if (!state.pool || !state.pool.length) {
+      const m = WORDS.filter(w => mine.has(w.id));
+      if (m.length) { state.pool = m; state.poolTitle = 'My words'; state.poolLesson = ''; }
+      else { $('#main').innerHTML = '<h1>Practice</h1><p class="lead">Open a lesson and press "Practice these words", or save words with +.</p><a class="btn primary" href="#learn">Go to lessons</a>'; return; }
+    }
+    if (!tr) { const q = shuffled(state.pool); tr = { queue: q, i: 0, shown: false, known: 0, again: [], missed: new Set(), total: q.length, round: 1 }; }
     if (tr.i >= tr.queue.length) {
       if (tr.again.length) { tr.queue = tr.again; tr.again = []; tr.i = 0; tr.round++; }
       else {
-        $('#main').innerHTML = '<div class="train"><div class="score">' + tr.known + ' / ' + tr.total + '</div>' +
-          '<div class="hint">known on the first try</div><div class="row"><button class="chip big primary" id="t-restart">Train again</button></div></div>';
+        if (state.poolLesson) { done.add(state.poolLesson); store.set('sw.done', Array.from(done)); }
+        $('#main').innerHTML = '<div class="train"><div class="hint">' + esc(state.poolTitle) + '</div><div class="score">' + tr.known + ' / ' + tr.total + '</div>' +
+          '<div class="hint">known on the first try' + (state.poolLesson ? ' · lesson marked as learned' : '') + '</div>' +
+          '<div class="row"><button class="btn primary" id="t-restart">Practice again</button>' +
+          (state.poolLesson ? '<a class="btn" href="#lesson/' + state.poolLesson + '">Back to the lesson</a>' : '<a class="btn" href="#learn">Lessons</a>') + '</div></div>';
         return;
       }
     }
     const w = tr.queue[tr.i];
-    $('#main').innerHTML = '<div class="train">' +
-      (tr.note ? '<div class="hint">' + esc(tr.note) + '</div>' : '') +
+    $('#main').innerHTML = '<div class="train"><div class="hint">' + esc(state.poolTitle) + '</div>' +
       '<div class="card"><div class="inner"><div class="face front">' +
         '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div><div class="eq">=</div>' +
         '<div class="en" style="--n:' + longest(w.en) + '">' + (tr.shown ? stressed(w) : '?') + '</div>' +
         (tr.shown && canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce">' + SAY + '</button>' : '') +
       '</div></div></div>' +
       '<div class="row">' + (tr.shown
-        ? '<button class="chip big" id="t-again">Again</button><button class="chip big primary" id="t-know">I knew it</button>'
-        : '<button class="chip big primary" id="t-show">Show English</button>') + '</div>' +
-      '<div class="count">' + (tr.round > 1 ? 'Round ' + tr.round + ' · ' : '') + (tr.i + 1) + ' / ' + tr.queue.length + '</div></div>';
+        ? '<button class="btn" id="t-again">Again</button><button class="btn primary" id="t-know">I knew it</button>'
+        : '<button class="btn primary" id="t-show">Show English</button>') + '</div>' +
+      '<div class="count">' + (tr.round > 1 ? 'Round ' + tr.round + ' · ' : '') + (tr.i + 1) + ' / ' + tr.queue.length + ' · keys: Space, 1, 2</div></div>';
   }
-  function trainAnswer(knew) {
+  function answer(knew) {
     const w = tr.queue[tr.i];
     if (knew) { if (!tr.missed.has(w.id)) tr.known++; } else { tr.missed.add(w.id); tr.again.push(w); }
-    tr.i++; tr.shown = false; renderTrain();
+    tr.i++; tr.shown = false; viewPractice();
   }
+
+  // ---------- routing
+  function route() {
+    let h = decodeURIComponent((location.hash || '').slice(1));
+    if (BANDS.indexOf(h.toLowerCase()) >= 0) { state.band = h.toLowerCase(); state.topic = ''; h = 'words'; }   // older links: #top-1000
+    if (h === 'stories' || /^story-/.test(h) || !h) h = 'learn';
+    if (h === 'train') h = 'practice';
+    const [r, arg] = h.split('/');
+    state.route = r; state.arg = arg || '';
+    document.querySelectorAll('.menu a').forEach(a => a.setAttribute('aria-current',
+      a.dataset.nav === (r === 'level' || r === 'lesson' || r === 'ex' ? 'learn' : r) ? 'page' : 'false'));
+    renderMineCount();
+    const needCourse = r === 'learn' || r === 'level' || r === 'lesson' || r === 'ex';
+    if (needCourse && !C()) {
+      $('#main').innerHTML = '<div class="blank">Loading…</div>';
+      loadCourse().then(route).catch(() => { $('#main').innerHTML = '<div class="blank">The lessons could not be loaded. <a href="#words">Browse all words</a></div>'; });
+      return;
+    }
+    if (r === 'level') viewLevel(state.arg);
+    else if (r === 'lesson') viewLesson(state.arg);
+    else if (r === 'ex') viewExclamations();
+    else if (r === 'words') viewWords();
+    else if (r === 'mine') viewMine();
+    else if (r === 'practice') viewPractice();
+    else viewLearn();
+    window.scrollTo(0, 0);
+  }
+  function renderMineCount() { const n = mine.size; $('#mine-n').textContent = n ? n : ''; }
 
   // ---------- events
   let swiped = false;
   document.addEventListener('click', e => {
     if (swiped) { swiped = false; return; }
-    const sw = e.target.closest && e.target.closest('.sw');
+    const sw = e.target.closest('.sw');
     if (sw) { storyWord(sw.dataset.sw); return; }
     const t = e.target.closest('button, .card');
     if (!t) return;
-    if (t.dataset.part) { const sec = document.getElementById('part-' + t.dataset.part); if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
-    if (t.id === 'ch-train') {
-      const ch = chapterOf(state.level);
-      if (ch) { state.trainPool = current().slice(); state.trainTitle = ch.c.title; go('train'); }
-      return;
-    }
     if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid), t); return; }
     if (t.dataset.add) {
       e.stopPropagation();
       const id = t.dataset.add;
       mine.has(id) ? mine.delete(id) : mine.add(id);
       store.set('sw.mine', Array.from(mine));
-      if (state.level === 'mine' && !mine.has(id)) {
-        const c = t.closest('.card'); if (c) c.remove();
-        const n = baseList('mine').length;
-        if (!n) { render(); return; }
-        $('#count').textContent = plural(n, 'word');
-        renderLevels(); return;
-      }
+      if (state.route === 'mine' && !mine.has(id)) { viewMine(); renderMineCount(); return; }
       t.classList.toggle('on', mine.has(id)); t.innerHTML = mine.has(id) ? CHECK : PLUS;
       t.setAttribute('aria-label', mine.has(id) ? 'Remove from my words' : 'Add to my words');
-      renderLevels(); return;
+      renderMineCount(); return;
     }
-    if (e.detail && t.closest('header, .tools')) t.blur();   // after a mouse click, Space/arrows go back to the cards
-    if (t.dataset.level) { go(t.dataset.level); return; }
-    if (t.dataset.view) { state.view = t.dataset.view; store.set('sw.view', state.view); render(); return; }
-    if (t.id === 'v-shuffle') { state.shuffled = !state.shuffled; state.order = null; state.idx = 0; render(); return; }
-    if (t.id === 'f-ns') { state.hideNs = !state.hideNs; store.set('sw.hideNs2', state.hideNs); state.order = null; state.idx = 0; tr = null; render(); return; }
+    if (t.dataset.view) {
+      state.view = t.dataset.view; store.set('sw.view', state.view);
+      document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
+      state.idx = 0; showCards(state.list); return;
+    }
+    if (t.dataset.collect) { state.kind = t.dataset.collect; state.band = ''; state.topic = ''; state.q = ''; location.hash = 'words'; return; }
+    if (t.dataset.sec) { const s = document.getElementById('sec-' + t.dataset.sec); if (s) s.scrollIntoView({ behavior: 'smooth' }); return; }
     if (t.id === 'show-more') { appendCards(); return; }
     if (t.id === 'prev') { move(-1); return; }
     if (t.id === 'next') { move(1); return; }
-    if (t.id === 't-show') { tr.shown = true; renderTrain(); playWord(tr.queue[tr.i]); return; }
-    if (t.id === 't-know') { trainAnswer(true); return; }
-    if (t.id === 't-again') { trainAnswer(false); return; }
-    if (t.id === 't-restart') { tr = null; renderTrain(); return; }
+    if (t.id === 'practice') {
+      if (state.route === 'lesson') { const f = findLesson(state.arg); if (f) startPractice(state.list, f.l.title, f.l.level ? f.l.id : ''); }
+      else startPractice(state.list, 'My words', '');
+      return;
+    }
+    if (t.id === 'learned') {
+      const id = state.arg; done.has(id) ? done.delete(id) : done.add(id); store.set('sw.done', Array.from(done));
+      t.classList.toggle('done', done.has(id)); t.textContent = done.has(id) ? '✓ Learned' : 'Mark as learned'; return;
+    }
+    if (t.id === 't-show') { tr.shown = true; viewPractice(); playWord(tr.queue[tr.i]); return; }
+    if (t.id === 't-know') { answer(true); return; }
+    if (t.id === 't-again') { answer(false); return; }
+    if (t.id === 't-restart') { tr = null; viewPractice(); return; }
     if (t.classList.contains('card') && !t.closest('.train')) {
       if (String(window.getSelection ? getSelection() : '')) return;   // selecting text should not flip
       flip(t);
     }
   });
-  $('#topic').addEventListener('change', e => { state.topic = e.target.value; state.order = null; state.idx = 0; render(); });
+  function storyWord(en) {   // a word in the story: say it and show its card
+    const w = BY_EN.get(en); if (!w) return;
+    playWord(w);
+    if (state.view === 'single') { const i = state.list.indexOf(w); if (i >= 0 && i !== state.idx) { state.idx = i; showCards(state.list); } }
+    const card = Array.from(document.querySelectorAll('.card')).find(c => c.dataset.id === w.id);
+    if (!card) return;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 1200);
+  }
+  let qTimer = null;
+  document.addEventListener('input', e => {
+    if (e.target.id === 'q') { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; refreshWords(); }, 120); }
+  });
+  document.addEventListener('change', e => {
+    const id = e.target.id;
+    if (id === 'f-band') { state.band = e.target.value; refreshWords(); }
+    else if (id === 'f-topic') { state.topic = e.target.value; refreshWords(); }
+    else if (id === 'f-kind') { state.kind = e.target.value; refreshWords(); }
+    else if (id === 'f-ns') { state.hideNs = e.target.checked; store.set('sw.hideNs2', state.hideNs); refreshWords(); }
+  });
   document.addEventListener('keydown', e => {
     if (e.target.closest && e.target.closest('input, textarea, select')) return;
-    if (state.level === 'train') {
-      if (!tr) return;
+    if (state.route === 'practice' && tr) {
       if ((e.key === ' ' || e.key === 'Enter') && !tr.shown && $('#t-show')) { e.preventDefault(); $('#t-show').click(); }
-      else if ((e.key === '1' || e.key === 'ArrowLeft') && tr.shown) trainAnswer(false);
-      else if ((e.key === '2' || e.key === 'ArrowRight') && tr.shown) trainAnswer(true);
+      else if ((e.key === '1' || e.key === 'ArrowLeft') && tr.shown) answer(false);
+      else if ((e.key === '2' || e.key === 'ArrowRight') && tr.shown) answer(true);
       return;
     }
-    if ((e.key === 'Enter' || e.key === ' ') && document.activeElement && document.activeElement.classList.contains('sw')) {
-      e.preventDefault(); storyWord(document.activeElement.dataset.sw); return;
-    }
-    if (state.level === 'stories') return;
-    if (e.key === 'ArrowRight' && state.view === 'single') move(1);
-    else if (e.key === 'ArrowLeft' && state.view === 'single') move(-1);
+    const a = document.activeElement;
+    if ((e.key === 'Enter' || e.key === ' ') && a && a.classList && a.classList.contains('sw')) { e.preventDefault(); storyWord(a.dataset.sw); return; }
+    if (e.key === 'ArrowRight' && state.view === 'single' && $('.single')) move(1);
+    else if (e.key === 'ArrowLeft' && state.view === 'single' && $('.single')) move(-1);
     else if (e.key === ' ' || e.key === 'Enter') {
-      const a = document.activeElement;
       if (a && a.tagName === 'BUTTON') return;
       const card = a && a.classList && a.classList.contains('card') ? a
         : (state.view === 'single' && (!a || a === document.body) ? document.querySelector('.single .card') : null);
@@ -734,32 +828,8 @@ select.chip { appearance: none; -webkit-appearance: none; padding-right: 28px; c
     sx = null;
     if (Math.abs(dx) > 50 && Math.abs(dx) > 1.5 * Math.abs(dy)) { swiped = true; move(dx < 0 ? 1 : -1); setTimeout(() => { swiped = false; }, 400); }
   });
-  function move(d) {
-    const n = current().length; if (!n) return;
-    state.idx = (state.idx + d + n) % n; render();
-    const c = document.querySelector('.single .card'); if (c) c.focus({ preventScroll: true });
-  }
-  const keepsPrev = level => level !== 'train' && level !== 'mine' && level !== 'stories';
-  function go(level) {
-    if (keepsPrev(level)) state.prev = level;
-    if (location.hash.slice(1) !== level) { location.hash = level; return; }   // hashchange renders, so Back works
-    open(level);
-  }
-  function open(level) {
-    if (level === 'train' || state.level === 'train') tr = null;
-    if (level !== 'train') state.trainPool = null;
-    if (keepsPrev(level)) state.prev = level;
-    state.level = level; state.order = null; state.idx = 0;
-    render();
-    if (isStory(level) || level === 'stories') window.scrollTo(0, 0);
-  }
-  function fromHash() {
-    const h = (location.hash || '').slice(1).toLowerCase();
-    if (LEVELS.indexOf(h) >= 0 || h === 'mine' || h === 'train' || h === 'stories' || isStory(h)) return h;
-    return LEVELS.find(x => (byLevel[x] || []).length) || LEVELS[0];
-  }
-  window.addEventListener('hashchange', () => open(fromHash()));
+  window.addEventListener('hashchange', route);
   if (canSpeak) { try { speechSynthesis.getVoices(); } catch (e) {} }
-  open(fromHash());
+  route();
 })();
 </script>

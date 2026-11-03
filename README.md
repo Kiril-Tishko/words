@@ -5,12 +5,18 @@ Flip cards of English words that are the same in Ukrainian (taxi = таксі, c
 Open `index.html` in a browser. It works offline, and on any static host such as GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-- **Bands**: Top 1000, Top 2000, Top 3000, Top 5000, Top 10K, Top 20K, Top 50K, Top 100K and Rare. A word's band is its rank among the most used English words, counted **in the meaning on the card** (see Frequency). Cards go from most to least used.
-- **Grid** shows 4 cards per row (3 on tablets, 1 on phones) and loads more as you scroll. **One by one** shows one big card: ← → keys or swipe, Space flips. **Shuffle** mixes the order; press it again for frequency order.
-- **Front**: the English word with its stressed vowel underlined, "=", and the Ukrainian word. 🇬🇧 marks words used only in British English. 🔊 plays a recorded pronunciation.
-- **Back**: a picture place, the word with its grammar ("a photo · photos", "rice · uncountable"), its rank, a **Say:** line with the usual word partners (take a photo · in the photo), 4 example sentences, English labels (informal, technical…) and a usage note when needed. Notes and labels are about the English word only.
-- **Hide slang** (on by default) hides pairs whose Ukrainian word is slang, colloquial or rare (people = піпл), and rude English words. **Topics** filters a band by topic.
-- **+** adds a card to **My words** (saved in this browser). **Train** (basic): see the Ukrainian word, recall the English one, mark "I knew it" or "Again"; missed cards come back in a second round. Without saved words it uses 10 sample cards of the current band.
+Three places, in the top bar:
+- **Learn**: the course. Six levels (A0 Starter, A1, A2, B1, B2, C1), each split into topic sections and short lessons of 6–10 words.
+  - Each lesson is a story written at the lesson's level. An A0 story uses 3–7-word sentences in the present simple; B2 and C1 stories are natural text.
+  - A lesson only teaches words of its own level. Tap a highlighted word to hear it and see its card.
+  - **Practice these words** drills the lesson: see the Ukrainian word, recall the English one. Finishing it marks the lesson as learned, and progress shows on the level tiles.
+  - Collections: **Exclamations** (wow, oops, ciao… in short dialogues), **★ English too**, **Anglicisms**.
+- **Words**: all 13,000+ cards. Search in English or Ukrainian. Filter by frequency (Top 1000 … Rare), topic and kind (★ English too, anglicisms, exclamations). **Hide slang** hides pairs whose Ukrainian word is slang (people = піпл) and rude English words. Grid or One by one.
+- **My words**: cards saved with **+**, with Practice.
+
+Cards:
+- **Front**: the English word with its stressed vowel underlined, "=", and the Ukrainian word. 🇬🇧 marks British-only words, and 🔊 plays the recording.
+- **Back**: a picture, grammar ("a photo · photos"), rank, word partners ("Say:"), 4 examples and an English-only note.
 
 ### Marks
 Two small badges on the card (front, bottom right), chosen by agents for every card (`tools/workflows/word-marks.js` → `data/marks/`):
@@ -19,8 +25,10 @@ Two small badges on the card (front, bottom right), chosen by agents for every c
 
 The **Topics** menu can show only one kind ("★ English too", "Anglicisms") in any band.
 
-### Stories
-The **Stories** tab groups the 2,284 most useful words (Top 1000 to Top 20K, plus all exclamations) into 200 short scenes in 20 parts.
+### How the lessons are made
+Every course word has a CEFR level (Cambridge Starters, CEFR-J and Octanove lists, or the checker's level for the card's meaning). The course holds all A0–B2 words and the C1 words of Top 20K: 2,590 words in 318 lessons.
+- `tools/build_course.py` runs the pipeline. `tools/workflows/course-group.js` groups each level's words into scenes, keeping very similar words together (mister / Mrs. / Miss). `tools/workflows/course-write.js` writes each story at the lesson's level. The result is `data/course/course.json`, which becomes `course.js`.
+- The earlier topic-based Stories outline (`data/stories/`, `docs/review/grouping.md`) is kept: the Exclamations dialogues come from it, and so do the families of similar words.
 - **The grouping:** a linguist designed parts that run like a course: first words, café, shopping, travel, work, home, health, sport, media, the wider world. Each part is split into chapters. Each chapter is one scene with Anna, a student in Kyiv, and her friend Max (`docs/review/grouping.md`).
 - **The story:** each chapter has a short, simple English story that uses its words in order. Click a word to hear it and see its card. The cards follow in the same order, and **Train these words** drills the chapter.
 - **Exclamations:** wow, oops, hmm, bravo, ciao, meow and the like have their own part at the end, with short dialogues.
