@@ -5,24 +5,41 @@ Flip cards of English words that are the same in Ukrainian (taxi = таксі, c
 Open `index.html` in a browser. It works offline, and on any static host such as GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-Three places, in the top bar:
-- **Learn**: the course. Six levels (A0 Starter, A1, A2, B1, B2, C1), each split into topic sections and short lessons of 6–10 words.
-  - Each lesson is a story written at the lesson's level. An A0 story uses 3–7-word sentences in the present simple; B2 and C1 stories are natural text.
-  - A lesson only teaches words of its own level. Tap a highlighted word to hear it and see its card.
-  - **Practice these words** drills the lesson in three ways:
-    - **Say it**: see the Ukrainian word, say the English one aloud, then check.
-    - **Listen**: hear the English word, recall it.
-    - **Type it**: type the English spelling.
+The interface is in Ukrainian; the words, stories and examples are in English (`docs/review/sla-review.md`, a review by a professor of applied linguistics and second-language acquisition).
 
-    Finishing a drill marks the lesson as learned and offers the next lesson.
-  - **Review**: every practiced word comes back after 1, 3, 7, 14, 30 and 60 days (a miss starts it again). The home page shows a **Review** button when words are due. Progress is kept in the browser.
-  - Collections: **Almost the same** (problem ≈ проблема), **Exclamations** (wow, oops, ciao… in short dialogues), **★ English too**, **Anglicisms**.
-- **Words**: all 13,000+ cards. Search in English or Ukrainian. Filter by frequency (Top 1000 … Rare), topic and kind (★ English too, anglicisms, exclamations, almost the same). **Hide slang** hides pairs whose Ukrainian word is slang (people = піпл) and rude English words.
-  - Three views: **Grid** (flip cards), **One by one**, **List**. Phones start with List; tap a row to see its examples.
-- **My words**: cards saved with **+**, with Practice.
+- **First visit**: the first screen ("Ви вже знаєте тисячі англійських слів") plays three words whose stress moves: інтернЕт → INternet, студЕнт → STUdent, таксІ → TAXi. **Почати · 5 хвилин** starts a ready first session of 12 frequent words, with no choices to make. The session has four steps:
+  - hear the word and pick its Ukrainian twin
+  - tap the stressed syllable
+  - fill in the missing letters (ph, c, ll)
+  - pick the word partner (take a photo, two million dollars, an idea)
+
+  It ends with one false friend (magazine ≠ магазин).
+- **Return visits**: one daily session. Words that are due for review come first, then the next 8 words by frequency, then one false friend. The home page shows how many words the student can already say (right on two different days) and the days practiced this week.
+- **Practice** checks every answer:
+  - hear and pick
+  - tap the stress
+  - hear and type
+  - type from the Ukrainian word
+
+  A wrong answer comes back once at the end, and the first wrong letter is marked. "Як тренуватися?" switches to a single format, including "Скажіть" (say it aloud and check yourself).
+- **Review**: each word comes back after 1, 3, 7, 14, 30 and 60 days. It moves up only when it is answered right on the day it is due, and a self-check lifts it no higher than box 2.
+- **Learn**: six levels (A0 … C1) with 318 short lessons. Each lesson has its words and a story at the lesson's level.
+  - **▶ Послухати всі** plays the lesson's words, and **▶ Слухати** reads the story sentence by sentence.
+  - Tapping a story word shows it in a bubble with its sound.
+  - A0–A1 lessons show the words before the story.
+- **Collections**:
+  - **Майже однакові** (problem ≈ проблема)
+  - **Обережно!** (30 false friends)
+  - **Вигуки**
+  - **★ Теж англійські**
+  - **Англіцизми**
+- **Words**: all 13,000+ cards. Search in English or Ukrainian, and filter by frequency, topic and kind.
+  - **Без сленгу** hides rude words and the slang pairs outside the 2,000 most used words, so hello, OK and sorry stay findable.
+  - Three views: Grid (flip cards), One by one, List. Phones start with List; tap a row to see its examples.
+- **Мої слова**: cards saved with **+**, with practice.
 
 Cards:
-- **Front**: the English word with its stressed vowel underlined, "=", and the Ukrainian word. 🇬🇧 marks British-only words, and 🔊 plays the recording.
+- **Front**: the English word with its stressed vowel coloured and underlined, "=", and the Ukrainian word. On 58 frequent cards whose Ukrainian twin is stressed on another syllable, a line shows both: «укр. президЕнт · англ. PREsident». 🇬🇧 marks British-only words, and 🔊 plays the recording.
 - **Back**: a picture, grammar ("a photo · photos"), rank, word partners ("Say:"), 4 examples and an English-only note.
 
 ### Marks

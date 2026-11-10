@@ -19,6 +19,7 @@
   --accent: #1f5fbf;
   --accent-soft: #e7eefb;
   --ok: #1e8a57;
+  --bad: #c0392b;
   --word: "Literata", "PT Serif", Georgia, "Times New Roman", serif;
   --ui: "Golos Text", "Segoe UI", system-ui, -apple-system, Roboto, sans-serif;
   --shadow: 0 1px 2px rgba(20, 28, 45, .05), 0 3px 10px rgba(20, 28, 45, .04);
@@ -27,12 +28,12 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #101216; --card: #1a1d23; --fg: #eceef2; --muted: #9aa1ae; --line: #2b2f38;
-    --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+    --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --bad: #ff7b72; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #101216; --card: #1a1d23; --fg: #eceef2; --muted: #9aa1ae; --line: #2b2f38;
-  --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
+  --accent: #7eaaf0; --accent-soft: #1c2940; --ok: #4cc38a; --bad: #ff7b72; --shadow: 0 1px 2px rgba(0,0,0,.4); color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
@@ -53,7 +54,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .menu a:hover { color: var(--fg); }
 .menu a[aria-current="page"] { color: var(--fg); background: var(--card); box-shadow: var(--shadow); }
 .menu small { color: var(--muted); font-size: 12px; margin-left: 4px; font-variant-numeric: tabular-nums; }
-@media (max-width: 560px) { .brand span { display: none; } .menu a { padding: 7px 10px; } }
+@media (max-width: 560px) { .brand span { display: none; } .menu { gap: 0; } .menu a { padding: 7px 8px; font-size: 14px; } .brand { font-size: 17px; } .top-in { gap: 6px; } }
 
 main { width: 100%; max-width: 1080px; margin: 0 auto; padding: 28px max(16px, env(safe-area-inset-left, 0px)) 40px; flex: 1 0 auto; }
 @media (max-width: 560px) { main { padding-top: 20px; } }
@@ -88,7 +89,7 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 .lv .stats { color: var(--muted); font-size: 12.5px; margin-top: 8px; font-variant-numeric: tabular-nums; }
 .prog { height: 4px; border-radius: 4px; background: var(--line); margin-top: 6px; overflow: hidden; }
 .prog i { display: block; height: 100%; background: var(--lc); border-radius: 4px; }
-.cols { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
 @media (max-width: 900px) { .cols { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 380px) { .cols { grid-template-columns: minmax(0, 1fr); } }
 .all-link { display: inline-block; margin-top: 16px; font-weight: 500; }
@@ -169,7 +170,10 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 .en { font-size: clamp(24px, 2.9vw, 34px); font-size: clamp(22px, min(16cqi, 150cqi / var(--n, 6)), var(--max-en, 60px)); font-weight: 600; }
 .uk { font-size: clamp(21px, 2.5vw, 29px); font-size: clamp(19px, min(13.5cqi, 135cqi / var(--n, 6)), var(--max-uk, 50px)); font-weight: 500; color: var(--muted); }
 .eq { color: var(--muted); opacity: .6; font: 400 20px/1 var(--ui); font-size: clamp(18px, 7.5cqi, 30px); margin: .3em 0 .2em; }
-.st { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: .16em; text-decoration-color: var(--accent); }
+.st { color: var(--accent); text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: .16em;
+  text-decoration-color: color-mix(in srgb, var(--accent) 60%, transparent); }
+.ukst { font: 500 12.5px/1.3 var(--ui); color: var(--muted); margin-top: 8px; letter-spacing: .01em; }
+.ukst b { color: var(--fg); font-weight: 600; }
 .more { display: flex; justify-content: center; padding-top: 12px; }
 .flag { position: absolute; top: 12px; left: 12px; width: 22px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 .icon { position: absolute; width: 32px; height: 32px; border-radius: 8px; display: grid; place-items: center; color: var(--muted); }
@@ -254,11 +258,105 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 .answer:focus { outline: none; border-color: var(--accent); }
 .verdict { font-size: 15px; } .verdict.ok { color: var(--ok); } .verdict.no { color: #c0392b; }
 
+/* home */
+.hero { margin: 0 0 36px; }
+.hero h1 { font-size: clamp(28px, 5vw, 42px); max-width: 21ch; }
+.en-sub { color: var(--muted); font-size: 14px; margin: -2px 0 14px; }
+.hero .lead { margin-bottom: 18px; color: var(--fg); }
+.demo-l { font-size: 14px; color: var(--muted); margin-bottom: 8px; }
+.demo { display: flex; flex-wrap: wrap; gap: 8px; }
+.demo-b { display: inline-flex; align-items: center; gap: 8px; padding: 9px 12px 9px 14px; border-radius: 12px; border: 1px solid var(--line);
+  background: var(--card); box-shadow: var(--shadow); font-size: 16px; }
+.demo-b:hover { border-color: var(--accent); }
+.demo-b .arr { color: var(--muted); }
+.demo-b [lang=en] { font-family: var(--word); font-weight: 600; font-size: 17px; }
+.demo-b [lang=en] b { color: var(--accent); font-weight: 700; }
+.demo-b svg { width: 18px; height: 18px; color: var(--accent); }
+.demo-after { margin: 10px 0 0; }
+.hero-go { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin-top: 20px; }
+.btn.big { padding: 13px 26px; font-size: 17px; }
+.small { color: var(--muted); font-size: 13px; }
+.progress-line { color: var(--muted); font-size: 14px; margin-top: 16px; }
+.dots { letter-spacing: 1px; color: var(--ok); }
+.sec-h { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.sec-h span { font: 400 13px var(--ui); color: var(--muted); }
+.col.warn b { color: var(--bad); }
+
+/* lesson: story with sound, word bubble */
+.story-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 26px 0 0; flex-wrap: wrap; max-width: calc(81.6ch + 50px); }
+.story-head h2 { margin: 0; }
+.btn.small { padding: 6px 12px; font-size: 13.5px; }
+.story .sent.on { background: color-mix(in srgb, var(--accent-soft) 80%, transparent); border-radius: 4px; }
+.bubble { position: absolute; z-index: 30; display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; max-width: min(92vw, 380px);
+  padding: 8px 8px 8px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 8px 28px rgba(20, 28, 45, .18); }
+.bubble .b-en { font: 600 20px var(--word); }
+.bubble .b-eq { color: var(--muted); }
+.bubble .b-uk { font: 500 18px var(--word); color: var(--muted); margin-right: 4px; }
+.bubble .ukst { flex-basis: 100%; margin: 0 0 2px; }
+.bubble .icon { position: static; }
+.playing .face, .rw.playing { box-shadow: 0 0 0 2px var(--accent); }
+.note.warn { color: var(--fg); border-top: 0; padding-top: 0; margin-top: 0; }
+.note.warn::before { content: "⚠ "; }
+.say-ph { position: static; display: inline-grid; width: 24px; height: 24px; vertical-align: middle; }
+.say-ph svg { width: 15px; height: 15px; }
+
+/* false friends */
+.ff { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 900px) { .ff { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .ff { grid-template-columns: minmax(0, 1fr); } }
+.ffc { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 14px 16px; }
+.ff-h { font: 600 21px var(--word); display: flex; align-items: baseline; gap: 8px; padding-right: 36px; flex-wrap: wrap; }
+.ff-h .ne { color: var(--bad); }
+.ff-h [lang=uk] { color: var(--muted); font-weight: 500; }
+.ff-r { font-size: 14.5px; margin-top: 6px; }
+.ff-r.muted { color: var(--muted); }
+.ffc .icon { top: 10px; right: 10px; }
+
+/* Words: filters fold on phones */
+.filt > summary { display: none; }
+.wbar { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 0 0 14px; flex-wrap: wrap; }
+@media (max-width: 560px) {
+  .filt > summary { display: inline-flex; list-style: none; cursor: pointer; padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: var(--card); font-size: 14px; margin: 0 0 10px; }
+  .filt > summary::-webkit-details-marker { display: none; }
+}
+
 /* practice */
+.pbar { width: min(520px, 100%); height: 4px; border-radius: 4px; background: var(--line); overflow: hidden; }
+.pbar i { display: block; height: 100%; background: var(--accent); border-radius: 4px; transition: width .3s; }
+.pcard { width: min(520px, 100%); min-height: 200px; background: var(--card); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow);
+  padding: 22px 18px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; container-type: inline-size; --max-en: 64px; --max-uk: 54px; }
+.pcard .uk.big { color: var(--fg); font-weight: 600; }
+.pcard .uk-small { font: 500 17px var(--word); color: var(--muted); }
+.reveal { display: flex; flex-direction: column; align-items: center; margin-top: 6px; }
+.opts { display: grid; gap: 10px; width: min(520px, 100%); }
+.opt { padding: 13px 16px; border-radius: 14px; border: 1px solid var(--line); background: var(--card); font: 500 20px var(--word); box-shadow: var(--shadow); }
+.opt:hover:not([disabled]), .sy:hover:not([disabled]) { border-color: var(--accent); }
+.opt.good, .sy.good { border-color: var(--ok); background: color-mix(in srgb, var(--ok) 14%, var(--card)); color: var(--ok); }
+.opt.bad, .sy.bad { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--card)); color: var(--bad); }
+.opt[disabled], .sy[disabled] { cursor: default; }
+.syl { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: center; margin: 8px 0; }
+.sy { padding: 10px 16px; border-radius: 12px; border: 1px solid var(--line); background: var(--bg); font: 600 28px var(--word); min-width: 58px; }
+.syl .dot { color: var(--muted); }
+.fb { font-size: 15.5px; text-align: center; max-width: 46ch; margin-top: 6px; }
+.fb b, .i-text b { color: var(--accent); }
+.pat { font: 600 34px var(--word); letter-spacing: .03em; }
+.gsent { font: 500 23px/1.4 var(--word); text-align: center; }
+.gap { color: var(--accent); border-bottom: 2px solid var(--accent); padding: 0 3px; }
+.pcard.info { text-align: center; gap: 10px; }
+.i-title { font: 600 22px var(--word); }
+.i-text { font-size: 17px; max-width: 40ch; }
+.pcard.warn .i-title { color: var(--bad); }
+.verdict mark { background: color-mix(in srgb, var(--bad) 28%, transparent); color: inherit; border-radius: 3px; padding: 0 1px; }
+.pmode { margin-top: 18px; text-align: center; }
+.pmode summary { color: var(--muted); font-size: 13px; cursor: pointer; }
+.pmode .seg { margin-top: 8px; }
+.done-h { margin: 4px 0 0; }
+.lead.c { text-align: center; margin: 0 auto; }
 .train { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; --max-en: 84px; --max-uk: 70px; }
 .train .card { width: min(520px, 100%); aspect-ratio: 3 / 2; cursor: default; }
 .train .uk { color: var(--fg); font-weight: 600; }
-.train .en { color: var(--accent); }
+.train .en { color: var(--fg); }
 .train .hint { color: var(--muted); font-size: 13.5px; max-width: 50ch; }
 .row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
 .score { font-family: var(--word); font-size: 30px; }
@@ -280,13 +378,13 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 <header class="top"><div class="top-in">
   <a class="brand" href="#learn">Same Words <span lang="uk">· Однакові слова</span></a>
   <nav class="menu" aria-label="Main">
-    <a href="#learn" data-nav="learn">Learn</a>
-    <a href="#words" data-nav="words">Words</a>
-    <a href="#mine" data-nav="mine">My words<small id="mine-n"></small></a>
+    <a href="#learn" data-nav="learn">Навчання</a>
+    <a href="#words" data-nav="words">Слова</a>
+    <a href="#mine" data-nav="mine">Мої слова<small id="mine-n"></small></a>
   </nav>
 </div></header>
 <main id="main"></main>
-<footer class="foot">Pictures: Noto Emoji by Google (Apache 2.0) · Voice: Kokoro-82M</footer>
+<footer class="foot">Картинки: Noto Emoji, Google (Apache 2.0) · Голос: Kokoro-82M</footer>
 
 <script src="words.js"></script>
 <script>
@@ -296,16 +394,52 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   const BY_ID = new Map(WORDS.map(w => [w.id, w]));
   const BY_EN = new Map(WORDS.map(w => [w.en, w]));
   const BANDS = ['top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k', 'top-20k', 'top-50k', 'top-100k', 'rare'];
-  const BAND_NAMES = { 'top-1000': 'Top 1000', 'top-2000': 'Top 2000', 'top-3000': 'Top 3000', 'top-5000': 'Top 5000',
-    'top-10k': 'Top 10K', 'top-20k': 'Top 20K', 'top-50k': 'Top 50K', 'top-100k': 'Top 100K', 'rare': 'Rare' };
-  const TOPIC_NAMES = { food: 'Food', drinks: 'Drinks', sport: 'Sport', music: 'Music', art: 'Art', media: 'Media', tech: 'Tech',
-    science: 'Science', medicine: 'Medicine', chemistry: 'Chemistry', physics: 'Physics', biology: 'Biology', math: 'Math',
-    transport: 'Transport', clothing: 'Clothing', home: 'Home', business: 'Business', finance: 'Finance', politics: 'Politics',
-    law: 'Law', military: 'Military', religion: 'Religion', education: 'Education', people: 'People', nature: 'Nature',
-    places: 'Places', travel: 'Travel', games: 'Games', language: 'Language', units: 'Units', time: 'Time', emotions: 'Emotions',
-    history: 'History', philosophy: 'Philosophy', other: 'Other' };
-  const MARKS = { s: ['★ English too', 'Surprise: you might not expect this word to exist in English'],
-                  a: ['anglicism', 'Ukrainians use this as an English word (like містер, стаф)'] };
+  const BAND_NAMES = { 'top-1000': 'Топ 1000', 'top-2000': 'Топ 2000', 'top-3000': 'Топ 3000', 'top-5000': 'Топ 5000',
+    'top-10k': 'Топ 10 000', 'top-20k': 'Топ 20 000', 'top-50k': 'Топ 50 000', 'top-100k': 'Топ 100 000', 'rare': 'Рідкісні' };
+  const TOPIC_NAMES = { food: 'Їжа', drinks: 'Напої', sport: 'Спорт', music: 'Музика', art: 'Мистецтво', media: 'Медіа', tech: 'Техніка',
+    science: 'Наука', medicine: 'Медицина', chemistry: 'Хімія', physics: 'Фізика', biology: 'Біологія', math: 'Математика',
+    transport: 'Транспорт', clothing: 'Одяг', home: 'Дім', business: 'Бізнес', finance: 'Фінанси', politics: 'Політика',
+    law: 'Право', military: 'Військова справа', religion: 'Релігія', education: 'Освіта', people: 'Люди', nature: 'Природа',
+    places: 'Місця', travel: 'Подорожі', games: 'Ігри', language: 'Мова', units: 'Одиниці', time: 'Час', emotions: 'Емоції',
+    history: 'Історія', philosophy: 'Філософія', other: 'Інше' };
+  const MARKS = { s: ['★ теж англійське', 'Несподіванка: це слово є і в англійській'],
+                  a: ['англіцизм', 'Українці вживають це як англійське слово (містер, стаф)'] };
+  const LEVEL_UK = { A0: ['Старт', 'Перші слова: речі, які можна побачити й показати.'],
+    A1: ['Початковий', 'Щоденні слова: люди, місця, їжа, плани.'],
+    A2: ['Елементарний', 'Робота, подорожі, покупки, ваш день.'],
+    B1: ['Середній', 'Новини, здоров’я, думки, світ навколо.'],
+    B2: ['Вище середнього', 'Бізнес, суспільство, наука, культура.'],
+    C1: ['Просунутий', 'Рідші слова зі статей, фільмів і книжок.'] };
+  // frequent cards whose Ukrainian twin is stressed on another syllable (checked list, docs/review/sla-review.md)
+  const UK_STRESS = {
+    student: 'студЕнт', moment: 'момЕнт', president: 'президЕнт', season: 'сезОн', million: 'мільйОн',
+    process: 'процЕс', secret: 'секрЕт', agent: 'агЕнт', model: 'модЕль', partner: 'партнЕр',
+    internet: 'інтернЕт', product: 'продУкт', project: 'проЄкт', contract: 'контрАкт', officer: 'офіцЕр',
+    material: 'матеріАл', football: 'футбОл', album: 'альбОм', minister: 'мінІстр', episode: 'епізОд',
+    client: 'кліЄнт', actor: 'актОр', document: 'докумЕнт', metal: 'метАл', talent: 'талАнт',
+    visit: 'візИт', ocean: 'океАн', expert: 'експЕрт', progress: 'прогрЕс', contact: 'контАкт',
+    website: 'вебсАйт', signal: 'сигнАл', detective: 'детектИв', lieutenant: 'лейтенАнт',
+    interview: "інтерв'Ю", festival: 'фестивАль', concert: 'концЕрт', theater: 'теАтр',
+    telephone: 'телефОн', basketball: 'баскетбОл', journalist: 'журналІст', pilot: 'пілОт',
+    palace: 'палАц', budget: 'бюджЕт', region: 'регІон', champion: 'чемпіОн', candidate: 'кандидАт',
+    tourist: 'турИст', menu: 'менЮ', comfort: 'комфОрт', taxi: 'таксІ', helicopter: 'гелікОптер',
+    calendar: 'календАр', final: 'фінАл', lemon: 'лимОн', concept: 'концЕпт', sofa: 'софА', picnic: 'пікнІк' };
+  const SOUND_NOTE = { computer: 'Наголос той самий, але перше o слабке: kəm-PYOO-tər.',
+    hotel: 'Наголос той самий, але h — це легкий видих, а не українське г.' };
+  // look-alikes that mean something else: [English, Ukrainian look-alike, what the English word means, what the Ukrainian word means]
+  const FALSE = [
+    ['magazine', 'магазин', 'журнал', 'shop, store'], ['list', 'лист', 'список', 'letter; leaf'], ['data', 'дата', 'дані', 'date (day)'],
+    ['actual', 'актуальний', 'справжній, фактичний', 'topical, relevant now'], ['accurate', 'акуратний', 'точний', 'neat, careful'],
+    ['fabric', 'фабрика', 'тканина', 'factory'], ['piece', "п'єса", 'шматок', 'a play (theater)'], ['step', 'степ', 'крок', 'steppe'],
+    ['personal', 'персонал', 'особистий', 'staff'], ['sympathy', 'симпатія', 'співчуття', 'liking'],
+    ['intelligent', 'інтелігентний', 'розумний', 'well-mannered, cultured'], ['prospect', 'проспект', 'перспектива', 'avenue'],
+    ['genial', 'геніальний', 'привітний', 'brilliant'], ['balloon', 'балон', 'повітряна кулька', 'gas cylinder'], ['clay', 'клей', 'глина', 'glue'],
+    ['novel', 'новела', 'роман', 'short story'], ['smoking', 'смокінг', 'куріння', 'tuxedo'], ['herb', 'герб', 'трава, зелень', 'coat of arms'],
+    ['family', 'фамілія', "сім'я", 'surname'], ['artist', 'артист', 'художник', 'performer'], ['decade', 'декада', 'десятиліття', 'ten days'],
+    ['chef', 'шеф', 'кухар', 'boss'], ['cabinet', 'кабінет', 'шафка', 'office (room)'], ['lunatic', 'лунатик', 'божевільний', 'sleepwalker'],
+    ['transparent', 'транспарант', 'прозорий', 'banner'], ['replica', 'репліка', 'копія', 'remark, line'], ['pathetic', 'патетичний', 'жалюгідний', 'solemn'],
+    ['realize', 'реалізувати', 'усвідомити', 'carry out; sell'], ['angina', 'ангіна', 'стенокардія', 'sore throat'],
+    ['preservative', 'презерватив', 'консервант', 'condom'] ];
   const PAGE = 120;
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
@@ -318,14 +452,23 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   const srs = store.get('sw.srs', {});
   const GAP = [0, 1, 3, 7, 14, 30, 60];
   const today = () => Math.floor((Date.now() - new Date().getTimezoneOffset() * 6e4) / 864e5);
-  function grade(w, ok) {
-    const box = ok ? Math.min(6, ((srs[w.id] || [0])[0]) + 1) : 1;
+  function grade(w, ok, cap) {
+    const cur = srs[w.id];
+    if (ok && cur && cur[1] > today()) return;      // right again before it is due: no step up (no cramming in one evening)
+    let box = ok ? Math.min(6, (cur ? cur[0] : 0) + 1) : 1;
+    if (ok && cap && box > cap) box = Math.max(cap, cur ? cur[0] : 0);   // "I knew it" lifts a word no higher than box 2
     srs[w.id] = [box, today() + GAP[box]];
     store.set('sw.srs', srs);
   }
+  const days = store.get('sw.days', []);
+  function markDay() { const d = today(); if (days[days.length - 1] !== d) { days.push(d); if (days.length > 90) days.shift(); store.set('sw.days', days); } }
+  const canSay = () => Object.keys(srs).filter(id => srs[id][0] >= 2).length;   // right on two different days
+  const nf = n => n.toLocaleString('uk-UA');
+  function pl(n, f) { const a = Math.abs(n) % 100, b = a % 10; return nf(n) + ' ' + (a > 10 && a < 20 ? f[2] : b === 1 ? f[0] : b >= 2 && b <= 4 ? f[1] : f[2]); }
+  const SL = ['слово', 'слова', 'слів'], UR = ['урок', 'уроки', 'уроків'], DN = ['день', 'дні', 'днів'];
   const dueIds = () => { const d = today(); return Object.keys(srs).filter(id => srs[id][1] <= d); };
   const saved = store.get('sw.filters', {});
-  const state = { route: 'learn', arg: '', pmode: store.get('sw.pmode', 'say'), view: store.get('sw.view', window.matchMedia && matchMedia('(max-width: 560px)').matches ? 'list' : 'grid'), idx: 0, list: [],
+  const state = { route: 'learn', arg: '', pmode: ({ say: 'say', hear: 'hear', type: 'type' })[store.get('sw.pmode2', 'mix')] || 'mix', view: store.get('sw.view', window.matchMedia && matchMedia('(max-width: 560px)').matches ? 'list' : 'grid'), idx: 0, list: [],
     q: '', band: saved.band || '', topic: saved.topic || '', kind: saved.kind || '', hideNs: store.get('sw.hideNs2', true),
     pool: null, poolTitle: '', poolLesson: '' };
 
@@ -453,9 +596,40 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 
   // ---------- card helpers
   function rankText(w) {
-    if (!w.rank || w.band === 'rare') return 'Rare in English';
-    if (w.approx) return 'About ' + BAND_NAMES[w.band].replace('Top', 'top') + ' word';
-    return '#' + w.rank.toLocaleString('en-US') + ' most used word';
+    if (!w.rank || w.band === 'rare') return 'Рідкісне в англійській';
+    if (w.approx) return 'Приблизно ' + BAND_NAMES[w.band].replace('Топ', 'топ');
+    return BAND_NAMES[w.band] + ' · №' + nf(w.rank);
+  }
+  // English syllables around vowel groups (in · ter · net): to tap the stress and to write PREsident
+  const ONSET = /^(?:bl|br|cl|cr|dr|fl|fr|gl|gr|pl|pr|sl|tr|wr|th|ch|sh|ph|wh|thr|str|spr|scr|spl|qu)$/;
+  function sylls(w) {
+    const s = w.en;
+    if (!w.st || s.length < 3 || /[\s\-.'’]/.test(s)) return null;
+    const re = /[aeiouyéèêëáàâäíìîïóòôöúùûü]+/gi, g = [];
+    let m;
+    while ((m = re.exec(s))) g.push([m.index, m.index + m[0].length]);
+    if (g.length > 1) { const L = g[g.length - 1]; if (L[1] === s.length && L[1] - L[0] === 1 && /e/i.test(s[L[0]]) && !/[^aeiou]le$/i.test(s)) g.pop(); }
+    if (g.length < 2) return null;
+    const cuts = [0];
+    for (let i = 1; i < g.length; i++) {
+      const a = g[i - 1][1], b = g[i][0], c = s.slice(a, b).toLowerCase();
+      const le = i === g.length - 1 && g[i][1] === s.length && /[^aeiou]le$/i.test(s) && c.length >= 2;   // peo|ple, ta|ble, lit|tle
+      let cut = c.length === 1 ? (c === 'x' ? b : a) : b - 1;
+      if (c.length > 1) for (let k = Math.min(3, c.length); k >= 2; k--) {   // se|cret, boy|friend, in|spec|tor (but bas|ket)
+        const o = c.slice(-k);
+        if (ONSET.test(o) || (k === 2 && c.length >= 3 && /^s[ptkc]$/.test(o))) { cut = b - k; break; }
+      }
+      cuts.push(le ? b - 2 : cut);
+    }
+    const parts = cuts.map((c, i) => ({ a: c, b: i + 1 < cuts.length ? cuts[i + 1] : s.length }));
+    parts.forEach(p => { p.t = s.slice(p.a, p.b); });
+    const k = parts.findIndex(p => w.st[0] >= p.a && w.st[0] < p.b);
+    return k < 0 ? null : { parts, k };
+  }
+  const capsEn = (w, sy) => sy ? sy.parts.map((p, i) => i === sy.k ? p.t.toUpperCase() : p.t).join('') : w.en;
+  function ukStressLine(w) {   // «укр. президЕнт · англ. PREsident» where the stress moves
+    const u = UK_STRESS[w.en]; if (!u) return '';
+    return '<div class="ukst" title="Наголос в українській і в англійській різний">укр. ' + esc(u) + ' · англ. <b>' + esc(capsEn(w, sylls(w))) + '</b></div>';
   }
   function stressed(w) {   // underline the stressed vowel, as the recording says it
     if (!w.st) return esc(w.en);
@@ -485,10 +659,10 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
         '<div class="face front">' +
           (w.british ? FLAG : '') +
           '<div class="en" style="--n:' + longest(w.en) + '">' + stressed(w) + '</div><div class="eq">' + (w.sim ? '≈' : '=') + '</div>' +
-          '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div>' +
-          (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') +
+          '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div>' + ukStressLine(w) +
+          (canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Вимова: ' + esc(w.en) + '">' + SAY + '</button>' : '') +
           (w.mk && MARKS[w.mk] ? '<span class="mk mk-' + w.mk + '" title="' + esc(MARKS[w.mk][1]) + '">' + esc(MARKS[w.mk][0]) + '</span>' : '') +
-          '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Remove from my words' : 'Add to my words') + '">' + (on ? CHECK : PLUS) + '</button>' +
+          '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Прибрати з моїх слів' : 'Додати до моїх слів') + '">' + (on ? CHECK : PLUS) + '</button>' +
         '</div>' +
         '<div class="face back" inert></div>' +    // filled on first flip
       '</div></div>';
@@ -496,15 +670,17 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   function rowHTML(w) {   // list view: say · English = Ukrainian · rank · +
     const on = mine.has(w.id);
     return '<div class="rw" data-row="' + esc(w.id) + '" tabindex="0" role="button" aria-expanded="false">' +
-      (canPlay(w) ? '<button class="icon" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '<span></span>') +
+      (canPlay(w) ? '<button class="icon" data-sayid="' + esc(w.id) + '" aria-label="Вимова: ' + esc(w.en) + '">' + SAY + '</button>' : '<span></span>') +
       '<span class="r-en">' + stressed(w) + '</span><span class="r-eq">' + (w.sim ? '≈' : '=') + '</span><span class="r-uk" lang="uk">' + esc(w.uk) + '</span>' +
-      '<span class="r-m">' + (w.mk && MARKS[w.mk] ? esc(MARKS[w.mk][0]) + ' · ' : '') + (w.rank && w.band !== 'rare' ? '#' + w.rank.toLocaleString('en-US') : 'rare') + '</span>' +
-      '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Remove from my words' : 'Add to my words') + '">' + (on ? CHECK : PLUS) + '</button></div>';
+      '<span class="r-m">' + (UK_STRESS[w.en] ? '<span title="Наголос не як в українській: ' + esc(UK_STRESS[w.en]) + '">наголос! · </span>' : '') +
+        (w.mk && MARKS[w.mk] ? esc(MARKS[w.mk][0]) + ' · ' : '') + (w.rank && w.band !== 'rare' ? '№' + nf(w.rank) : 'рідк.') + '</span>' +
+      '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Прибрати з моїх слів' : 'Додати до моїх слів') + '">' + (on ? CHECK : PLUS) + '</button></div>';
   }
   function backHTML(w) {
     const d = DET[w.id];
     const ex = ((d && d.ex) || []).filter(Boolean);
-    const tags = ((d && d.tags) || []).concat(w.mk === 'a' ? ['anglicism'] : w.mk === 's' ? ['★ English too'] : []);
+    const tags = ((d && d.tags) || []).concat(w.mk && MARKS[w.mk] ? [MARKS[w.mk][0]] : []);
+    const warn = d && d.note && /\bnot\b/.test(d.note);
     const gram = (d && d.gram) || w.pos || '';
     return '<div class="b-top">' +
         (w.img ? '<div class="pic has"><img src="' + esc(w.img) + '" alt="" loading="lazy" decoding="async" onerror="this.parentNode.classList.remove(\'has\');this.remove()"></div>'
@@ -512,17 +688,18 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
           : '') +
         '<div class="id">' +
           '<div class="head"><span>' + stressed(w) + '</span>' +
-            (canPlay(w) ? '<button class="icon say-btn" data-sayid="' + esc(w.id) + '" aria-label="Pronounce ' + esc(w.en) + '">' + SAY + '</button>' : '') + '</div>' +
+            (canPlay(w) ? '<button class="icon say-btn" data-sayid="' + esc(w.id) + '" aria-label="Вимова: ' + esc(w.en) + '">' + SAY + '</button>' : '') + '</div>' +
           (gram ? '<div class="meta">' + esc(gram) + '</div>' : '') +
           '<div class="rank">' + rankText(w) + '</div>' +
         '</div>' +
       '</div>' +
-      '<div class="txt">' +
-        (d && d.say ? '<div class="say-line"><span>Say:</span> ' + esc(d.say) + '</div>' : '') +
+      '<div class="txt">' + ukStressLine(w) +
+        (warn ? '<div class="note warn">' + esc(d.note) + '</div>' : '') +
+        (d && d.say ? '<div class="say-line"><span>Кажіть:</span> ' + esc(d.say) + sayPhrase(d.say) + '</div>' : '') +
         (ex.length ? '<ol>' + ex.map(e => '<li>' + mark(esc(e), w.en) + '</li>').join('') + '</ol>' : (d || w.sim ? '' : '<div class="loading">…</div>')) +
-        (w.sim ? '<div class="note">Almost the same in Ukrainian: ' + esc(w.uk) + '. Listen to how English says it.</div>' : '') +
+        (w.sim ? '<div class="note">Майже так само, як українське «' + esc(w.uk) + '». Послухайте, як це звучить англійською.</div>' : '') +
         (tags.length ? '<div class="tags">' + tags.map(t => '<span class="tag">' + esc(t) + '</span>').join('') + '</div>' : '') +
-        (d && d.note ? '<div class="note">' + esc(d.note) + '</div>' : '') +
+        (d && d.note && !warn ? '<div class="note">' + esc(d.note) + '</div>' : '') +
       '</div>';
   }
   function fillBack(card) {
@@ -532,19 +709,22 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     draw();
     if (!DET[w.id] && !w.sim) loadDetails(w.band).then(draw).catch(() => { const l = back.querySelector('.loading'); if (l) l.textContent = ''; });
   }
+  const sayPhrase = t => canSpeak ? '<button class="icon say-ph" data-speak="' + esc(t.replace(/ · /g, ', ')) + '" aria-label="Послухати">' + SAY + '</button>' : '';
   // list view: a row opens its details (examples, word partners, note) right under it
   function detailHTML(w) {
     const d = DET[w.id];
+    const warn = d && d.note && /\bnot\b/.test(d.note);
     const ex = ((d && d.ex) || []).filter(Boolean);
     const gram = (d && d.gram) || w.pos || '';
     const pic = w.img ? '<img class="d-pic" src="' + esc(w.img) + '" alt="" loading="lazy">'
       : d && d.svg ? '<img class="d-pic" alt="" src="data:image/svg+xml;charset=utf-8,' + encodeURIComponent(d.svg) + '">' : '';
     return pic + '<div class="d-txt">' +
-      '<div class="meta">' + (gram ? esc(gram) + ' · ' : '') + rankText(w) + '</div>' +
-      (d && d.say ? '<div class="say-line"><span class="meta">Say:</span> ' + esc(d.say) + '</div>' : '') +
+      '<div class="meta">' + (gram ? esc(gram) + ' · ' : '') + rankText(w) + '</div>' + ukStressLine(w) +
+      (warn ? '<div class="note warn">' + esc(d.note) + '</div>' : '') +
+      (d && d.say ? '<div class="say-line"><span class="meta">Кажіть:</span> ' + esc(d.say) + sayPhrase(d.say) + '</div>' : '') +
       (ex.length ? '<ol>' + ex.map(e => '<li>' + mark(esc(e), w.en) + '</li>').join('') + '</ol>' : (d || w.sim ? '' : '<div class="loading">…</div>')) +
-      (d && d.note ? '<div class="note">' + esc(d.note) + '</div>' : '') +
-      (w.sim ? '<div class="note">Almost the same in Ukrainian. Listen to how English says it.</div>' : '') + '</div>';
+      (d && d.note && !warn ? '<div class="note">' + esc(d.note) + '</div>' : '') +
+      (w.sim ? '<div class="note">Майже так само, як українське слово. Послухайте, як це звучить англійською.</div>' : '') + '</div>';
   }
   function toggleRow(row) {
     const w = BY_ID.get(row.dataset.row); if (!w) return;
@@ -566,25 +746,25 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 
   // ---------- a list of cards: grid (loads more while scrolling) or one by one
   function viewSwitch() {
-    return '<div class="seg" role="group" aria-label="View">' +
-      '<button data-view="grid" aria-pressed="' + (state.view === 'grid') + '">Grid</button>' +
-      '<button data-view="single" aria-pressed="' + (state.view === 'single') + '">One by one</button>' +
-      '<button data-view="list" aria-pressed="' + (state.view === 'list') + '">List</button></div>';
+    return '<div class="seg" role="group" aria-label="Вигляд">' +
+      '<button data-view="grid" aria-pressed="' + (state.view === 'grid') + '">Сітка</button>' +
+      '<button data-view="single" aria-pressed="' + (state.view === 'single') + '">По одному</button>' +
+      '<button data-view="list" aria-pressed="' + (state.view === 'list') + '">Список</button></div>';
   }
   function showCards(list) {
     state.list = list;
     const box = $('#cards');
     if (!box) return;
-    if (!list.length) { box.innerHTML = '<div class="blank">No words here.</div>'; return; }
+    if (!list.length) { box.innerHTML = '<div class="blank">Тут немає слів.</div>'; return; }
     if (state.view === 'grid' || state.view === 'list') {
       box.innerHTML = (state.view === 'grid' ? '<div class="grid" id="grid"></div>' : '<div class="rows" id="grid"></div>') + '<div class="more" id="more"></div>';
       appendCards();
     } else {
       state.idx = Math.max(0, Math.min(state.idx, list.length - 1));
       box.innerHTML = '<div class="single">' + cardHTML(list[state.idx]) +
-        '<div class="nav"><button class="btn" id="prev" aria-label="Previous">←</button>' +
+        '<div class="nav"><button class="btn" id="prev" aria-label="Назад">←</button>' +
         '<span class="count">' + (state.idx + 1) + ' / ' + list.length + '</span>' +
-        '<button class="btn" id="next" aria-label="Next">→</button></div></div>';
+        '<button class="btn" id="next" aria-label="Далі">→</button></div></div>';
     }
   }
   const io = 'IntersectionObserver' in window ? new IntersectionObserver(es => {
@@ -597,7 +777,7 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     if (from >= to) return;
     g.insertAdjacentHTML('beforeend', list.slice(from, to).map(state.view === 'list' ? rowHTML : cardHTML).join(''));
     if (to < list.length) {
-      more.innerHTML = '<button class="btn" id="show-more">Show more · ' + (list.length - to).toLocaleString('en-US') + '</button>';
+      more.innerHTML = '<button class="btn" id="show-more">Показати ще · ' + nf(list.length - to) + '</button>';
       if (io) { io.disconnect(); io.observe(more); }
     } else { more.innerHTML = ''; if (io) io.disconnect(); }
   }
@@ -607,80 +787,134 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     const c = document.querySelector('.single .card'); if (c) c.focus({ preventScroll: true });
   }
 
-  // ---------- Learn: levels
+  // ---------- Learn: the first screen
+  const DEMO = [['internet', 'інтернЕт'], ['student', 'студЕнт'], ['taxi', 'таксІ']];
   function viewLearn() {
     const co = C();
+    const fresh = !Object.keys(srs).length && !done.size && !store.get('sw.started', 0);
     const lv = co.levels.map(L => {
       const ls = lessonsOf(L.code), n = ls.reduce((s, l) => s + l.words.length, 0), d = ls.filter(l => done.has(l.id)).length;
       const sample = [].concat(...ls.slice(0, 3).map(l => l.words.slice(0, 2))).slice(0, 4).join(' · ');
+      const LU = LEVEL_UK[L.code] || [L.name, L.about];
       return '<a class="lv" href="#level/' + L.id + '" style="--lc:' + lc(L.code) + '"><span class="code">' + esc(L.code) + '</span>' +
-        '<span class="body"><span class="name">' + esc(L.name) + '</span><div class="about">' + esc(L.about) + '</div>' +
-        '<div class="stats">' + plural(ls.length, 'lesson') + ' · ' + plural(n, 'word') + (d ? ' · ' + d + ' learned' : '') + '</div>' +
+        '<span class="body"><span class="name">' + esc(LU[0]) + '</span><div class="about">' + esc(LU[1]) + '</div>' +
+        '<div class="stats">' + pl(ls.length, UR) + ' · ' + pl(n, SL) + (d ? ' · вивчено ' + d : '') + '</div>' +
         '<div class="prog"><i style="width:' + Math.round(100 * d / Math.max(1, ls.length)) + '%"></i></div>' +
-        '<div class="about sample">' + esc(sample) + '</div></span></a>';
+        '<div class="about sample" lang="en">' + esc(sample) + '</div></span></a>';
     }).join('');
     const ns = WORDS.filter(w => w.mk === 's').length, na = WORDS.filter(w => w.mk === 'a').length;
-    $('#main').innerHTML =
-      '<h1>English words you already know</h1>' +
-      '<p class="lead">Every word here is the same in Ukrainian: taxi = таксі, hotel = готель. ' +
-      'Learn them level by level. Each lesson is a short story at your level, then the cards.</p>' +
-      continueHTML() +
+    $('#main').innerHTML = (fresh ? heroFirst() : heroBack()) +
+      '<h2 class="sec-h">Обрати рівень <span lang="en">Choose a level</span></h2>' +
       '<div class="levels">' + lv + '</div>' +
-      '<h2>Collections</h2><div class="cols">' +
-        '<button class="col" data-collect="sim"><b>Almost the same</b><span>2,800 more words that sound almost the same: problem ≈ проблема, music ≈ музика</span></button>' +
-        '<a class="col" href="#ex"><b>Exclamations</b><span>wow, oops, hmm, bravo, ciao — little words in short dialogues</span></a>' +
-        '<button class="col" data-collect="s"><b>★ English too</b><span>' + ns.toLocaleString('en-US') + ' words you would not expect in English: tsar, hooligan, bazaar</span></button>' +
-        '<button class="col" data-collect="a"><b>Anglicisms</b><span>' + na.toLocaleString('en-US') + ' English words Ukrainians use: містер, вікенд, фідбек</span></button>' +
-      '</div>' +
-      '<a class="all-link" href="#words">Search all ' + WORDS.length.toLocaleString('en-US') + ' words →</a>';
+      '<h2 class="sec-h">Добірки <span lang="en">Collections</span></h2><div class="cols">' +
+        '<button class="col" data-collect="sim"><b>Майже однакові</b><span>2 800 слів, що звучать майже так само: problem ≈ проблема, music ≈ музика</span></button>' +
+        '<a class="col warn" href="#careful"><b>Обережно!</b><span>' + FALSE.length + ' слів-пасток: magazine ≠ магазин, list ≠ лист</span></a>' +
+        '<a class="col" href="#ex"><b>Вигуки</b><span>wow, oops, hmm, bravo — у коротких діалогах</span></a>' +
+        '<button class="col" data-collect="s"><b>★ Теж англійські</b><span>' + pl(ns, SL) + ', яких не чекаєш в англійській: tsar, hooligan, bazaar</span></button>' +
+        '<button class="col" data-collect="a"><b>Англіцизми</b><span>' + nf(na) + ' англійських слів, які вживають українці: містер, вікенд, фідбек</span></button>' +
+        '<a class="col" href="#words"><b>Усі слова</b><span>Пошук серед ' + nf(WORDS.length) + ' слів англійською чи українською</span></a>' +
+      '</div>';
   }
-  function continueHTML() {   // the next lesson that is not learned yet, in course order, and today's review
+  function heroFirst() {
+    const demo = DEMO.map(([en, uk]) => {
+      const w = BY_EN.get(en); if (!w) return '';
+      const sy = sylls(w);
+      const E = sy ? sy.parts.map((p, i) => i === sy.k ? '<b>' + esc(p.t.toUpperCase()) + '</b>' : esc(p.t)).join('') : esc(en);
+      return '<button class="demo-b" data-sayid="' + esc(w.id) + '" data-demo="1"><span lang="uk">' + esc(uk) + '</span><span class="arr">→</span><span lang="en">' + E + '</span>' + SAY + '</button>';
+    }).join('');
+    if (AUDIO && !heroFirst.warm) {
+      heroFirst.warm = 1;
+      setTimeout(() => { [0, 1, 2].forEach(i => { if (AUDIO.chunks[i]) fetch('audio/' + AUDIO.chunks[i]).catch(() => {}); }); }, 1500);
+    }
+    return '<section class="hero">' +
+      '<h1>Ви вже знаєте тисячі англійських слів</h1>' +
+      '<p class="en-sub" lang="en">You already know thousands of English words</p>' +
+      '<p class="lead">Таксі, готель, інтернет — ті самі слова. Тепер навчіться вимовляти їх по-англійськи: 5 хвилин на день.</p>' +
+      '<div class="demo-l">Послухайте, де наголос:</div><div class="demo">' + demo + '</div>' +
+      '<p class="demo-after" id="demo-after" hidden>Чуєте? В англійській наголос часто на <b>першому складі</b>.</p>' +
+      '<div class="hero-go"><a class="btn primary big" href="#start">Почати · 5 хвилин</a>' +
+      '<span class="small">Без реєстрації. Прогрес зберігається в цьому браузері.</span></div></section>';
+  }
+  function weekLine() {
+    const d = today(), set = new Set(days);
+    let dots = '', n = 0;
+    for (let i = 6; i >= 0; i--) { const on = set.has(d - i); if (on) n++; dots += on ? '●' : '○'; }
+    return pl(n, DN) + ' за тиждень <span class="dots" aria-hidden="true">' + dots + '</span>';
+  }
+  function heroBack() {
+    const due = dueIds().length, nw = newWords(8).length;
     const next = C().lessons.find(l => !done.has(l.id));
-    const started = C().lessons.some(l => done.has(l.id));
-    const due = dueIds().length, seen = Object.keys(srs).length;
-    if (!next && !due) return '';
-    return '<div class="continue">' +
-      (due ? '<button class="btn primary" id="review">Review · ' + plural(due, 'word') + '</button>' : '') +
-      (next ? '<a class="btn' + (due ? '' : ' primary') + '" href="#lesson/' + next.id + '">' + (started ? 'Continue: ' : 'Start: ') +
-        esc(next.title) + ' · ' + esc(next.level) + '</a>' : '') +
-      (seen ? '<span class="stat">' + plural(seen, 'word') + ' practiced</span>' : '') + '</div>';
+    const said = canSay();
+    const nwT = nw === 1 ? '1 нове' : nw + ' нових';
+    const mins = Math.max(2, Math.round((Math.min(due, 20) * 8 + nw * 24) / 60));
+    const plan = due ? 'Сьогодні: повторити ' + pl(Math.min(due, 20), SL) + (nw ? ' і вивчити ' + nwT : '') + '. Близько ' + mins + ' хв.'
+      : 'На сьогодні все повторено. Наступне повторення — завтра.' + (nw ? ' Хочете більше? ' + nwT + ' слів — близько ' + mins + ' хв.' : '');
+    return '<section class="hero ret">' +
+      '<h1>З поверненням!</h1><p class="en-sub" lang="en">Welcome back!</p>' +
+      '<p class="lead">' + plan + '</p>' +
+      '<div class="hero-go">' + (due || nw ? '<button class="btn primary big" id="daily">' + (due ? 'Продовжити' : 'Ще 5 хвилин') + '</button>' : '') +
+        (next ? '<a class="btn" href="#lesson/' + next.id + '">Урок: ' + esc(next.title) + ' · ' + esc(next.level) + '</a>' : '') + '</div>' +
+      '<div class="progress-line">' + (said ? 'Ви вже вмієте сказати ' + pl(said, SL) : 'Слово стає вашим, коли ви правильно згадуєте його наступного дня') +
+        ' · ' + weekLine() + '</div></section>';
   }
   function viewLevel(id) {
     const co = C(), L = co.levels.find(x => x.id === id);
     if (!L) return viewLearn();
+    const LU = LEVEL_UK[L.code] || [L.name, L.about];
     const ls = lessonsOf(L.code), secs = [];
     ls.forEach(l => { let s = secs.find(x => x.name === l.section); if (!s) secs.push(s = { name: l.section, items: [] }); s.items.push(l); });
     const n = ls.reduce((s, l) => s + l.words.length, 0);
     $('#main').innerHTML =
-      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span><span>' + esc(L.code + ' ' + L.name) + '</span></div>' +
-      '<div class="lvhead" style="--lc:' + lc(L.code) + '"><span class="code">' + esc(L.code) + '</span><div><h1>' + esc(L.name) + '</h1></div></div>' +
-      '<p class="lead">' + esc(L.about) + ' ' + plural(ls.length, 'lesson') + ', ' + plural(n, 'word') + '.</p>' +
+      '<div class="crumbs"><a href="#learn">Навчання</a><span>›</span><span>' + esc(L.code + ' ' + LU[0]) + '</span></div>' +
+      '<div class="lvhead" style="--lc:' + lc(L.code) + '"><span class="code">' + esc(L.code) + '</span><div><h1>' + esc(LU[0]) + '</h1></div></div>' +
+      '<p class="lead">' + esc(LU[1]) + ' ' + pl(ls.length, UR) + ', ' + pl(n, SL) + '.</p>' +
       (ls.length > 24
-        ? '<div class="secnav">' + secs.map((s, i) => '<button data-sec="' + i + '">' + esc(s.name) + '</button>').join('') + '</div>' +
-          secs.map((s, i) => '<section class="sec" id="sec-' + i + '"><h2>' + esc(s.name) + '</h2><div class="lessons">' +
+        ? '<div class="secnav">' + secs.map((s, i) => '<button data-sec="' + i + '" lang="en">' + esc(s.name) + '</button>').join('') + '</div>' +
+          secs.map((s, i) => '<section class="sec" id="sec-' + i + '"><h2 lang="en">' + esc(s.name) + '</h2><div class="lessons">' +
             s.items.map(l => lessonTile(l, ls, L, false)).join('') + '</div></section>').join('')
         : '<div class="lessons">' + ls.map(l => lessonTile(l, ls, L, true)).join('') + '</div>');   // small levels: one grid, topic on each tile
   }
   function lessonTile(l, ls, L, withSection) {
     return '<a class="ls" href="#lesson/' + l.id + '" style="--lc:' + lc(L.code) + '">' +
-      '<span class="n">Lesson ' + (ls.indexOf(l) + 1) + (withSection ? ' · ' + esc(l.section) : '') + ' · ' + plural(l.words.length, 'word') +
-      (done.has(l.id) ? ' · <span class="ok">✓ learned</span>' : '') + '</span>' +
-      '<b>' + esc(l.title) + '</b><span class="w">' + esc(l.words.join(' · ')) + '</span></a>';
+      '<span class="n">Урок ' + (ls.indexOf(l) + 1) + (withSection ? ' · <span lang="en">' + esc(l.section) + '</span>' : '') + ' · ' + pl(l.words.length, SL) +
+      (done.has(l.id) ? ' · <span class="ok">✓ вивчено</span>' : '') + '</span>' +
+      '<b lang="en">' + esc(l.title) + '</b><span class="w" lang="en">' + esc(l.words.join(' · ')) + '</span></a>';
   }
   function viewExclamations() {
     const ls = C().exclamations;
     $('#main').innerHTML =
-      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span><span>Exclamations</span></div>' +
-      '<h1>Exclamations</h1><p class="lead">Little words for talking, feelings, laughter and sounds. Each set is a short dialogue.</p>' +
-      '<div class="lessons">' + ls.map((l, i) => '<a class="ls" href="#lesson/' + l.id + '"><span class="n">' + (i + 1) + ' · ' + plural(l.words.length, 'word') + '</span>' +
-        '<b>' + esc(l.title) + '</b><span class="w">' + esc(l.words.join(' · ')) + '</span></a>').join('') + '</div>';
+      '<div class="crumbs"><a href="#learn">Навчання</a><span>›</span><span>Вигуки</span></div>' +
+      '<h1>Вигуки</h1><p class="lead">Короткі слова для розмови, емоцій, сміху й звуків. Кожен набір — короткий діалог.</p>' +
+      '<div class="lessons">' + ls.map((l, i) => '<a class="ls" href="#lesson/' + l.id + '"><span class="n">Набір ' + (i + 1) + ' · ' + pl(l.words.length, SL) + '</span>' +
+        '<b lang="en">' + esc(l.title) + '</b><span class="w" lang="en">' + esc(l.words.join(' · ')) + '</span></a>').join('') + '</div>';
   }
-  function storyHTML(text) {   // [[word]] or [[form|word]] -> a highlighted, clickable word
-    const unesc = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
-    return esc(text).replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, form, en) => {
-      const w = BY_EN.get(unesc((en || form).trim()));
-      return w ? '<b class="sw" tabindex="0" lang="en" title="' + esc(w.en + ' = ' + w.uk) + '" data-sw="' + esc(w.en) + '">' + form + '</b>' : form;
+  function viewCareful() {
+    $('#main').innerHTML =
+      '<div class="crumbs"><a href="#learn">Навчання</a><span>›</span><span>Обережно</span></div>' +
+      '<h1>Обережно: схожі, але інші</h1><p class="en-sub" lang="en">Careful: look-alike, different</p>' +
+      '<p class="lead">Ці англійські слова схожі на українські, але означають інше. Запам’ятайте їх — і правило «те саме слово» буде безпечним.</p>' +
+      '<div class="ff">' + FALSE.map(f => '<div class="ffc"><div class="ff-h"><span lang="en">' + esc(f[0]) + '</span><span class="ne">≠</span><span lang="uk">' + esc(f[1]) + '</span></div>' +
+        (canSpeak ? '<button class="icon" data-speak="' + esc(f[0]) + '" aria-label="Вимова: ' + esc(f[0]) + '">' + SAY + '</button>' : '') +
+        '<div class="ff-r"><b lang="en">' + esc(f[0]) + '</b> = ' + esc(f[2]) + '</div>' +
+        '<div class="ff-r muted"><span lang="uk">' + esc(f[1]) + '</span> = <span lang="en">' + esc(f[3]) + '</span></div></div>').join('') + '</div>';
+  }
+  function storyHTML(text) {   // [[word]] or [[form|word]] -> a highlighted, clickable word; each sentence in a span (to read it aloud)
+    let html = '', cur = '';
+    const flush = () => { html += cur.trim() ? '<span class="sent">' + cur + '</span>' : cur; cur = ''; };
+    String(text).split(/(\[\[[^\]]+\]\])/).forEach(p => {
+      const m = /^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]$/.exec(p);
+      if (m) {
+        const w = BY_EN.get((m[2] || m[1]).trim());
+        cur += w ? '<b class="sw" tabindex="0" lang="en" title="' + esc(w.en + ' = ' + w.uk) + '" data-sw="' + esc(w.en) + '">' + esc(m[1]) + '</b>' : esc(m[1]);
+        return;
+      }
+      const re = /([.!?…]+["”’)]*)(\s+)/g;
+      let last = 0, mm;
+      while ((mm = re.exec(p))) { cur += esc(p.slice(last, mm.index + mm[1].length)); flush(); html += mm[2]; last = mm.index + mm[0].length; }
+      cur += esc(p.slice(last));
     });
+    flush();
+    return html;
   }
   function viewLesson(id) {
     const f = findLesson(id);
@@ -689,21 +923,28 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     const L = co.levels.find(x => x.code === l.level);
     const prev = f.list[i - 1], next = f.list[i + 1];
     const words = l.words.map(en => BY_EN.get(en)).filter(Boolean);
-    const isEx = !l.level;
+    const isEx = !l.level, early = l.level === 'A0' || l.level === 'A1';
+    const LU = L ? (LEVEL_UK[L.code] || [L.name]) : null;
+    const story = l.story
+      ? '<div class="story-head"><h2>' + (early ? 'Тепер прочитайте' : isEx ? 'Діалог' : 'Історія') + '</h2>' +
+          (canSpeak ? '<button class="btn small" id="read-story">▶ Слухати</button>' : '') + '</div>' +
+        '<div class="story" id="story" lang="en">' + storyHTML(l.story) + '</div><p class="story-hint">Торкніться виділеного слова, щоб почути його й побачити переклад.</p>'
+      : '';
+    const cards = '<div class="actions"><button class="btn primary" id="practice">Тренувати ці слова</button>' +
+        (words.some(canPlay) ? '<button class="btn" id="play-all">▶ Послухати всі</button>' : '') + '</div>' +
+      '<div id="cards"></div>';
     $('#main').innerHTML =
-      '<div class="crumbs"><a href="#learn">Learn</a><span>›</span>' +
-        (isEx ? '<a href="#ex">Exclamations</a>' : '<a href="#level/' + L.id + '">' + esc(L.code + ' ' + L.name) + '</a>') + '</div>' +
+      '<div class="crumbs"><a href="#learn">Навчання</a><span>›</span>' +
+        (isEx ? '<a href="#ex">Вигуки</a>' : '<a href="#level/' + L.id + '">' + esc(L.code + ' ' + LU[0]) + '</a>') + '</div>' +
       '<div class="lesson-meta">' + (isEx ? '' : '<span class="pill" style="--lc:' + lc(l.level) + '">' + esc(l.level) + '</span>') +
-        '<span>' + (isEx ? 'Set ' : 'Lesson ') + (i + 1) + ' of ' + f.list.length + (l.section && !isEx ? ' · ' + esc(l.section) : '') + '</span></div>' +
-      '<h1>' + esc(l.title) + '</h1>' +
-      (l.story ? '<div class="story">' + storyHTML(l.story) + '</div><p class="story-hint">Tap a highlighted word to hear it and see its card.</p>' : '') +
-      '<div class="actions"><button class="btn primary" id="practice">Practice these words</button>' +
-        (isEx ? '' : '<button class="btn' + (done.has(l.id) ? ' done' : '') + '" id="learned">' + (done.has(l.id) ? '✓ Learned' : 'Mark as learned') + '</button>') +
-        '<span class="spacer"></span>' + viewSwitch() + '</div>' +
-      '<div id="cards"></div>' +
-      '<div class="pager">' + (prev ? '<a href="#lesson/' + prev.id + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
-        (next ? '<a href="#lesson/' + next.id + '">' + esc(next.title) + ' →</a>' : '') + '</div>';
+        '<span>' + (isEx ? 'Набір ' : 'Урок ') + (i + 1) + ' з ' + f.list.length + (l.section && !isEx ? ' · <span lang="en">' + esc(l.section) + '</span>' : '') +
+        (done.has(l.id) ? ' · <span class="ok">✓ вивчено</span>' : '') + '</span></div>' +
+      '<h1 lang="en">' + esc(l.title) + '</h1>' +
+      (early || !l.story ? cards + story : story + '<div style="height:18px"></div>' + cards) +
+      '<div class="pager">' + (prev ? '<a href="#lesson/' + prev.id + '" lang="en">← ' + esc(prev.title) + '</a>' : '<span></span>') +
+        (next ? '<a href="#lesson/' + next.id + '" lang="en">' + esc(next.title) + ' →</a>' : '') + '</div>';
     state.idx = 0;
+    if (state.view === 'single') state.view = window.matchMedia && matchMedia('(max-width: 560px)').matches ? 'list' : 'grid';
     Array.from(new Set(words.map(w => w.band))).forEach(b => loadDetails(b).catch(() => {}));
     showCards(words);
   }
@@ -711,23 +952,31 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   // ---------- Words: search and filters over the whole list
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’ʼ]/g, "'");
   WORDS.forEach(w => { w._k = fold(w.en) + '\n' + fold(w.uk); });
-  function wordsBase() {
+  // "Without slang" keeps the colloquial pairs of the 2,000 most used words (hello, OK, sorry): a beginner needs them
+  const slangOk = w => !w.rude && (!w.ns || w.band === 'top-1000' || w.band === 'top-2000');
+  function wordsBase(all) {
     if (state.kind === 'sim') return state.band ? SIM.filter(w => w.band === state.band) : SIM;
     let l = state.band ? WORDS.filter(w => w.band === state.band) : WORDS;
-    if (state.hideNs) l = l.filter(w => !w.ns && !w.rude);
+    if (state.hideNs && !all) l = l.filter(slangOk);
     if (state.kind === 's' || state.kind === 'a') l = l.filter(w => w.mk === state.kind);
     else if (state.kind === 'x') l = l.filter(w => w.pos === 'interj');
     return l;
   }
   function wordsList() {
-    let l = wordsBase();
-    if (state.topic) l = l.filter(w => (w.topics || []).indexOf(state.topic) >= 0);
     const q = fold(state.q.trim());
-    if (q) {
-      const starts = [], has = [];
-      l.forEach(w => { const i = w._k.indexOf(q); if (i === 0 || w._k.indexOf('\n' + q) >= 0) starts.push(w); else if (i > 0) has.push(w); });
-      l = starts.concat(has);
-    }
+    const run = all => {
+      let l = wordsBase(all);
+      if (state.topic) l = l.filter(w => (w.topics || []).indexOf(state.topic) >= 0);
+      if (q) {
+        const starts = [], has = [];
+        l.forEach(w => { const i = w._k.indexOf(q); if (i === 0 || w._k.indexOf('\n' + q) >= 0) starts.push(w); else if (i > 0) has.push(w); });
+        l = starts.concat(has);
+      }
+      return l;
+    };
+    let l = run(false);
+    state.widened = false;
+    if (q && !l.length && state.hideNs) { l = run(true); state.widened = l.length > 0; }   // found only among the hidden words: show them
     return l;
   }
   function topicOptions() {
@@ -735,32 +984,35 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     wordsBase().forEach(w => (w.topics || []).forEach(t => counts[t] = (counts[t] || 0) + 1));
     if (state.topic && !counts[state.topic]) state.topic = '';
     const keys = Object.keys(counts).sort((a, b) => (a === 'other') - (b === 'other') || counts[b] - counts[a]);
-    return '<option value="">All topics</option>' + keys.map(k => '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' +
-      (TOPIC_NAMES[k] || k) + ' · ' + counts[k] + '</option>').join('');
+    return '<option value="">Усі теми</option>' + keys.map(k => '<option value="' + k + '"' + (k === state.topic ? ' selected' : '') + '>' +
+      (TOPIC_NAMES[k] || k) + ' · ' + nf(counts[k]) + '</option>').join('');
   }
   function viewWords() {
     const opt = (v, label, cur) => '<option value="' + v + '"' + (v === cur ? ' selected' : '') + '>' + label + '</option>';
+    const phone = window.matchMedia && matchMedia('(max-width: 560px)').matches;
+    const active = state.band || state.topic || state.kind;
     $('#main').innerHTML =
-      '<h1>All words</h1>' +
-      '<p class="lead">Search all ' + WORDS.length.toLocaleString('en-US') + ' words. Sorted by how often the English word is used, most common first.</p>' +
-      '<div class="search-row">' + SEARCH + '<input class="search" id="q" type="search" placeholder="Search in English or Ukrainian" autocomplete="off" value="' + esc(state.q) + '"></div>' +
-      '<div class="filters">' +
-        '<select class="sel" id="f-band" aria-label="How common">' + opt('', 'All frequencies', state.band) +
+      '<h1>Усі слова</h1>' +
+      '<p class="lead">' + nf(WORDS.length) + ' слів, найуживаніші спершу. Шукайте англійською або українською.</p>' +
+      '<div class="search-row">' + SEARCH + '<input class="search" id="q" type="search" placeholder="Пошук: taxi або таксі" autocomplete="off" value="' + esc(state.q) + '"></div>' +
+      '<details class="filt"' + (!phone || active ? ' open' : '') + '><summary>Фільтри' + (active ? ' ·  увімкнено' : '') + '</summary><div class="filters">' +
+        '<select class="sel" id="f-band" aria-label="Як часто">' + opt('', 'Усі частоти', state.band) +
           BANDS.map(b => opt(b, BAND_NAMES[b], state.band)).join('') + '</select>' +
-        '<select class="sel" id="f-topic" aria-label="Topic"></select>' +
-        '<select class="sel" id="f-kind" aria-label="Kind">' + opt('', 'All kinds', state.kind) + opt('s', '★ English too', state.kind) +
-          opt('a', 'Anglicisms', state.kind) + opt('x', 'Exclamations', state.kind) + opt('sim', 'Almost the same', state.kind) + '</select>' +
-        '<label class="chk" title="Hide pairs where the Ukrainian word is slang or rare (піпл, френд) and rude English words">' +
-          '<input type="checkbox" id="f-ns"' + (state.hideNs ? ' checked' : '') + '> Hide slang</label>' +
-        viewSwitch() + '<span class="count" id="count"></span></div>' +
+        '<select class="sel" id="f-topic" aria-label="Тема"></select>' +
+        '<select class="sel" id="f-kind" aria-label="Вид">' + opt('', 'Усі види', state.kind) + opt('s', '★ Теж англійські', state.kind) +
+          opt('a', 'Англіцизми', state.kind) + opt('x', 'Вигуки', state.kind) + opt('sim', 'Майже однакові', state.kind) + '</select>' +
+        '<label class="chk" title="Ховає грубі слова і розмовні пари поза 2000 найуживаніших (піпл, френд)">' +
+          '<input type="checkbox" id="f-ns"' + (state.hideNs ? ' checked' : '') + '> Без сленгу</label>' +
+      '</div></details>' +
+      '<div class="wbar"><span class="count" id="count"></span>' + viewSwitch() + '</div>' +
       '<div id="cards"></div>';
     refreshWords();
   }
   function refreshWords(keepIdx) {
-    if (state.kind === 'sim' && !SIM.length) { $('#count').textContent = 'Loading…'; loadSimilar().then(() => refreshWords(keepIdx)).catch(() => {}); return; }
+    if (state.kind === 'sim' && !SIM.length) { $('#count').textContent = 'Завантаження…'; loadSimilar().then(() => refreshWords(keepIdx)).catch(() => {}); return; }
     const t = $('#f-topic'); if (t) t.innerHTML = topicOptions();
     const list = wordsList();
-    $('#count').textContent = plural(list.length, 'word');
+    $('#count').textContent = pl(list.length, SL) + (state.widened ? ' · разом із розмовними' : '');
     if (!keepIdx) state.idx = 0;
     showCards(list);
     store.set('sw.filters', { band: state.band, topic: state.topic, kind: state.kind });
@@ -769,108 +1021,292 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   // ---------- My words
   function viewMine() {
     const list = WORDS.filter(w => mine.has(w.id));
-    $('#main').innerHTML = '<h1>My words</h1>' +
+    $('#main').innerHTML = '<h1>Мої слова</h1>' +
       (list.length
-        ? '<p class="lead">' + plural(list.length, 'word') + ' saved in this browser. Press ✓ on a card to remove it.</p>' +
-          '<div class="actions"><button class="btn primary" id="practice">Practice my words</button><span class="spacer"></span>' + viewSwitch() + '</div><div id="cards"></div>'
-        : '<p class="lead">Press + on any card to save it here, then practice your words.</p>' +
-          '<div class="actions"><a class="btn primary" href="#learn">Start learning</a><a class="btn" href="#words">Browse all words</a></div>');
+        ? '<p class="lead">' + pl(list.length, SL) + ' збережено в цьому браузері. Натисніть ✓ на картці, щоб прибрати слово.</p>' +
+          '<div class="actions"><button class="btn primary" id="practice">Тренувати мої слова</button><span class="spacer"></span>' + viewSwitch() + '</div><div id="cards"></div>'
+        : '<p class="lead">Натисніть + на будь-якій картці, щоб зберегти слово тут, а потім тренуйте свої слова.</p>' +
+          '<div class="actions"><a class="btn primary" href="#learn">Почати навчання</a><a class="btn" href="#words">Усі слова</a></div>');
     state.idx = 0;
     if (list.length) showCards(list);
   }
 
-  // ---------- Practice: see the Ukrainian word, recall the English word
+  // ---------- Practice: one checked task per screen
+  // pick: hear it, pick the Ukrainian twin · stress: tap the stressed syllable · hear: hear it, type it · type: see the Ukrainian word,
+  // type the English one · say: say it aloud, check yourself · fill: missing letters · gap: the word partner · info: a short rule
   let tr = null;
-  function startPractice(words, title, lesson) {
-    state.pool = words.slice(); state.poolTitle = title; state.poolLesson = lesson || '';
-    tr = null;
-    if (location.hash !== '#practice') location.hash = 'practice'; else viewPractice();
+  const NEWBANDS = new Set(['top-1000', 'top-2000', 'top-3000', 'top-5000', 'top-10k']);
+  function newWords(n) {
+    return WORDS.filter(w => !srs[w.id] && !w.rude && w.rank && NEWBANDS.has(w.band)).sort((a, b) => a.rank - b.rank).slice(0, n);
+  }
+  function itemsFor(words, allFresh) {
+    const m = state.pmode;
+    if (m && m !== 'mix') return shuffled(words).map(w => ({ w, f: m === 'hear' && !canPlay(w) ? 'type' : m }));
+    const a = [], b = [], c = [];
+    words.forEach((w, i) => {
+      const fresh = allFresh || !srs[w.id];
+      if (fresh && canPlay(w)) a.push({ w, f: 'pick' });
+      if (fresh && sylls(w)) b.push({ w, f: 'stress' });
+      c.push({ w, f: canPlay(w) && (fresh ? Math.random() < .35 : i % 2) ? 'hear' : 'type' });
+    });
+    return shuffled(a).concat(shuffled(b), shuffled(c));
+  }
+  function startSession(items, title, opt) {
+    opt = opt || {};
+    items = items.filter(it => it.f === 'info' || it.ff || it.w);
+    if (!items.length) return;
+    tr = { items: items.slice(), orig: items.slice(), i: 0, title, lesson: opt.lesson || '', kind: opt.kind || '',
+           left: {}, missed: new Set(), right: 0, first: items.filter(it => it.w).length, res: null };
+    items.forEach(it => { if (it.w) tr.left[it.w.id] = (tr.left[it.w.id] || 0) + 1; });
+    tr.pool = Array.from(new Set(items.filter(it => it.w).map(it => it.w)));
+    if (location.hash === '#start' || location.hash === '#daily') location.replace('#practice');
+    else if (location.hash !== '#practice') location.hash = 'practice'; else viewPractice();
+  }
+  const FIRST = ['hello', 'OK', 'sorry', 'photo', 'computer', 'hotel', 'idea', 'student', 'moment', 'internet', 'president', 'million'];
+  function startFirst() {   // «Перші 5 хвилин»: 12 frequent words, heard, stressed, spelled and used
+    const items = shuffled(FIRST.map(e => BY_EN.get(e)).filter(Boolean)).map(w => ({ w, f: 'pick' }));
+    ['student', 'moment', 'internet', 'president', 'million', 'computer'].forEach(e => { const w = BY_EN.get(e); if (w && sylls(w)) items.push({ w, f: 'stress' }); });
+    items.push({ f: 'info', title: 'Правило', html: 'Не впевнені? Ставте наголос на <b>перший склад</b> — так у 8 з 10 частих слів на цьому сайті.' });
+    const add = (en, o) => { const w = BY_EN.get(en); if (w) items.push(Object.assign({ w }, o)); };
+    add('photo', { f: 'fill', pat: '__oto', ans: 'ph', fb: '<b>ph</b> читається як «ф»: photo, phone.' });
+    add('computer', { f: 'fill', pat: '_omputer', ans: 'c', fb: '<b>c</b> перед a, o, u читається як «к»: computer, coffee.' });
+    add('hello', { f: 'fill', pat: 'he__o', ans: 'll', fb: 'Подвійне <b>ll</b> звучить як одне «л»: hello, million.' });
+    add('photo', { f: 'gap', text: 'Can you ___ a photo of us?', opts: ['make', 'take'], ans: 'take', fb: 'Фото англійською не «роблять», а «беруть»: <b>take</b> a photo.' });
+    add('million', { f: 'gap', text: 'It costs two ___ dollars.', opts: ['millions', 'million'], ans: 'million', fb: 'Після числа — без -s: two <b>million</b> dollars.' });
+    add('idea', { f: 'gap', text: 'I have ___ idea!', opts: ['a', 'an'], ans: 'an', fb: 'Перед голосним звуком — <b>an</b>: an idea, an hour.' });
+    items.push({ f: 'info', warn: true, title: 'Обережно!', html: '<b lang="en">magazine</b> — це «журнал», а не магазин. Схожі слова інколи обманюють. ' +
+      'Ще ' + (FALSE.length - 1) + ' таких слів — у добірці «Обережно».' });
+    store.set('sw.started', 1);
+    startSession(items, 'Перші 5 хвилин', { kind: 'first' });
+  }
+  function startDaily(onlyNew) {   // due words first, then the next 8 words by frequency
+    const ids = onlyNew ? [] : dueIds().slice(0, 20);
+    const go = () => {
+      const due = shuffled(ids.map(id => BY_ID.get(id)).filter(Boolean));
+      const items = itemsFor(due, false).concat(itemsFor(newWords(8), true));
+      if (!items.length) { location.hash = 'learn'; return; }
+      const f = FALSE[today() % FALSE.length];   // one look-alike that means something else
+      items.push({ f: 'gap', ff: true, text: f[0] + ' = ___', opts: shuffled([f[2], f[1]]), ans: f[2],
+        fb: '<b lang="en">' + esc(f[0]) + '</b> — це «' + esc(f[2]) + '». А ' + esc(f[1]) + ' англійською — <span lang="en">' + esc(f[3]) + '</span>.' });
+      startSession(items, onlyNew ? 'Ще 5 хвилин' : 'Сьогодні', { kind: 'daily' });
+    };
+    if (ids.some(id => id[0] === '~') && !SIM.length) loadSimilar().then(go).catch(go); else go();
+  }
+  function bestStory(words) {   // the lesson that holds most of these words
+    const set = new Set(words.map(w => w.en));
+    const LV = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1'];
+    let best = null, n = 0;
+    C().lessons.forEach(l => {   // most of these words, at the lowest level
+      const k = l.words.filter(e => set.has(e)).length, sc = k - 0.6 * Math.max(0, LV.indexOf(l.level));
+      if (k && sc > n) { n = sc; best = l; }
+    });
+    return best;
+  }
+  const big = (cls, w, txt) => '<div class="' + cls + '" style="--n:' + longest(txt) + '"' + (cls.indexOf('uk') >= 0 ? ' lang="uk"' : '') + '>' + (cls.indexOf('en') >= 0 ? stressed(w) : esc(txt)) + '</div>';
+  const pair = w => '<div class="reveal">' + big('en', w, w.en) + '<div class="eq">' + (w.sim ? '≈' : '=') + '</div>' + big('uk', w, w.uk) + ukStressLine(w) + '</div>';
+  const sayBig = w => '<button class="big-say" data-sayid="' + esc(w.id) + '" aria-label="Послухати ще раз">' + SAY + '</button>';
+  const nextRow = () => '<div class="row"><button class="btn primary" id="t-next">Далі</button></div>';
+  function diffHTML(a, b) {   // the typed word with its first wrong letter marked
+    const x = a.trim(), fa = fold(x), fb = fold(b);
+    let i = 0; while (i < fa.length && i < fb.length && fa[i] === fb[i]) i++;
+    return '<span lang="en">' + esc(x.slice(0, i)) + '<mark>' + (esc(x.slice(i, i + 1)) || '&nbsp;') + '</mark>' + esc(x.slice(i + 1)) + '</span>';
+  }
+  function typeFoot(r, target) {
+    if (!r) return '<input class="answer" id="t-ans" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" lang="en" aria-label="Відповідь англійською">' +
+      '<div class="row"><button class="btn" id="t-skip">Не знаю</button><button class="btn primary" id="t-check">Перевірити</button></div>';
+    return '<div class="verdict ' + (r.ok ? 'ok' : 'no') + '">' + (r.ok ? '✓ Правильно' : r.typed ? '✗ Ви написали: ' + diffHTML(r.typed, target) : 'Ось правильно:') + '</div>' + nextRow();
+  }
+  function stressFb(w, sy) {
+    const u = UK_STRESS[w.en];
+    return (u ? 'Українською — ' + esc(u) + '. ' : '') + 'Англійською — <b lang="en">' + esc(capsEn(w, sy)) + '</b>.' + (SOUND_NOTE[w.en] ? ' ' + SOUND_NOTE[w.en] : '');
   }
   function viewPractice() {
-    if (!state.pool || !state.pool.length) {
+    if (!tr) {
       const m = WORDS.filter(w => mine.has(w.id));
-      if (m.length) { state.pool = m; state.poolTitle = 'My words'; state.poolLesson = ''; }
-      else { $('#main').innerHTML = '<h1>Practice</h1><p class="lead">Open a lesson and press "Practice these words", or save words with +.</p><a class="btn primary" href="#learn">Go to lessons</a>'; return; }
+      if (m.length) { startSession(itemsFor(m), 'Мої слова'); return; }
+      $('#main').innerHTML = '<h1>Тренування</h1><p class="lead">Відкрийте урок і натисніть «Тренувати ці слова» або збережіть слова кнопкою +.</p>' +
+        '<div class="actions"><button class="btn primary" id="daily">5 хвилин сьогодні</button><a class="btn" href="#learn">До уроків</a></div>';
+      return;
     }
-    if (!tr) { const q = shuffled(state.pool); tr = { queue: q, i: 0, shown: false, known: 0, again: [], missed: new Set(), graded: new Set(), total: q.length, round: 1, played: -1 }; }
-    if (tr.i >= tr.queue.length) {
-      if (tr.again.length) { tr.queue = tr.again; tr.again = []; tr.i = 0; tr.round++; tr.played = -1; }
-      else return practiceDone();
-    }
-    const w = tr.queue[tr.i], mode = state.pmode === 'listen' && !canPlay(w) ? 'say' : state.pmode;
-    const eq = '<div class="eq">' + (w.sim ? '≈' : '=') + '</div>';
-    const en = '<div class="en" style="--n:' + longest(w.en) + '">' + stressed(w) + '</div>';
-    const uk = '<div class="uk" lang="uk" style="--n:' + longest(w.uk) + '">' + esc(w.uk) + '</div>';
-    const sayBtn = canPlay(w) ? '<button class="icon say" data-sayid="' + esc(w.id) + '" aria-label="Pronounce">' + SAY + '</button>' : '';
-    let face, task, row;
-    if (mode === 'listen') {
-      task = tr.shown ? 'Did you know it?' : 'Listen. What is the word?';
-      face = tr.shown ? en + eq + uk + sayBtn
-        : '<button class="big-say" data-sayid="' + esc(w.id) + '" aria-label="Play again">' + SAY + '</button><div class="hint">Tap to hear it again</div>';
-    } else if (mode === 'type') {
-      task = tr.shown ? '' : 'Type the English word.';
-      face = uk + eq + (tr.shown ? en + sayBtn : '<div class="en q">?</div>');
+    if (tr.i >= tr.items.length) return practiceDone();
+    const it = tr.items[tr.i], w = it.w, r = tr.res;
+    let task = '', body = '', foot = '';
+    if (it.f === 'pick') {
+      task = 'Послухайте й оберіть слово';
+      if (!it.opts) {
+        const others = shuffled(tr.pool.filter(x => x !== w && x.uk !== w.uk)).slice(0, 2);
+        const extra = shuffled(WORDS.slice(0, 300).filter(x => x !== w && x.uk !== w.uk && others.indexOf(x) < 0)).slice(0, 2 - others.length);
+        it.opts = shuffled([w].concat(others, extra));
+      }
+      body = '<div class="pcard">' + (r ? pair(w) : sayBig(w) + '<div class="hint">Торкніться, щоб послухати ще раз</div>') + '</div>' +
+        '<div class="opts">' + it.opts.map((o, k) => '<button class="opt' + (r ? (o === w ? ' good' : o === r.pick ? ' bad' : '') : '') + '" data-opt="' + k + '"' +
+          (r ? ' disabled' : '') + ' lang="uk">' + esc(o.uk) + '</button>').join('') + '</div>';
+      foot = r ? nextRow() : '';
+    } else if (it.f === 'stress') {
+      const sy = sylls(w);
+      task = 'Де наголос? Торкніться наголошеного складу';
+      body = '<div class="pcard"><div class="uk-small" lang="uk">' + esc(w.uk) + '</div><div class="syl" lang="en">' +
+        sy.parts.map((p, k) => '<button class="sy' + (r ? (k === sy.k ? ' good' : k === r.pick ? ' bad' : '') : '') + '" data-syl="' + k + '"' + (r ? ' disabled' : '') + '>' +
+          esc(r && k === sy.k ? p.t.toUpperCase() : p.t) + '</button>').join('<span class="dot">·</span>') + '</div>' +
+        (r ? '<div class="fb">' + stressFb(w, sy) + '</div>' : '') + '</div>';
+      foot = r ? nextRow() : '';
+    } else if (it.f === 'hear') {
+      task = 'Послухайте й напишіть слово англійською';
+      body = '<div class="pcard">' + (r ? pair(w) : sayBig(w) + '<div class="hint">Торкніться, щоб послухати ще раз</div>') + '</div>';
+      foot = typeFoot(r, w.en);
+    } else if (it.f === 'type') {
+      task = 'Напишіть англійською';
+      body = '<div class="pcard">' + (r ? pair(w) : big('uk big', w, w.uk) + (w.sim ? '<div class="hint">≈ майже так само англійською</div>' : '')) + '</div>';
+      foot = typeFoot(r, w.en);
+    } else if (it.f === 'say') {
+      task = it.shown ? 'Ви сказали правильно?' : 'Скажіть англійською вголос, потім перевірте';
+      body = '<div class="pcard">' + (it.shown ? pair(w) : big('uk big', w, w.uk) + '<div class="eq">' + (w.sim ? '≈' : '=') + '</div><div class="en q">?</div>') + '</div>';
+      foot = '<div class="row">' + (it.shown ? '<button class="btn" id="t-again">Ще раз</button><button class="btn primary" id="t-know">Знаю</button>'
+        : '<button class="btn primary" id="t-show">Показати</button>') + '</div>';
+    } else if (it.f === 'fill') {
+      task = 'Послухайте й допишіть літери';
+      body = '<div class="pcard">' + sayBig(w) + '<div class="pat" lang="en">' + esc(it.pat).replace(/_+/, m => '<span class="gap">' + (r ? esc(it.ans) : m.replace(/_/g, '_ ').trim()) + '</span>') + '</div>' +
+        (r ? '<div class="fb">' + it.fb + '</div>' : '') + '</div>';
+      foot = typeFoot(r, it.ans);
+    } else if (it.f === 'gap') {
+      task = it.ff ? 'Обережно, схоже слово! Що це означає?' : 'Яке слово підходить?';
+      body = '<div class="pcard"><div class="gsent" lang="en">' + esc(it.text).replace('___', '<span class="gap">' + (r ? esc(it.ans) : '&nbsp;?&nbsp;') + '</span>') + '</div>' +
+        (r ? '<div class="fb">' + it.fb + '</div>' : '') + '</div>' +
+        '<div class="opts">' + it.opts.map((o, k) => '<button class="opt' + (r ? (o === it.ans ? ' good' : o === r.pick ? ' bad' : '') : '') + '" data-opt="' + k + '"' +
+          (r ? ' disabled' : '') + ' lang="' + (it.ff ? 'uk' : 'en') + '">' + esc(o) + '</button>').join('') + '</div>';
+      foot = r ? nextRow() : '';
     } else {
-      task = tr.shown ? 'Did you know it?' : 'Say the English word aloud, then check.';
-      face = uk + eq + (tr.shown ? en + sayBtn : '<div class="en q">?</div>');
+      body = '<div class="pcard info' + (it.warn ? ' warn' : '') + '"><div class="i-title">' + esc(it.title) + '</div><div class="i-text">' + it.html + '</div></div>';
+      foot = nextRow();
     }
-    if (mode === 'type') {
-      row = tr.shown
-        ? '<div class="verdict ' + (tr.ok ? 'ok' : 'no') + '">' + (tr.ok ? '✓ Right' : '✗ You typed: ' + esc(tr.typed || '—')) + '</div>' +
-          '<div class="row"><button class="btn primary" id="t-next">Next</button></div>'
-        : '<input class="answer" id="t-ans" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" lang="en" aria-label="English word">' +
-          '<div class="row"><button class="btn" id="t-skip">Show</button><button class="btn primary" id="t-check">Check</button></div>';
-    } else {
-      row = '<div class="row">' + (tr.shown
-        ? '<button class="btn" id="t-again">Again</button><button class="btn primary" id="t-know">I knew it</button>'
-        : '<button class="btn primary" id="t-show">' + (mode === 'listen' ? 'Show the word' : 'Show English') + '</button>') + '</div>';
-    }
+    const done_ = Math.min(tr.i, tr.items.length);
     $('#main').innerHTML = '<div class="train">' +
-      '<div class="ptop"><span class="hint">' + esc(state.poolTitle) + '</span>' + modeSwitch() + '</div>' +
-      '<div class="card"><div class="inner"><div class="face front">' + face + '</div></div></div>' +
-      (task ? '<div class="task">' + task + '</div>' : '') + row +
-      '<div class="count">' + (tr.round > 1 ? 'Round ' + tr.round + ' · ' : '') + (tr.i + 1) + ' / ' + tr.queue.length +
-        (mode === 'type' ? '' : '<span class="keys"> · keys: Space, 1, 2</span>') + '</div></div>';
-    if (mode === 'type' && !tr.shown) { const a = $('#t-ans'); if (a) a.focus({ preventScroll: true }); }
-    if (mode === 'listen' && !tr.shown && tr.played !== tr.i) { tr.played = tr.i; playWord(w); }
+      '<div class="ptop"><span class="hint">' + esc(tr.title) + '</span><div class="pbar"><i style="width:' + Math.round(100 * done_ / tr.items.length) + '%"></i></div></div>' +
+      (task ? '<div class="task">' + task + '</div>' : '') + body + foot +
+      '<div class="count">' + (tr.i + 1) + ' / ' + tr.items.length + '</div>' +
+      (tr.kind === 'first' ? '' : '<details class="pmode"><summary>Як тренуватися?</summary>' + modeSwitch() + '</details>') + '</div>';
+    if (!r && (it.f === 'hear' || it.f === 'type' || it.f === 'fill')) { const a = $('#t-ans'); if (a) a.focus({ preventScroll: true }); }
+    else if (r || it.f === 'info') { const b = $('#t-next'); if (b) b.focus({ preventScroll: true }); }
+    if (!r && (it.f === 'pick' || it.f === 'hear' || it.f === 'fill') && it.played !== tr.i) { it.played = tr.i; playWord(w); }
   }
   function modeSwitch() {
-    return '<div class="seg" role="group" aria-label="How to practice">' +
-      [['say', 'Say it'], ['listen', 'Listen'], ['type', 'Type it']].map(m =>
-        '<button data-pmode="' + m[0] + '" aria-pressed="' + (state.pmode === m[0]) + '">' + m[1] + '</button>').join('') + '</div>';
+    const m = state.pmode || 'mix';
+    return '<div class="seg" role="group" aria-label="Як тренуватися">' +
+      [['mix', 'Мікс'], ['say', 'Скажіть'], ['hear', 'Слухайте'], ['type', 'Пишіть']].map(x =>
+        '<button data-pmode="' + x[0] + '" aria-pressed="' + (m === x[0]) + '">' + x[1] + '</button>').join('') + '</div>';
   }
-  function practiceDone() {
-    if (state.poolLesson) { done.add(state.poolLesson); store.set('sw.done', Array.from(done)); }
-    let next = null;
-    if (state.poolLesson && C()) { const ls = C().lessons, i = ls.findIndex(l => l.id === state.poolLesson); next = ls.slice(i + 1).find(l => !done.has(l.id)) || null; }
-    const due = dueIds().length;
-    $('#main').innerHTML = '<div class="train"><div class="hint">' + esc(state.poolTitle) + '</div><div class="score">' + tr.known + ' / ' + tr.total + '</div>' +
-      '<div class="hint">right on the first try' + (state.poolLesson ? ' · lesson learned ✓' : '') + '</div>' +
-      '<div class="hint">These words come back for review in a day, then in 3 days, a week, two weeks: that is how they stay.</div>' +
-      '<div class="row">' + (next ? '<a class="btn primary" href="#lesson/' + next.id + '">Next lesson: ' + esc(next.title) + ' →</a>' : '') +
-        '<button class="btn' + (next ? '' : ' primary') + '" id="t-restart">Practice again</button>' +
-        (state.poolLesson ? '<a class="btn" href="#lesson/' + state.poolLesson + '">Back to the lesson</a>' : '<a class="btn" href="#learn">Lessons</a>') + '</div>' +
-      (due ? '<div class="hint">' + plural(due, 'word') + ' to review today</div>' : '') + '</div>';
+  function settle(ok, extra, quiet) {   // record the answer to the current task
+    const it = tr.items[tr.i];
+    tr.res = Object.assign({ ok }, extra || {});
+    if (it.w && !it.again) {
+      if (!ok) tr.missed.add(it.w.id);
+      if (--tr.left[it.w.id] === 0) grade(it.w, !tr.missed.has(it.w.id), it.f === 'say' ? 2 : 0);
+      if (ok) tr.right++;
+    }
+    if (!ok && it.w && !it.again) tr.items.push(Object.assign({}, it, { again: true, opts: null, shown: false, played: -1 }));   // once more at the end
+    if (quiet) return;
+    viewPractice();
+    if (it.w && it.f !== 'gap') playWord(it.w);
+    if (ok && it.f === 'pick') { const at = tr.i; setTimeout(() => { if (tr && tr.i === at && tr.res && location.hash === '#practice') nextItem(); }, 1100); }
   }
-  function answer(knew) {
-    const w = tr.queue[tr.i];
-    if (!tr.graded.has(w.id)) { tr.graded.add(w.id); grade(w, knew); }
-    if (knew) { if (!tr.missed.has(w.id)) tr.known++; } else { tr.missed.add(w.id); tr.again.push(w); }
-    tr.i++; tr.shown = false; tr.typed = ''; tr.ok = false; viewPractice();
-  }
+  function nextItem() { tr.i++; tr.res = null; viewPractice(); }
   function checkTyped(skip) {
-    const w = tr.queue[tr.i], a = $('#t-ans');
+    const it = tr.items[tr.i], a = $('#t-ans');
+    if (!it || tr.res) return;
     const typed = skip ? '' : (a ? a.value : '');
     const n = x => fold(x).replace(/[\s\-.'’]/g, '');
-    tr.typed = typed; tr.ok = !skip && !!typed.trim() && n(typed) === n(w.en); tr.shown = true;
-    viewPractice(); playWord(w);
-    const b = $('#t-next'); if (b) b.focus({ preventScroll: true });
+    const target = it.f === 'fill' ? it.ans : it.w.en;
+    settle(!skip && !!typed.trim() && n(typed) === n(target), { typed });
   }
-  // spaced review: words that are due today
-  function startReview() {
-    const ids = dueIds();
-    const go = () => startPractice(shuffled(ids.map(id => BY_ID.get(id)).filter(Boolean)).slice(0, 30), 'Review', '');
-    if (ids.some(id => id[0] === '~') && !SIM.length) loadSimilar().then(go).catch(go); else go();
+  function practiceDone() {
+    markDay();
+    if (tr.lesson) { done.add(tr.lesson); store.set('sw.done', Array.from(done)); }
+    let next = null;
+    if (tr.lesson && C()) { const ls = C().lessons, i = ls.findIndex(l => l.id === tr.lesson); next = ls.slice(i + 1).find(l => !done.has(l.id)) || null; }
+    const st = !tr.lesson && C() ? bestStory(tr.pool) : null;
+    const line = tr.kind === 'first' ? pl(tr.pool.length, SL) + ' у вашому списку. Завтра — 2 хвилини повторення, і вони ваші.'
+      : 'Слова повернуться на повторення завтра, потім через 3 дні, тиждень, два тижні — так вони залишаються в пам’яті.';
+    $('#main').innerHTML = '<div class="train"><div class="hint">' + esc(tr.title) + '</div>' +
+      '<h1 class="done-h">' + (tr.kind === 'daily' ? 'На сьогодні готово!' : 'Готово!') + '</h1>' +
+      '<div class="score">' + tr.right + ' / ' + tr.first + '</div><div class="hint">правильно з першої спроби' + (tr.lesson ? ' · урок вивчено ✓' : '') + '</div>' +
+      '<p class="lead c">' + line + '</p>' +
+      '<div class="row">' + (next ? '<a class="btn primary" href="#lesson/' + next.id + '" lang="en">Наступний урок: ' + esc(next.title) + ' →</a>' : '') +
+        (tr.lesson ? '' : '<button class="btn primary" id="more5">Ще 5 хвилин</button>') +
+        (st ? '<a class="btn" href="#lesson/' + st.id + '">Прочитати історію: <span lang="en">' + esc(st.title) + '</span></a>' : '') +
+        '<button class="btn" id="t-restart">Ще раз</button>' +
+        (tr.lesson ? '<a class="btn" href="#lesson/' + tr.lesson + '">До уроку</a>' : '<a class="btn" href="#learn">На головну</a>') + '</div></div>';
+  }
+
+  // ---------- lesson extras: play all words, read the story aloud, a bubble for a story word
+  let playAllTimer = null;
+  function stopPlayAll() {
+    if (playAllTimer) clearTimeout(playAllTimer);
+    playAllTimer = null;
+    document.querySelectorAll('.playing').forEach(x => x.classList.remove('playing'));
+    const b = $('#play-all'); if (b) b.textContent = '▶ Послухати всі';
+  }
+  function playAll() {
+    if (playAllTimer) { stopPlayAll(); return; }
+    const ws = state.list.filter(canPlay);
+    let i = 0;
+    const b = $('#play-all'); if (b) b.textContent = '■ Зупинити';
+    const step = () => {
+      document.querySelectorAll('.playing').forEach(x => x.classList.remove('playing'));
+      if (i >= ws.length) { stopPlayAll(); return; }
+      const w = ws[i++];
+      playWord(w);
+      const el = Array.from(document.querySelectorAll('[data-id], [data-row]')).find(x => (x.dataset.id || x.dataset.row) === w.id);
+      if (el) el.classList.add('playing');
+      playAllTimer = setTimeout(step, ((w.au ? w.au[2] : 1) + 0.7) * 1000);
+    };
+    step();
+  }
+  function enVoice() {
+    try { const vs = speechSynthesis.getVoices(); return vs.find(v => v.lang === 'en-US') || vs.find(v => /^en/.test(v.lang)) || null; } catch (e) { return null; }
+  }
+  function stopStory() {
+    if (canSpeak) { try { speechSynthesis.cancel(); } catch (e) {} }
+    document.querySelectorAll('.sent.on').forEach(x => x.classList.remove('on'));
+    const b = $('#read-story'); if (b) { b.textContent = '▶ Слухати'; b.dataset.on = ''; }
+  }
+  function readStory(btn) {
+    if (!canSpeak) return;
+    if (btn.dataset.on) { stopStory(); return; }
+    stopPlayAll();
+    const ss = Array.from(document.querySelectorAll('#story .sent'));
+    let i = 0;
+    btn.dataset.on = '1'; btn.textContent = '■ Зупинити';
+    const v = enVoice();
+    const step = () => {
+      document.querySelectorAll('.sent.on').forEach(x => x.classList.remove('on'));
+      if (!btn.dataset.on || i >= ss.length) { stopStory(); return; }
+      const el = ss[i++];
+      el.classList.add('on');
+      const u = new SpeechSynthesisUtterance(el.textContent.replace(/^\s*[A-Z][a-z]+:\s*/, ''));
+      u.lang = 'en-US'; u.rate = .88; if (v) u.voice = v;
+      u.onend = step; u.onerror = stopStory;
+      speechSynthesis.speak(u);
+    };
+    try { speechSynthesis.cancel(); } catch (e) {}
+    step();
+  }
+  function closeBubble() { const b = $('#bubble'); if (b) b.remove(); }
+  function storyWord(en, el) {   // a word in the story: say it and show it in a bubble
+    const w = BY_EN.get(en); if (!w) return;
+    playWord(w);
+    closeBubble();
+    if (!el) return;
+    const on = mine.has(w.id);
+    const b = document.createElement('div');
+    b.className = 'bubble'; b.id = 'bubble'; b.setAttribute('role', 'dialog');
+    b.innerHTML = '<span class="b-en" lang="en">' + stressed(w) + '</span><span class="b-eq">' + (w.sim ? '≈' : '=') + '</span><span class="b-uk" lang="uk">' + esc(w.uk) + '</span>' +
+      (canPlay(w) ? '<button class="icon" data-sayid="' + esc(w.id) + '" aria-label="Вимова: ' + esc(w.en) + '">' + SAY + '</button>' : '') +
+      '<button class="icon add' + (on ? ' on' : '') + '" data-add="' + esc(w.id) + '" aria-label="' + (on ? 'Прибрати з моїх слів' : 'Додати до моїх слів') + '">' + (on ? CHECK : PLUS) + '</button>' +
+      ukStressLine(w);
+    document.body.appendChild(b);
+    const r = el.getBoundingClientRect(), bw = b.offsetWidth;
+    b.style.left = Math.max(8, Math.min(window.scrollX + r.left - 10, window.scrollX + document.documentElement.clientWidth - bw - 8)) + 'px';
+    b.style.top = (window.scrollY + r.bottom + 8) + 'px';
   }
 
   // ---------- routing
@@ -881,16 +1317,20 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     if (h === 'train') h = 'practice';
     const [r, arg] = h.split('/');
     state.route = r; state.arg = arg || '';
+    stopPlayAll(); stopStory(); closeBubble();
     document.querySelectorAll('.menu a').forEach(a => a.setAttribute('aria-current',
-      a.dataset.nav === (r === 'level' || r === 'lesson' || r === 'ex' ? 'learn' : r) ? 'page' : 'false'));
+      a.dataset.nav === (r === 'level' || r === 'lesson' || r === 'ex' || r === 'careful' || r === 'start' ? 'learn' : r) ? 'page' : 'false'));
     renderMineCount();
-    const needCourse = r === 'learn' || r === 'level' || r === 'lesson' || r === 'ex';
+    const needCourse = r === 'learn' || r === 'level' || r === 'lesson' || r === 'ex' || r === 'practice';
     if (needCourse && !C()) {
-      $('#main').innerHTML = '<div class="blank">Loading…</div>';
-      loadCourse().then(route).catch(() => { $('#main').innerHTML = '<div class="blank">The lessons could not be loaded. <a href="#words">Browse all words</a></div>'; });
+      $('#main').innerHTML = '<div class="blank">Завантаження…</div>';
+      loadCourse().then(route).catch(() => { $('#main').innerHTML = '<div class="blank">Не вдалося завантажити уроки. <a href="#words">Усі слова</a></div>'; });
       return;
     }
+    if (r === 'start') { startFirst(); return; }
+    if (r === 'daily') { startDaily(); return; }
     if (r === 'level') viewLevel(state.arg);
+    else if (r === 'careful') viewCareful();
     else if (r === 'lesson') viewLesson(state.arg);
     else if (r === 'ex') viewExclamations();
     else if (r === 'words') viewWords();
@@ -905,13 +1345,16 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
   let swiped = false;
   document.addEventListener('click', e => {
     if (swiped) { swiped = false; return; }
+    if (!e.target.closest('#bubble') && !e.target.closest('.sw')) closeBubble();
     const sw = e.target.closest('.sw');
-    if (sw) { storyWord(sw.dataset.sw); return; }
+    if (sw) { storyWord(sw.dataset.sw, sw); return; }
     const row = e.target.closest('.rw');
     if (row && !e.target.closest('button')) { toggleRow(row); return; }
     const t = e.target.closest('button, .card');
     if (!t) return;
+    if (t.dataset.demo) { const d = $('#demo-after'); if (d) d.hidden = false; }
     if (t.dataset.sayid) { e.stopPropagation(); playWord(BY_ID.get(t.dataset.sayid), t); return; }
+    if (t.dataset.speak) { e.stopPropagation(); speak(t.dataset.speak); return; }
     if (t.dataset.add) {
       e.stopPropagation();
       const id = t.dataset.add;
@@ -919,12 +1362,12 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
       store.set('sw.mine', Array.from(mine));
       if (state.route === 'mine' && !mine.has(id)) { viewMine(); renderMineCount(); return; }
       t.classList.toggle('on', mine.has(id)); t.innerHTML = mine.has(id) ? CHECK : PLUS;
-      t.setAttribute('aria-label', mine.has(id) ? 'Remove from my words' : 'Add to my words');
+      t.setAttribute('aria-label', mine.has(id) ? 'Прибрати з моїх слів' : 'Додати до моїх слів');
       renderMineCount(); return;
     }
     if (t.dataset.view) {
       state.view = t.dataset.view; store.set('sw.view', state.view);
-      document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
+      document.querySelectorAll('.seg button[data-view]').forEach(b => b.setAttribute('aria-pressed', b.dataset.view === state.view));
       state.idx = 0; showCards(state.list); return;
     }
     if (t.dataset.collect) { state.kind = t.dataset.collect; state.band = ''; state.topic = ''; state.q = ''; location.hash = 'words'; return; }
@@ -932,38 +1375,40 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     if (t.id === 'show-more') { appendCards(); return; }
     if (t.id === 'prev') { move(-1); return; }
     if (t.id === 'next') { move(1); return; }
+    if (t.id === 'play-all') { playAll(); return; }
+    if (t.id === 'read-story') { readStory(t); return; }
+    if (t.id === 'daily') { startDaily(); return; }
+    if (t.id === 'more5') { startDaily(true); return; }
     if (t.id === 'practice') {
-      if (state.route === 'lesson') { const f = findLesson(state.arg); if (f) startPractice(state.list, f.l.title, f.l.level ? f.l.id : ''); }
-      else startPractice(state.list, 'My words', '');
+      if (state.route === 'lesson') { const f = findLesson(state.arg); if (f) startSession(itemsFor(state.list, true), f.l.title, { lesson: f.l.level ? f.l.id : '' }); }
+      else startSession(itemsFor(state.list), 'Мої слова');
       return;
     }
-    if (t.id === 'learned') {
-      const id = state.arg; done.has(id) ? done.delete(id) : done.add(id); store.set('sw.done', Array.from(done));
-      t.classList.toggle('done', done.has(id)); t.textContent = done.has(id) ? '✓ Learned' : 'Mark as learned'; return;
-    }
-    if (t.id === 't-show') { tr.shown = true; viewPractice(); playWord(tr.queue[tr.i]); return; }
-    if (t.id === 't-know') { answer(true); return; }
-    if (t.id === 't-again') { answer(false); return; }
-    if (t.id === 't-restart') { tr = null; viewPractice(); return; }
-    if (t.dataset.pmode) { state.pmode = t.dataset.pmode; store.set('sw.pmode', state.pmode); tr.shown = false; tr.played = -1; viewPractice(); return; }
-    if (t.id === 't-check') { checkTyped(false); return; }
-    if (t.id === 't-skip') { checkTyped(true); return; }
-    if (t.id === 't-next') { answer(tr.ok); return; }
-    if (t.id === 'review') { startReview(); return; }
     if (t.classList.contains('card') && !t.closest('.train')) {
       if (String(window.getSelection ? getSelection() : '')) return;   // selecting text should not flip
-      flip(t);
+      flip(t); return;
     }
+    if (!tr) return;
+    const it = tr.items[tr.i];
+    if (t.dataset.pmode) {
+      state.pmode = t.dataset.pmode; store.set('sw.pmode2', state.pmode);
+      startSession(state.pmode === 'mix' && tr.kind === 'first' ? tr.orig : itemsFor(tr.pool, !!tr.lesson), tr.title, { lesson: tr.lesson, kind: tr.kind });
+      return;
+    }
+    if (t.dataset.opt != null && it && !tr.res) {
+      const k = +t.dataset.opt;
+      if (it.f === 'pick') settle(it.opts[k] === it.w, { pick: it.opts[k] });
+      else if (it.f === 'gap') settle(it.opts[k] === it.ans, { pick: it.opts[k] });
+      return;
+    }
+    if (t.dataset.syl != null && it && !tr.res) { const k = +t.dataset.syl; settle(k === sylls(it.w).k, { pick: k }); return; }
+    if (t.id === 't-check') { checkTyped(false); return; }
+    if (t.id === 't-skip') { checkTyped(true); return; }
+    if (t.id === 't-next') { nextItem(); return; }
+    if (t.id === 't-show' && it) { it.shown = true; viewPractice(); playWord(it.w); return; }
+    if ((t.id === 't-know' || t.id === 't-again') && it) { settle(t.id === 't-know', null, true); nextItem(); return; }
+    if (t.id === 't-restart') { startSession(tr.orig.map(x => Object.assign({}, x, { opts: null, shown: false, played: -1 })), tr.title, { lesson: tr.lesson, kind: tr.kind }); return; }
   });
-  function storyWord(en) {   // a word in the story: say it and show its card
-    const w = BY_EN.get(en); if (!w) return;
-    playWord(w);
-    if (state.view === 'single') { const i = state.list.indexOf(w); if (i >= 0 && i !== state.idx) { state.idx = i; showCards(state.list); } }
-    const card = Array.from(document.querySelectorAll('.card')).find(c => c.dataset.id === w.id);
-    if (!card) return;
-    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 1200);
-  }
   let qTimer = null;
   document.addEventListener('input', e => {
     if (e.target.id === 'q') { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; refreshWords(); }, 120); }
@@ -976,20 +1421,27 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
     else if (id === 'f-ns') { state.hideNs = e.target.checked; store.set('sw.hideNs2', state.hideNs); refreshWords(); }
   });
   document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeBubble();
     if (e.target.id === 't-ans' && e.key === 'Enter') { e.preventDefault(); checkTyped(false); return; }
     if (e.target.closest && e.target.closest('input, textarea, select')) return;
-    if (state.route === 'practice' && tr && $('#t-next')) {
-      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); answer(tr.ok); }
-      return;
-    }
     if (state.route === 'practice' && tr) {
-      if ((e.key === ' ' || e.key === 'Enter') && !tr.shown && $('#t-show')) { e.preventDefault(); $('#t-show').click(); }
-      else if ((e.key === '1' || e.key === 'ArrowLeft') && tr.shown) answer(false);
-      else if ((e.key === '2' || e.key === 'ArrowRight') && tr.shown) answer(true);
+      const it = tr.items[tr.i];
+      if (tr.res || (it && it.f === 'info')) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); nextItem(); } return; }
+      if (!it) return;
+      if (/^[1-9]$/.test(e.key)) {
+        const b = document.querySelector('[data-opt="' + (e.key - 1) + '"], [data-syl="' + (e.key - 1) + '"]');
+        if (b) { e.preventDefault(); b.click(); }
+        return;
+      }
+      if (it.f === 'say') {
+        if ((e.key === ' ' || e.key === 'Enter') && !it.shown) { e.preventDefault(); $('#t-show').click(); }
+        else if (it.shown && (e.key === 'ArrowLeft')) $('#t-again').click();
+        else if (it.shown && (e.key === 'ArrowRight' || e.key === 'Enter')) $('#t-know').click();
+      }
       return;
     }
     const a = document.activeElement;
-    if ((e.key === 'Enter' || e.key === ' ') && a && a.classList && a.classList.contains('sw')) { e.preventDefault(); storyWord(a.dataset.sw); return; }
+    if ((e.key === 'Enter' || e.key === ' ') && a && a.classList && a.classList.contains('sw')) { e.preventDefault(); storyWord(a.dataset.sw, a); return; }
     if ((e.key === 'Enter' || e.key === ' ') && a && a.classList && a.classList.contains('rw')) { e.preventDefault(); toggleRow(a); return; }
     if (e.key === 'ArrowRight' && state.view === 'single' && $('.single')) move(1);
     else if (e.key === 'ArrowLeft' && state.view === 'single' && $('.single')) move(-1);
