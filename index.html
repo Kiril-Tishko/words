@@ -83,6 +83,8 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
 .lv .body { min-width: 0; flex: 1; }
 .lv .name { font: 600 18px var(--word); }
 .lv .about { color: var(--muted); font-size: 13.5px; line-height: 1.4; margin-top: 2px; }
+.lv .sample { margin-top: 8px; }
+@media (max-width: 560px) { .lv { padding: 14px 16px; } .lv .sample { display: none; } .lv .code { width: 46px; height: 46px; font-size: 19px; border-radius: 13px; } }
 .lv .stats { color: var(--muted); font-size: 12.5px; margin-top: 8px; font-variant-numeric: tabular-nums; }
 .prog { height: 4px; border-radius: 4px; background: var(--line); margin-top: 6px; overflow: hidden; }
 .prog i { display: block; height: 100%; background: var(--lc); border-radius: 4px; }
@@ -615,7 +617,7 @@ h2 { font-family: var(--word); font-weight: 600; font-size: 20px; margin: 0 0 12
         '<span class="body"><span class="name">' + esc(L.name) + '</span><div class="about">' + esc(L.about) + '</div>' +
         '<div class="stats">' + plural(ls.length, 'lesson') + ' · ' + plural(n, 'word') + (d ? ' · ' + d + ' learned' : '') + '</div>' +
         '<div class="prog"><i style="width:' + Math.round(100 * d / Math.max(1, ls.length)) + '%"></i></div>' +
-        '<div class="about" style="margin-top:8px">' + esc(sample) + '</div></span></a>';
+        '<div class="about sample">' + esc(sample) + '</div></span></a>';
     }).join('');
     const ns = WORDS.filter(w => w.mk === 's').length, na = WORDS.filter(w => w.mk === 'a').length;
     $('#main').innerHTML =

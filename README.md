@@ -9,9 +9,16 @@ Three places, in the top bar:
 - **Learn**: the course. Six levels (A0 Starter, A1, A2, B1, B2, C1), each split into topic sections and short lessons of 6–10 words.
   - Each lesson is a story written at the lesson's level. An A0 story uses 3–7-word sentences in the present simple; B2 and C1 stories are natural text.
   - A lesson only teaches words of its own level. Tap a highlighted word to hear it and see its card.
-  - **Practice these words** drills the lesson: see the Ukrainian word, recall the English one. Finishing it marks the lesson as learned, and progress shows on the level tiles.
-  - Collections: **Exclamations** (wow, oops, ciao… in short dialogues), **★ English too**, **Anglicisms**.
-- **Words**: all 13,000+ cards. Search in English or Ukrainian. Filter by frequency (Top 1000 … Rare), topic and kind (★ English too, anglicisms, exclamations). **Hide slang** hides pairs whose Ukrainian word is slang (people = піпл) and rude English words. Grid or One by one.
+  - **Practice these words** drills the lesson in three ways:
+    - **Say it**: see the Ukrainian word, say the English one aloud, then check.
+    - **Listen**: hear the English word, recall it.
+    - **Type it**: type the English spelling.
+
+    Finishing a drill marks the lesson as learned and offers the next lesson.
+  - **Review**: every practiced word comes back after 1, 3, 7, 14, 30 and 60 days (a miss starts it again). The home page shows a **Review** button when words are due. Progress is kept in the browser.
+  - Collections: **Almost the same** (problem ≈ проблема), **Exclamations** (wow, oops, ciao… in short dialogues), **★ English too**, **Anglicisms**.
+- **Words**: all 13,000+ cards. Search in English or Ukrainian. Filter by frequency (Top 1000 … Rare), topic and kind (★ English too, anglicisms, exclamations, almost the same). **Hide slang** hides pairs whose Ukrainian word is slang (people = піпл) and rude English words.
+  - Three views: **Grid** (flip cards), **One by one**, **List**. Phones start with List; tap a row to see its examples.
 - **My words**: cards saved with **+**, with Practice.
 
 Cards:
@@ -45,6 +52,13 @@ The back of every card has a picture place.
 
 ### Stress mark
 The underlined vowel is the stressed syllable as the recording says it (`tools/compute_stress.py`). It uses the voice model's pronunciation dictionary (misaki), with CMUdict as a fallback. Noun/verb pairs use the noun reading (UPdate, IMpact).
+
+### Almost the same
+2,820 more words whose Ukrainian twin sounds almost the same and means the same: problem ≈ проблема, music ≈ музика, chocolate ≈ шоколад (`tools/build_similar.py` → `similar.js`). They come from two sources:
+- the pairs the first check judged "similar"
+- a new pass over the 5,000 most used English words (`tools/workflows/similar-find.js`)
+
+A strict checker (`tools/workflows/similar-check.js`) then re-read every pair in Top 20K. It kept only pairs that a learner hears as similar at once, with the same main everyday meaning and a standard Ukrainian word. That removed won = вона, rest = решта, report = рапорт and matter = матерія. Names are left out.
 
 ## Examples
 Every card has 4 English example sentences in the card's meaning. Their level follows the band:
