@@ -1,45 +1,44 @@
 # Same Words · Однакові слова
 
-Flip cards of English words that are the same in Ukrainian (taxi = таксі, computer = комп'ютер, hotel = готель), for learning English. Cards are sorted by how often the English word is used in the meaning on the card.
+English words a Ukrainian already knows (taxi = таксі, metal = метал, organize ≈ організувати), grouped into **clouds**: one real-life situation, its words, and the sentences that use them. For Ukrainian students of English at about A2–B1.
 
 Open `index.html` in a browser. It works offline, and on any static host such as GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
 ## Site
-The interface is in Ukrainian; the words, stories and examples are in English (`docs/review/sla-review.md`, a review by a professor of applied linguistics and second-language acquisition).
+The page has the shape of a lesson page: one thing per screen, the big line in the middle, Back and Next at the bottom. Labels are in simple English; Ukrainian appears in small fixed places (the twin of each word, the prompt to say, the translation behind «Переклад», the warning).
 
-- **First visit**: the first screen ("Ви вже знаєте тисячі англійських слів") plays three words whose stress moves: інтернЕт → INternet, студЕнт → STUdent, таксІ → TAXi. **Почати · 5 хвилин** starts a ready first session of 12 frequent words, with no choices to make. The session has four steps:
-  - hear the word and pick its Ukrainian twin
-  - tap the stressed syllable
-  - fill in the missing letters (ph, c, ll)
-  - pick the word partner (take a photo, two million dollars, an idea)
+- **Today** opens on the next cloud with one button, **Start** or **Continue**. No level to choose.
+- **A cloud** is one situation (At the café, At the doctor's, At the office). Its screens:
+  1. **Repeat**: three sentences from earlier clouds.
+  2. **Words**: the cloud. 16 words the student already knows, each with its Ukrainian twin; tap to hear it and see a sentence. More words are folded under one button.
+  3. **Say it**: five ready phrases. The Ukrainian line comes first; the student says it in English, taps **Answer** and hears it.
+  4. **Dialogue**: four lines marked "You hear" and "You say", with sound and a hidden translation.
+  5. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
+  6. **All together**: the phrases as a list with sound.
+  7. **This week**: three sentences the student writes for their own week.
+- **Clouds** lists all 76 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
+- **Search** finds any of the 13,000+ identical words and the "almost the same" words, in English or Ukrainian.
 
-  It ends with one false friend (magazine ≠ магазин).
-- **Return visits**: one daily session. Words that are due for review come first, then the next 8 words by frequency, then one false friend. The home page shows how many words the student can already say (right on two different days) and the days practiced this week.
-- **Practice** checks every answer:
-  - hear and pick
-  - tap the stress
-  - hear and type
-  - type from the Ukrainian word
+### Clouds instead of levels
+Every word here is already known, so there are no difficulty levels. The clouds go from what is needed every day to what is needed less often (`docs/review/practical-redesign.md`):
 
-  A wrong answer comes back once at the end, and the first wrong letter is marked. "Як тренуватися?" switches to a single format, including "Скажіть" (say it aloud and check yourself).
-- **Review**: each word comes back after 1, 3, 7, 14, 30 and 60 days. It moves up only when it is answered right on the day it is due, and a self-check lifts it no higher than box 2.
-- **Learn**: six levels (A0 … C1) with 318 short lessons. Each lesson has its words and a story at the lesson's level.
-  - **▶ Послухати всі** plays the lesson's words, and **▶ Слухати** reads the story sentence by sentence.
-  - Tapping a story word shows it in a bubble with its sound.
-  - A0–A1 lessons show the words before the story.
-- **Collections**:
-  - **Майже однакові** (problem ≈ проблема)
-  - **Обережно!** (30 false friends)
-  - **Вигуки**
-  - **★ Теж англійські**
-  - **Англіцизми**
-- **Words**: all 13,000+ cards. Search in English or Ukrainian, and filter by frequency, topic and kind.
-  - **Без сленгу** hides rude words and the slang pairs outside the 2,000 most used words, so hello, OK and sorry stay findable.
-  - Three views: Grid (flip cards), One by one, List. Phones start with List; tap a row to see its examples.
-- **Мої слова**: cards saved with **+**, with practice.
+| Circle | Clouds | Examples |
+|---|---|---|
+| Every day | 36 | café, supermarket, home, clothes, city, transport, travel, money, doctor, people, sport, music, internet |
+| Rules | 8 | ‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм → ‑ism |
+| Work and study | 19 | office, projects, business, banking, IT, production, delivery, and three clouds of verbs |
+| The wider world | 11 | politics, law, science, space, art |
+| On the side | 2 | reactions (OK, wow, oops) and slang (friend, people, cool) |
+
+How they are made:
+- The clouds are written by hand in `data/clouds/*.txt`: words, phrases, a dialogue and a warning for each. `tools/build_clouds.py` looks every word up in the checked lists and builds `clouds.js`. A word that is not in the lists cannot enter a cloud unchecked.
+- 249 pairs were new, mostly verbs and adjectives. 216 were kept and 33 rejected; each decision is in `data/clouds/checked.json`.
+- `tools/make_cloud_audio.py` records every word, phrase and dialogue line, one file per cloud (`audio/cloud-<id>.mp3`).
+
+The earlier site (CEFR levels, lessons with stories, flip cards) is kept as `site/app-v2-levels.html`; its data is still in `data/course/` and `data/stories/`. The sections below describe the word cards, which Search still shows.
 
 Cards:
-- **Front**: the English word with its stressed vowel coloured and underlined, "=", and the Ukrainian word. On 58 frequent cards whose Ukrainian twin is stressed on another syllable, a line shows both: «укр. президЕнт · англ. PREsident». 🇬🇧 marks British-only words, and 🔊 plays the recording.
+- **Front**: the English word with its stressed vowel marked, "=", and the Ukrainian word. 🇬🇧 marks British-only words, and 🔊 plays the recording.
 - **Back**: a picture, grammar ("a photo · photos"), rank, word partners ("Say:"), 4 examples and an English-only note.
 
 ### Marks
@@ -49,7 +48,7 @@ Two small badges on the card (front, bottom right), chosen by agents for every c
 
 The **Topics** menu can show only one kind ("★ English too", "Anglicisms") in any band.
 
-### How the lessons are made
+### The earlier course (kept, not shown)
 Every course word has a CEFR level (Cambridge Starters, CEFR-J and Octanove lists, or the checker's level for the card's meaning). The course holds all A0–B2 words and the C1 words of Top 20K: 2,590 words in 318 lessons.
 - `tools/build_course.py` runs the pipeline. `tools/workflows/course-group.js` groups each level's words into scenes, keeping very similar words together (mister / Mrs. / Miss). `tools/workflows/course-write.js` writes each story at the lesson's level. The result is `data/course/course.json`, which becomes `course.js`.
 - The earlier topic-based Stories outline (`data/stories/`, `docs/review/grouping.md`) is kept: the Exclamations dialogues come from it, and so do the families of similar words.
@@ -155,6 +154,8 @@ python3 tools/compute_ranks.py
 python3 tools/phrase_freq.py
 python3 tools/compute_register.py
 python3 tools/compute_stress.py
-python3 tools/build_site.py
+python3 tools/build_clouds.py                # clouds.js from data/clouds/*.txt
+python3 tools/build_site.py                  # index.html, words.js, details
+/home/user/tts-venv/bin/python tools/make_cloud_audio.py   # one sound file per cloud, then build_clouds.py again
 python3 tools/make_audio.py --workers 2     # needs the Kokoro venv; --rebundle to repack all bundles
 ```
