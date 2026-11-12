@@ -1,6 +1,6 @@
 # Same Words · Однакові слова
 
-English words a Ukrainian already knows (taxi = таксі, metal = метал, organize ≈ організувати), grouped into **clouds**: one real-life situation, its words, and the sentences that use them. For Ukrainian students of English at about A2–B1.
+English words a Ukrainian already knows (taxi = таксі, metal = метал, organize ≈ організувати), grouped into **clouds**: one real-life situation, its words with pictures, and very simple sentences that use them. For Ukrainian students of English, from beginners up.
 
 Open `index.html` in a browser. It works offline, and on any static host such as GitHub Pages (Settings → Pages → deploy from this branch, root folder).
 
@@ -10,32 +10,41 @@ The page has the shape of a lesson page: one thing per screen, the big line in t
 - **Today** opens on the next cloud with one button, **Start** or **Continue**. No level to choose.
 - **A cloud** is one situation (At the café, At the doctor's, At the office). Its screens:
   1. **Repeat**: three sentences from earlier clouds. A rule cloud starts with its rule on one card.
-  2. **Words**: the cloud. 16 words the student already knows, each with its Ukrainian twin; tap to hear it and see a sentence. More words are folded under one button.
-  3. **Say it**: five ready phrases. The Ukrainian line comes first; the student says it in English, taps **Answer** and hears it.
-  4. **Change one word**: one sentence frame, and the student swaps in other words they already know (A cappuccino, please → latte → espresso).
-  5. **Dialogue**: four lines marked "You hear" and "You say", with sound and a hidden translation.
-  6. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
-  7. **All together**: the phrases as a list with sound.
-  8. **This week**: three sentences the student writes for their own week.
-- **Clouds** lists all 78 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
+  2. **Words**: the cloud. 16 words the student already knows, each with a picture and its Ukrainian twin; tap to hear it. More words are folded under one button.
+     - The stressed vowel is underlined. The line is pink when the stress is not where it is in the Ukrainian word (меню́, but **ME**nu).
+     - A **rare** tag marks a word that English speakers use much less than Ukrainians use its twin. A tap shows what people usually say (barman → bartender, telephone → phone).
+  3. **Look and say**: pictures only. The student says the word, then taps the picture to check and hear it.
+  4. **Say it**: five very simple sentences. The Ukrainian line comes first; the student says it in English, taps **Answer** and hears it.
+  5. **Change one word**: one sentence, and the student swaps in other words they already know (A latte, please → cappuccino → espresso).
+  6. **Dialogue**: four short lines marked "You hear" and "You say", with sound and a hidden translation.
+  7. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
+  8. **All together**: the sentences as a list with sound.
+  9. **This week**: three sentences the student writes for their own week.
+- **Clouds** lists all 81 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
+- **Little words** (`index.html#kit`) lists the 68 little words that all the sentences are made of, with sound.
 - **Search** finds any of the 13,000+ identical words and the "almost the same" words, in English or Ukrainian.
+
+### Very simple sentences
+Every sentence is made of **little words + words of the clouds**, six words at most: *A latte, please. This is my passport. I need a doctor. Where is the bank?* The little words are in `data/clouds/kit.txt` (I, is, a, the, this, have, need, want, like, where, and, no, please…). There are no past forms, no "can" and no "do" questions. The build checks every sentence and stops on any other word. Two start clouds teach the little words first. Why and how: `docs/review/simple-natural-pictures.md`.
 
 ### Clouds instead of levels
 Every word here is already known, so there are no difficulty levels. The clouds go from what is needed every day to what is needed less often (`docs/review/practical-redesign.md`):
 
 | Circle | Clouds | Examples |
 |---|---|---|
-| Every day | 36 | café, supermarket, home, clothes, city, transport, travel, money, doctor, people, sport, music, internet |
+| Every day | 39 | two start clouds, café, supermarket, home, clothes, city, transport, countries, travel, money, doctor, people, sport, music, internet |
 | Rules | 9 | ‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм → ‑ism, ‑но → ‑ly |
 | Work and study | 19 | office, projects, business, banking, IT, production, delivery, and three clouds of verbs |
 | The wider world | 11 | politics, law, science, space, art |
 | On the side | 3 | reactions (OK, wow, oops), slang (friend, people, cool) and old relatives (sister ≈ сестра, nose ≈ ніс) |
 
 How they are made:
-- The clouds are written by hand in `data/clouds/*.txt`: words, phrases, a dialogue and a warning for each. `tools/build_clouds.py` looks every word up in the checked lists and builds `clouds.js`. A word that is not in the lists cannot enter a cloud unchecked.
-- 305 pairs were new, mostly verbs, adjectives and adverbs. 272 were kept and 33 rejected; each decision is in `data/clouds/checked.json`.
-- Every phrase, dialogue and warning was then read again as an editor would, and about 30 were corrected (calques such as "rocket attack" for a missile attack, or "ecology" for the environment).
-- `tools/make_cloud_audio.py` records every word, phrase and dialogue line, one file per cloud (`audio/cloud-<id>.mp3`).
+- The clouds are written by hand in `data/clouds/[a-e]-*.txt`: words, sentences, a dialogue and a warning for each. `tools/build_clouds.py` looks every word up in the checked lists, checks every sentence against the little words, and builds `clouds.js`. A word that is not in the lists cannot enter a cloud unchecked.
+- 350 pairs were new, mostly verbs, adjectives, adverbs and place names. 317 were kept and 33 rejected; each decision is in `data/clouds/checked.json`.
+- `data/clouds/words/*.txt` has one line for every word: its picture and, where needed, a usage note ("rare: bartender"). Both were decided by hand. 97 words are marked rare and 46 more have a tip.
+- Pictures are Fluent Emoji 3D (Microsoft, MIT license). `tools/make_cloud_pictures.py` makes one picture sheet per cloud (`pictures/cloud-<id>.webp`).
+- `tools/compute_cloud_stress.py` finds the stressed vowel of every word and the 668 words whose stress moves. The Ukrainian stress comes from the Ukrainian Wiktionary (CC BY-SA), kept in `data/clouds/uk-stress.json`.
+- `tools/make_cloud_audio.py` records every word, sentence and dialogue line, one file per cloud (`audio/cloud-<id>.mp3`), and the little words (`audio/kit.mp3`).
 
 The earlier site (CEFR levels, lessons with stories, flip cards) is kept as `site/app-v2-levels.html`; its data is still in `data/course/` and `data/stories/`. The sections below describe the word cards, which Search still shows.
 
@@ -156,8 +165,10 @@ python3 tools/compute_ranks.py
 python3 tools/phrase_freq.py
 python3 tools/compute_register.py
 python3 tools/compute_stress.py
-python3 tools/build_clouds.py                # clouds.js from data/clouds/*.txt
-python3 tools/build_site.py                  # index.html, words.js, details
+python3 tools/build_clouds.py                # clouds.js from data/clouds/; checks every sentence against the little words
+/home/user/tts-venv/bin/python tools/compute_cloud_stress.py   # stress marks of the cloud words, then build_clouds.py again
+python3 tools/make_cloud_pictures.py         # one picture sheet per cloud (needs Pillow and the Fluent Emoji 3D pictures)
 /home/user/tts-venv/bin/python tools/make_cloud_audio.py   # one sound file per cloud, then build_clouds.py again
+python3 tools/build_site.py                  # index.html, words.js, details
 python3 tools/make_audio.py --workers 2     # needs the Kokoro venv; --rebundle to repack all bundles
 ```

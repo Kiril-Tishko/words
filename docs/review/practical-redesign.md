@@ -2,6 +2,8 @@
 
 *12 November 2026. Why the site changed from levels and stories to clouds, and how the clouds are made.*
 
+*Update, 13 November: the teacher found the sentences of this first version too hard. All of them were rewritten as very simple sentences; rare words got a note; every word got a picture. See `simple-natural-pictures.md`. The parts below that describe "phrases at A2 level" describe the first version.*
+
 ## What was wrong
 
 The teacher's verdict on the earlier site: not practical. The groups, the levels and the texts were wrong, and the useful words were buried under thousands of rare ones.

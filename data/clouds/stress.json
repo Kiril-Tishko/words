@@ -1,0 +1,5982 @@
+{
+"taxi": [
+1,
+2
+],
+"pizza": [
+1,
+2
+],
+"menu": [
+1,
+2
+],
+"doctor": [
+1,
+2
+],
+"passport": [
+1,
+2
+],
+"hotel": [
+3,
+4
+],
+"tourist": [
+1,
+3
+],
+"student": [
+2,
+3
+],
+"salad": [
+1,
+2
+],
+"music": [
+1,
+2
+],
+"problem": [
+2,
+3
+],
+"computer": [
+4,
+5
+],
+"center": [
+1,
+2
+],
+"visa": [
+1,
+2
+],
+"idea": [
+2,
+3
+],
+"football": [
+1,
+3
+],
+"tennis": [
+1,
+2
+],
+"chocolate": [
+2,
+3
+],
+"banana": [
+3,
+4
+],
+"lemon": [
+1,
+2
+],
+"yoga": [
+1,
+2
+],
+"cafe": [
+3,
+4
+],
+"restaurant": [
+1,
+2
+],
+"office": [
+0,
+1
+],
+"company": [
+1,
+2
+],
+"Ukraine": [
+3,
+5
+],
+"cappuccino": [
+7,
+8
+],
+"latte": [
+1,
+2
+],
+"espresso": [
+4,
+5
+],
+"americano": [
+6,
+7
+],
+"dessert": [
+4,
+5
+],
+"croissant": [
+6,
+7
+],
+"sandwich": [
+1,
+2
+],
+"yogurt": [
+1,
+2
+],
+"syrup": [
+1,
+2
+],
+"barista": [
+3,
+4
+],
+"muffin": [
+1,
+2
+],
+"tiramisu": [
+5,
+6
+],
+"cocoa": [
+1,
+2
+],
+"vanilla": [
+3,
+4
+],
+"portion": [
+1,
+2
+],
+"terrace": [
+1,
+2
+],
+"appetite": [
+0,
+1
+],
+"pasta": [
+1,
+2
+],
+"barbecue": [
+1,
+2
+],
+"service": [
+1,
+2
+],
+"reserve": [
+3,
+4
+],
+"spaghetti": [
+5,
+6
+],
+"filet": [
+3,
+4
+],
+"ragout": [
+3,
+5
+],
+"bouillon": [
+1,
+4
+],
+"puree": [
+3,
+5
+],
+"curry": [
+1,
+2
+],
+"kebab": [
+3,
+4
+],
+"sushi": [
+1,
+2
+],
+"salami": [
+3,
+4
+],
+"bacon": [
+1,
+2
+],
+"parmesan": [
+1,
+2
+],
+"mozzarella": [
+6,
+7
+],
+"ingredient": [
+4,
+5
+],
+"vegetarian": [
+5,
+6
+],
+"vegan": [
+1,
+2
+],
+"sommelier": [
+6,
+8
+],
+"banquet": [
+1,
+2
+],
+"burger": [
+1,
+2
+],
+"hamburger": [
+1,
+2
+],
+"popcorn": [
+1,
+2
+],
+"ketchup": [
+1,
+2
+],
+"mayonnaise": [
+1,
+4
+],
+"cola": [
+1,
+2
+],
+"cocktail": [
+1,
+2
+],
+"courier": [
+1,
+3
+],
+"combo": [
+1,
+2
+],
+"pizzeria": [
+6,
+7
+],
+"taco": [
+1,
+2
+],
+"shawarma": [
+4,
+5
+],
+"nuggets": [
+1,
+2
+],
+"wasabi": [
+3,
+4
+],
+"ramen": [
+1,
+2
+],
+"tofu": [
+3,
+4
+],
+"lemonade": [
+5,
+6
+],
+"tonic": [
+1,
+2
+],
+"smoothie": [
+2,
+4
+],
+"champagne": [
+5,
+6
+],
+"whiskey": [
+2,
+3
+],
+"alcohol": [
+0,
+1
+],
+"cider": [
+1,
+2
+],
+"liqueur": [
+4,
+6
+],
+"martini": [
+4,
+5
+],
+"barman": [
+1,
+2
+],
+"tequila": [
+4,
+5
+],
+"cognac": [
+1,
+2
+],
+"brandy": [
+2,
+3
+],
+"mojito": [
+3,
+4
+],
+"margarita": [
+6,
+7
+],
+"bourbon": [
+1,
+3
+],
+"lager": [
+1,
+2
+],
+"nectar": [
+1,
+2
+],
+"kefir": [
+3,
+4
+],
+"shaker": [
+2,
+3
+],
+"mango": [
+1,
+2
+],
+"kiwi": [
+1,
+2
+],
+"avocado": [
+4,
+5
+],
+"mandarin": [
+1,
+2
+],
+"tomato": [
+3,
+4
+],
+"olive": [
+0,
+1
+],
+"apricot": [
+0,
+1
+],
+"coconut": [
+1,
+2
+],
+"vitamin": [
+1,
+2
+],
+"zucchini": [
+5,
+6
+],
+"artichoke": [
+0,
+1
+],
+"citrus": [
+1,
+2
+],
+"spinach": [
+2,
+3
+],
+"radish": [
+1,
+2
+],
+"nectarine": [
+6,
+7
+],
+"pepper": [
+1,
+2
+],
+"supermarket": [
+1,
+2
+],
+"product": [
+2,
+3
+],
+"kilogram": [
+1,
+2
+],
+"liter": [
+1,
+2
+],
+"margarine": [
+1,
+2
+],
+"muesli": [
+1,
+3
+],
+"cracker": [
+2,
+3
+],
+"sardine": [
+4,
+5
+],
+"hypermarket": [
+1,
+2
+],
+"kiosk": [
+1,
+2
+],
+"bazaar": [
+3,
+5
+],
+"blender": [
+2,
+3
+],
+"mixer": [
+1,
+2
+],
+"toaster": [
+1,
+3
+],
+"filter": [
+1,
+2
+],
+"thermos": [
+2,
+3
+],
+"container": [
+4,
+6
+],
+"electric": [
+2,
+3
+],
+"recipe": [
+1,
+2
+],
+"marinade": [
+5,
+6
+],
+"timer": [
+1,
+2
+],
+"thermometer": [
+5,
+6
+],
+"boiler": [
+1,
+3
+],
+"fondue": [
+4,
+6
+],
+"siphon": [
+1,
+2
+],
+"cellophane": [
+1,
+2
+],
+"plastic": [
+2,
+3
+],
+"aroma": [
+2,
+3
+],
+"sofa": [
+1,
+2
+],
+"balcony": [
+1,
+2
+],
+"garage": [
+3,
+4
+],
+"toilet": [
+1,
+3
+],
+"interior": [
+3,
+4
+],
+"comfort": [
+1,
+2
+],
+"radiator": [
+1,
+2
+],
+"cottage": [
+1,
+2
+],
+"villa": [
+1,
+2
+],
+"apartment": [
+2,
+3
+],
+"design": [
+3,
+4
+],
+"sauna": [
+1,
+3
+],
+"aquarium": [
+3,
+4
+],
+"corridor": [
+1,
+2
+],
+"parquet": [
+5,
+6
+],
+"veranda": [
+3,
+4
+],
+"hammock": [
+1,
+2
+],
+"jacuzzi": [
+3,
+4
+],
+"panel": [
+1,
+2
+],
+"cement": [
+3,
+4
+],
+"divan": [
+1,
+2
+],
+"mattress": [
+1,
+2
+],
+"linoleum": [
+3,
+4
+],
+"portrait": [
+1,
+2
+],
+"television": [
+1,
+2
+],
+"radio": [
+1,
+2
+],
+"telephone": [
+1,
+2
+],
+"printer": [
+2,
+3
+],
+"camera": [
+1,
+2
+],
+"thermostat": [
+2,
+3
+],
+"battery": [
+1,
+2
+],
+"adapter": [
+2,
+3
+],
+"antenna": [
+3,
+4
+],
+"signal": [
+1,
+2
+],
+"monitor": [
+1,
+2
+],
+"microphone": [
+1,
+2
+],
+"generator": [
+1,
+2
+],
+"sensor": [
+1,
+2
+],
+"projector": [
+4,
+5
+],
+"stereo": [
+2,
+3
+],
+"scanner": [
+2,
+3
+],
+"modem": [
+1,
+2
+],
+"laser": [
+1,
+2
+],
+"shampoo": [
+5,
+7
+],
+"lotion": [
+1,
+2
+],
+"deodorant": [
+2,
+3
+],
+"massage": [
+4,
+5
+],
+"manicure": [
+1,
+2
+],
+"pedicure": [
+1,
+2
+],
+"tampon": [
+1,
+2
+],
+"cosmetics": [
+4,
+5
+],
+"perfume": [
+4,
+5
+],
+"aerosol": [
+0,
+2
+],
+"vaseline": [
+5,
+6
+],
+"salon": [
+3,
+4
+],
+"stylist": [
+2,
+3
+],
+"barber": [
+1,
+2
+],
+"tattoo": [
+4,
+6
+],
+"piercing": [
+1,
+3
+],
+"sweater": [
+2,
+4
+],
+"sandals": [
+1,
+2
+],
+"pajamas": [
+3,
+4
+],
+"jacket": [
+1,
+2
+],
+"hoodie": [
+1,
+3
+],
+"cardigan": [
+1,
+2
+],
+"bikini": [
+3,
+4
+],
+"color": [
+1,
+2
+],
+"uniform": [
+0,
+1
+],
+"model": [
+1,
+2
+],
+"pullover": [
+1,
+2
+],
+"beret": [
+3,
+4
+],
+"poncho": [
+1,
+2
+],
+"parka": [
+1,
+2
+],
+"kimono": [
+3,
+4
+],
+"rucksack": [
+1,
+2
+],
+"nylon": [
+1,
+2
+],
+"textile": [
+1,
+2
+],
+"chiffon": [
+5,
+6
+],
+"corset": [
+1,
+2
+],
+"leggings": [
+1,
+2
+],
+"blazer": [
+2,
+3
+],
+"boutique": [
+4,
+5
+],
+"mannequin": [
+1,
+2
+],
+"designer": [
+3,
+4
+],
+"camouflage": [
+1,
+2
+],
+"khaki": [
+2,
+3
+],
+"museum": [
+3,
+4
+],
+"theater": [
+2,
+3
+],
+"cinema": [
+1,
+2
+],
+"stadium": [
+2,
+3
+],
+"police": [
+3,
+4
+],
+"station": [
+2,
+3
+],
+"metro": [
+1,
+2
+],
+"airport": [
+0,
+2
+],
+"studio": [
+2,
+3
+],
+"arena": [
+2,
+3
+],
+"monument": [
+1,
+2
+],
+"fountain": [
+1,
+3
+],
+"boulevard": [
+1,
+3
+],
+"avenue": [
+0,
+1
+],
+"palace": [
+1,
+2
+],
+"casino": [
+3,
+4
+],
+"circus": [
+1,
+2
+],
+"clinic": [
+2,
+3
+],
+"university": [
+4,
+5
+],
+"gallery": [
+1,
+2
+],
+"pavilion": [
+3,
+4
+],
+"memorial": [
+3,
+4
+],
+"scooter": [
+2,
+4
+],
+"helicopter": [
+1,
+2
+],
+"transport": [
+2,
+3
+],
+"platform": [
+2,
+3
+],
+"terminal": [
+1,
+2
+],
+"pilot": [
+1,
+2
+],
+"passenger": [
+1,
+2
+],
+"moped": [
+1,
+2
+],
+"limousine": [
+1,
+2
+],
+"tractor": [
+2,
+3
+],
+"tunnel": [
+1,
+2
+],
+"asphalt": [
+0,
+1
+],
+"depot": [
+1,
+2
+],
+"charter": [
+2,
+3
+],
+"funicular": [
+3,
+4
+],
+"liner": [
+1,
+2
+],
+"tanker": [
+1,
+2
+],
+"locomotive": [
+5,
+6
+],
+"transit": [
+2,
+3
+],
+"mechanic": [
+4,
+5
+],
+"diesel": [
+1,
+3
+],
+"pedal": [
+1,
+2
+],
+"bumper": [
+1,
+2
+],
+"starter": [
+2,
+3
+],
+"turbo": [
+1,
+2
+],
+"parking": [
+1,
+2
+],
+"sedan": [
+3,
+4
+],
+"pickup": [
+1,
+2
+],
+"minivan": [
+1,
+2
+],
+"motor": [
+1,
+2
+],
+"compressor": [
+5,
+6
+],
+"cabriolet": [
+7,
+8
+],
+"crossover": [
+2,
+3
+],
+"hatchback": [
+1,
+2
+],
+"carburetor": [
+1,
+2
+],
+"chassis": [
+2,
+3
+],
+"cabin": [
+1,
+2
+],
+"cylinder": [
+1,
+2
+],
+"Europe": [
+0,
+2
+],
+"America": [
+2,
+3
+],
+"Canada": [
+1,
+2
+],
+"Italy": [
+0,
+1
+],
+"Japan": [
+3,
+4
+],
+"Australia": [
+5,
+6
+],
+"Africa": [
+0,
+1
+],
+"Asia": [
+0,
+1
+],
+"Mexico": [
+1,
+2
+],
+"India": [
+0,
+1
+],
+"Brazil": [
+4,
+5
+],
+"London": [
+1,
+2
+],
+"Berlin": [
+4,
+5
+],
+"Poland": [
+1,
+2
+],
+"Britain": [
+2,
+3
+],
+"Portugal": [
+1,
+2
+],
+"Norway": [
+1,
+2
+],
+"Finland": [
+1,
+2
+],
+"Ireland": [
+0,
+1
+],
+"Argentina": [
+6,
+7
+],
+"Cuba": [
+1,
+2
+],
+"Korea": [
+3,
+4
+],
+"Egypt": [
+0,
+1
+],
+"Odesa": [
+2,
+3
+],
+"Paris": [
+1,
+2
+],
+"Madrid": [
+4,
+5
+],
+"Warsaw": [
+1,
+2
+],
+"Toronto": [
+3,
+4
+],
+"Chicago": [
+4,
+5
+],
+"Texas": [
+1,
+2
+],
+"California": [
+5,
+6
+],
+"Alaska": [
+2,
+3
+],
+"baggage": [
+1,
+2
+],
+"control": [
+5,
+6
+],
+"transfer": [
+2,
+3
+],
+"souvenir": [
+6,
+7
+],
+"camping": [
+1,
+2
+],
+"safari": [
+3,
+4
+],
+"compass": [
+1,
+2
+],
+"excursion": [
+3,
+4
+],
+"expedition": [
+5,
+6
+],
+"reservation": [
+6,
+7
+],
+"visit": [
+1,
+2
+],
+"hostel": [
+1,
+2
+],
+"motel": [
+3,
+4
+],
+"reception": [
+3,
+4
+],
+"minibar": [
+1,
+2
+],
+"registration": [
+7,
+8
+],
+"standard": [
+2,
+3
+],
+"panorama": [
+5,
+6
+],
+"bungalow": [
+1,
+2
+],
+"chalet": [
+4,
+5
+],
+"credit": [
+2,
+3
+],
+"dollar": [
+1,
+2
+],
+"euro": [
+0,
+2
+],
+"bonus": [
+1,
+2
+],
+"budget": [
+1,
+2
+],
+"balance": [
+1,
+2
+],
+"deposit": [
+3,
+4
+],
+"percent": [
+4,
+5
+],
+"inflation": [
+4,
+5
+],
+"million": [
+1,
+2
+],
+"pension": [
+1,
+2
+],
+"finance": [
+1,
+2
+],
+"tariff": [
+1,
+2
+],
+"banker": [
+1,
+2
+],
+"investor": [
+3,
+4
+],
+"creditor": [
+2,
+3
+],
+"audit": [
+0,
+2
+],
+"default": [
+3,
+5
+],
+"deficit": [
+1,
+2
+],
+"broker": [
+2,
+3
+],
+"bitcoin": [
+1,
+2
+],
+"millionaire": [
+7,
+9
+],
+"dividend": [
+1,
+2
+],
+"transaction": [
+5,
+6
+],
+"capital": [
+1,
+2
+],
+"leasing": [
+1,
+3
+],
+"guarantee": [
+7,
+9
+],
+"catalog": [
+1,
+2
+],
+"coupon": [
+1,
+3
+],
+"discount": [
+1,
+2
+],
+"client": [
+2,
+3
+],
+"premium": [
+2,
+3
+],
+"deluxe": [
+3,
+4
+],
+"bestseller": [
+5,
+6
+],
+"auction": [
+0,
+2
+],
+"talisman": [
+1,
+2
+],
+"hospital": [
+1,
+2
+],
+"virus": [
+1,
+2
+],
+"infection": [
+3,
+4
+],
+"allergy": [
+0,
+1
+],
+"symptom": [
+1,
+2
+],
+"patient": [
+1,
+2
+],
+"operation": [
+4,
+5
+],
+"diagnosis": [
+5,
+6
+],
+"therapy": [
+2,
+3
+],
+"medic": [
+1,
+2
+],
+"procedure": [
+4,
+5
+],
+"asthma": [
+0,
+1
+],
+"migraine": [
+1,
+2
+],
+"coma": [
+1,
+2
+],
+"diabetes": [
+4,
+5
+],
+"bronchitis": [
+6,
+7
+],
+"gastritis": [
+5,
+6
+],
+"pneumonia": [
+5,
+6
+],
+"depression": [
+4,
+5
+],
+"psychologist": [
+5,
+6
+],
+"dentist": [
+1,
+2
+],
+"paramedic": [
+5,
+6
+],
+"quarantine": [
+2,
+3
+],
+"rehabilitation": [
+9,
+10
+],
+"sanatorium": [
+5,
+6
+],
+"aspirin": [
+0,
+1
+],
+"antibiotic": [
+6,
+7
+],
+"ibuprofen": [
+5,
+6
+],
+"tablet": [
+1,
+2
+],
+"capsule": [
+1,
+2
+],
+"vaccine": [
+4,
+5
+],
+"injection": [
+3,
+4
+],
+"insulin": [
+0,
+1
+],
+"antiseptic": [
+5,
+6
+],
+"penicillin": [
+5,
+6
+],
+"antidote": [
+0,
+1
+],
+"placebo": [
+4,
+5
+],
+"anesthesia": [
+6,
+7
+],
+"detox": [
+1,
+2
+],
+"hormone": [
+1,
+2
+],
+"protein": [
+2,
+3
+],
+"collagen": [
+1,
+2
+],
+"immunity": [
+3,
+4
+],
+"medication": [
+5,
+6
+],
+"partner": [
+1,
+2
+],
+"director": [
+3,
+4
+],
+"manager": [
+1,
+2
+],
+"professor": [
+4,
+5
+],
+"leader": [
+1,
+3
+],
+"expert": [
+0,
+1
+],
+"specialist": [
+2,
+3
+],
+"volunteer": [
+6,
+8
+],
+"author": [
+0,
+2
+],
+"sister": [
+1,
+2
+],
+"pensioner": [
+1,
+2
+],
+"gentleman": [
+1,
+2
+],
+"agent": [
+0,
+1
+],
+"operator": [
+0,
+1
+],
+"inspector": [
+4,
+5
+],
+"instructor": [
+5,
+6
+],
+"assistant": [
+3,
+4
+],
+"administrator": [
+3,
+4
+],
+"consultant": [
+4,
+5
+],
+"professional": [
+4,
+5
+],
+"veteran": [
+1,
+2
+],
+"champion": [
+2,
+3
+],
+"hero": [
+1,
+2
+],
+"optimist": [
+0,
+1
+],
+"egoist": [
+0,
+1
+],
+"hooligan": [
+1,
+3
+],
+"pirate": [
+1,
+2
+],
+"cousin": [
+1,
+3
+],
+"lady": [
+1,
+2
+],
+"madam": [
+1,
+2
+],
+"princess": [
+2,
+3
+],
+"genius": [
+1,
+2
+],
+"nanny": [
+1,
+2
+],
+"secretary": [
+1,
+2
+],
+"engineer": [
+5,
+7
+],
+"programmer": [
+2,
+3
+],
+"architect": [
+0,
+1
+],
+"journalist": [
+1,
+3
+],
+"economist": [
+2,
+3
+],
+"captain": [
+1,
+2
+],
+"detective": [
+3,
+4
+],
+"farmer": [
+1,
+2
+],
+"florist": [
+2,
+3
+],
+"trainer": [
+2,
+4
+],
+"actor": [
+0,
+1
+],
+"producer": [
+4,
+5
+],
+"reporter": [
+3,
+4
+],
+"photographer": [
+4,
+5
+],
+"musician": [
+3,
+4
+],
+"auditor": [
+0,
+2
+],
+"dispatcher": [
+4,
+5
+],
+"electrician": [
+6,
+7
+],
+"technician": [
+5,
+6
+],
+"editor": [
+0,
+1
+],
+"analyst": [
+0,
+1
+],
+"veterinarian": [
+7,
+8
+],
+"active": [
+0,
+1
+],
+"positive": [
+1,
+2
+],
+"nervous": [
+1,
+2
+],
+"romantic": [
+3,
+4
+],
+"creative": [
+3,
+4
+],
+"energetic": [
+5,
+6
+],
+"optimistic": [
+5,
+6
+],
+"emotional": [
+2,
+3
+],
+"talented": [
+1,
+2
+],
+"elegant": [
+0,
+1
+],
+"popular": [
+1,
+2
+],
+"aggressive": [
+4,
+5
+],
+"ideal": [
+2,
+3
+],
+"normal": [
+1,
+2
+],
+"passive": [
+1,
+2
+],
+"negative": [
+1,
+2
+],
+"sentimental": [
+6,
+7
+],
+"competent": [
+1,
+2
+],
+"intellectual": [
+6,
+7
+],
+"conservative": [
+4,
+5
+],
+"tactful": [
+1,
+2
+],
+"charismatic": [
+7,
+8
+],
+"pessimistic": [
+6,
+7
+],
+"fanatic": [
+3,
+4
+],
+"cynic": [
+1,
+2
+],
+"primitive": [
+2,
+3
+],
+"banal": [
+1,
+2
+],
+"diplomatic": [
+6,
+7
+],
+"emotion": [
+2,
+3
+],
+"panic": [
+1,
+2
+],
+"energy": [
+0,
+1
+],
+"humor": [
+1,
+2
+],
+"surprise": [
+5,
+6
+],
+"instinct": [
+0,
+1
+],
+"character": [
+2,
+3
+],
+"temperament": [
+1,
+2
+],
+"discomfort": [
+4,
+5
+],
+"nostalgia": [
+4,
+5
+],
+"apathy": [
+0,
+1
+],
+"antipathy": [
+3,
+4
+],
+"mania": [
+1,
+2
+],
+"phobia": [
+2,
+3
+],
+"ego": [
+0,
+1
+],
+"charisma": [
+4,
+5
+],
+"complex": [
+1,
+2
+],
+"trauma": [
+2,
+4
+],
+"fantasy": [
+1,
+2
+],
+"illusion": [
+3,
+4
+],
+"motivation": [
+5,
+6
+],
+"basketball": [
+1,
+2
+],
+"volleyball": [
+1,
+2
+],
+"hockey": [
+1,
+2
+],
+"finish": [
+1,
+2
+],
+"final": [
+1,
+2
+],
+"medal": [
+1,
+2
+],
+"record": [
+1,
+2
+],
+"boxer": [
+1,
+2
+],
+"karate": [
+3,
+4
+],
+"rugby": [
+1,
+2
+],
+"badminton": [
+1,
+2
+],
+"handball": [
+1,
+2
+],
+"biathlon": [
+2,
+3
+],
+"bowling": [
+1,
+2
+],
+"goalkeeper": [
+1,
+3
+],
+"referee": [
+5,
+7
+],
+"knockout": [
+2,
+3
+],
+"derby": [
+1,
+2
+],
+"finalist": [
+1,
+2
+],
+"result": [
+3,
+4
+],
+"tournament": [
+1,
+3
+],
+"sponsor": [
+2,
+3
+],
+"podium": [
+1,
+2
+],
+"penalty": [
+1,
+2
+],
+"marathon": [
+1,
+2
+],
+"championship": [
+2,
+3
+],
+"boxing": [
+1,
+2
+],
+"judo": [
+1,
+2
+],
+"trophy": [
+2,
+3
+],
+"sportsman": [
+2,
+3
+],
+"fitness": [
+1,
+2
+],
+"cardio": [
+1,
+2
+],
+"diet": [
+1,
+2
+],
+"calorie": [
+1,
+2
+],
+"progress": [
+2,
+3
+],
+"aerobics": [
+3,
+4
+],
+"gymnastics": [
+4,
+5
+],
+"pilates": [
+3,
+4
+],
+"stretching": [
+3,
+4
+],
+"concert": [
+1,
+2
+],
+"festival": [
+1,
+2
+],
+"opera": [
+0,
+1
+],
+"album": [
+0,
+1
+],
+"solo": [
+1,
+2
+],
+"melody": [
+1,
+2
+],
+"guitar": [
+4,
+5
+],
+"piano": [
+2,
+3
+],
+"techno": [
+1,
+2
+],
+"disco": [
+1,
+2
+],
+"musical": [
+1,
+2
+],
+"karaoke": [
+4,
+5
+],
+"duet": [
+2,
+3
+],
+"trio": [
+2,
+3
+],
+"orchestra": [
+0,
+1
+],
+"ballet": [
+4,
+5
+],
+"tango": [
+1,
+2
+],
+"vocal": [
+1,
+2
+],
+"saxophone": [
+1,
+2
+],
+"guitarist": [
+4,
+5
+],
+"pianist": [
+1,
+2
+],
+"vocalist": [
+1,
+2
+],
+"playlist": [
+2,
+4
+],
+"soundtrack": [
+1,
+3
+],
+"composer": [
+4,
+5
+],
+"soloist": [
+1,
+2
+],
+"maestro": [
+1,
+3
+],
+"series": [
+1,
+2
+],
+"episode": [
+0,
+1
+],
+"season": [
+1,
+3
+],
+"actress": [
+0,
+1
+],
+"genre": [
+1,
+2
+],
+"comedy": [
+1,
+2
+],
+"drama": [
+2,
+3
+],
+"thriller": [
+3,
+4
+],
+"premiere": [
+4,
+6
+],
+"melodrama": [
+1,
+2
+],
+"trailer": [
+2,
+4
+],
+"teaser": [
+1,
+3
+],
+"spoiler": [
+2,
+4
+],
+"casting": [
+1,
+2
+],
+"debut": [
+3,
+4
+],
+"anime": [
+0,
+1
+],
+"zombie": [
+1,
+2
+],
+"superman": [
+1,
+2
+],
+"monster": [
+1,
+2
+],
+"sequel": [
+1,
+2
+],
+"documentary": [
+5,
+6
+],
+"animation": [
+4,
+5
+],
+"scenario": [
+4,
+5
+],
+"internet": [
+0,
+1
+],
+"online": [
+3,
+4
+],
+"offline": [
+4,
+5
+],
+"comment": [
+1,
+2
+],
+"profile": [
+2,
+3
+],
+"account": [
+3,
+5
+],
+"email": [
+0,
+1
+],
+"video": [
+1,
+2
+],
+"photo": [
+2,
+3
+],
+"channel": [
+2,
+3
+],
+"podcast": [
+1,
+2
+],
+"selfie": [
+1,
+2
+],
+"website": [
+1,
+2
+],
+"portal": [
+1,
+2
+],
+"forum": [
+1,
+2
+],
+"content": [
+1,
+2
+],
+"blogger": [
+2,
+3
+],
+"avatar": [
+0,
+1
+],
+"banner": [
+1,
+2
+],
+"repost": [
+1,
+2
+],
+"browser": [
+2,
+3
+],
+"server": [
+1,
+2
+],
+"hosting": [
+1,
+2
+],
+"domain": [
+3,
+5
+],
+"provider": [
+4,
+5
+],
+"hacker": [
+1,
+2
+],
+"antivirus": [
+5,
+6
+],
+"webinar": [
+1,
+2
+],
+"login": [
+1,
+2
+],
+"media": [
+1,
+2
+],
+"smartphone": [
+2,
+3
+],
+"roaming": [
+1,
+3
+],
+"contact": [
+1,
+2
+],
+"number": [
+1,
+2
+],
+"screenshot": [
+3,
+5
+],
+"display": [
+5,
+7
+],
+"gigabyte": [
+1,
+2
+],
+"megabyte": [
+1,
+2
+],
+"audio": [
+0,
+2
+],
+"gadget": [
+1,
+2
+],
+"calculator": [
+1,
+2
+],
+"format": [
+1,
+2
+],
+"program": [
+2,
+3
+],
+"system": [
+1,
+2
+],
+"cursor": [
+1,
+2
+],
+"document": [
+1,
+2
+],
+"pixel": [
+1,
+2
+],
+"processor": [
+2,
+3
+],
+"interface": [
+0,
+1
+],
+"module": [
+1,
+2
+],
+"console": [
+1,
+2
+],
+"buffer": [
+1,
+2
+],
+"robot": [
+1,
+2
+],
+"version": [
+1,
+2
+],
+"installation": [
+7,
+8
+],
+"copy": [
+1,
+2
+],
+"archive": [
+0,
+1
+],
+"hobby": [
+1,
+2
+],
+"picnic": [
+1,
+2
+],
+"poker": [
+1,
+2
+],
+"crossword": [
+2,
+3
+],
+"domino": [
+1,
+2
+],
+"collection": [
+4,
+5
+],
+"graffiti": [
+5,
+6
+],
+"tarot": [
+1,
+2
+],
+"horoscope": [
+1,
+2
+],
+"billiards": [
+1,
+2
+],
+"lottery": [
+1,
+2
+],
+"origami": [
+4,
+5
+],
+"surfing": [
+1,
+2
+],
+"rafting": [
+1,
+2
+],
+"zebra": [
+1,
+2
+],
+"tiger": [
+1,
+2
+],
+"leopard": [
+1,
+3
+],
+"panda": [
+1,
+2
+],
+"kangaroo": [
+6,
+8
+],
+"crocodile": [
+2,
+3
+],
+"gorilla": [
+3,
+4
+],
+"giraffe": [
+3,
+4
+],
+"pony": [
+1,
+2
+],
+"cobra": [
+1,
+2
+],
+"python": [
+1,
+2
+],
+"dolphin": [
+1,
+2
+],
+"flamingo": [
+4,
+5
+],
+"dinosaur": [
+1,
+2
+],
+"koala": [
+2,
+3
+],
+"puma": [
+1,
+2
+],
+"jaguar": [
+1,
+2
+],
+"panther": [
+1,
+2
+],
+"gazelle": [
+3,
+4
+],
+"antelope": [
+0,
+1
+],
+"bison": [
+1,
+2
+],
+"llama": [
+2,
+3
+],
+"mustang": [
+1,
+2
+],
+"scorpion": [
+2,
+3
+],
+"chameleon": [
+4,
+5
+],
+"iguana": [
+2,
+4
+],
+"pelican": [
+1,
+2
+],
+"penguin": [
+1,
+2
+],
+"albatross": [
+0,
+1
+],
+"bulldog": [
+1,
+2
+],
+"collie": [
+1,
+2
+],
+"mammoth": [
+1,
+2
+],
+"ocean": [
+0,
+1
+],
+"climate": [
+2,
+3
+],
+"tornado": [
+4,
+5
+],
+"tsunami": [
+4,
+5
+],
+"cyclone": [
+1,
+2
+],
+"canyon": [
+1,
+2
+],
+"continent": [
+1,
+2
+],
+"planet": [
+2,
+3
+],
+"atmosphere": [
+0,
+1
+],
+"horizon": [
+3,
+4
+],
+"mineral": [
+1,
+2
+],
+"typhoon": [
+4,
+6
+],
+"lava": [
+1,
+2
+],
+"crater": [
+2,
+3
+],
+"geyser": [
+1,
+3
+],
+"oasis": [
+1,
+2
+],
+"coral": [
+1,
+2
+],
+"delta": [
+1,
+2
+],
+"plateau": [
+4,
+7
+],
+"savanna": [
+3,
+4
+],
+"cactus": [
+1,
+2
+],
+"jasmine": [
+1,
+2
+],
+"magnolia": [
+4,
+5
+],
+"acacia": [
+2,
+3
+],
+"cedar": [
+1,
+2
+],
+"bouquet": [
+5,
+6
+],
+"flora": [
+2,
+3
+],
+"fauna": [
+1,
+3
+],
+"crystal": [
+2,
+3
+],
+"granite": [
+2,
+3
+],
+"volcano": [
+4,
+5
+],
+"tundra": [
+1,
+2
+],
+"tropics": [
+2,
+3
+],
+"equator": [
+3,
+4
+],
+"catastrophe": [
+3,
+4
+],
+"lily": [
+1,
+2
+],
+"moment": [
+1,
+2
+],
+"period": [
+1,
+2
+],
+"calendar": [
+1,
+2
+],
+"second": [
+1,
+2
+],
+"weekend": [
+1,
+3
+],
+"nonstop": [
+5,
+6
+],
+"era": [
+0,
+1
+],
+"epoch": [
+0,
+1
+],
+"interval": [
+0,
+1
+],
+"tempo": [
+1,
+2
+],
+"tradition": [
+4,
+5
+],
+"ritual": [
+1,
+2
+],
+"deadline": [
+1,
+3
+],
+"millennium": [
+4,
+5
+],
+"minimum": [
+1,
+2
+],
+"maximum": [
+1,
+2
+],
+"minus": [
+1,
+2
+],
+"meter": [
+1,
+2
+],
+"kilometer": [
+3,
+4
+],
+"centimeter": [
+1,
+2
+],
+"dozen": [
+1,
+2
+],
+"kilowatt": [
+1,
+2
+],
+"hectare": [
+1,
+2
+],
+"carat": [
+1,
+2
+],
+"diameter": [
+2,
+3
+],
+"radius": [
+1,
+2
+],
+"perimeter": [
+3,
+4
+],
+"parameter": [
+3,
+4
+],
+"oval": [
+0,
+1
+],
+"spiral": [
+2,
+3
+],
+"diagonal": [
+2,
+3
+],
+"vertical": [
+1,
+2
+],
+"parallel": [
+1,
+2
+],
+"vector": [
+1,
+2
+],
+"index": [
+0,
+1
+],
+"information": [
+6,
+7
+],
+"position": [
+3,
+4
+],
+"function": [
+1,
+2
+],
+"instruction": [
+5,
+6
+],
+"presentation": [
+7,
+8
+],
+"organization": [
+7,
+8
+],
+"communication": [
+8,
+9
+],
+"nation": [
+1,
+2
+],
+"consultation": [
+7,
+8
+],
+"demonstration": [
+8,
+9
+],
+"illustration": [
+7,
+8
+],
+"publication": [
+6,
+7
+],
+"migration": [
+4,
+5
+],
+"innovation": [
+5,
+6
+],
+"revolution": [
+5,
+6
+],
+"evolution": [
+4,
+5
+],
+"corruption": [
+4,
+5
+],
+"ambition": [
+3,
+4
+],
+"history": [
+1,
+2
+],
+"category": [
+1,
+2
+],
+"theory": [
+2,
+4
+],
+"strategy": [
+3,
+4
+],
+"technology": [
+5,
+6
+],
+"economy": [
+2,
+3
+],
+"philosophy": [
+4,
+5
+],
+"geography": [
+2,
+3
+],
+"biology": [
+2,
+3
+],
+"psychology": [
+5,
+6
+],
+"ecology": [
+2,
+3
+],
+"industry": [
+0,
+1
+],
+"academy": [
+2,
+3
+],
+"democracy": [
+3,
+4
+],
+"tragedy": [
+2,
+3
+],
+"harmony": [
+1,
+2
+],
+"ceremony": [
+1,
+2
+],
+"colony": [
+1,
+2
+],
+"irony": [
+0,
+1
+],
+"anatomy": [
+2,
+3
+],
+"astronomy": [
+4,
+5
+],
+"chemistry": [
+2,
+3
+],
+"photography": [
+4,
+5
+],
+"real": [
+1,
+2
+],
+"special": [
+2,
+3
+],
+"national": [
+1,
+2
+],
+"local": [
+1,
+2
+],
+"personal": [
+1,
+2
+],
+"social": [
+1,
+2
+],
+"official": [
+3,
+4
+],
+"original": [
+2,
+3
+],
+"central": [
+1,
+2
+],
+"universal": [
+4,
+5
+],
+"typical": [
+1,
+2
+],
+"practical": [
+2,
+3
+],
+"logical": [
+1,
+2
+],
+"fantastic": [
+4,
+5
+],
+"medical": [
+1,
+2
+],
+"political": [
+3,
+4
+],
+"physical": [
+2,
+3
+],
+"technical": [
+1,
+2
+],
+"historical": [
+4,
+5
+],
+"traditional": [
+4,
+5
+],
+"cultural": [
+1,
+2
+],
+"natural": [
+1,
+2
+],
+"legal": [
+1,
+2
+],
+"formal": [
+1,
+2
+],
+"global": [
+2,
+3
+],
+"regional": [
+1,
+2
+],
+"radical": [
+1,
+2
+],
+"critical": [
+2,
+3
+],
+"classical": [
+2,
+3
+],
+"electronic": [
+6,
+7
+],
+"automatic": [
+5,
+6
+],
+"economic": [
+4,
+5
+],
+"democratic": [
+6,
+7
+],
+"dramatic": [
+4,
+5
+],
+"tragic": [
+2,
+3
+],
+"organic": [
+3,
+4
+],
+"toxic": [
+1,
+2
+],
+"academic": [
+4,
+5
+],
+"strategic": [
+5,
+6
+],
+"effective": [
+3,
+4
+],
+"progressive": [
+5,
+6
+],
+"intensive": [
+3,
+4
+],
+"productive": [
+4,
+5
+],
+"professionalism": [
+4,
+5
+],
+"activist": [
+0,
+1
+],
+"nationalism": [
+1,
+2
+],
+"nationalist": [
+1,
+2
+],
+"terrorist": [
+1,
+2
+],
+"socialism": [
+1,
+2
+],
+"humorist": [
+1,
+2
+],
+"idealist": [
+2,
+3
+],
+"sector": [
+1,
+2
+],
+"factor": [
+1,
+2
+],
+"reactor": [
+2,
+3
+],
+"senator": [
+1,
+2
+],
+"dictator": [
+1,
+2
+],
+"moderator": [
+1,
+2
+],
+"curator": [
+1,
+2
+],
+"president": [
+2,
+3
+],
+"element": [
+0,
+1
+],
+"talent": [
+1,
+2
+],
+"accent": [
+0,
+1
+],
+"argument": [
+0,
+1
+],
+"instrument": [
+0,
+1
+],
+"experiment": [
+3,
+4
+],
+"component": [
+4,
+5
+],
+"incident": [
+0,
+1
+],
+"equivalent": [
+3,
+4
+],
+"opponent": [
+3,
+4
+],
+"emigrant": [
+0,
+1
+],
+"migrant": [
+1,
+2
+],
+"immigrant": [
+0,
+1
+],
+"debutant": [
+1,
+2
+],
+"segment": [
+1,
+2
+],
+"fragment": [
+2,
+3
+],
+"parliament": [
+1,
+2
+],
+"department": [
+3,
+4
+],
+"logic": [
+1,
+2
+],
+"critic": [
+2,
+3
+],
+"republic": [
+3,
+4
+],
+"physics": [
+2,
+3
+],
+"mathematics": [
+6,
+7
+],
+"politics": [
+1,
+2
+],
+"economics": [
+4,
+5
+],
+"statistics": [
+4,
+5
+],
+"ethics": [
+0,
+1
+],
+"tactics": [
+1,
+2
+],
+"graphics": [
+2,
+3
+],
+"technique": [
+5,
+6
+],
+"mechanics": [
+4,
+5
+],
+"electronics": [
+6,
+7
+],
+"genetics": [
+3,
+4
+],
+"linguistics": [
+4,
+6
+],
+"logistics": [
+3,
+4
+],
+"analytics": [
+4,
+5
+],
+"ceramics": [
+3,
+4
+],
+"classic": [
+2,
+3
+],
+"culture": [
+1,
+2
+],
+"literature": [
+1,
+2
+],
+"structure": [
+3,
+4
+],
+"architecture": [
+0,
+1
+],
+"figure": [
+1,
+2
+],
+"miniature": [
+1,
+2
+],
+"faculty": [
+1,
+2
+],
+"priority": [
+3,
+4
+],
+"activity": [
+3,
+4
+],
+"reality": [
+2,
+3
+],
+"popularity": [
+5,
+6
+],
+"stability": [
+4,
+5
+],
+"caricature": [
+1,
+2
+],
+"sculpture": [
+2,
+3
+],
+"infrastructure": [
+0,
+1
+],
+"neutrality": [
+5,
+6
+],
+"identity": [
+2,
+3
+],
+"mobility": [
+3,
+4
+],
+"mentality": [
+4,
+5
+],
+"formality": [
+4,
+5
+],
+"specialty": [
+2,
+3
+],
+"really": [
+1,
+2
+],
+"ideally": [
+2,
+3
+],
+"officially": [
+3,
+4
+],
+"automatically": [
+5,
+6
+],
+"technically": [
+1,
+2
+],
+"practically": [
+2,
+3
+],
+"theoretically": [
+5,
+6
+],
+"logically": [
+1,
+2
+],
+"regularly": [
+1,
+2
+],
+"professionally": [
+4,
+5
+],
+"personally": [
+1,
+2
+],
+"formally": [
+1,
+2
+],
+"legally": [
+1,
+2
+],
+"globally": [
+2,
+3
+],
+"locally": [
+1,
+2
+],
+"radically": [
+1,
+2
+],
+"physically": [
+2,
+3
+],
+"vertically": [
+1,
+2
+],
+"critically": [
+2,
+3
+],
+"emotionally": [
+2,
+3
+],
+"systematically": [
+6,
+7
+],
+"specially": [
+2,
+3
+],
+"typically": [
+1,
+2
+],
+"contract": [
+1,
+2
+],
+"training": [
+2,
+4
+],
+"conference": [
+1,
+2
+],
+"career": [
+3,
+5
+],
+"profession": [
+4,
+5
+],
+"vacancy": [
+1,
+2
+],
+"interview": [
+0,
+1
+],
+"seminar": [
+1,
+2
+],
+"briefing": [
+2,
+4
+],
+"marker": [
+1,
+2
+],
+"organizer": [
+0,
+1
+],
+"committee": [
+4,
+5
+],
+"administration": [
+9,
+10
+],
+"personnel": [
+7,
+8
+],
+"session": [
+1,
+2
+],
+"qualification": [
+8,
+9
+],
+"leadership": [
+1,
+3
+],
+"productivity": [
+7,
+8
+],
+"detail": [
+3,
+5
+],
+"effect": [
+3,
+4
+],
+"process": [
+2,
+3
+],
+"status": [
+2,
+3
+],
+"alternative": [
+3,
+4
+],
+"compromise": [
+1,
+2
+],
+"conflict": [
+1,
+2
+],
+"discussion": [
+4,
+5
+],
+"compliment": [
+1,
+2
+],
+"concept": [
+1,
+2
+],
+"aspect": [
+0,
+1
+],
+"context": [
+1,
+2
+],
+"nuance": [
+1,
+2
+],
+"paradox": [
+1,
+2
+],
+"stereotype": [
+2,
+3
+],
+"absurd": [
+3,
+4
+],
+"secret": [
+1,
+2
+],
+"chaos": [
+2,
+3
+],
+"gesture": [
+1,
+2
+],
+"story": [
+2,
+3
+],
+"project": [
+2,
+3
+],
+"resource": [
+1,
+2
+],
+"monitoring": [
+1,
+2
+],
+"analysis": [
+2,
+3
+],
+"prognosis": [
+5,
+6
+],
+"prototype": [
+2,
+3
+],
+"release": [
+3,
+5
+],
+"startup": [
+2,
+3
+],
+"diagram": [
+1,
+2
+],
+"criterion": [
+4,
+5
+],
+"indicator": [
+0,
+1
+],
+"optimization": [
+7,
+8
+],
+"modernization": [
+8,
+9
+],
+"initiative": [
+2,
+3
+],
+"potential": [
+3,
+4
+],
+"certificate": [
+4,
+5
+],
+"license": [
+1,
+2
+],
+"diploma": [
+4,
+5
+],
+"address": [
+4,
+5
+],
+"protocol": [
+2,
+3
+],
+"memorandum": [
+5,
+6
+],
+"declaration": [
+6,
+7
+],
+"petition": [
+3,
+4
+],
+"bureaucracy": [
+3,
+6
+],
+"dossier": [
+1,
+2
+],
+"marketing": [
+1,
+2
+],
+"export": [
+0,
+1
+],
+"import": [
+0,
+1
+],
+"corporation": [
+6,
+7
+],
+"holding": [
+1,
+2
+],
+"investment": [
+3,
+4
+],
+"profit": [
+2,
+3
+],
+"dealer": [
+1,
+3
+],
+"distributor": [
+5,
+6
+],
+"agency": [
+0,
+1
+],
+"consulting": [
+4,
+5
+],
+"franchise": [
+2,
+3
+],
+"monopoly": [
+3,
+4
+],
+"crisis": [
+2,
+3
+],
+"logo": [
+1,
+2
+],
+"image": [
+0,
+1
+],
+"reputation": [
+5,
+6
+],
+"prestige": [
+5,
+6
+],
+"campaign": [
+4,
+6
+],
+"audience": [
+0,
+2
+],
+"slogan": [
+2,
+3
+],
+"rating": [
+1,
+2
+],
+"commission": [
+4,
+5
+],
+"demo": [
+1,
+2
+],
+"compensation": [
+7,
+8
+],
+"assortment": [
+3,
+4
+],
+"limit": [
+1,
+2
+],
+"bankrupt": [
+1,
+2
+],
+"financial": [
+3,
+4
+],
+"reform": [
+3,
+4
+],
+"tendency": [
+1,
+2
+],
+"stabilization": [
+8,
+9
+],
+"privatization": [
+8,
+9
+],
+"sanction": [
+1,
+2
+],
+"embargo": [
+3,
+4
+],
+"subsidy": [
+1,
+2
+],
+"regulator": [
+1,
+2
+],
+"collapse": [
+4,
+5
+],
+"stagnation": [
+5,
+6
+],
+"recession": [
+3,
+4
+],
+"globalization": [
+8,
+9
+],
+"dynamics": [
+3,
+4
+],
+"stimulus": [
+2,
+3
+],
+"admin": [
+0,
+1
+],
+"blockchain": [
+2,
+3
+],
+"configuration": [
+8,
+9
+],
+"integration": [
+6,
+7
+],
+"automation": [
+5,
+6
+],
+"documentation": [
+8,
+9
+],
+"testing": [
+1,
+2
+],
+"defect": [
+1,
+2
+],
+"apparatus": [
+5,
+6
+],
+"master": [
+1,
+2
+],
+"excavator": [
+0,
+1
+],
+"bulldozer": [
+1,
+2
+],
+"cistern": [
+1,
+2
+],
+"pallet": [
+1,
+2
+],
+"turbine": [
+1,
+2
+],
+"electrode": [
+2,
+3
+],
+"transformer": [
+6,
+7
+],
+"transistor": [
+5,
+6
+],
+"diode": [
+1,
+2
+],
+"factory": [
+1,
+2
+],
+"metal": [
+1,
+2
+],
+"material": [
+3,
+4
+],
+"latex": [
+1,
+2
+],
+"aluminum": [
+2,
+3
+],
+"viscose": [
+1,
+2
+],
+"denim": [
+1,
+2
+],
+"porcelain": [
+1,
+2
+],
+"gypsum": [
+1,
+2
+],
+"nickel": [
+1,
+2
+],
+"platinum": [
+2,
+3
+],
+"titanium": [
+3,
+4
+],
+"graphite": [
+2,
+3
+],
+"polymer": [
+1,
+2
+],
+"silicone": [
+1,
+2
+],
+"acrylic": [
+3,
+4
+],
+"paraffin": [
+1,
+2
+],
+"vinyl": [
+1,
+2
+],
+"propane": [
+2,
+3
+],
+"methane": [
+1,
+2
+],
+"acetone": [
+0,
+1
+],
+"oxide": [
+0,
+1
+],
+"pigment": [
+1,
+2
+],
+"emulsion": [
+2,
+3
+],
+"paper": [
+1,
+2
+],
+"cargo": [
+1,
+2
+],
+"express": [
+4,
+5
+],
+"region": [
+1,
+2
+],
+"college": [
+1,
+2
+],
+"institute": [
+0,
+1
+],
+"exam": [
+2,
+3
+],
+"lecture": [
+1,
+2
+],
+"semester": [
+3,
+4
+],
+"discipline": [
+1,
+2
+],
+"essay": [
+0,
+1
+],
+"campus": [
+1,
+2
+],
+"rector": [
+1,
+2
+],
+"dissertation": [
+7,
+8
+],
+"atlas": [
+0,
+1
+],
+"encyclopedia": [
+8,
+9
+],
+"intellect": [
+0,
+1
+],
+"grammar": [
+2,
+3
+],
+"algebra": [
+0,
+1
+],
+"geometry": [
+2,
+3
+],
+"medicine": [
+1,
+2
+],
+"sociology": [
+4,
+5
+],
+"pedagogy": [
+1,
+2
+],
+"informatics": [
+6,
+7
+],
+"engineering": [
+5,
+7
+],
+"dialogue": [
+1,
+3
+],
+"alphabet": [
+0,
+1
+],
+"synonym": [
+1,
+2
+],
+"symbol": [
+1,
+2
+],
+"antonym": [
+0,
+1
+],
+"dialect": [
+1,
+2
+],
+"metaphor": [
+1,
+2
+],
+"lexicon": [
+1,
+2
+],
+"prefix": [
+2,
+3
+],
+"suffix": [
+1,
+2
+],
+"apostrophe": [
+2,
+3
+],
+"comma": [
+1,
+2
+],
+"intonation": [
+5,
+6
+],
+"transcription": [
+7,
+8
+],
+"interpretation": [
+9,
+10
+],
+"idiom": [
+0,
+1
+],
+"letter": [
+1,
+2
+],
+"organize": [
+0,
+1
+],
+"analyze": [
+0,
+1
+],
+"invest": [
+3,
+4
+],
+"do-work/export": [
+3,
+4
+],
+"do-work/import": [
+3,
+4
+],
+"register": [
+1,
+2
+],
+"consult": [
+4,
+5
+],
+"do-work/present": [
+4,
+5
+],
+"do-work/transport": [
+6,
+7
+],
+"modernize": [
+1,
+2
+],
+"optimize": [
+0,
+1
+],
+"automate": [
+0,
+2
+],
+"minimize": [
+1,
+2
+],
+"compensate": [
+1,
+2
+],
+"instruct": [
+5,
+6
+],
+"motivate": [
+1,
+2
+],
+"do-work/delegate": [
+1,
+2
+],
+"do-work/initiate": [
+2,
+3
+],
+"integrate": [
+0,
+1
+],
+"generate": [
+1,
+2
+],
+"demonstrate": [
+1,
+2
+],
+"focus": [
+1,
+2
+],
+"concentrate": [
+1,
+2
+],
+"specialize": [
+2,
+3
+],
+"practice": [
+2,
+3
+],
+"do-work/combine": [
+4,
+5
+],
+"adapt": [
+2,
+3
+],
+"correct": [
+4,
+5
+],
+"regulate": [
+1,
+2
+],
+"stabilize": [
+2,
+3
+],
+"activate": [
+0,
+1
+],
+"recommend": [
+6,
+7
+],
+"inform": [
+3,
+4
+],
+"discuss": [
+4,
+5
+],
+"criticize": [
+2,
+3
+],
+"react": [
+2,
+3
+],
+"ignore": [
+3,
+4
+],
+"do-talk/protest": [
+4,
+5
+],
+"provoke": [
+4,
+5
+],
+"relax": [
+3,
+4
+],
+"formulate": [
+1,
+2
+],
+"publish": [
+1,
+2
+],
+"manipulate": [
+3,
+4
+],
+"interpret": [
+3,
+4
+],
+"illustrate": [
+0,
+1
+],
+"identify": [
+2,
+3
+],
+"imitate": [
+0,
+1
+],
+"declare": [
+4,
+5
+],
+"debate": [
+3,
+4
+],
+"propose": [
+4,
+5
+],
+"improvise": [
+0,
+1
+],
+"dominate": [
+1,
+2
+],
+"install": [
+4,
+5
+],
+"photograph": [
+2,
+3
+],
+"decorate": [
+1,
+2
+],
+"marinate": [
+1,
+2
+],
+"operate": [
+0,
+1
+],
+"diagnose": [
+5,
+6
+],
+"vaccinate": [
+1,
+2
+],
+"disinfect": [
+6,
+7
+],
+"ventilate": [
+1,
+2
+],
+"restore": [
+4,
+5
+],
+"do-tech/isolate": [
+0,
+1
+],
+"evacuate": [
+2,
+3
+],
+"mobilize": [
+1,
+2
+],
+"unique": [
+2,
+3
+],
+"mobile": [
+3,
+4
+],
+"compact": [
+1,
+2
+],
+"basic": [
+1,
+2
+],
+"mechanical": [
+4,
+5
+],
+"ecological": [
+4,
+5
+],
+"international": [
+6,
+7
+],
+"private": [
+2,
+3
+],
+"illegal": [
+3,
+4
+],
+"minimal": [
+1,
+2
+],
+"maximal": [
+1,
+2
+],
+"optimal": [
+0,
+1
+],
+"neutral": [
+1,
+3
+],
+"relevant": [
+1,
+2
+],
+"absolute": [
+0,
+1
+],
+"abstract": [
+0,
+1
+],
+"elementary": [
+4,
+5
+],
+"fundamental": [
+6,
+7
+],
+"exotic": [
+2,
+3
+],
+"commercial": [
+4,
+5
+],
+"public": [
+1,
+2
+],
+"virtual": [
+1,
+2
+],
+"interactive": [
+5,
+6
+],
+"extreme": [
+4,
+5
+],
+"modern": [
+1,
+2
+],
+"legendary": [
+1,
+2
+],
+"gigantic": [
+3,
+4
+],
+"minister": [
+1,
+2
+],
+"party": [
+1,
+2
+],
+"opposition": [
+5,
+6
+],
+"protest": [
+2,
+3
+],
+"candidate": [
+1,
+2
+],
+"referendum": [
+5,
+6
+],
+"constitution": [
+7,
+8
+],
+"diplomat": [
+1,
+2
+],
+"premier": [
+4,
+6
+],
+"mandate": [
+1,
+2
+],
+"senate": [
+1,
+2
+],
+"congress": [
+1,
+2
+],
+"regime": [
+3,
+4
+],
+"summit": [
+1,
+2
+],
+"ultimatum": [
+5,
+6
+],
+"alliance": [
+3,
+4
+],
+"propaganda": [
+6,
+7
+],
+"patriot": [
+1,
+2
+],
+"federation": [
+5,
+6
+],
+"territory": [
+1,
+2
+],
+"scandal": [
+2,
+3
+],
+"lobby": [
+1,
+2
+],
+"veto": [
+1,
+2
+],
+"oligarch": [
+0,
+1
+],
+"monarch": [
+1,
+2
+],
+"consul": [
+1,
+2
+],
+"boycott": [
+1,
+3
+],
+"picket": [
+1,
+2
+],
+"electorate": [
+2,
+3
+],
+"liberal": [
+1,
+2
+],
+"democrat": [
+1,
+2
+],
+"delegate": [
+1,
+2
+],
+"ministry": [
+1,
+2
+],
+"politician": [
+5,
+6
+],
+"governor": [
+1,
+2
+],
+"delegation": [
+5,
+6
+],
+"ideology": [
+3,
+4
+],
+"diplomacy": [
+4,
+5
+],
+"provocation": [
+6,
+7
+],
+"religion": [
+3,
+4
+],
+"gender": [
+1,
+2
+],
+"discrimination": [
+9,
+10
+],
+"tolerance": [
+1,
+2
+],
+"solidarity": [
+5,
+6
+],
+"diaspora": [
+2,
+3
+],
+"civilization": [
+7,
+8
+],
+"elite": [
+2,
+3
+],
+"urbanization": [
+7,
+8
+],
+"demography": [
+3,
+4
+],
+"emigration": [
+5,
+6
+],
+"genocide": [
+1,
+2
+],
+"humanitarian": [
+7,
+8
+],
+"army": [
+0,
+1
+],
+"soldier": [
+1,
+2
+],
+"officer": [
+0,
+1
+],
+"general": [
+1,
+2
+],
+"sergeant": [
+1,
+2
+],
+"battalion": [
+4,
+5
+],
+"attack": [
+3,
+4
+],
+"patrol": [
+4,
+5
+],
+"lieutenant": [
+5,
+6
+],
+"major": [
+1,
+2
+],
+"admiral": [
+0,
+1
+],
+"commander": [
+4,
+5
+],
+"brigade": [
+4,
+5
+],
+"division": [
+3,
+4
+],
+"mobilization": [
+7,
+8
+],
+"blockade": [
+5,
+6
+],
+"occupation": [
+5,
+6
+],
+"radar": [
+1,
+2
+],
+"siren": [
+1,
+2
+],
+"terror": [
+1,
+2
+],
+"sabotage": [
+1,
+2
+],
+"capitulation": [
+7,
+8
+],
+"artillery": [
+3,
+4
+],
+"sniper": [
+2,
+3
+],
+"bunker": [
+1,
+2
+],
+"aggression": [
+4,
+5
+],
+"aggressor": [
+4,
+5
+],
+"civilian": [
+3,
+4
+],
+"criminal": [
+2,
+3
+],
+"gangster": [
+1,
+2
+],
+"mafia": [
+1,
+2
+],
+"alibi": [
+0,
+1
+],
+"verdict": [
+1,
+2
+],
+"arrest": [
+3,
+4
+],
+"bandit": [
+1,
+2
+],
+"sheriff": [
+2,
+3
+],
+"tribunal": [
+4,
+5
+],
+"jury": [
+1,
+2
+],
+"amnesty": [
+0,
+1
+],
+"narcotic": [
+4,
+5
+],
+"civil": [
+1,
+2
+],
+"prosecutor": [
+2,
+3
+],
+"contraband": [
+1,
+2
+],
+"torture": [
+1,
+2
+],
+"method": [
+1,
+2
+],
+"formula": [
+1,
+2
+],
+"atom": [
+0,
+1
+],
+"magnet": [
+1,
+2
+],
+"microscope": [
+1,
+2
+],
+"hypothesis": [
+3,
+4
+],
+"synthesis": [
+1,
+2
+],
+"molecule": [
+1,
+2
+],
+"electron": [
+2,
+3
+],
+"proton": [
+2,
+3
+],
+"photon": [
+2,
+3
+],
+"gravitation": [
+6,
+7
+],
+"vacuum": [
+1,
+2
+],
+"plasma": [
+2,
+3
+],
+"bacteria": [
+4,
+5
+],
+"hybrid": [
+1,
+2
+],
+"mutant": [
+1,
+2
+],
+"telescope": [
+1,
+2
+],
+"object": [
+0,
+1
+],
+"phenomenon": [
+4,
+5
+],
+"spectrum": [
+2,
+3
+],
+"matrix": [
+1,
+2
+],
+"resonance": [
+1,
+2
+],
+"impulse": [
+0,
+1
+],
+"orbit": [
+0,
+1
+],
+"galaxy": [
+1,
+2
+],
+"comet": [
+1,
+2
+],
+"asteroid": [
+0,
+1
+],
+"meteor": [
+1,
+2
+],
+"rocket": [
+1,
+2
+],
+"astronaut": [
+0,
+1
+],
+"satellite": [
+1,
+2
+],
+"mission": [
+1,
+2
+],
+"cosmos": [
+1,
+2
+],
+"cosmonaut": [
+1,
+2
+],
+"meteorite": [
+1,
+2
+],
+"zodiac": [
+1,
+2
+],
+"zenith": [
+1,
+2
+],
+"syndrome": [
+1,
+2
+],
+"organ": [
+0,
+1
+],
+"epidemic": [
+4,
+5
+],
+"pandemic": [
+4,
+5
+],
+"hemoglobin": [
+1,
+2
+],
+"adrenaline": [
+3,
+4
+],
+"reflex": [
+1,
+2
+],
+"skeleton": [
+2,
+3
+],
+"anemia": [
+2,
+3
+],
+"malaria": [
+3,
+4
+],
+"hematoma": [
+5,
+6
+],
+"arrhythmia": [
+4,
+5
+],
+"glaucoma": [
+5,
+6
+],
+"amnesia": [
+3,
+4
+],
+"donor": [
+1,
+2
+],
+"catheter": [
+1,
+2
+],
+"scalpel": [
+2,
+3
+],
+"psychiatrist": [
+5,
+6
+],
+"hepatitis": [
+5,
+6
+],
+"tuberculosis": [
+8,
+9
+],
+"poster": [
+1,
+2
+],
+"decor": [
+3,
+4
+],
+"contrast": [
+1,
+2
+],
+"sculptor": [
+2,
+3
+],
+"collage": [
+4,
+5
+],
+"ornament": [
+0,
+1
+],
+"mosaic": [
+3,
+4
+],
+"fresco": [
+2,
+3
+],
+"renaissance": [
+1,
+2
+],
+"retro": [
+1,
+2
+],
+"palette": [
+1,
+2
+],
+"carnival": [
+1,
+2
+],
+"masquerade": [
+7,
+8
+],
+"illustrator": [
+0,
+1
+],
+"statue": [
+2,
+3
+],
+"poet": [
+1,
+2
+],
+"legend": [
+1,
+2
+],
+"poetry": [
+1,
+2
+],
+"sonnet": [
+1,
+2
+],
+"saga": [
+1,
+2
+],
+"repertoire": [
+1,
+2
+],
+"ballerina": [
+6,
+7
+],
+"cabaret": [
+5,
+6
+],
+"bravo": [
+2,
+3
+],
+"biography": [
+2,
+3
+],
+"memoir": [
+1,
+2
+],
+"anthology": [
+4,
+5
+],
+"manuscript": [
+1,
+2
+],
+"icon": [
+0,
+1
+],
+"angel": [
+0,
+1
+],
+"demon": [
+1,
+2
+],
+"mystic": [
+1,
+2
+],
+"karma": [
+1,
+2
+],
+"guru": [
+1,
+2
+],
+"magic": [
+1,
+2
+],
+"fiesta": [
+2,
+3
+],
+"mantra": [
+1,
+2
+],
+"patriarch": [
+1,
+2
+],
+"taboo": [
+3,
+5
+],
+"totem": [
+1,
+2
+],
+"shaman": [
+2,
+3
+],
+"monastery": [
+1,
+2
+],
+"pastor": [
+1,
+2
+],
+"dragon": [
+2,
+3
+],
+"canal": [
+3,
+4
+],
+"meridian": [
+3,
+4
+],
+"lagoon": [
+3,
+5
+],
+"archipelago": [
+6,
+7
+],
+"landscape": [
+1,
+2
+],
+"province": [
+2,
+3
+],
+"hello": [
+4,
+5
+],
+"sorry": [
+1,
+2
+],
+"super": [
+1,
+2
+],
+"bingo": [
+1,
+2
+],
+"pardon": [
+1,
+2
+],
+"oho": [
+2,
+3
+],
+"voila": [
+4,
+5
+],
+"nonsense": [
+1,
+2
+],
+"hurrah": [
+4,
+5
+],
+"amen": [
+2,
+3
+],
+"people": [
+1,
+2
+],
+"baby": [
+1,
+2
+],
+"crazy": [
+2,
+3
+],
+"shopping": [
+2,
+3
+],
+"respect": [
+4,
+5
+],
+"welcome": [
+1,
+2
+],
+"sexy": [
+1,
+2
+],
+"boyfriend": [
+1,
+3
+],
+"loser": [
+1,
+2
+],
+"fashion": [
+1,
+2
+],
+"device": [
+3,
+4
+],
+"upgrade": [
+0,
+1
+],
+"workshop": [
+1,
+2
+],
+"freelancer": [
+2,
+4
+],
+"checklist": [
+2,
+3
+],
+"celebrity": [
+3,
+4
+],
+"feedback": [
+1,
+3
+],
+"level": [
+1,
+2
+],
+"challenge": [
+2,
+3
+],
+"easy": [
+0,
+2
+],
+"message": [
+1,
+2
+],
+"brother": [
+2,
+3
+],
+"mother": [
+1,
+2
+],
+"daughter": [
+1,
+3
+],
+"water": [
+1,
+2
+],
+"widow": [
+1,
+2
+]
+}

@@ -4,254 +4,250 @@
 --- office | 🏢 | В офісі | At the office
 W office; manager; director; boss; secretary~секретар; assistant; colleague~колега; company; department~департамент; contract; document; printer; calendar; bonus; training; conference~конференція
 M firm~фірма; career~кар'єра; profession~професія; position; vacancy~вакансія; résumé; interview; pension~пенсія; seminar; presentation~презентація; briefing; scanner; marker; organizer~органайзер; office manager; top manager; deadline; coffee break; dress code; committee; administration; personnel; session; qualification; leadership; productivity
-S I work in an office in the center. | Я працюю в офісі в центрі.
-S My boss is at a conference today. | Мій бос сьогодні на конференції.
-S Can you print this document, please? | Можеш роздрукувати цей документ, будь ласка?
-S We have a training session on Monday. | У нас тренінг у понеділок.
-S I'm a manager in the sales department. | Я менеджер у відділі продажів.
-F I need to talk to the {manager|director|secretary|boss}. | Мені треба поговорити з {менеджером|директором|секретарем|босом}.
-D A: Is the director in the office today? | Директор сьогодні в офісі?
-D B: No, he is at a conference. His assistant is here. | Ні, він на конференції. Його асистентка тут.
-D A: I need him to sign a contract. | Мені треба, щоб він підписав контракт.
-D B: Leave the document with the secretary. | Залиште документ у секретаря.
+S I am in the office. | Я в офісі.
+S This is my boss. | Це мій бос.
+S Where is the contract? | Де контракт?
+S We have a conference today. | У нас сьогодні конференція.
+S I need a printer. | Мені потрібен принтер.
+F Where is the {contract|document|printer|calendar}? | Де {контракт|документ|принтер|календар}?
+D A: Hello! Where is the director? | Вітаю! Де директор?
+D B: He is at a conference. | Він на конференції.
+D A: I need this document today. | Мені потрібен цей документ сьогодні.
+D B: OK. The secretary is here. | Гаразд. Секретар тут.
 ! meeting ≠ мітинг | Meeting — це нарада, зустріч. Мітинг на вулиці — rally або demonstration.
 
 --- talk | 💬 | Слова для будь-якої розмови | Words for any conversation
 W problem; idea; plan; fact; detail; sense; result; effect; chance; risk; situation; information; reaction; position; comment~коментар; moment
 M argument; contact; control; progress; process; status; standard; type; form~форма; format; group; category; system; structure; function; role; model; alternative~альтернатива; compromise; conflict; discussion~дискусія; compliment; priority~пріоритет; strategy; logic; concept; aspect; factor; context; nuance; paradox; stereotype; absurd~абсурд; principle; line; base; sphere; secret; chaos; gesture; story
-S What's the problem? | У чому проблема?
-S I have an idea! | У мене є ідея!
-S That's a good plan. | Це хороший план.
-S It's a fact. | Це факт.
-S What was the result? | Який був результат?
-S We need more information. | Нам потрібно більше інформації.
-F That's a good {idea|plan|result|chance}. | Це {хороша ідея|хороший план|хороший результат|хороший шанс}.
-D A: We have a small problem with the plan. | У нас маленька проблема з планом.
-D B: What's the situation? | Яка ситуація?
-D A: There is a risk with the dates. But I have an idea. | Є ризик із датами. Але в мене є ідея.
-D B: Good. Send me the details. | Добре. Надішли мені деталі.
+S I have an idea. | У мене є ідея.
+S We have a problem. | У нас проблема.
+S It is a fact. | Це факт.
+S This is a good plan. | Це хороший план.
+S We need information. | Нам потрібна інформація.
+F This is a good {plan|idea|result|chance}. | Це {хороший план|хороша ідея|хороший результат|хороший шанс}.
+D A: We have a problem. | У нас проблема.
+D B: What is the situation? | Яка ситуація?
+D A: It is a risk. But I have an idea. | Це ризик. Але в мене є ідея.
+D B: Good. I need the details. | Добре. Мені потрібні деталі.
 ! data ≠ дата | Data — це дані. Дата — date. А list — це список; лист — letter.
 ! variant ≠ варіант | Варіант — option або version (We have two options). Variant — це різновид (a new variant of the virus).
 
 --- project | 📊 | Проєкти й плани | Projects and plans
 W project; plan; start; finish~фініш; final; phase~фаза; budget; resource; risk; priority~пріоритет; status; progress; result; control; test; presentation~презентація
 M monitoring; analysis~аналіз; statistics~статистика; prognosis~прогноз; strategy; concept; prototype; version~версія; release; leader; coordinator; partner; sponsor; investor; grant; startup; calendar; diagram~діаграма; scheme~схема; norm~норма; criterion~критерій; parameter; indicator; optimization~оптимізація; modernization~модернізація; innovation~інновація; initiative~ініціатива; experiment; deadline; potential
-S What is the status of the project? | Який статус проєкту?
-S We are in the final phase. | Ми на фінальній фазі.
-S It's not in the budget. | Цього немає в бюджеті.
-S This is our number one priority. | Це наш пріоритет номер один.
-S We start in May and finish in July. | Ми стартуємо в травні й фінішуємо в липні.
-F What is the {status|budget|plan|result} of the project? | Який {статус|бюджет|план|результат} проєкту?
-D A: How is the project? | Як проєкт?
-D B: We're making progress. The test was OK. | Є прогрес. Тест пройшов добре.
+S This is our project. | Це наш проєкт.
+S We have a plan. | У нас є план.
+S We have no budget. | У нас немає бюджету.
+S It is a priority. | Це пріоритет.
+S The result is good. | Результат хороший.
+F We have a {plan|budget|result|presentation}. | У нас є {план|бюджет|результат|презентація}.
+D A: What is the status? | Який статус?
+D B: We have progress. | У нас є прогрес.
 D A: And the budget? | А бюджет?
-D B: Under control. The presentation is on Friday. | Під контролем. Презентація в п'ятницю.
+D B: It is OK. The presentation is today. | Усе окей. Презентація сьогодні.
 ! graphic ≠ графік | Графік роботи — schedule. Графік на слайді — chart або graph.
 
 --- papers | 📄 | Документи | Documents
 W document; contract; certificate; license; passport; visa; diploma~диплом; form~форма; copy~копія; original~оригінал; file; archive; code; number~номер; date~дата; address~адреса
 M résumé; catalog; index; format; text; email; fax; SMS; courier; protocol~протокол; instruction; memorandum; press release; declaration~декларація; petition~петиція; registration~реєстрація; procedure~процедура; formality~формальність; bureaucracy~бюрократія; stamp~штамп; patent; dossier
-S Can I have a copy of the contract? | Можна мені копію контракту?
-S I need the original, not a copy. | Мені потрібен оригінал, а не копія.
-S Please fill out this form. | Заповніть, будь ласка, цю форму.
-S What is the number of the document? | Який номер документа?
-S Write your address and the date here. | Напишіть тут свою адресу й дату.
-F I need a copy of the {contract|document|certificate|license}. | Мені потрібна копія {контракту|документа|сертифіката|ліцензії}.
+S I need a copy. | Мені потрібна копія.
+S This is the original. | Це оригінал.
+S I have a diploma. | У мене є диплом.
+S What is your address? | Яка ваша адреса?
+S This is my number. | Це мій номер.
+F I need {a copy|the original|the contract|a certificate}. | {Мені потрібна копія|Мені потрібен оригінал|Мені потрібен контракт|Мені потрібен сертифікат}.
 ! list ≠ лист | List — це список. Лист — letter. Заява — application.
 
 --- business | 📈 | Бізнес | Business
 W business; company; firm~фірма; brand; product; service; marketing; management; export; import; capital; investor; partner; sponsor; strategy; contract
 M businessman; corporation~корпорація; holding~холдинг; startup; investment~інвестиція; profit; bonus; dealer; distributor; agent; agency; consultant; consulting; audit; license; patent; franchise~франшиза; monopoly~монополія; crisis~криза; boom; leader; logo~логотип; PR; image~імідж; reputation~репутація; prestige; premium; price list; business plan; business partner; business class; association; campaign; audience; slogan
-S I have a small business. | У мене невеликий бізнес.
-S Our company exports to Europe. | Наша компанія експортує в Європу.
-S We need a new marketing strategy. | Нам потрібна нова маркетингова стратегія.
-S They are our business partners. | Вони наші бізнес-партнери.
-S It's a strong brand. | Це сильний бренд.
-F We need a new {strategy|partner|brand|investor}. | Нам {потрібна нова стратегія|потрібен новий партнер|потрібен новий бренд|потрібен новий інвестор}.
-D A: What does your company do? | Чим займається ваша компанія?
-D B: We import coffee and export chocolate. | Ми імпортуємо каву й експортуємо шоколад.
-D A: Interesting! Do you have investors? | Цікаво! У вас є інвестори?
-D B: One partner and one sponsor. | Один партнер і один спонсор.
+S I have a small business. | У мене малий бізнес.
+S This is our product. | Це наш продукт.
+S We need an investor. | Нам потрібен інвестор.
+S He is my business partner. | Він мій бізнес-партнер.
+S It is a good brand. | Це хороший бренд.
+F We need {an investor|a partner|a sponsor|a strategy}. | {Нам потрібен інвестор|Нам потрібен партнер|Нам потрібен спонсор|Нам потрібна стратегія}.
+D A: Hello! What is your product? | Вітаю! Який у вас продукт?
+D B: Chocolate. We export chocolate. | Шоколад. Ми експортуємо шоколад.
+D A: Super! I like chocolate. | Супер! Я люблю шоколад.
+D B: We need a new partner. | Нам потрібен новий партнер.
 ! competitor ≠ конкурент | Конкурент — competitor. Concurrent — це «одночасний».
 
 --- clients | 🤝 | Клієнти й продажі | Clients and sales
 W client; service; product; catalog; price list; coupon; discount~дисконт; bonus; guarantee~гарантія; model; brand; consultant; operator; call center; consultation~консультація; rating
 M premium; standard; contact center; presentation~презентація; demonstration; argument; compliment; conflict; compromise; reaction; comment~коментар; statistics~статистика; percent~процент; commission~комісія; dealer; distributor; agent; reputation~репутація; segment; trend; demo; test drive; trade-in; loyalty; compensation; assortment
-S How can I help you? | Чим я можу вам допомогти?
-S This model has a two-year guarantee. | Ця модель має дворічну гарантію.
-S We have a bonus for our clients. | У нас є бонус для наших клієнтів.
-S Here is our catalog and the price list. | Ось наш каталог і прайс-лист.
-S The service is free. | Сервіс безплатний.
-F Here is our {catalog|price list|bonus|guarantee}. | Ось {наш каталог|наш прайс-лист|наш бонус|наша гарантія}.
-D A: Good morning! Are you looking for a specific model? | Добрий ранок! Шукаєте конкретну модель?
-D B: Yes, this one. Is there a discount? | Так, ось цю. Є знижка?
-D A: Ten percent with a coupon, and a guarantee. | Десять відсотків із купоном і гарантія.
-D B: OK. I'd like a consultation first. | Добре. Спочатку я хочу консультацію.
+S This is our catalog. | Це наш каталог.
+S We have a bonus for you. | У нас для вас бонус.
+S This model is new. | Ця модель нова.
+S The client is here. | Клієнт тут.
+S The service is very good. | Сервіс дуже хороший.
+F This is our {catalog|price list|product|guarantee}. | Це {наш каталог|наш прайс-лист|наш продукт|наша гарантія}.
+D A: Hello! I need a new model. | Вітаю! Мені потрібна нова модель.
+D B: This is our catalog. | Це наш каталог.
+D A: Thank you. I have a coupon. | Дякую. У мене є купон.
+D B: Super! We have a discount for you. | Супер! У нас для вас знижка.
 
 --- bankwork | 🏦 | Банк і фінанси | Banking and finance
 W bank; credit; deposit; percent~процент; balance; budget; audit; finance~фінанси; investor; investment~інвестиція; capital; limit; transaction~транзакція; operation; risk; guarantee~гарантія
 M banker~банкір; creditor; auditor; broker; fund~фонд; dividend~дивіденд; leasing; default; deficit; inflation~інфляція; tariff; rating; analysis~аналіз; statistics~статистика; prognosis~прогноз; bankrupt~банкрут; financial; economy; dollar; euro; million; grace period; stress test
-S The client has a good credit history. | У клієнта хороша кредитна історія.
-S What is the interest rate on this deposit? | Який процент на цьому депозиті?
-S We need a guarantee from the client. | Нам потрібна гарантія від клієнта.
-S The risk is too high. | Ризик зависокий.
-S The audit starts next week. | Аудит починається наступного тижня.
-F We need to check the {balance|budget|limit|risk}. | Нам треба перевірити {баланс|бюджет|ліміт|ризик}.
-D A: The client wants a loan of one million. | Клієнт хоче кредит на один мільйон.
-D B: What is the risk? Do we have the documents? | Який ризик? У нас є документи?
-D A: Yes: the balance sheet and the audit. | Так: баланс і аудит.
-D B: Good. Then the limit is five hundred thousand. | Добре. Тоді ліміт — п'ятсот тисяч.
+S This is my bank. | Це мій банк.
+S I have a deposit. | У мене є депозит.
+S What is the limit? | Який ліміт?
+S We need a guarantee. | Нам потрібна гарантія.
+S It is a big risk. | Це великий ризик.
+F What is the {limit|balance|budget|risk}? | Який {ліміт|баланс|бюджет|ризик}?
+D A: The client is here. | Клієнт тут.
+D B: What is the risk? | Який ризик?
+D A: We have a guarantee. | У нас є гарантія.
+D B: Good. What is the limit? | Добре. Який ліміт?
 ! credit ≠ кредит | Кредит у банку — loan. Credit — у словах credit card, credit limit, credit history. Процент за кредитом — interest.
 ! action ≠ акція | Акція компанії — share або stock. Облігація — bond. Іпотека — mortgage.
 
 --- economy | 📉 | Економіка в новинах | The economy in the news
 W economy; inflation~інфляція; crisis~криза; budget; export; import; tariff; resource; energy~енергія; gas; reform~реформа; sector; industry; statistics~статистика; percent~процент; index
 M default; deficit; investment~інвестиція; capital; monopoly~монополія; prognosis~прогноз; tendency~тенденція; stabilization~стабілізація; devaluation~девальвація; privatization~приватизація; sanction~санкція; embargo; subsidy~субсидія; regulator; balance; boom; collapse; stagnation~стагнація; recession~рецесія; globalization~глобалізація; minimum; standard; dynamics; stimulus
-S Inflation is ten percent this year. | Цього року інфляція десять відсотків.
 S The economy is in crisis. | Економіка в кризі.
-S We export more than we import. | Ми експортуємо більше, ніж імпортуємо.
-S Gas and energy cost a lot. | Газ і енергія коштують дорого.
-S The country needs reforms. | Країні потрібні реформи.
-F The {economy|budget|sector|industry} is growing. | {Економіка|Бюджет|Сектор|Індустрія} зростає.
+S Inflation is ten percent. | Інфляція — десять процентів.
+S We need reforms. | Нам потрібні реформи.
+S We export gas. | Ми експортуємо газ.
+S It is a big sector. | Це великий сектор.
+F We export {gas|energy|resources}. | Ми експортуємо {газ|енергію|ресурси}.
 
 --- it | 🖥️ | IT | IT
 W project; server; system; program~програма; code; test; release; version~версія; interface; design; prototype; module; platform~платформа; service; startup; status
 M component; architecture; product; sprint~спринт; priority~пріоритет; deadline; account; admin; hosting; domain; provider; browser; file; format; script; algorithm; processor; monitor; robot; drone; sensor; chip; blockchain; hacker; antivirus; virus; spam; bot; data center; cache; plug-in; installation~інсталяція; configuration~конфігурація; integration~інтеграція; automation~автоматизація; optimization~оптимізація; monitoring; analytics~аналітика; documentation~документація; protocol~протокол; license; testing; analyst
-S The server is down. | Сервер не працює.
-S When is the next release? | Коли наступний реліз?
-S We need to test the new version. | Нам треба протестувати нову версію.
-S There is a problem in the code. | У коді є проблема.
-S The interface is simple and clear. | Інтерфейс простий і зрозумілий.
-F There is a problem with the {server|code|system|interface}. | Є проблема з {сервером|кодом|системою|інтерфейсом}.
-D A: What is the status of the release? | Який статус релізу?
-D B: The code is ready, the test is tomorrow. | Код готовий, тест завтра.
-D A: Any problems with the server? | Є проблеми із сервером?
-D B: No. The system is stable. | Ні. Система стабільна.
+S This is a new version. | Це нова версія.
+S The server has a problem. | У сервера проблема.
+S I like the interface. | Мені подобається інтерфейс.
+S The code is good. | Код хороший.
+S The release is today. | Реліз сьогодні.
+F The {server|code|system|interface} has a problem. | {У сервера|У коду|У системи|В інтерфейсу} проблема.
+D A: What is the status? | Який статус?
+D B: The code is OK. The test is today. | Код окей. Тест сьогодні.
+D A: And the server? | А сервер?
+D B: No problem. The system is stable. | Без проблем. Система стабільна.
 ! support | Саппорт англійською — support (the support team). Дієслово support — підтримувати.
 
 --- production | 🏭 | Виробництво | Production
 W process; technology; mechanism; robot; instrument; model; design; engineer~інженер; mechanic; operator; standard; control; test; defect; norm~норма; conveyor
 M apparatus~апарат; designer; technician~технік; master; laser; tractor; crane~кран; excavator; bulldozer; drill; bolt; filter; cable; compressor; generator; motor; pump~помпа; cistern~цистерна; container; pallet~палета; press~прес; cylinder; turbine; reactor; electrode; transformer~трансформатор; transistor; diode; factory~фабрика; format; parameter
-S Every product goes through quality control. | Кожен продукт проходить контроль якості.
-S We have a defect in this model. | У цій моделі в нас дефект.
-S The operator checks the process. | Оператор перевіряє процес.
-S It's a new technology for us. | Для нас це нова технологія.
-S This is the standard for all models. | Це стандарт для всіх моделей.
-F We need to check the {process|mechanism|instrument|standard}. | Нам треба перевірити {процес|механізм|інструмент|стандарт}.
-D A: Why did the conveyor stop? | Чому зупинився конвеєр?
-D B: There is a defect in the motor. | У моторі дефект.
-D A: Call the engineer and the mechanic. | Поклич інженера й механіка.
-D B: The engineer is here. The test is in ten minutes. | Інженер уже тут. Тест за десять хвилин.
+S This is a new technology. | Це нова технологія.
+S We have a defect. | У нас дефект.
+S Where is the engineer? | Де інженер?
+S It is the standard. | Це стандарт.
+S The robot is new. | Робот новий.
+F Where is the {engineer|mechanic|operator}? | Де {інженер|механік|оператор}?
+D A: Stop! We have a defect. | Стоп! У нас дефект.
+D B: Where? | Де?
+D A: In the mechanism. | У механізмі.
+D B: OK. I need the engineer. | Гаразд. Мені потрібен інженер.
 ! production ≠ продукція | Продукція — products. Production — це виробництво. А machine — верстат, не автомобіль.
 
 --- materials | 🧱 | Матеріали | Materials
 W metal; plastic; material; textile; nylon; polyester~поліестер; latex; cement; asphalt; granite; crystal; gas; diesel; ceramics~кераміка; aluminum; bronze
 M viscose~віскоза; denim~денім; fleece; chiffon; cellophane; porcelain~порцеляна; marble~мармур; gypsum~гіпс; chrome; zinc; nickel; platinum; titanium~титан; graphite; polymer; silicone~силікон; acrylic~акрил; paraffin~парафін; vinyl~вініл; propane; methane; acetone; oxide; pigment; emulsion~емульсія; paper
-S Is it metal or plastic? | Це метал чи пластик?
-S What material is this? | Що це за матеріал?
-S This fabric is one hundred percent polyester. | Ця тканина — сто відсотків поліестер.
-S We use aluminum and plastic. | Ми використовуємо алюміній і пластик.
-S It's made of metal. | Це зроблено з металу.
-F It's made of {metal|plastic|nylon|bronze}. | Це зроблено з {металу|пластику|нейлону|бронзи}.
+S It is metal. | Це метал.
+S Metal or plastic? | Метал чи пластик?
+S What is this material? | Що це за матеріал?
+S This is not plastic. | Це не пластик.
+S We need cement. | Нам потрібен цемент.
+F It is {metal|plastic|nylon|bronze}. | Це {метал|пластик|нейлон|бронза}.
 ! fabric ≠ фабрика | Fabric — це тканина. Фабрика — factory. Картон — cardboard; carton — це пакет молока чи соку.
 
 --- delivery | 🚚 | Доставка | Delivery
 W courier; address~адреса; container; cargo; transport; terminal; depot; port; transit; service; client; code; number~номер; signal; status
 M pallet~палета; scanner; scan; express~експрес; tariff; zone~зона; region; center; operator; dispatcher; coordinator; logistics~логістика; export; import; declaration~декларація; document; control; limit; kilogram; ton~тонна; kilometer; pickup; minivan; scooter; trailer
-S I have a delivery for you. | У мене для вас доставка.
+S I am a courier. | Я кур'єр.
 S What is the address? | Яка адреса?
-S What is the code for the door? | Який код на дверях?
-S Please sign here. | Підпишіть тут, будь ласка.
-S The package is in transit. | Посилка в дорозі.
+S I need the code. | Мені потрібен код.
+S The container is in the port. | Контейнер у порту.
+S What is the status? | Який статус?
 F What is the {address|code|number|status}? | {Яка адреса|Який код|Який номер|Який статус}?
-D A: Hello! A delivery for apartment five. | Добрий день! Доставка для квартири п'ять.
-D B: That's me. Do you need a code? | Це я. Вам потрібен код?
-D A: Yes, the code from the SMS, please. | Так, код із СМС, будь ласка.
-D B: Here it is. Thank you! | Ось він. Дякую!
+D A: Hello! | Вітаю!
+D B: Hello! I am a courier. What is the code? | Вітаю! Я кур'єр. Який код?
+D A: The code is three, five, one. | Код — три, п'ять, один.
+D B: Thank you! | Дякую!
 ! parcel | Посилка англійською — parcel або package. Пакет із супермаркету — bag.
 
 --- study | 🎓 | Навчання | Studying
 W school~школа; class; course; student; professor; university; college; institute; exam~екзамен; test; diploma~диплом; certificate; lecture; seminar; semester; grant
 M academy; faculty~факультет; discipline; text; essay; campus; rector; laboratory; program~програма; module; dissertation~дисертація; conference~конференція; webinar; online course; training; consultation~консультація; marker; atlas; globe~глобус; calculator; encyclopedia; intellect; talent; progress; result; lab; dean; qualification
-S I'm a student at the university. | Я студент університету.
-S I have an exam on Friday. | У мене екзамен у п'ятницю.
-S She did an online course and got a certificate. | Вона пройшла онлайн-курс і отримала сертифікат.
-S The lecture starts at nine. | Лекція починається о дев'ятій.
-S What was your result on the test? | Який у тебе результат тесту?
-F I have {an exam|a test|a lecture|a seminar} on Friday. | У мене {екзамен|тест|лекція|семінар} у п'ятницю.
-D A: How was the exam? | Як екзамен?
-D B: Not bad. The test was easy, the essay was hard. | Непогано. Тест був легкий, есе — важке.
-D A: When do you get your diploma? | Коли ти отримаєш диплом?
-D B: After this semester. | Після цього семестру.
+S I am a student. | Я студент.
+S I have an exam today. | У мене сьогодні екзамен.
+S This is my university. | Це мій університет.
+S I like this course. | Мені подобається цей курс.
+S I need a certificate. | Мені потрібен сертифікат.
+F I have {an exam|a test|a lecture|a seminar} today. | У мене сьогодні {екзамен|тест|лекція|семінар}.
+D A: Hello! Are you a student? | Привіт! Ти студент?
+D B: Yes. I have an exam today. | Так. У мене сьогодні екзамен.
+D A: Wow! Where? | Ого! Де?
+D B: At the university. | В університеті.
 ! faculty | Факультет — faculty або department. У США faculty — це ще й усі викладачі.
 
 --- subjects | 📚 | Предмети й науки | Subjects and sciences
 W mathematics; physics; chemistry; biology; geography; history; literature; philosophy; psychology; economics; grammar~граматика; algebra; geometry; astronomy; ecology~екологія; medicine
 M anatomy; genetics; statistics~статистика; logic; ethics~етика; politics; sociology; pedagogy~педагогіка; linguistics; architecture; design; music; sport; technology; marketing; management; informatics~інформатика; engineering~інженерія
-S My favorite subject is history. | Мій улюблений предмет — історія.
-S I'm bad at mathematics. | У мене погано з математикою.
-S She studies psychology. | Вона вивчає психологію.
-S Physics and chemistry are difficult. | Фізика й хімія складні.
-S We have geography on Monday. | У нас географія в понеділок.
-F She studies {psychology|history|biology|economics}. | Вона вивчає {психологію|історію|біологію|економіку}.
+S I like history. | Я люблю історію.
+S We have geography today. | У нас сьогодні географія.
+S This is a grammar test. | Це тест із граматики.
+S I need chemistry and biology. | Мені потрібні хімія й біологія.
+S Mathematics is my problem. | Математика — моя проблема.
+F I like {history|biology|geography|literature}. | Я люблю {історію|біологію|географію|літературу}.
 
 --- language | ✍️ | Мова | Language
 W text; dialogue; phrase; accent; grammar~граматика; alphabet~алфавіт; synonym; context; style; form~форма; theme; idea; humor; symbol; structure; slang
 M monologue; antonym~антонім; dialect; cliché; sarcasm; irony~іронія; metaphor; lexicon; prefix; suffix; apostrophe; comma; intonation~інтонація; tone; genre; abbreviation~абревіатура; transcription~транскрипція; interpretation~інтерпретація; idiom~ідіома; term; nuance; argument; prose; rhyme; letter
-S I don't understand this phrase. | Я не розумію цю фразу.
-S She speaks with an accent. | Вона говорить з акцентом.
-S What does it mean in this context? | Що це означає в цьому контексті?
-S English grammar is not so hard. | Англійська граматика не така вже й складна.
-S Is there a synonym for this word? | Є синонім до цього слова?
-F I don't understand this {phrase|text|dialogue|context}. | Я не розумію {цю фразу|цей текст|цей діалог|цей контекст}.
+S This is a good text. | Це хороший текст.
+S I have an accent. | У мене є акцент.
+S I like this phrase. | Мені подобається ця фраза.
+S It is slang. | Це сленг.
+S I need the context. | Мені потрібен контекст.
+F I like this {phrase|text|dialogue|style}. | Мені подобається {ця фраза|цей текст|цей діалог|цей стиль}.
 ! article | Article — це і стаття, і артикль (a, the).
 
 --- do-work | ⚙️ | Дії: робота | Actions: at work
 W organize~організувати; plan~планувати; control~контролювати; analyze; test~тестувати; start~стартувати; finance~фінансувати; invest; export~експортувати; import~імпортувати; register~реєструвати; reserve~резервувати; guarantee~гарантувати; risk~ризикувати; consult~консультувати; present~презентувати
 M coordinate~координувати; finish~фінішувати; transport~транспортувати; model~моделювати; modernize~модернізувати; optimize~оптимізувати; automate~автоматизувати; minimize; reform~реформувати; compensate~компенсувати; sponsor~спонсорувати; instruct~інструктувати; train~тренувати; motivate~мотивувати; delegate~делегувати; initiate; integrate; generate; demonstrate; focus~фокусуватися; concentrate~концентруватися; specialize~спеціалізуватися; practice~практикувати; experiment~експериментувати; combine~комбінувати; adapt~адаптувати; correct~коригувати; regulate~регулювати; stabilize~стабілізувати; activate~активувати; block~блокувати
-R Ukrainian verbs in -увати are often English verbs: організувати = organize, планувати = plan. | Українські дієслова на -увати часто є й англійськими: організувати = organize, планувати = plan.
-S I organize meetings for the team. | Я організовую наради для команди.
-S We plan to start in May. | Ми плануємо стартувати в травні.
-S Who controls the budget? | Хто контролює бюджет?
-S Can you guarantee the result? | Ви можете гарантувати результат?
-S I'd like to reserve a room for Monday. | Я хочу зарезервувати кімнату на понеділок.
-S Let's test it first. | Спочатку протестуймо це.
+R I plan. We organize. | Українські дієслова на -увати часто є й англійськими: планувати = plan, організувати = organize. Речення просте: I plan. We organize.
+S I plan. | Я планую.
+S We plan the project. | Ми плануємо проєкт.
+S We organize a conference. | Ми організовуємо конференцію.
+S I register the client. | Я реєструю клієнта.
+S We test the program. | Ми тестуємо програму.
+S They control the budget. | Вони контролюють бюджет.
 F We {plan|organize|control|finance} the project. | Ми {плануємо|організовуємо|контролюємо|фінансуємо} проєкт.
 ! realize ≠ реалізувати | Realize — це усвідомити. Реалізувати план — carry out a plan; реалізувати товар — sell.
 
 --- do-talk | 🗣️ | Дії: спілкування | Actions: talking
-W recommend; inform; comment~коментувати; discuss~дискутувати; criticize; react; ignore~ігнорувати; protest~протестувати; provoke~провокувати; motivate~мотивувати; consult~консультувати; telephone~телефонувати; formulate~формулювати; publish~публікувати; flirt~фліртувати; panic~панікувати
-M manipulate; interpret~інтерпретувати; illustrate~ілюструвати; identify; imitate~імітувати; declare~декларувати; debate; propose~пропонувати; relax~релаксувати; improvise~імпровізувати; dominate; demonstrate
-S Can you recommend a good restaurant? | Можете порекомендувати хороший ресторан?
-S Please inform me about the results. | Будь ласка, поінформуйте мене про результати.
-S I don't want to comment on it. | Я не хочу це коментувати.
-S Don't panic and don't ignore the problem. | Не панікуй і не ігноруй проблему.
-S How did he react? | Як він відреагував?
-S Let's discuss it tomorrow. | Обговорімо це завтра.
-F Please don't {ignore|criticize|comment on|provoke} him. | Будь ласка, не {ігноруй|критикуй|коментуй|провокуй} його.
+W recommend; inform; comment~коментувати; discuss~дискутувати; criticize; react; ignore~ігнорувати; protest~протестувати; provoke~провокувати; motivate~мотивувати; consult~консультувати; relax~релаксувати; formulate~формулювати; publish~публікувати; flirt~фліртувати; panic~панікувати
+M telephone~телефонувати; manipulate; interpret~інтерпретувати; illustrate~ілюструвати; identify; imitate~імітувати; declare~декларувати; debate; propose~пропонувати; improvise~імпровізувати; dominate; demonstrate
+S I recommend this film. | Я рекомендую цей фільм.
+S We discuss the plan. | Ми обговорюємо план.
+S They ignore the problem. | Вони ігнорують проблему.
+S You motivate me. | Ти мене мотивуєш.
+S No comment. | Без коментарів.
+F I recommend this {film|restaurant|hotel|doctor}. | Я рекомендую {цей фільм|цей ресторан|цей готель|цього лікаря}.
 ! argue ≠ аргументувати | Argue — це сперечатися. Аргументувати — give reasons, explain why.
 
 --- do-tech | 🖱️ | Дії: техніка й побут | Actions: tech and everyday
 W copy~копіювати; scan~сканувати; format~форматувати; install~інсталювати; program~програмувати; filter~фільтрувати; sort~сортувати; archive~архівувати; click~клікати; photograph~фотографувати; park~паркувати; pack~пакувати; dance~танцювати; massage~масажувати; decorate~декорувати; group~групувати
 M film~фільмувати; marinate~маринувати; march~марширувати; operate~оперувати; diagnose~діагностувати; vaccinate~вакцинувати; disinfect~дезінфікувати; ventilate~вентилювати; restore~реставрувати; isolate~ізолювати; evacuate~евакуювати; mobilize~мобілізувати; pilot~пілотувати; blog~блогити; post~постити; like~лайкати; google~гуглити
-S Can you copy this file for me? | Можеш скопіювати мені цей файл?
-S Please scan the document and send it. | Будь ласка, відскануй документ і надішли.
-S Where can I park? | Де можна припаркуватися?
-S I need to install a new program. | Мені треба інсталювати нову програму.
-S Do you like to dance? | Ти любиш танцювати?
-S Click here and sort by date. | Клікни тут і відсортуй за датою.
-F Can you {copy|scan|format|archive} this file? | Можеш {скопіювати|відсканувати|відформатувати|заархівувати} цей файл?
+S Click here. | Клікни тут.
+S Copy the file, please. | Скопіюй файл, будь ласка.
+S I scan the document. | Я сканую документ.
+S We park here. | Ми паркуємося тут.
+S I like to dance. | Я люблю танцювати.
+F {Copy|Scan|Format|Archive} the file, please. | {Скопіюй|Відскануй|Відформатуй|Заархівуй} файл, будь ласка.
 ! control | Control — це керувати, контролювати. Перевірити — check (Check your email).
 
 --- what-like | ✨ | Який? Яка? Яке? | What is it like?
 W real; special; normal; ideal~ідеальний; original; unique; popular; typical; standard~стандартний; universal; practical; effective; stable; mobile; compact; automatic
 M basic; logical; productive; electronic; electric~електричний; technical; mechanical; classic~класичний; traditional; natural; organic; ecological; global; local; central; national; regional; international~інтернаціональний; social; personal; private; official; legal; illegal; formal; minimal; maximal~максимальний; optimal; critical; radical; positive; negative~негативний; active; passive~пасивний; neutral~нейтральний; relevant~релевантний; absolute~абсолютний; abstract; elementary; fundamental; final~фінальний; fantastic; elegant; exotic~екзотичний; comfortable~комфортний; commercial; financial; strategic; public~публічний; virtual; interactive; alternative~альтернативний; progressive; intensive; extreme~екстремальний; modern~модерний; legendary; gigantic
-S It's a real problem. | Це реальна проблема.
-S This is a special offer. | Це спеціальна пропозиція.
-S It's normal, don't worry. | Це нормально, не хвилюйся.
-S It's an ideal place for a picnic. | Це ідеальне місце для пікніка.
-S It's a very popular model. | Це дуже популярна модель.
-S We need a practical solution. | Нам потрібне практичне рішення.
-F It's a {real|special|typical|unique} situation. | Це {реальна|особлива|типова|унікальна} ситуація.
+S It is a real problem. | Це реальна проблема.
+S It is normal. | Це нормально.
+S This is an ideal plan. | Це ідеальний план.
+S It is very popular. | Це дуже популярно.
+S It is a unique chance. | Це унікальний шанс.
+F It is a {real|typical|special|unique} situation. | Це {реальна|типова|особлива|унікальна} ситуація.
 ! accurate ≠ акуратний | Accurate — це точний. Акуратний — neat або careful.
 ! concrete ≠ конкретний | Конкретна модель — a specific model. Concrete — це бетон або «a concrete example».

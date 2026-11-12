@@ -1,0 +1,73 @@
+// The little words. Every sentence on the site uses only these words and the words of the clouds.
+// English | Ukrainian. "#" starts a group. tools/build_clouds.py checks every sentence against this list.
+# Who
+I | я
+you | ти, ви
+he | він
+she | вона
+it | це, воно
+we | ми
+they | вони
+# To be
+I am | я
+you are | ти, ви
+he is, she is, it is | він, вона, це
+we are, they are | ми, вони
+# A, the, this
+a, an | один, якийсь
+the | той самий
+this | цей, ця, це
+that | той, та, те
+my | мій
+your | твій, ваш
+our | наш
+me | мене, мені
+# Four verbs
+I have | у мене є
+he has, she has | у нього є, у неї є
+I need | мені потрібно
+I want | я хочу
+I like | я люблю, мені подобається
+# Questions
+where | де
+what | що, який
+who | хто
+# Yes, no, and
+yes | так
+no | ні; без
+not | не
+and | і
+or | чи, або
+but | але
+# Polite words
+please | будь ласка
+thank you | дякую
+thanks | дякую (простіше)
+sorry | вибачте
+hello | вітаю, привіт
+hi | привіт
+bye | бувай, до побачення
+# Where
+here | тут
+there | там
+in | в, у
+on | на
+at | в, на, біля
+to | до, в
+from | з (звідки)
+with | з (із чимось)
+for | для
+# What is it like
+good | добрий, хороший
+bad | поганий
+big | великий
+small | малий
+new | новий
+old | старий
+very | дуже
+# When and how many
+now | зараз
+today | сьогодні
+one, two, three | один, два, три
+four, five, six | чотири, п'ять, шість
+seven, eight, nine, ten | сім, вісім, дев'ять, десять

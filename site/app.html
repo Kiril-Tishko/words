@@ -10,6 +10,7 @@
   --bg: #F3F5F8; --card: #FFFFFF; --ink: #15202B; --muted: #5C6977; --line: #DCE2E9; --sunk: #EAEEF3;
   --green: #0B7A55; --green-soft: #DDF3E9; --pink: #B0195A; --pink-soft: #FCE6EF; --blue: #1B58C4; --blue-soft: #E4ECFB;
   --yellow: #FFF0B8; --yellow-ink: #4E3F00; --red: #B3261E; --red-soft: #FBE7E5; --on-green: #FFFFFF;
+  --amber: #8A4B00; --amber-soft: #FFE4BF;
   --font: "Lexend", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 4px 14px rgba(16, 24, 40, .05);
 }
@@ -17,14 +18,14 @@
   :root:not([data-theme="light"]) {
     --bg: #0F141A; --card: #182029; --ink: #E9EEF3; --muted: #9BA7B4; --line: #2A3542; --sunk: #202A35;
     --green: #56D3A2; --green-soft: #143328; --pink: #FF8FBC; --pink-soft: #3A1A28; --blue: #8DB4FF; --blue-soft: #18284A;
-    --yellow: #4A3F12; --yellow-ink: #FFE99A; --red: #FF8A80; --red-soft: #3B1D1B; --on-green: #06231A;
+    --yellow: #4A3F12; --yellow-ink: #FFE99A; --red: #FF8A80; --red-soft: #3B1D1B; --on-green: #06231A; --amber: #FFC978; --amber-soft: #4A3312;
     --shadow: 0 1px 2px rgba(0, 0, 0, .4); color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0F141A; --card: #182029; --ink: #E9EEF3; --muted: #9BA7B4; --line: #2A3542; --sunk: #202A35;
   --green: #56D3A2; --green-soft: #143328; --pink: #FF8FBC; --pink-soft: #3A1A28; --blue: #8DB4FF; --blue-soft: #18284A;
-  --yellow: #4A3F12; --yellow-ink: #FFE99A; --red: #FF8A80; --red-soft: #3B1D1B; --on-green: #06231A;
+  --yellow: #4A3F12; --yellow-ink: #FFE99A; --red: #FF8A80; --red-soft: #3B1D1B; --on-green: #06231A; --amber: #FFC978; --amber-soft: #4A3312;
   --shadow: 0 1px 2px rgba(0, 0, 0, .4); color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -78,14 +79,29 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 22px 2px 0; font-size: 15px; font-weight: 500; }
 
 /* a word of a cloud: tap to hear */
-.chip { display: inline-flex; flex-direction: column; align-items: flex-start; gap: 0; text-align: left; padding: 8px 14px; border-radius: 14px;
+.chip { position: relative; display: inline-flex; align-items: center; gap: 9px; text-align: left; padding: 6px 12px 6px 9px; border-radius: 14px;
   background: var(--card); border: 1.5px solid var(--line); min-width: 0; line-height: 1.25; }
+.chip .rare { position: absolute; top: -8px; right: 8px; }      /* a badge on the border: it takes no room from the word */
+.chip .ct { display: flex; flex-direction: column; min-width: 0; flex: 1 1 auto; }
 .chip b { font-weight: 600; font-size: 18px; overflow-wrap: anywhere; }
-.chip span { font-size: 13.5px; color: var(--muted); overflow-wrap: anywhere; }
-.chip.long b { font-size: 15px; letter-spacing: -.02em; }
+.chip .ct span { font-size: 13.5px; color: var(--muted); overflow-wrap: anywhere; }
+.chip.l1 b { font-size: 15.5px; letter-spacing: -.01em; }
+.chip.l2 b { font-size: 13.5px; letter-spacing: -.02em; }
+/* pictures: one sheet per cloud, eight in a row; --x and --y say which one */
+.pic { --s: 38px; flex: none; display: inline-block; width: var(--s); height: var(--s); background-repeat: no-repeat;
+  background-size: calc(var(--s) * 8) auto; background-position: calc(var(--x) * var(--s) * -1) calc(var(--y) * var(--s) * -1); }
+.pic.big { --s: 104px; }
+.pic.md { --s: 76px; }
+.pic.h { --s: 1.2em; vertical-align: -.24em; margin-right: .12em; }
+.pic.tl { --s: 36px; }
+/* the English word is used much less than the Ukrainian one */
+.rare { flex: none; font-style: normal; font-weight: 600; font-size: 11.5px; letter-spacing: .02em; padding: 1px 7px; border-radius: 999px;
+  background: var(--amber-soft); color: var(--amber); white-space: nowrap; }
 .chip:hover { border-color: var(--green); }
 .chip.on { background: var(--green-soft); border-color: var(--green); }
 .st { color: var(--green); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.st.sh { color: var(--pink); }      /* the stress is not where it is in the Ukrainian word */
+.moved { color: var(--pink); font-weight: 500; }
 
 /* the map of clouds */
 .circle { margin-top: 30px; }
@@ -94,7 +110,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .tile { display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 2px 10px; align-items: center; padding: 12px 14px; background: var(--card);
   border: 1.5px solid var(--line); border-radius: 16px; color: inherit; }
 .tile:hover { border-color: var(--green); }
-.tile .e { grid-row: 1 / span 2; font-size: 28px; line-height: 1; text-align: center; }
+.tile .e { grid-row: 1 / span 2; font-size: 28px; line-height: 1; text-align: center; display: grid; place-items: center; }
 .tile b { font-weight: 600; font-size: 15.5px; line-height: 1.25; }
 .tile > span:last-child { color: var(--muted); font-size: 13px; }
 .tile.done { background: var(--green-soft); border-color: transparent; }
@@ -125,7 +141,8 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .bigline.uk { font-weight: 600; }
 .bigline mark { background: none; color: var(--pink); }
 .sub { color: var(--muted); font-size: 17px; max-width: 34ch; text-wrap: balance; }
-.hintline { color: var(--muted); font-size: 14.5px; min-height: 22px; max-width: 44ch; }
+.hintline { color: var(--muted); font-size: 14.5px; min-height: 22px; max-width: 46ch; text-wrap: balance; }
+.hintline.note { color: var(--ink); font-size: 15px; }
 .foot { flex: none; display: flex; gap: 10px; padding: 12px 0 max(14px, env(safe-area-inset-bottom, 0px)); }
 .foot .btn { flex: 1; }
 .foot .btn.back { flex: 0 0 auto; padding-inline: 18px; color: var(--muted); }
@@ -134,10 +151,29 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .cloud { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; width: 100%; align-content: center; }
 @media (min-width: 620px) { .cloud { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; } }
 .cloud .chip { width: 100%; }
-@media (max-height: 720px) { .cloud { gap: 5px; } .cloud .chip { padding: 3px 12px; } .cloud .chip b { font-size: 16px; } .cloud .chip span { font-size: 12.5px; }
+@media (max-height: 720px) { .cloud { gap: 5px; } .cloud .chip { padding: 2px 10px 2px 8px; } .cloud .chip b { font-size: 16px; } .cloud .chip.l1 b { font-size: 14.5px; } .cloud .chip.l2 b { font-size: 13px; } .cloud .chip .ct span { font-size: 12.5px; }
+  .cloud .pic { --s: 30px; } .pic.big { --s: 72px; } .pic.md { --s: 52px; } .look { gap: 6px; } .lk { padding: 5px 4px; }
   .card { padding-top: 10px; padding-bottom: 10px; } .mid { gap: 6px; } .label { margin-bottom: 4px; } .more-btn { padding: 2px 10px; } .dots { padding-bottom: 6px; } }
 .more-btn { color: var(--green); font-weight: 600; font-size: 15px; padding: 6px 10px; }
 .cloud.more .chip b { font-size: 16px; font-weight: 500; }
+.cloud.more .chip.l1 b { font-size: 14.5px; } .cloud.more .chip.l2 b { font-size: 13px; }
+.cloud.kit .chip { padding: 8px 14px; }
+
+/* look and say: pictures only; a tap shows and says the word */
+.look { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; width: 100%; max-width: 560px; }
+@media (min-width: 620px) { .look { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.lk { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 6px; border-radius: 16px; border: 1.5px solid var(--line); background: var(--card); min-width: 0; }
+.lk b { font-size: 17px; font-weight: 600; line-height: 1.25; visibility: hidden; overflow-wrap: anywhere; }
+.lk.open { background: var(--green-soft); border-color: var(--green); }
+.lk.open b { visibility: visible; }
+.lk:hover { border-color: var(--green); }
+
+/* the page of little words */
+.kt { display: grid; grid-template-columns: 40px minmax(0, 1fr) minmax(0, 1fr); align-items: center; gap: 8px; padding: 5px 12px 5px 8px; border-top: 1px solid var(--line); }
+.kt:first-child { border-top: 0; }
+.kt .say { width: 38px; height: 38px; background: none; }
+.kt b { font-weight: 600; font-size: 17px; }
+.kt span { color: var(--muted); font-size: 16px; }
 
 /* dialogue and the summary list */
 .lines { width: 100%; display: flex; flex-direction: column; gap: 10px; text-align: left; }
@@ -157,6 +193,8 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .mine input:focus { outline: none; border-color: var(--green); }
 .wordhints { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
 .wordhints span { font-size: 13.5px; padding: 2px 10px; border-radius: 999px; background: var(--sunk); color: var(--muted); }
+@media (max-height: 720px) { .cloud.kit .chip { padding: 3px 12px; } .lines { gap: 5px; } .ln { padding: 4px 10px; grid-template-columns: 36px minmax(0, 1fr); }
+  .ln .say { width: 36px; height: 36px; } .ln b { font-size: 16.5px; } .ln .tr { font-size: 13.5px; margin-top: 0; } }
 
 /* search: the whole list */
 .search { width: 100%; padding: 14px 16px; font: inherit; font-size: 17px; color: var(--ink); border-radius: 16px; border: 1.5px solid var(--line); background: var(--card); margin: 14px 0 6px; }
@@ -173,7 +211,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .rw-more ol { margin: 6px 0 0; padding-left: 20px; }
 .rw-more .note { color: var(--muted); font-size: 14px; margin-top: 6px; }
 .rw-more a { font-weight: 600; }
-.more { display: flex; justify-content: center; padding: 14px 0 0; }
+.morebox { display: flex; justify-content: center; padding: 14px 0 0; }
 .count { color: var(--muted); font-size: 14px; }
 
 /* look-alikes, my sentences */
@@ -225,7 +263,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   const plural = (n, w) => n + ' ' + w + (n === 1 ? '' : 's');
   const nextCloud = () => PATH.find(c => !done[c.id]) || null;
   const wordsDone = () => ALL.filter(c => done[c.id]).reduce((n, c) => n + c.w.length, 0);
-  const state = { c: null, screens: [], i: 0, shown: {}, more: false, tr: false, teaser: null };
+  const state = { c: null, screens: [], i: 0, shown: {}, look: {}, more: false, tr: false, teaser: null };
 
   // ---------- sound: one recorded file per cloud; the browser voice only as a fallback
   const canSpeak = 'speechSynthesis' in window;
@@ -299,9 +337,22 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   const clean = s => String(s).replace(/^[AB]:\s*/, '');
   function stressed(w) {
     if (!w.st) return esc(w.en);
-    return esc(w.en.slice(0, w.st[0])) + '<span class="st">' + esc(w.en.slice(w.st[0], w.st[1])) + '</span>' + esc(w.en.slice(w.st[1]));
+    return esc(w.en.slice(0, w.st[0])) + '<span class="st' + (w.us ? ' sh' : '') + '">' + esc(w.en.slice(w.st[0], w.st[1])) + '</span>' + esc(w.en.slice(w.st[1]));
   }
-  const chip = (w, i) => '<button class="chip' + (w.en.length > 12 ? ' long' : '') + '" data-w="' + i + '" lang="en"><b>' + stressed(w) + '</b><span lang="uk">' + esc(w.uk) + '</span></button>';
+  // pictures: one sheet per cloud (pictures/cloud-<id>.webp), eight in a row; picture 0 is the cloud's own
+  const tile = (url, i, cls) => '<i class="pic' + (cls ? ' ' + cls : '') + '" aria-hidden="true" style="background-image:url(' + url + ');--x:' + (i % 8) + ';--y:' + Math.floor(i / 8) + '"></i>';
+  const pic = (c, i, cls) => i == null || i < 0 ? '' : tile('pictures/cloud-' + c.id + '.webp', i, cls);
+  const icon = (c, cls) => tile('pictures/clouds.webp', ALL.indexOf(c), cls);
+  const RARE = '<em class="rare">rare</em>';
+  const fit = en => / /.test(en) || en.length > 8 ? (en.length > 10 && !/ /.test(en) ? ' l2' : ' l1') : '';      // long words get smaller letters
+  const chip = (c, w, i) => '<button class="chip' + fit(w.en) + '" data-w="' + i + '" lang="en">' + pic(c, w.p) +
+    '<span class="ct"><b>' + stressed(w) + '</b><span lang="uk">' + esc(w.uk) + '</span></span>' + (w.r ? RARE : '') + '</button>';
+  function usageNote(w) {      // what people usually say instead of this word
+    if (w.un) return '<span lang="uk">' + esc(w.un) + '</span>';
+    if (w.r) return '<span lang="uk">' + (w.u ? 'Рідке слово. Зазвичай кажуть: <b lang="en">' + esc(w.u) + '</b>.' : 'Слово правильне, але вживають його рідко.') + '</span>';
+    if (w.u) return '<span lang="uk">Частіше кажуть: <b lang="en">' + esc(w.u) + '</b>.</span>';
+    return '';
+  }
 
   // ---------- Today: one panel, one button
   function viewToday() {
@@ -316,18 +367,18 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     state.teaser = c;
     main.innerHTML = '<section class="home">' +
       '<div class="eyebrow">' + (first ? 'English words you already know' : 'Next cloud') + '</div>' +
-      '<h1>' + esc(c.e) + ' ' + esc(c.en) + '</h1>' +
+      '<h1>' + pic(c, 0, 'h') + esc(c.en) + '</h1>' +
       '<p class="where"><span lang="uk">' + esc(c.uk) + '</span> · cloud ' + n + ' of ' + PATH.length + '</p>' +
-      '<div class="teaser">' + c.w.slice(0, 10).map((w, i) => chip(w, i)).join('') + '</div>' +
+      '<div class="teaser">' + c.w.slice(0, 8).map((w, i) => chip(c, w, i)).join('') + '</div>' +
       '<p class="what">' + (first ? 'You say these words in Ukrainian every day. They are English words, too. Tap one to hear it.'
-        : plural(c.w.length, 'word') + ' you know from Ukrainian, ' + plural(c.s.length, 'phrase') + ' to say' + (c.d.length ? ', one dialogue' : '') + '.') + '</p>' +
+        : plural(c.w.length, 'word') + ' you know from Ukrainian, ' + plural(c.s.length, 'very simple sentence') + ' to say' + (c.d.length ? ', one dialogue' : '') + '.') + '</p>' +
       '<div class="go-row"><a class="btn go big" href="#c/' + c.id + '">' + (first ? 'Start' : 'Continue') + '</a>' +
         '<span class="muted small">About 5 minutes. No sign-up.</span></div>' +
       '<div class="prog"><div class="track"><i style="width:' + Math.round(100 * nDone / PATH.length) + '%"></i></div>' +
         '<div class="txt">' + (nDone ? plural(nDone, 'cloud') + ' done · ' + plural(wordsDone(), 'word') + ' you can use'
           : 'One cloud is one situation: the café, the doctor, the office.') + '</div></div>' +
       '</section>' +
-      '<div class="links"><a href="#clouds">All ' + ALL.length + ' clouds</a><a href="#search">Search all words</a><a href="#careful">Look-alikes to watch</a>' +
+      '<div class="links"><a href="#clouds">All ' + ALL.length + ' clouds</a><a href="#kit">Little words</a><a href="#search">Search all words</a><a href="#careful">Look-alikes to watch</a>' +
         (Object.keys(mine).length ? '<a href="#mine">My sentences</a>' : '') + '</div>';
   }
 
@@ -337,7 +388,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     main.innerHTML = '<h1>Clouds</h1><p class="muted" style="margin:8px 0 0;max-width:60ch">One cloud is one situation and the words you already know for it. ' +
       'They go from what you need every day to what you need less often.</p>' +
       CL.circles.map(ci => '<section class="circle"><h2>' + esc(ci.en) + '</h2><p lang="uk">' + esc(ci.uk) + '</p><div class="tiles">' +
-        ci.clouds.map(c => '<a class="tile' + (done[c.id] ? ' done' : '') + (nx === c ? ' next' : '') + '" href="#c/' + c.id + '"><span class="e">' + esc(c.e) + '</span>' +
+        ci.clouds.map(c => '<a class="tile' + (done[c.id] ? ' done' : '') + (nx === c ? ' next' : '') + '" href="#c/' + c.id + '"><span class="e">' + icon(c, 'tl') + '</span>' +
           '<b>' + esc(c.en) + '</b><span><span lang="uk">' + esc(c.uk) + '</span> · ' + (c.w.length + c.m.length) + '</span></a>').join('') +
         '</div></section>').join('') +
       '<section class="circle"><h2>Look-alikes to watch</h2><p lang="uk">Схожі слова, які означають інше</p><div class="tiles">' +
@@ -355,10 +406,12 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     repeatItems(c).forEach(r => S.push({ part: 'Repeat', t: 'say', en: r.s[0], uk: r.s[1], from: r.from }));
     if (c.r) S.push({ part: isRule ? 'Rule' : 'Note', t: 'rule', en: c.r[0], uk: c.r[1], rule: isRule });
     S.push({ part: 'Words', t: 'cloud' });
-    c.s.forEach(s => S.push({ part: 'Say it', t: 'say', en: s[0], uk: s[1] }));
+    if (c.k) S.push({ part: 'Little words', t: 'kit' });
+    if (c.l) S.push({ part: 'Look and say', t: 'look' });
+    c.s.forEach(s => S.push({ part: 'Say it', t: 'say', en: s[0], uk: s[1], pi: s[2] }));
     (c.f || []).forEach((f, j) => {
       if (!j && c.s.some(s => s[0] === f[0])) return;      // the frame's first sentence is already in "Say it"
-      S.push({ part: 'Change one word', t: 'say', en: f[0], uk: f[1], word: f[2], base: j ? c.f[0][0] : '' });
+      S.push({ part: 'Change one word', t: 'say', en: f[0], uk: f[1], word: f[2], pi: f[3], base: j ? c.f[0][0] : '' });
     });
     if (c.d.length) S.push({ part: 'Dialogue', t: 'dialogue' });
     c.x.forEach(x => S.push({ part: 'Careful', t: 'careful', title: x[0], text: x[1] }));
@@ -369,7 +422,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   function openCloud(id) {
     const c = BY.get(id);
     if (!c) { location.hash = 'clouds'; return; }
-    state.c = c; state.screens = screensFor(c); state.shown = {}; state.more = false; state.tr = false;
+    state.c = c; state.screens = screensFor(c); state.shown = {}; state.look = {}; state.more = false; state.tr = false;
     const p = pos[c.id];      // come back to the same part of the cloud (the Repeat cards are new each time)
     state.i = p && !done[c.id] ? Math.max(0, state.screens.findIndex(s => s.part === p)) : 0;
     renderScreen();
@@ -383,14 +436,22 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     if (sc.t === 'cloud') {
       const list = state.more ? c.m : c.w;
       label = state.more ? '➕ More words you know' : '☁️ ' + plural(c.w.length, 'word') + ' you already know'; cls = 'green';
-      body = '<div class="mid"><div class="cloud' + (state.more ? ' more' : '') + '">' + list.map((w, j) => chip(w, j)).join('') + '</div>' +
-        '<div class="hintline" id="hint">Tap a word to hear it.</div>' +
+      body = '<div class="mid"><div class="cloud' + (state.more ? ' more' : '') + '">' + list.map((w, j) => chip(c, w, j)).join('') + '</div>' +
+        '<div class="hintline" id="hint">Tap a word to hear it.' + (list.some(w => w.us) ? ' <span class="moved" lang="uk">Рожева риска: наголос не там, де в українському слові.</span>' : '') + '</div>' +
         (c.m.length ? '<button class="more-btn" id="more">' + (state.more ? '← The main words' : '+ ' + c.m.length + ' more words') + '</button>' : '') + '</div>';
+    } else if (sc.t === 'kit') {
+      label = '🔤 Little words'; cls = 'blue';
+      body = '<div class="mid"><div class="cloud kit">' + c.k.map((k, j) => '<button class="chip" data-k="' + j + '" lang="en"><span class="ct"><b>' + esc(k[0]) + '</b>' +
+        '<span lang="uk">' + esc(k[1]) + '</span></span></button>').join('') + '</div><div class="hintline" id="hint">Little words make sentences. Tap one to hear it.</div></div>';
+    } else if (sc.t === 'look') {
+      label = '👀 Look and say'; cls = 'pink';
+      body = '<div class="mid"><div class="look">' + c.l.map((x, j) => '<button class="lk' + (state.look[j] ? ' open' : '') + '" data-look="' + j + '" aria-label="Show the word">' +
+        pic(c, x[1], 'md') + '<b lang="en">' + esc(x[0]) + '</b></button>').join('') + '</div><div class="hintline">Say the word aloud. Then tap the picture to check.</div></div>';
     } else if (sc.t === 'say') {
       const shown = !!state.shown[i];
       label = sc.word ? '🔁 Change one word' : sc.from ? '🧠 Say it in English · ' + sc.from.en : '🧠 Say it in English'; cls = 'pink';
       const enHTML = sc.word ? esc(sc.en).replace(esc(sc.word), '<mark>' + esc(sc.word) + '</mark>') : esc(sc.en);
-      body = '<div class="mid">' + (shown
+      body = '<div class="mid">' + (sc.from ? '' : pic(c, sc.pi, 'big')) + (shown
         ? '<div class="sub"><span class="ua" lang="uk">' + esc(sc.uk) + '</span></div><div class="bigline' + (sc.en.length > 34 ? ' long' : '') + '" lang="en">' + enHTML + '</div>' +
           '<button class="say" data-say="' + esc(sc.en) + '" aria-label="Listen">' + SAY + '</button>'
         : (sc.base ? '<div class="sub" lang="en">' + esc(sc.base) + ' →</div>' : '') +
@@ -444,7 +505,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     stopSound();
     const n = state.i + d;
     if (n < 0 || n >= state.screens.length) return;
-    state.i = n; state.more = false; renderScreen();
+    state.i = n; state.more = false; state.look = {}; renderScreen();
   }
   function finish() {
     const c = state.c;
@@ -487,8 +548,12 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
       WORDS = list;
     });
   }
+  const usage = {};       // English word -> its usage note in the clouds (checked by hand)
+  ALL.forEach(c => c.w.concat(c.m).forEach(w => { const k = w.en.toLowerCase(); if (!usage[k] || (!usage[k].r && w.r)) usage[k] = w; }));
+  // rare: marked by hand for the words of the clouds; for the rest of the list, an English word outside the 50,000 most used
+  const isRare = w => { const u = usage[w.en.toLowerCase()]; return u ? !!u.r : w.band === 'rare' || w.band === 'top-100k'; };
   const rowHTML = w => '<div class="rw" data-row="' + esc(w.id) + '" tabindex="0" role="button" aria-expanded="false"><button class="say" data-word="' + esc(w.id) + '" aria-label="Listen">' + SAY + '</button>' +
-    '<span class="r-en" lang="en">' + stressed(w) + '</span><span class="r-eq">' + (w.sim ? '≈' : '=') + '</span><span class="r-uk" lang="uk">' + esc(w.uk) + '</span></div>';
+    '<span class="r-en" lang="en">' + stressed(w) + (isRare(w) ? ' ' + RARE : '') + '</span><span class="r-eq">' + (w.sim ? '≈' : '=') + '</span><span class="r-uk" lang="uk">' + esc(w.uk) + '</span></div>';
   let results = [], shownN = 0;
   function viewSearch() {
     main.innerHTML = '<h1>Search</h1><p class="muted" style="margin:8px 0 0">Every word that is the same or almost the same in Ukrainian. Type in English or Ukrainian.</p>' +
@@ -506,7 +571,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     } else results = WORDS.filter(w => !w.ns && !w.rude);
     shownN = 0;
     $('#count').textContent = results.length.toLocaleString('en-US') + (results.length === 1 ? ' word' : ' words') + (f ? '' : ', most used first');
-    $('#res').innerHTML = results.length ? '<div class="rows" id="rows"></div><div class="more" id="morebox"></div>' : '';
+    $('#res').innerHTML = results.length ? '<div class="rows" id="rows"></div><div class="morebox" id="morebox"></div>' : '';
     moreRows();
   }
   function moreRows() {
@@ -519,8 +584,9 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   const detLoads = {};
   const loadDetails = band => detLoads[band] || (detLoads[band] = loadScript('details-' + band + '.js').catch(e => { delete detLoads[band]; throw e; }));
   function detailHTML(w) {
-    const d = DET[w.id], ex = ((d && d.ex) || []).filter(Boolean), c = where[w.en.toLowerCase()];
-    return (d && d.say ? '<div><span class="muted">Say:</span> <span lang="en">' + esc(d.say) + '</span></div>' : '') +
+    const d = DET[w.id], ex = ((d && d.ex) || []).filter(Boolean), c = where[w.en.toLowerCase()], u = usage[w.en.toLowerCase()];
+    const un = u && usageNote(u) ? usageNote(u) : isRare(w) ? '<span lang="uk">В англійській це слово вживають рідко.</span>' : '';
+    return (un ? '<div>' + un + '</div>' : '') + (d && d.say ? '<div><span class="muted">Say:</span> <span lang="en">' + esc(d.say) + '</span></div>' : '') +
       (ex.length ? '<ol>' + ex.map(e => '<li lang="en">' + esc(e) + '</li>').join('') + '</ol>' : '') +
       (d && d.note ? '<div class="note">' + esc(d.note) + '</div>' : '') +
       (c ? '<div class="note">In the cloud <a href="#c/' + c.id + '">' + esc(c.e + ' ' + c.en) + '</a></div>' : '');
@@ -558,6 +624,19 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
         : '<p style="margin-top:18px">Nothing yet. Finish a cloud and write three sentences you will use this week.</p>');
   }
 
+  function viewKit() {
+    main.innerHTML = '<h1>Little words</h1><p class="muted" style="margin:8px 0 0;max-width:60ch">Every sentence on this site uses only these little words and the words of the clouds. ' +
+      'Big words you know + little words = a sentence.</p>' +
+      (CL.kit || []).map(g => '<section class="circle"><h2>' + esc(g.t) + '</h2><div class="rows">' + g.items.map(k =>
+        '<div class="kt"><button class="say" data-kit="' + esc(k[0]) + '" aria-label="Listen">' + SAY + '</button><b lang="en">' + esc(k[0]) + '</b><span lang="uk">' + esc(k[1]) + '</span></div>').join('') +
+      '</div></section>').join('');
+  }
+  function sayKit(text, btn) {
+    const a = CL.kau && CL.kau[text];
+    if (a) return playSeg('audio/kit.mp3', a[0], a[1], text, btn);
+    stopSound(); speak(text.replace(/,/g, '.'));
+  }
+
   // ---------- routing and events
   function route() {
     const h = decodeURIComponent((location.hash || '').slice(1));
@@ -571,6 +650,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     else if (r === 'search' || r === 'words') viewSearch();
     else if (r === 'careful') viewCareful();
     else if (r === 'mine') viewMine();
+    else if (r === 'kit') viewKit();
     else viewToday();      // also the older links (#learn, #lesson/…, #practice)
     if (r !== 'c') window.scrollTo(0, 0);
   }
@@ -583,17 +663,29 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
       document.querySelectorAll('.chip.on').forEach(x => x.classList.remove('on'));
       t.classList.add('on');
       sayIn(cc, w.en);
-      const hint = $('#hint');
-      if (hint) hint.innerHTML = w.n ? '<span lang="uk">' + esc(w.n) + '</span>' : w.ex ? '<span lang="en">' + esc(w.ex) + '</span>'
-        : '<b lang="en">' + esc(w.en) + '</b> ' + (w.k === '~' ? '≈' : '=') + ' <span lang="uk">' + esc(w.uk) + '</span>';
+      const hint = $('#hint'), un = usageNote(w);
+      if (hint) {
+        hint.className = 'hintline' + (un ? ' note' : '');
+        hint.innerHTML = un ? (w.r ? RARE + ' ' : '') + un : w.n ? '<span lang="uk">' + esc(w.n) + '</span>'
+          : '<b lang="en">' + stressed(w) + '</b> ' + (w.k === '~' ? '≈' : '=') + ' <span lang="uk">' + esc(w.us || w.uk) + '</span>' +
+            (w.us ? ' <span class="moved" lang="uk">· наголос інший</span>' : '');
+      }
       return;
     }
+    if (t.dataset.kit) { sayKit(t.dataset.kit, t); return; }
     if (t.dataset.word) { e.stopPropagation(); playWord(WORDS.find(x => x.id === t.dataset.word), t); return; }
     if (t.classList.contains('rw')) { toggleRow(t); return; }
     if (t.id === 'morerows') { moreRows(); return; }
     if (!c || !inLesson) return;
+    if (t.dataset.k != null) {                    // a little word
+      document.querySelectorAll('.chip.on').forEach(x => x.classList.remove('on'));
+      t.classList.add('on'); sayIn(c, c.k[+t.dataset.k][0]); return;
+    }
+    if (t.dataset.look != null) {                 // a picture of "Look and say": show the word and say it
+      const j = +t.dataset.look; state.look[j] = true; t.classList.add('open'); sayIn(c, c.l[j][0]); return;
+    }
     if (t.dataset.say) { sayIn(c.au && c.au[t.dataset.say] ? c : (state.screens[state.i].from || c), t.dataset.say, t); return; }
-    if (t.dataset.part) { const i = state.screens.findIndex(s => s.part === t.dataset.part); if (i >= 0) { stopSound(); state.i = i; state.more = false; renderScreen(); } return; }
+    if (t.dataset.part) { const i = state.screens.findIndex(s => s.part === t.dataset.part); if (i >= 0) { stopSound(); state.i = i; state.more = false; state.look = {}; renderScreen(); } return; }
     if (t.id === 'next') { go(1); return; }
     if (t.id === 'back') { go(-1); return; }
     if (t.id === 'answer') { const sc = state.screens[state.i]; state.shown[state.i] = true; renderScreen(); sayIn(sc.from || c, sc.en); return; }

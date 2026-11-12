@@ -13,7 +13,14 @@ Source: data/clouds/*.txt, written by hand (see docs/review/practical-redesign.m
   F A {cola|lemonade}, please. | {Колу|Лимонад}, будь ласка.   one frame, several known words ("change one word")
   D A: Hi! A latte, please. | Привіт! Лате, будь ласка.   a line of a short dialogue
   ! chef ≠ шеф | chef = кухар; шеф = boss           a look-alike to watch out for
-Output: clouds.js (window.CLOUDS) for the site, and data/clouds/unchecked.json (pairs still to verify).
+  K I have | у мене є                               a little word of the start clouds (shown as a chip, with sound)
+Other sources:
+  data/clouds/kit.txt        the little words (I, is, a, the, have, like…). Every S, F and D sentence may use only these
+                             words and the words of the clouds: the build reports any other word and any long sentence.
+  data/clouds/words/*.txt    for every word: its picture (an emoji, drawn with Fluent Emoji 3D) and a usage note
+                             ("rare: bartender" = English speakers use this word much less; what they usually say).
+Output: clouds.js (window.CLOUDS) for the site, data/clouds/unchecked.json (pairs still to verify) and
+data/clouds/pictures.json (the pictures of each cloud, in the order of its picture sheet; see tools/make_cloud_pictures.py).
 """
 import glob, json, os, re, sys
 
@@ -58,6 +65,58 @@ def frame(text):
     return [[ep + a + es, up + b + us, a] for a, b in zip(ea, ua)]
 
 
+def load_kit():
+    """the little words: [{'t': group, 'items': [[English, Ukrainian], ...]}] and the set of allowed tokens"""
+    groups, allowed = [], set()
+    for raw in open(f'{D}/clouds/kit.txt', encoding='utf-8'):
+        s = raw.strip()
+        if not s or s.startswith('//'):
+            continue
+        if s.startswith('#'):
+            groups.append({'t': s[1:].strip(), 'items': []})
+            continue
+        en, _, uk = s.partition('|')
+        groups[-1]['items'].append([en.strip(), uk.strip()])
+        allowed.update(re.findall(r"[a-z']+", en.lower()))
+    return groups, allowed
+
+
+def load_facts():
+    """data/clouds/words/*.txt -> {'word' or 'cloud/word': {'pic', 'sym', 'rare', 'usual', 'note'}}"""
+    facts, problems = {}, []
+    for f in sorted(glob.glob(f'{D}/clouds/words/*.txt')):
+        for ln, raw in enumerate(open(f, encoding='utf-8'), 1):
+            s = raw.strip()
+            if not s or s.startswith('//') or s.startswith('#'):
+                continue
+            p = [x.strip() for x in s.split('|')]
+            if len(p) < 2 or not p[1]:
+                problems.append(f'{os.path.basename(f)}:{ln}: a line needs "word | picture"')
+                continue
+            use = p[2] if len(p) > 2 else ''
+            kind, _, usual = use.partition(':')
+            if kind.strip() not in ('', 'rare', 'tip'):
+                problems.append(f'{os.path.basename(f)}:{ln}: usage must start with "rare" or "tip"')
+            if p[0] in facts:
+                problems.append(f'{os.path.basename(f)}:{ln}: "{p[0]}" is there twice')
+            facts[p[0]] = {'pic': p[1].lstrip('~'), 'sym': p[1].startswith('~'), 'rare': kind.strip() == 'rare',
+                           'usual': usual.strip(), 'note': p[3] if len(p) > 3 else ''}
+    return facts, problems
+
+
+def forms(word):
+    """the word and its simple forms: plural or he/she form"""
+    w = word.lower()
+    out = {w, w + 's', w + 'es'}
+    if w.endswith('y'):
+        out.add(w[:-1] + 'ies')
+    return out
+
+
+def tokens(text):
+    return re.findall(r"[a-z']+", text.lower().replace('’', "'"))
+
+
 def parse_word(tok):
     tok = tok.strip()
     ex = ''
@@ -75,7 +134,7 @@ def main():
     ident, sim, checked = load_lists()
     circles, problems, unchecked, seen, notes = [], [], [], {}, []
     cur = cloud = None
-    for f in sorted(glob.glob(f'{D}/clouds/*.txt')):
+    for f in sorted(glob.glob(f'{D}/clouds/[a-z]-*.txt')):
         for ln, raw in enumerate(open(f, encoding='utf-8'), 1):
             line = raw.rstrip('\n')
             if not line.strip() or line.lstrip().startswith('//'):
@@ -135,6 +194,9 @@ def main():
             elif line.startswith('R '):
                 en, _, uk = line[2:].partition('|')
                 cloud['r'] = [en.strip(), uk.strip()]
+            elif line.startswith('K '):
+                en, _, uk = line[2:].partition('|')
+                cloud.setdefault('k', []).append([en.strip(), uk.strip()])
             elif line.startswith('! '):
                 a, _, b = line[2:].partition('|')
                 cloud['x'].append([a.strip(), b.strip()])
@@ -142,8 +204,106 @@ def main():
                 problems.append(f'{where}: cannot read this line')
     n = sum(len(c['w']) + len(c['m']) for ci in circles for c in ci['clouds'])
     json.dump(unchecked, open(f'{D}/clouds/unchecked.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
-    out = {'circles': circles}
+    kit, kit_words = load_kit()
+    facts, fact_problems = load_facts()
+    problems += fact_problems
+    clouds = [c for ci in circles for c in ci['clouds']]
+    out = {'circles': circles, 'kit': kit}
     json.dump(out, open(f'{D}/clouds/clouds.json', 'w', encoding='utf-8'), ensure_ascii=False)   # for tools/make_cloud_audio.py
+
+    # very simple sentences: only the little words and the words of the clouds, six words at most
+    known = set(kit_words)
+    for c in clouds:
+        for w in c['w'] + c['m']:
+            for part in tokens(w['en']):
+                known |= forms(part)
+    for c in clouds:
+        own = set()
+        for w in c['w'] + c['m']:
+            for part in tokens(w['en']):
+                own |= forms(part)
+        lines = [('S', s[0]) for s in c['s']] + [('D', d[0]) for d in c['d']] + [('F', f[0]) for f in c.get('f', [])]
+        for kind, en in lines:
+            text = re.sub(r'^[AB]:\s*', '', en)
+            for sent in re.split(r'[.!?…]+', text):
+                ts = tokens(sent)
+                bad = [x for x in ts if x not in known]
+                if bad:
+                    problems.append(f'{c["id"]}: "{en}" uses {bad}: not a little word and not a word of the clouds')
+                if len(ts) > 6:
+                    problems.append(f'{c["id"]}: "{sent.strip()}" has {len(ts)} words (six at most)')
+            if kind == 'S' and not (set(tokens(text)) & own):
+                notes.append(f'{c["id"]}: "{en}" has no word of its own cloud')
+
+    # a picture and a usage note for every word; each cloud has one picture sheet (index 0 is the cloud's own picture)
+    def fact(c, en):
+        return facts.get(c['id'] + '/' + en) or facts.get(en)
+
+    def word_at(text, words):
+        """the first of these words that the sentence uses: (position, word)"""
+        low = ' ' + ' '.join(tokens(text)) + ' '
+        best = None
+        for en in words:
+            ts = tokens(en)
+            if not ts:
+                continue
+            for last in forms(ts[-1]):
+                i = low.find(' ' + ' '.join(ts[:-1] + [last]) + ' ')
+                if i >= 0 and (best is None or (i, -len(en)) < (best[0], -len(best[1]))):
+                    best = (i, en)
+        return best
+
+    first_cloud = {}
+    for c in clouds:
+        for w in c['w'] + c['m']:
+            first_cloud.setdefault(w['en'], c)
+    pictures = {}
+    for c in clouds:
+        sheet = [c['e']]
+
+        def index(emoji):
+            if emoji not in sheet:
+                sheet.append(emoji)
+            return sheet.index(emoji)
+
+        for w in c['w'] + c['m']:
+            f = fact(c, w['en'])
+            if not f:
+                problems.append(f'{c["id"]}: "{w["en"]}" has no picture (data/clouds/words/*.txt)')
+                continue
+            w['p'] = index(f['pic'])
+            if f['rare']:
+                w['r'] = 1
+            if f['usual']:
+                w['u'] = f['usual']
+            if f['note']:
+                w['un'] = f['note']
+        # "Look and say": words whose picture is the thing itself, and only that word's in this cloud
+        literal = [w for w in c['w'] + c['m'] if fact(c, w['en']) and not fact(c, w['en'])['sym']]
+        times = {}
+        for w in literal:
+            times[w['p']] = times.get(w['p'], 0) + 1
+        look = [[w['en'], w['p']] for w in literal if times[w['p']] == 1][:8]
+        if len(look) >= 4:
+            c['l'] = look
+        # the picture of a sentence: the first word of this cloud that it uses (else the first word of any cloud)
+        own_words = [w['en'] for w in c['w'] + c['m']]
+
+        def sentence_picture(text):
+            hit = word_at(text, own_words)
+            if hit:
+                return index(fact(c, hit[1])['pic']) if fact(c, hit[1]) else -1
+            hit = word_at(text, list(first_cloud))
+            if hit and fact(first_cloud[hit[1]], hit[1]):
+                return index(fact(first_cloud[hit[1]], hit[1])['pic'])
+            return -1
+
+        for s in c['s']:
+            s.append(sentence_picture(s[0]))
+        for f in c.get('f', []):
+            f.append(sentence_picture(f[2]) if word_at(f[2], own_words) or word_at(f[2], list(first_cloud)) else sentence_picture(f[0]))
+        pictures[c['id']] = sheet
+    json.dump(pictures, open(f'{D}/clouds/pictures.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
     # from the word cards: the stressed vowel and one example sentence; from the check: a short note
     cards, examples = {}, {}
     wp = os.path.join(REPO, 'words.js')
@@ -158,12 +318,22 @@ def main():
                 if v.get('ex'):
                     examples[k] = v['ex'][0]
     word_notes = {x['en'].lower() + '|' + x['uk']: x['note'] for x in checked.values() if x.get('note')}
+    # the stressed vowel of each word, and the pairs whose stress moves (tools/compute_cloud_stress.py)
+    sp, hp = f'{D}/clouds/stress.json', f'{D}/clouds/stress-shift.json'
+    stress = json.load(open(sp, encoding='utf-8')) if os.path.exists(sp) else {}
+    shift = json.load(open(hp, encoding='utf-8')) if os.path.exists(hp) else {}
     for ci in circles:
         for c in ci['clouds']:
             for w in c['w'] + c['m']:
                 card = cards.get((w['en'], w['uk']))
-                if card and card.get('st'):
+                own = c['id'] + '/' + w['en']
+                if own in stress or w['en'] in stress:
+                    w['st'] = stress.get(own) or stress[w['en']]
+                elif card and card.get('st'):
                     w['st'] = card['st']
+                moved = shift.get(own + '|' + w['uk']) if own in stress else shift.get(w['en'] + '|' + w['uk'])
+                if moved and w.get('st'):
+                    w['us'] = moved             # the Ukrainian word with its stress mark: the English stress is elsewhere
                 if not w.get('ex') and examples.get(w['en'] + '|' + w['uk']):
                     w['ex'] = examples[w['en'] + '|' + w['uk']]
                 nt = word_notes.get(w['en'].lower() + '|' + w['uk'])
@@ -176,10 +346,13 @@ def main():
         for ci in circles:
             for c in ci['clouds']:
                 c['au'] = au.get(c['id'], {})
+        out['kau'] = au.get('_kit', {})
     with open(os.path.join(REPO, 'clouds.js'), 'w', encoding='utf-8') as f:
         f.write('// Generated by tools/build_clouds.py from data/clouds/*.txt — word clouds by everyday situation.\n')
         f.write('window.CLOUDS = ' + json.dumps(out, ensure_ascii=False, separators=(',', ':')) + ';\n')
-    print(sum(len(ci['clouds']) for ci in circles), 'clouds,', n, 'words,', len(unchecked), 'pairs to check,', len(problems), 'problems')
+    rare = len({w['en'] for c in clouds for w in c['w'] + c['m'] if w.get('r')})
+    print(len(clouds), 'clouds,', n, 'words,', rare, 'marked rare,', sum(len(c['s']) for c in clouds), 'phrases,',
+          len(unchecked), 'pairs to check,', len(problems), 'problems')
     for p in problems[:400] + notes[:100]:
         print('  ', p)
     return 1 if problems and '--strict' in sys.argv else 0

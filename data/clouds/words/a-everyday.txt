@@ -1,0 +1,1101 @@
+// A picture and a usage note for every word of the clouds. One line per word:
+//   word | picture | usage | note in Ukrainian
+// picture: an emoji (drawn with Fluent Emoji 3D). "~" before it means the picture is a symbol of the word, not the thing itself.
+// usage:   "rare: bartender" = the English word is used much less than its Ukrainian twin; after the colon, what people usually say.
+//          "rare" alone      = the word is right, but English speakers use it rarely.
+//          "tip: phone"      = the word is fine; there is a more usual word or a detail worth knowing.
+// "cloud/word" at the start of a line gives one cloud its own picture or note for that word.
+
+## cafe
+menu | ~📋
+cafe | ☕
+cappuccino | ☕
+latte | ☕
+espresso | ☕
+americano | ☕
+dessert | 🍰
+croissant | 🥐
+sandwich | 🥪
+toast | 🍞
+omelet | ~🍳
+yogurt | ~🥣
+jam | ~🫙
+chocolate | 🍫
+caramel | ~🍬
+syrup | ~🥞
+barista | ~🧑‍🍳
+cheesecake | 🍰
+muffin | 🧁
+donut | 🍩
+tiramisu | ~🍮
+cocoa | ~🍫 | tip: hot chocolate | Напій какао частіше називають hot chocolate.
+vanilla | ~🍦
+portion | ~🍽️
+terrace | ~⛱️ | tip: patio | Тераса біля кафе чи дому у США — patio.
+Wi-Fi | 🛜
+appetite | ~😋
+
+## restaurant
+restaurant | 🍽️
+salad | 🥗
+soup | 🍲
+steak | 🥩
+pasta | 🍝
+pizza | 🍕
+rice | 🍚
+sauce | ~🥫
+grill | ~♨️
+barbecue | ~🍖
+service | ~🛎️
+bar | ~🍸
+reserve | ~📅
+spaghetti | 🍝
+filet | ~🥩
+ragout | ~🍲 | rare: stew
+bouillon | ~🥣 | rare: broth
+puree | ~🥔 | rare: mashed potatoes | Картопляне пюре — mashed potatoes. Puree — це дитяче пюре або суп-пюре.
+curry | 🍛
+kebab | ~🍢
+sushi | 🍣
+salami | ~🥩
+bacon | 🥓
+parmesan | ~🧀
+mozzarella | ~🧀
+ingredient | ~🧂
+vegetarian | ~🥦
+vegan | ~🌱
+gluten | ~🌾
+sommelier | ~🍷
+banquet | ~🥂
+borscht | ~🍲 | rare | Слово правильне, але його знають не всі. Можна додати: beet soup.
+
+## fastfood
+burger | 🍔
+hamburger | 🍔
+cheeseburger | 🍔
+hot dog | 🌭
+roll | ~🍣
+popcorn | 🍿
+chips | ~🥔
+ketchup | ~🍅
+mayonnaise | ~🫙
+cola | ~🥤 | rare: a Coke, soda | Зазвичай кажуть a Coke або soda.
+cocktail | 🍹
+courier | ~🛵 | tip: delivery driver | Того, хто привозить їжу, частіше називають delivery driver.
+combo | ~🍱
+pizzeria | ~🍕
+taco | 🌮
+shawarma | 🥙
+nuggets | ~🍗
+wasabi | ~🍣
+ramen | 🍜
+tofu | ~🥡
+
+## drinks
+barman | ~🍸 | rare: bartender | У США кажуть bartender.
+pub | ~🍻
+lemonade | ~🍋
+tonic | ~🧊
+smoothie | ~🧋
+wine | 🍷
+champagne | 🍾
+whiskey | 🥃
+gin | ~🫗
+rum | ~🏴‍☠️
+alcohol | ~🥂
+cider | ~🍏
+liqueur | ~🍶
+tequila | ~🌵
+cognac | ~🥃
+brandy | ~🥃
+martini | 🍸
+mojito | ~🍹
+margarita | ~🍹
+bourbon | ~🥃
+ale | ~🍺
+lager | 🍺
+nectar | ~🧃 | rare: juice | Нектар у пакеті англійською — просто juice.
+kefir | ~🥛 | rare | Слово правильне, але його знають не всі.
+kvass | ~🍺 | rare | Слово правильне, але його майже ніхто не знає.
+cocktail bar | ~🍹
+shaker | ~🍸
+
+## fruit
+fruit | ~🍎
+banana | 🍌
+lemon | 🍋
+lime | ~🍈
+mango | 🥭
+kiwi | 🥝
+avocado | 🥑
+mandarin | 🍊 | tip: tangerine | У США частіше tangerine.
+grapefruit | ~🍊
+tomato | 🍅
+broccoli | 🥦
+olive | 🫒
+apricot | ~🍑
+coconut | 🥥
+vitamin | ~💊
+papaya | ~🥭
+zucchini | ~🥒
+artichoke | ~🥬
+citrus | ~🍊
+spinach | ~🥬
+radish | ~🥕
+nectarine | ~🍑
+pepper | 🫑
+
+## groceries
+supermarket | ~🛒
+product | ~📦
+kilogram | ~⚖️ | tip: kilo | Зазвичай кажуть kilo. У США вагу міряють у фунтах (pounds).
+gram | ~⚖️
+liter | ~🥛
+margarine | ~🧈
+muesli | ~🥣 | rare: granola | У США схожий сніданок — granola.
+cracker | ~🍘
+sardine | ~🐟
+crab | 🦀
+halva | ~🍯 | rare | Слово правильне, але його знають не всі.
+hypermarket | ~🏬 | rare: supermarket
+kiosk | ~🏪
+bazaar | ~🧺 | rare: market | Базар англійською — market.
+
+## kitchen
+blender | ~🥤
+mixer | ~🥄
+toaster | ~🍞
+filter | ~🚰
+thermos | ~🫖
+container | ~🥡
+boiler | ~🚿 | rare: water heater | У США бойлер — water heater.
+gas | ~🔥
+electric | ~⚡
+recipe | ~📝
+marinade | ~🧄
+foil | ~🌯
+French press | ~☕
+fondue | 🫕
+siphon | ~🫧
+spray | ~🧴
+cellophane | ~🛍️ | rare: plastic wrap | Плівка для їжі — plastic wrap.
+plastic | ~🪣
+timer | ⏲️
+thermometer | 🌡️
+aroma | ~👃 | rare: smell | Зазвичай кажуть smell: a nice smell.
+
+## home
+sofa | 🛋️
+lamp | ~💡
+balcony | ~🪴
+garage | ~🚘
+corridor | ~🚪 | rare: hallway | У США коридор — hallway.
+hall | ~🪞
+toilet | 🚽 | tip: bathroom, restroom | У США так називають сам унітаз. Про кімнату кажуть bathroom або restroom.
+interior | ~🖼️
+comfort | ~🛌
+radiator | ~♨️
+parquet | ~🪵 | rare: wood floor | Паркет — wood floor або hardwood floor.
+cottage | ~🏡
+villa | ~🏘️
+apartment | ~🏢
+design | ~🎨
+veranda | ~🪑 | rare: porch | Веранда у США — porch.
+hammock | ~🌴
+aquarium | ~🐠
+jacuzzi | ~🛁
+sauna | 🧖
+panel | ~🔲
+cement | ~🧱
+bolt | 🔩
+drill | ~🪛
+divan | ~🛋️ | rare: couch, sofa | Диван — couch або sofa. Слова divan майже не вживають.
+mattress | ~🛏️
+linoleum | ~🟫
+vase | ~🏺
+portrait | 🖼️
+
+## appliances
+television | 📺 | rare: TV | Зазвичай кажуть TV.
+radio | 📻
+telephone | ☎️ | rare: phone | Зазвичай кажуть phone.
+computer | 💻
+printer | 🖨️
+camera | 📷
+thermostat | ~🌡️
+battery | 🔋
+cable | ~🔌
+adapter | ~🔌
+antenna | 📡
+signal | ~📶
+monitor | 🖥️
+microphone | 🎤
+generator | ~⚡
+sensor | ~🚨
+projector | 📽️
+stereo | ~🔊
+video camera | 📹
+scanner | ~📠
+modem | ~📶
+laser | ~🔦
+climate control | ~❄️
+
+## bathroom
+shampoo | ~🧴
+gel | ~🧼
+cream | ~🤲
+lotion | ~💧
+deodorant | ~🌸
+mask | 😷
+massage | 💆
+manicure | 💅
+pedicure | ~🦶
+spa | ~🪷
+tampon | ~🩸
+cosmetics | 💄 | rare: makeup | Про косметику для обличчя кажуть makeup.
+perfume | ~💐
+aerosol | ~💨 | rare: spray | Зазвичай кажуть spray.
+vaseline | ~🫙
+talc | ~🧂 | rare: baby powder
+salon | ~💇
+stylist | ~✂️
+barber | 💈
+tattoo | ~🐉
+piercing | ~👂
+
+## clothes
+jeans | 👖
+sweater | ~🧶
+pullover | ~🧶 | rare: sweater | Зазвичай кажуть sweater.
+blouse | 👚
+shorts | 🩳
+sandals | 👡
+pajamas | ~🌙
+jacket | 🧥
+hoodie | ~🧥
+cardigan | ~🧶
+top | ~🎽
+color | ~🌈
+uniform | ~🥋
+style | ~🕶️
+model | ~🏷️
+bikini | 👙
+beret | ~👒
+poncho | ~🧣
+parka | ~🧥
+kimono | 👘
+bracelet | ~📿
+rucksack | 🎒 | rare: backpack | Рюкзак — backpack.
+nylon | ~🧦
+textile | ~🧵
+fleece | ~🐑
+chiffon | ~🧣
+corset | ~👗
+leggings | ~🦵
+blazer | ~🧥
+boutique | ~🛍️
+mannequin | ~🧍
+designer | ~🧑‍🎨
+camouflage | ~🪖
+khaki | ~🟫
+
+## city
+center | ~📍 | tip: downtown | Центр міста у США — downtown.
+park | ~🌳
+bank | 🏦
+hotel | 🏨
+club | ~🪩
+museum | ~🏛️
+theater | 🎭
+cinema | ~🎦 | rare: movie theater | У США кінотеатр — movie theater. Піти в кіно — go to the movies.
+stadium | 🏟️
+police | 👮
+station | 🚉
+office | 🏢
+metro | 🚇 | tip: subway | У Нью-Йорку — subway, у Лондоні — the underground.
+airport | 🛫
+port | ~⚓
+studio | ~🎙️
+arena | ~🏟️
+monument | ~🗿
+fountain | ⛲
+boulevard | ~🛣️
+avenue | ~🏙️
+palace | ~🏰
+casino | 🎰
+zoo | ~🦁
+circus | 🎪
+clinic | 🏥
+school | 🏫
+university | ~🎓
+gallery | ~🖼️
+pavilion | ~🛖
+memorial | ~🕯️
+
+## transport
+taxi | 🚕
+bus | 🚌
+trolleybus | 🚎 | rare | Слово правильне, але тролейбусів в англомовних країнах майже немає.
+tram | 🚋 | tip: streetcar | У США трамвай — streetcar.
+transport | ~🚦 | tip: transportation | У США частіше transportation: public transportation.
+platform | ~🛤️
+stop | 🛑
+transport/stop | ~🚏
+terminal | ~🛄
+pilot | 🧑‍✈️
+passenger | ~💺
+transport/signal | ~🚥
+scooter | 🛴
+moped | 🛵
+motorcycle | 🏍️
+helicopter | 🚁
+jeep | 🚙 | rare: SUV | Позашляховик англійською — SUV. Jeep — це лише марка.
+limousine | ~🚘
+tractor | 🚜
+tunnel | ~🕳️
+asphalt | ~🛣️
+depot | ~🚃
+shuttle | ~🚐
+charter | ~🛩️
+funicular | 🚞 | rare | Слово правильне, але рідкісне. Простіше: cable car.
+liner | 🚢 | rare: cruise ship | Лайнер — cruise ship.
+tanker | ~⛴️
+locomotive | 🚂
+transit | ~➡️
+
+## car
+motor | ~⚙️ | rare: engine | Мотор авто — engine.
+diesel | ~⛽
+pedal | ~🦶
+bumper | ~🚗
+starter | ~🔑
+compressor | ~💨
+turbo | ~🏎️
+mechanic | 🧑‍🔧
+parking | 🅿️ | tip: parking lot | Місце для авто — parking lot. Parking — це саме паркування.
+car/signal | ~🚥
+sedan | 🚗
+pickup | 🛻
+cabriolet | ~🏎️ | rare: convertible | Кабріолет — convertible.
+crossover | ~🚙
+minivan | 🚐
+hatchback | ~🚗
+carburetor | ~⚙️
+chassis | ~🛞
+test drive | ~🚘
+cruise control | ~🎚️
+crash test | ~💥
+cabin | ~🚚
+cylinder | ~🛢️
+
+## travel
+passport | ~🛂
+visa | ~🪪
+tourist | ~📸
+tour | ~🏞️
+guide | ~🙋
+baggage | 🧳
+business class | ~💼
+check-in | ~🎫
+control | ~🎛️
+travel/control | ~🛃
+transfer | ~🚐
+souvenir | ~🪆
+cruise | 🛳️
+camping | 🏕️
+map | 🗺️
+tourism | ~🏖️
+safari | ~🐘
+compass | 🧭
+voyage | ~🚢 | rare: trip | Подорож — trip. Voyage — книжне слово про довгу морську подорож.
+yacht | ⛵
+excursion | ~🚌 | rare: tour, trip | Екскурсія — tour (містом, музеєм) або trip.
+expedition | ~🏔️
+reservation | ~📅
+visit | ~👋
+
+## hotel
+hostel | ~🛏️
+motel | ~🛌
+reception | ~🧑‍💼 | tip: front desk | У готелі у США рецепція — front desk.
+minibar | ~🧊
+registration | ~📝
+standard | ~📏
+room service | ~🍱
+check-out | ~🗝️
+luxe | ~👑 | rare: suite | Номер люкс — suite.
+lobby bar | ~🍸
+panorama | ~🌄
+hotel/panorama | ~🌄 | rare: view | Краєвид із вікна — view.
+bungalow | ~🛖
+chalet | ~🎿
+
+## money
+credit | ~💸
+dollar | 💵
+euro | 💶
+cent | ~🪙
+card | 💳
+bonus | ~🎁
+budget | ~💰
+balance | ~⚖️
+deposit | ~🏧
+percent | ~💯
+tariff | ~🏷️
+money/tariff | ~🏷️ | rare: rate, plan | Tariff англійською — це мито. Тариф (ціна) — rate; тариф у телефоні — plan.
+million | ~💰
+PIN code | ~🔢 | tip: PIN | Зазвичай кажуть просто PIN.
+pension | ~🧓
+finance | ~💹
+banker | ~🧑‍💼
+investor | ~📈
+creditor | ~🧾
+cashback | ~↩️
+audit | ~🔍
+default | ~📉
+deficit | ~🕳️
+broker | ~📞
+bitcoin | ~🪙
+millionaire | ~🤑
+inflation | ~🎈
+dividend | ~💰
+transaction | ~💱
+capital | ~💎
+leasing | ~🔑
+
+## shopping
+brand | ~™️
+guarantee | ~🛡️ | tip: warranty | Гарантія на товар — warranty.
+catalog | ~📖
+price list | ~🧾
+coupon | ~🎟️
+discount | ~🔖
+client | ~👤 | tip: customer | У магазині покупець — customer. Client — у юриста, агенції, банку.
+mass market | ~🛍️
+premium | ~🌟
+deluxe | ~💎
+bestseller | ~🥇
+auction | ~🔨
+talisman | 🧿 | rare: lucky charm | Талісман — lucky charm.
+
+## doctor
+doctor | 🧑‍⚕️
+medic | ~⛑️ | rare: doctor, paramedic | Medic — це військовий медик. Лікар — doctor.
+pulse | ~💓
+temperature | 🌡️ | tip: fever | Коли ви хворі: I have a fever.
+virus | 🦠
+infection | ~🧫
+allergy | ~🤧
+symptom | ~🤕
+stress | ~😰
+patient | ~🤒
+operation | ~🩹 | tip: surgery | Хірургічна операція — surgery.
+diagnosis | ~🩺
+therapy | ~❤️‍🩹
+test | ~🧪
+procedure | ~📋
+asthma | ~🫁
+migraine | ~🤯
+spasm | ~⚡
+shock | ~😱
+coma | ~🛌
+diabetes | ~🍭
+bronchitis | ~😮‍💨
+gastritis | ~🤢
+pneumonia | ~🫁
+depression | ~😞
+psychologist | ~🧠
+dentist | ~🦷
+paramedic | ~🚑
+quarantine | ~🚫
+hospital | 🏥
+rehabilitation | ~🩼
+sanatorium | ~🌲 | rare: health resort | Санаторій — health resort.
+
+## pharmacy
+aspirin | ~🤕
+antibiotic | ~🧫
+ibuprofen | ~💊
+tablet | 💊 | tip: pill | У розмові частіше pill.
+capsule | 💊
+pharmacy/syrup | ~🥄
+pharmacy/vitamin | ~🍊
+vaccine | 💉
+injection | 💉 | tip: shot | У розмові укол — a shot.
+insulin | ~💉
+antiseptic | ~🧼
+penicillin | ~🧫
+antidote | ~🧪
+placebo | ~🍬
+anesthesia | ~😴
+antigen test | ~🧪
+detox | ~🍵
+dose | ~🥄
+hormone | ~🧬
+protein | ~🥚
+collagen | ~🧴
+immunity | ~🛡️
+medication | ~💊
+
+## people
+partner | ~🤝
+colleague | ~👥
+director | ~👔
+manager | ~🧑‍💼
+student | 🧑‍🎓
+professor | ~🧑‍🏫
+leader | ~🚩
+expert | ~🧐
+specialist | ~🧑‍🔬
+pensioner | 🧓 | rare: retiree | Про пенсіонера кажуть: He is retired.
+volunteer | ~🦺
+author | ~✍️
+sister | ~👭
+gentleman | ~🎩
+agent | ~🕶️
+operator | ~🎧
+inspector | ~🔎
+instructor | ~🫵
+assistant | ~📎
+administrator | ~🗂️
+consultant | ~🗣️
+professional | ~💼
+veteran | ~🎖️
+champion | ~🏆
+hero | ~🦸
+optimist | ~😊
+egoist | ~🤳 | rare: selfish person | Про егоїста кажуть: He is selfish.
+fan | ~🤩
+hooligan | ~👊 | rare: troublemaker | У США слово hooligan чують рідко.
+pirate | 🏴‍☠️
+clown | 🤡
+cousin | ~👫
+lady | ~💃
+madam | ~👩 | tip: ma'am | Звертання до жінки у США — ma'am.
+prince | 🤴
+princess | 👸
+guest | ~🔔
+genius | ~🧠
+nanny | ~🧑‍🍼
+
+## jobs
+secretary | ~💁
+engineer | ~👷
+programmer | 🧑‍💻
+architect | ~📐
+journalist | ~📰
+economist | ~📊
+captain | ~⚓
+detective | 🕵️
+farmer | 🧑‍🌾
+florist | ~💐
+trainer | ~🏋️ | rare: coach | Тренер у спорті — coach.
+actor | ~🎭
+producer | ~💼
+reporter | ~🗞️
+photographer | ~📷
+musician | ~🎼
+auditor | ~🔍
+dispatcher | ~🚦
+coordinator | ~🤹
+electrician | ~🔌
+technician | ~🔧
+editor | ~✏️
+analyst | ~📈
+veterinarian | ~🐾
+
+## character
+active | ~🏃
+positive | ~👍
+serious | ~😐
+nervous | ~😬
+romantic | ~🌹
+creative | ~🖌️
+energetic | ~⚡
+optimistic | ~🌞
+emotional | ~🥹
+talented | ~🌟
+elegant | ~🦢
+popular | ~⭐
+aggressive | ~😡
+ideal | ~👌
+normal | ~🙂
+passive | ~🦥
+negative | ~👎
+sentimental | ~🥲
+competent | ~🧠
+intellectual | ~🤓
+conservative | ~👔
+tactful | ~🤫
+charismatic | ~😎
+pessimistic | ~🌧️
+fanatic | ~🔥
+cynic | ~😏
+primitive | ~🪨
+banal | ~🥱 | rare: boring | Про банальне кажуть boring або ordinary.
+organized | ~🗂️
+diplomatic | ~🕊️
+charm | ~✨
+
+## feelings
+emotion | ~🥰
+panic | ~😨
+energy | ~⚡
+humor | ~😂
+optimism | ~🌤️
+enthusiasm | ~🤩
+surprise | ~🎉
+interest | ~👀
+instinct | ~🦊
+intuition | ~🔮
+character | ~💪
+temperament | ~🌶️
+discomfort | ~😣
+nostalgia | ~📼
+euphoria | ~🥳
+pessimism | ~☁️
+apathy | ~😑
+antipathy | ~🙅 | rare: dislike | Зазвичай кажуть: I don't like him.
+mania | ~🌀
+phobia | ~🕷️
+ego | ~🪞
+egoism | ~🤳 | rare: selfishness | Егоїзм — selfishness.
+charisma | ~🪄
+tact | ~🤐
+complex | ~🧩
+trauma | ~🩹
+fantasy | ~🦄
+illusion | ~🎩
+motivation | ~🚀
+
+## sport
+sport | ~🤸 | tip: sports | У США кажуть sports: I like sports.
+football | ⚽
+basketball | 🏀
+volleyball | 🏐
+tennis | 🎾
+hockey | 🏒
+golf | ⛳
+match | ~🆚 | tip: game | У США матч частіше називають game.
+goal | 🥅
+start | ~▶️
+finish | 🏁
+final | ~🔚
+medal | 🥇
+boxer | ~🥊
+karate | 🥋
+rugby | 🏉
+baseball | ⚾
+badminton | 🏸
+handball | 🤾
+biathlon | ~⛷️
+bowling | 🎳
+goalkeeper | ~🧤
+referee | ~🟨
+foul | ~🟥
+knockout | ~💫
+playoff | ~⚔️
+derby | ~🏇
+athlete | ~🏃
+finalist | ~🥈
+record | ~⏱️
+result | ~📊
+tournament | ~🏆
+league | ~📋
+sponsor | ~💰
+podium | ~🥉
+penalty | ~👉
+marathon | ~🏃
+sprint | ~⚡
+championship | ~🏆
+boxing | 🥊
+judo | ~🥋
+trophy | 🏆
+sportsman | ~🏃 | rare: athlete | Спортсмен — athlete.
+athletics | ~👟 | rare: track and field | Легка атлетика у США — track and field.
+
+## fitness
+fitness | ~🏋️
+yoga | 🧘
+cardio | ~🫀
+diet | ~🥗
+calorie | ~🔥
+progress | ~📈
+aerobics | ~🤸
+gymnastics | 🤸
+metabolism | ~⚙️
+fitness trainer | ~🏋️ | rare: personal trainer | Фітнес-тренер — personal trainer.
+pilates | ~🧘
+stretching | ~🙆
+
+## music
+music | 🎵
+concert | ~🎫
+festival | ~🎊
+rock | ~🤘
+jazz | ~🎷
+rap | ~🎤
+opera | ~🎭
+album | ~💿
+track | ~⏯️
+hit | ~🔝
+group | ~👥 | tip: band | Музичний гурт — band.
+solo | ~☝️
+rhythm | ~🥁
+melody | ~🎶
+guitar | 🎸
+piano | 🎹
+pop | ~🎤
+blues | ~🎺
+techno | ~🎛️
+disco | 🪩
+punk | ~🧷
+folk | ~🪕
+musical | ~🎭
+karaoke | 🎤
+DJ | ~🎧
+duet | ~✌️
+trio | ~3️⃣
+orchestra | ~🎻
+ensemble | ~🪗
+ballet | 🩰
+tango | ~💃
+waltz | ~🕺
+vocal | ~🗣️
+bass | ~🔉
+saxophone | 🎷
+guitarist | ~🎸
+pianist | ~🎹
+vocalist | ~🧑‍🎤 | rare: singer | Вокаліст — singer.
+playlist | ~🎶
+soundtrack | ~🎞️
+composer | ~🎼
+soloist | ~🧑‍🎤
+maestro | ~🪄
+
+## film
+film | 🎬 | tip: movie | У США фільм — movie.
+series | ~🎞️
+episode | ~▶️
+season | ~🍂
+film/season | ~📀
+actress | ~🌟
+role | ~📜
+genre | ~🗂️
+comedy | ~🤣
+drama | ~😢
+thriller | ~🔪
+show | ~📺
+premiere | ~🎟️
+melodrama | ~💔
+trailer | ~🎞️
+teaser | ~👀
+spoiler | ~🙊
+casting | ~🎬
+debut | ~🐣
+anime | ~🎎
+zombie | 🧟
+superman | ~🦸
+vampire | 🧛
+monster | 👹
+sequel | ~2️⃣
+documentary | ~🎥
+animation | ~🐭
+scenario | ~📜 | rare: script | Сценарій фільму — script. Scenario — це можливий розвиток подій.
+trick | ~🃏
+
+## internet
+internet | 🌐
+site | ~📄 | tip: website | Повне слово — website.
+online | ~🟢
+offline | ~📴
+blog | ~📝
+chat | 💬
+post | ~📌
+comment | ~🗨️
+profile | ~👤
+account | ~🔐
+email | 📧
+spam | ~🚫
+video | 🎥
+photo | ~📸
+channel | ~📡
+podcast | ~🎙️
+selfie | 🤳
+website | ~🌐
+portal | ~🚪
+forum | ~👥
+content | ~🗃️
+blogger | ~🧑‍💻
+avatar | ~🥸
+meme | ~😹
+banner | ~🪧
+tweet | ~🐦
+repost | ~🔁
+troll | 🧌
+fake | ~🤥
+trend | ~📈
+browser | ~🧭
+server | ~🗄️
+hosting | ~☁️
+domain | ~🏷️
+provider | ~🔌
+hacker | ~🥷
+antivirus | ~🛡️
+bot | 🤖
+webinar | ~🧑‍🏫
+stream | ~🔴
+login | ~🔑
+link | 🔗
+media | ~📰
+web | ~🕸️
+clip | ~🎬 | rare: video | Музичний кліп — music video. Clip — це короткий уривок.
+
+## phone
+smartphone | 📱
+SMS | ~✉️ | rare: text | У США кажуть text: Send me a text.
+phone/operator | ~🎧 | tip: carrier | Мобільний оператор у США — carrier.
+phone/tariff | ~🏷️ | rare: plan | Тариф у телефоні — plan. Tariff англійською — це мито.
+roaming | ~🌍
+contact | ~📇
+number | ~#️⃣
+code | ~🔐
+display | ~🔆 | rare: screen | Екран телефона — screen.
+SIM card | ~📲
+gigabyte | ~💾
+megabyte | ~💾
+audio | ~🔊
+gadget | ~⌚
+zoom | ~🔍
+scan | ~📑
+screenshot | ~🖼️
+calculator | ~🧮
+
+## computer
+disk | 💽 | tip: drive | Диск у комп'ютері частіше називають drive.
+file | 📁
+format | ~🔤
+program | ~🪟 | tip: app | Програму в телефоні чи комп'ютері частіше називають app.
+system | ~⚙️
+click | ~🖱️
+cursor | ~↖️
+text | ~📃
+document | 📄
+pixel | ~🔳
+processor | ~🧠
+interface | ~🎛️
+module | ~🧩
+plug-in | ~🔌
+script | ~📜
+slide | ~📊
+chip | ~🔲
+console | ~🎮
+buffer | ~⏳
+robot | 🤖
+drone | ~🛸
+version | ~🆕
+installation | ~⬇️
+copy | ~👯
+archive | ~🗃️
+
+## hobby
+hobby | ~🎣
+picnic | ~🧺
+poker | ~♠️
+puzzle | 🧩
+crossword | ~🔠
+domino | ~🎲 | tip: dominoes | Гра називається dominoes.
+collection | ~🦋
+hobby/tourism | ~🥾 | tip: travel, hiking | Хобі «туризм» — travel або hiking. Tourism — це галузь.
+graffiti | ~🖌️
+prize | ~🏆
+darts | 🎯
+tarot | ~🃏
+horoscope | ~🔮
+billiards | 🎱 | rare: pool | Більярд у США — pool.
+lottery | ~🍀
+origami | ~🦢
+quiz | ~❓
+surfing | 🏄
+rafting | ~🚣
+
+## animals
+zebra | 🦓
+tiger | 🐅
+leopard | 🐆
+panda | 🐼
+kangaroo | 🦘
+crocodile | 🐊
+gorilla | 🦍
+giraffe | 🦒
+pony | ~🐴
+cobra | ~🐍
+python | 🐍
+dolphin | 🐬
+flamingo | 🦩
+dinosaur | 🦖
+koala | 🐨
+puma | ~🐈
+jaguar | ~🐆
+panther | ~🐈‍⬛
+gazelle | ~🦌
+antelope | ~🦌
+bison | 🦬
+llama | 🦙
+mustang | ~🐎
+mule | ~🫏
+hyena | ~🐺
+scorpion | 🦂
+chameleon | ~🦎
+iguana | ~🦎
+pelican | ~🐦
+penguin | 🐧
+albatross | ~🦅
+bulldog | ~🐶
+collie | ~🐕
+mammoth | 🦣
+farm | ~🐄
+
+## nature
+ocean | 🌊
+climate | ~🌦️
+tornado | 🌪️
+tsunami | ~🌊
+storm | ⛈️
+cyclone | 🌀
+canyon | ~🏜️
+continent | ~🌍
+planet | 🪐
+zone | ~🚧
+atmosphere | ~🌬️
+horizon | ~🌅
+mineral | ~🪨
+typhoon | ~🌀
+smog | ~🌫️
+breeze | ~🍃
+lava | ~🌋
+crater | ~🕳️
+geyser | ~⛲
+iceberg | ~🧊
+oasis | ~🌴
+reef | ~🪸
+coral | 🪸
+delta | ~🏞️
+plateau | ~⛰️
+peak | ~🏔️
+savanna | ~🌾
+steppe | ~🌾 | rare | Слово правильне, але рідкісне. Простіше: grassland.
+cactus | 🌵
+palm | 🌴
+jasmine | ~🌼
+magnolia | ~🌸
+acacia | ~🌳
+cedar | ~🌲
+bouquet | 💐
+flora | ~🌿
+fauna | ~🦌
+crystal | ~💎
+granite | ~🪨
+volcano | 🌋
+tundra | ~❄️
+jungle | ~🦜
+tropics | ~🏝️
+equator | ~☀️
+catastrophe | ~💥 | rare: disaster | Катастрофа — disaster.
+lily | ~🌷
+
+## time
+moment | ~☝️
+period | ~📆
+calendar | 📅
+plan | ~🗒️
+pause | ⏸️ | tip: break | Перерва — a break: Let's take a break.
+second | ~⏱️
+date | ~🗓️
+weekend | ~🏖️
+nonstop | ~♾️
+era | ~🏺
+epoch | ~🗿 | rare: era | Епоха — era.
+phase | ~🌓
+cycle | ~🔄
+interval | ~↔️
+tempo | ~⏩ | rare: pace | Tempo — це про музику. Темп роботи чи життя — pace.
+tradition | ~🎄
+ritual | ~🕯️
+deadline | ~⏰
+millennium | ~🎆
+
+## numbers
+minimum | ~🔽
+maximum | ~🔼
+plus | ➕
+minus | ➖
+meter | ~📏
+kilometer | ~🛣️
+centimeter | ~🤏
+ton | ~🚛
+dozen | ~🥚
+three | ~3️⃣
+kilowatt | ~⚡
+hectare | ~🟩
+carat | ~💍
+diameter | ~⭕
+radius | ~📐
+perimeter | ~⬜
+parameter | ~🎚️
+coefficient | ~✖️
+cube | ~🧊
+oval | ~🏉
+spiral | ~🐚
+diagonal | ~↗️
+vertical | ~↕️
+parallel | ~🟰
+algorithm | ~🪜
+vector | ~🏹
+sum | ~🔢
+index | ~🔖
+
+## countries
+Ukraine | 🇺🇦
+Europe | 🇪🇺
+America | 🇺🇸
+Canada | 🇨🇦
+Italy | 🇮🇹
+Japan | 🇯🇵
+Australia | 🇦🇺
+Africa | ~🌍
+Asia | ~🌏
+Mexico | 🇲🇽
+India | 🇮🇳
+Brazil | 🇧🇷
+Kyiv | ~🌰
+London | ~💂
+Berlin | ~🐻
+New York | ~🗽
+Poland | 🇵🇱
+Spain | 🇪🇸
+France | 🇫🇷
+Britain | 🇬🇧
+Portugal | 🇵🇹
+Norway | 🇳🇴
+Finland | 🇫🇮
+Ireland | 🇮🇪
+Argentina | 🇦🇷
+Cuba | 🇨🇺
+Korea | 🇰🇷
+Israel | 🇮🇱
+Egypt | 🇪🇬
+Lviv | ~🦁
+Odesa | ~⚓
+Kharkiv | ~🏙️
+Paris | ~🗼
+Madrid | ~💃
+Rome | ~🏛️
+Warsaw | ~🧜‍♀️
+Prague | ~🏰
+Tokyo | ~🗾
+Toronto | ~🍁
+Chicago | ~🌬️
+Texas | ~🤠
+California | ~🌴
+Alaska | ~🐻‍❄️

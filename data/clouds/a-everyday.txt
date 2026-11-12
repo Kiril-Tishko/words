@@ -1,473 +1,555 @@
 // Circle A: everyday life. The order is the order on the site: what you need most often comes first.
 === A | Щодня | Every day
 
+--- start | 👋 | Старт: це…, я… | Start: this is, I am
+R Big words + little words = a sentence. | Великі слова ви вже знаєте: taxi, pizza, bank. Додайте маленькі слова — і вийде речення.
+W taxi; pizza; menu; bank; doctor; passport; hotel; tourist; student; park; salad; music; sport; problem; computer; center
+K a, an | один, якийсь
+K the | той самий
+K this is | це
+K it is | це, воно
+K I am | я
+K and | і
+K or | чи, або
+K yes | так
+K no | ні
+K not | не
+K please | будь ласка
+K thank you | дякую
+K my | мій
+K your | твій, ваш
+K where is | де
+K here | тут
+S A taxi, please. | Таксі, будь ласка.
+S This is a menu. | Це меню.
+S I am a tourist. | Я турист.
+S A pizza and a salad, please. | Піцу й салат, будь ласка.
+S Where is the hotel? | Де готель?
+S This is my passport. | Це мій паспорт.
+S It is not a problem. | Це не проблема.
+F Where is the {hotel|bank|park|center}? | Де {готель|банк|парк|центр}?
+D A: Hello! Your passport, please. | Вітаю! Ваш паспорт, будь ласка.
+D B: Here. This is my passport. | Ось. Це мій паспорт.
+D A: Thank you. Where is your hotel? | Дякую. Де ваш готель?
+D B: My hotel is here. | Мій готель тут.
+
+--- start2 | 🙌 | Старт: я маю, я люблю | Start: I have, I like
+R I have, I need, I want, I like | Чотири маленькі дієслова: I have — у мене є, I need — мені потрібно, I want — я хочу, I like — я люблю.
+W visa; idea; plan; jazz; film; football; tennis; chocolate; banana; lemon; yoga; cafe; restaurant; office; company; Ukraine~Україна
+K I have | у мене є
+K I need | мені потрібно
+K I want | я хочу
+K I like | я люблю
+K we | ми
+K you | ти, ви
+K he | він
+K she | вона
+K they | вони
+K in | в, у
+K to | до, в
+K from | з (звідки)
+K with | з (із чимось)
+K good | добрий, хороший
+K big | великий
+K new | новий
+S I have a visa. | У мене є віза.
+S I need an idea. | Мені потрібна ідея.
+S I want chocolate. | Я хочу шоколад.
+S I like jazz. | Я люблю джаз.
+S We have a plan. | У нас є план.
+S He is in the office. | Він в офісі.
+S I am from Ukraine. | Я з України.
+F I like {jazz|football|tennis|yoga}. | Я люблю {джаз|футбол|теніс|йогу}.
+D A: Hello! I am from Canada. And you? | Привіт! Я з Канади. А ти?
+D B: I am from Ukraine. | Я з України.
+D A: I like Ukraine! | Я люблю Україну!
+D B: Thank you. I like Canada. | Дякую. А я люблю Канаду.
+
 --- cafe | ☕ | У кафе | At the café
 W menu; cafe; cappuccino; latte; espresso; americano; dessert; croissant~круасан; sandwich; toast; omelet; yogurt; jam; chocolate; caramel; syrup
 M barista; cheesecake~чизкейк; muffin~мафін; donut~донат; tiramisu; cocoa~какао; vanilla~ваніль; portion~порція; terrace~тераса; Wi-Fi; appetite
-S A cappuccino, please. | Капучино, будь ласка.
-S Can I see the menu, please? | Можна меню, будь ласка?
-S One latte and a croissant to go, please. | Одне лате й круасан із собою, будь ласка.
-S What desserts do you have? | Які у вас є десерти?
-S Is there Wi-Fi here? | Тут є вай-фай?
-F {A cappuccino|A latte|An espresso|A croissant}, please. | {Капучино|Лате|Еспресо|Круасан}, будь ласка.
-D A: Hi! What can I get you? | Вітаю! Що для вас?
-D B: An americano and a sandwich, please. | Американо й сендвіч, будь ласка.
-D A: Anything else? A dessert? | Щось іще? Десерт?
-D B: Yes, a chocolate croissant. Thank you! | Так, шоколадний круасан. Дякую!
+S A latte, please. | Лате, будь ласка.
+S The menu, please. | Меню, будь ласка.
+S A cappuccino and a croissant, please. | Капучино й круасан, будь ласка.
+S I like chocolate. | Я люблю шоколад.
+S This is a good cafe. | Це хороше кафе.
+F {A latte|A cappuccino|An espresso|An americano}, please. | {Лате|Капучино|Еспресо|Американо}, будь ласка.
+D A: Hello! | Вітаю!
+D B: Hello! A latte, please. | Вітаю! Лате, будь ласка.
+D A: A dessert? | Десерт?
+D B: Yes, a croissant. Thank you! | Так, круасан. Дякую!
 ! cream | Cream — це вершки (coffee with cream). Крем для торта теж cream, а крем для рук — hand cream.
 
 --- restaurant | 🍽️ | У ресторані | At the restaurant
 W restaurant; menu; salad; soup; steak; pasta; pizza; rice; sauce; grill; barbecue; dessert; portion~порція; service; bar; reserve~резервувати
 M spaghetti; filet; ragout; bouillon; puree; curry; kebab; sushi; salami; bacon; parmesan; mozzarella~моцарела; ingredient; vegetarian~вегетаріанець; vegan~веган; gluten; sommelier~сомельє; banquet; borscht
-S A table for two, please. | Столик на двох, будь ласка.
-S I'd like the steak and a salad. | Мені, будь ласка, стейк і салат.
-S Can I have the sauce on the side? | Можна соус окремо?
-S I reserved a table for seven o'clock. | Я зарезервував столик на сьому.
-S The service was great, thank you! | Сервіс був чудовий, дякую!
-F I'd like the {steak|pasta|soup|pizza}. | Мені, будь ласка, {стейк|пасту|суп|піцу}.
-D A: Are you ready to order? | Ви готові замовити?
-D B: Yes. The soup and the pasta, please. | Так. Суп і пасту, будь ласка.
-D A: And for dessert? | А на десерт?
-D B: Nothing, thanks. Can we have the check, please? | Нічого, дякую. Можна рахунок, будь ласка?
+S A salad, please. | Салат, будь ласка.
+S The soup is good. | Суп добрий.
+S I want a steak. | Я хочу стейк.
+S Pasta or pizza? | Паста чи піца?
+S No dessert, thank you. | Без десерту, дякую.
+F I want a {steak|salad|soup|pizza}. | Я хочу {стейк|салат|суп|піцу}.
+D A: Hello! This is the menu. | Вітаю! Це меню.
+D B: Thank you. A soup and a steak, please. | Дякую. Суп і стейк, будь ласка.
+D A: With sauce? | Із соусом?
+D B: Yes, with sauce. Thank you. | Так, із соусом. Дякую.
 ! chef ≠ шеф | Chef — це кухар (The chef is from Italy). Шеф на роботі — boss.
 
 --- fastfood | 🍔 | Фастфуд і доставка | Fast food and delivery
 W burger; hamburger; cheeseburger~чизбургер; hot dog; pizza; sushi; roll~рол; sandwich; popcorn; chips~чипси; ketchup; mayonnaise; cola; cocktail; courier; combo~комбо
 M pizzeria; taco; shawarma; nuggets~нагетси; wasabi; ramen; tofu; grill; sauce; portion~порція; menu
-S Can I get one burger and a cola, please? | Можна один бургер і колу, будь ласка?
-S One roll is six pieces. | Один рол — це шість шматочків.
-S No ketchup, please. | Без кетчупу, будь ласка.
-S For here or to go? — To go. | Тут чи з собою? — З собою.
-S The courier is here with the pizza. | Кур'єр уже тут із піцою.
-F No {ketchup|mayonnaise|sauce}, please. | Без {кетчупу|майонезу|соусу}, будь ласка.
-D A: Next, please! What would you like? | Наступний, будь ласка! Що бажаєте?
-D B: A cheeseburger, chips and a cola. | Чизбургер, чипси й колу.
-D A: Is that all? | Це все?
-D B: Yes, that's all. Can I pay by card? | Так, це все. Можна карткою?
+S A burger, please. | Бургер, будь ласка.
+S A hot dog with ketchup, please. | Хот-дог із кетчупом, будь ласка.
+S No mayonnaise, please. | Без майонезу, будь ласка.
+S I want a pizza and chips. | Я хочу піцу й чипси.
+S The courier is here. | Кур'єр тут.
+F No {mayonnaise|ketchup|sauce}, please. | Без {майонезу|кетчупу|соусу}, будь ласка.
+D A: Hello! | Вітаю!
+D B: Hello! A cheeseburger and chips, please. | Вітаю! Чизбургер і чипси, будь ласка.
+D A: With ketchup? | З кетчупом?
+D B: No ketchup, thank you. | Без кетчупу, дякую.
 ! chips | У США chips — це чипси з пакета. У Британії chips — це картопля фрі, а чипси — crisps.
 
 --- drinks | 🍹 | Напої й бар | Drinks and the bar
-W bar; barman; pub; cola; lemonade; tonic; cocktail; smoothie; wine; champagne; whiskey; gin; rum~ром; alcohol; cider; liqueur
-M tequila; cognac; brandy; martini; mojito; margarita; bourbon; ale; lager; nectar; kefir; kvass; cocktail bar; shaker
-S A cola with ice, please. | Колу з льодом, будь ласка.
-S Two cocktails and one lemonade. | Два коктейлі й один лимонад.
-S A glass of red wine, please. | Келих червоного вина, будь ласка.
-S I don't drink alcohol. | Я не п'ю алкоголь.
-S Let's go to a bar after work. | Ходімо в бар після роботи.
-F A {cola|lemonade|cocktail|tonic} with ice, please. | {Колу|Лимонад|Коктейль|Тонік} з льодом, будь ласка.
-D A: What can I get you? | Що вам принести?
-D B: A gin and tonic, please. And for my friend, a lemonade. | Джин-тонік, будь ласка. А моїй подрузі лимонад.
-D A: With ice and lemon? | З льодом і лимоном?
-D B: Yes, please. | Так, будь ласка.
+W bar; pub; cola; lemonade; tonic; cocktail; smoothie; wine; champagne; whiskey; gin; rum~ром; alcohol; cider; liqueur; martini
+M barman; tequila; cognac; brandy; mojito; margarita; bourbon; ale; lager; nectar; kefir; kvass; cocktail bar; shaker
+S A lemonade, please. | Лимонад, будь ласка.
+S A gin and tonic, please. | Джин-тонік, будь ласка.
+S Where is the bar? | Де бар?
+S No alcohol, thank you. | Без алкоголю, дякую.
+S The wine is very good. | Вино дуже добре.
+F A {lemonade|cocktail|smoothie|cider}, please. | {Лимонад|Коктейль|Смузі|Сидр}, будь ласка.
+D A: Hello! Wine or a cocktail? | Вітаю! Вино чи коктейль?
+D B: A cocktail, please. | Коктейль, будь ласка.
+D A: With alcohol? | З алкоголем?
+D B: No alcohol, thank you. | Без алкоголю, дякую.
 
 --- fruit | 🍋 | Фрукти й овочі | Fruit and vegetables
 W fruit; banana; lemon; lime; mango; kiwi; avocado; mandarin; grapefruit; tomato; broccoli; salad; olive~олива; apricot~абрикос; coconut~кокос; vitamin
 M papaya; zucchini; artichoke; citrus; spinach~шпинат; radish~редис; nectarine~нектарин; pepper
-S A kilo of bananas, please. | Кілограм бананів, будь ласка.
-S I need two lemons and one avocado. | Мені потрібні два лимони й одне авокадо.
-S Is this mango ripe? | Це манго стигле?
-S I eat a lot of fruit: it has vitamins. | Я їм багато фруктів: у них вітаміни.
-S Tomato salad with olives, please. | Салат із томатів з оливками, будь ласка.
-F I need two {lemons|bananas|mangoes|avocados}. | Мені потрібні два {лимони|банани|манго|авокадо}.
+S A banana, please. | Банан, будь ласка.
+S I like mango. | Я люблю манго.
+S This is a kiwi. | Це ківі.
+S I need two lemons. | Мені потрібні два лимони.
+S The tomato is very big. | Томат дуже великий.
+F I like {mango|kiwi|avocado|broccoli}. | Я люблю {манго|ківі|авокадо|броколі}.
 ! ананас → pineapple | Ананас англійською — pineapple. Слова ananas в англійській немає.
 
 --- groceries | 🛒 | У супермаркеті | At the supermarket
 W supermarket; product; rice; pasta; spaghetti; yogurt; salami; bacon; chocolate; chips~чипси; jam; ketchup; mayonnaise; sauce; kilogram; gram
 M liter; margarine~маргарин; muesli~мюслі; cracker~крекер; sardine~сардина; crab; caramel; halva; hypermarket; kiosk; bazaar
-S Where can I find rice and pasta? | Де мені знайти рис і пасту?
-S Two hundred grams of salami, please. | Двісті грамів салямі, будь ласка.
-S A liter of yogurt and a kilogram of rice. | Літр йогурту й кілограм рису.
-S Do you have this sauce? | У вас є цей соус?
-S I'd like to pay by card. | Я хочу заплатити карткою.
-F Where can I find {rice|pasta|yogurt|ketchup}? | Де мені знайти {рис|пасту|йогурт|кетчуп}?
-D A: Excuse me, where is the ketchup? | Перепрошую, де кетчуп?
-D B: Next to the sauces and mayonnaise. | Біля соусів і майонезу.
+S Where is the supermarket? | Де супермаркет?
+S Where is the yogurt? | Де йогурт?
+S I need rice and pasta. | Мені потрібні рис і паста.
+S Two yogurts, please. | Два йогурти, будь ласка.
+S We have no ketchup. | У нас немає кетчупу.
+F Where is the {yogurt|rice|pasta|ketchup}? | Де {йогурт|рис|паста|кетчуп}?
+D A: Hello! Where is the rice? | Вітаю! Де рис?
+D B: The rice is here. | Рис тут.
 D A: Thank you. And the chocolate? | Дякую. А шоколад?
-D B: At the end, near the checkout. | У кінці, біля каси.
+D B: The chocolate is there. | Шоколад там.
 ! products ≠ продукти | Продукти з магазину — groceries або food. Products — це товари, вироби.
 
 --- kitchen | 🍳 | На кухні | In the kitchen
-W blender; mixer~міксер; toaster; grill; filter; thermos; container; boiler; gas; electric~електричний; recipe~рецепт; portion~порція; ingredient; marinade~маринад; foil~фольга
-M French press; fondue; barbecue; siphon; spray; cellophane; plastic; timer; thermometer; aroma~аромат
-S Put it in the blender for one minute. | Поклади це в блендер на одну хвилину.
-S The toaster doesn't work. | Тостер не працює.
-S Do you have a recipe for this soup? | У тебе є рецепт цього супу?
-S I need a container for my lunch. | Мені потрібен контейнер для обіду.
-S Is your stove gas or electric? | У тебе плита газова чи електрична?
-F The {toaster|blender|mixer|grill} doesn't work. | {Тостер|Блендер|Міксер|Гриль} не працює.
+W blender; mixer~міксер; toaster; grill; filter; thermos; container; gas; electric~електричний; recipe~рецепт; portion~порція; ingredient; marinade~маринад; foil~фольга; timer; thermometer
+M boiler; French press; fondue; barbecue; siphon; spray; cellophane; plastic; aroma~аромат
+S This is a blender. | Це блендер.
+S Where is the toaster? | Де тостер?
+S I have a good recipe. | У мене є хороший рецепт.
+S I need a container. | Мені потрібен контейнер.
+S The grill is electric. | Гриль електричний.
+F Where is the {toaster|blender|mixer|thermos}? | Де {тостер|блендер|міксер|термос}?
 ! recipe ≠ receipt | Рецепт страви — recipe. Чек у магазині — receipt. Рецепт від лікаря — prescription.
 
 --- home | 🛋️ | Вдома | At home
-W sofa; lamp~лампа; balcony~балкон; garage; corridor; hall; toilet~туалет; terrace~тераса; interior; comfort; radiator; parquet; cottage; villa; apartment~апартаменти; design
-M veranda~веранда; hammock; aquarium; jacuzzi; sauna; panel; cement; bolt; drill; divan; mattress~матрац; linoleum~лінолеум; vase~ваза; portrait
-S The lamp is next to the sofa. | Лампа біля софи.
-S We have a small balcony and a garage. | У нас є маленький балкон і гараж.
-S Where is the toilet, please? | Де туалет, будь ласка?
-S I like the interior design. | Мені подобається дизайн інтер'єру.
-S The radiator is cold. | Радіатор холодний.
-F We have a small {balcony|garage|terrace|corridor}. | У нас є {маленький балкон|маленький гараж|маленька тераса|маленький коридор}.
-D A: Welcome! This is the hall. | Ласкаво просимо! Це хол.
-D B: Nice! Is that a new sofa? | Гарно! Це нова софа?
-D A: Yes. And there is a terrace, too. | Так. І ще є тераса.
-D B: Wow, what a comfortable house! | Ого, який комфортний дім!
+W sofa; lamp~лампа; balcony~балкон; garage; hall; toilet~туалет; terrace~тераса; interior; comfort; radiator; cottage; villa; apartment~апартаменти; design; sauna; aquarium
+M corridor; parquet; veranda~веранда; hammock; jacuzzi; panel; cement; bolt; drill; divan; mattress~матрац; linoleum~лінолеум; vase~ваза; portrait
+S This is a new sofa. | Це нова софа.
+S We have a balcony. | У нас є балкон.
+S Where is the toilet? | Де туалет?
+S I like the interior. | Мені подобається інтер'єр.
+S The lamp is in the hall. | Лампа в холі.
+F We have a {balcony|garage|terrace|sauna}. | У нас є {балкон|гараж|тераса|сауна}.
+D A: Hello! This is the hall. | Привіт! Це хол.
+D B: I like the lamp! | Мені подобається лампа!
+D A: Thank you. And this is the balcony. | Дякую. А це балкон.
+D B: Wow! It is big. | Вау! Він великий.
 ! cabinet ≠ кабінет | Cabinet — це шафка. Кабінет удома — study, на роботі — office.
 ! toilet | У США частіше кажуть bathroom або restroom: Where is the restroom?
 
---- appliances | 📺 | Техніка вдома | Things that plug in
-W television~телевізор; radio; telephone; computer; printer; camera; lamp~лампа; boiler; radiator; thermostat; battery~батарея; cable; adapter; antenna; signal
-M monitor; microphone; generator; filter; timer; sensor; projector~проєктор; stereo; video camera; scanner; modem; laser; climate control
-S The television doesn't work. | Телевізор не працює.
-S Do you have an adapter for this cable? | У тебе є адаптер для цього кабелю?
-S The battery is low. | Батарея майже розряджена.
-S I need a new printer for my computer. | Мені потрібен новий принтер для комп'ютера.
-S There is no signal here. | Тут немає сигналу.
-F The {television|radio|printer|camera} doesn't work. | {Телевізор|Радіо|Принтер|Камера} не працює.
+--- appliances | 📺 | Техніка вдома | Home tech
+W television~телевізор; radio; telephone; computer; printer; camera; lamp~лампа; radiator; thermostat; battery~батарея; cable; adapter; antenna; signal; monitor; microphone
+M boiler; generator; filter; timer; sensor; projector~проєктор; stereo; video camera; scanner; modem; laser; climate control
+S This is a new computer. | Це новий комп'ютер.
+S I need an adapter. | Мені потрібен адаптер.
+S Where is the cable? | Де кабель?
+S We have no signal. | У нас немає сигналу.
+S The printer is old. | Принтер старий.
+F I need {an adapter|a cable|a battery|a lamp}. | {Мені потрібен адаптер|Мені потрібен кабель|Мені потрібна батарея|Мені потрібна лампа}.
 ! conditioner ≠ кондиціонер | Кондиціонер у кімнаті — air conditioner (AC). Conditioner — це кондиціонер для волосся.
 
 --- bathroom | 🧴 | Ванна й догляд | Bathroom and body care
 W shampoo~шампунь; gel; cream=крем; lotion~лосьйон; deodorant~дезодорант; spray; mask~маска; massage; manicure; pedicure; sauna; spa; jacuzzi; tampon; cosmetics~косметика
 M perfume; aerosol~аерозоль; vaseline; talc; salon; stylist; barber; tattoo; piercing
-S I need shampoo and shower gel. | Мені потрібні шампунь і гель для душу.
-S Do you have a cream for dry hands? | У вас є крем для сухих рук?
-S I'd like a manicure at three o'clock. | Я хочу манікюр на третю годину.
-S A massage would be great now. | Масаж зараз був би чудовий.
-S This spray is for hair. | Цей спрей для волосся.
+S I need shampoo. | Мені потрібен шампунь.
+S This is a good cream. | Це хороший крем.
+S Where is the gel? | Де гель?
+S I want a massage. | Я хочу масаж.
+S I like the sauna. | Я люблю сауну.
 F I need {shampoo|a gel|a cream|a deodorant}. | Мені потрібен {шампунь|гель|крем|дезодорант}.
 ! shower | Душ англійською — shower (I take a shower every morning).
 
 --- clothes | 👕 | Одяг | Clothes
-W jeans~джинси; sweater; pullover~пуловер; blouse~блуза; shorts~шорти; sandals~сандалі; pajamas~піжама; jacket~жакет; hoodie; cardigan~кардиган; top~топ; color; uniform; style; model; design
-M bikini; beret; poncho; parka; kimono; bracelet; rucksack; nylon; textile; fleece; chiffon; corset; leggings~легінси; blazer~блейзер; boutique; mannequin; designer; stylist; camouflage; khaki
-S I'm looking for jeans and a sweater. | Я шукаю джинси й светр.
-S Do you have this blouse in a bigger size? | У вас є ця блуза більшого розміру?
-S Can I try on these shorts? | Можна приміряти ці шорти?
-S I like your style! | Мені подобається твій стиль!
-S This model is too small for me. | Ця модель на мене замала.
-F I'm looking for {jeans|a sweater|shorts|a blouse}. | Я шукаю {джинси|светр|шорти|блузу}.
-D A: Can I help you? | Вам допомогти?
-D B: Yes, I need a warm sweater. | Так, мені потрібен теплий светр.
-D A: This model is very popular. | Ця модель дуже популярна.
-D B: Nice design. Can I try it on? | Гарний дизайн. Можна приміряти?
+W jeans~джинси; sweater; blouse~блуза; shorts~шорти; sandals~сандалі; pajamas~піжама; jacket~жакет; hoodie; cardigan~кардиган; top~топ; bikini; color; uniform; style; model; design
+M pullover~пуловер; beret; poncho; parka; kimono; bracelet; rucksack; nylon; textile; fleece; chiffon; corset; leggings~легінси; blazer~блейзер; boutique; mannequin; designer; stylist; camouflage; khaki
+S I need new jeans. | Мені потрібні нові джинси.
+S This is my sweater. | Це мій светр.
+S I like this blouse. | Мені подобається ця блуза.
+S I like the color. | Мені подобається колір.
+S The jacket is very small. | Жакет дуже малий.
+F I like this {blouse|jacket|sweater|top}. | Мені подобається {ця блуза|цей жакет|цей светр|цей топ}.
+D A: Hello! | Вітаю!
+D B: Hello! I need a sweater. | Вітаю! Мені потрібен светр.
+D A: This is a good model. | Це хороша модель.
+D B: I like the design. Thank you! | Мені подобається дизайн. Дякую!
 ! costume ≠ костюм | Костюм (піджак і штани) — suit. Costume — це костюм на карнавал чи в театрі. Одяг на сьогодні — outfit.
 
 --- city | 🏙️ | У місті | In the city
 W center; park; bank; hotel; restaurant; cafe; bar; club; supermarket; museum~музей; theater; cinema; stadium~стадіон; police; station; office
 M metro; airport~аеропорт; port; garage; kiosk; salon; studio; arena; monument; fountain~фонтан; boulevard; avenue; bazaar; palace; casino; zoo~зоопарк; circus~цирк; clinic; school~школа; university; gallery~галерея; pavilion; memorial
-S Where is the nearest bank? | Де найближчий банк?
-S Is there a park in the center? | У центрі є парк?
-S The hotel is next to the museum. | Готель біля музею.
-S Let's meet at the metro station. | Зустріньмося на станції метро.
-S How do I get to the stadium? | Як дістатися до стадіону?
-F Where is the nearest {bank|park|hotel|supermarket}? | Де найближчий {банк|парк|готель|супермаркет}?
-D A: Excuse me, is there a supermarket near here? | Перепрошую, тут поблизу є супермаркет?
-D B: Yes, in the center, next to the bank. | Так, у центрі, біля банку.
-D A: Is it far? | Це далеко?
-D B: No, five minutes. Go past the park. | Ні, п'ять хвилин. Пройдіть повз парк.
+S Where is the bank? | Де банк?
+S The park is in the center. | Парк у центрі.
+S This is a museum. | Це музей.
+S I am at the station. | Я на станції.
+S The hotel is there. | Готель там.
+F Where is the {bank|park|museum|stadium}? | Де {банк|парк|музей|стадіон}?
+D A: Sorry! Where is the supermarket? | Перепрошую! Де супермаркет?
+D B: It is in the center. | Він у центрі.
+D A: And the bank? | А банк?
+D B: The bank is here. | Банк тут.
 ! magazine ≠ магазин | Магазин — shop або store. Magazine — це журнал.
 
---- transport | 🚕 | Транспорт | Getting around
-W taxi; bus~автобус; trolleybus; tram~трамвай; metro; transport; station; platform~платформа; stop; terminal; port; pilot; passenger~пасажир; signal
-M scooter; moped; motorcycle~мотоцикл; helicopter; jeep; limousine; tractor; tunnel; asphalt; depot; shuttle; charter; funicular; liner; tanker; locomotive; transit
-S A taxi to the airport, please. | Таксі до аеропорту, будь ласка.
-S Where is the bus stop? | Де автобусна зупинка?
-S Does this tram go to the center? | Цей трамвай їде в центр?
-S Which platform is it? | Яка це платформа?
-S I go to work by metro. | Я їжджу на роботу на метро.
+--- transport | 🚕 | Транспорт | Transport
+W taxi; bus~автобус; tram~трамвай; trolleybus; metro; scooter; motorcycle~мотоцикл; helicopter; transport; station; platform~платформа; stop; terminal; port; pilot; passenger~пасажир
+M signal; moped; jeep; limousine; tractor; tunnel; asphalt; depot; shuttle; charter; funicular; liner; tanker; locomotive; transit
+S A taxi, please. | Таксі, будь ласка.
+S Where is the bus stop? | Де зупинка автобуса?
+S This is my bus. | Це мій автобус.
+S I am on the metro. | Я в метро.
+S A taxi to the station, please. | Таксі до станції, будь ласка.
 F Where is the {bus|tram|trolleybus|taxi} stop? | Де зупинка {автобуса|трамвая|тролейбуса|таксі}?
-D A: Hello! Where to? | Добрий день! Куди їдемо?
-D B: To the station, please. How much is it? | На станцію, будь ласка. Скільки це коштує?
-D A: About ten dollars. | Приблизно десять доларів.
-D B: OK. Can I pay by card? | Добре. Можна карткою?
+D A: Hello! Taxi? | Вітаю! Таксі?
+D B: Yes. To the station, please. | Так. До станції, будь ласка.
+D A: The bus station? | До автостанції?
+D B: Yes. Thank you. | Так. Дякую.
 ! conductor | У транспорті conductor — це кондуктор, але частіше це диригент оркестру.
 
 --- car | 🚗 | Авто | The car
-W motor; diesel; signal; radiator; filter; pedal; bumper; generator; starter~стартер; compressor; turbo; service; garage; mechanic; parking~паркінг
-M sedan; jeep; pickup; cabriolet; crossover; minivan; hatchback; limousine; carburetor; chassis; test drive; cruise control; climate control; crash test; cabin~кабіна; cylinder
-S Is it diesel or gas? | Він на дизелі чи на бензині?
-S Where can I park? Is there parking? | Де можна паркуватися? Тут є паркінг?
-S I need a mechanic: the car doesn't start. | Мені потрібен механік: авто не заводиться.
-S Please check the filter and the radiator. | Перевірте, будь ласка, фільтр і радіатор.
-S My car is in the garage for service. | Моє авто в гаражі на сервісі.
-F Please check the {filter|radiator|generator|compressor}. | Перевірте, будь ласка, {фільтр|радіатор|генератор|компресор}.
+W garage; service; mechanic; diesel; filter; radiator; pedal; bumper; signal; starter~стартер; turbo; parking~паркінг; sedan; pickup; minivan; test drive
+M motor; compressor; jeep; cabriolet; crossover; hatchback; limousine; carburetor; chassis; cruise control; climate control; crash test; cabin~кабіна; cylinder
+S I need a mechanic. | Мені потрібен механік.
+S Where is the garage? | Де гараж?
+S This is a diesel. | Це дизель.
+S My sedan is in the garage. | Мій седан у гаражі.
+S I need a new filter. | Мені потрібен новий фільтр.
+F I need a new {filter|radiator|bumper|starter}. | Мені потрібен новий {фільтр|радіатор|бампер|стартер}.
 ! бензин → gas | Бензин — gas (США) або petrol (Британія). Авто й машина — car: machine — це верстат чи автомат. Мотор авто частіше називають engine.
+
+--- countries | 🌍 | Країни й міста | Countries and cities
+R Ukraine, Canada, Italy | Країни й міста пишуть із великої літери й без the: I am from Ukraine.
+W Ukraine~Україна; Europe~Європа; America~Америка; Canada~Канада; Italy~Італія; Japan~Японія; Australia~Австралія; Africa~Африка; Asia~Азія; Mexico~Мексика; India~Індія; Brazil~Бразилія; Kyiv~Київ; London~Лондон; Berlin~Берлін; New York~Нью-Йорк
+M Poland~Польща; Spain~Іспанія; France~Франція; Britain~Британія; Portugal~Португалія; Norway~Норвегія; Finland~Фінляндія; Ireland~Ірландія; Argentina~Аргентина; Cuba~Куба; Korea~Корея; Israel~Ізраїль; Egypt~Єгипет; Lviv~Львів; Odesa~Одеса; Kharkiv~Харків; Paris~Париж; Madrid~Мадрид; Rome~Рим; Warsaw~Варшава; Prague~Прага; Tokyo~Токіо; Toronto~Торонто; Chicago~Чикаго; Texas~Техас; California~Каліфорнія; Alaska~Аляска
+S I am from Ukraine. | Я з України.
+S I am in Canada now. | Я зараз у Канаді.
+S Kyiv is in Ukraine. | Київ в Україні.
+S I like Italy. | Я люблю Італію.
+S Where is Berlin? | Де Берлін?
+F I am from {Ukraine|Canada|Italy|Japan}. | Я з {України|Канади|Італії|Японії}.
+D A: Hello! Where are you from? | Привіт! Звідки ти?
+D B: I am from Ukraine. And you? | Я з України. А ти?
+D A: I am from Canada. | Я з Канади.
+D B: I like Canada! | Я люблю Канаду!
+! America | America — це і США, і два континенти. Про країну частіше кажуть the US або the States.
 
 --- travel | ✈️ | Подорож | Travelling
 W passport; visa; tourist; tour; guide; baggage; airport~аеропорт; terminal; business class; check-in; control; transfer~трансфер; souvenir; cruise; camping~кемпінг; map~мапа
 M tourism; safari; compass; charter; transit; boulevard; voyage; yacht~яхта; excursion~екскурсія; expedition~експедиція; reservation~резервація; visit
-S Here is my passport. | Ось мій паспорт.
-S Do I need a visa? | Мені потрібна віза?
-S Where is the check-in for this flight? | Де чек-ін на цей рейс?
-S I can't find my baggage. | Я не можу знайти свій багаж.
-S We'd like a tour with a guide. | Ми хочемо тур із гідом.
-F Here is my {passport|visa|baggage}. | Ось {мій паспорт|моя віза|мій багаж}.
-D A: Passport, please. What is the purpose of your visit? | Паспорт, будь ласка. Яка мета вашого візиту?
-D B: I'm a tourist. | Я турист.
-D A: How long will you stay? | Як довго ви тут будете?
-D B: One week. Here is my hotel reservation. | Один тиждень. Ось моє бронювання готелю.
+S This is my passport. | Це мій паспорт.
+S I have a visa. | У мене є віза.
+S I am a tourist. | Я турист.
+S Where is my baggage? | Де мій багаж?
+S Where is the airport? | Де аеропорт?
+F Where is the {airport|terminal|check-in|guide}? | Де {аеропорт|термінал|чек-ін|гід}?
+D A: Hello! Your passport, please. | Вітаю! Ваш паспорт, будь ласка.
+D B: This is my passport. | Це мій паспорт.
+D A: Thank you. A tourist? | Дякую. Турист?
+D B: Yes, I am a tourist. | Так, я турист.
 
 --- hotel | 🏨 | Готель | At the hotel
 W hotel; hostel; motel; reception~рецепція; tourist; minibar; balcony~балкон; service; comfort; sauna; spa; bar; restaurant; reserve~резервувати; registration~реєстрація; standard
 M room service; check-out; luxe; lobby bar; jacuzzi; terrace~тераса; panorama; baggage; transfer~трансфер; souvenir; casino; cottage; villa; bungalow; chalet
-S I have a reservation for two nights. | У мене бронювання на дві ночі.
-S Is breakfast included? | Сніданок включено?
-S Is there a minibar in the room? | У номері є мінібар?
-S Can I have a room with a balcony? | Можна номер із балконом?
-S What time is check-out? | О котрій чек-аут?
-F Is there a {minibar|balcony|sauna|restaurant} here? | Тут є {мінібар|балкон|сауна|ресторан}?
-D A: Good evening! Welcome to our hotel. | Добрий вечір! Вітаємо в нашому готелі.
-D B: Hello. I reserved a standard room. | Добрий вечір. Я зарезервував стандартний номер.
-D A: Your passport, please. The room is on the third floor. | Ваш паспорт, будь ласка. Номер на третьому поверсі.
-D B: Thank you. Is the spa open now? | Дякую. Спа зараз працює?
+S Where is the hotel? | Де готель?
+S This is a good hotel. | Це хороший готель.
+S Where is the reception? | Де рецепція?
+S We have a balcony. | У нас є балкон.
+S I like the service. | Мені подобається сервіс.
+F Where is the {reception|bar|restaurant|sauna}? | Де {рецепція|бар|ресторан|сауна}?
+D A: Hello! Welcome to the hotel. | Вітаю! Ласкаво просимо до готелю.
+D B: Thank you. This is my passport. | Дякую. Це мій паспорт.
+D A: Thank you. The restaurant is there. | Дякую. Ресторан там.
+D B: And where is the spa? | А де спа?
 
 --- money | 💳 | Гроші | Money
-W bank; credit; dollar; euro; cent; card~картка; bonus; budget; balance; deposit; percent~процент; tariff; million; PIN code; pension~пенсія; finance~фінанси
-M banker~банкір; investor; creditor; cashback; audit; default; deficit; broker; bitcoin; millionaire; inflation~інфляція; dividend~дивіденд; transaction~транзакція; capital; leasing
-S Can I pay by card? | Можна заплатити карткою?
-S What is my balance? | Який у мене баланс?
-S Is there a ten percent discount? | Є знижка десять відсотків?
-S It costs twenty dollars and fifty cents. | Це коштує двадцять доларів і п'ятдесят центів.
-S I have bonus points on my card. | У мене на картці є бонуси.
-F It costs twenty {dollars|euros|cents}. | Це коштує двадцять {доларів|євро|центів}.
-D A: Hello. How can I help you? | Добрий день. Чим можу допомогти?
-D B: I need a new card. I forgot my PIN code. | Мені потрібна нова картка. Я забув пін-код.
-D A: No problem. Your passport, please. | Без проблем. Ваш паспорт, будь ласка.
-D B: Here it is. And can I change my PIN code? | Ось він. І чи можна змінити пін-код?
+W bank; credit; dollar; euro; cent; card~картка; bonus; budget; balance; deposit; percent~процент; inflation~інфляція; million; PIN code; pension~пенсія; finance~фінанси
+M tariff; banker~банкір; investor; creditor; cashback; audit; default; deficit; broker; bitcoin; millionaire; dividend~дивіденд; transaction~транзакція; capital; leasing
+S I have a card. | У мене є картка.
+S Where is the bank? | Де банк?
+S Ten dollars, please. | Десять доларів, будь ласка.
+S This is my PIN code. | Це мій пін-код.
+S I have a bonus. | У мене є бонус.
+F Ten {dollars|euros|cents}, please. | Десять {доларів|євро|центів}, будь ласка.
+D A: Hello! | Вітаю!
+D B: Hello! I need a new card. | Вітаю! Мені потрібна нова картка.
+D A: OK. Your passport, please. | Гаразд. Ваш паспорт, будь ласка.
+D B: Here. Thank you! | Ось. Дякую!
 ! ATM | Банкомат англійською — ATM (Is there an ATM near here?).
 ! credit ≠ кредит | Кредит у банку — loan (I have a loan). Credit — це credit card або buy on credit.
 
 --- shopping | 🛍️ | Покупки | Shopping
-W supermarket; boutique; kiosk; bazaar; brand; product; model; standard; guarantee~гарантія; catalog; price list; coupon; discount~дисконт; bonus; service; client
-M hypermarket; salon; mass market; premium; deluxe; bestseller; auction; souvenir; talisman; mannequin
-S How much is this model? | Скільки коштує ця модель?
-S Is there a guarantee? | Є гарантія?
-S Do you have a discount for students? | У вас є знижка для студентів?
-S I have a coupon for this product. | У мене є купон на цей продукт.
-S Can I get a bag, please? | Можна пакет, будь ласка?
-F How much is this {model|brand|product}? | Скільки коштує {ця модель|цей бренд|цей продукт}?
+W supermarket; boutique; kiosk; souvenir; brand; product; model; standard; guarantee~гарантія; catalog; price list; coupon; discount~дисконт; bonus; service; client
+M bazaar; hypermarket; salon; mass market; premium; deluxe; bestseller; auction; talisman; mannequin
+S I like this model. | Мені подобається ця модель.
+S This is a good brand. | Це хороший бренд.
+S I have a coupon. | У мене є купон.
+S I want a discount. | Я хочу знижку.
+S Where is the catalog? | Де каталог?
+F This is a good {brand|model|product|service}. | Це {хороший бренд|хороша модель|хороший продукт|хороший сервіс}.
 ! check ≠ чек | Чек із магазину — receipt. Check (у США) — це рахунок у ресторані або банківський чек.
 ! packet ≠ пакет | Пакет у магазині — bag. Packet — це маленька пачка (a packet of chips).
 
 --- doctor | 🩺 | У лікаря | At the doctor's
-W doctor; clinic; medic; pulse; temperature~температура; virus; infection~інфекція; allergy~алергія; symptom; stress; patient~пацієнт; massage; operation~операція; diagnosis~діагноз; therapy~терапія; test
-M procedure~процедура; asthma; migraine; spasm; shock; coma; diabetes~діабет; bronchitis~бронхіт; gastritis~гастрит; pneumonia; depression~депресія; psychologist~психолог; dentist~дантист; paramedic; quarantine; hospital; rehabilitation; sanatorium
+W doctor; clinic; hospital; pulse; temperature~температура; virus; infection~інфекція; allergy~алергія; symptom; stress; patient~пацієнт; massage; operation~операція; diagnosis~діагноз; therapy~терапія; test
+M medic; procedure~процедура; asthma; migraine; spasm; shock; coma; diabetes~діабет; bronchitis~бронхіт; gastritis~гастрит; pneumonia; depression~депресія; psychologist~психолог; dentist~дантист; paramedic; quarantine; rehabilitation; sanatorium
 S I need a doctor. | Мені потрібен лікар.
-S I have a high temperature and a headache. | У мене висока температура й болить голова.
-S I have an allergy to antibiotics. | У мене алергія на антибіотики.
-S What are the symptoms? | Які симптоми?
-S When will I get the test results? | Коли я отримаю результати аналізів?
+S I have an allergy. | У мене алергія.
+S I have a temperature. | У мене температура.
+S Where is the clinic? | Де клініка?
+S It is a virus. | Це вірус.
 F I have {an allergy|a virus|an infection|stress}. | У мене {алергія|вірус|інфекція|стрес}.
-D A: What's the problem? | Яка у вас проблема?
-D B: I have a temperature and no energy. | У мене температура й немає енергії.
-D A: It's a virus. No stress, a lot of water and vitamins. | Це вірус. Жодного стресу, багато води й вітаміни.
-D B: Do I need antibiotics? | Мені потрібні антибіотики?
+D A: Hello. What is the problem? | Добрий день. Яка проблема?
+D B: I have a temperature. | У мене температура.
+D A: It is a virus. No stress, please. | Це вірус. Без стресу, будь ласка.
+D B: Thank you, doctor. | Дякую, лікарю.
 ! angina ≠ ангіна | Ангіна англійською — tonsillitis або a sore throat. Angina — це біль у серці.
 ! blood test | Аналіз крові — blood test. Травма — injury: trauma — це дуже важка травма або психологічна.
 
 --- pharmacy | 💊 | Ліки | Medicine
 W aspirin; vitamin; antibiotic; ibuprofen; tablet~таблетка; capsule~капсула; syrup; spray; gel; cream=крем; mask~маска; thermometer; vaccine~вакцина; injection~ін'єкція; insulin; antiseptic
 M penicillin; antidote; placebo; anesthesia; antigen test; detox; vaseline; tampon; dose~доза; hormone; protein~протеїн; collagen~колаген; immunity~імунітет; medication
-S Do you have aspirin or ibuprofen? | У вас є аспірин чи ібупрофен?
-S One tablet three times a day. | Одна таблетка тричі на день.
-S I need a spray for my throat. | Мені потрібен спрей для горла.
-S Is this syrup for children? | Цей сироп для дітей?
-S I take vitamins every morning. | Я приймаю вітаміни щоранку.
-F Do you have {aspirin|vitamins|a spray|a syrup}? | У вас є {аспірин|вітаміни|спрей|сироп}?
+S I need aspirin. | Мені потрібен аспірин.
+S One tablet, please. | Одну таблетку, будь ласка.
+S This is a good syrup. | Це хороший сироп.
+S I need a thermometer. | Мені потрібен термометр.
+S I have vitamins. | У мене є вітаміни.
+F I need {aspirin|ibuprofen|a spray|a gel}. | Мені потрібен {аспірин|ібупрофен|спрей|гель}.
 ! recipe ≠ рецепт | Рецепт від лікаря — prescription (Do I need a prescription?). Recipe — це рецепт страви.
 
 --- people | 👨‍👩‍👧 | Люди | People
-W partner; colleague~колега; client; director; manager; student; professor; doctor; leader; expert; specialist; tourist; pensioner; volunteer; author; sister
-M gentleman; agent; operator; inspector; instructor; assistant; administrator; consultant; professional; veteran; champion; hero~герой; optimist; egoist; fan; hooligan; pirate; clown; cousin; lady; madam; prince; princess~принцеса; guest; genius; nanny
-S This is my colleague and my partner. | Це мій колега й мій партнер.
-S My grandfather is a pensioner. | Мій дідусь — пенсіонер.
-S She is an expert, a real professional. | Вона експерт, справжній професіонал.
-S He is a student, and his sister is a doctor. | Він студент, а його сестра — лікарка.
-S Our director is a good leader. | Наш директор — хороший лідер.
+W partner; colleague~колега; client; director; manager; student; professor; doctor; leader; expert; specialist; tourist; fan; volunteer; author; sister
+M pensioner; gentleman; agent; operator; inspector; instructor; assistant; administrator; consultant; professional; veteran; champion; hero~герой; optimist; egoist; hooligan; pirate; clown; cousin; lady; madam; prince; princess~принцеса; guest; genius; nanny
+S This is my colleague. | Це мій колега.
+S She is a student. | Вона студентка.
+S He is a good manager. | Він хороший менеджер.
+S My sister is a doctor. | Моя сестра — лікарка.
+S I am a volunteer. | Я волонтер.
 F She is {a student|a doctor|an expert|a tourist}. | Вона {студентка|лікарка|експертка|туристка}.
 ! artist ≠ артист | Artist — це художник. Артист — performer, actor, singer.
 
 --- jobs | 👷 | Професії | Jobs
 W manager; director; secretary~секретар; assistant; administrator; operator; consultant; instructor; courier; mechanic; engineer~інженер; programmer~програміст; designer; architect~архітектор; journalist; economist
 M pilot; captain~капітан; detective; inspector; farmer; florist; stylist; barber; barista; barman; trainer; actor; producer; reporter; photographer~фотограф; musician~музикант; banker~банкір; auditor; broker; dispatcher; coordinator; electrician~електрик; technician~технік; editor; analyst; veterinarian
-S I'm a manager in a small company. | Я менеджер у невеликій компанії.
-S She works as a designer. | Вона працює дизайнеркою.
-S My brother is an engineer. | Мій брат — інженер.
-S We need a mechanic and an electrician. | Нам потрібні механік і електрик.
-S What do you do? — I'm a programmer. | Ким ви працюєте? — Я програміст.
-F I'm {a manager|an engineer|a designer|a programmer}. | Я {менеджер|інженер|дизайнер|програміст}.
-D A: What do you do? | Ким ти працюєш?
-D B: I'm a manager in a hotel. And you? | Я менеджерка в готелі. А ти?
-D A: I'm a courier, but I'm studying to be a programmer. | Я кур'єр, але вчуся на програміста.
-D B: Cool! That's a good profession. | Круто! Це хороша професія.
+S I am a manager. | Я менеджер.
+S He is an engineer. | Він інженер.
+S She is a designer. | Вона дизайнерка.
+S We need a mechanic. | Нам потрібен механік.
+S My sister is a journalist. | Моя сестра — журналістка.
+F I am {a manager|an engineer|a designer|a programmer}. | Я {менеджер|інженер|дизайнер|програміст}.
+D A: Hello! I am an engineer. And you? | Привіт! Я інженер. А ти?
+D B: I am a designer. | Я дизайнер.
+D A: Cool! Where? | Круто! Де?
+D B: In a small company. | У маленькій компанії.
 ! trainer ≠ тренер | Тренер у спорті — coach. Trainer — це той, хто проводить тренінги; trainers (Британія) — кросівки.
 ! administrator | Адміністратор у готелі — receptionist. Administrator — це той, хто керує офісом чи системою.
 
 --- character | 🙂 | Який він? Яка вона? | What is he like?
 W active; positive; serious; nervous; romantic; creative; energetic~енергійний; optimistic~оптимістичний; emotional; talented~талановитий; elegant; popular; professional~професійний; aggressive; ideal~ідеальний; normal
-M passive~пасивний; negative~негативний; sentimental~сентиментальний; competent; intellectual~інтелектуальний; conservative; tactful~тактовний; charismatic~харизматичний; pessimistic~песимістичний; fanatic; cynic; adequate; primitive; banal; organized; diplomatic; charm
-S She is very active and positive. | Вона дуже активна й позитивна.
-S He is a serious person. | Він серйозна людина.
-S Don't be so nervous! | Не будь таким нервовим!
-S My boss is energetic and creative. | Мій бос енергійний і креативний.
-S They are a talented and popular group. | Вони талановита й популярна група.
+M passive~пасивний; negative~негативний; sentimental~сентиментальний; competent; intellectual~інтелектуальний; conservative; tactful~тактовний; charismatic~харизматичний; pessimistic~песимістичний; fanatic; cynic; primitive; banal; organized; diplomatic; charm
+S She is very active. | Вона дуже активна.
+S He is serious. | Він серйозний.
+S I am not nervous. | Я не нервовий.
+S You are creative. | Ти креативний.
+S They are very popular. | Вони дуже популярні.
 F He is very {active|serious|creative|romantic}. | Він дуже {активний|серйозний|креативний|романтичний}.
 ! sympathetic ≠ симпатичний | Симпатичний — nice, cute, good-looking. Sympathetic — це співчутливий.
+! adequate ≠ адекватний | Adequate — це «достатній». Про адекватну людину кажуть reasonable.
 
 --- feelings | 😮‍💨 | Емоції й стан | Feelings
 W emotion~емоція; stress; shock; panic~паніка; depression~депресія; energy~енергія; humor; optimism; enthusiasm; comfort; surprise; interest~інтерес; instinct; intuition~інтуїція; character; temperament
 M discomfort; nostalgia; euphoria; pessimism; apathy~апатія; antipathy~антипатія; mania; phobia; ego; egoism; charisma; tact; complex~комплекс; trauma; fantasy~фантазія; illusion~ілюзія; motivation~мотивація
-S I have a lot of stress at work. | У мене на роботі багато стресу.
-S Don't panic! | Без паніки!
-S I have no energy today. | У мене сьогодні немає енергії.
-S He has a good sense of humor. | У нього хороше почуття гумору.
-S What a surprise! | Який сюрприз!
-F I have a lot of {stress|energy|enthusiasm|interest}. | У мене багато {стресу|енергії|ентузіазму|інтересу}.
+S This is stress. | Це стрес.
+S No panic, please. | Без паніки, будь ласка.
+S I have no energy. | У мене немає енергії.
+S I like your humor. | Мені подобається твій гумор.
+S This is a surprise! | Це сюрприз!
+F I have no {energy|stress|interest|enthusiasm}. | У мене немає {енергії|стресу|інтересу|ентузіазму}.
 ! sympathy ≠ симпатія | Sympathy — це співчуття. Симпатія до когось — I like him / her.
 
 --- sport | ⚽ | Спорт | Sport
-W sport; football; basketball; volleyball; tennis; hockey; golf; match; goal; start; finish~фініш; final; champion; medal; trainer; stadium~стадіон
-M boxer; karate; rugby; baseball; badminton; handball; biathlon; bowling; goalkeeper; referee; foul; knockout; playoff; derby; athlete; finalist; record~рекорд; result~результат; tournament~турнір; league~ліга; sponsor; arena; podium; penalty~пенальті; marathon~марафон; sprint~спринт; championship; boxing; judo; trophy; sportsman; athletics
-S Do you play football or tennis? | Ти граєш у футбол чи теніс?
-S What was the result of the match? | Який був результат матчу?
-S Our team is in the final! | Наша команда у фіналі!
-S He is a champion with three medals. | Він чемпіон із трьома медалями.
-S The match starts at seven. | Матч починається о сьомій.
-F Do you play {football|tennis|basketball|hockey}? | Ти граєш у {футбол|теніс|баскетбол|хокей}?
-D A: Did you watch the match yesterday? | Ти дивився вчора матч?
-D B: Yes! What a goal in the final minute! | Так! Який гол на останній хвилині!
-D A: Now we are in the final. | Тепер ми у фіналі.
-D B: I think we can be champions. | Думаю, ми можемо стати чемпіонами.
+W sport; football; basketball; volleyball; tennis; hockey; golf; match; goal; start; finish~фініш; final; champion; medal; record~рекорд; stadium~стадіон
+M trainer; boxer; karate; rugby; baseball; badminton; handball; biathlon; bowling; goalkeeper; referee; foul; knockout; playoff; derby; athlete; finalist; result~результат; tournament~турнір; league~ліга; sponsor; arena; podium; penalty~пенальті; marathon~марафон; sprint~спринт; championship; boxing; judo; trophy; sportsman; athletics
+S I like football. | Я люблю футбол.
+S This is a good match. | Це хороший матч.
+S Goal! | Гол!
+S We are in the final. | Ми у фіналі.
+S He is a champion. | Він чемпіон.
+F I like {football|tennis|basketball|hockey}. | Я люблю {футбол|теніс|баскетбол|хокей}.
+D A: Hello! Tennis or football? | Привіт! Теніс чи футбол?
+D B: Football! I like football. | Футбол! Я люблю футбол.
+D A: The final is today. | Фінал сьогодні.
+D B: Super! Where is the match? | Супер! Де матч?
 ! football | У США football — це американський футбол, а наш футбол — soccer.
 
 --- fitness | 🧘 | Фітнес і здоров'я | Fitness and a healthy life
 W fitness; yoga; cardio; massage; sauna; instructor; marathon~марафон; protein~протеїн; vitamin; diet~дієта; calorie~калорія; energy~енергія; stress; balance; progress; result~результат
 M aerobics~аеробіка; gymnastics~гімнастика; athlete; pulse; metabolism; detox; spa; fitness trainer; pilates~пілатес; stretching~стретчинг; smoothie; gluten; vegan~веган; vegetarian~вегетаріанець; immunity~імунітет
-S I do yoga twice a week. | Я займаюся йогою двічі на тиждень.
-S I'm on a diet: no sugar. | Я на дієті: без цукру.
-S How many calories are in this? | Скільки тут калорій?
-S My instructor says I'm making progress. | Мій інструктор каже, що в мене є прогрес.
-S I need more energy and less stress. | Мені треба більше енергії й менше стресу.
-F I do {yoga|fitness|cardio} twice a week. | Я займаюся {йогою|фітнесом|кардіо} двічі на тиждень.
+S I like yoga. | Я люблю йогу.
+S I am on a diet. | Я на дієті.
+S I have a good instructor. | У мене хороший інструктор.
+S I need energy. | Мені потрібна енергія.
+S This is progress! | Це прогрес!
+F I like {yoga|fitness|cardio|massage}. | Я люблю {йогу|фітнес|кардіо|масаж}.
 
 --- music | 🎵 | Музика | Music
 W music; concert; festival; rock; jazz; rap; opera; album; track; hit~хіт; group; solo; rhythm; melody~мелодія; guitar; piano~піаніно
 M pop~поп; blues; techno; disco~диско; punk; folk; musical; karaoke; DJ; duet; trio; orchestra~оркестр; ensemble; ballet; tango; waltz; vocal; bass; saxophone; guitarist; pianist; vocalist; microphone; studio; producer; playlist; soundtrack; radio; fan; composer; soloist; maestro
-S What music do you like? — Rock and jazz. | Яка музика тобі подобається? — Рок і джаз.
-S I play the guitar a little. | Я трохи граю на гітарі.
-S This track is a real hit. | Цей трек — справжній хіт.
-S Let's go to the concert on Saturday. | Ходімо на концерт у суботу.
-S Their new album is fantastic. | Їхній новий альбом фантастичний.
-F I like {rock|jazz|rap|opera}. | Мені подобається {рок|джаз|реп|опера}.
-D A: What are you listening to? | Що ти слухаєш?
-D B: A new rock album. This group is from Canada. | Новий рок-альбом. Ця група з Канади.
-D A: I like the rhythm. Is there a concert here? | Мені подобається ритм. Тут буде концерт?
-D B: Yes, at the festival in July. | Так, на фестивалі в липні.
+S I like jazz. | Я люблю джаз.
+S This is a good album. | Це хороший альбом.
+S I have a guitar. | У мене є гітара.
+S The concert is today. | Концерт сьогодні.
+S This track is a hit. | Цей трек — хіт.
+F I like {jazz|rock|rap|opera}. | Я люблю {джаз|рок|реп|оперу}.
+D A: Hello! What is this music? | Привіт! Що це за музика?
+D B: This is a new rock album. | Це новий рок-альбом.
+D A: I like the rhythm. | Мені подобається ритм.
+D B: The concert is today! | Концерт сьогодні!
 ! text ≠ текст пісні | Текст пісні — lyrics (I like the lyrics). Text — це текст або повідомлення в телефоні.
 
 --- film | 🎬 | Кіно й серіали | Films and series
 W film; cinema; series~серіал; episode; season; actor; actress~актриса; role; producer; genre; comedy~комедія; drama; thriller; fantasy; detective; show
 M premiere~прем'єра; melodrama; trailer; teaser; spoiler; soundtrack; casting; debut; popcorn; anime; zombie; superman; vampire; monster; sequel~сиквел; documentary; animation~анімація; scenario~сценарій; studio; festival; editor; trick
-S What film do you want to watch? | Який фільм ти хочеш подивитися?
-S I like comedies and detective stories. | Мені подобаються комедії й детективи.
-S How many episodes are in this season? | Скільки епізодів у цьому сезоні?
-S He plays the main role. | Він грає головну роль.
-S No spoilers, please! | Без спойлерів, будь ласка!
-F I like {comedies|dramas|thrillers|detective stories}. | Мені подобаються {комедії|драми|трилери|детективи}.
-D A: Let's watch a film tonight. | Подивімося сьогодні ввечері фільм.
-D B: OK. A comedy or a thriller? | Добре. Комедію чи трилер?
-D A: A comedy. I have enough drama at work. | Комедію. Драми мені вистачає на роботі.
-D B: Ha! Then season two of that series. | Ха! Тоді другий сезон того серіалу.
+S I like this film. | Мені подобається цей фільм.
+S It is a comedy. | Це комедія.
+S He is a good actor. | Він хороший актор.
+S This is a new season. | Це новий сезон.
+S I like the role. | Мені подобається роль.
+F It is a {comedy|drama|thriller|show}. | Це {комедія|драма|трилер|шоу}.
+D A: A film today? | Фільм сьогодні?
+D B: Yes! A comedy or a thriller? | Так! Комедія чи трилер?
+D A: A comedy, please. | Комедію, будь ласка.
+D B: OK. I like comedies. | Гаразд. Я люблю комедії.
 ! serial | Серіал англійською — a series або a TV show. Serial частіше в serial killer (серійний убивця).
 
 --- internet | 🌐 | Інтернет і соцмережі | The internet and social media
 W internet; site; online; offline; blog; chat; post; comment~коментар; profile; account; email; spam; video; photo; channel; podcast
 M selfie; website; portal; forum; content; blogger; avatar; meme; banner; tweet; repost; troll; fake; trend; playlist; browser; server; hosting; domain; provider; Wi-Fi; hacker; antivirus; bot; webinar; stream~стрім; login~логін; link~лінк; media; web; clip
-S Is the site online now? | Сайт зараз онлайн?
-S Send me the photo by email. | Надішли мені фото емейлом.
-S I saw your post and wrote a comment. | Я бачив твій пост і написав коментар.
-S Do you have an account there? | У тебе там є акаунт?
-S I listen to podcasts in English. | Я слухаю подкасти англійською.
-F I saw your {post|blog|video|photo}. | Я бачив {твій пост|твій блог|твоє відео|твоє фото}.
-D A: Did you see my video? | Ти бачив моє відео?
-D B: Not yet. Is it on your blog? | Ще ні. Воно у твоєму блозі?
-D A: Yes, and in my profile. | Так, і в моєму профілі.
-D B: I'm offline now. I'll watch it at home. | Я зараз офлайн. Подивлюся вдома.
+S I am online. | Я онлайн.
+S We have no internet. | У нас немає інтернету.
+S This is my blog. | Це мій блог.
+S I like your photo. | Мені подобається твоє фото.
+S I have a new email. | У мене новий емейл.
+F I like your {photo|video|blog|post}. | Мені подобається {твоє фото|твоє відео|твій блог|твій пост}.
+D A: Where is your new video? | Де твоє нове відео?
+D B: It is on my blog. | Воно в моєму блозі.
+D A: I like your blog! | Мені подобається твій блог!
+D B: Thank you! | Дякую!
 ! password ≠ пароль | Пароль англійською — password. Слово parole — це умовно-дострокове звільнення.
 
 --- phone | 📱 | Телефон | The phone
-W telephone [People usually say phone: What's your phone number?]; smartphone; SMS; operator; tariff; roaming; signal; battery~батарея; cable; adapter; camera; contact; number~номер; code; display; sensor
-M SIM card~сім-карта; PIN code; Wi-Fi; modem; gigabyte; megabyte; chat; selfie; video; audio; microphone; gadget; zoom; scan; screenshot; calculator
-S What's your phone number? | Який у тебе номер телефону?
-S My battery is at five percent. | У мене батарея на п'ять відсотків.
-S I have no signal here. | У мене тут немає сигналу.
-S Is roaming expensive with your operator? | У твого оператора роумінг дорогий?
-S Send me the code by SMS. | Надішли мені код в СМС.
-F I have a new {telephone|smartphone|operator|number}. | У мене {новий телефон|новий смартфон|новий оператор|новий номер}.
+W telephone; smartphone; SIM card~сім-карта; PIN code; Wi-Fi; roaming; signal; battery~батарея; cable; adapter; camera; contact; number~номер; code; selfie; screenshot
+M SMS; operator; tariff; display; sensor; modem; gigabyte; megabyte; chat; video; audio; microphone; gadget; zoom; scan; calculator
+S This is my number. | Це мій номер.
+S I have no signal. | У мене немає сигналу.
+S I need a cable. | Мені потрібен кабель.
+S Where is my smartphone? | Де мій смартфон?
+S I have a new SIM card. | У мене нова сім-карта.
+F I need {a cable|an adapter|a battery|a SIM card}. | {Мені потрібен кабель|Мені потрібен адаптер|Мені потрібна батарея|Мені потрібна сім-карта}.
 ! tablet | Tablet — це і планшет, і таблетка. Ноутбук англійською — laptop: notebook — це паперовий блокнот.
 
 --- computer | 💻 | Комп'ютер | The computer
 W computer; monitor; printer; scanner; disk; file; format; program~програма; system~система; code; click; cursor; menu; text; document; pixel
 M processor; server; interface; module; plug-in; script; slide; laser; chip; console; buffer; megabyte; gigabyte; antivirus; virus; robot; drone; calculator; projector~проєктор; version~версія; installation~інсталяція; copy~копія; archive
-S The printer doesn't work again. | Принтер знову не працює.
-S Save the file in PDF format. | Збережи файл у форматі PDF.
-S Which program do you use? | Якою програмою ти користуєшся?
-S Click on the menu, then on "Print". | Клікни на меню, потім на «Друк».
-S Can you send me the document? | Можеш надіслати мені документ?
-F Send me the {file|document|text|code}. | Надішли мені {файл|документ|текст|код}.
-D A: My computer is very slow today. | Мій комп'ютер сьогодні дуже повільний.
-D B: Maybe it's a virus. Do you have an antivirus? | Може, це вірус. У тебе є антивірус?
-D A: Yes. I think the problem is the system. | Так. Думаю, проблема в системі.
-D B: Make a copy of your files first. | Спочатку зроби копію своїх файлів.
+S I need a computer. | Мені потрібен комп'ютер.
+S Where is the file? | Де файл?
+S This is a new program. | Це нова програма.
+S The printer is here. | Принтер тут.
+S I have the document. | Документ у мене.
+F Where is the {file|document|text|code}? | Де {файл|документ|текст|код}?
+D A: Where is the document? | Де документ?
+D B: It is on my computer. | Він у моєму комп'ютері.
+D A: I need the file today. | Мені потрібен файл сьогодні.
+D B: OK. No problem. | Гаразд. Без проблем.
 ! notebook ≠ ноутбук | Ноутбук англійською — laptop. Notebook — це блокнот, зошит.
 
 --- hobby | 🎲 | Хобі й вільний час | Hobbies and free time
 W hobby; picnic; barbecue; camping~кемпінг; tourism; photo; video; karaoke; bowling; poker; casino; puzzle; crossword; domino; collection~колекція; club
 M yoga; fitness; tattoo; graffiti; design; blog; podcast; anime; fantasy; safari; cruise; souvenir; prize; darts; tarot; horoscope; billiards~більярд; lottery~лотерея; origami~орігамі; quiz~квіз; surfing~серфінг; rafting~рафтинг
-S What's your hobby? — Yoga and karaoke. | Яке в тебе хобі? — Йога й караоке.
-S Let's have a picnic on Sunday. | Влаштуймо пікнік у неділю.
-S We have a barbecue every weekend. | У нас барбекю кожні вихідні.
-S I do crosswords and puzzles. | Я розв'язую кросворди й складаю пазли.
-S He has a big collection of old coins. | У нього велика колекція старих монет.
-F My hobby is {tourism|karaoke|poker|bowling}. | Моє хобі — {туризм|караоке|покер|боулінг}.
+S This is my hobby. | Це моє хобі.
+S I like karaoke. | Я люблю караоке.
+S We have a picnic today. | У нас сьогодні пікнік.
+S I like puzzles. | Я люблю пазли.
+S I have a big collection. | У мене велика колекція.
+F I like {karaoke|bowling|poker|camping}. | Я люблю {караоке|боулінг|покер|кемпінг}.
 
 --- animals | 🦓 | Тварини | Animals
 W zebra; tiger; leopard; panda; kangaroo; crocodile; gorilla; giraffe~жирафа; pony; cobra; python; dolphin~дельфін; flamingo; dinosaur; zoo~зоопарк; safari
 M koala; puma; jaguar~ягуар; panther~пантера; gazelle; antelope~антилопа; bison~бізон; llama; mustang; mule; hyena; scorpion; chameleon; iguana; pelican~пелікан; penguin~пінгвін; albatross; bulldog; collie; mammoth; farm
-S We saw a zebra and a giraffe at the zoo. | Ми бачили в зоопарку зебру й жирафу.
-S The panda is my favorite animal. | Панда — моя улюблена тварина.
-S Are there crocodiles in this river? | У цій річці є крокодили?
-S My daughter has a pony. | У моєї доньки є поні.
-S Dolphins are very smart. | Дельфіни дуже розумні.
-F Look, a {zebra|tiger|panda|crocodile}! | Дивись, {зебра|тигр|панда|крокодил}!
+S This is a zebra. | Це зебра.
+S I like pandas. | Я люблю панд.
+S The tiger is very big. | Тигр дуже великий.
+S Where is the zoo? | Де зоопарк?
+S It is not a crocodile. | Це не крокодил.
+F This is a {zebra|tiger|panda|giraffe}. | Це {зебра|тигр|панда|жирафа}.
 
 --- nature | 🌍 | Природа й погода | Nature and weather
 W ocean; climate; temperature~температура; tornado; tsunami; storm~шторм; cyclone; canyon; continent; planet~планета; zone~зона; atmosphere~атмосфера; horizon; energy~енергія; gas; mineral
 M typhoon; smog; breeze; lava; crater; geyser; iceberg; oasis; reef; coral; delta; plateau; peak; panorama; savanna; steppe; cactus; palm~пальма; jasmine; magnolia; acacia; cedar; bouquet; flora; fauna; crystal; granite; volcano~вулкан; tundra~тундра; jungle~джунглі; tropics~тропіки; equator~екватор; catastrophe; lily
-S What is the temperature today? | Яка сьогодні температура?
-S The climate here is warm and dry. | Клімат тут теплий і сухий.
-S There is a storm over the ocean. | Над океаном шторм.
-S Our planet is getting warmer. | Наша планета стає теплішою.
-S Australia is a continent. | Австралія — це континент.
-F There is a {storm|tornado|cyclone|tsunami} today. | Сьогодні {шторм|торнадо|циклон|цунамі}.
+S This is the ocean. | Це океан.
+S I like the climate here. | Мені подобається клімат тут.
+S It is a big storm. | Це великий шторм.
+S Africa is a continent. | Африка — це континент.
+S This is our planet. | Це наша планета.
+F It is a big {storm|tornado|cyclone|tsunami}. | Це {великий шторм|великий торнадо|великий циклон|велике цунамі}.
 ! ecology ≠ екологія | Погана екологія — pollution; захищати екологію — protect the environment. Ecology — це наука.
 
 --- time | 📅 | Час і плани | Time and plans
 W moment; period; season; calendar; plan; start; finish~фініш; final; stop; pause~пауза; second~секунда; date~дата; weekend; timer; nonstop; era
 M epoch~епоха; phase~фаза; cycle; interval; tempo~темп; rhythm; tradition~традиція; ritual~ритуал; premiere~прем'єра; deadline; millennium
 S One moment, please. | Один момент, будь ласка.
-S What's the plan for the weekend? | Який план на вихідні?
-S Let's take a pause for five minutes. | Зробімо паузу на п'ять хвилин.
-S What's the date today? | Яка сьогодні дата?
-S We start at nine and finish at five. | Ми стартуємо о дев'ятій і фінішуємо о п'ятій.
-F Let's {start|finish|stop} now. | {Стартуймо|Фінішуймо|Зупинімося} зараз.
+S I have a plan. | У мене є план.
+S We start now. | Ми стартуємо зараз.
+S A pause, please. | Паузу, будь ласка.
+S I like the weekend. | Я люблю вікенд.
+F We {start|finish|stop} now. | Ми {стартуємо|фінішуємо|зупиняємося} зараз.
 ! decade ≠ декада | Decade — це десять років. Декада в українській — десять днів.
 
 --- numbers | 🔢 | Числа й міри | Numbers and measures
 W million; percent~процент; number~номер; minimum; maximum; plus; minus; meter; kilometer; centimeter; kilogram; gram; liter; ton~тонна; dozen~дюжина; three
 M kilowatt; hectare; carat; diameter; radius; perimeter; parameter; coefficient; cube; cylinder; oval; spiral; diagonal; vertical; parallel; calculator; algorithm; vector; sum~сума; index; code
-S It's two meters long. | Це два метри завдовжки.
-S Ten percent of a million is a hundred thousand. | Десять відсотків від мільйона — це сто тисяч.
-S The minimum is two, the maximum is ten. | Мінімум два, максимум десять.
-S Five kilometers is not far. | П'ять кілометрів — це недалеко.
-S Two plus two is four. | Два плюс два — чотири.
-F It's ten {meters|kilometers|centimeters}. | Це десять {метрів|кілометрів|сантиметрів}.
+S Two plus one is three. | Два плюс один — три.
+S This is my number. | Це мій номер.
+S Ten percent, please. | Десять процентів, будь ласка.
+S It is three meters. | Це три метри.
+S Two kilograms, please. | Два кілограми, будь ласка.
+F It is three {meters|kilometers|centimeters}. | Це три {метри|кілометри|сантиметри}.
 ! billion ≠ більйон | Billion — це мільярд (1 000 000 000). Number — це число; номер телефону — phone number.
+! meter, kilogram | У США довжину міряють у футах і милях (feet, miles), а вагу — у фунтах (pounds).

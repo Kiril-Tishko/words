@@ -2,120 +2,120 @@
 === C | Світ | The wider world
 
 --- politics | 🏛️ | Політика | Politics
-W president; minister; premier; parliament; politics; party~партія; opposition~опозиція; democracy; republic~республіка; reform~реформа; revolution; protest; candidate; referendum; constitution~конституція; diplomat
-M coalition~коаліція; mandate; senator; senate; congress; dictator; regime~режим; summit; sanction~санкція; ultimatum; compromise; alliance; propaganda; patriot; activist; nation; federation~федерація; region; territory; corruption; scandal; lobby; veto; oligarch; populism; monarch; throne; consul; embargo; boycott; picket; pact; electorate; liberal; democrat; delegate; ministry; politician; governor; mayor; delegation; ideology; diplomacy; provocation
-S Who is the president now? | Хто зараз президент?
-S The parliament voted for the reform. | Парламент проголосував за реформу.
-S There was a protest in the center. | У центрі був протест.
-S I'm not interested in politics. | Я не цікавлюся політикою.
-S Which party is in opposition? | Яка партія в опозиції?
-F The {president|minister|parliament|opposition} said no. | {Президент сказав|Міністр сказав|Парламент сказав|Опозиція сказала} «ні».
+W president; minister; mayor; parliament; politics; party~партія; opposition~опозиція; democracy; republic~республіка; reform~реформа; revolution; protest; candidate; referendum; constitution~конституція; diplomat
+M premier; coalition~коаліція; mandate; senator; senate; congress; dictator; regime~режим; summit; sanction~санкція; ultimatum; compromise; alliance; propaganda; patriot; activist; nation; federation~федерація; region; territory; corruption; scandal; lobby; veto; oligarch; populism; monarch; throne; consul; embargo; boycott; picket; pact; electorate; liberal; democrat; delegate; ministry; politician; governor; delegation; ideology; diplomacy; provocation
+S Who is the president? | Хто президент?
+S He is a minister. | Він міністр.
+S It is a democracy. | Це демократія.
+S We need reforms. | Нам потрібні реформи.
+S I like politics. | Я люблю політику.
+F Who is the {president|minister|mayor|candidate}? | Хто {президент|міністр|мер|кандидат}?
 ! politics / policy | Політика як справа політиків — politics. Політика компанії чи уряду щодо чогось — policy.
 
 --- society | 👥 | Суспільство | Society
 W nation; culture; tradition; religion; history; migration~міграція; emigrant; immigrant; gender; discrimination~дискримінація; tolerance~толерантність; solidarity~солідарність; identity; stereotype; volunteer; pension~пенсія
 M migrant; diaspora; feminism; racism; patriotism; mentality; conflict; crisis~криза; progress; civilization~цивілізація; activist; elite~еліта; class; status; prestige; integration~інтеграція; globalization~глобалізація; urbanization~урбанізація; demography~демографія; social; public~публічний; emigration; genocide; humanitarian
-S It's a part of our culture and tradition. | Це частина нашої культури й традиції.
-S Ukraine is a nation with a long history. | Україна — це нація з довгою історією.
-S I work as a volunteer on weekends. | На вихідних я працюю волонтером.
-S That's just a stereotype. | Це просто стереотип.
-S My parents get a pension. | Мої батьки отримують пенсію.
-F It's a part of our {culture|tradition|history|religion}. | Це частина нашої {культури|традиції|історії|релігії}.
+S It is our culture. | Це наша культура.
+S It is a stereotype. | Це стереотип.
+S I am a volunteer. | Я волонтер.
+S We need solidarity. | Нам потрібна солідарність.
+S This is our tradition. | Це наша традиція.
+F It is our {culture|tradition|history|religion}. | Це {наша культура|наша традиція|наша історія|наша релігія}.
 ! intelligent ≠ інтелігентний | Intelligent — це розумний. Інтелігентний — well-mannered, cultured.
 
 --- army | 🪖 | Армія й безпека | The army and security
 W army; soldier; officer; general~генерал; sergeant; captain~капітан; battalion; front~фронт; position; attack; operation; evacuation~евакуація; tank~танк; patrol~патруль; bomb; drone
 M lieutenant; major~майор; admiral~адмірал; commander~командир; brigade~бригада; division~дивізія; mobilization~мобілізація; blockade; occupation~окупація; radar; helicopter; pilot; signal; siren~сирена; sanction~санкція; terrorist; terror~терор; agent; sabotage; camouflage; veteran; volunteer; hero~герой; medal; ultimatum; capitulation~капітуляція; fleet; artillery; sniper; bunker; aggression; aggressor; aviation; raid; civilian
-S My brother is a soldier in the army. | Мій брат — солдат в армії.
-S There was a missile attack last night. | Минулої ночі була ракетна атака.
-S The drone was over the city. | Дрон був над містом.
-S He is an officer, a captain. | Він офіцер, капітан.
-S The evacuation started in the morning. | Евакуація почалася вранці.
+S He is a soldier. | Він солдат.
+S My brother is in the army. | Мій брат в армії.
+S It is a drone. | Це дрон.
+S He is an officer. | Він офіцер.
+S This is an evacuation. | Це евакуація.
 F He is {a soldier|an officer|a general|a sergeant}. | Він {солдат|офіцер|генерал|сержант}.
 ! rocket / missile | Ракета як зброя — missile (a missile attack). Rocket — це космічна ракета або феєрверк.
 
 --- law | ⚖️ | Закон і порядок | Law and order
-W police; detective; inspector; criminal; bandit; mafia; alibi; verdict; arrest; patrol~патруль; protocol~протокол; document; license; contract; legal; illegal
-M sheriff; gangster; tribunal; jury; amnesty~амністія; dossier; patent; guarantee~гарантія; corruption; narcotic; vandalism; hooligan; pirate; hacker; terrorist; civil; official; norm~норма; sanction~санкція; prosecutor; contraband; torture
-S Call the police! | Викличте поліцію!
-S Is it legal here? | Це тут легально?
-S The police made an arrest. | Поліція провела арешт.
+W police; detective; inspector; criminal; gangster; mafia; alibi; verdict; arrest; patrol~патруль; protocol~протокол; document; license; contract; legal; illegal
+M bandit; sheriff; tribunal; jury; amnesty~амністія; dossier; patent; guarantee~гарантія; corruption; narcotic; vandalism; hooligan; pirate; hacker; terrorist; civil; official; norm~норма; sanction~санкція; prosecutor; contraband; torture
+S I need the police. | Мені потрібна поліція.
+S It is legal. | Це легально.
+S It is not legal. | Це нелегально.
 S He has an alibi. | У нього є алібі.
-S I need to see your license. | Мені треба побачити вашу ліцензію.
-F I need to see your {license|document|contract}. | Мені треба побачити {вашу ліцензію|ваш документ|ваш контракт}.
+S This is my license. | Це моя ліцензія.
+F This is my {license|document|contract}. | Це {моя ліцензія|мій документ|мій контракт}.
 ! advocate ≠ адвокат | Адвокат англійською — lawyer. Advocate — це той, хто публічно щось підтримує.
 
 --- science | 🔬 | Наука | Science
 W experiment; method; theory; analysis~аналіз; formula; factor; element; atom; energy~енергія; laser; magnet; gene; virus; organism; laboratory; microscope
 M hypothesis~гіпотеза; synthesis~синтез; molecule~молекула; electron; proton; photon; gravitation~гравітація; vacuum; plasma; reactor; crystal; mineral; DNA; hormone; bacteria~бактерія; evolution; clone; hybrid; mutant; telescope; indicator; cycle; process; structure; system; object; phenomenon~феномен; fact; statistics~статистика; algorithm; vector; parameter; spectrum; matrix; resonance; impulse
-S It's only a theory. | Це лише теорія.
-S The experiment was a success. | Експеримент був успішним.
+S It is a theory. | Це теорія.
 S We need a new method. | Нам потрібен новий метод.
-S The analysis takes two days. | Аналіз займає два дні.
-S This virus is new for science. | Цей вірус новий для науки.
+S This is an experiment. | Це експеримент.
+S It is a new virus. | Це новий вірус.
+S I need a microscope. | Мені потрібен мікроскоп.
 F We need a new {method|theory|experiment|formula}. | Нам {потрібен новий метод|потрібна нова теорія|потрібен новий експеримент|потрібна нова формула}.
 
 --- space | 🚀 | Космос | Space
 W shuttle; planet~планета; orbit~орбіта; galaxy~галактика; comet~комета; asteroid; meteor; rocket~ракета; astronaut; telescope; station; satellite~сателіт; module; mission; atmosphere~атмосфера; start
 M cosmos; cosmonaut; meteorite; signal; radar; robot; expedition~експедиція; vacuum; gravitation~гравітація; zodiac; horoscope; crater; zenith
-S Mars is a small planet. | Марс — маленька планета.
+S This is a planet. | Це планета.
 S The rocket is in orbit. | Ракета на орбіті.
-S The astronauts are on the station. | Астронавти на станції.
-S You can see the comet with a telescope. | Комету можна побачити в телескоп.
-S The mission to Mars starts next year. | Місія на Марс стартує наступного року.
-F Look, a {comet|meteor|planet|rocket}! | Дивись, {комета|метеор|планета|ракета}!
+S She is an astronaut. | Вона астронавтка.
+S I have a telescope. | У мене є телескоп.
+S It is a comet! | Це комета!
+F It is a {comet|meteor|planet|rocket}! | Це {комета|метеор|планета|ракета}!
 ! cosmos / space | Космос англійською зазвичай space: in space, a space station. Cosmos — рідше, книжне слово.
 
 --- medterms | 🧬 | Медицина: терміни | Medical terms
 W syndrome; symptom; diagnosis~діагноз; therapy~терапія; antibiotic; hormone; nerve; organ; muscle; virus; bacteria~бактерія; infection~інфекція; vaccine~вакцина; epidemic~епідемія; pandemic~пандемія; quarantine
 M anesthesia; antidote; insulin; hemoglobin; adrenaline; metabolism; reflex; organism; skeleton~скелет; immunity~імунітет; pneumonia; asthma; diabetes~діабет; migraine; anemia; malaria; coma; trauma; hematoma; spasm; arrhythmia; glaucoma; leukemia; autism; amnesia; phobia; paranoia; depression~депресія; placebo; donor; catheter; scalpel; psychiatrist~психіатр; hepatitis; tuberculosis
 S What is the diagnosis? | Який діагноз?
-S The therapy takes three weeks. | Терапія триває три тижні.
-S It's a virus, not bacteria. | Це вірус, а не бактерія.
-S I had the vaccine last year. | Я зробив вакцину минулого року.
-S It's a problem with a nerve. | Це проблема з нервом.
-F It's a problem with {a nerve|a muscle|an organ|a hormone}. | Це проблема з {нервом|м'язом|органом|гормоном}.
+S It is a virus. | Це вірус.
+S I need therapy. | Мені потрібна терапія.
+S We are in quarantine. | Ми на карантині.
+S It is a symptom. | Це симптом.
+F It is {a virus|an infection|a symptom|a syndrome}. | Це {вірус|інфекція|симптом|синдром}.
 ! insult ≠ інсульт | Інсульт англійською — stroke. Insult — це образа.
 
 --- art | 🎨 | Мистецтво | Art
 W museum~музей; gallery~галерея; portrait; panorama; sculpture; graffiti; poster; design; style; genre; decor; contrast; talent; critic; original~оригінал; copy~копія
 M sculptor; collage; designer; ornament~орнамент; mosaic~мозаїка; fresco~фреска; ceramics~кераміка; architecture; architect~архітектор; renaissance; realism; modernism; minimalism; retro; pigment; palette~палітра; debut; curator; auction; carnival; masquerade; tattoo; photo; illustrator; illustration~ілюстрація; caricature~карикатура; silhouette; fake; statue
-S Let's go to the museum on Sunday. | Ходімо в музей у неділю.
-S Is it the original or a copy? | Це оригінал чи копія?
-S I like the style of this portrait. | Мені подобається стиль цього портрета.
-S There is a new gallery in the center. | У центрі є нова галерея.
-S She has a talent for design. | У неї талант до дизайну.
-F I like this {portrait|sculpture|poster|design}. | Мені подобається {цей портрет|ця скульптура|цей постер|цей дизайн}.
+S Where is the museum? | Де музей?
+S This is the original. | Це оригінал.
+S I like this portrait. | Мені подобається цей портрет.
+S It is a copy. | Це копія.
+S She has talent. | У неї є талант.
+F I like this {portrait|poster|design|style}. | Мені подобається цей {портрет|постер|дизайн|стиль}.
 ! perspective ≠ перспектива | Перспективи на майбутнє — prospects. Perspective — це погляд, точка зору.
 
 --- stage | 🎭 | Література й театр | Books and theater
 W literature; poet; author; text; drama; comedy~комедія; tragedy~трагедія; legend; myth~міф; fantasy; detective; hero~герой; role; actor; theater; ballet
 M poetry~поезія; farce; monologue; dialogue; prologue; epilogue~епілог; sonnet; saga; actress~актриса; repertoire; premiere~прем'єра; debut; ballerina; opera; cabaret; mime; clown; circus~цирк; mask~маска; bravo; critic; humorist; bestseller; encyclopedia; biography; memoir~мемуари; anthology~антологія; manuscript~манускрипт
-S Who is the author of this text? | Хто автор цього тексту?
-S It's a legend, not a fact. | Це легенда, а не факт.
-S He plays the role of the hero. | Він грає роль героя.
-S We have tickets to the ballet. | У нас квитки на балет.
-S I like fantasy and detective stories. | Мені подобаються фентезі й детективи.
-F It's a {drama|comedy|tragedy|legend}. | Це {драма|комедія|трагедія|легенда}.
+S Who is the author? | Хто автор?
+S It is a legend. | Це легенда.
+S He is the hero. | Він герой.
+S I like the theater. | Я люблю театр.
+S She is a poet. | Вона поетка.
+F It is a {legend|drama|comedy|tragedy}. | Це {легенда|драма|комедія|трагедія}.
 ! novel ≠ новела | Novel — це роман. Новела — short story. А scene — це сцена у фільмі; сцена в театрі — stage.
 
 --- traditions | 🎄 | Традиції | Traditions
-W tradition; ritual~ритуал; ceremony~церемонія; carnival; festival; religion; bible~біблія; icon; angel; demon; mystic; karma~карма; guru; talisman; horoscope; zodiac
-M fiesta; masquerade; mantra~мантра; yoga; patriarch; apostle~апостол; taboo; totem~тотем; shaman; magic; vampire; legend; myth~міф; symbol; monastery; pastor; sect; dragon
-S It's a family tradition. | Це сімейна традиція.
-S The ceremony starts at noon. | Церемонія починається опівдні.
-S Do you read your horoscope? | Ти читаєш свій гороскоп?
-S We go to the festival every year. | Ми щороку їздимо на фестиваль.
-S It's good karma. | Це хороша карма.
-F We go to the {festival|carnival|ceremony} every year. | Ми щороку ходимо на {фестиваль|карнавал|церемонію}.
+W tradition; ritual~ритуал; ceremony~церемонія; carnival; festival; religion; bible~біблія; icon; angel; demon; mystic; karma~карма; guru; magic; horoscope; zodiac
+M talisman; fiesta; masquerade; mantra~мантра; yoga; patriarch; apostle~апостол; taboo; totem~тотем; shaman; vampire; legend; myth~міф; symbol; monastery; pastor; sect; dragon
+S It is a tradition. | Це традиція.
+S The ceremony is today. | Церемонія сьогодні.
+S I like this festival. | Мені подобається цей фестиваль.
+S It is karma. | Це карма.
+S It is magic! | Це магія!
+F I like this {festival|carnival|ritual}. | Мені подобається цей {фестиваль|карнавал|ритуал}.
 
 --- geography | 🗺️ | Географія | Geography
 W continent; ocean; region; territory; zone~зона; center; climate; canal; canyon; delta; atlas; globe~глобус; map~мапа; compass; port; panorama
 M equator~екватор; meridian; tropics~тропіки; plateau; oasis; lagoon~лагуна; archipelago; landscape~ландшафт; province~провінція; federation~федерація; republic~республіка; colony~колонія; migration~міграція; tourism; expedition~експедиція; resource; transit; terminal; pole~полюс
 S Europe is a continent. | Європа — це континент.
-S Which region are you from? | З якого ти регіону?
-S Show me on the map. | Покажи мені на мапі.
-S The climate in this zone is hot. | Клімат у цій зоні спекотний.
-S Odesa is a big port. | Одеса — великий порт.
-F Show me the {continent|ocean|region|canyon} on the map. | Покажи мені {континент|океан|регіон|каньйон} на мапі.
+S I need a map. | Мені потрібна мапа.
+S Where is the port? | Де порт?
+S This is my region. | Це мій регіон.
+S I like the climate. | Мені подобається клімат.
+F Where is the {port|canal|canyon|center}? | Де {порт|канал|каньйон|центр}?
 ! capital | Capital — це і капітал, і столиця (Kyiv is the capital of Ukraine).
