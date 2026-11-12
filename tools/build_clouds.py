@@ -10,6 +10,7 @@ Source: data/clouds/*.txt, written by hand (see docs/review/practical-redesign.m
   M ...   more words of the cloud (shown folded)
   R -ція = -tion … | -ція = -tion …                    a rule or a short explanation, shown before the words
   S A cappuccino, please. | Капучино, будь ласка.     a ready phrase and its translation
+  F A {cola|lemonade}, please. | {Колу|Лимонад}, будь ласка.   one frame, several known words ("change one word")
   D A: Hi! A latte, please. | Привіт! Лате, будь ласка.   a line of a short dialogue
   ! chef ≠ шеф | chef = кухар; шеф = boss           a look-alike to watch out for
 Output: clouds.js (window.CLOUDS) for the site, and data/clouds/unchecked.json (pairs still to verify).
@@ -32,6 +33,29 @@ def load_lists():
         for x in json.load(open(p, encoding='utf-8')):
             checked[x['en'].lower() + '|' + x['asked']] = x          # asked = the Ukrainian word as written in the cloud file
     return ident, sim, checked
+
+
+def frame(text):
+    """'A {x|y}, please. | {Х|У}, будь ласка.' -> [[English sentence, Ukrainian sentence, the changing English words], ...]"""
+    depth, cut = 0, -1
+    for i, ch in enumerate(text):
+        depth += ch == '{'
+        depth -= ch == '}'
+        if ch == '|' and depth == 0:
+            cut = i
+            break
+    if cut < 0:
+        raise ValueError('a frame needs "English | Ukrainian"')
+    out = []
+    for side in (text[:cut].strip(), text[cut + 1:].strip()):
+        m = re.match(r'^(.*?)\{([^{}]+)\}(.*)$', side)
+        if not m:
+            raise ValueError('a frame needs one {a|b|c} group on each side')
+        out.append((m.group(1), [a.strip() for a in m.group(2).split('|')], m.group(3)))
+    (ep, ea, es), (up, ua, us) = out
+    if len(ea) != len(ua):
+        raise ValueError('the frame has a different number of words on the two sides')
+    return [[ep + a + es, up + b + us, a] for a, b in zip(ea, ua)]
 
 
 def parse_word(tok):
@@ -103,6 +127,11 @@ def main():
             elif line[:2] in ('S ', 'D '):
                 en, _, uk = line[2:].partition('|')
                 cloud['s' if line[0] == 'S' else 'd'].append([en.strip(), uk.strip()])
+            elif line.startswith('F '):       # one frame, several words: "A {cappuccino|latte}, please. | {Капучино|Лате}, будь ласка."
+                try:
+                    cloud['f'] = frame(line[2:])
+                except ValueError as e:
+                    problems.append(f'{where}: {e}')
             elif line.startswith('R '):
                 en, _, uk = line[2:].partition('|')
                 cloud['r'] = [en.strip(), uk.strip()]

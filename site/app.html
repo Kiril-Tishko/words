@@ -123,6 +123,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
 .bigline { font-weight: 700; font-size: clamp(26px, 6.4vw, 44px); line-height: 1.18; letter-spacing: -.015em; text-wrap: balance; max-width: 20ch; }
 .bigline.long { font-size: clamp(22px, 5vw, 34px); max-width: 26ch; }
 .bigline.uk { font-weight: 600; }
+.bigline mark { background: none; color: var(--pink); }
 .sub { color: var(--muted); font-size: 17px; max-width: 34ch; text-wrap: balance; }
 .hintline { color: var(--muted); font-size: 14.5px; min-height: 22px; max-width: 44ch; }
 .foot { flex: none; display: flex; gap: 10px; padding: 12px 0 max(14px, env(safe-area-inset-bottom, 0px)); }
@@ -355,6 +356,10 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     if (c.r) S.push({ part: isRule ? 'Rule' : 'Note', t: 'rule', en: c.r[0], uk: c.r[1], rule: isRule });
     S.push({ part: 'Words', t: 'cloud' });
     c.s.forEach(s => S.push({ part: 'Say it', t: 'say', en: s[0], uk: s[1] }));
+    (c.f || []).forEach((f, j) => {
+      if (!j && c.s.some(s => s[0] === f[0])) return;      // the frame's first sentence is already in "Say it"
+      S.push({ part: 'Change one word', t: 'say', en: f[0], uk: f[1], word: f[2], base: j ? c.f[0][0] : '' });
+    });
     if (c.d.length) S.push({ part: 'Dialogue', t: 'dialogue' });
     c.x.forEach(x => S.push({ part: 'Careful', t: 'careful', title: x[0], text: x[1] }));
     S.push({ part: 'All together', t: 'all' });
@@ -383,11 +388,14 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
         (c.m.length ? '<button class="more-btn" id="more">' + (state.more ? '← The main words' : '+ ' + c.m.length + ' more words') + '</button>' : '') + '</div>';
     } else if (sc.t === 'say') {
       const shown = !!state.shown[i];
-      label = sc.from ? '🧠 Say it in English · ' + sc.from.en : '🧠 Say it in English'; cls = 'pink';
+      label = sc.word ? '🔁 Change one word' : sc.from ? '🧠 Say it in English · ' + sc.from.en : '🧠 Say it in English'; cls = 'pink';
+      const enHTML = sc.word ? esc(sc.en).replace(esc(sc.word), '<mark>' + esc(sc.word) + '</mark>') : esc(sc.en);
       body = '<div class="mid">' + (shown
-        ? '<div class="sub"><span class="ua" lang="uk">' + esc(sc.uk) + '</span></div><div class="bigline' + (sc.en.length > 34 ? ' long' : '') + '" lang="en">' + esc(sc.en) + '</div>' +
+        ? '<div class="sub"><span class="ua" lang="uk">' + esc(sc.uk) + '</span></div><div class="bigline' + (sc.en.length > 34 ? ' long' : '') + '" lang="en">' + enHTML + '</div>' +
           '<button class="say" data-say="' + esc(sc.en) + '" aria-label="Listen">' + SAY + '</button>'
-        : '<div class="bigline uk' + (sc.uk.length > 34 ? ' long' : '') + '" lang="uk">' + esc(sc.uk) + '</div><div class="sub">Say it aloud, then check.</div>') + '</div>';
+        : (sc.base ? '<div class="sub" lang="en">' + esc(sc.base) + ' →</div>' : '') +
+          '<div class="bigline uk' + (sc.uk.length > 34 ? ' long' : '') + '" lang="uk">' + esc(sc.uk) + '</div>' +
+          '<div class="sub">' + (sc.base ? 'Same sentence, one new word.' : 'Say it aloud, then check.') + '</div>') + '</div>';
     } else if (sc.t === 'rule') {
       label = sc.rule ? '📌 Rule' : '💡 Good to know'; cls = 'blue';
       body = '<div class="mid"><div class="bigline">' + esc(c.en) + '</div><div class="sub" lang="en" style="color:var(--ink)">' + esc(sc.en) + '</div>' +

@@ -12,10 +12,11 @@ The page has the shape of a lesson page: one thing per screen, the big line in t
   1. **Repeat**: three sentences from earlier clouds. A rule cloud starts with its rule on one card.
   2. **Words**: the cloud. 16 words the student already knows, each with its Ukrainian twin; tap to hear it and see a sentence. More words are folded under one button.
   3. **Say it**: five ready phrases. The Ukrainian line comes first; the student says it in English, taps **Answer** and hears it.
-  4. **Dialogue**: four lines marked "You hear" and "You say", with sound and a hidden translation.
-  5. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
-  6. **All together**: the phrases as a list with sound.
-  7. **This week**: three sentences the student writes for their own week.
+  4. **Change one word**: one sentence frame, and the student swaps in other words they already know (A cappuccino, please → latte → espresso).
+  5. **Dialogue**: four lines marked "You hear" and "You say", with sound and a hidden translation.
+  6. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
+  7. **All together**: the phrases as a list with sound.
+  8. **This week**: three sentences the student writes for their own week.
 - **Clouds** lists all 78 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
 - **Search** finds any of the 13,000+ identical words and the "almost the same" words, in English or Ukrainian.
 

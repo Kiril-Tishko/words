@@ -44,7 +44,7 @@ def main():
             items = []
             for w in c['w'] + c['m']:          # every word of the cloud, so the cloud needs only its own file
                 items.append((w['en'], 'w'))
-            for en, _ in c['s'] + c['d']:
+            for en, _ in c['s'] + c['d'] + [x[:2] for x in c.get('f', [])]:
                 t = re.sub(r'^[AB]:\s*', '', en)
                 if re.search(r'[A-Za-z]{2}', t) and not t.startswith('-'):
                     items.append((t, 's'))

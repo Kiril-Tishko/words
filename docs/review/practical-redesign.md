@@ -38,10 +38,11 @@ One situation, in this order:
 1. **Repeat**: three sentences from clouds finished earlier (Ukrainian first, say it, then check).
 2. **Words**: the cloud itself. 16 words on one screen, each with its Ukrainian twin; tap to hear. More words are folded under one button.
 3. **Say it**: five ready phrases for the situation. The Ukrainian line comes first, the student says it in English, then taps Answer and hears it.
-4. **Dialogue**: four lines, "You hear" and "You say", with sound and a hidden translation.
-5. **Careful**: the look-alike that causes mistakes in this situation.
-6. **All together**: the phrases as a list with sound.
-7. **This week**: three sentences the student writes for their own week.
+4. **Change one word**: one sentence frame and several known words (A cappuccino, please → latte → espresso). This is the Latin lesson's move: the same sentence, one thing changed, so one frame gives many sentences the student can say.
+5. **Dialogue**: four lines, "You hear" and "You say", with sound and a hidden translation.
+6. **Careful**: the look-alike that causes mistakes in this situation.
+7. **All together**: the phrases as a list with sound.
+8. **This week**: three sentences the student writes for their own week.
 
 ## No levels: an order
 
