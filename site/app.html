@@ -82,6 +82,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   background: var(--card); border: 1.5px solid var(--line); min-width: 0; line-height: 1.25; }
 .chip b { font-weight: 600; font-size: 18px; overflow-wrap: anywhere; }
 .chip span { font-size: 13.5px; color: var(--muted); overflow-wrap: anywhere; }
+.chip.long b { font-size: 15px; letter-spacing: -.02em; }
 .chip:hover { border-color: var(--green); }
 .chip.on { background: var(--green-soft); border-color: var(--green); }
 .st { color: var(--green); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 3px; }
@@ -299,7 +300,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
     if (!w.st) return esc(w.en);
     return esc(w.en.slice(0, w.st[0])) + '<span class="st">' + esc(w.en.slice(w.st[0], w.st[1])) + '</span>' + esc(w.en.slice(w.st[1]));
   }
-  const chip = (w, i) => '<button class="chip" data-w="' + i + '" lang="en"><b>' + stressed(w) + '</b><span lang="uk">' + esc(w.uk) + '</span></button>';
+  const chip = (w, i) => '<button class="chip' + (w.en.length > 12 ? ' long' : '') + '" data-w="' + i + '" lang="en"><b>' + stressed(w) + '</b><span lang="uk">' + esc(w.uk) + '</span></button>';
 
   // ---------- Today: one panel, one button
   function viewToday() {
@@ -346,17 +347,14 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
   function repeatItems(c) {      // three phrases from clouds finished before: the ones not repeated for the longest time first
     const old = ALL.filter(x => done[x.id] && x !== c && x.s.length);
     old.sort((a, b) => Math.max(done[a.id], reps[a.id] || 0) - Math.max(done[b.id], reps[b.id] || 0));
-    return old.slice(0, 3).map(x => {
-      const list = x.id.indexOf('r-') === 0 ? x.s.slice(1) : x.s;
-      return { from: x, s: list[Math.floor(Math.random() * list.length)] };
-    });
+    return old.slice(0, 3).map(x => ({ from: x, s: x.s[Math.floor(Math.random() * x.s.length)] }));
   }
   function screensFor(c) {
-    const S = [], rule = c.id.indexOf('r-') === 0 ? c.s[0] : null;
+    const S = [], isRule = c.id.indexOf('r-') === 0;
     repeatItems(c).forEach(r => S.push({ part: 'Repeat', t: 'say', en: r.s[0], uk: r.s[1], from: r.from }));
-    if (rule) S.push({ part: 'Rule', t: 'rule', en: rule[0], uk: rule[1] });
+    if (c.r) S.push({ part: isRule ? 'Rule' : 'Note', t: 'rule', en: c.r[0], uk: c.r[1], rule: isRule });
     S.push({ part: 'Words', t: 'cloud' });
-    (rule ? c.s.slice(1) : c.s).forEach(s => S.push({ part: 'Say it', t: 'say', en: s[0], uk: s[1] }));
+    c.s.forEach(s => S.push({ part: 'Say it', t: 'say', en: s[0], uk: s[1] }));
     if (c.d.length) S.push({ part: 'Dialogue', t: 'dialogue' });
     c.x.forEach(x => S.push({ part: 'Careful', t: 'careful', title: x[0], text: x[1] }));
     S.push({ part: 'All together', t: 'all' });
@@ -391,7 +389,7 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
           '<button class="say" data-say="' + esc(sc.en) + '" aria-label="Listen">' + SAY + '</button>'
         : '<div class="bigline uk' + (sc.uk.length > 34 ? ' long' : '') + '" lang="uk">' + esc(sc.uk) + '</div><div class="sub">Say it aloud, then check.</div>') + '</div>';
     } else if (sc.t === 'rule') {
-      label = '📌 Rule'; cls = 'blue';
+      label = sc.rule ? '📌 Rule' : '💡 Good to know'; cls = 'blue';
       body = '<div class="mid"><div class="bigline">' + esc(c.en) + '</div><div class="sub" lang="en" style="color:var(--ink)">' + esc(sc.en) + '</div>' +
         '<div class="sub"><span class="ua" lang="uk">' + esc(sc.uk) + '</span></div></div>';
     } else if (sc.t === 'dialogue') {
@@ -408,9 +406,8 @@ h2 { font-size: 20px; margin: 0 0 4px; letter-spacing: -.01em; }
       body = '<div class="mid"><div class="bigline' + (sc.title.length > 22 ? ' long' : '') + '">' + esc(sc.title) + '</div>' +
         '<div class="sub" lang="uk" style="font-size:18px;color:var(--ink);max-width:36ch">' + esc(sc.text) + '</div></div>';
     } else if (sc.t === 'all') {
-      const list = c.id.indexOf('r-') === 0 ? c.s.slice(1) : c.s;
       label = '✅ All together'; cls = 'green';
-      body = '<div class="mid" style="justify-content:flex-start"><div class="lines">' + list.map(s =>
+      body = '<div class="mid" style="justify-content:flex-start"><div class="lines">' + c.s.map(s =>
         '<div class="ln"><button class="say" data-say="' + esc(s[0]) + '" aria-label="Listen">' + SAY + '</button><div><b lang="en">' + esc(s[0]) + '</b>' +
         '<span class="tr" lang="uk">' + esc(s[1]) + '</span></div></div>').join('') + '</div></div>';
     } else {

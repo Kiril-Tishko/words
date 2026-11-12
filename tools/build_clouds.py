@@ -8,6 +8,7 @@ Source: data/clouds/*.txt, written by hand (see docs/review/practical-redesign.m
         words. "en" is looked up in the checked lists; "en=uk" picks one card of several; "en~uk" is a pair that is
         not in the lists yet (it must be in data/clouds/checked.json, or the build reports it); [..] is the example to show
   M ...   more words of the cloud (shown folded)
+  R -ція = -tion … | -ція = -tion …                    a rule or a short explanation, shown before the words
   S A cappuccino, please. | Капучино, будь ласка.     a ready phrase and its translation
   D A: Hi! A latte, please. | Привіт! Лате, будь ласка.   a line of a short dialogue
   ! chef ≠ шеф | chef = кухар; шеф = boss           a look-alike to watch out for
@@ -102,6 +103,9 @@ def main():
             elif line[:2] in ('S ', 'D '):
                 en, _, uk = line[2:].partition('|')
                 cloud['s' if line[0] == 'S' else 'd'].append([en.strip(), uk.strip()])
+            elif line.startswith('R '):
+                en, _, uk = line[2:].partition('|')
+                cloud['r'] = [en.strip(), uk.strip()]
             elif line.startswith('! '):
                 a, _, b = line[2:].partition('|')
                 cloud['x'].append([a.strip(), b.strip()])

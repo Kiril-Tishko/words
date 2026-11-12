@@ -25,7 +25,7 @@ Looking at the data and at the teacher's own lesson pages confirmed each point:
 - A word is easy when the Ukrainian word is familiar, its form is close, and its main meaning matches. Familiarity is measured on the Ukrainian side (how common the Ukrainian word is), not by English textbook lists.
 - Words that only look the same are the real danger: magazine, costume, accurate, data, list, variant. Each cloud names the one trap that belongs to its situation.
 - Sentences need verbs and adjectives. The identical list is almost all nouns (12,901 of 13,147), because Ukrainian verbs and adjectives carry their own endings. So the clouds add the "almost the same" words: організувати ≈ organize, активний ≈ active, інформація ≈ information.
-- Endings are regular. Eight rule clouds (‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм, ‑іст, ‑ор, ‑ент, ‑ика, ‑ура) let one rule open hundreds of words.
+- Endings are regular. Nine rule clouds (‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм, ‑іст, ‑ор, ‑ент, ‑ика, ‑ура, ‑но → ‑ly) let one rule open hundreds of words.
 
 **Memory.** A word is stored with its scene. Thinking of a kitchen brings blender, toaster and filter with it. So words are grouped by scene (a cloud), each cloud is small (16 main words, the rest folded), and each new cloud starts with three sentences from earlier clouds.
 
@@ -50,10 +50,10 @@ Every word in a cloud is already known, so there are no difficulty levels. The c
 | Circle | Clouds | What is in it |
 |---|---|---|
 | Every day | 36 | café, restaurant, food, home, clothes, city, transport, car, travel, hotel, money, shopping, doctor, people, jobs, feelings, sport, music, films, internet, phone, computer, animals, nature, time, numbers |
-| Rules | 8 | endings that turn a Ukrainian word into an English one |
+| Rules | 9 | endings that turn a Ukrainian word into an English one |
 | Work and study | 19 | office, words for any conversation, projects, documents, business, clients, banking, IT, production, materials, delivery, studying, and three clouds of verbs |
 | The wider world | 11 | politics, society, army, law, science, space, medicine, art, books, traditions, geography |
-| On the side | 2 | reactions (OK, wow, oops) and slang (friend, people, cool) |
+| On the side | 3 | reactions (OK, wow, oops), slang (friend, people, cool) and old relatives (sister ≈ сестра) |
 
 The site opens on the next cloud with one button. The list of all clouds is one tap away, so a teacher can send a student straight to the cloud for this week's topic.
 
@@ -61,8 +61,8 @@ The site opens on the next cloud with one button. The list of all clouds is one 
 
 1. **Pool.** The 13,147 identical cards and the 2,820 checked "almost the same" pairs. For each, how common the Ukrainian word is (wordfreq) and how common the English word is.
 2. **Clouds by hand.** Each cloud was written top down (the situation first, then its words), then every word was looked up in the checked lists by `tools/build_clouds.py`. A word that is not in the lists cannot enter a cloud unchecked.
-3. **New pairs.** 249 pairs were not in the lists, mostly verbs and adjectives. Each was checked against three conditions: the Ukrainian word is one every adult uses; the English word is the normal word for that meaning; the link is heard at once. 216 were kept and 33 rejected (ventilator, packet, variant, hymn, argue, concrete…). The decisions and reasons are in `data/clouds/checked.json`. This check was made by the author of the clouds; an independent second check is still to do.
-4. **Phrases and dialogues** were written for the situation at A2 level and use the cloud's words. American English.
+3. **New pairs.** 305 pairs were not in the lists, mostly verbs, adjectives and adverbs. Each was checked against three conditions: the Ukrainian word is one every adult uses; the English word is the normal word for that meaning; the link is heard at once. 272 were kept and 33 rejected (ventilator, packet, variant, hymn, argue, concrete…). The 36 pairs of the "Old relatives" cloud follow a looser rule: they are inherited relatives (sister and сестра are one ancient word), not loans, and they stay in that cloud only. The decisions and reasons are in `data/clouds/checked.json`. This check was made by the author of the clouds; an independent second check is still to do.
+4. **Phrases and dialogues** were written for the situation at A2 level and use the cloud's words. American English. All of them were then read again as an editor would, and about 30 were corrected. Most fixes were calques: a missile attack (not a rocket attack), the environment (not ecology), a blood test (not an analysis), a receptionist (not an administrator).
 5. **Sound.** Every phrase, dialogue line and word is recorded with the same voice as the cards (`tools/make_cloud_audio.py`), one file per cloud.
 
 ## Where things are
@@ -74,6 +74,6 @@ The site opens on the next cloud with one button. The list of all clouds is one 
 
 ## Still open
 
-- An independent check of the 216 new pairs and of all phrases by a second linguist.
+- An independent check of the new pairs and of all phrases by a second linguist.
 - The remaining familiar words that are in no cloud yet (the full list stays in Search).
 - Extra clouds for a student's own job.

@@ -9,14 +9,14 @@ The page has the shape of a lesson page: one thing per screen, the big line in t
 
 - **Today** opens on the next cloud with one button, **Start** or **Continue**. No level to choose.
 - **A cloud** is one situation (At the café, At the doctor's, At the office). Its screens:
-  1. **Repeat**: three sentences from earlier clouds.
+  1. **Repeat**: three sentences from earlier clouds. A rule cloud starts with its rule on one card.
   2. **Words**: the cloud. 16 words the student already knows, each with its Ukrainian twin; tap to hear it and see a sentence. More words are folded under one button.
   3. **Say it**: five ready phrases. The Ukrainian line comes first; the student says it in English, taps **Answer** and hears it.
   4. **Dialogue**: four lines marked "You hear" and "You say", with sound and a hidden translation.
   5. **Careful**: the look-alike that causes mistakes in this situation (magazine ≠ магазин, costume ≠ костюм).
   6. **All together**: the phrases as a list with sound.
   7. **This week**: three sentences the student writes for their own week.
-- **Clouds** lists all 76 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
+- **Clouds** lists all 78 clouds, so a teacher can send a student straight to one (`index.html#c/doctor`).
 - **Search** finds any of the 13,000+ identical words and the "almost the same" words, in English or Ukrainian.
 
 ### Clouds instead of levels
@@ -25,14 +25,15 @@ Every word here is already known, so there are no difficulty levels. The clouds 
 | Circle | Clouds | Examples |
 |---|---|---|
 | Every day | 36 | café, supermarket, home, clothes, city, transport, travel, money, doctor, people, sport, music, internet |
-| Rules | 8 | ‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм → ‑ism |
+| Rules | 9 | ‑ція → ‑tion, ‑ія → ‑y, ‑ний → ‑al / ‑ic / ‑ive, ‑ізм → ‑ism, ‑но → ‑ly |
 | Work and study | 19 | office, projects, business, banking, IT, production, delivery, and three clouds of verbs |
 | The wider world | 11 | politics, law, science, space, art |
-| On the side | 2 | reactions (OK, wow, oops) and slang (friend, people, cool) |
+| On the side | 3 | reactions (OK, wow, oops), slang (friend, people, cool) and old relatives (sister ≈ сестра, nose ≈ ніс) |
 
 How they are made:
 - The clouds are written by hand in `data/clouds/*.txt`: words, phrases, a dialogue and a warning for each. `tools/build_clouds.py` looks every word up in the checked lists and builds `clouds.js`. A word that is not in the lists cannot enter a cloud unchecked.
-- 249 pairs were new, mostly verbs and adjectives. 216 were kept and 33 rejected; each decision is in `data/clouds/checked.json`.
+- 305 pairs were new, mostly verbs, adjectives and adverbs. 272 were kept and 33 rejected; each decision is in `data/clouds/checked.json`.
+- Every phrase, dialogue and warning was then read again as an editor would, and about 30 were corrected (calques such as "rocket attack" for a missile attack, or "ecology" for the environment).
 - `tools/make_cloud_audio.py` records every word, phrase and dialogue line, one file per cloud (`audio/cloud-<id>.mp3`).
 
 The earlier site (CEFR levels, lessons with stories, flip cards) is kept as `site/app-v2-levels.html`; its data is still in `data/course/` and `data/stories/`. The sections below describe the word cards, which Search still shows.

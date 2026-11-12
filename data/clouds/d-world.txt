@@ -3,7 +3,7 @@
 
 --- politics | 🏛️ | Політика | Politics
 W president; minister; premier; parliament; politics; party; opposition~опозиція; democracy; republic~республіка; reform~реформа; revolution; protest; candidate; referendum; constitution~конституція; diplomat
-M coalition~коаліція; mandate; senator; senate; congress; dictator; regime~режим; summit; sanction~санкція; ultimatum; compromise; alliance; propaganda; patriot; activist; nation; federation~федерація; region; territory; corruption; scandal; lobby; veto; oligarch; populism; monarch; throne; consul; embargo; boycott; picket; pact; electorate; liberal; democrat; delegate
+M coalition~коаліція; mandate; senator; senate; congress; dictator; regime~режим; summit; sanction~санкція; ultimatum; compromise; alliance; propaganda; patriot; activist; nation; federation~федерація; region; territory; corruption; scandal; lobby; veto; oligarch; populism; monarch; throne; consul; embargo; boycott; picket; pact; electorate; liberal; democrat; delegate; ministry; politician; governor; mayor; delegation; ideology; diplomacy; provocation
 S Who is the president now? | Хто зараз президент?
 S The parliament voted for the reform. | Парламент проголосував за реформу.
 S There was a protest in the center. | У центрі був протест.
@@ -13,7 +13,7 @@ S Which party is in opposition? | Яка партія в опозиції?
 
 --- society | 👥 | Суспільство | Society
 W nation; culture; tradition; religion; history; migration~міграція; emigrant; immigrant; gender; discrimination~дискримінація; tolerance~толерантність; solidarity~солідарність; identity; stereotype; volunteer; pension~пенсія
-M migrant; diaspora; feminism; racism; patriotism; mentality; conflict; crisis~криза; progress; civilization~цивілізація; activist; elite~еліта; class; status; prestige; integration~інтеграція; globalization~глобалізація; urbanization~урбанізація; demography~демографія; social; public~публічний
+M migrant; diaspora; feminism; racism; patriotism; mentality; conflict; crisis~криза; progress; civilization~цивілізація; activist; elite~еліта; class; status; prestige; integration~інтеграція; globalization~глобалізація; urbanization~урбанізація; demography~демографія; social; public~публічний; emigration; genocide; humanitarian
 S It's a part of our culture and tradition. | Це частина нашої культури й традиції.
 S Ukraine is a nation with a long history. | Україна — це нація з довгою історією.
 S I work as a volunteer on weekends. | На вихідних я працюю волонтером.
@@ -23,16 +23,17 @@ S My parents get a pension. | Мої батьки отримують пенсі�
 
 --- army | 🪖 | Армія й безпека | The army and security
 W army; soldier; officer; general~генерал; sergeant; captain~капітан; battalion; front~фронт; position; attack; operation; evacuation~евакуація; tank~танк; rocket~ракета; bomb; drone
-M lieutenant; major~майор; admiral~адмірал; commander~командир; brigade~бригада; division~дивізія; mobilization~мобілізація; blockade; occupation~окупація; radar; helicopter; pilot; patrol~патруль; signal; siren~сирена; sanction~санкція; terrorist; terror~терор; agent; sabotage; camouflage; veteran; volunteer; hero~герой; medal; ultimatum; capitulation~капітуляція
+M lieutenant; major~майор; admiral~адмірал; commander~командир; brigade~бригада; division~дивізія; mobilization~мобілізація; blockade; occupation~окупація; radar; helicopter; pilot; patrol~патруль; signal; siren~сирена; sanction~санкція; terrorist; terror~терор; agent; sabotage; camouflage; veteran; volunteer; hero~герой; medal; ultimatum; capitulation~капітуляція; fleet; artillery; sniper; bunker; aggression; aggressor; aviation; raid; civilian
 S My brother is a soldier in the army. | Мій брат — солдат в армії.
-S There was a rocket attack last night. | Минулої ночі була ракетна атака.
+S There was a missile attack last night. | Минулої ночі була ракетна атака.
 S The drone was over the city. | Дрон був над містом.
 S He is an officer, a captain. | Він офіцер, капітан.
 S The evacuation started in the morning. | Евакуація почалася вранці.
+! rocket / missile | Ракета як зброя — missile (a missile attack). Rocket — це космічна ракета або феєрверк.
 
 --- law | ⚖️ | Закон і порядок | Law and order
 W police; detective; inspector; criminal; bandit; mafia; alibi; verdict; arrest; patrol~патруль; protocol~протокол; document; license; contract; legal; illegal
-M sheriff; gangster; tribunal; jury; amnesty~амністія; dossier; patent; guarantee~гарантія; corruption; narcotic; vandalism; hooligan; pirate; hacker; terrorist; civil; official; norm~норма; sanction~санкція
+M sheriff; gangster; tribunal; jury; amnesty~амністія; dossier; patent; guarantee~гарантія; corruption; narcotic; vandalism; hooligan; pirate; hacker; terrorist; civil; official; norm~норма; sanction~санкція; prosecutor; contraband; torture
 S Call the police! | Викличте поліцію!
 S Is it legal here? | Це тут легально?
 S The police made an arrest. | Поліція провела арешт.
@@ -42,7 +43,7 @@ S I need to see your license. | Мені треба побачити вашу л
 
 --- science | 🔬 | Наука | Science
 W experiment; method; theory; analysis~аналіз; formula; factor; element; atom; energy~енергія; laser; magnet; gene; virus; organism; laboratory; microscope
-M hypothesis~гіпотеза; synthesis~синтез; molecule~молекула; electron; proton; photon; gravitation~гравітація; vacuum; plasma; reactor; crystal; mineral; DNA; hormone; bacteria~бактерія; evolution; clone; hybrid; mutant; telescope; indicator; cycle; process; structure; system; object; phenomenon~феномен; fact; statistics~статистика; algorithm; vector; parameter
+M hypothesis~гіпотеза; synthesis~синтез; molecule~молекула; electron; proton; photon; gravitation~гравітація; vacuum; plasma; reactor; crystal; mineral; DNA; hormone; bacteria~бактерія; evolution; clone; hybrid; mutant; telescope; indicator; cycle; process; structure; system; object; phenomenon~феномен; fact; statistics~статистика; algorithm; vector; parameter; spectrum; matrix; resonance; impulse
 S It's only a theory. | Це лише теорія.
 S The experiment was a success. | Експеримент був успішним.
 S We need a new method. | Нам потрібен новий метод.
@@ -52,15 +53,16 @@ S This virus is new for science. | Цей вірус новий для наук�
 --- space | 🚀 | Космос | Space
 W cosmos; planet~планета; orbit~орбіта; galaxy~галактика; comet~комета; asteroid; meteor; rocket~ракета; astronaut; telescope; station; satellite~сателіт; module; mission; atmosphere~атмосфера; start
 M cosmonaut; meteorite; shuttle; signal; radar; robot; expedition~експедиція; vacuum; gravitation~гравітація; zodiac; horoscope; crater; zenith
-S Our planet is small in the cosmos. | Наша планета маленька в космосі.
+S Mars is a small planet. | Марс — маленька планета.
 S The rocket is in orbit. | Ракета на орбіті.
 S The astronauts are on the station. | Астронавти на станції.
 S You can see the comet with a telescope. | Комету можна побачити в телескоп.
 S The mission to Mars starts next year. | Місія на Марс стартує наступного року.
+! cosmos / space | Космос англійською зазвичай space: in space, a space station. Cosmos — рідше, книжне слово.
 
 --- medterms | 🧬 | Медицина: терміни | Medical terms
 W syndrome; symptom; diagnosis~діагноз; therapy~терапія; antibiotic; hormone; nerve; organ; muscle; virus; bacteria~бактерія; infection~інфекція; vaccine~вакцина; epidemic~епідемія; pandemic~пандемія; quarantine
-M anesthesia; antidote; insulin; hemoglobin; adrenaline; metabolism; reflex; organism; skeleton~скелет; immunity~імунітет; pneumonia; asthma; diabetes~діабет; migraine; anemia; malaria; coma; trauma; hematoma; spasm; arrhythmia; glaucoma; leukemia; autism; amnesia; phobia; paranoia; depression~депресія; placebo; donor; catheter; scalpel; psychiatrist~психіатр
+M anesthesia; antidote; insulin; hemoglobin; adrenaline; metabolism; reflex; organism; skeleton~скелет; immunity~імунітет; pneumonia; asthma; diabetes~діабет; migraine; anemia; malaria; coma; trauma; hematoma; spasm; arrhythmia; glaucoma; leukemia; autism; amnesia; phobia; paranoia; depression~депресія; placebo; donor; catheter; scalpel; psychiatrist~психіатр; hepatitis; tuberculosis
 S What is the diagnosis? | Який діагноз?
 S The therapy takes three weeks. | Терапія триває три тижні.
 S It's a virus, not bacteria. | Це вірус, а не бактерія.
@@ -70,7 +72,7 @@ S It's a problem with a nerve. | Це проблема з нервом.
 
 --- art | 🎨 | Мистецтво | Art
 W museum~музей; gallery~галерея; portrait; panorama; sculpture; graffiti; poster; design; style; genre; decor; contrast; talent; critic; original~оригінал; copy~копія
-M sculptor; collage; designer; ornament~орнамент; mosaic~мозаїка; fresco~фреска; ceramics~кераміка; architecture; architect~архітектор; renaissance; realism; modernism; minimalism; retro; pigment; palette~палітра; debut; curator; auction; carnival; masquerade; tattoo; photo; illustrator; illustration~ілюстрація; caricature~карикатура; silhouette; fake
+M sculptor; collage; designer; ornament~орнамент; mosaic~мозаїка; fresco~фреска; ceramics~кераміка; architecture; architect~архітектор; renaissance; realism; modernism; minimalism; retro; pigment; palette~палітра; debut; curator; auction; carnival; masquerade; tattoo; photo; illustrator; illustration~ілюстрація; caricature~карикатура; silhouette; fake; statue
 S Let's go to the museum on Sunday. | Ходімо в музей у неділю.
 S Is it the original or a copy? | Це оригінал чи копія?
 S I like the style of this portrait. | Мені подобається стиль цього портрета.
@@ -90,7 +92,7 @@ S I like fantasy and detective stories. | Мені подобаються фен
 
 --- traditions | 🎄 | Традиції | Traditions
 W tradition; ritual~ритуал; ceremony~церемонія; carnival; festival; religion; bible~біблія; icon; angel; demon; mystic; karma~карма; guru; talisman; horoscope; zodiac
-M fiesta; masquerade; mantra~мантра; yoga; patriarch; apostle~апостол; taboo; totem~тотем; shaman; magic; vampire; legend; myth~міф; symbol
+M fiesta; masquerade; mantra~мантра; yoga; patriarch; apostle~апостол; taboo; totem~тотем; shaman; magic; vampire; legend; myth~міф; symbol; monastery; pastor; sect; dragon
 S It's a family tradition. | Це сімейна традиція.
 S The ceremony starts at noon. | Церемонія починається опівдні.
 S Do you read your horoscope? | Ти читаєш свій гороскоп?
