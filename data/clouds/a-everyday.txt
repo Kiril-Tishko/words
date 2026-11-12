@@ -16,7 +16,7 @@ D B: Yes, a chocolate croissant. Thank you! | Так, шоколадний кр�
 ! cream | Cream — це вершки (coffee with cream). Крем для торта теж cream, а крем для рук — hand cream.
 
 --- restaurant | 🍽️ | У ресторані | At the restaurant
-W restaurant; menu; salad; soup; steak; pasta; pizza; rice; sauce; grill; barbecue; dessert; portion~порція; service; administrator; reserve~резервувати
+W restaurant; menu; salad; soup; steak; pasta; pizza; rice; sauce; grill; barbecue; dessert; portion~порція; service; bar; reserve~резервувати
 M spaghetti; filet; ragout; bouillon; puree; curry; kebab; sushi; salami; bacon; parmesan; mozzarella~моцарела; ingredient; vegetarian~вегетаріанець; vegan~веган; gluten; sommelier~сомельє; banquet
 S A table for two, please. | Столик на двох, будь ласка.
 S I'd like the steak and a salad. | Мені, будь ласка, стейк і салат.
@@ -153,7 +153,7 @@ D B: No, five minutes. Go past the park. | Ні, п'ять хвилин. Про�
 ! magazine ≠ магазин | Магазин — shop або store. Magazine — це журнал.
 
 --- transport | 🚕 | Транспорт | Getting around
-W taxi; bus~автобус; trolleybus; tram~трамвай; metro; auto; transport; station; platform~платформа; stop; terminal; port; pilot; passenger~пасажир; signal
+W taxi; bus~автобус; trolleybus; tram~трамвай; metro; transport; station; platform~платформа; stop; terminal; port; pilot; passenger~пасажир; signal
 M scooter; moped; motorcycle~мотоцикл; helicopter; jeep; limousine; tractor; tunnel; asphalt; depot; shuttle; charter; funicular; liner; tanker; locomotive; transit
 S A taxi to the airport, please. | Таксі до аеропорту, будь ласка.
 S Where is the bus stop? | Де автобусна зупинка?
@@ -167,14 +167,14 @@ D B: OK. Can I pay by card? | Добре. Можна карткою?
 ! conductor | У транспорті conductor — це кондуктор, але частіше це диригент оркестру.
 
 --- car | 🚗 | Авто | The car
-W auto; motor; diesel; gas; radiator; filter; pedal; bumper; generator; starter~стартер; compressor; turbo; service; garage; mechanic; parking~паркінг
+W motor; diesel; gas; radiator; filter; pedal; bumper; generator; starter~стартер; compressor; turbo; service; garage; mechanic; parking~паркінг
 M sedan; jeep; pickup; cabriolet; crossover; minivan; hatchback; limousine; carburetor; chassis; test drive; cruise control; climate control; crash test; signal; cabin~кабіна; cylinder
 S Is it diesel or gas? | Він на дизелі чи на бензині?
 S Where can I park? Is there parking? | Де можна паркуватися? Тут є паркінг?
-S I need a mechanic: there is a problem with the motor. | Мені потрібен механік: проблема з мотором.
+S I need a mechanic: the car doesn't start. | Мені потрібен механік: авто не заводиться.
 S Please check the filter and the radiator. | Перевірте, будь ласка, фільтр і радіатор.
 S My car is in the garage for service. | Моє авто в гаражі на сервісі.
-! benzine ≠ бензин | Бензин — gas (США) або petrol (Британія). А машина — car: machine — це верстат чи автомат.
+! benzine ≠ бензин | Бензин — gas (США) або petrol (Британія). Авто й машина — car: machine — це верстат чи автомат. Мотор авто частіше називають engine.
 
 --- travel | ✈️ | Подорож | Travelling
 W passport; visa; tourist; tour; guide; baggage; airport~аеропорт; terminal; business class; check-in; control; transfer~трансфер; souvenir; cruise; camping~кемпінг; map~мапа
@@ -190,7 +190,7 @@ D A: How long will you stay? | Як довго ви тут будете?
 D B: One week. Here is my hotel reservation. | Один тиждень. Ось моє бронювання готелю.
 
 --- hotel | 🏨 | Готель | At the hotel
-W hotel; hostel; motel; reception~рецепція; administrator; minibar; balcony~балкон; service; comfort; sauna; spa; bar; restaurant; reserve~резервувати; registration~реєстрація; standard
+W hotel; hostel; motel; reception~рецепція; tourist; minibar; balcony~балкон; service; comfort; sauna; spa; bar; restaurant; reserve~резервувати; registration~реєстрація; standard
 M room service; check-out; luxe; lobby bar; jacuzzi; terrace~тераса; panorama; baggage; transfer~трансфер; souvenir; casino; cottage; villa; bungalow; chalet
 S I have a reservation for two nights. | У мене бронювання на дві ночі.
 S Is breakfast included? | Сніданок включено?
@@ -213,13 +213,13 @@ S I have bonus points on my card. | У мене на картці є бонус�
 D A: Hello. How can I help you? | Добрий день. Чим можу допомогти?
 D B: I need a new card. I forgot my PIN code. | Мені потрібна нова картка. Я забув пін-код.
 D A: No problem. Your passport, please. | Без проблем. Ваш паспорт, будь ласка.
-D B: Here it is. Is there a tariff without a monthly fee? | Ось він. Є тариф без щомісячної плати?
+D B: Here it is. And can I change my PIN code? | Ось він. І чи можна змінити пін-код?
 ! ATM | Банкомат англійською — ATM (Is there an ATM near here?).
 ! credit ≠ кредит | Кредит у банку — loan (I have a loan). Credit — це credit card або buy on credit.
 
 --- shopping | 🛍️ | Покупки | Shopping
 W supermarket; boutique; kiosk; bazaar; brand; product; model; standard; guarantee~гарантія; catalog; price list; coupon; discount~дисконт; bonus; service; client
-M hypermarket; salon; mass market; premium; deluxe; bestseller; auction; souvenir; talisman; etiquette~етикет; mannequin
+M hypermarket; salon; mass market; premium; deluxe; bestseller; auction; souvenir; talisman; mannequin
 S How much is this model? | Скільки коштує ця модель?
 S Is there a guarantee? | Є гарантія?
 S Do you have a discount for students? | У вас є знижка для студентів?
@@ -229,8 +229,8 @@ S Can I get a bag, please? | Можна пакет, будь ласка?
 ! packet ≠ пакет | Пакет у магазині — bag. Packet — це маленька пачка (a packet of chips).
 
 --- doctor | 🩺 | У лікаря | At the doctor's
-W doctor; clinic; medic; pulse; temperature~температура; virus; infection~інфекція; allergy~алергія; symptom; stress; trauma; massage; operation~операція; diagnosis~діагноз; analysis~аналіз; test
-M patient~пацієнт; therapy~терапія; procedure~процедура; asthma; migraine; spasm; shock; coma; diabetes~діабет; bronchitis~бронхіт; gastritis~гастрит; pneumonia; depression~депресія; psychologist~психолог; dentist~дантист; paramedic; quarantine; hospital
+W doctor; clinic; medic; pulse; temperature~температура; virus; infection~інфекція; allergy~алергія; symptom; stress; patient~пацієнт; massage; operation~операція; diagnosis~діагноз; therapy~терапія; test
+M procedure~процедура; asthma; migraine; spasm; shock; coma; diabetes~діабет; bronchitis~бронхіт; gastritis~гастрит; pneumonia; depression~депресія; psychologist~психолог; dentist~дантист; paramedic; quarantine; hospital
 S I need a doctor. | Мені потрібен лікар.
 S I have a temperature and a headache. | У мене температура й болить голова.
 S I have an allergy to antibiotics. | У мене алергія на антибіотики.
@@ -241,6 +241,7 @@ D B: I have a high temperature and no energy. | У мене висока тем�
 D A: It's a virus. No stress, a lot of water and vitamins. | Це вірус. Жодного стресу, багато води й вітаміни.
 D B: Do I need antibiotics? | Мені потрібні антибіотики?
 ! angina ≠ ангіна | Ангіна англійською — tonsillitis або a sore throat. Angina — це біль у серці.
+! test | Аналіз крові — blood test. Травма — injury: trauma — це дуже важка травма або психологічна.
 
 --- pharmacy | 💊 | Ліки | Medicine
 W aspirin; vitamin; antibiotic; ibuprofen; tablet~таблетка; capsule~капсула; syrup; spray; gel; cream=крем; mask~маска; thermometer; vaccine~вакцина; injection~ін'єкція; insulin; antiseptic
@@ -271,10 +272,11 @@ S My brother is an engineer. | Мій брат — інженер.
 S We need a mechanic and an electrician. | Нам потрібні механік і електрик.
 S What do you do? — I'm a programmer. | Ким ви працюєте? — Я програміст.
 D A: What do you do? | Ким ти працюєш?
-D B: I'm an administrator in a hotel. And you? | Я адміністраторка в готелі. А ти?
+D B: I'm a manager in a hotel. And you? | Я менеджерка в готелі. А ти?
 D A: I'm a courier, but I'm studying to be a programmer. | Я кур'єр, але вчуся на програміста.
 D B: Cool! That's a good profession. | Круто! Це хороша професія.
 ! trainer ≠ тренер | Тренер у спорті — coach. Trainer — це той, хто проводить тренінги; trainers (Британія) — кросівки.
+! administrator | Адміністратор у готелі — receptionist. Administrator — це той, хто керує офісом чи системою.
 
 --- character | 🙂 | Який він? Яка вона? | What is he like?
 W active; positive; serious; nervous; romantic; creative; energetic~енергійний; optimistic~оптимістичний; emotional; talented~талановитий; elegant; popular; professional~професійний; aggressive; ideal~ідеальний; normal
