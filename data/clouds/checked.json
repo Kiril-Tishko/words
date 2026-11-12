@@ -1,0 +1,2492 @@
+[
+{
+"en": "cheesecake",
+"asked": "чизкейк",
+"uk": "чизкейк",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "donut",
+"asked": "донат",
+"uk": "донат",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "terrace",
+"asked": "тераса",
+"uk": "тераса",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "reserve",
+"asked": "резервувати",
+"uk": "резервувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "roll",
+"asked": "рол",
+"uk": "рол",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "chips",
+"asked": "чипси",
+"uk": "чипси",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "US: chips = чипси; UK: chips = картопля фрі",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "nuggets",
+"asked": "нагетси",
+"uk": "нагетси",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "punch",
+"asked": "пунш",
+"uk": "пунш",
+"ok": false,
+"k": "~",
+"why": "punch usually means a hit; the drink is a side meaning",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "apricot",
+"asked": "абрикос",
+"uk": "абрикос",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "coconut",
+"asked": "кокос",
+"uk": "кокос",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "spinach",
+"asked": "шпинат",
+"uk": "шпинат",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "macaroni",
+"asked": "макарони",
+"uk": "макарони",
+"ok": false,
+"k": "~",
+"why": "macaroni is one pasta shape; макарони = pasta",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "soda",
+"asked": "сода",
+"uk": "сода",
+"ok": false,
+"k": "~",
+"why": "soda is a fizzy drink in the US; сода = baking soda",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "electric",
+"asked": "електричний",
+"uk": "електричний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "microwave",
+"asked": "мікрохвильовка",
+"uk": "мікрохвильовка",
+"ok": false,
+"k": "~",
+"why": "half translated (wave = хвиля): the sound does not match",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "foil",
+"asked": "фольга",
+"uk": "фольга",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "aroma",
+"asked": "аромат",
+"uk": "аромат",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "apartment",
+"asked": "апартаменти",
+"uk": "апартаменти",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "apartment = квартира (US)",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "mansard",
+"asked": "мансарда",
+"uk": "мансарда",
+"ok": false,
+"k": "~",
+"why": "rare in English: people say attic or loft",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "television",
+"asked": "телевізор",
+"uk": "телевізор",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "ventilator",
+"asked": "вентилятор",
+"uk": "вентилятор",
+"ok": false,
+"k": "~",
+"why": "ventilator is a medical breathing machine; вентилятор = fan",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "balsam",
+"asked": "бальзам",
+"uk": "бальзам",
+"ok": false,
+"k": "~",
+"why": "people say balm or conditioner",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "solarium",
+"asked": "солярій",
+"uk": "солярій",
+"ok": false,
+"k": "~",
+"why": "people say tanning salon or sunbed",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "epilation",
+"asked": "епіляція",
+"uk": "епіляція",
+"ok": false,
+"k": "~",
+"why": "people say hair removal",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "blouse",
+"asked": "блуза",
+"uk": "блуза",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "sandals",
+"asked": "сандалі",
+"uk": "сандалі",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "jacket",
+"asked": "жакет",
+"uk": "жакет",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "jacket = куртка, піджак, жакет",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "top",
+"asked": "топ",
+"uk": "топ",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "leggings",
+"asked": "легінси",
+"uk": "легінси",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "zoo",
+"asked": "зоопарк",
+"uk": "зоопарк",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "school",
+"asked": "школа",
+"uk": "школа",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "route",
+"asked": "маршрут",
+"uk": "маршрут",
+"ok": false,
+"k": "~",
+"why": "does not sound alike",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "navigator",
+"asked": "навігатор",
+"uk": "навігатор",
+"ok": false,
+"k": "~",
+"why": "navigator is a person; the device is GPS or sat nav",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "starter",
+"asked": "стартер",
+"uk": "стартер",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "cabin",
+"asked": "кабіна",
+"uk": "кабіна",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "transfer",
+"asked": "трансфер",
+"uk": "трансфер",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "camping",
+"asked": "кемпінг",
+"uk": "кемпінг",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "reservation",
+"asked": "резервація",
+"uk": "резервування",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "reception",
+"asked": "рецепція",
+"uk": "рецепція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "card",
+"asked": "картка",
+"uk": "картка",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "inflation",
+"asked": "інфляція",
+"uk": "інфляція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "packet",
+"asked": "пакет",
+"uk": "пакет",
+"ok": false,
+"k": "~",
+"why": "пакет is a bag; packet is a small pack (a packet of crisps)",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "tablet",
+"asked": "таблетка",
+"uk": "таблетка",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "tablet is also планшет",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "capsule",
+"asked": "капсула",
+"uk": "капсула",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "injection",
+"asked": "ін'єкція",
+"uk": "ін'єкція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bandage",
+"asked": "бандаж",
+"uk": "бандаж",
+"ok": false,
+"k": "~",
+"why": "bandage = бинт; бандаж is a support brace",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "programmer",
+"asked": "програміст",
+"uk": "програміст",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "electrician",
+"asked": "електрик",
+"uk": "електрик",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "energetic",
+"asked": "енергійний",
+"uk": "енергійний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "talented",
+"asked": "талановитий",
+"uk": "талановитий",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "professional",
+"asked": "професійний",
+"uk": "професійний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "ideal",
+"asked": "ідеальний",
+"uk": "ідеальний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "passive",
+"asked": "пасивний",
+"uk": "пасивний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "negative",
+"asked": "негативний",
+"uk": "негативний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "sentimental",
+"asked": "сентиментальний",
+"uk": "сентиментальний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "intellectual",
+"asked": "інтелектуальний",
+"uk": "інтелектуальний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "tactful",
+"asked": "тактовний",
+"uk": "тактовний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "charismatic",
+"asked": "харизматичний",
+"uk": "харизматичний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "egoistic",
+"asked": "егоїстичний",
+"uk": "егоїстичний",
+"ok": false,
+"k": "~",
+"why": "people say selfish",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "intuition",
+"asked": "інтуїція",
+"uk": "інтуїція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "complex",
+"asked": "комплекс",
+"uk": "комплекс",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "fantasy",
+"asked": "фантазія",
+"uk": "фантазія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "fantasy is also a genre (фентезі)",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "finish",
+"asked": "фініш",
+"uk": "фініш",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "record",
+"asked": "рекорд",
+"uk": "рекорд",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "penalty",
+"asked": "пенальті",
+"uk": "пенальті",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "aerobics",
+"asked": "аеробіка",
+"uk": "аеробіка",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "hit",
+"asked": "хіт",
+"uk": "хіт",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "pop",
+"asked": "поп",
+"uk": "поп",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "disco",
+"asked": "диско",
+"uk": "диско",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "series",
+"asked": "серіал",
+"uk": "серіал",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "animation",
+"asked": "анімація",
+"uk": "анімація",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "Oscar",
+"asked": "Оскар",
+"uk": "Оскар",
+"ok": false,
+"k": "~",
+"why": "a name",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "comment",
+"asked": "коментар",
+"uk": "коментар",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "stream",
+"asked": "стрім",
+"uk": "стрім",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "colloquial in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "SIM card",
+"asked": "сім-карта",
+"uk": "сім-карта",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "installation",
+"asked": "інсталяція",
+"uk": "інсталяція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "origami",
+"asked": "орігамі",
+"uk": "орігамі",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "antelope",
+"asked": "антилопа",
+"uk": "антилопа",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "palm",
+"asked": "пальма",
+"uk": "пальма",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "say \"palm tree\"; palm is also долоня",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "volcano",
+"asked": "вулкан",
+"uk": "вулкан",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "second",
+"asked": "секунда",
+"uk": "секунда",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "second is also другий",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "jubilee",
+"asked": "ювілей",
+"uk": "ювілей",
+"ok": false,
+"k": "~",
+"why": "ювілей = anniversary; jubilee is a royal anniversary",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "decoration",
+"asked": "декорація",
+"uk": "декорація",
+"ok": false,
+"k": "~",
+"why": "декорація = stage set; decoration = прикраса",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "harmony",
+"asked": "гармонія",
+"uk": "гармонія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "final",
+"asked": "фінальний",
+"uk": "фінальний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "department",
+"asked": "департамент",
+"uk": "департамент",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "department = відділ",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "faculty",
+"asked": "факультет",
+"uk": "факультет",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "activity",
+"asked": "активність",
+"uk": "активність",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "activity is also заняття, діяльність",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "neutrality",
+"asked": "нейтралітет",
+"uk": "нейтралітет",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "mobility",
+"asked": "мобільність",
+"uk": "мобільність",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "nationality",
+"asked": "національність",
+"uk": "національність",
+"ok": false,
+"k": "~",
+"why": "nationality on forms means citizenship",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "specialty",
+"asked": "спеціальність",
+"uk": "спеціальність",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "organizer",
+"asked": "органайзер",
+"uk": "органайзер",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "variant",
+"asked": "варіант",
+"uk": "варіант",
+"ok": false,
+"k": "~",
+"why": "варіант = option or version; variant is narrow (a virus variant)",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "absurd",
+"asked": "абсурд",
+"uk": "абсурд",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "original",
+"asked": "оригінал",
+"uk": "оригінал",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bureaucracy",
+"asked": "бюрократія",
+"uk": "бюрократія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "stamp",
+"asked": "штамп",
+"uk": "штамп",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "holding",
+"asked": "холдинг",
+"uk": "холдинг",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "logo",
+"asked": "логотип",
+"uk": "логотип",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "image",
+"asked": "імідж",
+"uk": "імідж",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "image is also зображення",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bankrupt",
+"asked": "банкрут",
+"uk": "банкрут",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "stabilization",
+"asked": "стабілізація",
+"uk": "стабілізація",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "devaluation",
+"asked": "девальвація",
+"uk": "девальвація",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "sanction",
+"asked": "санкція",
+"uk": "санкція",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "recession",
+"asked": "рецесія",
+"uk": "рецесія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "automation",
+"asked": "автоматизація",
+"uk": "автоматизація",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "crane",
+"asked": "кран",
+"uk": "кран",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "a building crane; кран з водою = tap, faucet",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "pallet",
+"asked": "палета",
+"uk": "палета",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "press",
+"asked": "прес",
+"uk": "прес",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "viscose",
+"asked": "віскоза",
+"uk": "віскоза",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "porcelain",
+"asked": "порцеляна",
+"uk": "порцеляна",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "marble",
+"asked": "мармур",
+"uk": "мармур",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "carton",
+"asked": "картон",
+"uk": "картон",
+"ok": false,
+"k": "~",
+"why": "картон = cardboard; a carton is a pack of milk or juice",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "express",
+"asked": "експрес",
+"uk": "експрес",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bachelor",
+"asked": "бакалавр",
+"uk": "бакалавр",
+"ok": false,
+"k": "~",
+"why": "does not sound alike; bachelor also means an unmarried man",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "stipend",
+"asked": "стипендія",
+"uk": "стипендія",
+"ok": false,
+"k": "~",
+"why": "people say scholarship or grant",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "grammar",
+"asked": "граматика",
+"uk": "граматика",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "alphabet",
+"asked": "алфавіт",
+"uk": "алфавіт",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "abbreviation",
+"asked": "абревіатура",
+"uk": "абревіатура",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "organize",
+"asked": "організувати",
+"uk": "організувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "plan",
+"asked": "планувати",
+"uk": "планувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "control",
+"asked": "контролювати",
+"uk": "контролювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "control = керувати; to check = перевірити",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "test",
+"asked": "тестувати",
+"uk": "тестувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "start",
+"asked": "стартувати",
+"uk": "стартувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "finance",
+"asked": "фінансувати",
+"uk": "фінансувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "export",
+"asked": "експортувати",
+"uk": "експортувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "import",
+"asked": "імпортувати",
+"uk": "імпортувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "register",
+"asked": "реєструвати",
+"uk": "реєструвати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "guarantee",
+"asked": "гарантувати",
+"uk": "гарантувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "risk",
+"asked": "ризикувати",
+"uk": "ризикувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "consult",
+"asked": "консультувати",
+"uk": "консультуватися",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "present",
+"asked": "презентувати",
+"uk": "презентувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "coordinate",
+"asked": "координувати",
+"uk": "координувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "finish",
+"asked": "фінішувати",
+"uk": "фінішувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "transport",
+"asked": "транспортувати",
+"uk": "транспортувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "construct",
+"asked": "конструювати",
+"uk": "конструювати",
+"ok": false,
+"k": "~",
+"why": "construct = build; конструювати = design",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "model",
+"asked": "моделювати",
+"uk": "моделювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "modernize",
+"asked": "модернізувати",
+"uk": "модернізувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "optimize",
+"asked": "оптимізувати",
+"uk": "оптимізувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "automate",
+"asked": "автоматизувати",
+"uk": "автоматизувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "reform",
+"asked": "реформувати",
+"uk": "реформувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "compensate",
+"asked": "компенсувати",
+"uk": "компенсувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "sponsor",
+"asked": "спонсорувати",
+"uk": "спонсорувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "instruct",
+"asked": "інструктувати",
+"uk": "інструктувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "train",
+"asked": "тренувати",
+"uk": "тренувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "motivate",
+"asked": "мотивувати",
+"uk": "мотивувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "delegate",
+"asked": "делегувати",
+"uk": "делегувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "focus",
+"asked": "фокусуватися",
+"uk": "фокусуватися",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "concentrate",
+"asked": "концентруватися",
+"uk": "концентруватися",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "specialize",
+"asked": "спеціалізуватися",
+"uk": "спеціалізуватися",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "practice",
+"asked": "практикувати",
+"uk": "практикувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "experiment",
+"asked": "експериментувати",
+"uk": "експериментувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "combine",
+"asked": "комбінувати",
+"uk": "комбінувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "adapt",
+"asked": "адаптувати",
+"uk": "адаптувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "correct",
+"asked": "коригувати",
+"uk": "коригувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "regulate",
+"asked": "регулювати",
+"uk": "регулювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "stabilize",
+"asked": "стабілізувати",
+"uk": "стабілізувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "activate",
+"asked": "активувати",
+"uk": "активувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "block",
+"asked": "блокувати",
+"uk": "блокувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "comment",
+"asked": "коментувати",
+"uk": "коментувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "discuss",
+"asked": "дискутувати",
+"uk": "дискутувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "ignore",
+"asked": "ігнорувати",
+"uk": "ігнорувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "protest",
+"asked": "протестувати",
+"uk": "протестувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "provoke",
+"asked": "провокувати",
+"uk": "провокувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "telephone",
+"asked": "телефонувати",
+"uk": "телефонувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "people usually say call or phone",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "formulate",
+"asked": "формулювати",
+"uk": "формулювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "publish",
+"asked": "публікувати",
+"uk": "публікувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "flirt",
+"asked": "фліртувати",
+"uk": "фліртувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "panic",
+"asked": "панікувати",
+"uk": "панікувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "cite",
+"asked": "цитувати",
+"uk": "цитувати",
+"ok": false,
+"k": "~",
+"why": "does not sound alike (cite = \"sait\"); people say quote",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "interpret",
+"asked": "інтерпретувати",
+"uk": "інтерпретувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "illustrate",
+"asked": "ілюструвати",
+"uk": "ілюструвати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "imitate",
+"asked": "імітувати",
+"uk": "імітувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "declare",
+"asked": "декларувати",
+"uk": "декларувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "propose",
+"asked": "пропонувати",
+"uk": "пропонувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "formal; everyday: suggest, offer",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "relax",
+"asked": "релаксувати",
+"uk": "релаксувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "colloquial in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "improvise",
+"asked": "імпровізувати",
+"uk": "імпровізувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "exaggerate",
+"asked": "утрирувати",
+"uk": "утрирувати",
+"ok": false,
+"k": "~",
+"why": "does not sound alike",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "argue",
+"asked": "аргументувати",
+"uk": "аргументувати",
+"ok": false,
+"k": "~",
+"why": "argue = сперечатися",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "copy",
+"asked": "копіювати",
+"uk": "копіювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "scan",
+"asked": "сканувати",
+"uk": "сканувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "format",
+"asked": "форматувати",
+"uk": "форматувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "install",
+"asked": "інсталювати",
+"uk": "інсталювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "program",
+"asked": "програмувати",
+"uk": "програмувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "filter",
+"asked": "фільтрувати",
+"uk": "фільтрувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "sort",
+"asked": "сортувати",
+"uk": "сортувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "archive",
+"asked": "архівувати",
+"uk": "архівувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "click",
+"asked": "клікати",
+"uk": "клікати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "photograph",
+"asked": "фотографувати",
+"uk": "фотографувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "people usually say take a photo",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "park",
+"asked": "паркувати",
+"uk": "паркувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "pack",
+"asked": "пакувати",
+"uk": "пакувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "dance",
+"asked": "танцювати",
+"uk": "танцювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "massage",
+"asked": "масажувати",
+"uk": "масажувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "decorate",
+"asked": "декорувати",
+"uk": "декорувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "group",
+"asked": "групувати",
+"uk": "групувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "film",
+"asked": "фільмувати",
+"uk": "фільмувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "marinate",
+"asked": "маринувати",
+"uk": "маринувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "march",
+"asked": "марширувати",
+"uk": "марширувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "operate",
+"asked": "оперувати",
+"uk": "оперувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "diagnose",
+"asked": "діагностувати",
+"uk": "діагностувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "vaccinate",
+"asked": "вакцинувати",
+"uk": "вакцинувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "disinfect",
+"asked": "дезінфікувати",
+"uk": "дезінфікувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "ventilate",
+"asked": "вентилювати",
+"uk": "вентилювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "restore",
+"asked": "реставрувати",
+"uk": "реставрувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "isolate",
+"asked": "ізолювати",
+"uk": "ізолювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "evacuate",
+"asked": "евакуювати",
+"uk": "евакуювати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "mobilize",
+"asked": "мобілізувати",
+"uk": "мобілізувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "pilot",
+"asked": "пілотувати",
+"uk": "пілотувати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "blog",
+"asked": "блогити",
+"uk": "блогити",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "slang in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "post",
+"asked": "постити",
+"uk": "постити",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "slang in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "like",
+"asked": "лайкати",
+"uk": "лайкати",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "slang in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "google",
+"asked": "гуглити",
+"uk": "гуглити",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "slang in Ukrainian",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "standard",
+"asked": "стандартний",
+"uk": "стандартний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "classic",
+"asked": "класичний",
+"uk": "класичний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "international",
+"asked": "інтернаціональний",
+"uk": "інтернаціональний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "= міжнародний",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "neutral",
+"asked": "нейтральний",
+"uk": "нейтральний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "absolute",
+"asked": "абсолютний",
+"uk": "абсолютний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "concrete",
+"asked": "конкретний",
+"uk": "конкретний",
+"ok": false,
+"k": "~",
+"why": "конкретний is usually specific (a specific model); concrete fits only in \"a concrete example\"",
+"note": "concrete is also бетон",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "exotic",
+"asked": "екзотичний",
+"uk": "екзотичний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "comfortable",
+"asked": "комфортний",
+"uk": "комфортний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "public",
+"asked": "публічний",
+"uk": "публічний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "alternative",
+"asked": "альтернативний",
+"uk": "альтернативний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "extreme",
+"asked": "екстремальний",
+"uk": "екстремальний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "modern",
+"asked": "модерний",
+"uk": "модерний",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "= сучасний",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "tolerance",
+"asked": "толерантність",
+"uk": "толерантність",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "general",
+"asked": "генерал",
+"uk": "генерал",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "front",
+"asked": "фронт",
+"uk": "фронт",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "major",
+"asked": "майор",
+"uk": "майор",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "commander",
+"asked": "командир",
+"uk": "командир",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "division",
+"asked": "дивізія",
+"uk": "дивізія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "occupation",
+"asked": "окупація",
+"uk": "окупація",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "expertise",
+"asked": "експертиза",
+"uk": "експертиза",
+"ok": false,
+"k": "~",
+"why": "expertise = expert knowledge; експертиза = examination",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "code",
+"asked": "кодекс",
+"uk": "кодекс",
+"ok": false,
+"k": "~",
+"why": "the usual pair is code = код",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "hypothesis",
+"asked": "гіпотеза",
+"uk": "гіпотеза",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bacteria",
+"asked": "бактерія",
+"uk": "бактерія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "bacteria is plural: one bacterium",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "satellite",
+"asked": "сателіт",
+"uk": "сателіт",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "= супутник",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "surgeon",
+"asked": "хірург",
+"uk": "хірург",
+"ok": false,
+"k": "~",
+"why": "does not sound alike",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "ornament",
+"asked": "орнамент",
+"uk": "орнамент",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "mosaic",
+"asked": "мозаїка",
+"uk": "мозаїка",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "palette",
+"asked": "палітра",
+"uk": "палітра",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "exposition",
+"asked": "експозиція",
+"uk": "експозиція",
+"ok": false,
+"k": "~",
+"why": "people say exhibition",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "bible",
+"asked": "біблія",
+"uk": "біблія",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "hymn",
+"asked": "гімн",
+"uk": "гімн",
+"ok": false,
+"k": "~",
+"why": "hymn is a church song; a national гімн is an anthem",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "relief",
+"asked": "рельєф",
+"uk": "рельєф",
+"ok": false,
+"k": "~",
+"why": "relief usually means полегшення",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "pole",
+"asked": "полюс",
+"uk": "полюс",
+"ok": true,
+"k": "~",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "like",
+"asked": "лайк",
+"uk": "лайк",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "level",
+"asked": "левел",
+"uk": "левел",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+},
+{
+"en": "challenge",
+"asked": "челендж",
+"uk": "челендж",
+"ok": true,
+"k": "=",
+"why": "",
+"note": "",
+"by": "author check, 12 Nov 2026"
+}
+]
